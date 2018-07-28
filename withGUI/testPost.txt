@@ -1,0 +1,117 @@
+test post = 1774
+
+title:
+'Onderwerpen waarover niemand durfde te praten, lagen door mijn film plots in elke keuken op tafel'|
+
+summary:
+artikelEen film waarin Palestijnse vrouwen roken, drinken en lesbisch zijn: dat kwam de regisseur op een fatwa te staan. Die woede, daar was Maysaloun Hamoud nou precies op uit.artikelEen film waarin Palestijnse vrouwen roken, drinken en lesbisch zijn: dat kwam de regisseur op een fatwa te staan. Die woede, daar was Maysaloun Hamoud nou precies op uit.|
+
+message:
+Door haar filmdebuut werd een fatwa over regisseur Maysaloun Hamoud (35) uitgesproken, de eerste in Palestina sinds 1948. Precies op die woede was ze uit: 'Ik heb onze samenleving een spiegel voorgehouden. Onderwerpen waarover niemand durfde te praten, lagen door mijn film plots in elke keuken op tafel.'|
+
+
+-----
+						Expected 	Predicted
+topicNr					27			72		
+topic 					JUSTICE/LAW	OTHER			
+Total Reactions 		460			495
+Reactions per class
+				LIKE	407			85
+				LOVE	44			7
+				HAHA	7			6
+				WOW		0			2
+				SAD		0			0
+				ANGRY	2			2	
+Entropy 				0.26104875	0.407993819596
+Controversial level		low			low
+
+
+++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++
+
+test post = 1851
+
+title:
+Kalender waarmee gevangenen oude moordzaken helpen oplossen, is 'doorslaand succes'
+
+summary:
+Een huis van bewaring is ook een kenniscentrum. Daarom verspreidt de politie daar haar coldcasekalender. Die van 2017 leverde veel tips op.
+
+message:
+Gevangenen bezitten twee zaken in overvloed: tijd Ã‡Â¸n kennis over door anderen gepleegde strafbare feiten. En dus krijgen gevangen in de VS kaartspellen met onopgeloste moordzaken (tientallen moorden werden opgelost). Nederland kiest voor een 'coldcasekalender', Ã‡Â¸n met succes:
+
+
+-----
+						Expected 	Predicted
+topicNr					27			72
+topic 					JUSTICE/LAW	OTHER			
+Total Reactions 		57			362
+Reactions per class
+				LIKE	55			80
+				LOVE	0			4
+				HAHA	2			3
+				WOW		0			1
+				SAD		0			0
+				ANGRY	0			1	
+Entropy 				0.094446209	0.279848499302
+Controversial level		low			low
+
+
+++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++
+
+test post = 1819
+
+title:
+Half Nederland slikt pilletjes voor de zekerheid: hoe verstandig is dat?
+
+summary:
+artikelHalf Nederland slikt vitaminepillen of andere voedingssupplementen. Van het Voedingscentrum hoeft het meestal niet en de wetenschap biedt weinig houvast - al is wel zeker dat het veelgehoorde 'baat het niet, schaadt het niet' niet altijd opgaat.
+
+message:
+Denk jij dat je je gezond slikt met vitaminepillen? Onze liefde voor voedingssupplementen is goed te vergelijken met de Nederlandse neiging tot oververzekeren. Maar baat het niet, schaadt het niet toch? Fout, Sven Kramer miste er een schaatsseizoen door.
+
+-----
+						Expected 			Predicted
+topicNr					65					72
+topic 					ILLNESS				OTHER
+Total Reactions 		200					343
+Reactions per class			
+				LIKE	183					86	
+				LOVE	0					2
+				HAHA	10					2
+				WOW		6					6
+				SAD		0					0
+				ANGRY	0					0
+Entropy 				0.20686796001310387	0.324217319535
+Controversial level		low					low
+
+
+++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++
+
+test post = 1568
+
+title:
+Ik wil niet dat mijn man gemasseerd wordt door een vrouw - wat zou u doen?
+
+summary:
+artikelLezers vragen andere lezers om raad bij problemen en dilemma's.
+
+message:
+'Mijn man heeft sinds kort een nieuwe masseuse, maar heeft me daar niet over ingelicht. Dat vind ik stiekem.' Wat zou u doen? Lees hier wat andere lezers deze vrouw adviseren.
+
+-----
+						Expected 			Predicted
+topicNr					86					72
+topic 					OTHER				OTHER
+Total Reactions 		47					97
+Reactions per class			
+				LIKE	23					79	
+				LOVE	1					2
+				HAHA	1					1
+				WOW		20					6
+				SAD		0					0
+				ANGRY	1					1
+Entropy 				0.5954886412645019	0.294368981971
+Controversial level		high				low
