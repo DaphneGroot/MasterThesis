@@ -1,0 +1,3 @@
+Beeld (wiskunde).
+Het beeld van deze functie is de verzameling.
+Als men spreekt over 'het beeld' van een functie of afbeelding, bedoelt men eigenlijk het bereik van die functie of afbeelding. Het bereik is het beeld van een functie of afbeelding van haar hele domein, dus (X = A).

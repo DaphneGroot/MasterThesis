@@ -1,0 +1,7 @@
+Fluorescentiemicroscopie.
+Endotheelcellen uit een longslagader van een rund. De celkernen zijn blauwgekleurd met
+DAPI; microtubuli zijn groengekleurd met FITC; actinefilamenten zijn roodgekleurd met TRITC
+Resolutie tot 14 nm, waar de beste klassieke microscopen tot 250 nm gaan.
+Fluorescentiemicroscopie is een techniek die in biologisch en medisch onderzoek wordt gebruikt waarbij fluorescerende kleurstoffen worden gebruikt die oplichten als ze worden bestraald met licht van een kortere golflengte.
+De meeste vormen van fluorescentiemicroscopie maken gebruik van sera van kunstmatig geproduceerde antistoffen. De methode wordt dan ook wel immunofluorescentie-, ofwel IF-microscopie genoemd. Deze zijn afkomstig van bijvoorbeeld muizen of ratten, en zijn specifiek gericht tegen een bepaald, bekend eiwit. Als het serum wordt toegevoegd aan een weefsel, zullen de antistoffen binden aan het doeleiwit. Niet-gebonden antistoffen worden weggewassen. De antistoffen zijn voorzien van een fluorescente kleurstof, en daarmee worden ze microscopisch zichtbaar. Er worden polyklonale en monoklonale sera onderscheiden. Monoklonale antistoffen zijn allemaal precies identiek (omdat ze afkomstig zijn van 1 unieke kloon van afweercellen), terwijl polyklonale antistoffen verschillende onderdelen van het eiwit kunnen herkennen.
+In 2014 werd de Nobelprijs voor Scheikunde toegekend aan de Duitser Stefan Hell en de Amerikanen Eric Betzig en William Moerner voor "de ontwikkeling van superresolutie-fluorescentiemicroscopie".

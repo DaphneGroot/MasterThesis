@@ -1,0 +1,8 @@
+Hygrometer.
+Verbeterde haarhygrometer van Monnier, "b" is een slapgespannen metalen veer
+Een hygrometer is een instrument om vochtigheid van de lucht te meten. In zijn eenvoudigste vorm bestaat een hygrometer uit twee gewone thermometers, waarvan er van één continu het bolletje wordt natgehouden. Door verdamping van vocht vanaf het bolletje wordt die thermometer afgekoeld tot het dauwpunt (deze temperatuur wordt ook wel de natteboltemperatuur genoemd). Door aflezing van beide thermometers kan uit een tabel de luchtvochtigheid worden bepaald. Dit type wordt ook wel "psychrometer" genoemd.
+Er zijn verschillende andere typen hygrometer. Een veelgebruikt huis-tuin-en-keukentype gebruikt een menselijke of dierlijke haar onder spanning om de vochtigheid te meten (zie afbeeldingen). Een nadeel bij dit soort hygrometers is dat de lengteverandering van haar niet lineair toeneemt bij de toenemende vochtigheidsgraad, waardoor er een extra tabel nodig is om de lengte om te rekenen naar de bijbehorende relatieve vochtigheid.
+Ook modernere, elektronische varianten worden gebruikt. Deze gebruiken vaak halfgeleiderkristallen waarvan de geleiding afhangt van de luchtvochtigheid.
+Hygrometers zijn belangrijke meetinstrumenten in musea, broeikassen en sauna's, maar ook in huis wanneer een planken vloer of een piano in goede conditie moeten worden gehouden is het belangrijk de luchtvochtigheid goed in de gaten te houden.
+Sommige hygrometers geven niet alleen een momentane waarde van de luchtvochtigheid, maar kunnen ook op papier een historische waarde bijhouden. Zulke instrumenten worden ook hygrograaf genoemd.
+Een weerhuisje is een eenvoudig soort hygrometer.

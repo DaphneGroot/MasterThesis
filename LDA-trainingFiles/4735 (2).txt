@@ -1,0 +1,5 @@
+Natuurkundige constante.
+In de wetenschap is een natuurkundige constante een fysische grootheid waarvan de waarde niet verandert. Dit in tegenstelling tot andere fysische grootheden, zoals de variabelen temperatuur, druk, elektrische veldsterkte, die in tijd en plaats kunnen variëren.
+Een natuurkundige constante is dimensieloos of heeft een 'dimensie', dat wil zeggen zij wordt uitgedrukt in een of meer fysische grootheden. Zo stelt de Plancklengte een afstand voor en is de lichtsnelheid in vacuüm een verhouding tussen een afstand en de tijd die licht nodig heeft om die afstand af te leggen.
+Overzicht van natuurkundige constanten.
+NB: "de datum in de kolom "Bron" refereert aan de laatste datum dat deze referentie gecontroleerd is."

@@ -1,0 +1,13 @@
+Vrije software en opensourcesoftware.
+Vrije software en opensourcesoftware (Engels: "free and open-source software", afgekort FOSS of F/OSS), de verzamelterm voor vrije software en opensourcesoftware, is software waarvan de licentie aan gebruikers het recht geeft om de software naar eigen inzicht te gebruiken, aan te passen, te verbeteren en de broncode inclusief aanpassingen te verspreiden doordat de broncode volledig vrij beschikbaar is. De Engelse term "free and open-source software" bevat het woord "free" (vrijheid). Om verwarring te voorkomen (het Engels heeft namelijk meerdere betekenissen voor "free") wordt soms de term FLOSS gebruikt, waarbij de 'L' staat voor "Libre" (Frans voor "vrij"). Het benadrukt nog eens dat het bij vrije software draait om vrijheden en niet zozeer om kosten.
+Vrijheden.
+Vrijheden 1 en 3 vereisen de broncode om openbaar te zijn. Programma's bestuderen en veranderen zonder de broncode daarvan is zeer onpraktisch.
+Voorbeelden.
+Voorbeelden van bekende vrije- en opensourcesoftware zijn de Linuxkernel, GNOME en FreeBSD.
+Licenties.
+De bekendste en meest gebruikte vrije en opensourcelicenties zijn de GPL, LGPL, BSD-licentie, Apache License, MIT-licentie en de MPL.
+Bovengenoemde licenties voldoen aan de criteria van de Open Source Definition (OSD) (ontwikkeld door het OSI), de Free Software Definition (FSD) (ontwikkeld door de FSF) en de Debian Free Software Guidelines (DFSG) (ontwikkeld door het Debian-team).
+Verschillen tussen vrije software en opensourcesoftware.
+Vrije software refereert aan de voorwaarden waaronder bepaalde computerprogrammatuur verspreid mag worden, opensourcesoftware verwijst daarentegen naar de mogelijkheden die bepaalde computerprogramma's aan een programmeur bieden om ze te bestuderen en te wijzigen.
+In de praktijk worden vrijwel alle opensourceprogramma's verspreid onder voorwaarden die het tot vrije software maken. Tevens is alle vrije software per definitie opensourcesoftware: het vrijgeven van de broncode van een programma is een van de eisen die aan vrije software wordt gesteld in gangbare definities ervan, hetzij impliciet zoals in de "Free Software Definition", hetzij expliciet zoals in de Debianrichtlijnen voor vrije software.
+Voorvechters van vrije software benadrukken de juridische kant, omdat ze er waarde aan hechten dat belangrijke software voor iedereen vrij te gebruiken, kopiëren en aan te passen is. Opensourceaanhangers daarentegen vinden dat de kwaliteit van de software voorop staat en dat de kwaliteit het best gediend is met peer review.

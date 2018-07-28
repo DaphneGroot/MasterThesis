@@ -1,0 +1,14 @@
+Glare.
+Glare wordt op grote schaal toegepast in de Airbus A380
+Glare (oftewel GLAss REinforced aluminum) is een composietmateriaal uitgevonden door de Delftse hoogleraar prof.ir. Boud Vogelesang en dr. Geert Roebroeks. Het wordt onder meer door Fokker gebruikt in vliegtuigrompen van Airbus-toestellen.
+Opbouw.
+Glare is materiaal geconstrueerd uit laagjes aluminium met een dikte van 0,3 en/of 0,4 millimeter. Deze laagjes worden ontvet, gebeitst, geanodiseerd, van primer voorzien en dan afwisselend gestapeld met glasvezelweefsels die geïmpregneerd zijn met kunststofhars (zogenaamde "prepregs" ofwel "pre impregnated" vezels). Door dit pakket uit te harden in een autoclaaf ontstaat het uiteindelijke glare.
+Het resulterende materiaal heeft een iets lagere dichtheid dan aluminium en is ongeveer anderhalf maal zo sterk als staal.
+Ontwikkeling.
+Glare is qua constructie afgeleid van arall, een ouder materiaal waarin lagen aluminium aan elkaar werden gelijmd met behulp van geïmpregneerde aramidevezels. Vogelesang en Roebroeks ontwikkelden daaruit glare door de voorgespannen aramide te vervangen door niet-gespannen glas. Nauw betrokken bij de verdere ontwikkeling was de latere Delftse hoogleraar Ad Vlot die ook de geschiedenis van glare beschreef.
+Eigenschappen.
+Glare bezit een aantal bijzondere eigenschappen. De belangrijkste hiervan is de weerstand van het materiaal tegen vermoeiing. Deze eigenschap is gebaseerd op de toepassing van glasvezellagen in het materiaal, die op trek staan. Ontstaat er een vermoeiingsscheurtje, dan zorgen de glasvezellagen ervoor dat het scheurtje niet verder uitscheurt.
+Belangrijk daarnaast is dat deze inkapseling in meerdere richtingen tegelijk werkt. Hierdoor kan glare weerstand bieden aan vermoeiing in meerdere richtingen, wat het uitermate geschikt maakt voor gebruik in vliegtuigrompen: de romp van een vliegtuig ondergaat tijdens de vlucht krachten in twee richtingen die loodrecht op elkaar staan.
+De dichtheid van glare is 2500 kg/m³. De elasticiteitsmodulus is 58,3 GPa.
+Verdere ontwikkeling.
+Fokker ontwikkelt varianten van glare, toegespitst op verschillende toepassingen binnen vliegtuigen (te denken valt aan een glare met goede weerstand tegen schuifspanningen en impactweerstand). Hiermee hoopt Stork uiteindelijk glare voor het gehele vliegtuig te kunnen leveren. Het eerste vliegtuig waar glare op grote schaal is toegepast, is de Airbus A380, het grootste passagiersvliegtuig ter wereld.

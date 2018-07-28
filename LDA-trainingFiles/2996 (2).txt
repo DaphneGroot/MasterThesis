@@ -1,0 +1,20 @@
+Halveringstijd.
+De halveringstijd of halfwaardetijd ("t"1/2) is in de scheikunde en kernfysica de tijd waarna van een oorspronkelijke hoeveelheid stof nog precies de helft over is. In de kernfysica geeft de vervaltijd aan wat de tijd is die een instabiel en exponentieel vervallend deeltje nodig heeft om respectievelijk tot de helft en een deel 1/e van zijn activiteit of straling te komen. Maar ook in chemische reacties kan van halveringstijden sprake zijn, mits zij kinetisch een eerste-ordeproces volgen. Bij reacties van hogere orde is de halfwaardetijd niet constant. In de medische wetenschappen is de halfwaardetijd van lichaamsvreemde stoffen (zoals geneesmiddelen) een belangrijk gegeven. Een verwant begrip is de vervalconstante.
+Halveringstijd.
+waarin "N(t)" bijvoorbeeld het verloop van de concentratie van een stof in de tijd weergeeft en "N0" de waarde op het tijdstip "t = 0" is. Het tegenovergestelde van exponentieel verval is exponentiële groei.
+Bij onder andere uiteenvallende atoomkernen gebruikt men de halveringstijd of halfwaardetijd om de stabiliteit aan te geven: stabiele kernen van laag radioactieve stoffen hebben een lange halfwaardetijd terwijl instabiele kernen van hoog radioactieve stoffen een korte halfwaardetijd hebben. Halveringstijden zijn te vinden in tabellen voor het verval van radio-actieve isotopen van atomen maar bijvoorbeeld ook in tabellen die het verloop van de bloedspiegels van medicijnconcentraties of de snelheid van bepaalde chemische reacties weergeven.
+Vervaltijd.
+Halveringstijd (15 seconde) en vervaltijd (21,6 seconde) bij een exponentieel vervalproces.
+Bij kleinere instabiele subatomaire deeltjes gebruikt men meestal de vervaltijd of 1/"e"–tijd of gemiddelde levensduur. Dit is de tijd waarna er nog over is. Als symbool hanteert men meestal (de Griekse letter "tau").
+De vervaltijd is maal zo lang als de halveringstijd:.
+Zo heeft bijvoorbeeld een vrij neutron een halveringstijd van ruim 10 minuten en een vervaltijd van bijna 15 minuten.
+Gebruik.
+Men gebruikt de term halveringstijd bijvoorbeeld om de snelheid van radioactief verval van een radio-isotoop aan te geven. Voorbeeld: tritium (3H) is een instabiel isotoop van waterstof. Tritium-atomen kunnen onder uitstraling van een elektron (men spreekt van β-verval of bètaverval) overgaan in helium (3He). Dit is een toevalsproces, met andere woorden voor een enkel atoom is niet te voorspellen wanneer deze omzetting plaats zal vinden. Voor grote aantallen atomen kan men wel een statistische voorspelling doen over de omzettingssnelheid. Men drukt dit uit als de halveringstijd.
+Afleiding van het exponentiële verval.
+waarin formula_7
+Hiermee is het bovenstaande verband tussen halveringstijd en gemiddelde levensduur verduidelijkt.
+Vervalconstante.
+Dit is van de nog niet vervallen atoomkernen de fractie die per seconde vervalt; vermenigvuldigd met het aantal nog niet vervallen atoomkernen is dit het aantal becquerel (Bq).
+Voorbeeld: bij een halfwaardetijd van een jaar is de vervalconstante 2,2 × 10-8 s-1, vermenigvuldigd met het getal van Avogadro geeft dit 13 PBq/mol.
+Ander gebruik van 1/e-tijd.
+Een ander geval waarin een 1/"e"-tijd gebruikt wordt, is het leeglopen van een elektrische condensator met capaciteit "C" via een draad met weerstand "R". De lading op de condensator neemt exponentieel af. Na een tijd τ = "RC" (de vervaltijd of RC-tijd) is er nog 36,8% (1/"e"-de deel) van de lading over.

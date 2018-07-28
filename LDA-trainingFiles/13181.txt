@@ -1,0 +1,8 @@
+Baryongetal.
+Baryongetal is het aantal baryonen minus het aantal antibaryonen.
+Het baryongetal is een behouden grootheid. Als twee protonen botsen bij hoge energieën kan dat leiden tot bijvoorbeeld drie protonen en een anti-proton (baryongetal blijft twee) maar nooit tot twee protonen en een neutron (baryongetal twee gaat over in baryongetal drie). Het baryongetal vóór en ná de reactie blijft gelijk.
+Omdat baryonen bestaan uit drie quarks kan worden gesteld dat het baryongetal voor een quark 1/3 is. Voor een antiquark is dat -1/3.
+Mesonen hebben een baryongetal van 0, omdat ze bestaan uit een quark en een anti-quark.
+Er is nog nooit waargenomen dat het baryongetal verandert. Als het lichtste baryon, het proton, vervalt, dan betekent dit, dat het baryongetal kan veranderen. De halveringstijd van het proton is in ieder geval langer dan 1032 jaar. Ter vergelijking: de leeftijd van het heelal is op een procent na 1,37×1010 jaar.
+Het baryongetal van het heelal wordt geschat op 1078.
+Het behoud van het baryongetal werd in 1938 door Ernest Stueckelberg voorgesteld als grootheid die bij deeltjesinteracties altijd behouden blijft. Dit verklaart waardoor het proton niet kan vervallen.

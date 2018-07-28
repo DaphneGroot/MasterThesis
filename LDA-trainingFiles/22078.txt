@@ -1,0 +1,4 @@
+Picture Transfer Protocol.
+PTP of Picture Transfer Protocol is een protocol om digitale camera's en computers onder andere via USB te laten communiceren.
+Voor fabrikanten heeft het als voordeel dat ze niet zelf het wiel opnieuw hoeven uit te vinden. Voor gebruikers betekent het dat een camera "gewoon" werkt en dat er niet allerlei specifieke software geïnstalleerd hoeft te worden.
+Het PTP zit standaard in Windows XP en het vrije gPhoto heeft ook ondersteuning voor PTP. De PictBridge-standaard (standaard voor het koppelen van een digitale camera aan een printer zonder tussenkomst van een computer) maakt eveneens gebruik van PTP.

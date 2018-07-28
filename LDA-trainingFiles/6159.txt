@@ -1,0 +1,21 @@
+ASCII (tekenset).
+ASCII ("American Standard Code for Information Interchange"), ook US-ASCII en ANSI_X3.4-1968 genoemd, is een standaard 7-bits tekencodering om Latijnse letters, cijfers, leestekens en enkele andere tekens en stuurcodes te representeren en aan ieder teken in die reeks een geheel getal te koppelen, waarmee dat teken kan worden aangeduid. De code werd ontworpen door een commissie met o.a. Hugh McGregor Ross en Bob Bemer.
+De 95 afdrukbare (zwarte) ASCII-tekens octaal 040-176 (32-126 decimaal)Stuurcodes zijn blauw onderstreept
+Standaard-ASCII.
+De standaard ASCII-tabel (later ook wel ASCII-I
+genoemd) bestaat uit de 94 zichtbare tekens (hoofdletters en kleine letters, cijfers, leestekens en enkele andere symbolen), de spatie, en 33 "stuurcodes". De stuurcodes representeren geen zichtbare tekens, maar zijn opdrachten aan uitvoerapparaten of geven informatie over de gegevens die verstuurd worden.
+Van de stuurcodes komen met name carriage return en/of linefeed in vrijwel elke platte tekst voor.
+Sommige stuurcodes herinneren er nog aan dat de uitvoer vroeger meestal niet op een beeldscherm werd getoond, maar met een TTY, een door een computer aangestuurde soort typemachine, op papier werd afgedrukt. Het teken "bell" deed dan ook werkelijk de bel van de teletype rinkelen, en een "carriage return" deed de wagen teruglopen, net als bij een typemachine.
+De laatste code, DEL, bestaat binair uit 7 enen. Deze code werd bij het lezen van ponsband genegeerd, zodat deze kon worden gebruikt om een fout te herstellen: als men per ongeluk het verkeerde teken had ingeponst, ponste men er eenvoudig een DEL (met overal gaten) overheen, zodat het verkeerde teken werd genegeerd.
+De 128 ASCII-codes zijn te zien in de tabellen rechts en onder.
+De 94 zichtbare tekens en de spatie, en hun representaties als byte, zijn inmiddels exact hetzelfde overgenomen in uitbreidingen zoals ANSI, ISO 8859-1 en UTF-8.
+Algemeen.
+De cijfers bestaan uit hun binaire representatie, voorafgegaan door '011'. De letters staan op alfabetische volgorde, waardoor het eenvoudig is een tekst te alfabetiseren. Dit geldt niet voor de tekens met accenten die later zijn toegevoegd. Bovenkast verschilt slechts één bit (bit 5) met onderkast; dit maakt dat omzetten van kast en kastloos vergelijken een bit-operatie wordt en daardoor erg snel. Dit geldt niet voor Unicode, waarbij het verschil vaak in bit 0 is.
+Internationaal.
+In veel talen heeft men niet genoeg aan 26 letters. Daarom werden in sommige talen wijzigingen in de tabel aangebracht. In de Duitse tabel ontbreken de 'overbodige' tekens [\] en - ze zijn vervangen door äöü en ÄÖÜ. In de Britse tabel is het hekje (#) vervangen door een pondteken (£).
+Software.
+Het vervangen van tekens gaf weleens problemen met het programmeren van computers, omdat de 'overbodige' tekens daar wel gebruikt worden. Een ander probleem ontstond als de verkeerde karaktertabel werd gebruikt; zo was het niet goed mogelijk de Duitse teletekstpagina's te bekijken met een televisietoestel dat gemaakt was voor een ander land.
+Uitbreiding met 8e bit.
+Alle mogelijkheden bij het gebruik van 9 bits
+ASCII is een 7-bits code, zodat er 27 = 128 ASCII-codes mogelijk zijn. De meeste computers werken echter met 8-bits codes (bytes). De 8e bit werd traditioneel gebruikt voor pariteit en andere apparaatspecifieke toepassingen. In eerste instantie bestond de extra verzameling beschikbare tekens uit gangbare accenten op het Latijnse schrift en diverse grafische tekens, zoals blokken, lijnen en rasters, waarmee onder meer goed ogende menu's getoond konden worden. Deze eerste uitgebreide tekenverzameling stond bekend als de ASCII-II tabel.
+Omdat in landen buiten de Verenigde Staten behoefte was aan extra tekens, zoals andere letters, letters met accenten, valutasymbolen en figuurtjes, werd het aantal mogelijke tekens vergroot door ook de 8e bit te gebruiken; dit gaf tweemaal zo veel mogelijkheden, namelijk 28 = 256. Zo ontstonden de "extended ASCII"-tekenverzamelingen. Extended ASCII is trouwens niet één bepaalde standaard, evenmin als primair ASCII (zie de vorige paragraaf), maar een verzamelnaam voor de verschillende tekenrepresentaties die de 95 afdrukbare ASCII-tekens als basis hebben, zoals de ANSI-tekensets.

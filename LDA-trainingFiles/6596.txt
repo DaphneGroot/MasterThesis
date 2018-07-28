@@ -1,0 +1,10 @@
+Elektrische stroom.
+Elektrische stroom is het verplaatsen van ladingdragers (elektronen of gaten of ionen) door een geleider of een halfgeleider onder invloed van een potentiaalverschil.
+Traditioneel wordt elektrische stroom uitgedrukt als de verplaatsing van positieve lading. Nu het bekend is dat elektrische stroom doorgaans wordt veroorzaakt door elektronen die zich in tegengestelde richting verplaatsen, heeft men het elektron per definitie een negatieve lading toegekend. De oude definitie van stroomrichting blijft daarom van kracht.
+Elektrische stroom wordt doorgaans weergegeven met de letter I (van intensiteit) en kan worden beschreven als verplaatsing van elektrische lading per tijdseenheid.
+De sterkte van elektrische stroom wordt gemeten in ampère (symbool: A), en wordt informeel ook wel "ampèrage" genoemd naar analogie van "voltage" voor de elektrische spanning.
+Een elektrische stroom ondervindt weerstand. Dit is niet het geval in supergeleiders waar geen spanning benodigd is of ontstaat.
+In de volksmond wordt vaak over stroom gesproken waar spanning wordt bedoeld, met name in uitdrukkingen als: "er staat stroom op". Het woord is ook een metafoor voor de elektriciteitsvoorziening.
+Meten van stroom.
+Voor het meten van stroom dient een ampèremeter. Deze wordt in serie met de te meten stroomkring geschakeld. Om het te meten circuit niet te veel te beïnvloeden, moet het instrument zo weinig mogelijk spanningsverlies veroorzaken.
+Een andere methode van stroommeting gebeurt met een stroomtang of ampèretang. Dit is een meetinstrument voor wisselstroom, uitgevoerd als een tang die om een stroomvoerende geleider wordt geklemd. In de tang wordt door het rondom de geleider ontstane magnetisch veld een stroom geïnduceerd die een maat is voor de stroom die door de omklemde geleider vloeit. In feite is een ampèretang een transformator in een speciale vorm, waarbij de te omklemmen geleider de primaire en de tang de secundaire wikkeling vormt.

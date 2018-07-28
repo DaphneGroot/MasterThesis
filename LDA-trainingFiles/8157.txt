@@ -1,0 +1,7 @@
+Associativiteit (wiskunde).
+In de wiskunde is associativiteit een eigenschap van een binaire operatie. Het betekent dat, wanneer binnen een operatie, waarin twee of meer associatieve operatoren achter elkaar voorkomen, de volgorde, waarin de operatie wordt uitgevoerd, niet van belang is, onder de voorwaarde dat de volgorde van de operanden niet verandert. Dat betekent in de praktijk dat het verplaatsen van haakjes in een expressie de uitkomst van de expressie niet verandert.
+Beschouw nu twee voorbeelden van binaire associatieve operaties: het optellen en het vermenigvuldigen van natuurlijke getallen.
+Hoewel de haakjes zijn verplaatst, is de uitkomst niet veranderd. Aangezien dit waar is voor elke optelling en vermenigvuldiging van de natuurlijke getallen, kunnen we zeggen dat de optelling en de vermenigvuldiging van natuurlijke getallen beide "associatieve operaties" zijn.
+Andere binaire associatieve operaties zijn onder andere optellen en vermenigvuldigen van reële en complexe getallen, en het optellen van vectoren. Een voorbeeld van een niet-associatieve operatie is aftrekken: is iets anders dan.
+Definitie.
+Het is echter belangrijk te onthouden dat veranderen van de volgorde van de operaties niet betekent en ook niet toestaat dat de actuele operaties zelf veranderen door de operanden binnen de expressie van plaats te laten veranderen.

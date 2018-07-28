@@ -1,0 +1,12 @@
+Elektronica.
+Elektronica is de tak van elektrotechniek die zich bezighoudt met het gedrag van elektronen in "actieve componenten" (onder meer elektronenbuizen en transistors) of in "niet-lineaire componenten" (onder meer diodes).
+Deze kennis wordt toegepast in apparaten die elektrische stromen en/of elektromagnetische velden manipuleren. Hiermee kan informatie verzonden en/of gemanipuleerd worden, maar ook kan er energie mee verspreid, geregeld en gecontroleerd worden. Deze laatste toepassingen worden bestudeerd in de vermogenselektronica. Alhoewel elektriciteit al langer gebruikt werd om informatie via de telegraaf en de telefoon te verzenden, nam het gebruik van elektronica pas echt een hoge vlucht na de uitvinding van de radio.
+Hedendaagse elektronica verricht een grote verscheidenheid aan taken.
+Indien de elektronica wordt toegepast in vliegtuigen dan wordt gesproken over avionica.
+Neem bijvoorbeeld de televisie. Het ingangssignaal van een tv is het zendsignaal, uitgezonden door een televisiezender; dit wordt ontvangen via de antenne of kabel. Signaalverwerkingseenheden in het televisietoestel extraheren uit het ontvangen signaal informatie over de helderheid, de kleur en audio-informatie. Het apparaat dat het televisiebeeld uitgeeft, is dan ten slotte de beeldbuis en het apparaat dat de audio-informatie uitgeeft, is de luidspreker.
+Componenten.
+Over de hiervoor genoemde indelingen bestaan veelal geen eenduidige definities. Hieronder volgt een indeling van elektronische componenten
+Digitale schakelingen.
+Computers, elektronische kwartsklokken en programmeerbare logische besturingen (gebruikt om industriële processen te sturen) worden geconstrueerd als digitale schakelingen. Digitale signaalprocessoren zijn een ander voorbeeld.
+Hybride schakelingen.
+Hybride schakelingen, bestaande uit zowel digitale als analoge schakelingen, komen steeds meer voor. Om tussen de digitale en de analoge wereld te kunnen omzetten, gebruikt men analoog-digitaalomzetter en digitaal-analoogomzetters. Deze schakelingen worden ook in de vermogenselektronica toegepast.

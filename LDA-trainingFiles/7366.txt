@@ -1,0 +1,4 @@
+Rekenkundig gemiddelde.
+Het rekenkundig gemiddelde of aritmetisch gemiddelde is de som van een aantal getallen gedeeld door het aantal getallen. Het rekenkundig gemiddelde is een centrummaat. In de wiskunde en statistiek is het rekenkundig gemiddelde de meest gebruikelijke betekenis van een gemiddelde, en wordt daarom ook wel gewoon "het" gemiddelde genoemd. De naam rekenkundig gemiddelde wordt gebruikt wanneer men het van andere verwante maten wil onderscheiden, zoals de mediaan of de modus.
+Rekenkundig gemiddelde als optimale benadering.
+Het rekenkundig gemiddelde is in een welbepaalde zin de "beste" benadering van de getallen formula_5 tot en met formula_6. Het is het unieke getal formula_7 waarvoor de totale kwadratische afwijking

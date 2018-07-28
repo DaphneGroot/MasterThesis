@@ -1,0 +1,15 @@
+Frequentie.
+Frequentie drukt uit hoe vaak iets gebeurt of voorkomt binnen een bepaalde tijd of in een zekere ruimte. Binnen verschillende vakgebieden heeft de term verschillende betekenissen.
+Met betrekking tot tijd.
+De term drukt meestal uit hoe vaak iets in een bepaalde tijd gebeurt. In het eenvoudigste geval is de tussenpoos, de periode, steeds gelijk. De frequentie is dan het omgekeerde daarvan. Maar ook als de tussenpoos varieert kan men spreken van een frequentie; men bedoelt dan het gemiddelde aantal van die gebeurtenissen in een bepaalde tijd.
+Natuurkunde.
+In de natuurwetenschappen wordt de frequentie formula_1 weergegeven in hertz (Hz), het aantal gebeurtenissen per seconde (s).
+Waarbij formula_3 de periode is in seconden, en formula_1 de frequentie in Hz (1 Hz = 1 s-1).
+Dit is vooral belangrijk bij golfverschijnselen, waarbij de frequentie het aantal golftoppen (of -dalen) per seconde uitdrukt.
+Op deze manier kan men de frequentie van licht of andere elektromagnetische golven en geluid in een getal uitdrukken. Wanneer bijvoorbeeld in één seconde 25 geluidsgolven voorbijkomen, heeft dat geluid een (voor het menselijk gehoor zeer lage) frequentie van 25 trillingen per seconde = 25 Hz. De meeste golven hebben echter veel hogere frequenties, daarom worden decimale voorvoegsels gebruikt.
+Als bij digitalisering van een analoog signaal er op regelmatige tijdstippen een 'steekproef' van het analoge signaal wordt genomen, een signaalmonster, dan wordt het aantal malen per seconde dat dit plaatsvindt de bemonsteringsfrequentie genoemd.
+Niet met betrekking tot tijd.
+In de statistiek bijvoorbeeld wordt gezegd dat de frequentie van klaveren in een dek kaarten 13 is. Omdat er in totaal 52 kaarten zijn is de relatieve frequentie 13/52 = 0,25.
+Soms spreekt men ook over een ruimtelijke frequentie (golfgetal). In dat geval beziet men hoe vaak een bepaald voorwerp of verschijnsel opnieuw voorkomt bij het afleggen van een afstand. De eenheid van een ruimtelijke frequentie is reciproque meters (m−1). Een voorbeeld is de ruimtelijke frequentie van lantaarnpalen langs de snelweg. Die staan er bijvoorbeeld iedere 100 meter. De ruimtelijke frequentie is dan 0,01 m−1. Wanneer men met constante snelheid langs de palen rijdt, is er toch weer een direct verband met de tijdsfrequentie: men komt de palen met een bepaalde (tijds)frequentie tegen.
+Lineaire transformaties.
+Zowel bij tijds- als ruimtefrequentie kan men stellen dat de frequentie de "omgekeerde" dimensie van tijd (s → s−1) of ruimte (m → m−1) heeft. Er bestaan wiskundige bewerkingen (lineaire transformaties) die functies van tijd (of ruimte) omzetten in functies van frequentie. Op deze manier kunnen verschijnselen die tegelijkertijd plaatsvinden maar met andere frequentie ontrafeld worden. Voorbeelden van zulke wiskundige bewerking zijn de fouriertransformatie, de laplacetransformatie en de "z"-transformatie.

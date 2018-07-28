@@ -1,0 +1,23 @@
+Versnelling (natuurkunde).
+"De tangentiële versnelling is de afgeleide van de snelheid, en in een punt dus de richtingscoëfficiënt van de raaklijn aan de snelheid"
+Versnelling of acceleratie is een begrip uit de natuurkunde waarmee de verandering van de snelheid van een punt wordt aangegeven.
+Verandering van snelheid kan betekenen dat een punt "sneller" gaat maar ook dat het "langzamer" gaat (een negatieve versnelling is een vertraging) of dat de bewegingsrichting verandert. Door het woord te letterlijk te nemen kan er dus verwarring ontstaan.
+Tweede wet van Newton.
+Als het punt een massa heeft kan het alleen maar een versnelling krijgen als er ook een resulterende kracht op het punt werkt.
+In deze formule zijn zowel de resulterende kracht formula_2 als de versnelling formula_3 vectorgrootheden, dus zowel met grootte als richting. De massa formula_4 heeft alleen een grootte.
+De versnelling van een object heeft dus dezelfde richting als de resulterende kracht die op het object werkt en de oorzaak is van de versnelling. formula_5 wordt uitgedrukt in Newton, formula_6 in kilogram en formula_7 in m/s2 (meter per seconde kwadraat).
+Bij gelijkblijvende kracht is de versnelling van een object omgekeerd evenredig met de massa. Een lichte auto kan daarom bijvoorbeeld makkelijker aangeduwd worden dan een zware vrachtauto. Wanneer de resulterende kracht 0 is, zal het object ook niet versnellen. Op een auto die met een constante snelheid rijdt werkt geen resulterende kracht. De kracht die de auto aandrijft is even groot als de wrijvingskracht van wind en wegdek die de auto remt, waardoor de auto geen versnelling ondervindt. Ook zal een auto niet door het asfalt zakken (versnelling naar beneden), doordat de zwaartekracht die de auto naar beneden drukt gelijk is aan de normaalkracht die de auto omhoog duwt.
+Toepassing.
+Een deeltje dat valt ondergaat een valversnelling formula_10. De valversnelling aan het aardoppervlak ten gevolge van de zwaartekracht bedraagt ongeveer 9,81 m/s2, en wordt vrijwel altijd aangeduid als formula_11 (van gravitatie). Wat is nu de snelheid en positie van een vallend deeltje, als de startpositie formula_120 is, de startsnelheid formula_130, en de versnelling constant?
+Daarin is formula_130 de integratieconstante, gelijk aan formula_13(0), de snelheid waarmee het deeltje vertrekt (formula_20 = 0).
+Voor een val op of nabij het aardoppervlak mag in bovenstaande vergelijkingen formula_10 worden vervangen door formula_11.
+Merk op dat ten gevolge van de luchtweerstand bij een vrije val in werkelijkheid de bovengenoemde formules maar bij benadering juist zijn.
+Acceleratie bij voertuigen.
+De meest correcte wijze om acceleratie aan te duiden is in m/s2.
+Bij voertuigen zoals auto's of speedboten wordt vaak de "acceleratietijd" van 0 tot 100 h (0 tot 27,8 m/s) opgegeven (of van 0 tot 60 mijl per uur (=96 km/h = 26,8 m/s) in angelsaksische landen).
+Van invloed op de acceleratietijd zijn vooral het motorvermogen, de voertuigmassa, de snelheid van schakelen, het soort versnellingsbak, de weerstand (bv. waterweerstand of de rolweerstand van de banden. De luchtweerstand of waterweerstand neemt daarboven sterk toe met de snelheid).
+Uit bovengenoemde formule formula_30 valt af te leiden dat de acceleratie toeneemt als de massa afneemt (lichter voertuig) en/of als de aandrijfkracht (die bepaald wordt door het motorvermogen) toeneemt.
+Hieruit valt op te maken dat F groot wordt bij een zo hoog mogelijke overbrenging (1/i), mogelijk gemaakt door een hoog maximaal motortoerental. Anders gezegd is het gunstig als het motortoerental constant hoog blijft terwijl de overbrengverhouding zich continu aanpast aan de toenemende snelheid. Anderzijds is duidelijk dat een hoog koppel evenzeer helpt. Beide samen (formula_33) geven het vermogen. Een hoger vermogen leidt dus tot een snellere acceleratie.
+Het rendement van de overbrenging kan ook een nadrukkelijke rol spelen. Bijvoorbeeld de koppelomvormer van een automaat veroorzaakt een lager rendement. Ook de duwband van VDT heeft een lager rendement dan een handgeschakelde versnellingsbak, waardoor deze het theoretische voordeel van een continu variabele overbrenging (geen schakeltijd, waarin geen vermogen kan worden geleverd) meestal niet kan omzetten in een kortere acceleratietijd.
+Relativiteitstheorie.
+De beschrijvingen en berekeningen die in de toepassing hierboven gegeven worden volgen de principes van de klassieke mechanica. De algemene relativiteitstheorie van Einstein kent geen zwaartekracht. Volgens Einstein kan een door een voorwerp ondervonden constante versnelling niet worden onderscheiden van de versnelling vanwege een zwaartekracht.

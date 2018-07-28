@@ -1,0 +1,6 @@
+BMP (bestandsindeling).
+BMP (een afkorting van "bitmap") is een bestandsindeling voor rasterafbeeldingen. Het wordt gebruikt door onder andere het grafische subsysteem (GDI) van Microsoft Windows en wordt BMP of DIB ("Device Independent Bitmap") genoemd.
+BMP-bestanden zijn meestal niet gecomprimeerd, zodat ze vaak veel groter zijn dan gecomprimeerde grafische bestanden die een plaatje van dezelfde afmeting bevatten.
+Daar waar datacompressie wordt toegepast in een BMP-bestand, is dat van het RLE-type, wat tekeningen nog enigszins comprimeert, maar voor foto's niet volstaat. BMP-bestanden in 24 bits-"true-color" zijn nooit gecomprimeerd.
+Het bestandstype kent een variant voor Microsoft en OS/2.
+Dit is exclusief de header en andere overhead. Dus een 800x600-afbeelding beslaat bijna anderhalve megabyte. Hierdoor zijn afbeeldingen in BMP-indeling meestal ongeschikt om te worden verstuurd via het internet of andere relatief trage netwerken.

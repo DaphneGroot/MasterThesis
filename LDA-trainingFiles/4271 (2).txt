@@ -1,0 +1,4 @@
+Meettechniek.
+Een meettechniek is een methode waarmee een meetbare eigenschap van een materiaal of een constructie bepaald kan worden. Zo'n eigenschap wordt een "grootheid" genoemd. Door de meting wordt van deze grootheid de numerieke waarde vastgelegd en uitgedrukt in een bijpassende eenheid.
+Voorbeeld.
+In een bepaalde toestand is een eigenschap van een vloeistof: de temperatuur. Dit is een "grootheid" die kan worden uitgedrukt (vergeleken met) een eenheid, bijvoorbeeld de eenheid °C (graden Celsius). Er wordt een "meettechniek" gebruikt om van de grootheid temperatuur de numerieke waarde te bepalen. Dit gebeurt door een thermometer die geijkt is in graden Celsius, enige tijd in de vloeistof te steken en vervolgens de aangegeven waarde af te lezen.

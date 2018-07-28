@@ -1,0 +1,5 @@
+Databus (elektronica).
+Een databus is een bus of het deel van een systeembus, die het transport van digitale data voor zijn rekening neemt.
+In de computertechniek vormt deze bus in combinatie met een adresbus en een besturingsbus een veelal gestandaardiseerde verbinding tussen de diverse onderdelen.
+Parallel en serieel.
+Er zijn parallelle en seriële bussen. Een parallelle bus kan meerdere databits tegelijk versturen (vaak 8, 16, 32, 64...) terwijl bij een seriële bus de bits na elkaar verzonden worden. Algemeen kan gesteld worden dat parallelle bussen sneller zijn, doch de afstand tussen de componenten moet klein blijven, bij de seriële bus is dit omgekeerd. Ook is een seriële verbinding gunstiger in prijs door het beperkt aantal geleiders en verbindingen dat nodig is en bovendien is de seriële bus minder storingsgevoelig.

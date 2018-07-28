@@ -1,0 +1,21 @@
+Internationaal Fonetisch Alfabet.
+Kaart van het Internationaal Fonetisch Alfabet
+Het Internationaal Fonetisch Alfabet of IPA (Engelse afkorting van: "International Phonetic Alphabet") is een notatiesysteem voor de klanken die in menselijke spraak voorkomen. Het is grotendeels gebaseerd op het Latijns alfabet.
+In het "Uitgebreide IPA" (Extended IPA) is nog een hele reeks diakritische tekens toegevoegd om kleine uitspraakverschillen aan te geven. Er bestaan ook codes in ASCII-tekens, geschikt om per toetsenbord in te voeren: "SAMPA" en X-SAMPA. IPA wordt met name door taal- en spraakkundigen gebruikt.
+Geschiedenis.
+In 1886 stelde een groep van Franse en Britse taaldocenten, geleid door Paul Passy, de International Phonetic Association op. Deze organisatie vormde het eerste Fonetische Alfabet. Het eerste alfabet was gebaseerd op het Romaanse Alfabet, maar om het systeem bruikbaar te maken voor alle talen was het toegestaan om van taal tot taal te variëren. Zo werd het geluid oorspronkelijk weergegeven met <c> in het Engels, maar met <x> in Frankrijk. In 1888 werd het alfabet echter aangepast om uniform te worden voor alle talen.
+Sinds de creatie heeft het alfabet meerdere veranderingen ondergaan. Vooral in 1900 en 1932 onderging het alfabet grote aanpassingen. Na 1932 bleef het alfabet tot 1989 onveranderd. In 1993 vond er een kleine aanpassing plaats. Naast het toevoegen en weghalen van symbolen, hebben de symbolen vaak ook andere namen gekregen.
+Het huidige alfabet is gebaseerd op het Latijnse alfabet, en gebruikt zo min mogelijk niet-Latijnse symbolen. Hoewel het alfabet meer dan 100 symbolen bevat voor klanken, hoeven ze niet allemaal gelijktijdig gebruikt te worden.
+Letters.
+De letters van het alfabet zijn ruwweg onderverdeeld in drie groepen: pulmonische medeklinkers, niet-pulmonische medeklinkers, en klinkers.
+Coarticulatie.
+Coarticulaties zijn klanken met twee articulatiepunten, die tegelijkertijd worden gebruikt.
+Affricaten en dubbele articulatie.
+Affricaten en dubbel gearticuleerde medeklinkers worden weergegeven met symbolen die bestaan uit twee andere symbolen, verbonden met een verbindingsstreep.
+Niet-pulmonische medeklinkers.
+Niet-pulmonische medeklinkers zijn klanken waarvan de luchtstroom niet afhankelijk is van de longen. In deze groep bevinden zich de kliks, implosieven en ejectieven.
+Klinkers.
+Het Internationaal Fonetisch Alfabet deelt de klinkers in naar de positie van de tong bij het uitspreken.
+Klanken zonder symbolen.
+Nog niet alle klanken hebben in het Internationaal Fonetisch Alfabet een symbool gekregen.
+De blanco velden kunnen zonder veel moeite worden ingevuld indien dat ooit nodig is. De symbolen voor nieuwe medeklinkers worden vaak gevormd door de symbolen voor reeds bestaande medeklinkers iets aan te passen.

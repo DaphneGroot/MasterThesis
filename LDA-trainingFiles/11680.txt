@@ -1,0 +1,13 @@
+Bimetaal.
+Werking bimetaal. Links koude toestand, rechts warm. In de onderste tekeningen zijn beide strips vastgeklonken. De uitzetting en buiging zijn hier sterk overdreven weergegeven.
+Bimetaal reageert op hitte van aansteker
+wandthermostaat voor cv-installatie2 = bimetalen strip, 4 = schakelaar die verbinding maakt als hij de metalen pin 5 raakt.
+Een bimetaal bestaat doorgaans uit een strip van twee verschillende metalen die zeer vast met elkaar verbonden zijn.
+De betekenis waarin de term het meest gebruikt wordt, is in metalen met verschillende uitzettingscoëfficiënten, om thermostaten en thermometers te maken. Er zijn echter ook heel andere toepassingen van bimetaal, zo bestaan er cirkelzagen met bimetalen zaagbladen, om bijvoorbeeld veerkrachtigheid met slijtvastheid te combineren.
+Thermostaat en thermometer.
+Een bimetalen strook voor een thermostaat bestaat uit twee verschillende op elkaar gewalste stukken metaal, vaak invar en roestvast staal (RVS). Deze twee metalen hebben verschillende uitzettingscoëfficiënten, waardoor het bimetaal bij temperatuursverandering zal gaan buigen: het ene gedeelte zet immers sterker uit dan het andere. Om een grotere uitwijking te kunnen realiseren of een grotere verstelkracht te verkrijgen, is een lange strip nodig. Gewoonlijk wordt de strip spiraalvormig gedraaid, zodat die in een kleine behuizing past.
+Bimetaalconstructies worden in allerlei temperatuurbewakingsdoeleinden toegepast; zoals bij de thermostaat in een koelkast of bij verwarming. Vooral wordt dan met het bimetaal een schakelaar gestuurd.
+Om het effect te gebruiken in een thermometer (bimetaalthermometer), wordt de uitwijking overgebracht op een wijzer die langs een schaalverdeling beweegt.
+Met bimetaal kunnen allerlei temperatuurgevoelige schakelaars gemaakt worden; bimetaalschakelaars worden onder andere toegepast in starters van fluorescentielampen en ook als thermische beveiliging. Deze schakelaars, clixons genaamd, zijn te vinden in onder andere waterkokers, stofzuigers, strijkijzers etc.
+Bimetaal en legering.
+Een legering is iets heel anders dan een bimetaal: bij een legering zijn twee metalen met elkaar gemengd, terwijl een bimetaal bestaat uit twee onderscheidbare stukken verschillend metaal.

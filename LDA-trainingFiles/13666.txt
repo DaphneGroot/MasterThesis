@@ -1,0 +1,10 @@
+Gelijkspanning.
+Gelijkspanning is een elektrisch potentiaalverschil tussen twee punten dat in de tijd stabiel blijft. Ook spreekt men wel van gelijkspanning als een potentiaalverschil tussen twee punten niet van teken wisselt, maar overigens wel in grootte kan veranderen. Dit in tegenstelling tot wisselspanning, waarbij het potentiaalverschil meestal met een vaste frequentie wisselt als functie van de tijd.
+Gelijkspanning wordt opgewekt in bijvoorbeeld een batterij en zonnecel (fotovoltaïsche cel). Wisselspanning wordt meestal opgewekt door rotatie zoals bij een dynamo of generator.
+Wisselspanning is relatief eenvoudig om te zetten naar gelijkspanning door middel van gelijkrichting met behulp van bijvoorbeeld een diodebrug. Om gelijkspanning daarentegen om te zetten naar een stabiele wisselspanning is meer complexe elektronica nodig of een omvormer bestaande uit een gelijkstroommotor die een wisselstroomgenerator aandrijft.
+Gevaren.
+Er kleven enige gevaren aan gelijkspanning. Als er sprake is van het aanraken van een voorwerp onder gelijkspanning, zullen de spieren verkrampen waardoor het slachtoffer niet los kan laten, en er gevaar is voor elektrocutie. Dit wordt gevisualiseerd in een film met Charlie Chaplin waarin voor de grap een deurkruk onder spanning wordt gezet.
+Ook zijn de vonken van gelijkstromen langduriger. Een voorbeeld hiervan is bliksem. De contacten van relais en schakelaars die gelijkstroom schakelen, moeten hiervoor speciaal ontworpen worden.
+Ook zijn de zwerfstromen van gelijkspanning veel schadelijker dan van wisselstroom.
+Overigens schuilt het gevaar niet in de hoogte van de spanning, maar is het de stroomsterkte die dodelijk kan zijn. Bij een stroom van 60 mA door een mensenhart kan het hartritme verstoren en zelfs het hart stoppen. Tevens bestaat het gevaar dat men bij een te grote stroomsterkte brandwonden oploopt.
+Een schrikdraad voert bijvoorbeeld een hoge spanning (2000 tot 10.000 volt), maar kan maar een heel lage stroomsterkte leveren. Daardoor is schrikdraad niet dodelijk, hoewel er een hoge spanning op staat.

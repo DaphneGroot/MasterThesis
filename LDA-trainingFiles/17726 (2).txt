@@ -1,0 +1,17 @@
+Statistische thermodynamica.
+In de statistische thermodynamica (ook wel statistische mechanica genoemd), worden de fysische eigenschappen van stoffen berekend als een gewogen gemiddelde. Hiermee wordt bedoeld dat aan iedere toestand van een molecuul of een cluster van moleculen een bepaalde waarschijnlijkheid (weegfactor) wordt toegekend en dat hiermee een gemiddelde wordt berekend.
+Kansrekening.
+De statistische mechanica geeft een wiskundige beschrijving met kansrekening van het macroscopische gedrag van een veel-deeltjes-systeem, waarvan de nauwkeurige beschrijving van de toestandsverandering van elk deeltje afzonderlijk onbelangrijk is. Moleculen met een van de gemiddelde snelheid afwijkende waarde komen minder voor naarmate ze verder afwijken van die gemiddelde snelheid.
+Faseruimte en ensemble.
+Alle mogelijke combinaties van plaatsen en snelheden kunnen weergegeven worden in een wiskundig object dat faseruimte heet. Deze ruimte heeft twee keer zoveel dimensies als er vrijheidsgraden zijn. Voorbeeld: een systeem dat bestaat uit N deeltjes zonder afmetingen die vrij bewegen in een driedimensionale ruimte, heeft 3N vrijheidsgraden en 6N dimensies, omdat in drie onafhankelijke richtingen per deeltje de plaats en de snelheid vrij gekozen kunnen worden.
+Een kansdichtheidsverdeling over de faseruimte is een ensemble, waaraan verschillende fysische randvoorwaarden kunnen worden opgelegd. Afhankelijk van die randvoorwaarden onderscheidt men een microcanoniek, canoniek en grootcanoniek ensemble.
+De verwachtingswaarden van macroscopische parameters als druk en temperatuur bij een gegeven totale energie kunnen berekend worden als de kansdichtheidverdeling over alle microtoestanden bij een gegeven macrotoestand bekend is. Dit is tenminste het geval als de energie tussen moleculen kan worden overgedragen. In een gas met moleculen vindt de overdracht van kinetische energie plaats op het moment dat de moleculen tegen elkaar botsen. In een vaste stof bepaalt de kristalstructuur de mate en snelheid van energieoverdracht.
+waarbij T de absolute temperatuur, m de massa van een gasmolecuul en v2 het "gemiddelde kwadraat" van de snelheidscomponent voor een vrijheidsgraad is.
+Berekening van eigenschappen.
+Een eigenschap, die men, uitgaande van eigenschappen van individuele moleculen (bijvoorbeeld volkomen elastisch botsen, geen interne structuur die energie kan opnemen) op basis van de statistische thermodynamica kan berekenen, is bijvoorbeeld de warmtecapaciteit van een ideaal gas of van een kristal. De berekening van fysische eigenschappen van reële gassen en vloeistoffen met de statistische thermodynamica wordt bemoeilijkt door de ingewikkeldheid van de moleculen en hun onderlinge interacties. De berekening van de waarschijnlijkheden van microtoestanden en van bijbehorende macroscopische grootheden door simulatie van de chaotische beweging van een voldoende groot aantal deeltjes kost veel computerkracht en tijd.
+Zo heeft het bijna een eeuw geduurd voordat de eerste 8 viriaalcoëfficiënten voor een vereenvoudigd model van reële gasmoleculen, dat wil zeggen harde bollen, zijn berekend.
+Basisbegrippen.
+Centraal staat de entropie van een thermodynamisch systeem (statistische entropie) die gedefinieerd is als
+Deze vergelijking geldt alleen als elke microtoestand even waarschijnlijk is.
+Boltzmannverdeling.
+Als het systeem groot is kan de Boltzmann-verdeling worden gebruikt (deze is een benadering)

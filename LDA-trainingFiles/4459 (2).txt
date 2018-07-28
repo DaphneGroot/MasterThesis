@@ -1,0 +1,10 @@
+Specifieke lichtstroom.
+Onder specifieke lichtstroom of "lichtrendement" (Engels: "luminous efficacy", Duits: "Lichtausbeute") wordt verstaan de verhouding tussen de lichtstroom en het opgenomen vermogen. Het is een eigenschap van de lichtbron. Hoewel rendementen gewoonlijk dimensieloos zijn en derhalve geen eenheid hebben, wordt de specifieke lichtstroom uitgedrukt in lumen/watt.
+Als "Φ" de lichtstroom en "P" het vermogen zijn, dan is de specifieke lichtstroom "η" = "Φ"/"P"
+Voorbeeld: Op de verpakking van een bepaald type spaarlamp van een bekend merk staat dat hij 500 lumen levert bij een opgenomen vermogen van 8 watt. De specifieke lichtstroom is dan 500 lm/8 W = 62,5 lm/W.
+Details.
+De specifieke lichtstroom geeft een verband tussen de fysische grootheid "(elektrisch) vermogen" en de fysiologische grootheid "lichtstroom", die mede afhangt van de empirisch bepaalde spectrale gevoeligheid van het menselijk oog.
+Volgens de definitie van de lichtstroom kan een lichtbron van 1 watt elektrisch vermogen bij een golflengte van 555 nm (groen) voor het aan het licht geadapteerd oog (fotopisch zicht) nooit lichter zijn dan 683 lumen. Voor een aan het donker geadapteerd oog liggen deze waarden bij 510 nm (blauw-groen) en 1725 lumen. Bij de golflengtes 555 nm en 510 nm zijn liggen de gevoeligheidsmaxima voor resp. fotopisch en scoptopisch zicht.
+Voor ander golflengtes of golflengtegebieden moet gecorrigeerd worden volgens de empirische ooggevoeligheidscurve "V"("λ").
+formula_1
+formula_2

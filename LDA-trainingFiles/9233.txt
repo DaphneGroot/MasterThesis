@@ -1,0 +1,63 @@
+Gammafunctie.
+Grafiek van de gammafunctie voor reële getallen tussen −5 en 5
+In de wiskunde is de gammafunctie, weergegeven door de Griekse hoofdletter Gamma (letter), een speciale functie die een analytische voortzetting vormt van de faculteit naar de reële en complexe getallen. Voor een complex getal met een positief reëel deel wordt de gammafunctie gedefinieerd door
+Deze integraal is convergent, wanneer het reële deel van groter is dan 0. De definitie kan door analytische voortzetting worden uitgebreid naar de rest van het complexe vlak, met uitzondering van de negatieve gehele getallen, die polen van de functie zijn.
+Als een positief geheel getal is, geldt
+Dit laat meteen het verband met de faculteit zien.
+De gammafunctie speelt een rol in verschillende kansverdelingen en wordt in de kansrekening, de statistiek en de combinatoriek gebruikt.
+Motivatie.
+Een grafiek van de eerste paar faculteiten maakt aannemelijk dat een dergelijke kromme wel kan worden getekend. De vraag is echter of een dergelijke kromme in elementaire functies kan worden uitgedrukt, waarin het aantal operaties niet afhankelijk is van. De definitie van kan niet rechtstreeks uitgebreid worden naar fractionele waarden van. Elke combinatie van sommen, producten, machten, exponentiële functies of logaritmen met een vast aantal termen zal niet volstaan om uit te drukken. Het is echter mogelijk om een algemene formule voor faculteiten te vinden, gebruikmakend van instrumenten als integralen en limieten uit de differentiaalrekening. Een goede oplossing hiervoor is de gammafunctie.
+Er zijn oneindig veel continue uitbreidingen van de faculteitsfunctie naar de niet-gehele getallen: er kunnen oneindig veel krommen getekend worden door enige verzameling van geïsoleerde punten. De gammafunctie wordt gekenmerkt doordat zij vanaf 0 over de positieve gehele getallen analytisch is, doordat de gammafunctie in de praktijk goed te gebruiken is en ten slotte doordat zij op verschillende manieren kan worden gekarakteriseerd.
+Definitie.
+De gammafunctie in het complexe vlak
+Voor complexe getallen met een positief reëel deel (), is de integraal, de gammafunctie
+De notatie is door Legendre ingevoerd.
+Met partiële integratie kan men aantonen dat
+De identiteit (1) kan ook worden gebruikt om door analytische voortzetting uit te breiden tot een meromorfe functie, die wordt gedefinieerd voor alle complexe getallen, behalve 0 en de negatieve gehele getallen. Het kan worden berekend dat een eenvoudige polen met residu is.
+Het is deze uitgebreide versie die gewoonlijk wordt aangeduid als de gammafunctie.
+Alternatieve definities.
+De volgende oneindig product definities voor de gammafunctie, die respectievelijk zijn opgesteld door Leonhard Euler en Karl Weierstrass, zijn geldig zijn voor alle complexe getallen, met uitzondering van de polen
+waar de constante van Euler-Mascheroni is.
+Het is aan te tonen dat de definitie van Euler als volgt voldoet aan de functionele vergelijking (1) hierboven. Mits niet gelijk is aan 0, −1, −2... geldt
+Op een andere manier kan worden aangetoond dat
+Benaderingen.
+Complexe waarden van de gammafunctie kunnen numeriek met willekeurige precisie worden berekend door gebruik te maken van benaderingsmethoden, zoals de formule van Stirling of de benaderingsmethode van Lanczos.
+De gammafunctie kan tot een gewenste precisie voor worden berekend door partiële integratie toe te passen op de Euler-integraal. Kies een willekeurig groot getal. De gammafunctie kan dan worden geschreven als
+en als, dan is de laatste integraal kleiner dan. Zo kan de afwijking klein genoeg worden gemaakt om verwaarloosbaar te zijn: door het kiezen van een geschikte kan de gammafunctie met de bovenstaande reeksen worden geëvalueerd tot -bits precisie. Als rationaal is, kan de berekening worden uitgevoerd met binaire splitsing in de tijd, waar de tijd is, die nodig is om twee -bits getallen te vermenigvuldigen.
+Voor de argumenten, die veelvouden van 1/24 zijn, kan de gammafunctie ook met behulp van numerieke methoden worden berekend.
+Omdat de gamma- en faculteitsfuncties zo snel groeien voor matig-grote argumenten, bevatten bijvoorbeeld rekenmachines en spreadsheets een functie die de natuurlijke logaritme van de gammafunctie geeft. Dat rekent sneller omdat de logaritmen kunnen worden opgeteld en afgetrokken in plaats dat zeer grote getallen moeten worden vermenigvuldigd of gedeeld. De digamma-functie, de afgeleide van de natuurlijke logaritme van de gammafunctie, wordt ook vaak gebruikt.
+In het kader van de technische en natuurkundige toepassingen, bijvoorbeeld voor golfvoortplanting wordt de functionele vergelijking
+vaak gebruikt, omdat het met deze functie mogelijk is vanuit de aangrenzende strook om functiewaarden in te bepalen in een strook met een breedte van 1. Dus beginnend met een goede benadering voor een grote kan men stap voor stap teruggaan naar de gewenste.
+Na stappen verkrijgt men uiteindelijk (naar P.E. Böhmer (1939))
+Een betere benadering kan met behulp van asymptotische ontwikkelingen van en worden verkregen, die op de benaderingsmethode van Stirling zijn gebaseerd.
+Geschiedenis.
+De gammafunctie heeft de aandacht gevangen van enkele van de meest vooraanstaande wiskundigen aller tijden. De geschiedenis van de gammafunctie, met name door Philip J. Davis in een artikel gedocumenteerd dat hem in 1963 de Chauvene-prijs opleverde, weerspiegelt sinds de 18e eeuw veel van de belangrijkste ontwikkelingen binnen de wiskunde. In de woorden van Davis, "elke generatie heeft wel iets van belang gevonden om over de gammafunctie te zeggen. Misschien zal de volgende generatie dit ook doen."
+18e eeuw: Euler en Stirling.
+De eerste pagina van Eulers artikel "De progressionibus transcendentibus seu quarum termini generales algebraice dari nequeunt".
+Het probleem van de uitbreiding van de faculteitsfunctie naar niet-geheeltallige argumenten werd blijkbaar als eerste door Daniel Bernoulli en Christian Goldbach in de jaren 1720 beschouwd, en werd aan het einde van hetzelfde decennium opgelost door Leonhard Euler. Euler gaf twee verschillende definities: de eerste was niet zijn Euler-integraal, maar een oneindig product,
+van welke ontdekking hij Goldbach in een brief, gedateerd op 13 oktober 1729 op de hoogte stelde. Op 8 januari 1730 schreef hij opnieuw aan Goldbach om hem te informeren van de integrale representatie
+die geldig is voor. Door de verandering van de variabelen, wordt dit de bekende Euler-integraal. Euler publiceerde zijn resultaten in het artikel "De progressionibus transcendentibus seu quarum termini generales algebraice dari nequeunt" ("Over transcendentale progressies, dat wil zeggen dezen, waarvan de algemene termen niet algebraïsch kunnen worden gegeven"), ingediend bij de Academie van Sint Petersburg op 28 november 1729. Euler ontdekte verder een aantal van de belangrijkste functionele eigenschappen van gammafunctie, waaronder ook de reflectieformule.
+James Stirling, een tijdgenoot van Euler, heeft ook getracht een continue uitdrukking voor de faculteitsfunctie te vinden en kwam met wat nu bekendstaat als de formule van Stirling. Hoewel de formule van Stirling, ook voor niet-gehele getallen, een goede schatting van geeft, geeft deze formule geen exacte waarde. Uitbreidingen van zijn formule, die de fout corrigeren, werden door Stirling zelf en door Binet gegeven.
+19e eeuw: Gauss, Weierstrass en Legendre.
+Carl Friedrich Gauss schreef het Euler-product als
+en gebruikte deze formule om nieuwe eigenschappen van de gammafunctie te ontdekken. Hoewel Euler een pionier was in de functietheorie, lijkt het er niet op dat hij over de faculteit van complex getallen heeft nagedacht. Gauss deed dit wel. Gauss bewees ook de vermenigvuldigingsstelling van de gammafunctie en onderzocht het verband tussen de gammafunctie en elliptische integralen.
+Startend vanuit nog weer een andere representatie van het product zette Karl Weierstrass de rol van de gammafunctie in de functietheorie verder kracht bij
+waar de constante van Euler-Mascheroni is. Weierstrass schreef zijn product oorspronkelijk als een product voor, in welk geval het product wordt overgenomen over de nulpunten van de functie in plaats van over haar polen. Geïnspireerd door dit resultaat, bewees hij de stelling, die bekendstaat als de factorisatiestelling van Weierstrass, dat iedere gehele functie als een product over haar nulpunten in het complexe vlak kan worden geschreven.
+De naam gammafunctie en het symbool werden rond 1811 door Legendre geïntroduceerd. Legendre herschreef ook de definitie van de Euler-integraal in haar moderne vorm. Hoewel Griekse Gamma (letter) een hoofdletter is, worden Gammafunctie en gammafunctie beide geschreven. Het alternatieve Pi functie
+door Gauss geïntroduceerd, wordt soms in oudere literatuur aangetroffen, maar in moderne literatuur komt de notatie van Legendre het meeste voor.
+Het lijkt merkwaardig dat de gammafunctie, als een soort voortzetting van de faculteit, niet zo is gedefinieerd dat formula_20, maar zo dat
+Het is een keuze die sommige formules vereenvoudigt, maar andere compliceert.
+19e-20e eeuw: karakterisering van de gamma-functie.
+Het is enigszins problematisch dat er een groot aantal definities voor de gamma-functie zijn gegeven. Hoewel ze dezelfde functie beschrijven, is het enigszins problematisch om de equivalentie van de verschillende definities te bewijzen. Stirling heeft nooit bewezen dat zijn uitgebreide formule precies overeenkomt met de gammafunctie van Euler, een bewijs hiervoor werd in 1900 voor het eerst door Charles Hermite gegeven. In plaats van voor elke formule te proberen een apart bewijs te vinden, zou het wenselijk zijn om over een algemene methode te beschikken om de gammafunctie te identificeren.
+Een manier om dit te bereiken zou het vinden van een differentiaalvergelijking zijn, die de gammafunctie karakteriseert. De meeste speciale functies in de toegepaste wiskunde ontstaan als oplossingen voor differentiaalvergelijkingen, waarvan de oplossingen uniek zijn. De gammafunctie lijkt echter niet te voldoen aan enige eenvoudige differentiaalvergelijking. Otto Hölder bewees in 1887 dat de gammafunctie op zijn minst niet voldoet aan enige algebraïsche differentiaalvergelijking door aan te tonen dat een oplossing voor een dergelijke vergelijking niet kan voldoen aan de herhalingsformule voor de gammafunctie. Dit resultaat staat bekend als stelling van Hölder.
+Een duidelijke en algemeen toepasbare karakterisering van de gammafunctie werd pas in 1922 gegeven. Harald Bohr en Johannes Mollerup bewezen toen de stelling die nu bekendstaat als de stelling van Bohr-Mollerup: deze stelling houdt in dat de unieke oplossing voor de faculteit herhalingsrelatie, die positief en logaritmisch convex is voor positieve waarden van en waarvan de waarde op 1 gelijk is aan 1. Een functie is logaritmisch convex als haar logaritme convex is.
+De stelling van Bohr-Mollerup is nuttig omdat het relatief gemakkelijk is om logaritmische convexiteit te bewijzen voor alle van de verschillende formules die worden gebruikt om de gammafunctie te definiëren. Als men de dingen verder voert, in plaats van de gammafunctie te definiëren door een bepaalde formule, zou men in plaats daarvan de stelling van Bohr-Mollerup als de definitie van de gammafunctie kunnen kiezen, om daarna elke formule, die men graag heeft en die voldoet aan deze voorwaarden, als uitgangspunt voor het bestuderen van de gammafunctie te nemen. Deze aanpak werd gebruikt door de Bourbaki en zijn collega's.
+Eigenschappen.
+Door partiële integratie is te zien dat
+voor alle natuurlijke getallen. Een andere nuttige waarde van de gammafunctie is
+Met de relatie kan hieruit worden afgeleid dat
+De relatie kan ook gebruikt worden om de gammafunctie voort te zetten tot een analytische functie op het gehele complexe vlak met uitzondering van de niet-positieve gehele getallen. Deze analytische voortzetting, die zelf ook gammafunctie heet, heeft geen nulpunten. In met een natuurlijk getal heeft de gammafunctie een pool van orde 1 met residu
+Hierin is formula_28 de constante van Euler-Mascheroni.
+Bètafunctie.
+De bètafunctie is gerelateerd aan de gammafunctie. Er geldt
+De bètafunctie is dus symmetrisch in en.

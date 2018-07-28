@@ -1,0 +1,6 @@
+Halma (bordspel).
+Halma is een bordspel. Het kan worden gespeeld door 2 - 6 deelnemers op een vierkant of zeshoekig(stervormig) speelveld. De variant met een zeshoekig(stervormig) speelveld wordt Chinees dammen of sterhalma genoemd. Het doel van het spel is om alle pionnen uit je eigen gebied zo snel mogelijk naar de overkant van het bord te krijgen. In het westen wordt het gespeeld met verschillende kleuren pionnen en in de Chinese cultuur wordt het gespeeld door middel van gekleurde knikkers in plaats van pionnen.
+Spelregels.
+Om de beurt wordt er gezet, waarbij een pion hetzij een zet in een richting kan doen, hetzij kan springen over een eigen of vijandelijke pion. Als een pion gesprongen heeft, mag deze in dezelfde beurt nog meer sprongen maken, in dezelfde of een andere richting, elke sprong moet echter over precies 1 pion gaan. Dit springen heeft geen effect op de pionnen waarover gesprongen wordt, maar kan er wel zorg voor dragen dat een pion zich in een beurt zeer ver kan verplaatsen.
+Geschiedenis.
+Het spel is in 1883 ontwikkeld door de Amerikaanse arts George Howard Monks. De naam van het spel is het Griekse woord voor "springen".

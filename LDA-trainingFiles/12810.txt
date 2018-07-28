@@ -1,0 +1,6 @@
+Vrijpion.
+Een vrijpion is een pion uit het schaakspel die op zijn weg naar de achtste rij door geen vijandelijke pion tegengehouden kan worden.
+Aangekomen op de achterste rij promoveert de pion, meestal kiest de speler hiervoor een dame.
+Van een verre vrijpion is sprake als deze op enige afstand staat van de vijandelijke koning en andere verdedigende stukken, die elders op het bord aan taken gebonden zijn. De partij met de verre vrijpion is (bij overigens gelijke omstandigheden) in het voordeel, doordat de verdedigers enkele zetten moeten doen om zich naar de pion te begeven en ze daarbij andere taken moeten loslaten.
+Het vierkant is een eenvoudige regel om in een elementair pionneneindspel in een oogopslag te bepalen of de vijandelijke koning kan voorkomen dat een vrijpion promoveert dan wel het gepromoveerde stuk direct kan slaan.
+Het nut van een vrijpion werd voor het eerst beschreven door de Fransman François Philidor.

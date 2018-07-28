@@ -1,0 +1,17 @@
+Minimax.
+Minimax staat voor het "min"imaliseren van het "max"imaal haalbare voor tegenpartijen bij een competitie. Het wordt in verschillende gebieden toegepast, zoals bij verkiezingen (Condorcet methode), en bij zoekbomen in spelen.
+Het laatste gebied komt men bijvoorbeeld tegen bij schaakprogramma's. Het programma maakt in dat geval een (zoek)boom van alle mogelijke zetten, de zetten die de opponent daarop weer kan doen, de volgende zetten van het programma zelf, et cetera. Wanneer we aan alle resultaten een score toekennen kan de beste zet bepaald worden. Hierbij is een hoge score een voor het programma goed resultaat. Het bepalen van de beste zet doet men dan vervolgens door in iedere vertakking van de boom de maximale score voor een eigen zet te verkiezen, en de minimale score voor een zet van de opponent. Zodoende verkrijgt men de beste zet.
+Voorbeeld.
+Als voorbeeld nemen we het spel dat hiernaast is afgebeeld. Het bovenste plaatje stelt het speelbord voor.
+Het spel begint door een muntstuk op het bovenste cirkeltje te leggen.
+De spelers zetten om beurt: Robin schuift de munt langs een rood lijntje en daarna schuift Esmeralda de munt langs een groen lijntje. Uiteindelijk komt de munt in een cirkeltje waarin een cijfer staat en dat is het bedrag dat Robin aan Esmeralda moet betalen.
+Esmeralda zal dus proberen een hoge score te krijgen en Robin streeft naar een lage score. Wat is nu de juiste speelwijze?
+Ligt de munt in het blauwe cirkeltje, dan is Esmeralda aan zet. Ze kan kiezen tussen 3, 8 en 6 en kiest de hoogste waarde, dus 8. Het blauwe cirkeltje heeft dus de waarde 8. Op dezelfde manier kunnen ook de andere cirkeltjes op dat niveau een waarde krijgen en zo ontstaat het tweede plaatje.
+Ligt de munt in het roze cirkeltje, dan is Robin aan zet. Hij kan kiezen tussen 8 en 6 en kiest de laagste waarde, dus 6. Het roze cirkeltje heeft dus de waarde 6.
+Door de boom verder terug te rekenen ontstaat het derde plaatje. Het bovenste cirkeltje toont hoe het spel moet eindigen als Robin en Esmeralda zo goed mogelijk spelen.
+Toepassing.
+In principe is het mogelijk elk spel dat aan bovenstaande voorwaarden voldoet, volledig door te rekenen.
+Men weet dan bijvoorbeeld van elke stelling in het schaakspel wat de juiste zet is en hoe het spel zal eindigen.
+De praktijk is minder eenvoudig: het schaakspel heeft daarvoor te veel mogelijkheden en de snelste computers zouden er vele miljarden jaren voor nodig hebben. Daardoor blijft het schaakspel interessant en verrassend. Bij een ander spel, zoals boter-kaas-en-eieren, en ook bij het hierboven gegeven spel tussen Robin en Esmeralda, is het veel eenvoudiger.
+In de notatie van bordspellen worden vaak een vraagteken en een uitroepteken gebruikt om slechte, respectievelijk sterke zetten te markeren. Het is duidelijk wat een sterke zet is: heeft een speler zetten tot zijn beschikking die tot winst leiden, dan moet hij een van die zetten uitvoeren. Dat is dan een sterke zet. Elke andere zet is een slechte zet en wordt in de notatie van een vraagteken voorzien.
+De conclusie is eigenlijk ook dat echt sterke zetten niet bestaan. Een sterkere zet dan de juiste zet bestaat niet. Toch wordt er vaak een uitroepteken toegevoegd aan een zet, en de bedoeling is dan eerder dat het een zet is die er slecht uitziet, maar toch juist is.

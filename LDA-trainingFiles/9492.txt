@@ -1,0 +1,8 @@
+Rustmassa.
+De rustmassa (formula_1) is de massa van een deeltje dat zich in rust bevindt. De "rustenergie" van een deeltje is de energie-inhoud van een deeltje in rust, en die is volgens de massa-energierelatie "E" = "mc"2 direct gerelateerd aan de rustmassa. In de speciale relativiteitstheorie is deze rustmassa gelijk aan de invariante massa van een deeltje.
+Relativistische massa.
+In de speciale relativiteitstheorie kan men een snelheidsafhankelijke massa definiëren, waarbij de momentane waarde van de massa afhankelijk is van de snelheid; er is dan een massatoename bij toenemende snelheid. Deze snelheidsafhankelijke massa noemt men wel "relativistische massa". Dit effect is pas merk- of meetbaar wanneer de lichtsnelheid voldoende benaderd wordt. Er is steeds meer energie nodig om het deeltje te versnellen naarmate het de lichtsnelheid nadert.
+met ν (nu) de frequentie en "h" de constante van Planck, dus
+Een andere manier om dit te bekijken is dat elk "massaloos" deeltje met de lichtsnelheid moet bewegen om een zekere energie te kunnen hebben en dus te bestaan.
+Beschrijving in termen van alleen rustmassa.
+Een meer gangbare wijze van beschrijven van de relativiteitstheorie, is te zeggen dat de massa constant is (en gelijk aan de rustmassa), maar de impuls van een deeltje gelijk is aan formula_11 in plaats van formula_12. Beide wijzen van beschrijven zijn vanuit mathematisch gezichtspunt precies gelijk, dat wil zeggen, ze geven precies dezelfde meetbare resultaten. In de praktijk wordt echter de voorkeur gegeven aan een beschrijving met constante massa.

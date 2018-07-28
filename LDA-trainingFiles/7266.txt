@@ -1,0 +1,17 @@
+Scheme.
+Scheme is een functionele programmeertaal. Het is een dialect van de programmeertaal Lisp. Guy L. Steele en Gerald Jay Sussman ontwikkelden het in de jaren zeventig en presenteerden het aan de academische wereld in de zogenaamde "Lambda Papers". De taal is gebaseerd op de lambdacalculus. De taal heette oorspronkelijk 'Schemer', in de traditie van talen als Planner en Conniver, maar werd ingekort door de beperkingen van het ITS-besturingssysteem dat geen bestandsnamen toeliet van meer dan 6 tekens.
+De filosofie achter Scheme is minimalisme. Het doel is niet om uitbreiding op uitbreiding te stapelen, maar om zwakheden en beperkingen te verwijderen die uitbreidingen nodig schijnen te maken. Daarom heeft Scheme zo min mogelijk primitieven waarmee de rest geïmplementeerd kan worden. Het belangrijkste mechanisme voor control flow is staartrecursie.
+Scheme was de eerste variant van Lisp die uitsluitend lexicaal variabelenbereik (in tegenstelling tot dynamisch variabelenbereik) gebruikte. Net zoals Lisp, gebruikt Scheme garbage collection om geheugenplaatsen met ongebruikte data te hergebruiken. De taal gebruikt lijsten als belangrijke datastructuur, maar kent daarnaast vele andere. Door het minimalisme van de Scheme-specificatie bestaat er geen standaardsyntaxis voor het maken van structuren met benoemde velden, of ondersteuning voor object-georiënteerd programmeren, maar bijna elke implementatie ondersteunt deze uitbreidingen.
+Kenmerkend aan Scheme is dat het gebruikmaakt van prefixnotatie van bewerkingen in plaats van het meestgebruikte infix. Bijvoorbeeld 3+5 is een infixnotatie voor de optelling (de operator + bevindt zich tussen de 3 en de 5) terwijl + 3 5 de prefixnotatie is waarbij de operator (+) zich voor de twee operanden bevindt (3 en 5).
+De Scheme standaard.
+Regelmatig wordt de taal geüpdatet. Er worden dan wijzigingen aan de standaard aangebracht. De huidige standaard dateert van 2013 en heet R7RS, wat staat voor "Revised Report on the Algorithmic Language Scheme", naar het document met de officiële beschrijving van de taal.
+Bovendien bevat de taal een reeks van zeer nuttige bibliotheken. Dit zijn de zogenaamde SRFI's, wat staat voor "Scheme Request For Implementation".
+Scheme streeft normaal minimalisme na. Dat was ook het geval tot en met R5RS. R6RS bracht echter grote wijzigingen toe aan de taal. Daarom besliste het "Scheme Steering Committee", dat instaat voor de standaardisatie van de taal, om te taal te "splitsen". De ene tak zal er een uitgebreide, moderne programmeertaal zijn, terwijl de andere tak het minimalisme behoudt. De minimalistische specificatie van R7RS werd reeds geratificeerd in 2013.
+Kenmerken.
+In deze sectie zullen we enkele kenmerken van Scheme opsommen. Deze lijst is niet exhaustief.
+Functieaanroep en evaluatie van argumenten.
+In Scheme worden alle argumenten van een functieaanroep geëvalueerd vóór de eigenlijke aanroep. De volgorde waarin de argumenten geëvalueerd worden is niet bepaald. Men kan dus niet aannemen dat deze evaluatie van links naar rechts of in eender welke andere volgorde gebeurt. Hier moet men dus rekening mee houden wanneer men argumenten meegeeft die een neveneffect veroorzaken.
+(/ teller noemer))); Indien de if de normale regels zou volgen, zou ook dit alternatief uitgewerkt worden als de noemer nul is!
+> Kan deling niet uitvoeren, noemer is nul!
+Syntaxis.
+(- 1); De minusoperator kan ook met één argument opgeroepen worden.

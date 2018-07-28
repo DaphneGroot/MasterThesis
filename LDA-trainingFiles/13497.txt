@@ -1,0 +1,3 @@
+RMI-IIOP.
+RMI-IIOP is een techniek om interprocescommunicatie tussen Javaprogramma's en programma's in andere omgevingen te kunnen uitvoeren. Het is een combinatie van het Java-specifieke RMI en het taalonafhankelijke IIOP-protocol.
+De term RMI-IIOP staat voor "RMI interface over de CORBA IIOP bus".

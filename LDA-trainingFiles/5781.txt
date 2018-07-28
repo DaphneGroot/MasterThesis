@@ -1,0 +1,37 @@
+Akkoord (muziek).
+Een akkoord is de samenklank van drie of meer tonen, die zodanig samenklinken dat zij voor het muzikale oor samensmelten tot een gestalte. Let wel: een samenklank van twee tonen heet een tweeklank en wordt niet tot de akkoorden gerekend en veelal aangeduid met het overeenkomstige interval. In de lichte muziek is het gebruikelijk om akkoorden voor te stellen met akkoordsymbolen.
+Een C-majeurakkoord met een G in de bas op een akoestische gitaar
+Drieklank.
+Een "drieklank" is een akkoord dat bestaat uit drie tonen of eigenlijk een akkoord dat is opgebouwd uit tonen die afgeleid zijn van drie verschillende stamtonen. Dus niet alleen is het akkoord c-e-g een drieklank, maar ook de akkoorden c-e-g-c' en c-e-g-c'-e' zijn drieklanken.
+Omkeringen.
+Akkoorden kunnen ook omgekeerd worden (vb: c-e-g kan worden: e-g-c en g-c-e). Het aantal mogelijke omkeringen is altijd gelijk aan het aantal noten in het akkoord min één. Bij akkoorden, waarvan de laagste toon de grondtoon is, spreekt men van de grondligging, bij akkoorden waarvan de laagste toon de op een na laagste toon van hetzelfde akkoord in de grondligging is, van de 1e omkering enz.
+Omkeringen van sus-drieklanken worden doorgaans niet met een specifieke naam aangeduid.
+Liggingen.
+Naast de omkering kent een akkoord ook een ligging. De tonen van een akkoord kunnen verdeeld voorkomen in diverse octaven.
+Verdubbelingen.
+Noten kunnen verdubbeld voorkomen in hoger of lager liggende octaven. Een voorbeeld is de drieklank c-e-g-c, waarin de grondtoon c twee keer voorkomt. Bij verdubbelingen wordt doorgaans de terts minder snel verdubbeld ten opzichte van grondtoon of kwint. Dit heeft een akoestische reden: door verdubbeling komt er akoestisch veel nadruk te liggen op de verdubbelde toon, en dit kan de functie van het akkoord minder duidelijk waarneembaar maken. In een drieklank van bijvoorbeeld C-majeur zal men zelden C-E-G-E aantreffen, maar veel frequenter C-C-E-G, of C-G-C-E-G. De terts van de drieklank is doorgaans een kleurende toon, terwijl grondtoon en kwint veeleer de contouren van een akkoord zelf neerzetten: grondtoon en kwint zijn dan ook in de harmonische boventonenreeks nauwer aan elkaar verwant dan de terts, die pas later in de boventonenreeks optreedt.
+Vierklank.
+Een septiemakkoord bestaat dus uit een grondtoon + terts + kwint + septiem.
+Van deze septiemakkoorden wordt vooral het dominant septiemakkoord veel gebruikt in vrijwel alle muziek na ca. 1700.
+Het dubbelverminderd septiemakkoord wordt veelvuldig in klassieke muziek gebruikt, en gaat dan (in de eerste omkering) het dominant septiemakkoord (in grondligging) een kleine secunde hoger vooraf. (in C-majeur: as-c-es-fis gevolgd door g-b-d-f.)
+De overmatige terts komt in de harmonieleer niet voor; het is een exotisch melodisch interval, dat in Aziatische muziek af en toe wordt gebruikt.
+In de jazzmuziek is het gebruikelijk om een melodie te harmoniseren met septiemakkoorden. Nog meer tertsen kan ook (zie onder), al is het gebruik hiervan een stuk minder algemeen. Een terts boven op een dominantseptiemakkoord levert een resp. klein en groot none-akkoord. Zo kan men doorstapelen en er ontstaan '11' en '13' -akkoorden. Verdergaan dan 13 is zinloos, omdat 15 en 17 enharmonisch gelijk zijn aan resp. de grondtoon en de terts.
+Ligging van vierklanken.
+Net als bij drieklanken komen ook vierklanken in diverse liggingen voor, zowel nauw als wijd.
+Verdubbelingen.
+Net als bij drieklanken kunnen ook tonen van een vierklank verdubbeld worden.
+Jazzakkoorden.
+Naast de standaard drieklanken en vierklanken treft men in jazzakkoorden ook vijf- en meerklanken aan. Deze ontstaan door nog meer tertsen op een akkoord te stapelen.
+Zo kan men een noneakkoord (een 9-akkoord) maken door op een septiemakkoord een extra terts te plaatsen. De extra tonen in een akkoord worden aangeduid door cijfersymbolen (7,9,11,13) aan het akkoordsymbool toe te voegen.
+Deze toevoegingen worden vaak aangetroffen in de hogere (melodie-)tonen, en minder vaak in bastonen. Wel kunnen deze toegevoegde tonen ook in diverse afwijkende liggingen en omkeringen optreden. Soms wordt bij toevoegingen de kwint weggelaten, zonder dat de functie van het akkoord wordt aangetast. Soms wordt ook de grondtoon zelf weggelaten.
+Kleuring.
+Behalve stapelen van tertsen (het uitgangspunt in de opbouw van reguliere harmonische akkoorden) kan men akkoorden ook 'kleuren' met extra noten.
+Als aan een C-akkoord een a wordt toegevoegd ontstaat een C6-akkoord (de a is de zesde noot van de toonladder van C-groot). Dit akkoord wordt in klassieke muziek ook wel de Sixte ajoutée genoemd. De 6e toon wordt immers toegevoegd (ajouter = toevoegen). Men kan dit akkoord ook zien als een septiemakkoord in de eerste omkering (vb: c-e-g-a is ook de 1e omkering van a-c-e-g).
+Ongebruikelijke akkoorden kunnen uit kwarten zijn opgebouwd (1, 4, 7), maar indien er meer dan twee kwarten worden opgestapeld, dan is het akkoord te herleiden tot een (al dan niet volledig) akkoord, dat uit tertsen is opgebouwd (bijvoorbeeld: c-f-b-e-a = f-a-c-e met een extra b als toegevoegde kleurtoon).
+In de jazzmuziek worden zulke kleurende toevoegingen aan akkoorden (drieklanken) ook wel akkoordalteraties genoemd. Een C7/9/+11 akkoord bevat bijvoorbeeld de tonen: C-E-G-Bes-D-Fis. De Bes (=klein septime, 7), D (=grote none, 9) en Fis (=verhoogde undecime, +11) zijn toegevoegd aan de basisdrieklank van C-majeur (CEG). Overigens wordt in de praktijk de kwint, wanneer deze rein is, meestal niet gespeeld, omdat deze de 'kleur' van het akkoord niet wezenlijk verandert.
+Gehoor.
+Er zijn grenzen aan de ligging van een akkoord: indien het uitsluitend uit zeer lage of zeer hoge tonen bestaat, dan herkent het menselijk gehoor het niet als akkoord. De oorzaak bij lage tonen is interferentie: de tertsen gaan 'brommen'. Bij zeer hoge tonen is het oor niet meer in staat om verschillen in frequenties secuur waar te nemen, doordat de intervallen zeer dicht tegen elkaar liggen. Zie wat dit betreft ook de principes van de harmonische boventoonreeks: hoe verder boventonen in de reeks, hoe dichter ze op elkaar komen.
+Gebroken akkoord.
+De tonen van een akkoord kunnen behalve tegelijk ook direct na elkaar klinken (melodisch in plaats van harmonisch). Dit wordt een gebroken akkoord of arpeggio genoemd. Bij drieklanken spreekt men dan van een gebroken drieklank. Worden na elkaar de eerste, derde, vijfde, en achtste toon gespeeld, dus een drieklank plus het octaaf van de grondtoon, dan spreekt men van een lang gebroken drieklank. Langgebroken akkoorden kunnen ook meer dan een octaaf omspannen en van hoog naar laag voorkomen.
+In veel muziek komen gebroken akkoorden regelmatig voor in zowel begeleidingsfiguren (zie Albertijnse bas) als in virtuoze passages.
+Brekingen van drieklanken kennen vele gestalten, zoals kortgebroken, langgebroken, zigzagbewegingen, en allerhande varianten van op- en neergaande bewegingen.

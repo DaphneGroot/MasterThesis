@@ -1,0 +1,4 @@
+International Electrotechnical Commission.
+De International Electrotechnical Commission, kortweg IEC, gevestigd in Genève in Zwitserland, ontwikkelt en publiceert algemene internationale normen voor elektrische componenten en apparatuur. De IEC stelt voor en ontwikkelt, maar is niet verantwoordelijk voor het toezicht op de naleving van deze normen. Dit vindt veelal plaats door een onafhankelijk testlaboratorium. In België worden de normeringen van het IEC uitgegeven door het Bureau voor Normalisatie (NBN), in Nederland is het Nederlands Normalisatie-instituut (NEN) daarvoor verantwoordelijk.
+Voorbeelden.
+IEC 529 bevat omschrijvingen van de mate van bescherming van een toestel tegen indringen van vocht, onderverdeeld door de IP-codes IP00 tot IP699. IEC 60309 is een internationale norm voor industriële connectoren en IEC 62056 is een internationale standaard voor het programmeren van het tarief en het uitlezen van de meterstanden bij elektriciteitsmeters.

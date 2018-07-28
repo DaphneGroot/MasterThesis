@@ -1,0 +1,3 @@
+Wet van Linus.
+De wet van Linus (Engels: Linus's Law) is een 'wetmatigheid' die voor het eerst is geformuleerd door Eric Raymond en vernoemd naar Linus Torvalds. De 'wet' luidt oorspronkelijk "Given enough eyeballs, all bugs are shallow", grofweg vertaald als "Als velen meekijken wordt iedere (programmeer)fout snel opgemerkt en verbeterd".
+Wat ermee bedoeld wordt is dat als er maar genoeg mensen naar een stuk programmatuur kijken, uiteindelijk alle fouten (en hun oplossingen) aan het licht zullen komen. Deze mantra was het uitgangspunt voor de ontwikkeling van Linux, en opensourcesoftware in het algemeen, waarbij men het 'publiek' inzicht geeft in de broncode van een softwareproduct en uitbreidingen en verbeteringen van het publiek accepteert.

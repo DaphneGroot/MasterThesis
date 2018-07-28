@@ -1,0 +1,4 @@
+Teksteditor.
+Een teksteditor is een computerprogramma waarmee onopgemaakte digitale tekst (platte tekst, bijv. gecodeerd als ANSI, UTF-8 of UTF-16) bewerkt kan worden. Een teksteditor wordt onderscheiden van een tekstverwerker, die tot doel heeft om opgemaakte tekst te maken.
+Voor dat laatste zijn over het algemeen ook gespecialiseerde teksteditors beschikbaar met functies die gericht zijn op het schrijven en bewerken van broncode in een bepaalde programmeertaal.
+Opgemaakte tekst op het klembord kan worden omgezet in platte tekst door deze in een teksteditor te plakken.

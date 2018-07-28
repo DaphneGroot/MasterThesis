@@ -1,0 +1,5 @@
+Fermatgetal.
+Een fermatgetal'", vernoemd naar de Franse wiskundige Pierre de Fermat, is een natuurlijk getal van de vorm
+Andersom is wel waar dat "als" een getal van de vorm formula_2 een priemgetal is, dat formula_3 dan een macht van 2 moet zijn.
+F5 is al geen priemgetal meer, zoals Euler in 1732 ontdekte.
+Van alle fermatgetallen van F5 tot en met F32 (een getal van meer dan een miljard cijfers) is inmiddels bekend dat ze niet-priem zijn.

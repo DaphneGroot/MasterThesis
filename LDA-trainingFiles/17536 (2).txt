@@ -1,0 +1,6 @@
+Qt Development Frameworks.
+Qt Development Frameworks (ook wel Qt Software, voorheen Trolltech) is een Noors softwarebedrijf dat bekend is geworden doordat het het pakket Qt heeft geschreven waarmee ontwikkelaars van GUI's tamelijk eenvoudig programmatuur kunnen maken die op zowel Windows als Linux/Unix computers kan worden gedraaid.
+Naast Qt, maakt Trolltech onder andere Qtopia, een op Linux draaiende desktop omgeving voor PDA's en andere mobiele apparaten. Trolltech's producten zijn in een betaalde variant voor commerciële doeleinden en daarnaast bestaan er gratis en vrije varianten (onder de GPL) voor zowel commerciële als niet-commerciële doeleinden. Voor Windows versies moest echter altijd betaald worden, behalve voor educatieve versies, echter met de uitgave van Qt versie 4 is er ook een vrije versie voor Windows beschikbaar.
+Het grootste softwareproject dat met producten van Trolltech werkt is de Linux/Unix desktop omgeving KDE; zij maken hiervoor gebruik van de gratis en vrije Qt variant.
+Op 28 januari 2008 werd bekend dat Nokia Trolltech zal overnemen
+Ondertussen werd de Qt-toolkit van Nokia opgekocht door Digia.

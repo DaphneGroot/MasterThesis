@@ -1,0 +1,46 @@
+Lagrangepunt.
+Een Lagrangepunt is een specifieke vorm van baanresonantie. In een Lagrangepunt kan een klein object zoals een ruimtestation een vaste relatieve positie behouden ten opzichte van twee hemellichamen die rond een gezamenlijk zwaartepunt draaien. Deze positie is stabiel.
+Hierbij moet de massa van het object in het Lagrangepunt verwaarloosbaar zijn ten opzichte van de twee hemellichamen en moet deze massa de juiste snelheid en richting hebben. Ieder tweelichamensysteem dat draait rond een gemeenschappelijk zwaartepunt heeft vijf Lagrangepunten, waarvan er drie liggen op de verbindingslijn tussen de twee hemellichamen. Tweelichamensystemen waarvoor dit van toepassing is zijn bijvoorbeeld Zon en Aarde, Zon en een andere planeet, en Aarde en Maan. Het kleine object kan in plaats van "stil te staan" op een Lagrangepunt er ook een baan omheen beschrijven.
+De Lagrangepunten hebben diverse voordelen als positie voor een ruimtestation, net zoals een geostationaire baan voor bepaalde observatie- en communicatiedoeleinden voordelen heeft.
+Lagrangepunten van het Zon/Aarde-systeem.
+De Lagrangepunten worden hieronder uitgelegd voor het Zon/Aarde-systeem, maar een en ander geldt mutatis mutandis ook voor andere tweelichamensystemen.
+Lagrangepunt L1.
+Het punt L1 ligt op de rechte lijn tussen aarde en zon. Een object dat dichter bij de zon staat dan de aarde moet volgens de Derde Wet van Kepler een kortere omlooptijd hebben dan de aarde. Anders zou het object onder invloed van de zwaartekracht van de zon naar de zon toe spiralen. Als we op de rechte lijn tussen aarde en zon echter dicht genoeg bij de aarde komen, zal de zwaartekracht van de aarde die van de zon tegenwerken, en zal de omlooptijd van een object in dat punt langer worden. Hierdoor bestaat het punt L1, waarin de omlooptijd gelijk is aan die van de aarde.
+Joseph-Louis Lagrange (1736-1813), een Italiaans-Franse wiskundige heeft dit punt voor het eerst berekend, en de Lagrangepunten zijn dan ook naar hem genoemd. Het Lagrangepunt L1 ligt op vier maal de afstand tot de maan, ongeveer 1,5 miljoen kilometer, in de richting van de zon.
+De zonneobservatiesatelliet Solar and Heliospheric Observatory (SOHO) is in L1 geplaatst, zodat deze continu zicht op de zon heeft. De satelliet beschrijft een baan om L1 heen zodat deze dus niet precies in de richting van de zon staat. Dit zou namelijk de communicatie bemoeilijken vanwege interferentie met de zonnestraling. Ook is een baan om L1 enkel mogelijk in het vlak loodrecht op de lijn aarde-zon, gezien de stabiliteit van L1. De baan van SOHO heeft een halve lange as van ongeveer 660 000 km in de richting van de omloopbaan om de zon. Met een afstand van ongeveer 1,5 miljoen kilometer van de aarde ligt de maximale afwijking van de zonsrichting op enige tientallen graden.
+Ook het Deep Space Climate Observatory (DSCOVR) bevindt zich hier.
+Lagrangepunt L2.
+Het Lagrangepunt L2 ligt ook op de as tussen aarde en zon, maar nu verder van de zon dan de aarde. Een object met een baan buiten die van de aarde heeft normaal gezien een tragere omlooptijd dan de aarde, anders zou het object van de zon weg spiralen. De zwaartekracht van de aarde werkt echter in dezelfde richting als die van de zon. Door de grotere inwaartse kracht verkort de omlooptijd van het object, daardoor bestaat het punt L2. Het ligt op ongeveer even grote afstand van de aarde als L1, maar aan de andere kant: vier maal de afstand tot de maan in de richting van de zon weg, dus steeds in de schaduw van de aarde.
+Het Lagrangepunt L2 wordt gebruikt voor ruimteobservaties omdat een object in L2 dezelfde positie behoudt ten opzichte van de zon en de aarde, waardoor kalibratie eenvoudiger is. Een ruimtegerichte observatiesatelliet op dit punt heeft altijd de zon, de aarde en de maan achter zich, zodat afscherming eenvoudiger is, en observaties rond de klok kunnen doorgaan. Satellieten zullen niet direct in L2 worden geplaatst, omdat dat punt altijd in de schaduwkegel van de aarde ligt, en er dus geen gebruik van zonnepanelen mogelijk is voor de energievoorziening. Vandaar dat satellieten in een baan rond L2 geplaatst worden, buiten de schaduwkegel van de aarde.
+De Wilkinson Microwave Anisotropy Probe is al in een baan rond het Lagrangepunt L2 van aarde/zon geplaatst. De voorgestelde James Webb-ruimtetelescoop zal eveneens in een baan rond het Lagrangepunt L2 geplaatst worden. De Europese ruimtevaartorganisatie ESA heeft in mei 2009 de Ruimtetelescoop Herschel en het Planck Observatory in een baan rond L2 gebracht. Op 19 december 2013 is nog een satelliet gelanceerd, de Gaia, die ook in een Lissajous-achtige baan rond het L2-punt wordt geplaatst.
+Lagrangepunt L3.
+Het Lagrangepunt L3 ligt ook op de as tussen aarde en zon, nu echter aan de andere kant van de zon, vanaf de aarde gezien. Een object op dit punt ondergaat de aantrekkingskracht van de aarde en de zon in dezelfde richting. De aantrekkingskracht van de aarde is op deze grote afstand echter gering. Het Lagrangepunt L3 ligt dan ook vrijwel even ver van de zon als de aarde (de afstand tot het gemeenschappelijke zwaartepunt is iets groter, die tot de zon iets kleiner).
+Bij positionering op het Lagrangepunt L3 is een satelliet steeds buiten zicht van de aarde. Rechtstreekse communicatie met de satelliet lijkt moeilijk (de zon staat ertussen), tenzij via een satelliet op bijvoorbeeld het Lagrangepunt L4 en L5, met de nodige tijdvertraging.
+Lagrangepunten L4 en L5.
+De Lagrangepunten L4 en L5 bevinden zich op de baan van de aarde, met voor- of achterstand van 1 maal de afstand aarde-zon (in rechte lijn, niet langs de kromming van de baan). Het object staat zo in de tip van een gelijkzijdige driehoek, met de as aarde-zon als basis. Omdat de afstanden van het object tot de zon en tot de aarde gelijk zijn, is de verhouding tussen de aantrekkingskrachten gelijk aan de verhouding tussen de massa's van zon en aarde. Hierdoor zal de resulterende kracht exact door het zwaartepunt van het tweelichamensysteem gaan. De resulterende kracht is exact groot genoeg zodat de omlooptijd gelijk is aan die van de aarde.
+De Lagrangepunten L4 en L5 zijn de enige Lagrangepunten die zich even snel bewegen in de omloopbaan rond de zon, omdat ze op dezelfde afstand van de zon gelegen zijn als de aarde. Op L4 bevindt zich de Trojaan planetoïde 2010 TK7.
+De Lagrangepunten L4 en L5 van het Aarde-Maan systeem zijn posities die overwogen worden om eventueel ruimtekolonies te stichten.
+L1.
+formula_1
+formula_2
+Om de vergelijking werkbaar te houden veronderstellen we dat x klein is ten opzichte van d, en we bijgevolg de binomiaal ontwikkeling mogen toepassen.
+formula_3
+Na het invullen van de massa van de aarde: 5.972E24 kg; massa van de zon: 1.989E30 kg en de afstand aarde-zon: 149,600,000 km verkrijgen we een afstand 1.5 miljoen km (tov de aarde) voor Lagrangepunt 1.
+L2.
+Voor Lagrangepunt 2 is de afleiding volledig analoog, men dient wel extra aandacht te besteden aan de mintekens.
+formula_4
+Om de vergelijking werkbaar te houden veronderstellen we dat x klein is ten opzichte van d, en we bijgevolg de binomiaal-ontwikkeling mogen toepassen.
+formula_5
+Na het invullen van de massa van de aarde: 5.972E24 kg; massa van de zon: 1.989E30 kg en de afstand aarde-zon: 149,600,000 km verkrijgen we een afstand 1.5 miljoen km (tov de aarde) voor Lagrangepunt 2.
+Zon en Jupiter.
+Op de L4- en L5-punten van Jupiter bevinden zich van nature al groepen planetoïden die Trojanen genoemd worden. In maart 2003 waren er al 1560 bekend.
+Zon en Neptunus.
+In 2001 is een dergelijke planetoïde ook in de baan van Neptunus ontdekt: een rotsblok met een diameter van ongeveer 230 km.
+Aarde en maan.
+L1 en L2 liggen op ongeveer 60.000 km van de maan.
+Stabiliteit van L1, L2 en L3.
+De eerste drie Lagrangepunten zijn slechts stabiel bij verplaatsingen loodrecht op de verbindingslijn tussen de hemellichamen. Dit kan het gemakkelijkst worden gezien door het L1 punt te bekijken. Een testmassa die loodrecht op de verbindingslijn van de twee massa's wordt verplaatst zou een trekkende kracht naar het evenwichtspunt voelen. Dit is omdat de zijcomponenten van de zwaartekracht-trekkracht van de twee massa's gericht zijn naar het evenwichtspunt.
+Bij verplaatsing langs de verbindingslijn tussen de twee hemellichamen, komt de testmassa dichter tegen één van beide hemellichamen en wordt de zwaartekracht van dat hemellichaam groter en van het andere hemellichaam kleiner. De testmassa zal steeds verder afwijken.
+Toch zijn L1, L2 en L3 te gebruiken, omdat slechts zeer weinig brandstof nodig is om kleine afwijkingen te compenseren.
+Stabiliteit van L4 en L5.
+De Lagrangepunten L4 en L5 zijn stabiel als de verhouding van de massa's > 24,96. Dit geldt onder meer voor de zon met een willekeurige planeet, en voor de aarde met de maan. Daardoor kunnen objecten hier wel een miljard jaar op hun plaats blijven, behalve bij de aarde met de maan: verstoringen door de planeten beperken de stabiliteit, maar objecten kunnen hier toch nog wel enkele miljoenen jaren op hun plaats blijven.

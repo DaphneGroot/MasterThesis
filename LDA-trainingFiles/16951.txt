@@ -1,0 +1,10 @@
+Betalingsbalans.
+De betalingsbalans van een land is een overzicht van de waarde van alle transacties die in een bepaalde periode hebben plaatsgevonden tussen ingezetenen van het land en niet-ingezetenen van andere landen (het buitenland). De Nederlandse betalingsbalans wordt samengesteld en gepubliceerd door De Nederlandsche Bank.
+De betalingsbalans bestaat uit 2 delen (die op zich ook onderverdeeld zijn in deelbalansen of deelrekeningen): de lopende rekening en de kapitaal- en financiële rekening. De handelsbalans betreft de som van de netto inkomsten en betalingen van en naar het buitenland, de kapitaal- en financiële rekening betreft de netto kapitaalstromen van en naar het buitenland. In theorie dienen deze twee rekeningen elkaar in evenwicht te houden, maar in de praktijk zijn statistische afwijkingen mogelijk.
+De inkomende geldstromen (ontvangsten van het buitenland) worden boekhoudkundig geregistreerd met een plusboeking: +; de uitgaande geldstromen (betalingen aan het buitenland) worden geregistreerd met een minboeking: -. Zo wordt de export geregistreerd met een plusboeking want dit is een uitgaande goederenstroom maar een inkomende geldstroom. De import is een minboeking want er is sprake van een uitgaande geldstroom.
+Deelrekeningen.
+De dienstenrekening, inkomensrekening en inkomensoverdrachtenrekening heten samen het onzichtbaar verkeer. Dit ter onderscheiding van het zichtbare verkeer van de goederenrekening of handelsbalans.
+De deelrekeningen kunnen een saldo (ongelijk aan nul) vertonen; de totaliteit van de betalingsbalans (de som van de lopende rekening en de kapitaal- en financiële rekening) is in theorie echter altijd in evenwicht.
+In de praktijk is de betalingsbalans vaak niet in evenwicht; deze afwijkingen berusten op vergissingen en weglatingen.
+Situatie in Nederland.
+Nederland lijdt aan een chronisch exportoverschot, dat na de invoering van de euro totaal uit de hand is gelopen. De laatste 3 jaren ligt het met ruim 10% van het BBP uitzichtloos boven de euronorm van 6%. Via een Macro Imbalance Procedure(MIP) moet Nederland hiermee op het strafbankje belanden van de Europese Commissie.

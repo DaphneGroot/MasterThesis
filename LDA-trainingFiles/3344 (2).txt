@@ -1,0 +1,29 @@
+Optellen.
+Optellen met appels is een concrete manier om jonge kinderen kennis te laten maken met optellen.
+Optellen is een van de basisoperaties uit de rekenkunde. Optellen is oorspronkelijk het bepalen van het totale aantal dat ontstaat bij samenvoeging van twee of meer afzonderlijke aantallen. Het symbool voor optellen is het plusteken (+). In het plaatje hiernaast ziet men bijvoorbeeld 1 + 2 + 2 appels. Samengevoegd zijn dat vijf appels. Daarom is 1 + 2 + 2 = 5. Hierbij noemt men de getallen "1", "2" en "2" de "termen". Het "totaal", in ons voorbeeld 5, noemt men de "som". Optellen is een rekenkundige bewerking van de eerste orde.
+Behalve voor het tellen van fruit wordt optellen ook gebruikt voor het samenvoegen van andere fysieke en abstracte grootheden. Daarbij worden verschillende soorten getallen gebruikt, zoals gehele getallen, negatieve getallen, breuken, decimale getallen, irrationale getallen en complexe getallen.
+In zijn eenvoudigste vorm, bij gehele getallen, betekent optellen dat er startend van een begingetal een volgend aantal wordt bijgeteld. Dat houdt in dat er vanaf het begingetal, zeg 8, verder geteld wordt, tot dit volgende aantal, zeg 3, erbij is geteld. Acht, negen, tien, elf. Door vanaf 8 dus 3 verder te tellen krijgen we als resultaat 11. Conclusie: 8 + 3 = 11, "8 plus 3 is 11". Dit resultaat 11 noemt men de "som" van de bij elkaar opgetelde getallen.
+Bij het optellen van grote getallen is deze telmethode nogal omslachtig en ook tijdrovend. Probeer bijvoorbeeld maar eens om beginnend bij het getal 25 hier 50 bij op te tellen door vanaf 26 tot 75 te tellen (25 + 50 = 75). Om dit soort opgaven op een efficiëntere wijze uit te kunnen voeren leren kinderen optellingen met een som kleiner dan tien uit hun hoofd. Voor optellingen, waar de som van de optelling boven de tien uitkomt, leert men methoden om getallen op een meer systematische wijze bij elkaar op te tellen. Daarbij wordt gebruikgemaakt van de gewoonte om getallen in het decimale positiestelsel weer te geven.
+Methoden voor het optellen van twee getallen.
+Eén methode is de decimale posities van rechts naar links af te werken.
+Een voordeel is dat men cijfer voor cijfer definitief vaststelt (en dus kan opschrijven) nog voor de berekening af is. Een nadeel kan zijn dat men de minst significante cijfers het eerst bepaalt.
+Als men van links naar rechts werkt bepaalt men een steeds nauwkeuriger benadering van het antwoord, in dit geval achtereenvolgens 1000, 1120 en 1123. Dit heeft als voordeel dat men in de loop van de berekening alvast een benadering van het antwoord heeft, en eventueel kan besluiten dat dit voldoende is om te weten. Een nadeel is dat het definitieve cijfer in een bepaalde decimale positie van alle cijfers vanaf die positie naar rechts in beide termen kan afhangen. Als men dus alvast een cijfer wil opschrijven zonder naar de cijfers rechts van de betreffende decimale positie in de termen te kijken, moet men eventueel een genoteerd cijfer later weer veranderen. Om een cijfer definitief te bepalen hoeft men echter maar beperkt naar die andere cijfers te kijken: alleen als één positie naar rechts de som van de beide cijfers 9 bedraagt moet men naar de cijfers in de volgende decimale positie kijken, enzovoort. Men hoeft dus nooit veel tegelijk te onthouden om achtereenvolgens de definitieve cijfers op te schrijven. Bovendien, als men in een zeldzaam geval veel decimale posities heeft moeten bekijken om in één positie het definitieve cijfer te bepalen dan kan men vervolgens zonder verdere moeite overeenkomstig veel extra cijfers definitief opschrijven (een rijtje nullen of een rijtje negens), alvorens er weer een decimale positie is waarbij men weer moet gaan rekenen.
+Methoden voor het optellen van meer dan twee getallen.
+Ook bij het optellen van meer dan twee getallen kan men van rechts naar links werken als boven. Men kan dan wel meer dan een overtollige 10 hebben, het kan een tienvoud zijn. Bij het optellen van zeer veel getallen kan de som van de cijfers in een bepaalde positie ook 3 of meer zijn, waardoor men meer moet onthouden, of op een kladje opschrijven.
+Bij het werken van links naar rechts is het in het geval van het optellen van meer dan twee getallen lastiger om cijfers definitief te bepalen, en moet men dus kladaantekeningen maken (bijvoorbeeld de som van de cijfers per kolom) vóór men uiteindelijk het definitieve getal opschrijft.
+Belangrijke eigenschappen.
+De volgorde waarin getallen worden opgeteld maakt niet uit. De som is altijd hetzelfde. De optelling is dus associatief en commutatief. Bij een oneindige reeks waarbij de partiële sommen naar een limiet convergeren kan de volgorde wel uitmaken.
+Als het getal nul wordt opgeteld bij een willekeurig getal, zal dat getal niet veranderen. Nul is het neutrale element voor de optelling.
+De som van een getal en zijn tegengestelde is nul.
+Notatie.
+Voorbeeld van het klassieke cijferend optellen
+Daarbij is de volgorde van optellen niet belangrijk.
+Als de termen niet afzonderlijk worden uitgeschreven, wordt gebruikgemaakt van het sommatieteken, de hoofdletter sigma uit het Griekse alfabet
+Ook optellingen van oneindig veel termen komen in de wiskunde voor; zij worden oneindige reeksen genoemd. De som van zo'n reeks (de reekssom) kan wel een eindige waarde hebben.
+Inverse van optellen.
+De inverse (tegengestelde) bewerking van optellen is aftrekken.
+Apparatuur en software.
+Vóór de elektronische rekenmachine waren er voor het rekenwerk mechanische rekenapparaten, zowel met handbediening als elektrisch. Een mechanisch apparaat voor optellen en aftrekken was bijvoorbeeld de Addiator.
+In de meeste spreadsheets is er de functie SUM om een rij, kolom of rechthoek van getallen op te tellen, zie ook de lijst van Excel-functies.
+Algemener.
+De operatie van een abelse groep wordt vaak als optelling opgevat. Een voorbeeld is het optellen van vectoren.

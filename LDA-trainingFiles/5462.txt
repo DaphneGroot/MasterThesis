@@ -1,0 +1,11 @@
+IBM Personal Computer.
+De IBM-PC was een computer voor thuis- en kantoorgebruik die op 12 augustus 1981 door IBM werd geïntroduceerd, en de "de facto"-standaard zou worden voor personal computers (IBM-PC-compatibel).
+Technische informatie.
+Het was een 16-bits-computer met een 20-bits-adresbus, gebaseerd op de 8088-microprocessor met een kloksnelheid van 4,77 MHz. Deze pc werd ontworpen en gebouwd door IBM. De IBM-PC was opgebouwd uit standaardcomponenten die niet specifiek voor de IBM-PC waren ontwikkeld. Alleen de BIOS-firmware was specifiek voor de IBM-PC ontwikkeld en bevatte onder andere een BASIC-interpreter. De eerste pc's haalden hun gegevens en programmatuur van floppydisks.
+IBM wilde andere bedrijven in staat stellen uitbreidingskaarten voor de ISA-bus te maken voor de IBM-PC en stelde daarom de specificaties beschikbaar in een boek, dat voor $49 te koop was.
+IBM bracht ook een versie van de pc uit met een harde schijf van 10 MB; dit werd de "IBM PC XT" (eXtended Technology) genoemd.
+In 1984 verscheen de "IBM PC AT" (Advanced Technology), die was gebaseerd op de Intel 80286-processor. Deze draaide op 6 MHz en had standaard een harde schijf van 20 MB.
+De IBM-PC was de basis voor de populaire IBM-PC-compatibele computers of "klonen".
+Vanaf 1987.
+In de loop der jaren heeft de IBM Personal Computer-divisie diverse series Personal Computers uitgebracht voor zowel thuisgebruik als zakelijk gebruik, zoals de PCjr, 1, 2, ValuePoint, ThinkPad, Aptiva, PC Series, NetVista en ThinkCentre. Uiteindelijk is de pc-divisie in 2005 verkocht aan Lenovo.
+Servers met x86-processoren begon met bepaalde PS/2 Server-modellen, wat achtereenvolgend de IBM PC Servers, NetFinity, eServer xSeries en uiteindelijk de huidige IBM System x.

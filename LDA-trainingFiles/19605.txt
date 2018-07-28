@@ -1,0 +1,14 @@
+Really Simple Syndication.
+Alle RSS-varianten zijn XML-bestanden, RSS-feeds genaamd.
+Geschiedenis.
+RSS is als 'ScriptingNews format' ontwikkeld in 1997 door Dave Winer bij UserLand Software en in maart 1999 voor het eerst op grote schaal toegepast door Netscape (Dan Libby) bij My.Netscape. Ook toen was het bestandsformaat al bedoeld om webkopij in syndicatie te brengen, bij Netscape-pushkanalen. Netscape ondersteunt RSS niet meer sinds april 2001. Dave Winer zette de ontwikkeling voort binnen zijn bedrijf Userland.
+Gebruik.
+RSS wordt vooral gebruikt bij weblogs, fora of nieuwssites om telkens op de hoogte te kunnen zijn van het laatste artikel/nieuws. Weblogs en fora worden meestal bijgehouden met speciaal ontwikkelde publicatiesoftware. Dit soort software (bijvoorbeeld WordPress, Blogger, Movable Type, Pivot en Joomla!) genereert naast de reguliere (X)HTML-output ook vrij eenvoudig, of zelfs automatisch, een RSS-feed.
+RSS-feeds (XML-bestanden) worden in de regel gegenereerd door de publicatiesoftware van degene die een website onderhoudt. Deze vorm van publiceren is niet louter voorbehouden aan webloggers. Ook grote webuitgaven als De Telegraaf, De Volkskrant, Trouw, The Washington Post en The New York Times publiceren hun kopij behalve in HTML ook in RSS.
+RSS-feeds zijn te lezen met speciale RSS-lezers (zoals Feedly), maar kunnen ook op speciale websites worden gelezen. RSS-lezers zijn er in vele soorten en smaken, betaald en niet betaald, onder meer voor Linux, macOS en Windows. Met sommige kan men louter RSS-feeds lezen, met andere kan ook geblogd worden of kan men Usenet-groepen bezoeken. De meeste grote webbrowsers ondersteunen RSS, zo bevat de Safari-browser van Apple sinds 2005 een ingebouwde RSS-lezer. Ook Mozilla Firefox heeft een ingebouwde RSS-lezer (genaamd 'Live Bookmarks' of 'Livebladwijzers'). Opera ondersteunt RSS al vanaf versie 8. En sinds versie 7 ondersteunt ook Internet Explorer het gebruik van RSS-feeds. Ook voor sommige mobiele telefoons, voornamelijk smartphones, zijn RSS-lezers te verkrijgen.
+Sinds RSS 2.0 (2002) kan RSS ook verwijzingen naar andere bestanden bevatten via "enclosures". Dit laat bijvoorbeeld toe om RSS te gebruiken voor podcasting.
+RSS-syntaxis.
+<description>Deze webfeed notificeert u van nieuwe artikelen op Wikipedia NL.</description>
+<link>//nl.wikipedia.org/wiki/Really_Simple_Syndication</link>
+<description>RSS, of Really Simple Syndication, is een familie van webfeedformaten.</description>
+<description>Atom is een soort webfeed, net als RSS.</description>

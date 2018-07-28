@@ -1,0 +1,6 @@
+GNU Lesser General Public License.
+De GNU Lesser General Public License (meestal afgekort tot LGPL) is een licentie voor vrije software, bedacht door Richard M. Stallman en Eben Moglen. Het is een variatie op de GPL. De licentie heette eerst GNU Library GPL.
+Dit is een licentie bedoeld voor computersoftware die als onderdeel van een gesloten programma gebruikt mag worden, iets wat bij de GPL niet mogelijk is.
+Het "virale" aspect van de GPL is niet meer aanwezig. Wijzigingen in de broncode van de LGPL-delen van een product moeten ter beschikking worden gesteld aan de gebruikers. Echter nieuwe geschreven code die alleen maar gelinkt is aan de LGPL-code hoeft niet ter beschikking te worden gesteld.
+In het GNU-project wordt er een sterke voorkeur aan gegeven om programma's en bibliotheken onder de GPL uit te brengen, maar soms zijn er al erg goede alternatieven voor een softwarebibliotheek beschikbaar en zou de restrictie van de GPL het project uit de markt kunnen prijzen. In zo'n geval wordt naar de LGPL gegrepen zodat de bibliotheek ook in gesloten software kan worden gebruikt.
+KHTML, de HTML-renderer van Konqueror, valt ook onder de LGPL. Hierdoor heeft Apple KHTML kunnen gebruiken in zijn browser Safari.

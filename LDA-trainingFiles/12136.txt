@@ -1,0 +1,6 @@
+Wig van Wallis.
+De wig van Wallis is een voorwerp met een aparte vorm. Het bijzondere is dat het door alle drie de openingen, cirkel, vierkant en driehoek, past.
+De vorm is vernoemd naar de wiskundige John Wallis.
+De wig van Wallis is een voorbeeld van een regeloppervlak. Deze wig ontstaat uit een cirkel met diameter "d" en een lijnstuk met lengte "d", waarvan het midden loodrecht boven het middelpunt van de cirkel ligt, op hoogte "d". De beschrijvenden van de wig zijn allemaal evenwijdig aan het middelloodvlak van het lijnstuk en verbinden een punt van het lijnstuk met een punt van de cirkel. De doorsneden van de wig met een vlak dat evenwijdig is aan een vlak van de cirkel zijn ellipsen.
+De wig wordt wel gebruikt om aan te tonen dat een ruimtelijk figuur in de richting van elk van de drie dimensies er totaal anders uit kan zien.
+waarin "a", "b" en "c" constanten voorstellen, "u" en "v" de veranderlijke parameters en "x", "y" en "z" de cartesische coördinaten.

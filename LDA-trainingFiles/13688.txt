@@ -1,0 +1,5 @@
+Deductie.
+Deductie is een methode in de filosofie en in de logica, waarbij een gevolgtrekking wordt gemaakt uit het algemene naar het bijzondere - van de algemene regel (major-premisse) naar de bijzondere regel (minor-premisse) of waar de verzameling van premissen en de negatie van de conclusie inconsistent zijn.
+Voorbeeld.
+Een deductieve redenering van deze vorm noemt men ook een syllogisme. Deze redeneervorm is verder ontwikkeld en uitgebreid in diverse systemen van propositielogica en predicaatlogica, de meest gebruikte hiervan is de natuurlijke deductie.
+Tegenover deductie staat inductie, waarbij op grond van enkele bijzondere gevallen een algemene conclusie wordt getrokken.

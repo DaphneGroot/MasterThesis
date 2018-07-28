@@ -1,0 +1,7 @@
+Nl-hiërarchie.
+De nl-hiërarchie is de Nederlandse tak van Usenet. Het behelst alle groepen waarvan de naam begint met nl, zoals nl.muziek, nl.media.tv en nl.politiek.
+Beheer.
+Het beheer van de nl-hiërarchie wordt uitgevoerd door de nl-raad. (Voorheen door de nl-admin.) Deze beslist over de aanmaak van nieuwe groepen. Zij vraagt de Usenetgemeenschap echter wel om advies. Bij uitzondering wordt nog een stemming gehouden.
+Om een voorstel voor een nieuwe groep te doen dient men de "FAQ Over aanmaken van nieuwe nieuwsgroepen" te raadplegen. De procedure is aan wijzigingen onderhevig. De laatste versie is te vinden in de nieuwsgroep nl.newsgroups
+Cultuur.
+In de meeste groepen van de nl-hiërarchie hecht men erg aan de nettiquette. Zie ook Usenetcultuur.

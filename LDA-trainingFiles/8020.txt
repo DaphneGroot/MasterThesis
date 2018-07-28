@@ -1,0 +1,6 @@
+Grootcirkel.
+Een grootcirkel, grote cirkel of orthodroom is een cirkel op een boloppervlak waarvan de straal gelijk is aan de straal van de bol. Dit betekent ook dat het middelpunt van alle grootcirkels en van de bol samenvallen. Wanneer men een doorsnede van een bol door dit middelpunt construeert, levert dit een schijf op waarvan de omtrek een grootcirkel is.
+Kortste verbinding.
+De kortste verbinding tussen twee punten op een bol, gemeten over de oppervlakte, is altijd een deel van een grootcirkel (grootcirkels zijn geodeten). Grootcirkelnavigatie wordt vooral toegepast bij grotere afstanden waar er een ruime bekorting is ten opzichte van loxodroomnavigatie. Zo vaart een trans-Atlantisch schip van Southampton naar New York bij voorkeur over de op een grootcirkel lijkende verbinding tussen beide steden, terwijl deze op sommige kaarten als een enorme omweg overkomt. Alleen op kaarten in de gnomonische projectie zijn alle grootcirkels en meridianen rechte lijnen, wat handig is om de kortste route te bepalen.
+Afplatting.
+Door de afplatting van de aardbol zijn meridianen niet exact halve grootcirkels (de evenaar is dat in principe wel). Een meridiaan vormt, met zijn spiegelbeeld aan de andere kant van de aarde, een ellips. De breedtecirkels of parallellen zijn ook geen grootcirkels.

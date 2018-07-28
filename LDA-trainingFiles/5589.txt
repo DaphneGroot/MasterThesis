@@ -1,0 +1,15 @@
+Dominant (genetica).
+Een genetische eigenschap is dominant aanwezig als bij een diploïd organisme slechts een van de twee allelen (kopieën) van een gen (òf die op het van de moeder afkomstige chromosoom òf die op het van de vader afkomstige chromosoom) tot uiting (expressie) komt. Het niet tot expressie komende allel heet recessief.
+Bij polyploïde organismen zijn er meer dan twee allelen van een gen aanwezig. Bij een tetraploïd is dit bijvoorbeeld vier. Als er vier recessieve allelen aanwezig zijn wordt dit een nulliplex genoemd, bij twee een duplex, bij één een triplex en een quadriplex heeft vier dominante allelen.
+Penetrantie.
+Dominante eigenschappen komen niet altijd bij elk individu dat het dominante allel draagt, volledig tot uiting; men zegt dan dat de penetrantie van het gen niet volledig is. Als een dominant gen bij 80% van de dragers van het gen tot uiting van de eigenschap leidt, is de penetrantie 80%.
+Schematische weergaven.
+In de genetica wordt het dominante allel aangeduid met een hoofdletter en het recessieve allel met een kleine letter. Personen homozygoot voor het dominante allel worden aangeduid met AA. Heterozygote personen hebben één dominant en één recessief allel en worden aangeduid met Aa. Personen homozygoot voor het recessieve allel worden aangeduid met aa. Zowel personen met AA als personen met Aa zullen dus de dominante eigenschap "A" tot uiting brengen.
+In een genetische stamboom (zie de afbeelding) wordt overzichtelijk gemaakt, hoe een dominante eigenschap overerft in een familie. Bij stambomen zoals op de afbeelding kan men al snel denken aan een autosomaal dominante eigenschap of aandoening.
+Met behulp van een Vierkant van Punnett kan men snel inzicht krijgen in de mogelijke allelen bij nakomelingen van een ouderpaar van wie de allelen bekend zijn.
+Autosomaal dominant overervende aandoeningen.
+Niet alleen positieve of neutrale eigenschappen kunnen overgeërfd worden volgens het autosomaal dominante patroon. Ook aandoeningen kunnen op deze manier overerven.
+Voorbeelden.
+Voorbeelden van autosomaal dominante aandoeningen zijn erfelijke borstkanker, erfelijke darmkanker, frontotemporale dementie, de ziekte van Huntington, het syndroom van Apert, myotone spierdystrofie, het syndroom van Marfan en hemochromatose.
+Evolutionair voordeel van sommige dominante mutaties.
+Als door een afwijking in een gen, mutatie genoemd, een ander eiwit wordt aangemaakt en zo bijvoorbeeld resistentie geeft tegen een voor de plant schadelijk organisme (o.a. schimmel, insect of aaltje), dan zal zo'n afwijking deze plant voordeel opleveren en zal deze mutatie in de populatie de overhand krijgen.

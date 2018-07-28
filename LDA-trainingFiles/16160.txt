@@ -1,0 +1,5 @@
+Decoder.
+Voorbeeld van een decoder die een 2-bits binair getal omzet in vier individuele signalen
+Een decoder is een geheel van functies die een signaal decodeert die volgens een afgesproken protocol gecodeerd is geweest.
+Deze functies kunnen volledig softwarematig opgelost worden of hardwarematig in al of niet specifieke decoder-chips.
+De omgekeerde functie is coderen, ze worden vaak gecombineerd in een Codec.

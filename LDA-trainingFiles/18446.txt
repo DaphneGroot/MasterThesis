@@ -1,0 +1,11 @@
+Evenwijdig.
+Evenwijdig, of parallel, is een begrip uit de meetkunde waarmee aangegeven wordt dat twee of meer objecten overal dezelfde afstand ("wijdte") tot elkaar hebben. Als een van de weinige talen heeft het Nederlands er met "evenwijdig" een eigen term voor. Deze term is bedacht door Simon Stevin (1548-1620).
+Zo zijn bijvoorbeeld de zijden van een vierkant twee aan twee aan elkaar evenwijdig, en ook die van een parallellogram.
+Evenwijdige lijnen worden aangegeven met pijlen
+Een rechte is evenwijdig met een vlak als ze evenwijdig is aan een rechte in dat vlak.
+Men kan ook spreken van evenwijdige krommen als hun afstand overal gelijk is. De breedtecirkels op het aardoppervlak zijn in die zin evenwijdig en worden daarom ook "parallellen" genoemd.
+Evenwijdigheid is alleen een zinvol begrip in de Euclidische meetkunde. In niet-euclidische ruimten gelden ingewikkelder regels met betrekking tot de snijpunten van twee lijnen.
+Vroeger werd wel geleerd dat twee evenwijdige lijnen elkaar in het oneindige snijden. Dit is gebaseerd op het verschijnsel, dat de hoek tussen twee elkaar snijdende lijnen steeds kleiner naarmate ze de evenwijdige toestand naderen. Daarbij komt het snijpunt steeds verder weg te liggen. In de limiet, bij evenwijdigheid, zou het snijpunt dan in het oneindige liggen.
+Illustratie van de limiet van het snijpunt tussen twee lijnen, die naar het oneindige gaat als de hoek tussen de lijnen kleiner wordt.
+In het lijnperspectief lijken parallelle lijnen elkaar ook te snijden in het verdwijnpunt.
+Het woord parallel wordt ook in de elektrotechniek en elektronica gebruikt. Een "parallelschakeling" betekent dat twee componenten naast elkaar worden aangebracht, met ieder uiteinde op dezelfde spanning. Parallel geschakelde componenten hoeven op een schakeling zelf helemaal niet evenwijdig geplaatst te zijn, als maar aan de bovenstaande voorwaarde wordt voldaan.

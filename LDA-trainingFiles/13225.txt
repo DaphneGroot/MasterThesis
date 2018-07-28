@@ -1,0 +1,13 @@
+Snelschaak.
+Een schaakklok die gebruikt wordt bij snelschaak.
+Snelschaak (ook wel bulletschaak of blitzschaak genoemd) is een vorm van schaken waarbij beide spelers minder dan 15 minuten bedenktijd hebben. Als er met een toegevoegde tijd wordt gespeeld (zoals bij gebruik van de Fischer-klok), dient de toegekende tijd plus zestig maal de toegevoegde tijd minder te zijn dan vijftien minuten.
+Het komt regelmatig voor dat, zeker in de zeer korte partijen, een onreglementaire zet onopgemerkt blijft. Men gaat bijvoorbeeld door het schaak heen. Als de tegenstander een zet doet, zonder de onreglementaire zet gemeld te hebben, gaat de partij gewoon verder. Het kan dus voorkomen dat beide partijen schaak staan. Men komt dan overeen wat de uitslag zal zijn: wit wint, zwart wint of het is remise. Er zijn vele variaties op de regels van snelschaak. Vaak worden de van toepassing zijnde regels dan ook vooraf opgesomd door de wedstrijdleider.
+Aangezien snelschaken weinig tijd over laat om diep na te denken komt het op training en ervaring aan en komen sterkteverschillen doorgaans sterker tot uitdrukking. Het niveau van een snelschaakpartij is in het algemeen beduidend lager dan dat van een normale partij. Meestal geldt de regel: Wie de minste blunders maakt wint.
+Bulletschaak of Blitzschaak.
+Bulletschaak, "lightning schaak" of Blitzschaak is een vorm van snelschaken waarbij per spelers slechts één minuut of soms twee minuten bedenktijd beschikbaar is voor de gehele partij. Het kan worden gezien als een extreme vorm van snelschaken.
+Bij lightning schaken vallen de stukken vaak om of vliegen ze letterlijk van het bord door de zeer snelle handbewegingen van de spelers. Ook ontstaat er soms onenigheid over op welk veld een stuk staat. Deze problemen vormen een belemmering voor het praktische spel.
+Lightning schaak is gemakkelijker te spelen via met elkaar in verbinding staande computers. De spelers treffen elkaar op schaakservers, die zorgen voor een snelle en nauwkeurige uitvoering van de gespeelde zetten. Deze manier van supersnel schaken is inmiddels zeer populair geworden.
+Erg hoogstaand is het niveau natuurlijk niet doordat men heel weinig tijd heeft om na te denken.
+De meeste partijen eindigen door een grote blunder van een speler of omdat de tijd van één van de spelers op is.
+Armageddon.
+Bij Armageddon heeft elke partij een winnaar omdat een remise geteld wordt als een overwinning van zwart. Ter compensatie heeft wit meer tijd op de klok, bijvoorbeeld 6 minuten voor wit en 5 minuten voor zwart.

@@ -1,0 +1,7 @@
+Magnetische weerstand.
+De magnetische weerstand of reluctantie, is een maat voor de hindering van magnetische flux in een magnetisch circuit. Voor elke ampère-winding aan magnetomotorische kracht formula_1 ontstaat in het circuit een bepaalde hoeveelheid magnetische flux formula_2, de verhouding tussen de twee noemt men de reluctantie, ze wordt meestal aangeduid met een gekrulde grote "R".
+in ampère-winding per weber. De reluctantie wordt vaak gezien als de analoog van de elektrische weerstand in de wet van Hopkinson, het magnetische analogon van de wet van Ohm. Het omgekeerde van de reluctantie is de magnetische geleidbaarheid of permeantie formula_4.
+Berekening.
+Deze formule is analoog aan de wet van Pouillet voor elektrische weerstand.
+Om de totale reluctantie van een meer complex circuit te berekenen splitst men het circuit meestal in - in serie staande - deelreluctanties, die - analoog aan elektrische weerstanden - gesommeerd mogen worden.
+Wanneer een magnetische kring zowel uit ferromagnetische als niet-ferromagnetische materialen bestaat (bijvoorbeeld een kern met luchtspleet), is de reluctantie van de ferromagnetische materialen meestal verwaarloosbaar, aangezien de permeabiliteit ervan een paar grootteorden groter is. Het gedrag van het circuit wordt dan dus hoofdzakelijk bepaald door de luchtspleet.

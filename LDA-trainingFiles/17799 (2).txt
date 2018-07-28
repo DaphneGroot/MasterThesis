@@ -1,0 +1,6 @@
+9 (getal).
+Negen is 9, 8 + 1. Negen is het natuurlijke getal dat acht opvolgt en tien voorafgaat. Verder valt het getal 9 te definiëren als het getal 3 tot de macht twee.
+In de wiskunde.
+2817 = 2000 + 800 + 10 + 7 en dus
+2817= 2 × (999 + 1) + 8 ×(99 + 1) + 1 × (9 + 1) + 7 en uitgewerkt geeft dit
+2817= 2 × 999 + 8 × 99 + 9 + 2 + 8 + 1 + 7 waarbij we makkelijk kunnen inzien dat de termen met 999 en 99 en 9 deelbaar zijn door 9.

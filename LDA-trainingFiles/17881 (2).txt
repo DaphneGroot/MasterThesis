@@ -1,0 +1,2 @@
+Verzadigdedampdruk.
+Met de verzadigdedampdruk wordt bedoeld de druk behorend bij een gas dat in thermodynamisch evenwicht is met de gecondenseerde fase (dat wil zeggen vloeistof of vaste stof). Per tijdseenheid condenseren van een bepaalde stof dan evenveel gasmoleculen als dat er vloeistof of vaste-stofmoleculen verdampen. In die situatie is de Gibbs vrije energie voor de moleculen in de gasfase gelijk aan die van de gecondenseerde fase. De temperatuurafhankelijkheid van de verzadigdedampdruk wordt beschreven met de vergelijking van Clausius-Clapeyron.

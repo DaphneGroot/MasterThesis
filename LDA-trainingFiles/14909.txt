@@ -1,0 +1,6 @@
+Bevriende getallen.
+Van twee verschillende natuurlijke getallen A en B wordt gezegd dat ze bevriend zijn als de som van de delers van het getal A (behalve A zelf, maar inclusief 1) gelijk is aan het andere getal B, terwijl de delers van B samen het getal A opleveren.
+Leonhard Euler vond tussen 1747 en 1750 een zestigtal nieuwe bevriendegetallenparen. Anno 2007 waren er bijna twaalf miljoen paren bevriende getallen bekend.
+De eerste paar paren bevriende getallen zijn
+Het kleinste getal van een paar bevriende getallen is een overvloedig getal; het grootste is een gebrekkig getal. Het bevriende paar 1184-1210 werd in 1866 ontdekt door de 16-jarige Nicolò Paganini. Hij maakte daarmee destijds grote indruk op wiskundigen van faam.
+De kleinste getallen van paren bevriende getallen vormen rij in OEIS, de grootste.

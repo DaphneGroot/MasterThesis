@@ -1,0 +1,26 @@
+Viscositeit.
+De vloeistof onderaan heeft een hogere viscositeit dan de vloeistof bovenaan en zal dus meer weerstand bieden tegen externe vervormingskrachten.
+Viscositeit, ook bekend als stroperigheid, traagvloeibaarheid of dikvloeibaarheid, is een fysische materiaaleigenschap van een vloeistof of van een gas. Het is de eigenschap van een fluïdum die aangeeft in welke mate deze weerstand biedt tegen vervorming door schuifspanning.
+Zo is water een voorbeeld van een vloeistof met een lage viscositeit, honing een voorbeeld van een vloeistof met een hoge viscositeit. Vloeistoffen met een hoge viscositeit worden viskeus genoemd. Het vloeigedrag van stoffen wordt bestudeerd in de reologie.
+De naam "viscositeit" is afgeleid van de Latijnse naam voor de maretak, "viscum album", bessen waarvan in vroegere tijden vogellijm werd gemaakt.
+Definitie.
+Hierin is de viscositeit van de vloeistof (hiervoor wordt ook wel het symbool μ gebruikt). De eenheid van viscositeit is de pascal-seconde (Pa·s) (equivalent aan N·s/m2 of kg/(m·s)).
+De bovenstaande relatie, bekend als de viscositeitswet van Newton, is alleen geldig bij laminaire stroming, dus als de
+snelheidsgradiënten klein genoeg zijn. Bij te hoge stroomsnelheid ontstaat turbulentie, en dan verdwijnt de lineaire relatie tussen snelheidsgradiënt en schuifspanning.
+Illustratie van de viscositeit. Plaat B beweegt ten opzichte van plaat A. De kracht die hiervoor nodig is, is evenredig met de schuifspanning van de vloeistof tussen de platen.
+Voorbeelden en eigenschappen.
+Om de viscositeit uit te drukken, gebruikt men de eenheid pascal-seconde (Pa·s). Soms wordt een pascal-seconde wel een poiseuille genoemd.
+Enkele voorbeelden van de viscositeit van vloeistoffen: water (20 °C): 1,002 mPa·s; bloed: 10 mPa·s; glycerine: ca. 1000 mPa·s; pindakaas: 150 000 tot 250 000 mPa·s.
+Gassen hebben doorgaans een ongeveer 100 maal lagere viscositeit dan vloeistoffen. Aardgas heeft bijvoorbeeld tussen 0 °C en 20 °C een viscositeit van ongeveer 10 μPa·s (0,010 mPa·s).
+De viscositeit van een vloeistof is sterk afhankelijk van de temperatuur: bij hogere temperaturen zijn veel vloeistoffen minder viskeus dan bij lagere temperaturen. Bij gassen is dit omgekeerd: bij hogere temperatuur wordt een gas juist viskeuzer.
+Zeer stroperige vloeistoffen zoals bitumen lijken op een vaste stof, maar kunnen toch ook bij kamertemperatuur vloeigedrag vertonen. De vloeibaarheid van bitumen is aangetoond door middel van het pekdruppelexperiment. Bitumen is een belangrijk bestanddeel van asfalt en zorgt voor de visco-elastische eigenschappen van asfalt. Zo wordt de ribbelvorming die vaak optreedt voor de stopstrepen van druk bereden kruispunten met verkeerslichten, verklaard door visco-elastische vervorming onder invloed van rem- en aanzetkrachten van het verkeer. Hierbij speelt ook de temperatuur een belangrijke rol, aangezien de stroperigheid van bitumen afneemt bij hogere temperaturen.
+Vloeibaar helium verliest alle stroperigheid als het beneden een bepaalde temperatuur wordt afgekoeld. Deze "supervloeibare" fase heeft allerlei bijzondere eigenschappen.
+Viscositeit meten.
+Met de tweede methode kan ook de viscositeit worden vastgesteld als functie van de "afschuifsnelheid": bij "gewone" vloeistoffen is de gemeten kracht recht evenredig met de snelheid: de viscositeit is niet afhankelijk van de snelheid (Newtoniaanse vloeistoffen). Voor sommige vloeistoffen neemt de viscositeit bij toenemende snelheid toe, voor andere vloeistoffen neemt hij af. Met de tweede methode kan ook de opslag en verlies modulus van visco-elastische vloeistoffen worden gemeten door de buiten cilinder of plaat niet met een vaste snelheid te laten ronddraaien maar door deze met wisselende frequenties te laten oscilleren.
+Kinematische viscositeit (m2/s).
+Naast de dynamische viscositeit (symbool:) kent men de kinematische viscositeit ().
+Eenheden.
+1 Pa·s = 1 N·s/m2= 1 Pl
+Bulkviscositeit.
+Het bovenstaande is een vereenvoudigde benadering die geldig is voor stromingen waarbij het fluïdum niet wordt samengedrukt. In het algemeen kunnen we een stroming ontbinden in een deel dat geen verandering van volume teweegbrengt, en een deel dat dat wel doet. Dat laatste deel is bijvoorbeeld belangrijk bij het beschrijven van geluidsgolven. De hierboven beschreven viscositeit (de "afschuifviscositeit") heeft betrekking op stromingen waarbij het fluïdum niet wordt samengedrukt of uitzet, maar er is ook een "bulkviscositeit" of "tweede viscositeit" die de spanning beschrijft ten gevolge van stromingen die de vloeistof samendrukken of doen uitzetten, zoals in het geval van geluidsgolven. Merk overigens op dat in dat geval doorgaans "ook" een verandering in de druk plaatsvindt.
+De bulkviscositeit is doorgaans veel groter dan de afschuifviscositeit, en voor vloeistofstromingen kan men vaak aannemen dat de vloeistof "onsamendrukbaar" is, waardoor de bulkviscositeit irrelevant wordt. Ook de beschrijving in termen van twee viscositeiten gaat nog steeds "alleen" op voor het geval van een Newtonse vloeistof.

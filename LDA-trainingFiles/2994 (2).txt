@@ -1,0 +1,8 @@
+Atoommassa.
+De atoommassa (ma) is de massa van een atoom, uitgedrukt in atomaire massa-eenheden (u). Elk isotoop van een scheikundig element heeft een andere atoommassa.
+De atoommassa van een element als geheel is gedefinieerd als het gewogen gemiddelde van de atoommassa's van alle natuurlijke isotopen van dat element, waarbij de relatieve aanwezigheid, de mate waarin elk isotoop verhoudingsgewijs voorkomt op aarde, de wegingsfactor is. Dit gemiddelde wordt in tabellen meestal aangeven met de "relatieve atoommassa".
+Verband met andere eenheden.
+Aangezien per definitie één mol koolstof van de isotoop koolstof-12 (12C) twaalf gram massa bevat, is de atoommassa van één atoom 12C gelijk aan 12/"N"A gram = 1,993 × 10−23 g. Het aantal deeltjes in één mol is gelijk aan het getal van Avogadro ("N"A).
+Historie.
+In vroeger tijden hanteerden chemici en fysici twee verschillende schalen voor de atoommassa. De chemicus hanteerde een schaal die zo geijkt was dat het atoomgewicht van zuurstof volgens de boven gegeven definitie (dus rekening houdend met het voorkomen van alle isotopen) exact op 16 uitkwam. De fysici kenden echter het atoomgewicht 16 toe aan de meest voorkomende isotoop van zuurstof, 16O, die uit 8 protonen en 8 neutronen bestaat.
+In september 1960 besloot het IUPAP tot een herdefinitie, gebaseerd op het 12C atoom, dat men een atoommassa 12 toekende. Dit ijkpunt komt tegemoet aan de wens van de fysici om een zuivere isotoop als uitgangspunt te nemen, terwijl de waarden toch dicht bij de waarden liggen die de chemici hanteerden. Men noemde dit de "geünificeerde atomaire massaconstante", mu.

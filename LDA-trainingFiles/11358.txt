@@ -1,0 +1,6 @@
+Convex.
+Convex is een ander woord voor "bol" (het tegengestelde van "hol" of "concaaf").
+Voorbeeld: de convexe kant van een schaal is de buitenkant; de binnenkant noemen we de concave kant.
+Er bestaan ook convexe en concave lenzen en spiegels.
+Convexe functie.
+Als een topologische vectorruimte beschikt over een lokale basis van convexe omgevingen van de nulvector, dan wordt haar topologie gekarakteriseerd door een familie seminormen. Dergelijke ruimten heten "lokaal convex".

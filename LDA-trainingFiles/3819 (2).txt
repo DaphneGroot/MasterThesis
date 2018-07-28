@@ -1,0 +1,29 @@
+Rij van Fibonacci.
+De rij van Fibonacci is genoemd naar Leonardo van Pisa, bijgenaamd Fibonacci, die de rij noemt in zijn boek "Liber abaci" uit 1202. De rij blijkt interessante eigenschappen en verbanden te bezitten met onder andere de gulden snede.
+Het is evenwel niet duidelijk wie als eerste de rij heeft uitgedacht. Toen Fibonacci 20 jaar was, ging hij naar Algerije waar hij Indiase en Arabische wiskunde bestudeerde. Wellicht leerde hij daar de rij kennen.
+Men laat de rij ook wel met 1 en 1 beginnen in plaats van 0 en 1.
+Definitie.
+De eerste twee elementen zijn per definitie 0 en 1 (sommigen hanteren 1 en 1). Ieder volgend element is de som van de twee voorafgaande waarden. Ook andere waarden voor de eerste twee elementen zijn mogelijk, maar leveren een andere rij (bijvoorbeeld de rij van Lucas).
+Bovenstaande formule, voor het eerst gepubliceerd in 1730 door Abraham de Moivre, is op het eerste gezicht opvallend omdat formula_5 een geheel getal is, terwijl de formule wortels bevat. Zie differentievergelijking voor een bewijs van deze formule.
+Voortbrengende functie.
+Uit de recursievergelijking kan worden afgeleid dat de voortbrengende functie voor de rij van Fibonacci gelijk is aan
+Geschiedenis.
+De rij van Fibonacci wordt al genoemd in de "Chhandah-shāstra" („kunst van de versmaat“) van de Sanskriet schrijver Pingala (ca. 450 v. Chr. of volgens andere datering ca. 200 v. Chr.) onder de naam "maatraameru" („berg van de cadens“). Uitvoeriger behandelden in de 6e eeuw Virahanka en later Acharya Hemachandra (1089–1172) de rij, om rekentechnisch het metrum te beschrijven door de regelmatige verdeling in korte en lange lettergrepen.
+In het westen was het de Italiaanse wiskundige Fibonacci die als eerste de rij noemt in zijn "Liber abaci" (boek van de rekenkunst) bij het 'konijnenprobleem'.
+Konijnenprobleem.
+Fibonacci's berekening van een konijnenpopulatie in zijn "Liber abaci"
+Het aantal aanwezige konijnenparen in een maand groeit dan precies volgens: "1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...".
+Bijen.
+Een nieuwe (historische) analyse van Fibonacci en zijn werk wijst niet op konijnen maar op bijen. Gedurende zijn verblijf in Algerije bracht Fibonacci tijd door in (de buurt van) de stad Béjaïa – in die tijd een belangrijke exporteur van bijenwas ("bougie", een Frans woord voor kaars, is afgeleid van de naam van deze stad). Anders dan bij het konijnenprobleem, waar een aantal niet in alle gevallen even realistische regels gebruikt worden, blijkt de ontwikkeling van een bijenpopulatie ook in werkelijkheid volgens de rij van Fibonacci te verlopen. Er wordt gesuggereerd dat feitelijk de bijenhouders van Béjaïa en kennis van de bijenstambomen de inspiratie voor de rij van Fibonacci vormden.
+Gulden snede en de natuur.
+Naast het verband met de gulden snede blijken de getallen van Fibonacci ook elders in de natuur voor te komen. Bekijk bijvoorbeeld de structuur van een zonnebloem en tel het aantal spiralen waarin de zonnebloempitten gerangschikt zijn. Fibonacci-reeksen komen ook terug in de verdeling van takken aan bomen, de ordening van bladeren aan takken, de vruchten van een ananas, de bloemen van een artisjok, een ontvouwende varen, de ordening van de schubben van een dennenappel en de reeds genoemde honingbijenpopulaties. Ook het vermeerderen van bloembollen, zoals die van sneeuwklokjes en krokussen, verloopt volgens de fibonacci-reeks: elk jaar 1,618 keer zoveel bollen, oftewel een groei van ruim 60%.
+Kamille toont de 21 (blauw) en 13 (lichtblauw) spiralen. Dergelijke ordeningen met betrekking tot opeenvolgende Fibonacci-nummers komen voor in een grote variëteit aan planten.
+Fibonacci en matrixrekening.
+Een tegelwand van vierkanten met afmetingen uit de rij van Fibonacci
+Deze kan gevonden worden zonder dat men de voorgaande waarden moet berekenen. Voor deze macht bestaat ook een gesloten vorm, zie macht van een matrix voor de uitwerking.
+Veralgemeningen.
+Er bestaan varianten op de rij van Fibonacci waarbij de elementen niet ontstaan uit de som van twee, maar uit de som van drie of meer voorgaande elementen. Indien we de drie eerste elementen vastleggen en vanaf het vierde de som van de drie voorgaande nemen, dan verkrijgen we een rij die wel de rij van "Tribonacci" wordt genoemd. Op analoge wijze spreekt men van de rij van "Tetra(bo)nacci" indien we de som van de vier voorgaande getallen nemen. Men kan dit verder veralgemenen naar de som van de "n" voorgaande elementen. Hoewel Fibonacci (van "filius Bonacci", zoon van Bonacci) een naam is, zijn tribonacci en tetra(bo)nacci dit natuurlijk niet.
+Deze getalrijen bevatten echter niet de karakteristieke eigenschappen die aan de Fibonacci-getallen toegeschreven worden; er is geen relatie met de gulden snede, en deze rijen kunnen dus ook niet fungeren als hulpmiddel bij het creëren van wat men als 'esthetisch ideaal' betitelt.
+Test.
+Het positieve gehele getal "n" komt voor in de rij van Fibonacci dan en slechts dan als formula_32 of formula_33 een kwadraat is.
+Het negatieve gehele getal "n" komt voor in de rij van Fibonacci dan en slechts dan als formula_32 een kwadraat is.

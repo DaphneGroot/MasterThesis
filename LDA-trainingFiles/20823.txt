@@ -1,0 +1,11 @@
+IBM System i.
+IBM System i (voorheen eServer iSeries en daarvoor AS/400) is de naam van de voorlaatste generatie midrange computers van IBM (1978 - 2008), gebaseerd op het besturingssysteem OS of Linux. Op 2 april 2008 werd bekendgemaakt dat de System i en System p platforms zijn samengevoegd tot IBM Power Systems.
+System/38.
+Het System/38 was gedurende de ontwerpfase behoorlijk uit zijn jas gegroeid, dit mede dankzij het revolutionaire concept. Het gevolg was dat het te groot, en dus te duur was geworden, als opvolger van het reeds langer bestaande System/34.
+System/34 en System/36.
+Enkele jaren later werd daarom het System/36 op de markt gebracht, met het eenvoudiger System/34 besturingssysteem SSP uitgebreid met gebruikersvriendelijke menu-structuren.
+AS/400.
+Rond 1988 werden beide lijnen uiteindelijk samengevoegd tot een nieuw systeem: AS/400. Dit systeem combineerde de gebruikersvriendelijkheid van System/36 met de geavanceerde architectuur van het System/38. Een belangrijke vernieuwing was de toepasbaarheid van RAID schijfbescherming technieken. Gezien de kwetsbaarheid van het single level storage systeem een absolute noodzaak.
+Aanvankelijk werd het AS/400 systeem, net zoals het System/38 uitgevoerd met een 48-bits op CISC gebaseerde hardware, dat in de jaren 90 werd vervangen door geavanceerdere 64 bits RISC technologie.
+E-Server i5.
+De vijfde generatie iSeries-servers wordt eServer i5 genoemd. i5 staat voor de gebruikte Power5-processor die identiek is aan de processor die gebruikt wordt in de op Unix gebaseerde IBM-computersystemen.

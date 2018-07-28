@@ -1,0 +1,5 @@
+Kopersulfiden.
+Deze laatste verbinding vereist een vrij hoge druk om gevormd te worden.
+Structuren en eigenschappen.
+In de covellietstructuur gebeurt dat met 2 op de 3 zwavelatomen. Het derde gat kan door de hele vaste stof bewegen en het gevolg is dat het mineraal zich als een metallieke geleider gedraagt.
+In CuS2 zijn alle zwavelionen weliswaar als paren aanwezig, maar het koper draagt nog steeds een gat bij aan het zwavelpaar. Men zou dus grofweg kunnen schrijven: Cu+(S2)-. Hiermee is dit koperpyriet een metallieke geleider in plaats van een halfgeleider, zoals pyriet.

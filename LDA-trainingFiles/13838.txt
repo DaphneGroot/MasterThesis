@@ -1,0 +1,4 @@
+Kantoorsoftwarepakket.
+Een kantoorsoftwarepakket (ook wel "office-pakket" of "office suite" genoemd) is een verzameling software, een software suite, die helpt bij de kerntaken van een kantooromgeving, zoals het lezen en schrijven van e-mail en documenten, en het maken van berekeningen.
+Voorbeelden van betaalde kantoorsoftwarepakketten zijn Corel Wordperfect Suite, Microsoft Office en Oracle Open Office (voorheen StarOffice). Een ouder pakket is Microsoft Works.
+Apache OpenOffice, LibreOffice, IBM Lotus Symphony, SSuite Office, en KOffice zijn vrije software.

@@ -1,0 +1,8 @@
+AIX.
+AIX is een besturingssysteem van IBM dat gebaseerd is op Unix. AIX staat voor Advanced Interactive eXecutive, maar het wordt bijna altijd als acroniem uitgesproken (al dan niet op zijn Engels), of door mensen die niet enthousiast zijn als "eeks", hetgeen klinkt als het Engelse woord "aches" dat 'pijnen' betekent.
+Geschiedenis.
+De eerste versie van AIX, voor IBM's PC (AIX/RT), kwam uit in 1986. Deze was gebaseerd op UNIX System V Release 3 van AT&T. Latere versies bevatten verbeteringen uit 4.2BSD en 4.3BSD, ingevoerd door IBM en INTERACTIVE Systems Corporation (in opdracht van IBM). De eerste versie voor de 6000 (AIX/6000) verscheen in 1989.
+AIX had de reputatie onder zijn gebruikers voor de incompatibiliteiten met andere UNIX-varianten. Een grapje dat over de naam AIX veel werd gemaakt is dat het stond voor "Ain't unIX", "is geen Unix" (vgl. GNU).
+Functies.
+Sinds versie 4.3 van AIX worden ook Linux-executables ondersteund door AIX. Vanaf versie AIX5L werd die ondersteuning expliciet gemaakt door de letter L in de naam. Met de komst van versie 6 is de letter L weer verdwenen. Met AIX 6 had IBM voor het eerst een bèta uitgebracht in 2007. Op dit moment zit AIX sinds einde 2010 op versie 7.1 (uitgave 7.1 TL3 verscheen op 19 november 2013).
+Een van de grote voordelen van AIX ten opzichte van de andere UNIX-varianten zoals Solaris of HP-UX is dat AIX standaard met zeer volledige beheersoftware wordt geleverd (SMIT: System Management Interface Tool). Deze software maakt het mogelijk dat systeembeheerders een computersysteem snel en eenvoudig kunnen beheren.

@@ -1,0 +1,5 @@
+Intel 80286.
+Computers met een 80286 werden AT genoemd, in tegenstelling tot de langzamere PC-XT die op een 8086 of 8088 processor werkten.
+De 80286 bleek een denkfout te bevatten. Als de processor in protected mode was gezet, was het onmogelijk terug te keren naar real mode zonder een reset uit te voeren. Intel verwachtte namelijk dat programmeurs in mum van tijd naar de protected mode zouden overstappen en de real mode zouden vergeten.
+Het probleem was dat de IBM PC, die PC-DOS (of MS-DOS) draaide, aan populariteit won. DOS was echter geschreven voor de 8086. Het gevolg was dat DOS-programma's niet de protected mode konden activeren, omdat ze dan niet naar de real mode terug konden schakelen als zij met het besturingssysteem wilden communiceren.
+Na enkele jaren is er toch een methode gevonden dit te doen, gebruikmakend van de mogelijkheid de processor te resetten.

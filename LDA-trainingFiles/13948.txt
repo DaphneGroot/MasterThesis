@@ -1,0 +1,4 @@
+ObjectPAL.
+Object-PAL is de - database-georiënteerde taal die gebruikt wordt in de database Paradox. Het is een Pascal-achtige taal met mogelijkheden die object-georiënteerd aandoen (vandaar de naam). Object-PAL is de opvolger van de taal PAL zoals die in gebruik is voor DOS-versie van Paradox.
+ObjectPal is gedeeltelijk object-georiënteerd in die zin dat objecten een grote rol spelen. Overerving (inheritance) en definitie van nieuwe klassen zijn echter niet mogelijk.
+In de Windows omgeving zijn veel uitgebreidere - interactieve - faciliteiten aanwezig die met het event-model in ObjectPAL op elegante manier worden ondersteund. Het gebruik van de taal heeft een vrij steile leercurve in de zin dat het voor de meeste mensen niet snel en makkelijk te leren is, maar biedt daarna bijzonder veel mogelijkheden.

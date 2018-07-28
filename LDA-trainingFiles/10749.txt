@@ -1,0 +1,6 @@
+Cardanische ophanging.
+Animatie van een cardanische ophanging die langs drie assen draait
+Bij een cardanische ophanging (bijvoorbeeld van een lamp, of een scheepskompas) is het voorwerp binnen een ronde ring opgehangen aan twee scharnieren die op één lijn liggen die door het midden van de cirkel loopt; de ronde ring is zelf ook weer op dezelfde manier opgehangen in een wat wijdere ring, maar met scharnieren op een lijn die loodrecht staat op de eerste.
+Eventueel kan er een derde ring worden toegevoegd waarvan de as loodrecht op beide voorgaande staat. Hierdoor kan het opgehangen voorwerp vrijelijk roteren om twee (bij drie ringen drie) assen. Als het zwaartepunt excentrisch ligt ten opzichte van het middelpunt van de ringen zal het opgehangen voorwerp steeds rechtop blijven hangen ondanks bewegingen van de buitenste ring die vastzit aan bijvoorbeeld een boot of vliegtuig.
+De belangrijkste toepassingen van deze ophanging zijn de gyroscoop, de cardanaandrijving van een auto en in onbemande luchtvaartuigen (drones) zoals het vogelachtige model Prioria Robotics Maveric met een cardanische ophanging voor de camera.
+De cardanische ophanging is genoemd naar de Italiaanse renaissancewetenschapper Girolamo Cardano, die hem overigens niet heeft uitgevonden.

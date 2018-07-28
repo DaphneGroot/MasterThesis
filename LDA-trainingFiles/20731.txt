@@ -1,0 +1,30 @@
+Gastanker.
+semi-pressurized lng-tanker. Opengewerkte tekening door Peter Welleman
+Gastankers zijn tankers die vloeistoffen vervoeren die onder normale omstandigheden gasvormig zouden zijn.
+Voordelen van vloeibaar gas.
+Als vloeistof zullen de lpg-gassen, afhankelijk van druk en temperatuur, 240 tot 390 zo weinig volume innemen als in gasvorm. Om een gas vloeibaar te maken, moet de temperatuur en/of de druk worden gereguleerd. De te hanteren druk en/of temperatuur is afhankelijk van het soort vloeibaar gemaakte gas.
+Lpg (Liquified Petroleum Gas).
+Lpg is de verzamelnaam voor gasmengsels bestaande uit C4H10 (butaan), C3H8 (propaan), C3H6 (propeen) en/of C4H8 (buteen). Deze gassen zijn door samenpersen bij omgevingstemperatuur vloeibaar te maken.
+Ze kunnen dus in een drukvat vervoerd worden zonder dat extra koeling noodzakelijk is.
+Lng (Liquified Natural Gas).
+Lng is aardgas en bestaat vooral uit methaan. Methaan wordt onder atmosferische druk pas vloeibaar bij -163 °C. Dit betekent dat een lng-tanker zijn lading op maximaal -163 °C moet vervoeren. In vloeistofvorm neemt aardgas 600 keer zo weinig volume in als in gasvorm.
+Soorten gastankers.
+Lng-tanker vaart de haven van Boston binnen
+De meest voorkomende gastankers zijn lpg-, lng-, ammonia-, ethyleen- en VCM-(Vinylchloridemonomeer)-tankers.
+De grootte van gastankers, wordt in tegenstelling tot andere tankers, uitgedrukt in m³.
+Fully pressurized type C.
+Deze tanker vervoert zijn lading fully pressurized in afgesloten cilindrische druktanks.
+De tanks maken, in verband met krimpen en uitzetten, geen deel uit van de scheepsconstructie, zogenaamde
+"onafhankelijke ladingtanks". De druktanks zijn naar materiaaldikte zwaar uitgevoerd. De drukken variëren afhankelijk van het te vervoeren product van 2 tot 18 bar. De ladingtanks liggen veilig in zogenaamde "zadels" boven de dubble bodem en binnen de "double hull". Fully pressurized zeeschepen worden heden ten dage bijna niet meer gebouwd, maar wel voor de binnenvaart. Het zijn de eenvoudigste types onder de gasschepen. Ze worden alleen gebruikt voor het transport van lpg. In grootte variëren ze van 1500 tot 4000 m³. De zeegaande gastankers doen dienst in de zogenaamde "coastal trade".
+Semi-pressurized type C.
+Deze tanker vervoert zijn lading semi-pressurized. Bij deze lpg-tankers is sprake van lagere temperaturen en drukken. De druktanks zijn daarom van een lichtere constructie en zijn bol- of cilindervormig.
+De tanks zijn gemaakt van roestvast staal of aluminium. De drukken variëren afhankelijk van het product van 0,5 bar tot maximaal tussen 5 en 8 bar bij temperaturen van -48 °C voor lpg tot -104 °C voor Ethyleen. In grootte variëren ze van 1500 tot 30 000 m³.
+Gastanker fully refrigerated bij atmosferische druk, type A.
+Grootte: 10 000 tot 100 000 m³. Druk in de tanks: 0,25 tot maximaal 0,7 bar, temperatuur maximaal -55 °C. Deze schepen vervoeren alle soorten lpg en ammoniak. De tanks zijn zwaar geïsoleerd en gemaakt van NiCad, nikkelcadmiumstaal. Ammoniak is onder atmosferische druk vloeibaar bij: -34 °C.
+Gastanker fully refrigerated bij atmosferische druk, type B.
+Deze schepen zijn uitgerust met tanks die, sferisch, doosvormig of prismatisch zijn met vlakke wanden. Grootte: 120.000 tot 130 000 m³. Druk in de tanks: tot maximaal 0,7 bar. De sferische tanks zijn zwaar geïsoleerd en gemaakt van aluminium. Deze schepen vervoeren hun hele scheepsleven lang hetzelfde product: lng of etheen. Ethyleen is onder atmosferische druk vloeibaar bij: -104 °C.
+Gastankervloot.
+in 2011 bestond de gastankervloot, alleen lng en lpg, uit 1590 schepen met een totale capaciteit van 72,8 miljoen m³. De lpg-schepen zijn het talrijkst, maar omdat deze veelal een klein formaat hebben, is hun aandeel in de capaciteit maar 27%. Lng-schepen zijn veel groter, gemiddeld zo'n 140 000 m³. OPEC-leden met een grote lng-vloot zijn Nigeria met 26 schepen en Qatar met 33 eenheden. In de onderstaande figuur een overzicht van de gastankervloot naar product en scheepsgrootte.
+Lng als brandstof.
+Lng-tankers worden niet actief gekoeld maar er wordt toegestaan dat tijdens transport een relatief kleine hoeveelheid van het vloeibare gas verdampt, ook wel "boil-off" genoemd. Dit gas wordt in principe afgefakkeld, maar kan tegenwoordig ook gebruikt worden als brandstof om via een stoomketel en stoomturbine het schip aan te drijven. Er bestaat reeds "bi-fuel" (duo-brandstof) gastankers; ze varen op de boil-off tenzij er onvoldoende gas beschikbaar is, of het schip vaart leeg, dan schakelt de motor over op een andere brandstof als diesel of stookolie. Deze laatsten zijn relatief dure brandstoffen in vergelijking tot lng en het milieu wordt gespaard omdat lng nagenoeg emissievrij is.
+Er bestaan verregaande plannen om binnenvaartschepen, en dus niet alleen gastankers, uitsluitend op lng te laten varen. Deze worden uitgerust met lng-gasmotoren en krijgen lng-brandstoftanks aan boord. De Gate terminal in Rotterdam is in 2012 gestart met de bouw van een aparte steiger waar deze schepen gas kunnen tanken.

@@ -1,0 +1,21 @@
+Legering.
+In de metallurgie is een legering een vast, kunstmatig bereid, homogeen mengsel van een metaal met een of meer andere elementen. Meer specifiek spreekt men van een "intermetallische verbinding" als een legering uit een (kunstmatig) mengsel van louter metalen bestaat.
+Voorbeelden van natuurlijke legeringen zijn elektrum en nikkelijzer.
+Metaallegeringen.
+In strikte zin is een legering een "vaste oplossing" van vaste stoffen in een ander metaal. Het woord legering wordt ook vaak gebruikt voor materialen die bij afkoelen uit de smelt gedeeltelijke fasenscheiding ondergaan.
+Veel metalen zijn in gesmolten toestand met elkaar mengbaar. Zelfs in vaste vorm is de onderlinge oplosbaarheid vaak groot. In het geval van elektrum, de legering van zilver met goud, is de vaste oplosbaarheid zelfs over het hele interval van 0 - 100%.
+In de metallurgie wordt er onderscheid gemaakt tussen kneed- en gietlegeringen.
+Een ander onderscheid bestaat tussen interstitiële legeringen, waarbij legeringselementen zich in de holtes van het kristalrooster bevinden en substitutionele legeringen, waarbij legeringselementen atomen van het basismetaal vervangen in zijn kristalrooster.
+Enkele legeringen.
+Soms is de toegevoegde 'gerichte verontreiniging' niet zelf een metaal. Zo wordt bijvoorbeeld de slijtvastheid van ijzer verbeterd door koolstof toe te voegen, hetgeen vanzelf gebeurt tijdens de productie van gietijzer en staal boven een kolenvuur.
+Reden voor legeren.
+Zuivere metalen, zoals weekijzer, worden zelden op grote schaal toegepast omdat ze voor veel doeleinden doorgaans niet de gewenste eigenschappen hebben. Constructiestaal bevat bijvoorbeeld altijd een minimale hoeveelheid koolstof en andere verontreinigingen die bijvoorbeeld de hardheid verhogen en daardoor de mogelijke toepassingen.
+Een legering is slechts zinvol als ze betere eigenschappen heeft dan de twee afzonderlijke legeringselementen.
+De ionen, die niet rechtstreeks aan elkaar gebonden zijn, kunnen over elkaar heen schuiven. Daarom voegt men na smelten aan een metaal kleine hoeveelheden van een ander metaal toe, waarvan de atomen kleiner of groter zijn dan die van het basismetaal. Hierdoor wordt het verschuiven van de lagen over elkaar bemoeilijkt en ontstaat een legering die sterker, harder en minder buigzaam is dan het zuivere (basis)metaal.
+Staal bijvoorbeeld bestaat uit ijzer en koolstof en is veel sterker dan zuiver ijzer. Om het staal beter bestand te maken tegen corrosie ('roest') kan er chroom bij-gelegeerd worden. Dat zou het weer veel te bros maken, dus wordt nikkel toegevoegd. Zo ontstaat roestvast staal. In zeewater of in zwembaden, zal chloor ook dit roestvast staal corroderen. Daarom wordt molybdeen bij-gelegeerd. Omdat het koolstof nog een bron van corrosie vormt, wordt titanium bij-gelegeerd om dit te binden.
+Halfgeleiderlegeringen.
+In de halfgeleidertechnologie gebruikt men de term legering 'bij uitbreiding' om een vaste oplossing van twee halfgeleiders aan te duiden. Er is grote belangstelling voor dit soort systemen, omdat men de belangrijkste eigenschap van de halfgeleider, de band gap, kan veranderen door van twee halfgeleiders een vaste oplossing te maken. Het is zelfs mogelijk, bijvoorbeeld door zwavel in CuInSe2 te laten diffunderen, om een gradiënt in de band-gap te maken. Een dergelijk materiaal is een soort foton-fuik. Diep in het materiaal worden delen van het spectrum geabsorbeerd waar de bovenlaag transparant voor is omdat de bandgap daar groter is.
+Een typisch voorbeeld is GaAlAs galliumarsenide met aluminium voor toepassing in leds en diodelasers.
+Een vaste oplossing tussen twee vaste materialen is overigens, op enkele uitzonderingen na, slechts mogelijk in het geval van verwante structuren met dezelfde symmetrie.
+Legering en bimetaal.
+Een legering is iets anders dan een bimetaal. Bij het laatste heeft geen vermenging plaatsgevonden, maar zijn twee stukken van verschillende metalen op elkaar gewalst.

@@ -1,0 +1,3 @@
+International Data Encryption Algorithm.
+IDEA, volluit International Data Encryption Algorithm, is een encryptiemethode ontwikkeld in Zwitserland in het begin van de jaren negentig. IDEA gebruikt een sleutellengte van 128 bits en wordt daarom betrouwbaar en veilig geacht, mede omdat er in 2012 geen methodes of strategieën bekend zijn om IDEA te kraken.
+IDEA is op een vergelijkbare manier als DES opgebouwd, maar de manipulatie van de bits binnen de stappen van het algoritme zijn veel complexer.

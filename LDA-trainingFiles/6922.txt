@@ -1,0 +1,4 @@
+UIN.
+UIN is de afkorting van Unique Identification Number.
+UIN werd voor het eerst gebruikt door Mirabilis ICQ. Het is een identificatienummer dat de gebruiker krijgt wanneer hij zich registreert bij het ICQ-netwerk. De UIN is het enige aan de gebruikersinstellingen dat niet gewijzigd kan worden.
+De nummering is sequentieel en is op dit moment (2007) ver boven 300.000.000.

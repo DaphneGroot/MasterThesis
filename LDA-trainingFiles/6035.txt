@@ -1,0 +1,4 @@
+A.M. Turing Award.
+De A.M. Turing Award wordt algemeen gezien als de hoogste onderscheiding in de informatica. Het wordt ook wel de "Nobelprijs voor de informatica" genoemd. De prijs is genoemd naar Alan Turing. Sinds 2007 wordt de Turing Award gesponsord door Intel en Google, waardoor ze vergezeld gaat van een geldprijs van 1.000.000 dollar (ongeveer €800.000).
+De onderscheiding wordt toegekend door de Association for Computing Machinery (ACM) aan een persoon op grond van zijn technische bijdrage aan de informaticagemeenschap. De bijdrage moet van duurzaam en fundamenteel belang zijn voor de computerwereld.
+De prijs werd voor het eerst uitgereikt in 1966. Frances E. Allen was in 2006 de eerste vrouw die de prijs ontving; ook in 2008 kwam de onderscheiding nog eens een vrouw toe: Barbara Liskov.

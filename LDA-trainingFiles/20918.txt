@@ -1,0 +1,9 @@
+Haal-naar-vorencodering.
+De haal-naar-vorencodering (eng.: move-to-front coding) is een transformatie die een tekenreeks makkelijker te coderen maakt. Een tekenreeks zal na toepassen van haal-naar-vorencodering uit een reeks relatief lage getallen bestaan.
+Een reeks van veel kopieën van hetzelfde teken zal na toepassing van het algoritme bijvoorbeeld bestaan uit een nummer op kop, gevolgd door een zeker aantal keer 1. Als vuistregel geldt dat een symbool dat pasgeleden is langsgekomen, een laag nummer als uitvoer geeft, terwijl een symbool dat minder kort geleden is langsgekomen, een hoger nummer krijgt.
+Het Alt-Tabsysteem in Microsoft Windows is in feite een haal-naar-vorensysteem. Er is een lijst van vensters, en de gebruiker besluit welk venster vooraan in de lijst komt te staan (door Tab een aantal malen in te drukken). Op deze manier minimaliseer je het aantal tab-aanslagen als je vaak tussen twee vensters wisselt.
+In de datacompressie is het haal-naar-vorenalgoritme voornamelijk handig als reorganisatiestap. Het is hierna makkelijker om Huffmancodering toe te passen.
+Voorbeeld.
+We lopen nu achtereenvolgens alle tekens af in de tekenreeks die we willen coderen. Voor ieder teken
+De haal-naar-vorencodering van "ananas" is dan 1,14,2,2,2,19.
+Het is heel eenvoudig de transformatie ongedaan te maken; dit gaat op dezelfde manier als het toepassen van de transformatie, met als enige verschil dat we niet ieder teken van de originele reeks opzoeken in de hulpreeks, maar dat we het teken gebruiken dat op de positie aangegeven is in de getransformeerde reeks.

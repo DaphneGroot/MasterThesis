@@ -1,0 +1,47 @@
+Fourieranalyse.
+Fourieranalyse is een wiskundige techniek om functies van reële variabelen uit te drukken als een lineaire combinatie van functies die afkomstig zijn uit een collectie standaardfuncties. De techniek is genoemd naar de Franse natuurkundige Jean-Baptiste Joseph Fourier.
+Fourieranalyse vindt toepassing voor onderscheidene klassen van functies. Een bekende toepassing is de fourierreeks, waarbij de geanalyseerde functie, mits deze periodiek en begrensd is, wordt uitgedrukt in termen van sinussen en cosinussen. Andere toepassingen zijn de continue en de discrete fouriertransformatie.
+Geschiedenis.
+Fourier bestudeerde onder andere warmtegeleiding. Hij had een partiële differentiaalvergelijking voor de temperatuur als functie van tijd en ruimte opgesteld, die slechts oplosbaar was op voorwaarde dat de beginvoorwaarde een sinus- of cosinusvorm aannam. Hij ontwikkelde naar aanleiding hiervan een nieuwe wiskundige techniek, later naar hem "fourieranalyse" genoemd, waarmee hij een willekeurige beginvoorwaarde kon uitdrukken als een lineaire combinatie van sinussen.
+Basisgedachte.
+In een muzikale toon van een zekere frequentie blijken ook boventonen, dat wil zeggen tonen met een veelvoud van de (grond)frequentie, aanwezig te zijn. Samen bepalen ze de klankkleur van een toon. Het blijkt dat we de toon kunnen opvatten als samengesteld uit de grondtoon en de boventonen, elk met z'n eigen sterkte. Zo kan een periodiek signaal, dat aan de juiste voorwaarden voldoet, opgebouwd gedacht worden uit een "grondtoon", dat wil zeggen een cosinus met de frequentie overeenkomend met de periode, en een reeks "boventonen", cosinussen met als frequentie veelvouden van de grondfrequentie.
+De coëfficiënten formula_7 vormen gezamenlijk het spectrum van formula_8. Zij zijn de amplituden van de boventonen, die elk nog hun eigen fase(hoek) formula_9 hebben.
+Fourierreeks.
+Gebruikelijker is het om formula_2 te schrijven als som van sinus- en cosinusfuncties van de genoemde frequenties. Volgens de stelling van Fourier kan elke periodieke functie, mits deze bijvoorbeeld stuksgewijs continu is, worden uitgedrukt als een superpositie van harmonische functies met cirkelfrequenties formula_11, ofwel perioden formula_12
+waarbij de integralen over de periode T worden genomen.
+Bij de laagste frequentie in het signaal hoort de frequentie formula_18. Deze frequentie wordt de "grondfrequentie" of "grondtoon" genoemd en de frequenties formula_19 vormen de "harmonischen" of "boventonen".
+Eenvoudiger en wiskundig elegant, kan men de fouriertransformatie opschrijven met complexe getallen.
+De oorspronkelijke fourierreeksen kunnen ook gebruikt worden voor problemen in meer dan een
+dimensie, op voorwaarde dat de randvoorwaarden op een rechthoekig (balkvormig) gebied
+Voorbeeld fourierontbinding.
+De hieronder geschetste (discontinue) functie kunnen we opgebouwd denken als som van oneindig veel sinusvormige termen, met perioden die een geheel deel van de basisperiode zijn.
+Om de opbouw van deze reeks te zien, die zelf uit continue sinussen bestaat, maar deze discontinue functie benadert, tonen we een eindig aantal termen, en wel: 1 term, 3 termen, 10, 50 en 150 termen. Merk op dat de opgebouwde reeks doorschiet aan de discontinuïteiten: dit is het verschijnsel van Gibbs.
+Ook voor niet-periodieke signalen kan met fourieranalyse het spectrum bepaald worden, daarvoor gebruikt men de fouriertransformatie.
+Algemeen: transformaties.
+In de wiskunde is fourieranalyse een specifiek geval van een algemeen principe: lineaire transformaties en harmonische analyse. Er bestaan naast de fouriertransformatie nog enkele andere, met fourieranalyse vergelijkbare, transformaties: de laplace-transformatie (soms ook s-transformatie genoemd), "z"-transformatie, wavelet-transform, etc.
+Fourieranalyse voor tijd-discrete signalen.
+Naast een analoge fourieranalyse bestaan er ook een fourieranalyses voor tijd-discrete signalen: DFT ("Discrete Fourier Transform") voor in tijd begrensde signalen en de DTFT ("Discrete Time Fourier Transform") voor in de tijd niet begrensde signalen. Bij de DFT kan het tijdsignaal ook worden beschouwd als periodiek voortgezet.
+Voor de DFT bestaat een snelle rekentechniek, de zgn. FFT ("Fast Fourier Transform").
+Familie van de fouriertransformaties.
+Voor de diverse fouriertransformaties geldt het volgende overzicht. We zien dat 'discreet' in het ene domein leidt tot periodiciteit in het geconjungeerde domein en dat 'continu' in het ene domein leidt tot non-periodiciteit in het geconjungeerde domein. Daarnaast leidt reëelwaardigheid in het ene domein tot symmetrie in het geconjungeerde domein.
+Uitbreiding naar andere functie-ontwikkelingen.
+Fourrierreeksen zijn later veralgemeend tot andere families standaardfuncties, om hetzelfde
+soort problemen op te lossen in cilinder- en bolvormige gebieden. We vermelden onder meer
+Toepassingsgebieden.
+Fourieranalyse wordt toegepast in vrijwel alle domeinen van de techniek: mechanica, elektronica, digitale signaalbewerking, enz. Opmerkelijk is misschien dat fourieranalyse evengoed gebruikt kan worden voor de bestudering van signalen als van systemen (op voorwaarde dat die systemen lineair zijn en tijd-invariant).
+Fourierreeksen worden onder meer gebruikt voor de oplossing van de golfvergelijking (bij onder andere geluid,
+licht, muziekinstrumenten) en voor potentiaalproblemen (evenwicht, zeepvlies, harmonische functie); daarnaast ook bij de studie van cyclische fenomenen in de macro-economie, biologie en geologie.
+Wiskunde.
+Niet-periodieke functies vragen om een fourierintegraal - waarbij de reekssom wordt vervangen door de integraal van het product van de te transformeren functie en e-iωt over een oneindig lang tijdsinterval.
+De wiskundige basis voor de fourieranalyse is de studie van topologische vectorruimten,
+ook bekend als functionaalanalyse. De ontwikkeling van een functie als een reeks of integraal wordt daar geïnterpreteerd als het schrijven van een vector in termen van een orthonormale basis van een hilbertruimte.
+Natuurkunde.
+Binnen de natuurkunde kan de fourieranalyse helpen de partiële differentiaalvergelijkingen die horen bij diffusie en golven op te lossen. Ook in de kwantummechanica is het belangrijk, in verband met de schrödingervergelijking.
+Binnen de astrofysica is fourieranalyse een belangrijk instrument bij astroseismologisch onderzoek.
+Elektronica.
+Wie in de elektronica eender welke niet-triviale toepassing van wisselstroom bestudeert, kan moeilijk om fourieranalyse heen. Met fourieranalyse kan men een periodiek elektrisch of elektromagnetisch signaal (een sinusgolf, driehoeksgolf, blokgolf, enz.) beschrijven als een (oneindige) som van (harmonische) cosinusgolven met elk een frequentie gelijk aan een geheel veelvoud van de frequentie van het oorspronkelijke signaal (de grondfrequentie) en een eigen amplitude c en fase formula_26. Een willekeurig signaal met periode T kan beschouwd worden als een signaal dat bestaat uit een grondtoon met een in principe oneindig aantal harmonischen (boventonen).
+Akoestiek.
+Twee muziekinstrumenten die een toon van dezelfde hoogte voortbrengen, klinken toch verschillend. De verschillende klank vindt zijn oorzaak in de verschillende opbouw van de toon. De instrumenten brengen niet alleen de verlangde zuiver sinusvormige grondtoon voort, maar ook een reeks van boventonen, verschillend voor beide instrumenten. De voortgebrachte toon is een periodiek signaal en de reeks van grondtoon met boventonen het spectrum (de fourieranalyse) van de toon.
+Geluid en beeld.
+Met betrekking tot geluid volgt uit een fourieranalyse dat elke toon (een periodiek verschijnsel) is opgebouwd beschouwd uit een (al dan niet aanwezige) grondtoon en boventonen. De onderlinge verhoudingen bepalen de klankkleur, waarvan gebruikgemaakt wordt bij additieve synthese. In het oor wordt op de basilaire membraan eveneens een soort spectraalanalyse uitgevoerd.
+Bij beeldbewerking gebruikt men tweedimensionale fourieranalyse en -synthese. Hierbij wordt er gewerkt met functies en van 2 variabelen, en wordt er simultaan in twee richtingen geïntegreerd of gesommeerd (bij de DFT).

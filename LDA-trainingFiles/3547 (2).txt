@@ -1,0 +1,15 @@
+Nucleïnezuur.
+Sterk vereenvoudigd model van een dubbelstrengig nucleïnezuur. Geel = fosfaat; groen = pentose; rood = stikstofhoudende base. De doorgaande lijnen vertegenwoordigen de covalente bindingen en de onderbroken lijnen de waterstofbruggen.
+Een nucleïnezuur of kernzuur is een complexe biochemische macromolecule waarin een groot aantal bouwstenen, de nucleotiden, aan elkaar geschakeld zijn. Nucleïnezuren hebben een hoog molecuulgewicht. De volgorde van de nucleotiden bepaalt de genetische informatie. De meest voorkomende natuurlijke nucleïnezuren zijn desoxyribonucleïnezuur (DNA) en ribonucleïnezuur (RNA).
+De naam 'nucleïnezuur' werd gegeven omdat deze moleculen het eerst ontdekt werden in de celkern (nucleus).
+Ribonucleïnezuur.
+Ribonucleïnezuur of RNA is een nucleïnezuur waarin de suiker ribose voorkomt. Het speelt een grote rol bij het overbrengen van genetische informatie van het desoxyribonucleïnezuur (DNA) naar de ribosomen. Op basis van de genetische informatie kunnen proteïnen gemaakt worden. Er zijn drie types van RNA afhankelijk van hun functie: tRNA (transfer), mRNA (messenger) en rRNA (ribosomaal).
+Desoxyribonucleïnezuur.
+In desoxyribonucleïnezuur vervult de suiker desoxyribose de functie van ribose in RNA. DNA komt voor in alle levende organismen en bevat de erfelijke informatie van het organisme. De DNA-segmenten die genetische informatie bevatten worden genen genoemd. Andere delen hebben een structureel doel of spelen een rol bij de transcriptie van de genetische informatie.
+Nucleïnebasen.
+In DNA komen cytosine (C), guanine (G), adenine (A) en thymine (T) voor. In RNA wordt thymine vervangen door uracil (U).
+De binding tussen cytosine en guanine heeft drie waterstofbruggen, terwijl het A-T-paar twee waterstofbruggen vormt.
+Nucleosiden.
+Nucleosiden zijn glycosylaminen die gevormd worden doordat een nucleobase met een ribose of desoxyribose suikerring bindt. De naam van nucleosiden die voorkomen in DNA en RNA worden afgeleid van hun nucleobase. De nucleosiden die voorkomen in DNA en RNA zijn cytidine, uridine, adenosine, guanosine en thymidine. Nucleoside-analogen zoals acyclovir, kunnen worden gebruikt als antiviraal middel.
+Nucleotiden.
+Wanneer een fosfaatgroep aan een nucleoside wordt toegevoegd bekomt men een nucleotide. Nucleotiden zijn de monomeren van DNA en RNA, alsook van belangrijke cofactoren zoals acetyl-CoA, FAD, NADP, flavine-mononucleotide en ATP.

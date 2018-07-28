@@ -1,0 +1,11 @@
+Chebyshev-polynoom.
+De Chebyshev-polynomen zijn genoemd naar Pafnoeti Lvovitsj Tsjebysjev ("Chebyshev" in de Engelse transliteratie) en zijn gedefinieerd door
+voor "n" = 0, 1, 2, 3....
+waaruit eenvoudig te zien is dat
+Graad.
+De termen daarin met sin(x) hebben een even macht en kunnen vervangen worden via de relatie
+Orthogonaliteit.
+Deze polynomen zijn orthogonaal ten opzichte van de gewichtsfunctie
+op het interval [−1,1], i.e., we krijgen
+Dit geldt omdat (neem "x" = cos θ)
+Chebyshevpolynomen worden onder andere gebruikt in de numerieke wiskunde om benaderingen van functies te vinden.

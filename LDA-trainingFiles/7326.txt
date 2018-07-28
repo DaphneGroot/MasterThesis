@@ -1,0 +1,7 @@
+F-toets.
+De F-toets is een statistische toets om na te gaan of van twee normale verdelingen de varianties verschillen. De F-toets wordt gebruikt bij variantie-analyse en is een parametrische toets omdat de verdeling normaal moet zijn.
+De F-toets is toepasbaar in een situatie van twee onderling onafhankelijke aselecte steekproeven.
+waarin formula_7 en formula_8 de gebruikelijke steekproefvarianties zijn van de beide steekproeven.
+De toetsingsgrootheid "F" heeft onder de nulhypothese een F-verdeling met m-1 vrijheidsgraden in de teller en n-1 vrijheidsgraden in de noemer.
+Afhankelijk van de gekozen alternatieve hypothese wordt de nulhypothese verworpen voor te kleine of te grote waarden van "F".
+Zie ook: Kruskall-Wallis, significantie en p-waarde

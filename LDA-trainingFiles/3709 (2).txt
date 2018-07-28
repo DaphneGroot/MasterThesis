@@ -1,0 +1,10 @@
+Statisch testen.
+"Statisch testen" is de term die gebruikt wordt voor alle soorten testen waarbij de software niet uitgevoerd wordt. Dit valt uiteen in 2 verschillende mogelijkheden. Reviews en Statische analyse.
+Reviews.
+De technieken die zich bezighouden met het inspecteren en beoordelen van "documentatie" die hoort bij te ontwikkelen software vallen hieronder. Veelal wordt hiervoor de term "toetsen" gebruikt in plaats van testen.
+Inspecties: een formele werkwijze waarbij documenten minutieus worden gelezen door een groep experts. Hierbij wordt gelet op afwijkingen van vooraf afgesproken criteria. (ook wel Fagan Inspecties genoemd)
+Review: een werkwijze waarbij een document aan een aantal experts wordt aangeboden, met de vraag of zij het willen beoordelen vanuit een bepaald aandachtsgebied (kwaliteitsstandaards, architectuur, functionaliteit enz). De auteur verzamelt het commentaar en zal het stuk op grond daarvan mogelijk bijwerken.
+Walkthrough: een werkwijze waarbij de auteur in een bijeenkomst uitlegt wat de inhoud is van een document, waarna het door de aanwezige experts wordt onderzocht vanuit hun eigen aandachtsgebied (kwaliteitsstandaards, architectuur, functionaliteit enz.). Aan de hand van het commentaar zal de auteur het stuk mogelijk bijwerken.
+Collegiale toetsing: een informele werkwijze waarbij collega's elkaars werk controleren.
+Statische analyse.
+Onder statische analyse valt het in kaart brengen van de code. Hierbij valt te denken aan het (al dan niet geautomatiseerd) uitvoeren van code-inspecties, maar ook het analyseren van de code-complexiteit en het verzamelen van metrieken uit de code.

@@ -1,0 +1,20 @@
+Computersimulatie.
+Gelijktijdige computationele testen van twee model bouw
+Een computersimulatie is een simulatie waarbij men een deel van de werkelijkheid nabootst met een model in een computerprogramma.
+Inleiding.
+Computersimulaties zijn vooral van belang voor continu veranderende systemen, waarvan elke volgende toestand (mede) afhankelijk is van de vorige toestand. Bijvoorbeeld: de toestand in de atmosfeer (het weer) is afhankelijk van de toestand van de atmosfeer in het verleden maar ook van enkele externe factoren zoals zonneschijn.
+Er zijn twee hoofdgroepen van computersimulaties: dynamische en statische.
+In dynamische computersimulaties worden de veranderingen van het systeem in de tijd nagebootst.
+Om deze continue veranderingen goed op een computer te kunnen berekenen wordt meestal gekozen voor een discrete benadering. Hierbij wordt de tijd opgedeeld in kleine blokjes. De toestand van het systeem wordt op basis hiervan stapsgewijs berekend, door middel van iteratie. De optimale grootte van deze blokjes kan proefondervindelijk worden vastgesteld of op basis van statistische methoden (afhankelijk van de gewenste betrouwbaarheid). Naast de tijd kan bij bepaalde ruimtelijke modellen ook de ruimte opgedeeld worden in kleine blokjes. We noemen dit cellulaire automaten.
+In statische computersimulaties wordt de verandering van het systeem in één rekenslag berekend. Het systeem vervalt dan in een keer van de ene toestand in de andere. Deze simulaties zijn vooral bekend uit de technische wereld en worden vooral gebruikt voor ontwerp-toepassingen, waar veranderingen van het ontwerp in afhankelijkheid van omgevingsfactoren worden doorgerekend (bijvoorbeeld in de architectuur).
+Beschrijvende en verklarende simulaties.
+In de wetenschap worden computersimulaties ook gebruikt na te gaan of processen voldoende worden begrepen.
+In de economie worden simulaties gebruikt om een voorspelling te maken van de winst / cashflow die een bepaalde beslissing oplevert.
+Maken van computersimulatie-programma's.
+Een computersimulatie is een logisch - wiskundig model, dat de wetten van de natuurkunde, scheikunde en andere natuurwetenschappen die van toepassing zijn op het nagebootste model zo nauwkeurig mogelijk tracht te analyseren en na te bootsen.
+Voor sommige simulaties zal de werking nagebootst worden met eenzelfde tijdsverloop. Andere modellen zullen een versneld of vertraagd verloop van de werkelijkheid laten zien om het resultaat van trage en langdurende processen te kunnen voorspellen.
+Door deze theoretische beschrijvingen (vaak in de vorm van vergelijkingen en wetten) in een bepaalde computeromgeving in te voeren kan een systeem nagebootst worden op een computer.
+Een computersimulatie wordt steeds bijgewerkt aan de hand van de waarnemingen van het nagebootste systeem die verschillen van de waarnemingen van de computersimulatie. Hierdoor kan men de realiteit steeds beter benaderen. Dit noemt men kalibreren. Het controleren of het model juist functioneert in situaties die niet zijn gebruikt voor de kalibratie noemt men validatie.
+Onderverdeling ontwikkelomgevingen computersimulaties.
+Computersimulaties worden vaak in geavanceerde computersimulatie-omgevingen uitgevoerd, veelal op speciale computers.
+Ze kunnen echter in elke programmeeromgeving, bijvoorbeeld Visual Studio of Delphi worden gemaakt. De reden waarom men echter voor speciale simulatie-omgevingen kiest, is dat deze veel handelingen en onderdelen kunnen vereenvoudigen en stroomlijnen en vaak voorgeprogrammeerde bibliotheken bevatten. Dit zijn pakketjes die gericht zijn op het simuleren van een specifiek onderdeel. Zo hoeft iemand die bijvoorbeeld de processen op een raffinaderij simuleert niet alle pompen, kleppen en andere onderdelen opnieuw in te voeren, maar kunnen deze direct uit de bibliotheek worden gehaald. Een open source-pakket voor simulaties is GNU Scilab.

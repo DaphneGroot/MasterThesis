@@ -1,0 +1,28 @@
+Trein.
+Een trein is een reeks van wagens. Meestal denkt men daarbij aan voertuigen op een spoorweg.
+Als toeristisch vervoermiddel gebruikt men wel een reeks wagens achter een trekker die er vaak uitziet als een spoorweglocomotief. Zo'n geheel wordt 'wegtreintje' genoemd, ook al rijden trekker en aanhangwagens niet op rails. Een road train is een vrachtauto met een groot aantal aanhangwagens.
+Omschrijving.
+Met treinen vindt spoorvervoer plaats, in Nederland onder meer verzorgd door de Nederlandse Spoorwegen, Connexxion, Syntus, Arriva en DB Schenker Rail, in België door de Nationale Maatschappij der Belgische Spoorwegen.
+Een getrokken trein is een operationele combinatie van een of meer rijtuigen zonder voortbewegingsinstallatie in combinatie met een locomotief (of andere krachtbron met cabine). Een bijzondere vorm is de trek-duwtrein: een min of meer vaste eenheid van locomotief en rijtuigen, waarvan het laatste een stuurstand heeft vanwaar de locomotief met een door de trein lopende kabelverbinding op afstand bestuurd kan worden.
+Krachtvoertuigen beschikken over een eigen voortbewegingsinstallatie. Een locomotief wordt daarom als krachtvoertuig beschouwd.
+Een treinstel is een vaste eenheid, die bestaat uit een aantal rijtuigen met een stuurstand aan beide uiteinden. Door de permanente samenstelling en de aanwezigheid van een eigen aandrijving is een treinstel eveneens één krachtvoertuig.
+Ook een enkele (rijdende) locomotief wordt wel als trein aangeduid.
+Indeling.
+Voor in de cabine van een Nederlandse DDZ-sneltrein.
+Railvoertuigen kunnen bijvoorbeeld worden onderverdeeld naar hun vorm en doel, of naar de krachtbron.
+Asindeling.
+Om aan te geven hoe de aandrijving van een krachtvoertuig over de wielassen is verdeeld, wordt de UIC-notatie gebruikt. Een combinatie van in een (draaistel)frame ondergebrachte aangedreven wielassen wordt aangegeven met een hoofdletter (A voor 1 aangedreven as, B voor 2 aangedreven assen etc.). Zijn deze assen afzonderlijk aangedreven, dan wordt de hoofdletter met een "o" aangevuld. Niet aangedreven wielassen worden aangegeven met een cijfer. Zijn de wielassen in een draaistel ondergebracht, dan wordt een apostrof toegevoegd. Met een + wordt aangeduid dat het krachtvoertuig uit meer dan één deel bestaat.
+Een NS 1800 heeft bijvoorbeeld asindeling B' B'. De loc heeft twee tweeassige draaistellen, elk met één tractiemotor die beide wielassen aandrijft.
+Een NS 1000 had asindeling (1A)' Bo (A1)'. De loc had aan de koppen draaistellen met elk een loopas en een aangedreven as en twee in het locframe gelagerde aangedreven assen met onafhankelijke aandrijving.
+Een NS Plan V, heeft asindeling 2' Bo' + Bo' 2'. Het treinstel heeft dus vier tweeassige draaistellen. De buitenste twee zijn loopdraaistellen (dat wil zeggen niet aangedreven), de binnenste twee motordraaistellen met afzonderlijk aangedreven assen.
+Een NMBS klassiek motorstel heeft asindeling A1' 1A' + A1' 1A'. Het treinstel is samengesteld uit twee rijtuigen, met elk twee draaistellen. Elk draaistel is voorzien van een motor die telkens de buitenste as aandrijft.
+Bak- en wagenindeling.
+Om aan te geven om wat voor een type rijtuig of goederenwagen het gaat, worden speciale codes gebruikt. Deze codes zijn vaak te zien op de zijkant van een rijtuig of goederenwagen. Bij goederenwagens wordt een internationaal codeschema gebruikt. Bij rijtuigen verschillen de betekenissen van de codes sterk per land. Zie verder goederenwagen en voor personentreinen bak.
+Remsysteem.
+Een noodrem in een trein uit 1920
+Bij treinen wordt de rem pneumatisch (door luchtdruk) bediend (zie westinghouserem). Door de gehele trein loopt de treinleiding van de doorgaande zelfwerkende luchtdrukrem. In elke trein is één remkraan in dienst. Deze remkraan houdt de luchtdruk in de treinleiding op 5 bar (overdruk). De remmen van de trein zijn dan gelost. Met behulp van deze kraan kan de machinist de luchtdruk in de treinleiding verlagen, met als gevolg dat de remmen aanslaan. De remkracht is min of meer evenredig met de drukverlaging. Bij 3,5 bar treinleidingdruk is de maximale remkracht bereikt.
+Bij breuk in de treinleiding (bij breken van een koppeling van de trein), een noodremming door reizigers of een ingreep van het treinbeïnvloedingssysteem wordt de treinleiding ontlucht, waardoor de complete trein remt.
+Records.
+Deze lijst bevat de wereldsnelheidsrecords van voertuigen op rails.
+Wegtreintje.
+Een "wegtreintje" is een motorvoertuig met een of meer aanhangwagens, ingericht voor het vervoer van personen.

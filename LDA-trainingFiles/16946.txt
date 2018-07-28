@@ -1,0 +1,19 @@
+Tweede-ordesysteem.
+Een tweede-ordesysteem is een dynamisch systeem dat gemodelleerd kan worden als twee integrators met een aantal negatieve terugkoppelingen.
+De toestand van een tweede-ordesysteem kan worden vastgelegd met twee getallen. Bij een mechanisch systeem zijn dit de plaats en de snelheid.
+Een bekend voorbeeld van een tweede-ordesysteem is een massa die op een veer rust: de ene toestand is de snelheid van de massa, de andere de uitrekking van de veer ten opzichte van de evenwichtstoestand. De negatieve terugkoppelingen zijn de veer voor de positie en de demper voor de snelheid.
+Differentiaalvergelijking.
+De differentiaalvergelijking van een tweede orde lineair tijdinvariant systeem met invoer (excitatie) x(t) en uitvoer (respons) y(t) is van de vorm
+Dit is een lineaire differentiaalvergelijking met constante coëfficiënten.
+Overgangsgedrag.
+De oplossing van de homogene differentiaalvergelijking levert het overgangsgedrag en verkrijgt men door de karakteristieke vergelijking
+De homogene oplossing beschrijft het overgangsgedrag van het systeem. Overgangsgedrag treedt op indien het systeem niet in rust is, wat tot gevolg heeft dat het spontaan de rusttoestand zal opzoeken, ook in de afwezigheid van externe excitaties. Daarnaast heeft ook het opstarten van een externe situatie overgangsgedrag tot gevolg. De duur van het overgangsgedrag is bepaald door de tijdconstante(n) van het systeem. Elke exponentiële functie in de homogene oplossing levert een tijdconstante formula_10.
+Regimeoplossing.
+De particuliere oplossing van de volledige differentiaalvergelijking levert het regimegedrag van het lineair systeem. Het is van dezelfde aard als de excitatie. Omdat een excitatie in de praktijk doorgaans een stapfunctie (Heaviside-functie) of een sinus is, kan de particuliere oplossing gevonden worden met de methode van de onbepaalde coëfficiënten.
+Bij een sinusvormige excitatie zal het regimegedrag een sinus zijn van dezelfde frequentie, maar met een aangepaste amplitude en fase zoals bepaald door de frequentierespons.
+Opladen van een condensator over een weerstand en een spoel.
+Kring waarin de condensator wordt opgeladen over een weerstand en een spoel
+Wiskundig is dit systeem volledig gelijkwaardig met het gedempt massa-veersysteem met een kracht als excitatie.
+Passieve 2de orde filters.
+Dergelijke analoge filters worden efficiënter beschreven door hun systeemfunctie H(s). De standaard tweede-orde systeemfuncties worden gekenmerkt door de referentiefrequentie formula_16 en de Q-factor, een dimensieloze grootheid. De Q-factor geeft de versterking of verzwakking van een sinusexcitatie ter hoogte van de referentiefrequentie. Bij een banddoorlaatfilter is de referentiefrequentie de frequentie waar de doorlating maximaal is. Bij een bandstopfilter wordt de referentiefrequentie volledig onderdrukt. In beide gevallen is de Q-factor een maat voor de bandbreedte: hoe groter Q, hoe smaller de bandbreedte. Naast deze twee parameters kan nog een algemene vesterkingsfactor A worden voorzien.
+Telkens kunnen de referentiefrequentie formula_16 en de Q-factor uit de algemene tweede-orde systeemfunctie geschreven worden in termen van de concrete componenten R,L en C door identificatie van de respectievelijke noemers van de systeemfuncties. Op deze manier kunnen concrete componentwaarden geselecteerd worden voor de gewenste referentiefrequentie formula_16 en Q-factor. In elk van deze vier concrete gevallen is de algemene versterkingsfactor A gelijk aan 1.

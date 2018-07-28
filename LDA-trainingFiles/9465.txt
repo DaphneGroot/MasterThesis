@@ -1,0 +1,4 @@
+Lijst van munteenheden.
+De munteenheid is het betaalmiddel dat geldig is in een bepaald land, streek of regio. Zie ISO 4217 voor een overzicht.
+Munteenheden die in meerdere landen voorkomen.
+Verschillende landen hebben munteenheden met dezelfde naam, maar vaak gaat het niet om dezelfde munteenheid en is alleen de naam gelijk. Zo is een Australische dollar niet hetzelfde als een Amerikaanse dollar. Dit geldt niet voor de euro: alle euro's zijn inwisselbaar, ongeacht het land waarin ze zijn uitgegeven. Er zijn ook landen die hun munt gekoppeld hebben aan die van een ander land (vaak de Amerikaanse dollar) of aan de euro.

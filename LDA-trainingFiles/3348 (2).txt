@@ -1,0 +1,7 @@
+Delen.
+Delen is een wiskundige of rekenkundige bewerking op twee getallen. Delen is een rekenkundige bewerking van de tweede orde. Bij een deling wordt het deeltal gedeeld door de deler, wat als resultaat het quotiënt van beide getallen oplevert.
+Als het quotiënt geen geheel getal is, kan het geschreven worden als een breuk.
+Notaties.
+De obelus, een horizontale streep met een punt erboven en eronder, is vermoedelijk ontstaan uit de vierde notatie, waarbij alle gegevens op één regel werden gezet. De punten symboliseren de oorspronkelijke plaats van teller en noemer.
+Delen door nul.
+Delen door nul is in principe ongedefinieerd. Zie aldaar voor een nadere uitleg.

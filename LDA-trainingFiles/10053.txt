@@ -1,0 +1,51 @@
+APL (programmeertaal).
+APL is een programmeertaal. De taal is ontstaan uit een boek dat in 1962 werd geschreven door Ken Iverson en waarin een wiskundige notatiewijze werd geïntroduceerd. Met enkele aanpassingen werd uit dit voorstel de programmeertaal ontworpen. De naam APL is ontleend aan de titel van het boek: "A Programming L'"anguage".
+Ontwikkelingen in de tijd.
+Zoals gezegd, de taal is ontstaan naar aanleiding van de publicatie van Kenneth E. Iverson. Hoewel zijn boek in 1962 uitkwam, ontdekte en ontwikkelde hij de taal al in 1957.
+Als programmeertaal werd APL al snel populair in vooral de wetenschappelijke en financiële wereld vanwege de krachtige mogelijkheden die de taal biedt om om te gaan met meer-dimensionale arrays met data.
+Oorspronkelijk draaide APL op (IBM)-mainframes en over de loop van jaren ontstonden er verschillende dialecten van de taal.
+Na de opkomst van de PC begin jaren 80 van de twintigste eeuw, en de afname van de populariteit van mainframes kwam er een versie van APL uit voor de PC onder de naam APL*Plus/PC van ontwikkelaar STSC "(zie eventueel: STSC (Engels))". De eerste versie voor de PC kwam in 1982 op de markt en in het midden van de jaren 80 kwam er ook een 32-bit versie voor de Unix systemen op de markt als APL*Plus/Unix).
+Tot 1995 bleef STSC APL*Plus verder ontwikkelen, maar verkocht de rechten in dat jaar aan LEX2000 Inc. wat vervolgens in 1999 weer in handen kwam van Cognos.
+De belangstelling voor en het gebruik van APL zijn de laatste jaren erg teruggelopen, natuurlijk mede onder invloed van de komst van nieuwe ontwikkelomgevingen als C (en de opvolgers C+ / C++) en later Java). Er bestaat nog wel een groep "die-hards" die APL en varianten/dialecten als A+ gebruiken en ontwikkelen.
+Van mainframe naar PC.
+De overgang naar de nieuwe PC-omgeving vereiste natuurlijk wel wat toevoegingen om op een nieuwe manier om te gaan met -vooral- de uitvoer van gegevens en andere specifieke "eigenaardigheden" van de PC. De eerste versies draaiden (uiteraard) onder MS-DOS en dat waren specifiek single-user- en single-taskomgevingen. Dit vraagt een heel andere benadering van geheugengebruik, en commando's die verband houden met je rechten hoeveel gebruik jouw programma mag maken van de CPU hebben weinig nut. Om portering van bestaande programma's van mainframeomgevingen naar de PC te vereenvoudigen bleven in de PC-versie commando's en functies bestaan die feitelijk niets deden, maar wel de compabiliteit van "workspaces" verhoogden. "(Na de overstap van MS-DOS naar Windows kwam je weer terug in een multi-user- en multi-taskingomgeving; maar wel op een andere wijze dan bij mainframesystemen.)"
+Huidige situatie.
+Hoewel het gebruik sterk is teruggelopen, blijft er een enthousiaste groep gebruikers die via internet nieuwe ontwikkelingen gebaseerd op APL ontwikkelt.
+Verschillen.
+De programmeertaal verschilt in veel opzichten van andere talen.
+Een groot voordeel van APL is dus dat er heel compact en snel gecodeerd kan worden. Tegelijkertijd is dat een nadeel. Een APL-source is vaak lastig te lezen vanwege de vele vreemde tekens.
+Invoer.
+Het toetsenbord van een IBM 2741, met APL-tekens. Daaronder de combinaties die kunnen worden gemaakt met behulp van de BS-toets.
+Voor het invoeren van APL-symbolen is een speciaal toetsenbord nodig. Het getoonde toetsenbord heeft geen aparte hoofd- en kleine letters: de lettertoetsen geven in combinatie met Shift een symbool.
+En nog heeft het toetsenbord te weinig toetsen. Daarom kunnen er ook combinaties (overstrikes) worden gemaakt. Wenst men bijvoorbeeld een uitroepteken om de functie faculteit uit te voeren, dan typt men een aanhalingsteken (shift K), een backspace en een punt. Op dezelfde wijze kunnen ook de letters (andere tekens niet) onderstreept worden.
+Er zijn verder diverse APL-editors. Om invoer te vergemakkelijken kan men van veel symbolen de naam invoeren.
+Gegevens.
+Gegevens kunnen, zoals bij elke programmeertaal, uit arrays bestaan. Maar bij APL wordt een array als eenheid beschouwd. Een array kan een willekeurig aantal dimensies hebben. Een array van twee dimensies heet 'matrix', een array van een dimensie heet 'vector'. Een array van nul dimensies bestaat ook, dat is een scalar.
+De dimensie van een array kan desnoods de lengte nul of één hebben. Dat lijkt niet erg zinvol, maar een array met een dergelijke dimensie kan door een programma uitgebreid worden.
+Een vector (2 of langer) kan als constante worden ingevoerd als een reeks getallen met spaties ertussen, bijvoorbeeld 1 4 9 16 25. Geeft men een enkel getal op, dan is dat een scalar. Wil men een andere array, dan zal men een functie moeten gebruiken.
+De bekendste functie om een array te maken is "reshape" ⍴. Bijvoorbeeld, de expressie 2 4⍴9 8 1 12 16 25 14 14 maakt een matrix van 2 bij 4, met de daarachter opgegeven getallen als waarden.
+Een andere veel gebruikte functie is de "indexgenerator" ⍳ die een vector van natuurlijke getallen maakt. ⍳5 levert dus de vector 1 2 3 4 5. Het ziet er niet erg zinvol uit, maar deze functie is vaak heel handig.
+De meeste functies zijn erg vergevingsgezind als een argument de verkeerde vorm heeft. Bijvoorbeeld, de hierboven genoemde functie ⍴ heeft als linkerargument in principe een vector nodig, maar een scalar is ook goed.
+Een array kan, zoals in elke programmeertaal, geïndiceerd worden: "A"["I"]. Zijn er twee of meer indexen, dan worden ze gescheiden door;. Het is beslist niet nodig dat op deze wijze een enkele waarde uit een array wordt gehaald: door een array als index te gebruiken of een index weg te laten is het mogelijk een deel uit een array te selecteren: de expressie"R"[;3 4] heeft als resultaat een matrix bestaande uit de derde en de vierde kolom van de matrix "R" - de hele kolommen omdat de eerste index, tussen [en; is weggelaten.
+Functies.
+Er zijn monadische functies met één argument en diadische functies met twee argumenten. De syntaxis is zoals gebruikelijk bij de klassieke wiskundige functies, bijvoorbeeld "A"+"B" en -"B". Deze syntaxis is consequent doorgevoerd voor alle functies, ook voor faculteit (uitroepteken links van de operand, niet rechts) en absolute waarde (verticale streep links van de operand, niet aan weerszijden).
+Verder worden de functies onderscheiden in scalaire functies en gemengde functies. De laatste zijn in het bijzonder bedoeld voor het werken met arrays.
+Scalaire functies.
+Worden scalaire functies op een array toegepast, dan werken ze op ieder element van de array apart. Men kan bijvoorbeeld twee arrays bij elkaar optellen, mits beide arrays dezelfde vorm hebben, dus arrays van evenveel dimensies met dezelfde waarden. Het resultaat heeft weer dezelfde vorm. Bijvoorbeeld: 3 5 4 + 2 4 6 geeft 5 9 10. Hierop geldt een uitzondering: men kan een scalaire dyadische functie uitvoeren op twee arrays waarvan een enkel getal is. Bijvoorbeeld: 3 + 2 4 6 geeft 5 7 9.
+Gemengde functies.
+Gemengde functies zijn speciaal voor het bewerken van arrays. Sommige functies kunnen zelfs van een index worden voorzien. Bijvoorbeeld "A"↑["I"]"B". In dit geval wordt de functie "A"↑"B" langs de index "I" uitgevoerd. Wordt er geen index opgegeven, dan wordt de functie langs de laatste dimensie uitgevoerd.
+Gecombineerde functies.
+Verder zijn er gecombineerde functies. Hierbij wordt uit een scalaire dyadische functie (of twee scalaire dyadische functies) een nieuwe gemengde functie gemaakt. In de voorbeelden hieronder kan ⎕ worden vervangen dooe een willekeurige scalaire dyadische functie.
+In- en uitvoer.
+De laatste bewerking die op een regel wordt uitgevoerd, is vrijwel steeds → (sprongopdracht) of ← (toekenning).
+"A"←3+5 "A" krijgt de waarde 8
+Staat er iets anders, bijvoorbeeld 3+5, dan wordt de optelling uitgerekend, maar er staat niet wat er met het resultaat moet gebeuren. In dat geval wordt het resultaat geprint.
+Het is ook mogelijk tussenresultaten van een expressie te printen, en wel met de combinatie ⎕←. Bijvoorbeeld: "A"←3+⎕←5 De waarde 5 wordt geprint en "A" krijgt de waarde 8.
+Wil men in de loop van het programma invoer vragen, dan gebruikt men het teken ⎕, maar niet links van een pijltje. Bijvoorbeeld 2.20371×⎕: er wordt om invoer gevraagd en het resultaat wordt met 2.20371 vermenigvuldigd.
+Zelfgedefinieerde functies.
+Het is natuurlijk mogelijk zelf een functie te definiëren. Een zelfgedefinieerde functie kan dyadisch, monadisch en ook niladisch zijn, dat wil zeggen dat er 2, 1, of 0 argumenten zijn.
+Een zelfgedefinieerde functie wordt niet aangeduid met een teken maar met een naam, een identifier dus. De syntaxis is echter niet anders: een dyadische functie wordt aangeroepen met de naam en aan weerszijden de beide argumenten en een monadische functie met de naam en daarachter het argument. Deze wijze van aanroepen is heel anders dan in andere programmeertalen.
+Als voorbeeld geven we de volgende functie. Het teken ∇ duidt de header van de functie aan. Daaronder staat de body, in dit geval slechts een regel, met daarvoor tussen haken het regelnummer.
+In de kopregel staat links van het pijltje de variabele die als terugkeerwaarde dient. Rechts daarvan staan drie namen, het is dus een dyadische functie. De middelste daarvan is de naam van de functie en de twee andere zijn de argumenten.
+Opslag van data en programma's.
+APL gaat op een bijzondere manier om met opslag van zowel de gegevens alsook de programmasource zelf in vergelijking met veel andere talen.

@@ -1,0 +1,10 @@
+Frequentieverschuivingsmodulatie.
+Frequentieverschuivingsmodulatie (Engels: "frequency-shift keying", FSK) is een vorm van frequentiemodulatie voor een discreet signaal. De verschillende waarden van het signaal worden gerepresenteerd door de verschillende waarden van de draaggolf. De frequentie van de draaggolf schuift als het ware mee met de waarde van het signaal. De eenvoudigste vorm is voor een digitaal signaal met als mogelijke waarden slechts 0 en 1. De frequentie van het signaal schuift heen en weer van de frequentie voor het weergeven van een 0 en de frequentie voor het weergeven van een 1.
+De onderstaande figuur toont een FSK-gemoduleerd signaal: de draaggolffrequentie verandert van de ene waarde naar de andere. Om de bandbreedte zo klein mogelijk te houden kan ook worden gekozen om de overgang geleidelijk te doen plaatsvinden.
+Bij FSK wordt dus in het proces van de draaggolfopwekking ingegrepen. Voor toepassingen waarbij dit niet mogelijk is, of gecompliceerd, wordt ook wel gebruikgemaakt van AFSK.
+Programmavoorbeeld.
+OPEN $file FOR OUTPUT AS #1
+FOR i = 0 TO 3600 STEP 1
+draaggolf = pi## / 180 * i
+IF i/720=INT(i/720) THEN modulatie = 1 - modulatie 'wissel tussen freq.
+x$ = FORMAT$(I&,"* 0") + ","+ FORMAT$(SIN(draaggolf*(1+modulatie)),"* 0.000")

@@ -1,0 +1,4 @@
+Benoni (schaakopening).
+De Ben-Oni is een opening in het schaken die onder de halfgesloten spelen valt en gekenmerkt wordt door de zetten 1.d4 Pf6 2. c4 c5 3. d5. Soms speelt zwart al op de eerste zet...c5, soms pas op de derde.
+Over het algemeen zal zwart het centrum aan wit overlaten en zich concentreren op een pionnenstorm op de damevleugel. Hij zal gebruikmaken van de open a1-h8-diagonaal door zijn loper te fianchetteren met de zetten...g6 en...Lg7. Wit zal zijn centrum proberen te gebruiken om een aanval op de koningsvleugel te beginnen en de pionnenduw e5 voorbereiden.
+Een uitzondering hierop is de Tsjechische variant, waarbij zwart...e5 speelt en daarmee een zwakte op de witte velden aanvaardt in ruil voor een meer solide stelling en meer controle over de zwarte velden in het centrum. De partij kan overgaan in een Konings-Indisch-achtig systeem waarbij zwart...e5...Pe8 en...f5 speelt om zo op de koningsvleugel aan te kunnen vallen.

@@ -1,0 +1,11 @@
+Adobe Dreamweaver.
+Adobe Dreamweaver is een uitgebreide wysiwyg-editor voor HTML en andere webtalen zoals PHP, JavaScript, CSS, CFML (ColdFusion), ASP, XSLT en XML. Dreamweaver wordt gebruikt door webontwikkelaars voor het ontwerpen van websites. Het werd ontwikkeld door het bedrijf Macromedia, dat later overgenomen werd door Adobe.
+Ondersteunde programmeertalen.
+Met de opname in de Adobe Creative Suite en later de Creative Suite ondersteunt Dreamweaver meer programmeertalen. Het bevat nu onder andere ondersteuning voor ActionScript, ASP, C♯, CSS, Java, JavaScript, PHP, MySQL en Visual Basic.
+Technisch.
+De gevorderde gebruiker zal geen gebruik maken van de Behaviors (wizards) en laat de voorgeprogrammeerde onderdelen van Dreamweaver achterwege.
+Scripten worden gehighlight en ingebouwde PHP-bibliotheek waarschuwt bij fouten. De verschillende modes (code/gedeeld/ontwerp) zijn typerend voor Dreamweaver en staan toe de HTML-code aan te passen (in de "Code-weergave") en deze vervolgens te bekijken in de "Ontwerpmodus". Veel ingewikkelde HTML-componenten zoals tabellen, formulieren en opmaak worden bijna altijd gedaan in "Ontwerpmodus". Scripten, aanpassingen en tags toevoegen doet men vrijwel altijd in codemodus.
+Bestandsformaten.
+Het programma bevat een uitgebreide ondersteuning voor het verwerken en bewerken van diverse bestandsformaten, zoals Flash-bestanden gemaakt met het (ook door Adobe ontwikkelde) programma Flash Professional. Als men het hele pakket aan webdesignersoftware van Adobe (de Creative Suite-pakketten bijvoorbeeld) gebruikt zijn er enkele functies beschikbaar om de andere software uit dit pakket te gebruiken.
+Rechtstreeks publiceren.
+In Dreamweaver is een ingebouwde FTP-functie beschikbaar om bestanden rechtstreeks te kunnen publiceren. Normaal gesproken zou men een apart FTP-programma nodig hebben om een website te uploaden. De ingebouwde FTP-functie kan de website direct op de server zetten zonder dat men er omkijken naar heeft. De ingebouwde FTP-functie kan ook zoals bijvoorbeeld FileZilla gebruikt worden als bestandsbeheerder. Dan is het dus mogelijk niet alleen de website te plaatsen maar ook andere bestanden die buiten de root van Dreamweaver vallen.

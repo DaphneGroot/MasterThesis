@@ -1,0 +1,10 @@
+Zwaartekrachtsveld.
+Een zwaartekrachtsveld of gravitatieveld is een natuurkundig krachtveld dat van invloed is op de beweging van alles wat zich in dat veld bevindt. Zowel deeltjes en voorwerpen die massa hebben als deeltjes zonder rustmassa (zoals licht) worden in een zwaartekrachtsveld versneld, vertraagd of van richting veranderd. Op kosmische schaal is het zwaartekrachtsveld verantwoordelijk voor een bepaalde kromming van het heelal, die de historische en toekomstige ontwikkeling van het heelal bepaalt.
+Zwaartekrachtsvelden worden veroorzaakt door de aanwezigheid van massa. De zwaartekrachtswet van Newton (1687) beschreef hoe groot het veld van een bepaalde massa is; het hangt af van de hoeveelheid massa en de afstand tot die massa. In de moderne algemene relativiteitstheorie van Einstein (1916) wordt het zwaartekrachtsveld meestal beschreven als een kromming van de vierdimensionale ruimtetijd. In principe is het echter ook mogelijk een beschrijving in de vorm van een veld te geven. De theorie beschrijft verder hoe het zwaartekrachtsveld afmetingen en tijdsduren beïnvloedt.
+Wiskundige beschrijving.
+Wiskundig kan een zwaartekrachtsveld beschreven worden als een vectorveld formula_1. Hierin is formula_1 de versnelling van de zwaartekracht, ook wel valversnelling genoemd. Het zwaartekrachtsveld is een potentiaalveld: het kan beschreven worden als de gradiënt van een potentiaal formula_3, waarbij formula_4.
+Volgens de gravitatiewet van Newton is
+waarin "G" de gravitatieconstante is (ca. 6,67 × 10−11 N m2 kg−2) en formula_6 de plaatsvector ten opzichte van de bron (of het middelpunt van de bolsymmetrische bron) met massa "M".
+met "r" de afstand tot (het middelpunt van) de bron.
+Binnen een gebied dat veel kleiner is dan "r" is het zwaartekrachtsveld vrijwel homogeen.
+Op en dicht boven het aardoppervlak geldt dan bij benadering dat de zwaartekrachtspotentiaal in gebruikelijke coördinaten formula_8 is en het veld formula_9.

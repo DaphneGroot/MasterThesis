@@ -1,0 +1,8 @@
+Fotochemie.
+Illustratie van het elektromagnetisch spectrum. Zie ook het zichtbare spectrum, en de ultraviolette en infrarode regionen.
+In de fotochemie wordt een chemische reactie gestart of gedreven door licht. Dit gebeurt doordat een foton zijn energie overdraagt aan een of meer moleculen (of atomen). Deze energie kan dan bijvoorbeeld gebruikt worden voor het verbreken van een of meer bindingen wat het begin van de reactie of de reactie zelf is.
+De energie kan ook gebruikt worden om de vouwing (conformatie-toestand) van het molecuul te veranderen, waardoor het molecuul ombuigt en veranderingen in grotere gehelen kan veroorzaken (molecular switch).
+Het licht moet wel van een bepaalde frequentie (of golflengte) zijn om de reactie te starten.
+Een bekend voorbeeld van een fotochemische reactie is het fotografische proces dat plaatsvindt in het fotorolletje in een camera wanneer dit belicht wordt.
+Bij sommige fotochemische reacties wordt (een deel van) de energie van het foton vastgelegd in de chemische energie van het fotoproduct. Dit is bijvoorbeeld het geval in de fotosynthese die de basis is van het grootste deel van het leven op aarde. Bij andere reacties wordt weliswaar geen energie vastgelegd, maar het foton helpt wel de reactie op gang. Deze processen worden fotokatalytisch genoemd.
+In de organische chemie wordt het licht ook toegepast om reacties te realiseren die bij afwezigheid van licht niet kunnen verlopen. Door het opnemen van lichtenergie worden elektronen in een hogere moleculaire baan geplaatst. Hierdoor komen andere reactiepaden - en daarmee reactieproducten - beschikbaar die via alleen thermische activering niet mogelijk zijn. De Woodward Hoffmann regels beschrijven de reactiemogelijkheden.

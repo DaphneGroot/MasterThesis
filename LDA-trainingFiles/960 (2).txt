@@ -1,0 +1,60 @@
+Perl (programmeertaal).
+Perl is een programmeertaal ontworpen door Larry Wall die eigenschappen van C en UNIX-scripttalen zoals sh, sed en awk in zich verenigt. De afkorting Perl staat voor Practical Extraction and Report Language.
+Mogelijkheden en toepassingen.
+Perl is geschikt als vervanger van traditionele Unix-shell-scripts, die in sh (de Bourne shell) geschreven worden en daarbij allerlei andere utilities aanroepen zoals sed, tr, uniq, sort, expr en awk, terwijl het ook alles kan waarvoor voordien een C-programma geschreven moest worden.
+Het verenigt niet alleen de mogelijkheden van deze talen maar ook een groot deel van hun manieren van uitdrukken (syntaxis). Daarom wordt het ook wel "the Swiss army knife of programming languages" (het Zwitsers zakmes onder de programmeertalen) genoemd.
+Perl wordt veel gebruikt voor taken waar voordien shell-scripts voor werden gebruikt, voornamelijk het automatiseren van taken in het systeembeheer; daarbuiten wordt het veel gebruikt voor de bewerking van allerlei soorten bestanden (natuurlijke taal, configuratiebestanden, XML- of HTML-documenten, rasterafbeeldingen, enzovoorts). Ook heeft het goede bibliotheken voor allerlei taken, zoals databasetoegang en client/servercommunicatie. Perl wordt veel gebruikt in de bio-informatica. In de jaren 90 was het de meestgebruikte taal voor dynamische websites. Daarna is het sterk op Perl lijkende PHP daarvoor populairder geworden.
+Perl is een scripttaal met uitgebreide mogelijkheden voor reguliere expressies en er kan met Perl object-georiënteerd, procedureel of zelfs functioneel geprogrammeerd worden.
+Modules: CPAN.
+Tot en met versie 4 werd de kracht van Perl steeds uitgebreid door extra voorgedefinieerde functies in te voegen en de taal zelf uit te breiden. Met Perl 5 ontstond CPAN, een over het internet installeerbare verzameling modules die allerhande functionaliteit bieden. Voortaan richtte de belangrijkste ontwikkeling zich op het schrijven van modules, en werd er relatief weinig aan de taal zelf doorontwikkeld. Om CPAN goed te laten functioneren ontstonden allerlei conventies voor het aanbieden, organiseren en ontwikkelen van zulke modules (ondersteund door voor dat doel geschreven Perl-modules) die helpen om de kwaliteit te waarborgen; zo is unittesten standaard praktijk. Het principe van CPAN is door veel andere talen overgenomen - zo heeft PHP bijvoorbeeld PEAR en PECL, en heeft Python PyPI.
+Documentatie.
+Perl kent naast gewoon commentaar ook een eenvoudige markuptaal, POD, om gestructureerd commentaar te schrijven, vergelijkbaar met bijvoorbeeld Javadoc voor Java en XML-documentatie voor. Hiermee wordt code gedocumenteerd; standaard tools kunnen deze documentatie tonen en in andere formaten omzetten zoals man-pagina's of HTML-documenten.
+Licentie.
+Perl is vrije software, uitgebracht onder de Artistic License en GPL. Perl draait op de meeste besturingssystemen. Op de meeste UNIX-achtige systemen, zoals Linux, wordt Perl standaard geïnstalleerd. Ook bestaan er versies voor Windows.
+Voorbeelden.
+Perl is goed geschikt voor het manipuleren van tekstbestanden door middel van korte en bondige opdrachten. In de volgende twee voorbeelden worden tekstbestanden met Perl-oneliners aangepast.
+Voorbeeld 1: Converteer file met naam myfile van UNIX- naar DOS-formaat.
+Voorbeeld 2: Plaats de string "#!/usr/bin/perl" bovenaan iedere file met extensie '.pl'.
+perl -i -ple 'print q if $. == 1; close ARGV if eof' *.pl
+Voorbeeld 3: Druk alle regels van de invoer af, maar alleen de eerste keer dat ze voorkomen.
+perl -ne 'print unless $seen++' bestand-met-dubbel-voorkomende-regels
+Dit is bijvoorbeeld vaak nuttig om uit logfiles dubbele regels weg te laten.
+In voorbeeld 4 wordt gedemonstreerd hoe er met de uit CPAN afkomstige module LWP ("the World Wide Web Library for Perl") een
+Voorbeeld 4: Haal de hoofdpagina van nl.wikipedia.org op.
+my $response = $ua->get('http://nl.wikipedia.org/'); # haal de hoofdpagina op
+if ($response->is_success) else
+Om alleen de weetjes uit de rubriek "Wist je dat..." af te drukken moet een # worden verplaatst
+van de regel met &amp;print_wist_je_dat naar de regel met print $html; de definitie van
+Voorbeeld 5: Parse HTML uit de rubriek "Wist je dat...".
+use utf8; # liefst bovenaan plaatsen voor de duidelijkheid;
+use bytes; # deze twee statements geven aan dat er UTF-8 in het script zit, namelijk het teken …
+sub print_wist_je_dat
+my ($html) = @_;
+while (my $token = $stream->get_token) {
+if ($token->[0] eq 'T') elsif ($token->[0] eq 'S') elsif ($token->[0] eq 'E')
+use utf8; # liefst bovenaan plaatsen
+use bytes; # deze zijn voor het matchen van …
+sub print_wist_je_dat
+Kritiek op Perl.
+In Perl wordt heel veel gebruikgemaakt van niet-alfanumerieke symbolen met een voorgedefinieerde betekenis zoals <>, $_ en $/ en de speciale tekens in reguliere expressies. Ook worden accolades en haakjes voor veel verschillende dingen gebruikt. Bovendien hebben veel operaties een default-operator die weggelaten mag worden. Deze voorzieningen maken compacte code mogelijk, maar bemoeilijken de leesbaarheid voor degenen die de notaties niet kennen.
+Veel programmeurs voeren aan dat dit tot moeilijker leesbare code leidt doordat programmeurs hun eigen schrijfstijl ontwikkelen en moeten wennen aan de stijl van een ander.
+Daarnaast moet bedacht worden dat een taal als Perl voor veel taken veel expressiever is dan een low-level-taal als C; er staat domweg veel meer per regel, dus is het geen wonder dat het begrijpen per regel meer moeite kost.
+Boeken.
+Larry Wall was vanaf 1995 tot 2003 in dienst bij de uitgever O'Reilly, die enige zeer populaire Perlboeken heeft uitgegeven. Het dier op de kaft van de boeken van O'Reilly geeft het boek ook meteen een bijnaam, zoals het "Camel Book" voor "Programming Perl".
+Andere, recente boeken zijn "Modern Perl" en "Beginning Perl". Eind jaren negentig was Perl bijzonder populair tijdens de Internetzeepbel. In deze periode zijn veel, intussen verouderde, boeken over Perl geschreven, vaak van wisselende kwaliteit.
+Perldoc.
+Iedere Perlinstallatie beschikt over uitgebreide documentatie die wordt opgevraagd met de opdracht perldoc.
+Bijeenkomsten van de Perl Mongers zijn een goede manier om ervaringen met Perlprogrammeurs uit te wisselen. Er wordt jaarlijks een meerdaagse Perlconferentie georganiseerd: YAPC.
+Perl 1.0.
+Perl is ontstaan als een rapportagetool: een programma dat informatie uit tekstbestanden haalt en in rapportvorm presenteert. Larry Wall postte versie 1.0 in 1987 in de nieuwsgroep comp.sources.misc.
+Perl 2 t/m 4.
+Al snel groeide Perl uit tot een algemene scripttaal voor Unixsystemen, die voor tekstbewerking de sterke punten van AWK en de Bourne-shell in zich verenigde. Dit was een grote stap vooruit ten opzichte van shellscripts, die voor de meest eenvoudige functies allerlei externe programma's moeten aanroepen. Ook werden de meeste system calls en standard library-functies ingebouwd, zodat Perl qua uitdrukkingskracht vergelijkbaar werd met C: ook het low-level programmeren van bv. multiprocessing en procescommunicatie via sockets en netwerken was nu mogelijk. Ook werd de "package" ingevoerd, een eenvoudige manier voor namespacing waarmee losse modules gemaakt konden worden. Ondersteuning voor datastructuren bleef beperkt: alleen de array, de associatieve array en "globbing", een primitief reference-mechanisme.
+De belangrijkste toepassingen bleven batchgewijze tekstbewerking en scripts voor systeembeheer.
+Nieuwe releases bleven uitkomen tot 4.036.
+Perl 5.
+Hierdoor kon CPAN ontstaan, de centrale repository van vrijelijk herbruikbare Perl-bibliotheken. Nieuwe functionaliteit werd nu niet langer aan de taal toegevoegd, maar als CPAN-module beschikbaar gesteld.
+Perl werd nu zeer populair als "plak"-taal om systemen met elkaar te verbinden. Vanaf de opkomst van het world wide web tot eind jaren negentig was het de belangrijkste taal voor webapplicaties. Later werd PHP populairder.
+In 2000 werd de volgende versie van Perl, versie 6, gestart. Deze maakt onder meer betere (statische) typering mogelijk. Van versie 5 komen jaarlijks onderhoudsreleases uit met kleine verbeteringen. In 5.10 zijn zelfs wat features uit Perl 6 toegevoegd; deze moeten expliciet worden ingeschakeld om de achterwaartse compatibiliteit niet te verbreken.
+Perl 6.
+De ontwikkeling van versie 6 is in 2000 begonnen en is in volle gang. De opleverdatum is nog niet bekend, maar
+In plaats van een interpreter zal Perl 6 gebruikmaken van een virtuele machine genaamd Parrot, die ook geschikt is voor andere scripttalen zoals PHP of Ruby.

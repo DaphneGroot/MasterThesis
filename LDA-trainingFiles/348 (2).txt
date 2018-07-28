@@ -1,0 +1,6 @@
+Functionele analyse.
+Voor men een computerprogramma kan schrijven, moet men een idee hebben waartoe het moet dienen en hoe het moet functioneren. Daarom moet er eerst een functionele analyse gemaakt worden. De functionele analyse beschrijft alle functies die men in het programma wil hebben.
+Het opstellen van een functionele analyse gebeurt door het afnemen van interviews met de betrokken gebruikers. Hiervoor zijn een aantal methodieken in gebruik binnen het vakgebied van de software ontwikkeling.
+Bij het ontwikkelen van software is de functionele analyse zowel voor de ontwikkelaars als voor de andere betrokken partijen een belangrijk referentie document.
+Voorbeeld.
+We spreken hier nog niet over welke toetsen voor de verschillende functionaliteiten gebruikt moeten worden, en of dit in verschillende vensters plaatsvindt. Dat is onderdeel van de technische analyse.

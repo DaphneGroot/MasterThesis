@@ -1,0 +1,9 @@
+Lynx (webbrowser).
+Lynx is een opensourcewebbrowser die enkel tekst kan weergeven. De browser wordt ontwikkeld in C door Thomas Dickey. De broncode wordt gepubliceerd onder de GPL. Lynx werkt op meerdere platformen.
+Geschiedenis.
+Lynx is bedacht door de Distributed Computing Group binnen de afdeling Academic Computing Services aan de universiteit van Kansas door Lou Montulli, Charles Rezac en Michael Grobe. Het computerprogramma werd aanvankelijk bedacht om informatie over de universiteitscampus te verspreiden, maar werd door een student in 1993 omgetoverd tot een tekstbrowser. Later zijn er naast de Unix-versie ook versies voor andere platformen ontwikkeld, tot aan Windows toe. De browser wordt nu onderhouden door een groep vrijwilligers.
+Functies.
+Navigeren in Lynx gebeurt door het gebruik van toetscombinaties (bijvoorbeeld 'G' voor het commando 'Go') en de tab-toets.
+Het browsen met Lynx kent verschillende beperkingen omdat de browser dus niet in staat is om plaatjes en afbeeldingen te tonen, de muis niet wordt ondersteund, frames niet heel praktisch worden weergegeven en allerhande scripts en uitbreidingen niet beschikbaar zijn. De meeste gebruikers nemen dit voor lief; het heeft als voordeel dat het internet beter leesbaar en navigeerbaar is voor mensen die niet of moeilijk grafisch kunnen werken, zoals blinden. Het programma is verder door zijn makkelijke toetsenbediening ook populair bij mensen die willen browsen zonder de muis te gebruiken en is bovendien snel.
+Oorspronkelijk protocol.
+Het Gopher-protocol werd door Lynx gebruikt om de gegevens te transporteren.

@@ -1,0 +1,14 @@
+C♯.
+De naam is afgeleid van C#, de Engelse naam voor de "Cis", dat wil zeggen de met een halve toon verhoogde C.
+C# (Engels uitgesproken als "C sharp") is een programmeertaal ontwikkeld door Microsoft als deel van het.NET-initiatief, en later geaccepteerd als standaard door ECMA (ECMA-334) en ISO (ISO/IEC 23270). C# is objectgeoriënteerd en lijkt qua syntaxis en semantiek sterk op Java, maar bevat vooral in latere versies allerlei voorzieningen waardoor ook in andere programmeerstijlen gewerkt kan worden, terwijl vooral in de bibliotheken en programmeeromgeving een sterke invloed van Object Pascal en Delphi te zien is.
+Dit is niet verrassend, omdat C# onder andere bedoeld is als Microsofts antwoord op Java en omdat Anders Hejlsberg, de ontwerper van Delphi, ook een leidende rol heeft gehad in C# en.NET.
+C# is samen met het.NET-framework geïntroduceerd, en wordt beschouwd als de belangrijkste taal voor dat platform.
+Naast desktopapplicaties en serverapplicaties (in combinatie met ASP.NET) wordt de taal ook gebruikt voor mobiele apparaten als pda's en smartphones, in combinatie met het.NET Compact Framework.
+Voorbeeld.
+Een bronbestand van C# wordt opgeslagen met cs-bestandsextensie, bijvoorbeeld 'Hello.cs'.
+Common Intermediate Language.
+De Common Intermediate Language (CIL) is de specificatie van de bytecode waar alle.NET-talen naartoe compileren. De CIL-code wordt door de Common Language Runtime (CLR) at-runtime omgezet naar machinecode en uitgevoerd. Omdat de CIL-code at-runtime wordt gecompileerd vlak voor deze wordt aangeroepen, spreekt men wel van JIT (Just In Time)-compilatie. CIL is te vergelijken met de bytecode in Java's.class-bestanden. Ook Java's VM werkt op eenzelfde manier als de CLR van.NET.
+CIL heette voorheen MSIL, wat de afkorting was voor Microsoft Intermediate Language, maar is van naam veranderd om in aanmerking te komen als ISO-standaard.
+Gebruik als scripttaal.
+Door zijn flexibiliteit kan C# ook als scripttaal worden gebruikt. Zo is dit standaard geïmplementeerd in Unity3D en is het ook mogelijk om C# als scripttaal te gebruiken voor de Unreal engine. Ook kan C# als scripttaal worden gebruikt met behulp van cs-script en is het mogelijk C# als scripttaal te gebruiken in applicaties die met C++ zijn geschreven.
+Door gebruik te maken van ASP.NET kan C# gebruikt worden als alternatief voor PHP.

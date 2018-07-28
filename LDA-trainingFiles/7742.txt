@@ -1,0 +1,20 @@
+Wet van Hubble.
+De wet van Hubble is een wet, of zo men wil vuistregel, in de sterrenkunde, die stelt dat sterrenstelsels zich van elkaar verwijderen met een snelheid die evenredig is met hun onderlinge afstand.
+Eenvoudiger gezegd: hoe verder de melkwegstelsels van onze aarde staan, hoe sneller ze zich van ons verwijderen.
+'Wet' is misschien een wat sterke uitdrukking voor deze regel, omdat bijvoorbeeld de Andromedanevel zich juist naar ons melkwegstelsel toe beweegt. Niettemin gaat de wet beter op naarmate de afstanden waar het om gaat groter worden.
+Oorsprong van de wet.
+Edwin Hubble formuleerde de wet in 1929, twee jaar nadat Georges Lemaître dit deed. Hubble ontdekte de wet door de roodverschuiving van het lichtspectrum van het licht van de sterrenstelsels te verklaren door het Dopplereffect.
+Hubble zette de berekende snelheid volgens het Dopplereffect uit tegenover de afstand van de sterrenstelsels en vond een lineaire relatie tussen snelheid en afstand. De constante die deze lineaire relatie uitdrukt is de Hubbleconstante.
+De oorspronkelijk door Hubble bepaalde waarde was 500 km/s/Mpc, door een onderschatting van de onderlinge afstanden.
+Formulering van de wet.
+Het bepalen van de Hubbleconstante is een lastige zaak omdat de afstandsbepaling in het heelal gecompliceerd is.
+Waarde van de Hubbleconstante.
+De waarde van de Hubbleconstante is lang een strijd geweest tussen Gérard de Vaucouleurs, die een waarde van 100 bepaalde, en Allan Sandage, die de waarde op 50 bepaalde.
+Het "Hubble key project" heeft de bepaling van de waarde aanzienlijk verbeterd. Een goede bepaling van de Hubbleconstante is gepubliceerd in mei 2001 en bedraagt 72 ± 8 km/s/Mpc. Ook WMAP geeft 71 km/s/Mpc. Maar is recentelijk bijgesteld naar 72 ± 4 km/s/Mpc oftewel iets minder grote onnauwkeurigheid.
+Zelfs in het eenvoudige geval dat sterrenstelsels een constante snelheid hebben is de "Hubbleconstante" tijdafhankelijk, namelijk afnemend. Bovendien zou men veronderstellen dat ten gevolge van de gravitatie de snelheden afnemen. Anderzijds is er de theorie van de versnelde uitdijing van het heelal.
+De leeftijd van het heelal en de Hubbleconstante.
+De Hubbleconstante wordt meestal gegeven in kilometer per seconde per megaparsec (km/s/Mpc) en heeft dus de dimensie 1/tijd. Het omgekeerde van de Hubbleconstante, 1/H, heet de "Hubbletijd": de leeftijd die het heelal zou hebben als het altijd aan het uitzetten zou zijn geweest met de snelheid waarmee het nu uitzet.
+waarbij "tH" de Hubbletijd is, de tijd die verlopen is sinds de oerknal. Dit geeft een waarde van 13,6 ± 0,8 miljard jaar.
+Bij een versnelling van de uitdijing, dus "H" > 1/"t" en 1/"H0", zou het heelal ouder zijn.
+Toepassing van de Hubbleconstante.
+Waar de Hubbleconstante meestal voor gebruikt wordt, is voor het bepalen van de afstand tot een bepaald sterrenstelsel. Als uit de roodverschuiving bekend is hoe snel het zich van ons af beweegt, is eenvoudig te berekenen hoe ver het sterrenstelsel van ons af staat.

@@ -1,0 +1,6 @@
+Omloopsnelheid (astronomie).
+De omloopsnelheid van een satelliet om een centrum van zwaartekracht is de gemiddelde snelheid van de satelliet in zijn baan om het centrum. Bij kunstmanen wordt de snelheid uitgedrukt in km/h, bij bijvoorbeeld planeten om de Zon in km/s. Hoe dichter de baan van de satelliet bij het centrum van de zwaartekracht waaromheen de omloop ligt, en hoe hoger de massa van dit centrum, hoe hoger de omloopsnelheid.
+Voorbeelden.
+De Aarde heeft een omloopsnelheid om de Zon van 29,8 km/s. Pluto, die verder weg staat van de Zon dan de Aarde, 4,7 km/s.
+Uitwerking.
+Indien de baan van de satelliet geen exacte cirkel is, maar een ellips, hangt de baansnelheid af van de positie van de satelliet in zijn baan. Uit de energievergelijking kan deze voor elke afstand worden afgeleid, zie tweelichamenprobleem.

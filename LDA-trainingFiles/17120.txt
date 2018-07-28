@@ -1,0 +1,25 @@
+Gambietvariant.
+Bij het schaken bestaan er in diverse schaakopeningen zogenaamde 'gambietvarianten'.
+Uitleg.
+De Gambietvariant is een variant in de schaakopening Spaans en heeft de beginzetten: 1.e4 e5 2.Pf3 Pc6 3.Lb5 a6 4.La4 b5 5.Lb3 Pa5 6.Lf7
+Ze is ingedeeld bij de open spelen.
+Uitleg.
+De Gambietvariant is eveneens een variant in de schaakopening Slavisch met de beginzetten 1.d4 d5 2.c4 c6 3.cd cd 4.Pc3 Pf6 5.Lf4 Db6 6.e3 code D 10 en is ingedeeld bij de gesloten spelen.
+Uitleg.
+De Gambietvariant is ook de naam van een variant in de schaakopening Nimzo-Indisch met de beginzetten 1.d4 d5 2.c4 e6 3.Pf3 Pf6 4.Lg5 Lb4 5.Pc3 dc
+Dit lijkt een Damegambiet maar door verwisseling van zetten wordt het een Nimzo-Indische opening. Ze is ingedeeld bij de gesloten spelen.
+Uitleg.
+De Gambietvariant is ook te vinden als een variant in de schaakopening Koningsindisch met de beginzetten 1.d4 Pf6 2.c4 g6 3.Pc3 Lg7 4.e4 d6 5.f4 0-0 6.Pf3 e5
+en is ingedeeld bij de halfgesloten spelen. Zwart biedt een centrumpion aan, maar heeft al wel gerokeerd.
+Uitleg.
+De Gambietvariant komt ook voor als een variant in de schaakopening Ben-Oni met de beginzetten: 1.d4 Pf6 2.c4 c5 3.d5 e6 4.Pc3 ed 5.cd d6 6.e4 g6 7.f4 Lg7 8.Pf3 0-0 9.Le2 b5
+en ze is ingedeeld bij de halfgesloten spelen. In dit gambiet wordt de pion pas in de negende zet aangeboden, meestal gebeurt dat direct in de opening. In het veel gepeelde Marshallgambiet in de schaakopening Spaans gebeurt dit op de achtste zet van zwart.
+Uitleg.
+De Gambietvariant is een variant in de Owenopening. John Owen is een Britse schaker die leefde van 1827 tot 1901. Het gambiet kent de zetten: 1.d4 b6 2.e4 Lb7 3.Ld3 f5
+en het is ingedeeld bij de halfgesloten spelen.
+Uitleg.
+De Gambietvariant is ook een gambiet in de schaakopening Frans en het begint met de volgende zetten: 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Pc6 5.Pf3 Db6 6.Ld3
+en is ingedeeld bij de halfopen spelen.
+Uitleg.
+In de schaakopening Caro Kann komt de Gambietvariant ook voor en wel in de volgende zetten: 1.e4 c6 2.d4 d5 3.ed cd 4.c4 Pf6 5.Pc3 Pc6 6.Lg5 dc 7.Lc4
+en het is ingedeeld bij de halfopen spelen.

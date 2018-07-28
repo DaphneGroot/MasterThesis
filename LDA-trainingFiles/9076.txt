@@ -1,0 +1,34 @@
+Zwarte straler.
+Een zwarte straler gebruikt voor de definitie van de candela. 1 = Stralende holte. 2 = Smeltkroes. 3 = Stollend platina (2046 K)
+Met het oplopen van de temperatuur verschuift de piek van de zwarte straling naar hogere intensiteiten en kortere golflengten. De zwarte straling volgens het Planck-model wordt vergeleken met het klassieke voorgaande model van Rayleigh en Jeans.
+De kleur (chromaticiteit) van zwarte straling hangt af van de temperatuur van het zwarte lichaam. De locus van die kleuren is hier aangegeven in de kleurenruimte van de CIE uit 1931 (de "x,y"-ruimte) en heet de "Planck-locus".
+In de natuurkunde is een zwarte straler of zwart lichaam (Engels: "black body") een 'geïdealiseerd' (theoretisch volmaakt) object dat alle elektromagnetische straling die erop valt, absorbeert (en dus niet reflecteert). Door de absorptie van deze energie wordt de temperatuur van dit object hoger dan de omgevingstemperatuur. Deze warmte wordt aan de omgeving afgegeven in de vorm van elektromagnetische straling. Bij lage temperaturen zal de afgegeven hoeveelheid licht relatief verwaarloosbaar zijn en de uitgezonden straling voornamelijk in het infrarode spectrum zijn gesitueerd. Pas bij zeer hoge temperaturen wordt de zwarte straler roodgloeiend of witheet, en wordt er dus zichtbaar licht uitgezonden. In theorie zal een 'zwarte straler' echter altijd op alle golflengten uitzenden. Een zwarte straler is een ‘ideale uitzender’ en zendt, bij gegeven temperatuur, de maximaal mogelijke hoeveelheid energie per oppervlakte-eenheid uit op elke golflengte.
+Het spectrum wordt gegeven door de wet van Planck.
+Sterren hebben bij benadering een spectrum als van een zwarte straler. De kosmische achtergrondstraling heeft een spectrum dat vrijwel volmaakt met dat van een zwarte straler van 2,7 kelvin overeenkomt.
+Geschiedenis.
+De term "zwarte straler" werd in 1862 geïntroduceerd door Gustav Kirchhoff. Voorlopers van de wet van Planck zijn de wet van Rayleigh-Jeans en de stralingswet van Wien. De verschuivingswet van Wien gaf alvast een deel van de wetmatigheden die in de wet van Planck besloten liggen.
+Het spectrum van een zwarte straler werd voor het eerst berekend door Max Planck in 1900, die daarvoor de veronderstelling gebruikte – aanvankelijk alleen als rekenmethode – dat elektromagnetische straling alleen in discrete hoeveelheden (kwanta) kon worden doorgezonden. Dit is het beginpunt van de kwantummechanica.
+De zwarte straler werd gebruikt voor de vroegere definitie van eenheid van lichtsterkte: de candela.
+Formules voor het stralingsspectrum in termen van frequenties.
+Log-logplots van de straling naar frequentie voor de wet van Planck (groen), vergeleken met de wet van Rayleigh-Jeans (rood) en de stralingswet van Wien (blauw) voor een temperatuur van 8 mK.
+De cosinus laat zien dat de wet van Lambert van toepassing is. Deze cosinus kan weggelaten worden uit de formule als "per eenheid van oppervlakte van de zwarte straler" wordt vervangen door "per eenheid van oppervlakte loodrecht op de stralingsrichting".
+Indien de zwarte straler geen convexe vorm heeft is dit inclusief straling die elders op het oppervlak weer geabsorbeerd wordt.
+Benaderingen.
+Voor kleine waarden van formula_8 (dus bij relatief hoge temperatuur T of lage frequentie formula_3) geldt
+zodat de formules vereenvoudigd worden tot
+maal resp. cos θ, π en 1.
+Dit is de wet van Rayleigh-Jeans.
+Uit de eerste formule volgt bovendien dat bij iedere golflengte/frequentie de intensiteit van de straling steeds minstens evenredig met T toeneemt. Als bijvoorbeeld de temperatuur zo hoog is dat voornamelijk ultraviolette straling wordt uitgezonden, dan zal het voorwerp ook nog zichtbaar licht uitstralen (met een blauwpaarse kleur omdat de hoge frequenties overheersen).
+Voor grote waarden van formula_8 geeft de stralingswet van Wien een benadering.
+Verschuivingswet van Wien.
+Bovenstaande formules laten zien dat de genoemde vermogensdichtheden per eenheid frequentie een afhankelijkheid van frequentie en temperatuur hebben van de vorm
+Eerst werd ontdekt dat de vermogensdichtheden van deze vorm zijn (waarbij elk van de toen onbekende functies "φ" en "ψ" eenvoudig uit de andere zou volgen), pas later werden deze functies gevonden, en ook theoretisch verklaard met de introductie van kwantummechanica.
+Centrummaten voor het spectrum.
+De piek van het vermogen per eenheid frequentie ligt bij een frequentie van 58,7892 GHz maal de temperatuur in kelvin. De piek van het vermogen per eenheid golflengte ligt bij een golflengte van 2,89777 mm gedeeld door de temperatuur in kelvin (deze 2,89777 mmK is de constante van Wien). Het product is 170.358 km/s in plaats van de lichtsnelheid, als gevolg van het feit dat de omrekeningsfactor van de frequentie/golflengte afhangt. Nog een andere centrummaat: qua energie zit in het midden (even veel er boven als er onder) 72,9 GHz maal de temperatuur in kelvin (4,11 mm gedeeld door de temperatuur in kelvin). Dit is de mediaan van de frequentie en de golflengte met betrekking tot de energie (niet te verwarren met bijvoorbeeld de mediaan met betrekking tot aantallen fotonen).
+Met behulp van de kleurverdeling van de zwarte straling bij een bepaalde temperatuur kan aan een kleurindruk een temperatuur worden verbonden, de kleurtemperatuur. Bijvoorbeeld daglicht bij zonsopgang heeft een kleurtemperatuur van 1850 K, dat wil zeggen dezelfde kleur als een zwarte straler van 1850 K.
+Formules voor de totale straling over het hele spectrum.
+Dit is de wet van Stefan-Boltzmann.
+Deze grootheid wordt in de astronomie intensiteit genoemd (maar deze term wordt ook wel in andere betekenissen gebruikt).
+De luminantie hangt ook alleen van T af, niet van geometrische aspecten zoals grootte, afstand, vorm en kijkhoek.
+Benadering in het laboratorium.
+De beste benadering van een zwarte straler in het laboratorium is een kleine opening naar een holle ruimte met een ruw, zwart, dus niet reflecterend, oppervlak.

@@ -1,0 +1,8 @@
+Linienförmige Zugbeeinflussung.
+Linienförmige Zugbeeinflussung (ook wel "Linienzugbeeinflussung") (LZB) is de naam voor een aantal continue treinbeïnvloedingssystemen van Siemens Transportation Systems. Het bekendste is LZB 80, dat voornamelijk wordt gebruikt voor spoorwegen waarop sneller dan 160 km/h wordt gereden. Andere LZB's zijn vooral toegespitst op metroverkeer. Deze LZB's worden onder andere gebruikt bij de metrobedrijven van München, Amsterdam en Rotterdam.
+LZB 80.
+Ballastloos spoor met in het midden en links (op de voet van de spoorstaaf) een LZB-kabel
+De data-overdracht van de snelheidstoestemmingen geschiedt niet, zoals bij ATB-EG, via een gecodeerde spoorstroomloop, maar via twee coaxkabels in het spoor. Een in het midden en een andere langs de rand van de spoorstaaf. Om de honderd meter kruisen de kabels elkaar.
+LZB 80 kan de machinist al een snelheidsverandering doorgeven van 7 kilometer verderop bij 200 km/h en 9,9 kilometer verderop bij 250 km/h. LZB is niet alleen een middel om de machinist op zijn handelen te controleren, maar op hogesnelheidslijnen vervangt het de seinen langs de baan. Bij overschrijding van de toegestane snelheid remt LZB de trein af tot deze snelheid. De AFB ("Automatische Fahr-Bremssteuerung") maakt een automatische snelheidsregeling van de trein mogelijk.
+In 1963 werd LZB voor het eerst getest op het Duitse baanvak Forchheim - Bamberg.
+LZB 80 wordt gebruikt op spoorwegen in Duitsland en Oostenrijk waarop sneller dan 160 km/h wordt gereden. In Spanje wordt LZB 80 gebruikt op de AVE-lijn tussen Madrid en Sevilla. In 2004 is er LZB ingevoerd op de stamlijn van de S-Bahn van München om de capaciteit te verhogen van 24 naar 30 treinen per uur per richting.

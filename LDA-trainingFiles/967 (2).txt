@@ -1,0 +1,21 @@
+JavaScript.
+JavaScript is een veelgebruikte scripttaal om webpagina's interactief te maken en webapplicaties te ontwikkelen. Het script wordt middels HTML overgebracht in de webbrowser en wordt hierin uitgevoerd.
+De syntaxis van JavaScript vertoont overeenkomsten met de programmeertaal Java, maar dit is voornamelijk het gevolg van de gemeenschappelijke afkomst van de programmeertaal C. Omdat beide talen het meest zichtbaar zijn op en rond de browser, maar vooral door de naamgeving, worden ze vaak met elkaar verward. De gelijkenis houdt daar echter op, want JavaScript heeft inhoudelijk meer gemeen met functionele programmeertalen, het biedt prototype-gebaseerde overerving en niet, zoals Java en de meeste objectgeoriënteerde talen, klasse-gebaseerde overerving.
+Geschiedenis.
+De eerste versie van JavaScript werd in 1995 ontwikkeld door Brendan Eich van Netscape Communications Corporation voor gebruik in Netscape Navigator. Aanvankelijk was de naam "Mocha" en vervolgens "LiveScript". De taal werd hernoemd tot JavaScript in de tijd dat in de Netscape-browser ook ondersteuning voor Java-applets werd ingebouwd.
+Met de introductie van JavaScript ontstonden de eerste mogelijkheden om webpagina's interactief te maken. Dit werd later Dynamic HTML genoemd.
+Netscape heeft in een poging om JavaScript als een officiële norm erkend te krijgen en er toch zelf voldoende zeggingskracht over te behouden de taal laten normeren door de "European Computer Manufacturers Association" (ECMA), waarbij de naam om redenen betreffende het merkrecht is gewijzigd in ECMAScript. De relevante ISO-standaard is ISO 16262 (Internationale Organisatie voor Standaardisatie). De huidige versie van JavaScript is versie ECMAScript 2016 (juni 2016).
+Microsoft heeft een eigen implementatie van JavaScript ontwikkeld onder de naam JScript en Adobe heeft een eigen versie genaamd ActionScript die gebruikt wordt in Flash.
+Het gebruik van JavaScript kent weer een opleving als onderdeel van AJAX-toepassingen.
+Gebruik van JavaScript.
+JavaScript wordt vooral gebruikt in toepassingen op het wereldwijde web.
+Client-side.
+In deze toepassing wordt JavaScript vooral gebruikt in interactieve webpagina's. Net als bij andere scripttalen is er een interpreter nodig om de geprogrammeerde opdrachten uit te voeren. De meeste moderne browsers beschikken over een eigen interpreter voor JavaScript. Het besturingssysteem Windows heeft een ingebouwde interpreter, het bestand "jscript.dll".
+Ook enkele e-mailprogramma's ondersteunen JavaScript in HTML-berichten.
+Server-side.
+JavaScript kan ook gebruikt worden voor server-side scripting. De webservers van Netscape waren de eerste die deze ondersteuning boden. Maar ook de webserver van Microsoft, IIS, ondersteunt JavaScript in Active Server Pages en ASP.NET. De laatste jaren maakt node.js een grote opgang.
+JavaScript-toolkits.
+Een JavaScript-framework is een softwarebibliotheek die een aantal JavaScript-functies en widgets bevat voor het ontwikkelen van webapplicaties, waarbij vaak de nadruk ligt op AJAX.
+Omgeving.
+Het Internet Mediatype of MIME-type voor JavaScript-code is codice_1, hoewel het niet-officiële codice_2 vaker wordt gebruikt.
+In XHTML-documenten houden speciale karakters, zoals "codice_3-elementen (in HTML vervalt die speciale betekenis onder bepaalde voorwaarden). Een script dat zulke karakters bevat, moet daarom als CDATA-sectie gemarkeerd worden. De CDATA-markering zelf wordt dan vaak met "codice_4" in commentaar verstopt om te voorkomen dat er problemen ontstaan met browsers die geen CDATA-secties herkennen.

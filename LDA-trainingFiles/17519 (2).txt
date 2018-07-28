@@ -1,0 +1,8 @@
+Tarraschgambiet.
+Er bestaan twee zettenreeksen met de naam Tarraschgambiet.
+Uitleg.
+Het Tarraschgambiet is in de opening van een schaakpartij een variant in de schaakopening Caro-Kann en de beginzetten zijn:1.e4 c6 2.d4 d5 3.Pc3 dxe4 4.Pxe4 Lf5 5.Ld3
+Het gambiet is ingedeeld bij de halfopen spelen, en is geanalyseerd door Siegbert Tarrasch.
+Uitleg.
+Het Tarraschgambiet is ook een variant in de Tarrasch opening met de beginzetten: 1.d4 d5 2.c4 e6 3.Pc3 c5 4.cxd5 exd5 5.dxc5 d4 6.Pa4
+en het is ingedeeld in de gesloten spelen.

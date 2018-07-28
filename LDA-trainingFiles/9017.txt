@@ -1,0 +1,14 @@
+Oscilloscoop.
+Philips GM5659, een oscilloscoop uit 1953
+Een oscilloscoop (kortweg scoop, vroeger ook wel kathodestraaloscillograaf) is een meetinstrument uit de elektrotechniek dat cyclische variaties in een elektrische grootheid goed zichtbaar kan maken.
+De oscilloscoop is één van de meest universele elektronische meetapparaten.
+Analoge oscilloscoop.
+Schema van de werking van een oscilloscoop
+De gebruikelijke uitvoering maakt gebruik van een kathodestraalbuis met luminescerend scherm. Het beeld wordt opgewekt door een elektronenstraalbundel die horizontaal en verticaal afgebogen kan worden. Bij normaal bedrijf wordt op de horizontale afbuiging een in de scoop opgewekt zaagtandvormig signaal met goed gedefinieerde frequentie gezet; de 'tijdbasis'. Op deze wijze kan het verloop van een te meten spanning in de tijd weergegeven worden en de frequentie en amplitude van wisselspanningen gemeten worden.
+De oscilloscoop kan ook in de XY-mode gezet worden, waarbij het ene kanaal de horizontale afbuiging is, en het andere kanaal de verticale afbuiging. Als bijvoorbeeld een linker en rechter kanaal van een audio signaal worden toegevoerd, dan kan de harmonische vervorming en faseverschuiving snel zichtbaar gemaakt worden. Als twee elektrische spanningen worden toegevoerd die een veelvoud van dezelfde grondfrequentie zijn, dan wordt het verband ertussen weergegeven in een Lissajous-figuur.
+Soms is er ook een Z-ingang, die de helderheid regelt.
+Digitale oscilloscoop.
+Door veel producenten van oscilloscopen worden geen analoge oscilloscopen meer ontwikkeld. Bij digitale oscilloscopen kan met een kleuren "liquid crystal display" (LCD) gewerkt worden. Ook kunnen eenmalige signalen opgenomen worden, wat eerst alleen met de "transient recorder" of de analoge geheugenoscilloscoop mogelijk was.
+Benaming.
+Een oscillograaf is een toestel dat trillingen optekent, bijvoorbeeld op papier. Een kathodestraaloscillograaf tekent ook trillingen op, maar op een beeldbuis.
+De benaming "kathodestraaloscillograaf" geldt tegenwoordig als verouderd: men spreekt van "oscilloscoop". Dat is niet alleen korter, maar bovendien benadrukt het dat het beeld wel bekeken kan worden, maar niet permanent bewaard blijft, hoewel er ook digitale oscilloscopen bestaan met een geheugenfunctie, die wel een gemeten signaal kunnen opslaan.

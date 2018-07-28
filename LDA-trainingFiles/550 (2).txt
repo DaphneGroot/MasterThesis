@@ -1,0 +1,25 @@
+Richard Dedekind.
+Julius Wilhelm Richard Dedekind (Braunschweig, 6 oktober 1831 – Braunschweig, 12 februari 1916) was een Duits wiskundige, die belangrijk werk heeft gedaan in de abstracte algebra, de algebraïsche getaltheorie en op het gebied van de grondslagen van de reële getallen.
+Jeugdjaren.
+Richard Dedekind was de jongste van de vier kinderen van de jurist en hogeschoolleraar Julius Levin Ulrich Dedekind. Zijn vader gaf les aan het Collegium Carolinum.
+Studiejaren.
+Vanaf 1848 studeerde hij wiskunde aan het Collegium Carolinum in zijn geboortestad. In 1850 stapte hij over naar de Georg-August-Universiteit in Göttingen. In Göttingen gaf Carl Gauss les op basisniveau. Op de hogere niveaus waren de hoogleraren Stern en Ulrich zijn belangrijkste leermeesters. Via Stern kwam hij in aanraking met de getaltheorie.
+Als laatste student onder de supervisie van Gauss schreef Dedekind een kort proefschrift "Über die Theorie der Eulerschen Integrale" ("Over de theorie van Eulerintegralen") waarop hij in 1852 promoveerde.
+Berlijn was in die jaren het middelpunt van de wiskunde in Duitsland en na zijn promotie ging Dedekind daar voor de duur van twee jaar naartoe. In 1854 ontving hij, vrijwel gelijk met de eveneens uit Göttingen afkomstige Bernhard Riemann zijn "habilitation" (het recht om op een universiteit te doceren).
+Dedekind ging in Göttingen lesgeven als "Privatdozent" en gaf cursussen in kansrekening en meetkunde.
+Hij werkte enige tijd samen met Johann Dirichlet, die na het overlijden van Gauss in 1855 diens positie overnam, en zij werden vrienden.
+Dedekind breidde nog steeds zijn kennis uit door studie van elliptische functies, abelse functies, getaltheorie, potentiaaltheorie en partiële differentiaalvergelijkingen. Dedekind was de eerste die een lezing gaf over de Galoistheorie.
+Carrière.
+Gesteund door Dirichlet ging Dedekind in het najaar van 1858 lesgeven aan de technische universiteit van Zürich. In Zürich kwam hij op het idee van de Dedekindsnede, een nieuwe manier om een reëel getal te definiëren als snede in de rationale getallen. Een irrationaal getal verdeelt alle rationale getallen in twee verzamelingen: de rationale getallen groter en de rationale getallen kleiner dan het irrationale getal. Het getalformula_1 bijvoorbeeld verdeelt de rationale getallen in de verzameling waarvan het kwadraat kleiner is dan 2 en de verzameling waarvan het kwadraat groter is dan 2. Dit is tegenwoordig de standaardmethode voor de definitie van de reële getallen.
+In 1859 ging hij naar Berlijn toen Riemann benoemd werd als lid van de "Akademie der Wissenschaften" en ontmoette hij Karl Weierstrass, Ernst Kummer en Leopold Kronecker.
+In 1860 werd het Collegium Carolinum een "Technische Hochschule" en in 1862 ging Dedekind er lesgeven. Hij bleef daar de rest van zijn leven. In 1894 ging Dedekind met pensioen, maar ook daarna gaf hij af en toe nog lezingen.
+Persoonlijk leven.
+Hij bracht het grootste deel van zijn leven door in zijn geboortestad. Al in zijn vroege volwassenheid studeerde en doceerde hij in Göttingen, Berlijn en Zürich. Dedekind is nooit getrouwd geweest. Na zijn terugkeer naar Braunschweig woonde hij vanaf 1862 samen met zijn eveneens ongetrouwde zus Julia. Kort na haar dood in 1914 stierf Dedekind in 1916 op hoge leeftijd.
+Werk.
+In 1863 publiceerde Dedekind de lezingen van Johann Dirichlet over getaltheorie "Vorlesungen über Zahlentheorie" ("Lezingen over getaltheorie").
+In 1872 publiceerde hij zijn eigen rigoureus nieuwe definitie van de irrationale getallen in termen van de Dedekindsnede in een artikel ' ("Continuïteit en irrationale getallen").
+N 1 2 3 4 5 6 7 8 9 10...
+N2 1 4 9 16 25 36 49 64 81 100...
+In de derde editie (1879) van zijn boek "Über die Theorie der ganzen algebraischen Zahlen" ("Over de theorie van de algebraïsche gehele getallen") schreef hij een supplement waarin hij het concept van de "ideaal" introduceerde. Dit concept is fundamenteel in de ringtheorie zoals geformuleerd door David Hilbert en later Emmy Noether.
+In 1882 publiceerde hij in samenwerking met Heinrich Weber een artikel, waarin Dedekinds theorie van idealen werd toegepast op de theorie van Riemann-oppervlakken. Dit leverde onder andere een puur algebraïsch bewijs voor de stelling van Riemann-Roch.
+In 1888 publiceerde Dedekind "Was sind und was sollen die Zahlen?" ("Wat zijn getallen en wat zouden ze moeten zijn?") waarin hij op zijn eigen manier de oneindige verzameling definieerde. Hij toonde aan dat de rekenkunde gebaseerd kon worden op een verzameling axioma's. Een eenvoudiger, maar equivalente, en tegenwoordig bekendere versie werd een jaar later geformuleerd door Giuseppe Peano.

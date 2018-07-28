@@ -1,0 +1,7 @@
+Dubbelschaak.
+Van dubbelschaak is sprake wanneer een koning door twee verschillende stukken wordt aangevallen (door drie is niet mogelijk). Behoudens het hieronder genoemde dubbel aftrekschaak komt dit alleen voor indien een stuk tegelijkertijd de lijn van een ander stuk naar de vijandelijke koning opent en zelf de koning aanvalt. Een dubbelschaak bestaat dan uit een gewoon schaak en een aftrekschaak. In de notatie schrijft men ††.
+In het eerste diagram speelt wit Pb6††. De zwarte koning wordt nu aangevallen door de witte toren en door het witte paard. Hij staat dus dubbelschaak.
+De twee aanvallende stukken zijn niet gelijk, het is niet mogelijk met twee torens of met twee lopers dubbelschaak te geven. De uitzondering is als dubbelschaak wordt gegeven met een pionpromotie, waarbij beide aanvallers een dame kunnen zijn.
+Schaak kan worden opgeheven door de koning te verplaatsen, door een stuk tussen de koning en het aanvallende stuk te zetten of door het aanvallende stuk te slaan. Dubbelschaak kan alleen worden opgeheven door een zet met de koning, maar het is mogelijk dat met deze zet een van de aanvallende stukken geslagen wordt.
+Dubbel aftrekschaak.
+Met en passant slaan is het mogelijk dat dubbelschaak wordt gegeven zonder dat het gespeelde stuk zelf schaak geeft. In het tweede diagram is zwart aan zet. Wit heeft zojuist c2-c4 gespeeld. Zwart antwoordt met b4×c3 e.p.†† en geeft dubbel aftrekschaak met loper en toren.

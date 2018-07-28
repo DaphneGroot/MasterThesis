@@ -1,0 +1,3 @@
+Cholmovgambiet.
+Het Cholmovgambiet is in de opening van een schaakpartij een variant van de schaakopening Russisch.
+Het is geanalyseerd door de sterke Russische schaker Ratmir Cholmov (1925). Hij is geen wereldkampioen geweest, maar hij heeft wel vijf wereldkampioenen verslagen, te weten: Michail Tal, Tigran Petrosjan, Boris Spasski, Bobby Fischer en Garri Kasparov. De openingszetten van het gambiet zijn: 1.e4 e5 2.Pf3 Pf6 3.Pe5 Pe4 4.De2 De7 en de code is C 42. Het gambiet is ingedeeld bij de open spelen.

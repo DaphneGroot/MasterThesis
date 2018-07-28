@@ -1,0 +1,16 @@
+Code (representatie van gegevens).
+Een code in de ruimste zin is een aanduiding die voor iets anders staat, een symbool, een verzameling symbolen, een beweging, etc. Codes worden gebruikt om te communiceren: het is eenvoudiger het woord 'tafel' te zeggen dan naar een tafel te wijzen. Alle talen zijn dus eigenlijk codes. Communiceert men met iemand die de code niet kent - dus iemand die een andere taal spreekt - dan moet men wel naar de tafel wijzen.
+De vertaalslag van de werkelijkheid, of van de ene code naar de andere toe heet 'codering'; de omgekeerde bewerking 'decodering'.
+Codering in stappen.
+In de praktijk wordt het woord 'code' niet gebruikt voor de gesproken taal en de geschreven tekst, maar ze zijn in feite wel degelijk codes. Al deze codes hebben gemeen dat kennis van de code noodzakelijk is: een mondeling gesprek is niet mogelijk tussen personen die de taal niet kennen, een geschreven tekst is voor analfabeten onleesbaar. Voor ASCII is het niet nodig dat de gebruiker de code kent, maar geldt nog steeds de eis dat de gebruikte computer de code van en naar geschreven tekst moet kunnen omzetten.
+Machinale codering.
+De codering en decodering kan ook machinaal geschieden. Zo kan een gesproken tekst met een microfoon gecodeerd worden naar elektrische trillingen en met een luidspreker weer gedecodeerd worden. Deze elektrische trillingen zijn geschikt voor verzending per telefoon of radio en kunnen verder gecodeerd worden naar magnetisme op een recorderband of putjes in een cd.
+Er is in dit geval geen sprake van een overeengekomen code: een microfoon genereert trillingen die direct overeenkomen met het gesproken geluid.
+Codering en menselijk geheugen.
+Informatie of kennis van de buitenwereld wordt in een bepaalde vorm of code in netwerken van zenuwcellen in de hersenen opgeslagen. Hoe dergelijke neurale codes of representaties worden gevormd, is een onderwerp van de cognitieve psychologie en neurobiologie.
+Bijzondere coderingen.
+Vaak treden ook combinaties hiervan op.
+Volwassenen spreken soms een vreemde taal om te verhinderen dat de kinderen meeluisteren.
+In feite wordt dan een gewone taal gebruikt voor encryptie.
+Hetzelfde gebeurde in de Tweede Wereldoorlog tussen Japan en de Verenigde Staten: de Amerikanen gebruikten Indianen die in hun eigen taal communiceerden, wat voor de Japanners onbegrijpelijk was.
+Spreekt men van een 'bericht in code' of een 'gecodeerd bericht', dan bedoelt men meestal dat er encryptie is gebruikt.

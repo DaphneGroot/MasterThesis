@@ -1,0 +1,3 @@
+Isolator.
+Een isolator is een materiaal of medium dat geluid, elektriciteit of warmte tegenhoudt en in het bijzonder een voorwerp van glas, porselein of kunststof waarmee hoogspanningskabels of -draden, telefoondraden en schrikdraad veilig bevestigd kunnen worden, zodat er geen lekstroom loopt en geen overslag optreedt.
+Een ideale isolator zal de betreffende grootheid dusdanig afzwakken dat deze niet meer waarneembaar is. Praktische isolatoren kennen een verzwakking die groot genoeg is om naar verhouding weinig van de grootheid over te houden. Bij een elektrische isolator loopt er geen noemenswaardige stroom, bij een geluidsisolator is er geen hoorbaar geluid meer en bij een warmte-isolator lekt er naar verhouding geen warmte weg.

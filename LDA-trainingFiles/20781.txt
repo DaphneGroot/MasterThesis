@@ -1,0 +1,38 @@
+World Solar Challenge.
+Winnaar van de Challenge in 2009 en 2011 was de "Tokai Challenger", Japan Tokai University Solar Car Team, winnaar in 2013 en 2015 de Nuna 7 en Nuna 8 uit Delft. Hiermee komt het aantal malen dat Delft de race gewonnen heeft op 6, en hebben de teams uit Delft veruit het grootste aantal keren gewonnen. Op een gedeelde tweede plaats staan de Honda Dream van Honda en de Tokai Challenger van Tokai University, elk met 2 keer een eerste plaats. De rest van de teams heeft maar één keer gewonnen.
+De Delftse Nuna 3, hier op het circuit van Zandvoort, was de winnaar in 2005. Met een totale tijd van 29 uur en 11 minuten heeft Nuna 3 nog steeds het parcoursrecord in handen
+De zonnewagen van Team New England uit de WSC 1993
+De World Solar Challenge is een tweejaarlijkse wedstrijd voor zonnewagens, auto's die rijden op zonne-energie. De wedstrijd gaat dwars door Australië over een afstand van 3022 kilometer. De start is in de noordelijke stad Darwin en de wedstrijd gaat via Alice Springs naar de zuidelijke stad Adelaide. De eerste World Solar Challenge vond plaats in 1987. Vanaf de World Solar Challenge 2009 maakt de wedstrijd deel uit van de grotere Global Green Challenge, waaraan ook andere duurzame voertuigen deelnemen.
+Op 18 oktober 2015 begon de 13de editie van de World Solar Challenge in Darwin. In 2001, 2003, 2005, 2007, 2013 en 2015 werd de race gewonnen door Nuna, de zonnewagen van de TU Delft.
+Route.
+De Stuart Highway vormt het langste deel van de route. Na Port Augusta gaat de route verder naar finishplaats Adelaide.
+De route volgt grotendeels de Stuart Highway. Na de start in Darwin liggen 'control stops' op de volgende zeven plaatsen. Hier kunnen de volgwagens bijgetankt worden en bestuurders gewisseld.
+De finish is in de zuidelijke stad Adelaide.
+Doel.
+De route gaat dwars door de outback van Australië
+De auto die het snelst de afstand van 3022 km heeft afgelegd, is de winnaar van de race.
+Het achterliggende doel van deze wedstrijd is om het onderzoek aan op zonne-energie aangedreven auto's te promoten. Aan deze open wedstrijd - die inmiddels meerdere klassen kent - doen universiteiten, bedrijven en individuen mee.
+Klassen.
+Sinds de race van 2007 zijn er twee klassen: de Challenger-klasse en de Adventure-klasse. In 2013 is de Cruiser-klasse ingevoerd, die bedoeld is voor meerpersoons zonneauto's. Deze auto's worden naast snelheid ook beoordeeld op energiegebruik, het aantal personen en de praktische bruikbaarheid.
+Uitdagingen.
+De uitdaging voor de teams is om hun zonnewagen de afstand zo efficiënt mogelijk af te laten leggen.
+Elke auto beschikt over een accumanagementsysteem dat ervoor zorgt dat de energie in de accu optimaal benut wordt. Een Maximum Power Point Tracking-systeem haalt het maximumvermogen uit de zonnecellen om de accu's te laden en de motor te laten bewegen.
+De zonnewagen stuurt draadloos gegevens over de hoeveelheid energie in de accu, de rijsnelheid en andere informatie naar de volgauto. In de volgauto bevindt zich een computer die deze gegevens verwerkt. Ook worden andere gegevens verzameld, zoals gegevens over het weer en de verwachte bewolking. Aan de hand van die gegevens wordt door de computer de optimale snelheid voor de zonnewagen berekend. Die snelheid wordt digitaal aan de cruise control van de zonnewagen doorgegeven.
+Ook is het belangrijk om voor en na de rijtijd de accu zo veel mogelijk op te laden. Daarom wordt bij laagstaande zon ('s ochtends voor vertrek en 's middags na afloop van de dag) de auto gekanteld om op die manier zo veel mogelijk zonne-energie op te vangen.
+Geschiedenis.
+Het idee voor de wedstrijd is afkomstig van Hans Thostrup (1944), een in Denemarken geboren avonturier, die onder andere als eerste om het Australische continent zeilde in een ruim 5 meter lang open schip. Gedurende zijn betrokkenheid bij allerlei motorsportevenementen in de jaren zeventig werd hij zich bewust van het rijzende energieprobleem in de wereld en hij ontplooide allerlei initiatieven om (vracht)auto's in een wedstrijd zo zuinig mogelijk te laten rijden.
+Hij bouwde samen met autocoureur Larry Perkins een van de eerste zonnewagens: de "Quiet Achiever". Thostrup deed dit in de BP Solar Trek, een wedstrijd voor zonnewagens van december 1982 tot januari 1983. Hij legde de route tussen Perth en Sydney (4052 km) in 20 dagen af. BP Solar Trek is een andere naam voor Quiet Achiever.
+Voor de World Solar Challenge werd een ander parcours gekozen. De route van Darwin naar Adelaide loopt noord-zuid terwijl de route Perth-Sydney west-oost verloopt. Een noord-zuid lopende route heeft als voordeel dat het zonlicht aan beide zijden van de auto invalt.
+Na de vierde wedstrijd heeft Thostrup de rechten verkocht aan de staat Zuid-Australië. De South Australian Motor Sport Board is nu, onder auspiciën van de FIA, de organisator van de race geworden.
+Overzicht van winnaars.
+In de tabel hieronder staan de verschillende winnaars van de World Solar Challenge.
+World Solar Challenge 2007.
+In 2007 won de TU Delft voor de vierde maal op rij met haar auto de Nuna 4.
+World Solar Challenge 2009.
+Op 25 oktober 2009 vond de tiende editie van de World Solar Challenge plaats. Zowel in de Challenge Class als in de Adventure Class werd de wedstrijd gewonnen door een Japans team.
+World Solar Challenge 2011.
+Op 16 oktober 2011 startte de elfde editie van de World Solar Challenge in Darwin.
+World Solar Challenge 2013.
+Op 6 oktober 2013 startte de twaalfde editie van de World Solar Challenge in Darwin.
+World Solar Challenge 2015.
+Op 18 oktober 2015 startte de dertiende editie van de World Solar Challenge in Darwin.

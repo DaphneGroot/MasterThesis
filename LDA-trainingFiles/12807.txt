@@ -1,0 +1,10 @@
+Even getal.
+Een even getal is een geheel getal dat deelbaar is door 2, dat wil zeggen bij deling door 2 is het resultaat weer een geheel getal. Een equivalente definitie is: een geheel getal dat een veelvoud is van 2. Een geheel getal dat niet even is, heet "oneven".
+Even getallen kunnen met geschikt gekozen n geschreven worden als 2n en oneven als 2n+1.
+Je kunt bijvoorbeeld even getallen vormen, door twee gelijke natuurlijke getallen bij elkaar op te tellen; de som is immers n + n = 2n, dus een veelvoud van 2.
+De verzameling van de even getallen is gesloten onder optellen en vermenigvuldigen: elke optelling van twee even getallen levert een even getal, en elke vermenigvuldiging van twee even getallen levert een even getal.
+De verzameling van de even getallen bevat geen neutraal element voor de
+vermenigvuldiging (weliswaar is formula_6 voor elk even getal "y", maar 1 is niet even).
+Verder is de kardinaliteit van de verzameling even getallen gelijk aan die van de natuurlijke getallen, namelijk formula_7, oftewel er zijn evenveel even getallen als er natuurlijke getallen zijn (voor geïnteresseerden, x = 2y is een mogelijk isomorfisme). Toch is de verzameling even getallen een echte deelverzameling van de natuurlijke getallen. Dit is mogelijk, omdat beide verzamelingen oneindig zijn, preciezer: "aftelbaar oneindig".
+Even en oneven getallen kunnen negatief zijn: -6=2*-3 en -5=2*-3+1. De even natuurlijke getallen vormen een deelverzameling van de even getallen. De even getallen vormen een ondergroep van de optelgroep der gehele getallen. De verzameling van de even getallen bevat een neutraal element voor de optelling (namelijk 0) en geen neutraal element voor de vermenigvuldiging.
+Een goede weergave zou zijn. Men kan ook in de vier andere weergaves de N door een Z vervangen.

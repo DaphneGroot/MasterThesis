@@ -1,0 +1,4 @@
+XML Query Language.
+XQL of XML Query Language is een querytaal voor XML documenten, die het mogelijk maakt gedeeltelijke informatie uit dergelijke documenten op te vragen, vergelijkbaar met het opvragen van informatie uit bepaalde databases met SQL.
+De taal is in 1998 ontwikkeld, en hoewel dit niet door een centrale organisatie zoals het World Wide Web Consortium (W3C) is gedaan, heeft het evengoed op grote schaal ingang gevonden in de XML gemeenschap. Een andere XML querytaal, XQuery, is wel als standaard ontwikkeld door het W3C, en veel van de functionaliteit van XQL wordt in XQuery ondersteund.
+XQL ondersteunt eenvoudige query's en subquery's. Bij de query's kunnen onder meer wildcards, booleans en filters worden gebruikt. XQL query's kunnen in bepaalde applicaties interactief worden opgegeven, of deel uitmaken van code.

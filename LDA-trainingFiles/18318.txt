@@ -1,0 +1,2 @@
+Schaal (verhouding).
+De schaal is de verhouding tussen het originele object en de afbeelding of het model ervan. Deze is eenduidig bij gelijkvormigheid.

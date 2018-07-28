@@ -1,0 +1,19 @@
+Normale verdeling.
+De kansdichtheid is symmetrisch rond formula_1, hoog in het midden, en wordt naar lage en hoge waarden steeds kleiner zonder ooit echt nul te worden. Door de vorm wordt deze ook wel "klokkromme" of "gausscurve" genoemd.
+De normale verdeling wordt wel genoteerd als formula_17-verdeling, wat wil zeggen dat het een normale verdeling is met verwachtingswaarde formula_1 en standaardafwijking formula_19
+Veel verschijnselen zijn benaderend te beschrijven met behulp van een normale verdeling. Het gaat dan om verschijnselen waarvan de verdeling symmetrisch geconcentreerd is rond een centrale waarde en afwijkingen van deze centrale waarde steeds onwaarschijnlijker worden naarmate de afwijking groter is. Soms is het verschijnsel de optelsom van een groot aantal effecten die elkaar niet beïnvloeden. De centrale limietstelling geeft in zo'n geval de voorwaarden waaronder het totaal normaal verdeeld zal zijn. De normale verdeling is niet altijd een goede benadering. Zo zijn andere verdelingen beter als er sprake is van exponentiële groei, zoals het geval is bij onder meer inkomen, prijzen en bevolkingsomvang waarbij er een scheefheid naar rechts is. Verdelingen als de lognormale verdeling of de Paretoverdeling kunnen dan een betere benadering geven.
+Lineaire transformatie.
+Een specifiek resultaat van deze eigenschap is dat
+Lineaire combinatie.
+In het algemeen geldt voor ongecorreleerde normaal verdeelde variabelen formula_37, met formula_38 en formula_39, dat elke lineaire combinatie hiervan ook normaal verdeeld is.
+Voor willekeurige reële getallen formula_40 geldt dat
+Vuistregel.
+Relatie tussen afwijkingen van het midden en de standaardafwijking
+Binnen een afstand van één standaardafwijking van de verwachtingswaarde ligt ongeveer 68% van het oppervlak onder de grafiek van de kansdichtheid van de normale verdeling, ongeveer 95% binnen twee standaardafwijkingen afstand van de verwachtingswaarde. De curve gaat daarna vrij snel naar nul: ongeveer 99,99% van het oppervlak ligt binnen vier standaardafwijkingen afstand van het midden. Afwijkingen van meer dan vier standaardafwijkingen van het midden zijn dus zeer zeldzaam.
+Voorkomen.
+Voor veel natuurlijk voorkomende verschijnselen is een normale verdeling een goede benadering van de frequentie waarmee bepaalde meetwaarden kunnen voorkomen; daarom wordt vaak een normale verdeling verondersteld voor de onderliggende (populatie)verdeling. De parameters formula_1 en formula_9 van deze normale verdeling kunnen dan benaderd worden (geschat) met respectievelijk het steekproefgemiddelde formula_44 en de steekproefvariantie s2. Zo kan men een schatting maken van de gemiddelde lengte van Nederlandse mannen en de standaardafwijking van de verdeling door een steekproef van een honderdtal mannen te nemen en daarvan de lengte te meten. De wiskunde vertelt ook hoe nauwkeurig in zo'n geval formula_44 een benadering is voor formula_1, en hoe nauwkeurig formula_47 een benadering is voor formula_48
+Bij medische laboratoriumtests wordt dikwijls aangenomen dat de bij gezonde proefpersonen gevonden waarden een normale verdeling vertonen. De waarden binnen een afstand van twee keer de standaardafwijking van het midden worden dan "normaal" genoemd. Volgens deze definitie wordt bij 5% van de gezonde mensen een abnormale waarde gevonden.
+Normale benadering.
+"Normale verdeling (blauw), als benadering van een binomiale verdeling"
+Hierin is formula_30 formula_58-verdeeld, formula_62 standaardnormaal en formula_63 de standaardnormale verdelingsfunctie.
+De benadering is beter als de zogenaamde continuïteitscorrectie wordt toegepast. Deze berust op de vaststelling dat formula_64, maar de bijbehorende benaderingen formula_65 en formula_66 enigszins verschillen. Als betere benadering neemt men: formula_67.

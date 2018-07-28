@@ -1,0 +1,16 @@
+Hypertext Transfer Protocol.
+Hypertext Transfer Protocol (HTTP) is het protocol voor de communicatie tussen een webclient (meestal een webbrowser) en een webserver. Dit protocol wordt niet alleen veel op het wereldwijde web gebruikt, maar ook op lokale netwerken (we spreken dan van een intranet).
+In HTTP is vastgelegd welke vragen (de Engelse term hiervoor is requests) een cliënt aan een server kan stellen en welke antwoorden (de Engelse term is responses) een webserver daarop kan teruggeven. Elke vraag bevat een URL die naar een webcomponent of een statisch object zoals een webpagina of plaatje verwijst.
+HTTP-requests.
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; nl; rv:1.8.0.3) Gecko/20060426 Firefox/1.5.0.3
+HTTP-responses.
+Date: Thu, 08 Apr 2004 18:24:33 GMT
+Geschiedenis.
+De oorspronkelijke versie van HTTP staat bekend onder de naam HTTP 1.0. In eerste instantie voldeed dit protocol goed, maar met de populariteitsexplosie van het internet kwam er ook een aantal tekortkomingen in dit protocol aan het licht. Deze werden opgelost in de volgende versie, HTTP 1.1. Vanaf circa 1997 is de standaard op het World Wide Web dan ook verschoven van HTTP 1.0 naar HTTP 1.1.
+Technische details van HTTP staan beschreven in verschillende RFC's. HTTP-versie 1.0 staat in het RFC met nummer 1945. Versie 1.1 van het protocol staat in RFC met nummer 2616.
+HTTP/2.
+In 2012 begon het werk aan de opvolger van HTTP 1.1, genaamd HTTP/2: IETF richtte de werkgroep "HTTP Working Group" op. Het was een reactie op de ontwikkeling van het SPDY-protocol dat als experimenteel protocol ontwikkeld werd door Google om de laadtijden van webpagina's te verbeteren ten opzichte van HTTP 1.1.
+HTTP/2 is gebaseerd op SPDY en behoudt tegelijk een hoge mate van compatibiliteit met HTTP 1.1. Andere voordelen zijn de lagere latency (vertraging) en andere snelheidsverbeteringen. De grootste verandering is de mogelijkheid om multiplexing toe te passen: meerdere verzoeken kunnen via één verbinding verzonden worden. Hiervoor is headercompressie nodig. De specificatie HPACK specifieert de headercompressie voor HTTP/2.
+Daarnaast gebruikt HTTP/2 minder verbindingen tussen de server en de client. HTTP/2 specifieert ook een manier om inhoud van de server naar de browser te sturen, zonder dat de client continu moet vragen of er nieuwe inhoud beschikbaar is.
+HTTP/2 verplicht TLS/SSL-encryptie niet, maar moedigt dit wel aan. Ook kiezen bepaalde softwareleveranciers zoals Mozilla ervoor HTTP/2 enkel te implementeren met SSL.
+In februari 2015 werd de HTTP2-specificatie afgewerkt. Midden mei 2015 werd de finale versie van de specificatie vastgelegd als RFC 7540.

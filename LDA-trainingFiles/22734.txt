@@ -1,0 +1,17 @@
+GNOME.
+GNOME is een vrije desktopomgeving voor besturingssystemen die tot de Unix-familie behoren, zoals Linux en BSD. De naam "GNOME" werd ooit gecreëerd als acroniem voor "GNU Network Object Model Environment", maar tegenwoordig wordt het gebruik van de volledige naam als verouderd beschouwd. GNOME omvat zowel een desktopomgeving als een ontwikkelplatform en kan bijgevolg vergeleken worden met KDE. Het GNOME-project wordt gecoördineerd door de GNOME Foundation.
+GNOME probeert gebruiksvriendelijke, eenvoudige en toegankelijke software te maken. Tweemaal per jaar worden nieuwe versies uitgebracht. GNOME krijgt ondersteuning vanuit het bedrijfsleven, onder meer van Red Hat en Novell.
+Omschrijving.
+GNOME bestaat uit twee grote onderdelen. Ten eerste heb je het GNOME-gebruikersplatform. Dit omvat een desktopomgeving, een grafische gebruikersinterface en een aantal applicaties waaronder een webbrowser en tekstverwerker. Het tweede onderdeel is het GNOME-ontwikkelaarsplatform, een set aan tools om applicaties te schrijven.
+Zoals bij de meeste vrijesoftwareprojecten is het GNOME-project gedecentraliseerd bestuurd. Discussies gebeuren via de mailinglijsten en ontwikkelaars van GNOME komen jaarlijks eenmaal samen in een vergadering gekend onder de naam GUADEC om de huidige toestand te bespreken.
+Desktopomgeving.
+Een desktopomgeving is hetgeen waarmee een gebruiker werkt en wat er zichtbaar is op een computer, waaronder het bestandsbeheer, menu's en diverse toepassingen zoals een webbrowser. Zie ook de onderwerpen over de grafische gebruikersinterface en de desktop.
+Windowmanager.
+Eerder gebruikte GNOME Enlightenment en daarna Sawfish. Metacity werd geïntroduceerd in versie 2.2, en zat ingebouwd in GNOME tot en met versie 2. Er kunnen echter ook andere windowmanagers gebruikt worden, als die maar (gedeeltelijk) voldoen aan de ICCCM-specificatie die GNOME vereist. Sinds versie 2.4 kan er gekozen worden voor Compiz, waarmee geavanceerde 3D-weergaves mogelijk zijn. Sinds GNOME 3.0 wordt Mutter als windowmanager gebruikt.
+Ontwikkelplatform.
+Een ontwikkelplatform bestaat uit een aantal gereedschappen en kant-en-klare onderdelen ("Lego-blokjes") in software. De meerwaarde hiervan zit hem in het feit dat niet iedere programmeur het wiel opnieuw uit hoeft te vinden, maar dat veel voorwerk al verricht is. Een belangrijk onderdeel van het GNOME-ontwikkelplatform is GTK+, een grafische toolkit.
+Vorige versies van Gnome 3.
+GNOME 3.0 kwam uit op 6 april 2011. Verschillende distributies als Fedora en OpenSUSE namen de nieuwe versie automatisch mee in hun eerstvolgende uitgave. De codenaam "ToPaZ" (Three Point Zero - Drie Punt Nul) was al in 2005 bekendgemaakt en was een lange tijd geen echt project, maar slechts een speeltuin om diverse zaken uit te proberen. Pas in 2008 werd bekendgemaakt welke richting GNOME 3.0 zou uitgaan.
+GNOME 3.2 was maar een kleine verandering t.o.v. GNOME 3.0. De shell werd stabieler gemaakt en enkele nieuwe applicaties werden geïntroduceerd.
+Oude versies.
+De laatste 2.x-versie was 2.32. Deze verscheen in september 2010 en bevatte slechts kleine verbeteringen. Voornamelijk veranderingen op het vlak van applicaties aangezien de desktopomgeving zes maanden later gedumpt zou worden om verder te gaan met de ontwikkeling van GNOME 3.

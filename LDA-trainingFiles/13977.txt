@@ -1,0 +1,8 @@
+X Window System.
+Het X Window System, kortweg X of ook X11 genoemd, is een platform om onder verschillende besturingssystemen, zoals Unix en VMS, een grafische bediening te kunnen gebruiken.
+Beschrijving.
+Het platform bestaat uit de X Window-server (het programma X.Org, een server die het scherm beheert) en uit zogenaamde clients, die een verbinding maken met de X-server en daaraan doorgeven wat er op het scherm moet komen. Op de meeste desktop-Unixsystemen draait een servercomponent lokaal, samen met een windowmanager en desktopomgeving, zodat een bureaublad, de taakbalk, menu's en vensters afgebeeld kunnen worden. Tussen de X-server en de clients liggen communicatie-afspraken vast: het protocol.
+Het X Window System zorgt ervoor dat niet enkel in een tekstuele omgeving gewerkt kan worden, maar dat ook gebruikgemaakt kan worden van grafische elementen zoals opgemaakte tekst, knoppen, invoervakken, lijsten, menu's, een grafische muiscursor etc. Voor de weergave van de iconen werd het XBM-bestandstype ontwikkeld.
+Voor praktisch alle gangbare besturingssystemen zoals Linux, Mac OS X en Windows bestaan er X Window-servers. Desktopomgevingen maken onder Linux bijna altijd gebruik van X.org.
+Naamgebruik.
+Mensen uit de IT-sector noemen het X Window System vaak "X Window", "X11" (omdat de 11e versie gebruikt wordt, sinds 1987) of gewoon "X". De term "X-Windows" (op dezelfde manier als in "Microsoft Windows") wordt niet officieel gebruikt, maar hier en daar gebruikt, soms opzettelijk, zoals bijvoorbeeld in het UNIX-hatershandboek.

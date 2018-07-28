@@ -1,0 +1,16 @@
+Kernel.
+Een kernel of core is in de informatica de kern van een besturingssysteem. De kernel is vrij simpel gezegd de supervisor (opzichter) in een besturingssysteem. Het is het meest centrale deel en het is het minst zichtbaar.
+Soorten kernels.
+In het algemeen zijn er drie soorten van kernels. De twee extrema: "monolithische kernels" en "microkernels" en de daartussen liggende "hybride kernel". Ook zijn er nog subtypes zoals de "exokernel", de "nanokernel" en de "modulaire kernel".
+Monolithische kernel.
+Een monolithische kernel is een kernel waarbij het merendeel van al de diensten afgehandeld worden in supervisormodus. Zo zullen drivers één geheel vormen met de kernel, toch zijn zij geen onderdeel van de kernel.
+Microkernel.
+Een microkernel is een kernel waarbij het merendeel van de diensten in gebruikersmodus worden afgehandeld. Zo zullen drivers als aparte processen werken in het systeem.
+Hybride kernel.
+Een hybride kernel is een kruising tussen een monolithische kernel en een microkernel. Zo zullen een aantal diensten afgehandeld worden in gebruikersmodus en een aantal in supervisormodus.
+Exokernel.
+Een exokernel is een kernel die tracht abstractie van beveiliging te scheiden. Deze zorgt dat er zo weinig mogelijk abstractie is, waardoor applicaties zelf de abstractie kunnen afhandelen via interfaces.
+Picokernel/Nanokernel.
+Een picokernel of nanokernel is een exokernel die ontzettend klein is, vaak zelfs kleiner dan een microkernel.
+Modulaire kernel.
+Een modulaire kernel is een hybride kernel waarbij de kernel is opgedeeld in kleinere stukken, die modules worden genoemd.

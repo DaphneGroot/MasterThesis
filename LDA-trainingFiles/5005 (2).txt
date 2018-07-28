@@ -1,0 +1,5 @@
+Incidentie.
+Incidentie is een begrip uit de epidemiologie.
+De incidentie is gedefinieerd als het aantal "nieuwe" gevallen van een ziekte per tijdseenheid, per aantal van de bevolking. Meestal wordt de incidentie per duizend personen per jaar opgegeven en soms per honderdduizend per jaar.
+De incidentie moet niet worden verward met de prevalentie, die aangeeft hoeveel mensen uit een gegeven aantal op enig moment aan een ziekte lijden.
+Een hoge incidentie van een ziekte betekent dus dat veel mensen die ziekte weleens krijgen. Bij een ziekte die over het algemeen snel geneest, kan de incidentie dus hoog zijn, terwijl de prevalentie beperkt blijft.

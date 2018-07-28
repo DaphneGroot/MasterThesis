@@ -1,0 +1,3 @@
+XSL Formatting Objects.
+XSL Formatting Objects of kortweg XSL-FO (of XSLFO, of XSLF), is een opmaaktaal en maakt deel uit van de XSL-specificaties. XSL-FO neemt de formattering van XML-documenten voor zijn rekening.
+XSL-FO is zo ontworpen, dat het in ieder geval alle functionaliteit ondersteunt die door de CSS-technologie wordt geboden. Verder voldoen XSL-FO-documenten zelf ook volledig aan de XML-standaard.

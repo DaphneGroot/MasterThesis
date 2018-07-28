@@ -1,0 +1,19 @@
+Relatief priem.
+Twee gehele getallen worden ten opzichte van elkaar relatief priem (ook wel copriem) of onderling ondeelbaar genoemd, wanneer er geen positief geheel getal groter dan 1 bestaat dat beide getallen deelt. Om te bepalen of twee getallen relatief priem zijn, berekent men gewoonlijk hun grootste gemene deler (ggd); twee getallen "a" en "b" zijn precies dan relatief priem, wanneer hun ggd("a", "b") gelijk is aan 1. Dit betekent ook dat deze twee getallen geen gemeenschappelijke priemfactor bezitten.
+Terwijl de getallen 6 en 35 zelf geen priemgetallen zijn, zijn deze wel 'relatief priem'; 6 = 2 × 3 en 35 = 5 × 7: er is geen gemeenschappelijke priemfactor. Het getal 1 is gedefinieerd als relatief priem ten opzichte van elk ander geheel getal. Twee verschillende priemgetallen zijn hierdoor altijd ook relatief priem; 3 = 1 × 3 en 5 = 1 × 5.
+Het algoritme van Euclides is een snelle manier om te bepalen of twee gehele getallen relatief priem zijn. De Eulers totiëntfunctie (of Eulers phi-functie) van een positief getal "n" geeft het aantal gehele getallen tussen 1 en "n" die relatief priem zijn ten opzichte van "n".
+Voor een verzameling van meer dan twee getallen kent men ook het begrip paarsgewijs relatief priem, waarbij voor elk paar getallen uit deze verzameling geldt dat ze relatief priem zijn.
+Equivalente definities.
+Een gevolg hiervan is dat als "b"a-1 ≡ 1 (mod "a"), dan zijn "a" en "b"a-1 copriem, waaruit volgt dat "a" en "b" ook copriem moeten zijn.
+Breuk.
+Een breuk kan dan en slechts dan vereenvoudigd worden als de teller en de noemer niet relatief priem zijn.
+Toepassingen.
+Wanneer twee tandwielen tegen elkaar draaien en de aantallen tanden op de twee wielen zijn relatief priem, dan komen alle tanden elkaar bij ronddraaien tegen. Door te kiezen voor twee tandwielen, waarbij het aantal tanden ten opzichte van elkaar relatief priem zijn, voorkomt men een snelle slijtage van bepaalde tanden, terwijl andere tanden nooit worden gebruikt.
+Waarschijnlijkheid dat twee getallen relatief priem zijn.
+Gegeven twee willekeurig gekozen gehele getallen "A" en "B", is het redelijk om zich af te vragen hoe groot de kans is dat "A" en "B" copriem zijn. Bij het bepalen van deze waarschijnlijkheid kan men gebruik van maken van de karakterisering dat "A" en "B" dan en slechts dan copriem zijn ten opzichte van elkaar als geen enkel priemgetal noch op "A", noch op "B" deelt, de twee getallen zijn onderling ondeelbaar (zie ook de hoofdstelling van de rekenkunde).
+Intuïtief gezien is de kans dat enig getal deelbaar is door een priemgetal (of elk willekeurig geheel getal), "p" gelijk aan "1/p". Vandaar dat de kans dat twee getallen beiden deelbaar zijn door dit priemgetal gelijk is aan
+en is de kans dat ten minste een van hen dat niet is gelijk aan
+De kans dat twee getallen copriem zijn wordt dus gegeven door een product over alle priemgetallen,
+Hier refereert ζ aan de Riemann-zeta-functie, de identiteit, die het product over de priemgetallen aan ζ(2) relateert, is een voorbeeld van een Euler-product en de evaluatie van ζ(2) als π2/6 wordt het Bazel-probleem genoemd. Dit probleem werd in 1735 opgelost door Leonhard Euler. In het algemeen geldt dat de kans dat "k" willekeurig gekozen gehele getallen relatief priem zijn gelijk is aan
+Er bestaat soms verwarring over wat precies bedoeld wordt met een "willekeurig gekozen geheel getal". Een manier om dit te begrijpen is om te veronderstellen dat deze gehele getallen willekeurig worden gekozen uit een verzameling gehele getallen beginnend bij 1 en lopend tot "N". In dat geval bestaat er voor elke bovengrens "N" een kans
+dat twee willekeurig gekozen gehele getallen relatief priem zijn. Dit zal nooit exact gelijk zijn aan

@@ -1,0 +1,6 @@
+Symmetrische cryptografie.
+Bij symmetrische cryptografie wordt dezelfde cryptografische sleutel gebruikt voor zowel het vercijferen van informatie als voor het ontcijferen ervan. Dergelijke sleutels worden "symmetrische sleutels" genoemd. Een voorbeeld van een symmetrische sleutel is een sessiesleutel. Enkele voorbeelden van symmetrische systemen zijn de klassieke handcijfers en de modernere computeralgoritmes AES, 3DES, IDEA en RC4.
+Symmetrische cryptografie is minder rekenintensief en sneller dan asymmetrische cryptografie waardoor het de voorkeur heeft voor grote bestanden of hoge datasnelheden.
+Symmetrische cryptografie in groepen.
+Symmetrische systemen zijn minder geschikt voor groepen: zodra er drie partijen in het geding zijn, kan men niet meer vaststellen wie de verzender geweest is van het bericht: beide andere partijen hebben immers de verzendsleutel (die identiek is). Voor dergelijke authenticatie gebruikt men vaak asymmetrische cryptografie.
+Hierbij is n het aantal personen.

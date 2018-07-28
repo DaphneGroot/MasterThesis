@@ -1,0 +1,9 @@
+MediaWiki.
+MediaWiki is een webapplicatie waarmee een website kan worden gemaakt volgens de wikitechniek. Deze vrije software wordt gebruikt voor Wikipedia en haar Wikimedia-zusterprojecten. MediaWiki werd ook wel "Software Phase III" genoemd.
+Magnus Manske was de oorspronkelijke auteur van de software die is geschreven in de programmeertaal PHP en die als onderliggende databaseserver MySQL, PostgreSQL of SQLite gebruikt.
+Licentie en ontwikkeling.
+MediaWiki is vrije software en opensourcesoftware en wordt vrijgegeven onder de GPL. De ontwikkeling van de MediaWiki-software en het onderhoud ervan wordt voor een groot deel uitgevoerd door vrijwilligers en door ontwikkelaars die in dienst zijn van de Wikimedia Foundation. MediaWiki is in aanschaf en gebruik gratis.
+Extensies.
+De geïnstalleerde extensies kunnen bekeken worden op de pagina Speciaal:Versie.
+Naamruimten.
+Bij elke naamruimte hoort een bijhorende overlegnaamruimte. De twee speciale naamruimten zijn Speciaal en Media.

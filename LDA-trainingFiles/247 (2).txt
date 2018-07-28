@@ -1,0 +1,56 @@
+Digitale beeldbewerking.
+Digitale beeldbewerking is het met software bewerken van afbeeldingen. Deze digitale afbeeldingen kunnen op een computer gemaakt zijn of gedigitaliseerd zijn of uit een andere digitale bron (zie digitale fotografie) gemaakt zijn. Ook wanneer er een afbeelding gescand is, dat wil zeggen vervaardigd met een scanner, waarbij een afdruk als een digitaal bestand opgeslagen wordt, wordt vaak naderhand met behulp van een grafisch programma de afbeelding bewerkt.
+De bewerking dient ervoor om het beeld te verbeteren, of om een artistieke bewerking toe te passen of om de aandacht meer op een bepaald onderdeel te richten. Behalve zichtbare wijzigingen zoals contrast, helderheid, gamma, afmeting e.d. kunnen ook onderliggende eigenschappen worden gewijzigd zoals het bestandsformaat en de bestandsgrootte.
+Ook kunnen afzonderlijke beeldelementen gewijzigd, verwijderd en/of toegevoegd worden. Hoewel dit ook beeldbewerking is wordt dit doorgaans beeldmanipulatie genoemd.
+Geschiedenis van de beeldbewerking.
+Voordat huidige software als Adobe Photoshop begin jaren 90 zijn intrede deed werd (digitale) beeldbewerking uitgevoerd op gespecialiseerde (zeer kostbare) workstations zoals Scitex en Quantel (Paintbox).
+Voor de jaren 80 konden complexe beeldbewerkingen alleen analoog uitgevoerd worden. In de donkere kamer werd het benodigde materiaal afgedrukt en een retoucheur ging aan het werk met mes, penseel, lijm en verf om het beoogde resultaat te verkrijgen.
+Sinds ongeveer 1990 kunnen foto's met echte kleuren op de computer bewerkt worden.
+Retoucheren.
+Retoucheren is het handmatig bewerken van een schilderij of een afbeelding. Bijvoorbeeld krassen en vlekken van een oude foto verwijderen. Wanneer niet enkel krassen en vlekken worden verwijderd, maar de foto een andere inhoud wordt gegeven, dan spreekt men van beeldmanipulatie.
+In het origineel van een afbeelding van het Paleis op de Dam uit 1900 zit een storende vlek. Hier is een klein deel van deze afbeelding te zien. De vlek is in het tweede plaatje weggehaald door er een stukje lucht overheen te plakken. Het stukje lucht is er vlakbij weggehaald en is met vage randen over de vlek heen geplaatst.
+Contrast en helderheid.
+Door het contrast aan te passen, kan het verschil tussen donkere en lichte gedeelten versterkt of verzwakt worden. Dit gaat vaak in combinatie met een aanpassing van de helderheid, omdat anders de foto te licht of te donker zou worden.
+Niveaus en curven.
+Met niveaus (Engels: levels) kan de helderheid van de verschillende kleuren aangepast worden. Met curven kan de helderheid volgens een bepaalde grafiek aangepast worden.
+Dit voorbeeld geeft aan waar de curven voor gebruikt kunnen worden. Bij de bewerkte foto zijn de lichte delen (zoals de muur) gelijk gebleven, alleen de donkere kleuren zijn lichter gemaakt, terwijl wat zwart is toch zwart is gebleven.
+Verzadiging.
+Met behulp van de kleurverzadiging kunnen de kleuren van een fletse foto versterkt worden.
+Het omgekeerde kan ook, de kleuren kunnen verminderd of helemaal weggehaald worden. Als de kleuren worden weggehaald is het een zwart-witfoto geworden, met grijswaarden. Dat wordt ook wel desatureren genoemd.
+Het origineel is een foto van een zeeaster, en had weinig kleuren. Door die foto te verkleinen en te comprimeren naar een JPG-bestand zijn de kleuren nog verder verdwenen. In het tweede plaatje zijn de kleuren versterkt met de kleurverzadiging. Bij zo'n klein plaatje mogen de kleuren zelfs wat overdreven worden, voordat het hinderlijk wordt.
+Beeldverbetering en filters.
+Het verbeteren van een foto is niet altijd succesvol. Vaak is het gevoelsmatig wat beter is, en wat niet meer. Om een foto van goede kwaliteit te maken is allereerst een goede opname nodig, bijvoorbeeld met een kwalitatief goede digitale camera. Een foto van slechte kwaliteit kan achteraf nooit meer verbeterd worden tot een foto van goede kwaliteit.
+Lenscorrecties.
+De meeste lenzen (vooral zoomlenzen) geven kussenvormige en tonvormige vertekening. Ook treden perspectivische vertekeningen op als de lens niet loodrecht op b.v. een gebouw gericht staat. De meeste software biedt mogelijkheden om deze vertekeningen te corrigeren. De duurdere software kan zelfs aan de hand van de gebruikte lens automatisch de vertekening corrigeren.
+Verscherpen.
+Een foto die wazig is, kan verscherpt worden. Als bijvoorbeeld een foto is genomen met een camera die op een verkeerde afstand is scherpgesteld, dan is wiskundig te berekenen hoe de onscherpte (gedeeltelijk) ongedaan kan worden gemaakt. Daardoor zal echter ook de beeldruis in de foto versterkt worden. Ook kunnen hinderlijke randen ontstaan.
+De tweede foto is verscherpt, waardoor de gele bloemen wat beter afsteken tegen de achtergrond. Het lijkt misschien iets beter, maar de kwaliteit is er niet beter op geworden, zelfs iets slechter omdat de afzonderlijke pixels nu zichtbaar zijn.
+Scherpheidsmasker.
+Het "onscherpheidsmasker"(Engels: "unsharp mask") maakt de foto scherper waar er overgangen in de foto zijn (bijvoorbeeld de rand van een voorwerp) en niet waar de foto vrij egaal van kleur is (bijvoorbeeld blauwe lucht). Hierdoor wordt de foto scherper, zonder dat de beeldruis versterkt wordt.
+De techniek komt uit de analoge fotografie. Daarvoor werd een tweede negatief gemaakt, dat opzettelijk wazig werd gemaakt, en dat omgekeerde kleuren had. Daardoor werd het in feite een transparant positief. Dit tweede negatief werd boven op het originele negatief geplaatst. Door fotopapier te gebruiken met een hoger contrast werd zo de uiteindelijke foto scherper.
+Ruis verminderen.
+Door een foto wazig te maken, zal de ruis verminderen. Om te voorkomen dat dat hele foto waziger wordt, zijn er technieken die vergelijkbaar zijn met het "onscherp masker". Door slimme berekeningen kunnen bijvoorbeeld alleen vlakken met egale kleuren wazig gemaakt worden.
+Ook zijn er filters die een foto ontspikkelen.
+Een jpeg-bestand dat sterk gecomprimeerd is, vertoont zogenaamde "jpeg-jitter". Sommige programma's hebben speciale filters om deze ruis te verminderen.
+De tweede foto is bewerkt met de ontspikkelfunctie, met een selectieve gaussiaanse vervaging, en ook verscherpt. De achtergrond bevat minder ruis, maar in het verendek van de kanarie is nu ook detail verloren gegaan. Het was dus beter geweest om enkel de achtergrond te bewerken.
+Foto vergroten.
+Ook zijn er programma's die proberen na te gaan wat de vorm is van de voorwerpen op de foto. Zij proberen dan extra beeldpunten toe te voegen terwijl de vorm in stand blijft. Dit kan ook nadelig zijn. Des te intelligenter een programma is, des te meer keuzes zal het moeten maken. Bij een foute keuze zal er beeldinformatie verloren gaan.
+Bij het vergroten van een foto komen alle ruis en oneffenheden extra duidelijk in beeld. Dat kan storend werken en de aandacht van de foto afleiden. Daarom kan een (lichte) bewerking de foto verbeteren.
+Deze heel eenvoudige voorbeelden laten het effect van het vergroten zien. Het origineel is het eerste kleine plaatje; het wordt op verschillende manieren steeds acht maal vergroot.
+Foto verkleinen.
+Bij het verkleinen van een foto kunnen de afzonderlijke beeldpunten al te sterk zichtbaar worden. Daarom kan net als bij het vergroten net bij het verkleinen van een foto van algoritmes gebruik worden gemaakt. Het nadeel is dat daarbij het resultaat enigszins wazig is, maar daarna kan de foto nog wat verscherpt worden.
+Omzetten naar een vectortekening.
+Een eenvoudige afbeelding kan omgezet worden naar een vectortekening. Een vectortekening heeft als voordeel dat onbeperkt vergroot kan worden, terwijl toch alle lijnen vloeiend blijven, en ook zonder dat het wazig wordt.
+Daarvoor zijn alleen eenvoudige afbeeldingen geschikt. Een normale foto is vaak niet goed om te zetten naar een vectortekening.
+Het origineel is de bitmap tekening, die uit afzonderlijke pixels bestaat (hier uitvergroot). Daar is door een programma een vectortekening van gemaakt. De afbeelding is wat vervormd, maar de vectortekening kan onbeperkt vergroot worden, zonder dat de pixels zichtbaar zullen worden.
+Artistieke bewerkingen.
+Bij de meeste grafische computerprogramma's is een groot aantal filters meegeleverd, waarmee effecten zijn te maken.
+Dit voorbeeld laat enkele mogelijkheden zien. De bewerkte foto heeft ronde randen, een schaduw, de groene bladeren zijn blauw geworden, en het lijkt alsof het op doek is gedrukt. De veelheid van mogelijkheden zorgt echter lang niet altijd voor een mooier resultaat.
+Beeldverbetering in speelfilms.
+In speelfilms en in televisieseries heeft men soms een slechte foto, waarop het beeld van, bijvoorbeeld, de dader te onduidelijk is om te herkennen. Na uren rekenen op de computer wordt het beeld steeds beter, en uiteindelijk komt er een herkenbare foto van de dader tevoorschijn.
+Dit is echter niet mogelijk. Het is niet mogelijk om iets aan de foto toe te voegen, als die informatie niet al in de foto zelf aanwezig is. Een foto kan wel aangepast worden zodat sommige dingen beter herkenbaar zijn.
+Beeldverbetering bij beveiligingscamera's.
+Beveiligingscamera's of webcams die in het donker een onduidelijke video-opname hebben gemaakt, zijn soms wel geschikt om de foto te verbeteren. Door het gemiddelde van een aantal beelden te nemen, kan de ruis die de camera zelf toevoegt eruit gefilterd worden. Daarbij moet de lens van de camera van goede kwaliteit zijn en moet bovendien de camera gedurende de verschillende opnames stil hebben gehangen. Dit werkt natuurlijk alleen bij stilstaande voorwerpen.
+Bij dit voorbeeld is een webcam gebruikt bij zeer weinig licht. De enkele foto laat daarom veel ruis zien. De tweede foto is het gemiddelde van 250 van zulke foto's, waardoor de ruis van de beeldchip is weggefilterd.
+Professionele software voor beeldbewerking.
+Daar bovenstaande software te kostbaar is voor de gemiddelde consument (met uitzondering van GIMP, Image Analyzer en ACDSee) leveren fabrikanten van scanners en digitale camera's hierbij vaak gratis beeldbewerkingssoftware. Dit zijn echter vaak wel "uitgeklede" versies van de professionele programma's.

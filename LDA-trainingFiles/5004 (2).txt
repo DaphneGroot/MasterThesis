@@ -1,0 +1,17 @@
+Theorema van Bayes.
+De gebeurtenis B kan plaatsvinden onder de omstandigheid dat A optreedt, maar ook als A niet optreedt. Uitgaande van de voorwaardelijke kansen op B gegeven de mogelijkheden wel A en niet A, wordt de kans bepaald dat, uitgaande van de situatie dat B daadwerkelijk gebeurd is, het de omstandigheid A was waaronder B is opgetreden.
+De formule is een directe toepassing van de definitie van voorwaardelijke kans
+A-priori- en a-posteriori-kansen.
+Bij toepassing van het theorema wordt uitgegaan van een reeds bekende kans formula_4 op een gebeurtenis formula_5, de zogenaamde a-priori-kans, op basis van eerder onderzoek. Bij gebrek daaraan kan hiervoor ook het oordeel van een ervaringsdeskundige worden gevraagd die een bepaalde waarschijnlijkheid toekent aan de gebeurtenis formula_5, bijvoorbeeld door te schatten dat een voorval voor 0,7 (70%) plausibel wordt geacht. Na waarneming van een gerelateerde gebeurtenis formula_7 is kennis verkregen over de kans van optreden van formula_5. Deze nieuwe kans wordt de a-posteriori-kans genoemd en is juist de voorwaardelijke kans formula_9.
+De regel van Bayes vindt ook toepassing in kennissystemen.
+Voorbeeld.
+In de bevolking lijdt 1 op de 100 mensen aan reumatoïde artritis.
+Er bestaat een test, de "reumatest", die bij reumapatiënten meestal positief is en bij niet-reumapatiënten meestal negatief. De test is echter niet 100% waterdicht en heeft een specificiteit (dat wil zeggen de kans op een negatieve test als de ziekte afwezig is) van 0,8 en een sensitiviteit (kans op een positieve test bij aanwezigheid van de ziekte) van 0,7.
+Vraag: Is het zinvol om de bevolking met deze test op het voorkomen van reuma te testen?
+Daartoe bepalen we wat de kans is op de ziekte als we een willekeurig iemand uit de bevolking testen en de uitslag positief is.
+Dus zelfs bij een positieve uitslag van de test is de kans dat de onderzochte persoon de ziekte heeft maar iets meer dan drie procent. De "reumatest" is in deze situatie nagenoeg onbruikbaar.
+De toepassing van dit theorema in de epidemiologie is belangrijk, zie ook prevalentie en incidentie.
+Bayesiaanse statistiek.
+De Bayesiaanse statistiek heeft het theorema van Bayes als uitgangspunt.
+Bayes en justitie.
+Het theorema van Bayes werd verscheidene keren in het gerecht gebruikt. Het gebrek aan kennis hiervan heeft in bepaalde zaken geleid tot ernstige gerechtelijke dwalingen zoals bij Sally Clark of Lucia de Berk.

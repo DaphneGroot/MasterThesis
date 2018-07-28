@@ -1,0 +1,14 @@
+Kleurcodering voor elektronica.
+De kleurcodering voor elektronica is een manier om met kleuren de waarde van elektronische componenten zoals weerstanden, condensatoren en spoelen aan te geven.
+Kleurcode op een koolweerstand (100 kΩ ± 10%)
+Kleurcodes op componenten dateren van ruim vóór de komst van de transistor. Het probleem dat zich voordeed was dat van gemonteerde componenten heel vaak de waarde niet af te lezen was omdat de bedrukte kant niet in het zicht was, maar bijvoorbeeld tegen het chassis of een andere component lag. Vooral bij reparaties was dat erg lastig. Men zocht naar een codeerwijze die aan alle zijden van de component goed af te lezen was, en als logische keuze kwamen ringen naar voren.
+Een kleurcode lezen.
+De kleuren zijn genormaliseerd in de norm IEC 60757. De woorden van het in de tabel getoonde ezelsbruggetje beginnen met dezelfde letters als de kleuren van de code en er is ook gedacht aan de tweede letter van Bruin, Geel en Groen, en het hele woord Grijs, zodat daar ook geen verwarring over bestaat. De kleuren rood t/m violet hebben trouwens dezelfde volgorde als de kleuren van de regenboog, dus als men die kent, heeft men wellicht geen ezelsbruggetje nodig.
+Allereerst is het zaak aan de juiste kant te beginnen.
+De laatste ring (als er vier of meer ringen zijn) geeft de tolerantie van de weerstand aan.
+Zijn er slechts drie ringen, dan is de tolerantie 20%. Weerstanden met deze tolerantie worden tegenwoordig niet meer gemaakt.
+Soms is er nog een zesde ring die aangeeft hoe de waarde van de component beïnvloed wordt door de temperatuur.
+Niet alle waarden worden standaard gemaakt. Afhankelijk van de tolerantie is een serie opgebouwd uit standaardwaarden (een zogenaamde E-reeks) van toepassing. De gebruikelijkste reeks is de E12-reeks, met 12 waarden in elke decade.
+Voorbeeld.
+De weerstand met de strepen geel-violet-rood-goud, heeft een waarde van 4700 ohm (geel = 4, violet = 7, rood = 2 nullen) met 5% (goud) toegestane afwijking naar boven en naar beneden.
+Nadelen heeft de kleurcode ook. Allereerst doordat niet elke fabrikant precies dezelfde kleurtoon gebruikt: soms lijkt het rood erg op oranje en is het groen nogal blauwachtig. Daar staat tegenover dat lang niet alle combinaties kunnen voorkomen. Bijvoorbeeld: oranje-violet (37) bestaat niet (behalve bij zeer nauwkeurige weerstanden), dus moet dat waarschijnlijk rood-violet (27) zijn. Lastiger is dat ongeveer 5% van de mannen kleurenblind is (en de meeste elektrotechnici zijn mannen) waardoor ze moeilijkheden hebben met de kleurcode.

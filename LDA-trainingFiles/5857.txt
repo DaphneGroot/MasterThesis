@@ -1,0 +1,7 @@
+Octaangetal.
+Het octaangetal is een referentiewaarde voor de klopvastheid van benzine. Voor diesel bestaat er het cetaangetal, een maat voor de neiging tot zelfontbranding.
+Bepaling.
+Het octaangetal (en niet het octaangehalte, zoals het ten onrechte soms ook wel wordt genoemd) van benzine wordt gemeten door de klopvastheid te vergelijken met een mengsel van het makkelijk ontbrandbare n-heptaan en het moeilijk ontbrandbare iso-octaan (2,2,4-trimethylpentaan). Hierbij geldt per definitie dat de klopvastheid van n-heptaan 0 en die van iso-octaan 100 is.
+Hoe hoger het octaangetal, hoe klopvaster de benzine. Er bestaan brandstoffen die klopvaster zijn dan iso-octaan en dus een octaangetal hebben dat hoger is dan 100. Lpg bijvoorbeeld heeft een klopvastheid van 108-110.
+RON.
+Het octaangetal wordt aan de brandstofpomp meestal aangeduid met de afkorting "RON". "RON" staat voor "Research Octane Number", een gestandaardiseerde methode voor de bepaling van het octaangetal in een testmotor.

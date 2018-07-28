@@ -1,0 +1,6 @@
+Metalloïde.
+De metalloïden of semi-metalen vormen een groep elementen die qua eigenschappen tussen de metalen en niet-metalen in zitten.
+In het periodiek systeem zijn zij te vinden op de diagonaal van het P-blok van linksboven boor naar rechtsonder astaat. De reden daarvoor is dat de elektronegativiteit juist langs de andere diagonaal toeneemt. De metalloïden vormen dus een groep met ongeveer dezelfde elektronegativiteit. Zij vormen de overgang van metalliek en reducerend gedrag (lage elektronegativiteit, extreem voorbeeld: cesium) naar niet-metaal en oxiderend gedrag (extreem voorbeeld: fluor).
+De metalloïden zijn meestal halfgeleiders of halfmetalen en hun oxiden zijn meestal amfoteer.
+Hun verbindingen zijn soms metalliek, soms halfgeleidend of isolerend, afhankelijk van welke andere elementen in de verbinding betrokken zijn.
+De metalloïden zijn zeer belangrijk voor de moderne elektronica, denk hierbij aan IC's van silicium of galliumarsenide.

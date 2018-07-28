@@ -1,0 +1,12 @@
+Faculteit (wiskunde).
+Bijvoorbeeld als formula_6: formula_7.
+In overeenstemming met de definitie van het lege product is afgesproken dat
+De faculteitsfunctie groeit snel, zelfs sneller dan een exponentiële functie. De eerste 20 waarden, met nul, staan hiernaast. Het aantal decimalen van, met, is gelijk aan naar boven afgerond.
+Voor = 1 000 komt het aantal decimalen op 2 568.
+Toepassing.
+Een belangrijke toepassing van de faculteit is in de combinatoriek, als antwoord op de vraag op hoeveel manieren formula_1 elementen kunnen worden gerangschikt. Zo'n rangschikking heet een permutatie en daarvan zijn er formula_2. Met behulp van dit resultaat worden ook de aantallen variaties en combinaties afgeleid.
+Gammafunctie.
+De gammafunctie is voor alle complexe getallen gedefinieerd, met uitzondering van de negatieve gehele getallen −1, −2, −3....
+Met de computer.
+Het onderstaande programaatje in Python berekent van een ingevoerd getal de faculteit.
+print("De faculteit van het ingevoerde getal is: ",fac, end=")

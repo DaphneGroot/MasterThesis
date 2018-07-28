@@ -1,0 +1,15 @@
+Pythagorese drietallen.
+Een Pythagorees drietal ("a", "b", "c") bestaat uit drie positieve gehele getallen "a", "b", "c" waarvoor geldt =. De naam komt van de stelling van Pythagoras, aangezien dergelijke getallen kunnen optreden als de zijden van een rechthoekige driehoek met "c" als lengte van de schuine zijde. De oppervlakte van een dergelijke rechthoekige driehoek is dan een congruent getal.
+Op kleitabletten uit de tijd van Hammurabi komen al Pythagorese drietallen voor. Op het tablet Plimpton 322 bijvoorbeeld staan 15 drietallen, waaronder (56,90,106), (119,120,169) en zelfs (12709,13500,18541). Ook in India kende men zulke getallen. In de Baudhayana-Sulbasutra uit de 6e eeuw v.Chr. staan vijf zulke drietallen.
+Een scatterdiagram van de 'benen' ("a","b") van de Pythagorese drietallen met "c" kleiner dan 6000. Om de parabolische patronen duidelijk te maken zijn ook negatieve waarden opgenomen.
+Er zijn oneindig veel Pythagorese drietallen. In de onderstaande tabel staan de eerste zes.
+Naast het drietal (3,4,5) vormen ook veelvouden hiervan, zoals (6,8,10) en (9,12,15) Pythagorese drietallen. Algemeen is met ("a","b","c") ook ("ka","kb","kc") voor elk positief geheel getal "k" een Pythagorees drietal.
+Een Pythagorees drietal ("a","b","c") wordt primitief genoemd als "a", "b" en "c" geen deler anders dan 1 gemeen hebben.
+Karakterisering.
+Voor alle positieve gehele getallen "m" en "n" met "m" > "n" geldt dat het drietal
+Het is primitief dan en slechts dan als "m" en "n" relatief priem zijn en een van hen een even getal is. (Zijn zowel "n" als "m" oneven, dan zijn "a", "b", en "c" allemaal even en is het drietal dus niet primitief.)
+Niet alle drietallen kunnen op deze wijze gegenereerd worden, maar wel alle "primitieve" drietallen. Dit laat tevens zien dat er oneindig veel primitieve Pythagorese drietallen bestaan.
+Eigenschappen van primitieve Pythagorese drietallen.
+Tenzij anders vermeld gelden de onderstaande eigenschappen voor primitieve Pythagorese drietallen. De getallen "a" en "b" worden de benen genoemd, en het getal "c" de hypothenusa. Met "b" wordt het even been aangegeven en met "a" het oneven been. De oppervlakte is "ab"/2.
+Toepassing.
+Het eenvoudigste Pythagorees drietal (3,4,5) is bekend om zijn toepassing voor het bepalen van een rechte hoek. Daartoe gebruikte men een rondlopend touw met 12 knopen op gelijke afstanden.

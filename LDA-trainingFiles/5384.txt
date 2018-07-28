@@ -1,0 +1,17 @@
+Donald Knuth.
+Donald Ervin Knuth (Milwaukee, 10 januari 1938) is een Amerikaans informaticus.
+Biografie.
+Don Knuth werd geboren in Milwaukee. Hij is hoogleraar aan de Stanford-universiteit, tegenwoordig met emeritaat, en wordt in brede kring beschouwd als de vader van de informatica.
+De laatste vier delen van zijn magnum opus zijn nog niet verschenen, maar Knuth werkt er nog aan verder, ondanks zijn emeritaat. Van deel vier is inmiddels het eerste sub-deel gepubliceerd.
+Naast de vele beschrijvingen van algoritmen, die een standaardwerk zijn, heeft Donald Knuth ook veel werk gedaan om programmeertechnieken te ontwikkelen. Een van de technieken die hij ontwikkelde is het zogenaamde literate programming: de programmacode bevat niet alleen de instructies voor de computer, maar ook de volledige documentatie voor het programma. Om dit in de praktijk te brengen heeft Donald Knuth zelf de programmeertaal Web ontwikkeld, die niet één maar twee compilers kent: "tangle" en "weave". De ene vertaalt de broncode naar programmacode, de ander naar documentatiecode. Om het "web" van alles te completeren werd de documentatiecode ook in de vorm van een programmeertaal gemaakt.
+Ontevreden met de manier waarop zijn boeken werden vormgegeven door wetenschappelijke uitgevers, begon Knuth omstreeks 1970 aan een manier om het beter te doen. Hoewel hij hiervoor tijdens een sabbatical aanvankelijk een half jaar had uitgetrokken groeide het uit tot een project van een jaar of tien, oorspronkelijk geschreven in Pascal, later in de al genoemde taal Web. Niet alleen het programma maar ook de broncode werden openbaar gemaakt, en Knuth loofde beloningen uit voor iedereen die een bonafide bug kon vinden. Dit kostte hem minder geld dan men zou denken want ten eerste maakte hij niet veel fouten en ten tweede lijstten de meeste ontvangers een dergelijke cheque liever in dan hem te incasseren. Deze opmaaktaal werd TEX genoemd. Deze wat omslachtige originele schrijfwijze is tegenwoordig weer vervangen door TeX. TeX, spreek uit: "teg", niet "teks", omdat de laatste letter de Griekse "chi" voorstelt, werd in brede kring bekend en wordt vooral in de wiskunde, natuurkunde en informatica veel gebruikt. TeX werd gecompleteerd met het programma Metafont, dat lettertypen kan genereren en aanpassen.
+Sinds zijn emeritaat geeft Donald Knuth niet alleen colleges in de informatica, maar ook op andere gebieden. Hij is een gevraagd spreker om over zijn religieuze ideeën te spreken.
+The art of computer programming.
+Volume 1: Fundamental Algorithms, Third Edition, Reading, Massachusetts: Addison-Wesley, 1997, xx+650pp. ISBN 0-201-89683-4
+Volume 2: Seminumerical Algorithms, Third Edition, Reading, Massachusetts: Addison-Wesley, 1997, xiv+762pp. ISBN 0-201-89684-2
+Volume 3: Sorting and Searching, Second Edition, Reading, Massachusetts: Addison-Wesley, 1998, xiv+780pp.+foldout. ISBN 0-201-89685-0
+Volume 4: # Combinatorial Algorithms, Part 1, First Edition, Upper Saddle River, New Jersey: Addison-Wesley Professional, 2011, xv+883pp. ISBN 0-201-03804-8
+Overige bibliografie.
+Things a computer scientist rarely talks about, Stanford California: CSLI Publications, 2001, xi+257pp. ISBN 1-57586-327-8
+Beroemde quote.
+Pas op voor bugs in de code hierboven; ik heb alleen maar bewezen dat hij juist is, ik heb hem niet geprobeerd.

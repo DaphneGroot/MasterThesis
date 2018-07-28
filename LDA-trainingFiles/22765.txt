@@ -1,0 +1,4 @@
+Overbinding.
+Overbinding in een voorbeeld (aangegeven met paars).
+Een overbinding is een teken in de muzieknotatie waarmee met een boogje tussen twee noten aangegeven wordt dat de twee noten als één gespeeld moeten worden. Overbindingen worden bijvoorbeeld gebruikt om twee noten 'over de maatstreep' te verbinden. De richting van de boog (onderlangs of bovenover) hangt af van de richting van de stokken.
+Een overbinding gebruikt een "boog", hetzelfde notatieteken als bij legato wordt gebruikt, maar mag niet met de laatste worden verward. De legatoboog is een muzikaal articulatieteken, terwijl de overbindingsboog de "duur" van de genoteerde tonen combineert. Het verschil wordt in het noteren gemaakt, doordat de overbindingsboog van de ene notenkop naar de andere gaat (tussen de notenkoppen), terwijl de legatoboog duidelijk boven of onder de notenkoppen begint en eindigt.

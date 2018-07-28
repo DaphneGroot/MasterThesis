@@ -1,0 +1,14 @@
+Oxidatie.
+Oxidatie is een chemisch proces waarbij een stof (de reductor) elektronen afgeeft aan een andere stof (de oxidator), zodat het oxidatiegetal van de reductor toeneemt.
+Vroeger definieerde men een oxidatie als een reactie met zuurstof. Voorbeelden zijn roesten en verbrandingsreacties. Het proces ontleent zijn naam dan ook aan het woord "oxygenium", de Latijnse naam voor zuurstof.
+Fe2+ is hier de reductor. Het staat één elektron af en wordt daarbij geoxideerd tot Fe3+.
+Met een oxidatie gaat altijd een reductie gepaard. De afgestane elektronen moeten namelijk opgenomen worden door een andere stof (de oxidator), die dus gereduceerd wordt. Het geheel (oxidatie en reductie samen) noemt men een oxidatie-reductiereactie of redoxreactie.
+Roesten en corrosie.
+Met roesten wordt in het gewone taalgebruik uitsluitend de reactie van ijzer met zuurstof bedoeld. Wetenschappers noemen dit corrosie. Ook de oxidaties van andere metalen worden corrosie genoemd.
+Oxidatie schijnt dus een bepaalde vorm van slijtage te zijn. Dit kan door middel van verwering, maar ook het slijten van het edelmetaal zelf door middel van een ander soort stof of materie die het edelmetaal zelf niet bevat.
+Oxidatie in de organische chemie.
+In de organische chemie levert de stapsgewijze oxidatie van een koolwaterstof water op en achtereenvolgens een alcohol, een aldehyde of keton, een carbonzuur en ten slotte een perzuur.
+Deze stappen kunnen soms niet allemaal gezet worden. Dit verschil is te wijten aan het aantal waterstofatomen (H) aan het koolstofatoom dat onmiddellijk aan de hydroxylgroep gebonden is.
+Een primair alcohol (2 H's) zal via een aldehyde uiteindelijk naar een carbonzuur en zelfs een perzuur gaan.
+Een secundair alcohol (1 H) zal uiteindelijk een keton vormen.
+Een tertiair alcohol (0 H's) zal meestal niet reageren. Onder bepaalde omstandigheden kan een organisch peroxide gevormd worden.

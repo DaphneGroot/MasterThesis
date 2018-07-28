@@ -1,0 +1,11 @@
+Dubbele breking.
+Dubbele breking door calcietkristal. Er ontstaan twee verschoven beelden van de E, A en T, voor iedere polarisatierichting één.
+Dubbele breking is het verschijnsel dat een op een materiaal invallende lichtbundel wordt gesplitst in twee bundels die een verschillend pad volgen, en die verschillende polarisatie hebben. Deze verklaring werd ontdekt door Christiaan Huygens. Dubbele breking is een verschijnsel dat onder meer optreedt bij kristallen van een lagere symmetrie dan kubisch. Een goed voorbeeld daarvan is het mineraal calciet. Materialen die dubbele breking vertonen noemt men "dubbelbrekend".
+Verklaring.
+Vanwege de relatief lage symmetrie van het mineraal is het anisotroop. Dat wil zeggen dat de diëlektrische eigenschappen afhangen van de richting van de elektrische veldsterkte E. Het verband tussen E en de diëlektrische verplaatsing D is dan niet meer een scalaire factor (epsilon), maar een tensor van rang 2, die grootte en richting van D ten opzichte van E bepaalt. De brekingsindex van (transversale) elektromagnetische golven hangt dan dus af van zowel de voortplantingsrichting als van de polarisatierichting. Dit heeft onder andere tot gevolg dat een voortplantingsvector van een golf niet meer loodrecht op een golffront staat. De wet van Snellius gaat dan niet meer op.
+Een lichtbundel die een kristal binnentreedt, wordt daarom zelfs bij loodrechte inval opgesplitst in onderling loodrecht gepolariseerde delen die zich in verschillende richtingen door het kristal voortbewegen met verschillende snelheden. Het verschijnsel werd ontdekt door Rasmus Bartholin.
+Dubbele breking treedt ook op in andere stoffen die anisotroop zijn, zoals vloeibare kristallen in de nematische fase, maar ook bepaalde kunststoffen onder mechanische spanning en oplossingen van polymeren die aan een stroming worden onderworpen.
+Voorbeeld.
+Calciet heeft een drietallige as als hoofdas. In de richting van de hoofdas is de lichtsnelheid in het kristal anders dan loodrecht daarop.
+Toepassing.
+De dubbele breking, die wordt samengevat in diagrammen, wordt gebruikt bij het determineren van mineralen in slijpplaatjes. Het verschil in brekingsindex voor verschillende transversale trillingsrichtingen is vaak de enige bruikbare manier om mineralen van elkaar te kunnen onderscheiden.

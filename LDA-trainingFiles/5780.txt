@@ -1,0 +1,16 @@
+Quotiënt.
+In de wiskunde is een quotiënt het resultaat van een deling. Het quotiënt van twee gehele getallen is bij gewone deling een rationaal getal. Bij geheeltallige deling van gehele getallen is het quotiënt steeds een geheel getal, namelijk het aantal keren dat de deler in het deeltal bevat is.
+Voorbeeld.
+Het quotiënt van 12 en 4 is 3; het getal 12 heet hier het deeltal, 4 de deler.
+Het quotiënt van 1,2 en 0,4 is ook 3.
+Bij geheeltallige deling van 30 en 7 is het quotiënt 4.
+Immers, 4 x 7 = 28 < 30, maar 5 x 7 = 35 > 30.
+Restdeling.
+Een geheeltallige deling gaat niet altijd op, dat wil zeggen er blijft soms een rest over. Men spreekt ook wel van "restdeling" en vermeldt expliciet de rest. Zo is bij restdeling van 30 en 7 het quotiënt 4 met rest 2, want 4 keer 7 is 28 en 30-28 is 2. Men noteert: 30 : 7 = 4 rest 2.
+In meer abstracte context.
+Naast de reële deling (deling met al dan niet gehele getallen) kan op sommige (abstractere) wiskundige objecten ook een deling gedefinieerd worden, bijvoorbeeld op groepen of bepaalde metrische ruimtes. Deze definities vertonen op bepaalde vlakken overeenkomsten met deling in de reële getallen, hoewel de operatie zelf veel abstracter en minder intuïtief kan zijn.
+Zo is er de Euclidische deling voor polynomen, vergelijkbaar met de 'gewone' staartdeling bij getallen.
+Verhoudingsgetal.
+Het woord "quotiënt" wordt ook gebruikt voor bepaalde verhoudingsgetallen, zoals het intelligentiequotiënt. De achterliggende berekening is een deling van twee testwaarden of van de testwaarde en een gemiddelde (om zo een relatieve score te verkrijgen).
+Verhouding.
+Het quotiënt komt overeen met de verhouding, maar wordt geschreven en uitgesproken als getal, vergelijk de quotiënten 3 en 2/3 ("drie", "twee derde") en de verhoudingen 3: 1 en 2: 3 ("drie staat tot een", "twee staat tot drie")

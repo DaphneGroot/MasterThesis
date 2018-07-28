@@ -1,0 +1,19 @@
+Bindingsenergie.
+De bindingsenergie is de energie die vrijkomt wanneer een molecuul in de gasfase wordt gevormd uit zijn atomen die oorspronkelijk op oneindig grote afstand van elkaar lagen. Omdat bij het vormen van bindingen energie vrijkomt, is de bindingsenergie positief.
+In de kernfysica wordt de term gebruikt voor de aantrekkende kracht tussen subatomaire en elementaire deeltjes, en in de scheikunde voor de chemische binding tussen atomen.
+Wanneer een binding tussen twee atomen wordt gevormd komt er energie vrij en om een binding tussen twee atomen te breken is er energie nodig. De energie die vrijkomt als een binding gevormd wordt of die nodig is om ze te breken wordt de bindingsenergie genoemd. Sommige bindingen zijn sterker dan andere bindingen; bij de sterkere binding is er meer bindingsenergie.
+Ionisch.
+De formule voor de elektrostatische aantrekkingskracht tussen twee ladingen is van de vorm
+formula_2 de kracht in Newton,
+formula_3 een constante,
+formula_4 de eerste lading in Coulomb,
+formula_5 de tweede lading idem en
+formula_6 hun tussenafstand in meter
+Bindingsenergie van atoomkernen.
+Bindingsenergie per nucleon van gangbare isotopen. Klik om te vergroten
+In het periodiek systeem van elementen vertoont de reeks lichte elementen van waterstof tot natrium een stijging van de bindingsenergie per nucleon - zie bijgaande grafiek. Dit komt doordat de krachten in de atoomkern toenemen als er meer nucleonen zijn die elkaar aantrekken.
+Bij grotere atoommassa's zien we een plateau in de kromme van magnesium tot aan ijzer. In dit gebied is de atoomkern zo groot geworden dat de kernkrachten niet meer de volle omvang van de kern bestrijken. Aantrekkende sterke kernkrachten zijn bijna in evenwicht met afstotende elektromagnetische krachten tussen de protonen.
+Bij elementen zwaarder dan ijzer neemt de bindingsenergie per nucleon af: de afstoting tussen de vele protonen neemt toe en wint terrein op de aantrekkende sterke kernkracht.
+De top in de kromme voor de bindingsenergie per nucleon ligt bij nikkel-62. Dit is dus de hechtste kern (per nucleon), gevolgd door ijzer-58 en ijzer-56.. Dit is een verklaring waarom ijzer en nikkel overheersen in planeetkernen, omdat deze metalen overvloedig worden geproduceerd in supernova-explosies en de eindfase van silicium-fusie in sterevolutie.
+Maar het gaat niet alleen om de bindingsenergie per nucleon die bepaalt welke kern precies gemaakt wordt. In sterren kunnen neutronen overgaan in protonen en zo nog meer energie vrijmaken, als het resultaat een stabiele kern is met een groter aandeel van protonen. Daarom heeft ijzer-56 de meeste bindingsenergie van alle combinaties van 56 nucleonen, vanwege zijn relatieve grote fractie protonen, ook al is er minder bindingsenergie per nucleon dan in nikkel-62, als deze berekend wordt door te vergelijken met samen 28 losse protonen en 34 losse neutronen.
+Er wordt wel beweerd dat fotodesintegratie van 62Ni tot 56Fe energetisch mogelijk is in een bijzondere hete sterkern, ten gevolge van bètaverval van neutrons tot protonen.

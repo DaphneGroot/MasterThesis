@@ -1,0 +1,8 @@
+POSIX.
+POSIX®, de afkorting van Portable Operating-System Interface, is een standaard die voorziet in een basis voor Unix-besturingssystemen. De standaard specificeert op welke wijze de shell dient te werken, wat verwacht kan worden van bepaalde shellcommando's en welke C-bibliotheekfuncties aanwezig behoren te zijn. Onder deze standaard vallen de IEEE-1003 standaarden en delen van ISO/IEC 9945. POSIX is een handelsmerk van de IEEE en The Open Group.
+Veel van dergelijke besturingssystemen houden zich geheel of grotendeels aan de POSIX-standaard. Daardoor is het mogelijk om programma's die op een van deze systemen zijn ontwikkeld en zich conformeren aan de door de Portable Applications Standards Committee ontwikkelde POSIX-standaard, ook te compileren en te gebruiken op een ander dergelijk systeem.
+Geschiedenis.
+Na 1997 is de POSIX.1-2001-standaard ontwikkeld. Daarin zijn de verschillende onderdelen van eerdere versies samengevoegd. In 2004 is een update op de versie uit 2001 verschenen, waaruit de huidige POSIX.1-2008-standaard voortgekomen is.
+Onderdelen.
+De POSIX API, de commando's voor de Bourne-shell en de directory-structuur van het bestandssysteem vormen de basis waarop software voor een POSIX-besturingssysteem ontwikkeld wordt.
+De POSIX-standaarden en de Filesystem Hierarchy Standard vormen de basis van de LSB-voorschriften. Deze voorschriften vormen een belangrijke richtlijn voor de ontwikkeling van Linuxdistributies.

@@ -1,0 +1,7 @@
+Identieke afbeelding.
+In de wiskunde is een identieke afbeelding of identieke functie (ook identiteit of identiteitsfunctie genoemd) een afbeelding, meestal voorgesteld door "I", van een niet-lege verzameling naar zichzelf die elk element op zichzelf afbeeldt. De identieke functie is een functie die eigenlijk geen effect heeft. Hij geeft altijd dezelfde waarde terug die als argument is gebruikt.
+Definitie.
+Om verwarring met de identieke afbeelding op een andere verzameling te voorkomen noteert men wel "IV". In plaats van "I" schrijft men ook wel "id" en "idV".
+Algebraïsche eigenschappen.
+Als "g": "M" → "N" een willekeurige functie is, geldt "g" o "IM" = "g" = "IN" o "g" (waar o functie-compositie voorstelt). "IM" is dus het neutrale element van de monoïde van alle functies van "M" naar "M".
+Aangezien het identiteitselement van een monoïde uniek is, is het ook mogelijk de identiteitsfunctie op "M" te definiëren als dit element. Zo'n definitie generaliseert het concept van een identiteitsmorfisme in categorietheorie waarin de endomorfismen van "M" niet functies hoeven zijn.

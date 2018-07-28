@@ -1,0 +1,2 @@
+Openingcode.
+Een openingcode is een code waarmee een schaakopening wordt geclassificeerd. De belangrijkste systemen zijn de ECO-code (die onder andere gebruikt wordt door de Encyclopedie der Schaakopeningen (ECO) en ChessBase) en de NIC-code (die onder andere gebruikt wordt door New In Chess (NIC)). Ook werd een tijdlang het Schach-Archiv-systeem gebruikt, maar dat is inmiddels achterhaald.

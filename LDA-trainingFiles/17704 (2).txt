@@ -1,0 +1,18 @@
+Fuga.
+Johann Sebastian Bachs Fuga in As uit deel II Das wohltemperierte Klavier
+Een fuga (van het Latijnse "fugere", vluchten) is een muziekvorm waarin meerstemmigheid (contrapunt) en gevarieerde herhaling een hoofdrol spelen.
+Deze vorm ontwikkelde zich in de 18e eeuw uit verschillende soorten contrapuntische composities als de ricercares, capriccio's, canzones, en fantasia's.
+Thema, dux en comes.
+Het belangrijkste thema wordt "subject" genoemd, en wordt als eerste eenstemmig gespeeld. De eerste inzet is doorgaans op de tonica en heet "dux". De tweede inzet van het "subject" is doorgaans op de dominant en wordt "comes" genoemd. De melodie die in contrapunt tot het "subject" staat, heet "contrasubject". Het contrasubject van de dux overlapt dan met het subject van de comes.
+Vorm, episodes.
+Een "dubbelfuga" is een fuga waarin twee subjecten behandeld worden, bijvoorbeeld het Kyrie eleison uit het Requiem van Mozart.
+De meester van de fuga is Johann Sebastian Bach, die talloze fuga's gecomponeerd heeft.
+Beluister een driestemmige fuga in c-klein uit de cyclus "das Wohltemperierte Klavier".
+Hij verwerkte zelfs een vocale fuga in de Johannes-Passion: "Wir haben ein Gesetz" en "Lässest du diesen los".
+Aantal stemmen.
+Over het algemeen heeft een fuga drie tot vijf stemmen (melodielijnen), maar in grote koor- of orkestrale fuga's zijn zelfs acht tot tien stemmen mogelijk. Minder dan drie stemmen zijn erg zeldzaam, omdat in het geval van twee stemmen het zogenaamde subject enkel tussen de eerste en tweede stem kan verwisselen. Het bekendste voorbeeld van zo'n tweestemmige fuga is de fuga in e uit het eerste boek van Bachs Wohltemperierte Klavier. Stukken die verwante fugatische technieken gebruiken worden ook wel Fughetta of inventies genoemd. Eénstemmige fuga's zijn uiteraard onmogelijk. Wel is het mogelijk meerstemmigheid te suggereren, zoals door Bach gedaan wordt in zijn sonates en partita's voor viool en cellosolo. In het eerste deel van de vijfde suite voor cello solo schrijft Bach een suggestie van een meerstemmige fuga.
+Tonale beantwoording.
+Wanneer het begin van het fugathema (de dux) de dominant bevat, kan dit bij beantwoording van een exact getransponeerde comes een dissonant opleveren. Een manier om dit te voorkomen is door de dominante tonen in het begin van de dux niet te transponeren over een reine kwint, maar over een reine kwart. Het betreft meestal het begin van het thema.
+Modulerende dux.
+Bij een dux die een reine kwint omhoog moduleert, kan bij exacte beantwoording het probleem ontstaan dat de fuga erg ver van de begintoonsoort geraakt. In geval van een dux die van C groot naar G groot moduleert, zou dan een comes moeten volgen die van G groot naar D groot moduleert. Om dit te voorkomen krijgt het modulerende gedeelte van de comes een wending terug naar C groot, waardoor een voorzin-nazin-structuur ontstaat.
+Soms wordt bij het het overgaan van de dux naar de comes het probleem van moduleren ondervangen door een koppelmotief toe te passen, een kort aantal noten die de overgang van tonica naar dominant bewerkstelligen.

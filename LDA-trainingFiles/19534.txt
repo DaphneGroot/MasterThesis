@@ -1,0 +1,29 @@
+Universal Serial Bus.
+Universal Serial Bus (Universele Seriële Bus), meestal aangeduid met het initiaalwoord USB, is een standaard voor de aansluiting van randapparatuur op computers.
+Het vervangt de langzamere parallelle en seriële poorten, voornamelijk doordat de snelheid van gegevensoverdracht met USB veel groter is. De standaard is vastgesteld door Intel en protocolversie 1.0 werd in 1996 geïntroduceerd. Met behulp van de gestandaardiseerde USB-poort konden hardwarefabrikanten producten maken die compatibel waren met zowel pc's als Macs. Naast randapparatuur voor computers worden verschillende typen microcontrollers voorzien van een USB-poort, bijvoorbeeld om hun toepassing binnen computers en "embedded systems" te vereenvoudigen.
+Een bijkomend voordeel van USB is, dat deze de stroomvoorziening van de aangesloten randapparatuur kan verzorgen. Ook kan USB-apparatuur aangesloten worden zonder de computer te hoeven herstarten — dit wordt "hotplugging" genoemd.
+Hoewel in de naam het woord bus voorkomt, is USB strikt genomen geen bus, omdat er zonder hub maar één apparaat per poort aangesloten kan worden.
+FireWire is een alternatief voor USB als het gaat om het aansluiten van apparatuur die een hoge kanaalcapaciteit vereist, zoals externe "harddisks" en videocamera's.
+Doelen.
+De achterliggende doelstelling is alle afzonderlijke poorten van een pc door één enkele standaard te vervangen.
+Varianten.
+Via de USB-kabel kan het aangesloten apparaat van voedingsstroom worden voorzien. USB 2.0 levert maximaal 500 mA (bij 5 V) en dat is genoeg voor eenvoudige apparaten, zoals een muis. USB 3.0 en 3.1 leveren respectievelijk maximaal 900 en 2000 mA. Apparaten die meer vermogen vergen, moeten een eigen voeding hebben.
+Dit zijn theoretische snelheden, die in de praktijk vaak niet worden gehaald.
+Eigenschappen.
+De USB 3.x-variant heeft een stekker met extra aansluitingen om de hoge snelheid te kunnen halen. De extra aansluitingen zijn zodanig in de stekker verwerkt, dat ook oudere stekkers nog passen. De USB 3.x-kabel heeft 9 aders in plaats van 4 bij de oude kabel.
+Het is ook mogelijk om een USB-stekker te combineren met een SATA-aansluiting. In 2009 bestaan daartoe verschillende initiatieven.
+Inmiddels bestaat ook de draadloze variant van USB, genaamd Wireless USB (WUSB of USB 2.1), die een radiofrequentie gebruikt om te communiceren. WUSB is bruikbaar tot een afstand van 3 tot 10 meter, met een snelheid van 480 Mbit/s bij 3 meter tot 110 Mbit/s bij 10 meter. WUSB gebruikt encryptie.
+Draagbare harde schijf.
+Verschillende draagbare of mobiele harde schijven in de 2,5 inch-uitvoering, zoals deze ook in laptops worden gebruikt, hebben geen extra stroomvoorziening nodig, en kunnen zo op een USB-poort aangesloten worden. De 3,5 inch-versie, die in de meeste desktops wordt gebruikt, heeft wel een externe voeding nodig. Ter bescherming worden externe schijven voorzien van een plastic of metalen (bijvoorbeeld aluminium) behuizing.
+Draagbare harde schijven gebruiken vrijwel allemaal meer dan de 500 mA die de (USB-)standaard voorschrijft. Daarom wordt er soms bij de draagbare harde schijven een kabeltje meegeleverd met twee USB-stekkers. De tweede stekker dient dan om extra stroom van een tweede USB-poort te kunnen gebruiken. Bij oudere computers en bij andere apparatuur dan computers (bijvoorbeeld televisies of tablets), kan het voorkomen dat de USB-standaard strikt wordt nageleefd en de USB maximaal 500 mA levert. Een USB-schijf werkt dan niet zonder een extra USB-poort of een externe voeding. Bij veel moderne computers en laptops biedt de USB-poort al meer stroom dan de standaard, rekening houdend met externe harde schijven.
+USB-sticks kennen dit euvel niet. Een USB-stick is gebaseerd op flashgeheugen. Hij heeft geen bewegende onderdelen en gebruikt veel minder stroom. Hij heeft minder opslagcapaciteit en is per bit opslagcapaciteit duurder.
+Draagbare harde schijven en USB-sticks worden gebruikt
+Al deze functies zijn te combineren.
+Toepassingen.
+Een USB-adapter voor een seriële poort
+Techniek.
+Met USB is veel meer mogelijk dan met een parallelle poort of seriële poort, terwijl er minder draden worden gebruikt. Dit wordt mogelijk gemaakt door het USB-protocol.
+De twee data-aders worden als 'twisted pair' gebruikt om differentieel data te versturen: bij een '0' wordt de spanning op de pen voor D- hoger gemaakt dan de spanning op de pen voor D+, en voor een '1' wordt de spanning op de pin voor D- lager gemaakt dan de spanning op de pen voor D+. Voor "low speed (1,5 Mbit/s)" en "full speed (12 Mbit/s)" moet de zender zorgen voor een spanning van minstens 2,5 volt tussen de D-- en D+-pennen, terwijl voor "high speed (480 Mbit/s)" de zender moet zorgen voor een stroom van 17,8 mA.
+Deze bus wordt gebruikt om datapakketten over te sturen, niet alleen voor de daadwerkelijke dataoverdracht, maar ook voor besturingsinformatie. De host is de baas over de bus en neemt het initiatief voor alle dataoverdracht.
+Aansluiting op moederbord.
+De eerste indeling geeft een eenvoudiger ontwerp van het moederbord. Bij de tweede indeling is het niet mogelijk de stekker verkeerd aan te sluiten. De derde indeling combineert beide voordelen. Bij alle drie indelingen is het echter nodig dat de stekker in de systeemkast dezelfde indeling gebruikt als de header op het moederbord. Het gevolg is dat veel fabrikanten van computerkasten kiezen voor acht eenpolige stekkertjes.

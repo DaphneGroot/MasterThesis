@@ -1,0 +1,9 @@
+Hiërarchie.
+Een hiërarchie is een manier om personen, objecten of gegevens te ordenen volgens asymmetrische relaties daartussen, waarbij meerderen met minderen worden verbonden. Deze activiteit wordt ook wel classificatie genoemd.
+Elk element in een hiërarchie kan vanaf een ander element bereikt worden door een relatie in een bepaalde richting te volgen, maar het is niet mogelijk om bij een bepaald element terug te komen door de relaties altijd in een bepaalde richting te volgen. Een hiërarchie kan daarom worden weergegeven met behulp van een gerichte, acyclisch verbonden graaf.
+Een hiërarchie kan worden weergegeven met een structuur die lijkt op een boomstructuur. Het verschil met een normale boomstructuur (zoals een stamboom), is dat iedere knoop in de boom verbonden kan zijn met meerdere knopen boven zich.
+Hiërarchisering is het proces dat ontstaat als er binnen een organisatie een hiërarchische rangschikking ontstaat.
+Hiërarchie in de samenleving.
+Er zijn filosofen en politici die speculeren dat de mens "neigt naar hiërarchie". Een voorbeeld hiervan is de middeleeuwse standenmaatschappij waarin de samenleving in drie standen wordt verdeeld: boeren, adel en geestelijken. Er zijn echter ook tegenvoorbeelden; hiërarchisering in de samenleving gaat in tegen de ideologie van het marxisme en bewegingen die hierop zijn gebaseerd, zoals het communisme.
+Theosofie.
+In de theosofie kent men de leer der hiërarchieën. In het kort komt het erop neer dat men alle eenheden of monaden ziet als deel van een groter geheel en tevens als top van een verzameling eenheden of monaden. Essentieel bij deze leer is dat het bewustzijn primair is en de manifestatie daarvan secundair door emanatie. Als voorbeeld een menselijke hiërarchie, waarin het menselijke bewustzijn leidend is voor het bewustzijn van de organen e.d. Een nervositeit op emotioneel vlak beïnvloedt dan bijvoorbeeld de stofwisseling op vegetatief vlak.

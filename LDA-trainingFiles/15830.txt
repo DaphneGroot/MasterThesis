@@ -1,0 +1,12 @@
+Nafteenzuur.
+Nafteenzuur is een algemene naam voor een verzameling van carbonzuren die in ruwe olie aanwezig zijn, vaak met de structuurformule R-(CH2)n-COOH waarbij "R" een cyclopentaan- of een cyclohexaan-ring voorstelt en "n" meestal varieert tussen 9 en 20.
+De zouten en esters van nafteenzuren worden naftenaten genoemd. Van industrieel belang zijn onder meer kobalt(II)naftenaat, lood(II)naftenaat, bariumnaftenaat, calciumnaftenaat, koper(II)naftenaat, natriumnaftenaat, magnesiumnaftenaat, mangaan(II)naftenaat en zink(II)naftenaat.
+Oorsprong.
+Nafteenzuren worden gewonnen uit oxidatie van nafta, een mengsel van koolwaterstoffen, dat ontstaat bij het destilleren van ruwe olie. De samenstelling van het mengsel nafteenzuren hangt af van hoe zuiver de nafta is en in welke mate het oxidatieproces heeft plaatsgegrepen. Vandaar kan geen vaste samenstelling worden bepaald.
+Ruwe olie die een hoog natuurlijk percentage nafteenzuren bevat wordt geclassificeerd als TAN (Engelse afkorting voor "Total Acid Number") of HAC ("High Acid Crude Oil").
+Eigenschappen.
+Het smeltpunt van nafteenzuren ligt binnen een bereik van -35 tot 2°C, het kookpunt schommelt tussen 140 en 370°C. Deze waarden hangen logischerwijs af van de procentuele samenstelling. De dichtheid ligt in de buurt van 0,98 g·cm-3.
+Nafteenzuren kunnen gescheiden worden van het substraat (nafta of aardolie) door middel van een neutralisatiereactie met een 10% natriumhydroxide-oplossing. De zouten van nafteenzuren zijn immers oplosbaar in water, waardoor ze in de waterige fase terechtkomen. Aardolie en nafta zijn overwegend apolair en lossen bijgevolg niet op in water. Door deze waterfase weg te halen en weer aan te zuren worden de nafteenzuren herwonnen.
+Nafteenzuren zijn ook reeds aanwezig in ruwe olie en dit kan leiden tot corrosieproblemen in opslagvaten. Men spreekt in dat verband over nafteenzuurcorrosie. Deze corrosie grijpt hoofdzakelijk plaats in een temperatuursgebied tussen 65 en 420°C. Nafteenzuren kunnen ofwel afzonderlijk, ofwel in combinatie met andere organische zuren of fenolen aanwezig zijn in ruwe olie.
+Toepassingen.
+Nafteenzuren werden oorspronkelijk gebruikt bij de bereiding van napalm, hoewel het daarin tegenwoordig niet meer voorkomt. Andere toepassingen hangen af van de zuiverheidsgraad. Ze worden onder meer gebruikt in corrosie-inhibitoren, houtconserveringsmiddelen, smeermiddelen en brandstofadditieven.

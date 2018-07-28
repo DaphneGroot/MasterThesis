@@ -1,0 +1,14 @@
+Prisma (wiskunde).
+In de meetkunde is een "n"-zijdig prisma een veelvlak dat bestaat uit een "n"-zijdige veelhoek als grondvlak, een getransleerde kopie van dit grondvlak, en "n" zijvlakken die deze twee vlakken met elkaar verbinden. Deze verbindende zijvlakken zijn parallellogrammen. Alle doorsnedes evenwijdig aan het grondvlak van het prisma zijn congruent aan elkaar. Het grondvlak van een prisma is drie- of meerhoekig.
+De prisma’s vormen een deelverzameling van de prismatoïden.
+Een prisma is een cilinder (in de algemenere zin).
+Scheve, rechte en uniforme prisma’s.
+Een "recht prisma" is een prisma, waarin de verbindende ribbes en zijvlakken loodrecht op de grondvlakken staan. Dit houdt in dat de verbindende zijvlakken rechthoekig zijn. Als de verbindende ribben en zijvlakken niet loodrecht op het grondvlak staan, spreekt men van een "scheef prisma".
+De term 'recht prisma' laat nog in het midden of het prisma rechthoekige of vierkante zijvlakken heeft. De term "uniform prisma" wordt gebruikt voor een recht prisma met vierkante zijvlakken, aangezien zulke prisma’s deel uitmaken van de verzameling van de in totaal 75 uniforme veelvlakken. Een uniform prisma op een vierhoekig grondvlak is bijvoorbeeld een kubus.
+Rechte prisma’s vormen een van twee oneindige verzamelingen van halfregelmatige veelvlakken. De andere is de verzameling antiprisma’s.
+De duale veelhoek van een recht prisma is een bipiramide.
+Een parallellepipedum is een prisma waarvan het grondvlak een parallellogram is, of anders gezegd, een veelvlak dat uit zes zijvlakken bestaat die alle parallellogrammen zijn.
+Volume.
+Het volume van een recht prisma met formula_1 de oppervlakte van het grondvlak en formula_2 de hoogte (dus loodrecht op dat grondvlak) is formula_3. Door het principe van parallelle verschuiving kan eenvoudig ingezien worden dat dit ook voor scheve prisma’s geldt.
+Overig.
+Voorwerpen met een prismatische vorm worden als optische elementen toegepast, en in de bouw- en constructietechniek als bijvoorbeeld balken.

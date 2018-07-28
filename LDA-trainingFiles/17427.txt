@@ -1,0 +1,12 @@
+Maatstreep.
+"Muziekstukje met zes verticale maatstrepen (Ludwig van Beethoven, Für Elise)"
+Een maatstreep is in muzieknotatie een verticale streep die maten in bladmuziek van elkaar scheidt. Maatstrepen worden onder andere enkel, dubbel, dun, met puntjes, gestippeld, verborgen, 'ticked' en vet gebruikt en in combinaties daarvan.
+Soorten strepen.
+2: Dubbele maatstreep, markeert secties of maatwisselingen
+3: Herhaling start vanaf deze maatstreep
+5: Gestippelde maatstreep, wordt bijvoorbeeld in solistische cadenzen gebruikt
+6: Maatstreep die aangeeft dat het voorgaande en het volgende herhaald wordt
+7: 'Ticked' maatstreep, separatieteken in muziek die wellicht niet direct in maten onderverdeeld wordt, of bij een opeenvolging van onregelmatige maatsoorten
+8: Maatstreep tussen de balken in plaats van door de balken, wordt af en toe gebruikt in vocale muziek
+9: Onzichtbare maatstreep, gebruikt als de maatverdeling niet zichtbaar dient te zijn, of in vrijere stukken zonder duidelijke maatstructuur
+10: Eindstreep die einde van de compositie of een deel daarvan markeert

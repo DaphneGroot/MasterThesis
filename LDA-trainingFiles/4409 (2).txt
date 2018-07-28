@@ -1,0 +1,26 @@
+Resolutie (geluidsmeting).
+De resolutie bij geluidsmetingen is de fijnheid waarmee het geluidsspectrum uiteengerafeld wordt. Een ander woord voor resolutie is oplossend vermogen. Ook bij andere type metingen wordt gesproken van resolutie.
+Korte introductie.
+Geluid bestaat in de meeste gevallen uit verschillende frequenties. Het resultaat van een geluidsmeting wordt echter meestal uitgedrukt in één enkel getal, die aangeduid wordt met een waarde in decibel, afgekort dB. Om de eigenschappen van het menselijk gehoor in rekening te brengen wordt voor geluid in de woonomgeving of in de werkomgeving meestal een weging gebruikt over de verschillende frequenties die in het geluid aanwezig zijn. Het resultaat van deze zogeheten A-weging, is de dB(A).
+Voor onderzoeksdoeleinden is het zinvol om over informatie te beschikken over de verschillende frequenties die in het geluidssignaal zijn opgenomen. In dat geval worden metingen uitgevoerd om het niveau bij verschillende frequentiebanden in kaart te brengen.
+Deze informatie is van groot belang om de bronnen van het geluid te kunnen vaststellen.
+De frequentiebanden waarin het geluid wordt onderverdeeld hebben een bepaalde bandbreedte, die uitgedrukt wordt in de eenheid van frequentie, de Herz {afgekort Hz). Een zeer fijne resolutie heeft bijvoorbeeld een bandbreedte van 1 Hz. Omdat het menselijk gehoor geluid echter beter kan onderscheiden in intervallen met een logaritmische schaal, worden vaak ook dit soort intervallen gebruikt.
+Verschillende resoluties.
+Deze resoluties worden hierna achtereenvolgens toegelicht.
+Octaafbanden.
+De vorm van de te gebruikte octaafbandfilters is internationaal vastgelegd. Hetzelfde geldt voor de 1/3 octaafbandfilters.
+(Zie voor meer informatie over het interval octaaf in de muziek: Interval (muziek).
+Tertsbanden of 1/3 octaafbanden.
+Vaak is het wenselijk om over fijnere frequentie informatie te beschikken. De metingen worden dan geanalyseerd in tertsbanden (ook wel 1/3 octaafbanden genoemd). Elke octaafband wordt verdeeld in 3 tertsbanden. Om het geluidniveau gemeten in tertsbanden om te rekenen naar het geluidniveau in octaafbanden, moeten de gemeten niveaus in telkens 3 tertsbanden bij elkaar worden opgeteld (zie: Optellen van geluidniveaus).
+"Voorbeeld: Om het octaafband-geluidniveau in de 1000 Hz-band te bepalen uit metingen in tertsbanden worden de geluidniveaus in de 3 tertsbanden 800 Hz, 1000 Hz, en 1250 Hz bij elkaar opgeteld. De omgekeerde route, uit octaafbanden de tertsniveaus berekenen, is niet mogelijk zonder zeer veel aannames te maken. Het is dan beter de metingen opnieuw uit te voeren of opnieuw te analyseren."
+De internationaal vastgestelde centrumfrequenties voor metingen in tertsbanden zijn opgenomen in de tabel hieronder. De gestandaardiseerde octaafbanden zijn daarbij benadrukt. Het betreft in deze tabel alleen frequentiebanden in het hoorbare gebied.
+Formules.
+Hieronder een tabel voor de bepaling van de ondergrens en bovengrens van octaafbanden en tertsbanden op basis van de centrumfrequentie f0.
+Smalbandige logaritmische schalen.
+Niet zo gebruikelijk als octaafband- of tertsbandanalyse worden ook wel 1/6, 1/12 en 1/24 octaafbandanalyses gebruikt.
+Smalbandige analyse.
+Als er behoefte is aan een nog grotere frequentieresolutie kan een Fourieranalyse worden gemaakt. Vaak gebruikt men hiervoor het FFT-algoritme. De resolutie van een smalbandige analyse is volledig vrij, en de mogelijkheden zijn onbeperkt. Een frequentieresolutie van 1 Hz is bijvoorbeeld heel goed mogelijk, mits de meettijd voldoende lang is. Als de meting slechts kort is, moet er voor een grovere frequentieresolutie gekozen worden, dan als er een heel lange meettijd beschikbaar is.
+Ook de vorm van te gebruiken (digitale) filters kan vrij worden gekozen, afhankelijk van het doel van de analyse. Een veel gebruikt filter is het Hanning-filter. De keus van het filter beïnvloedt de nauwkeurigheid van het bepaalde niveau, maar ook de breedte van de frequentiebanden. Afhankelijk van het meetdoel dient het optimale filter gekozen worden.
+Verschil tussen smalbandige analyse en tertsbandanalyse.
+Een groot verschil tussen Fourieranalyse en analyse in tertsbanden is dat de eerste een lineaire frequentieschaal heeft, en de tweede een logaritmische schaal. Hierdoor ziet het spectrum er geheel anders uit. Bij een Fourieranalyse worden de laagste frequenties samengeperst. Het menselijk gehoor heeft, net als voor het niveau het geval is, voor frequenties een logaritmisch gedrag. Het interval tussen twee octaven wordt telkens natuurlijk ervaren als bij elkaar behorende tonen. Het gebruik van een tertsbandanalyse geeft dus beter de menselijke waarneming weer dan een Fourieranalyse.
+Voor wetenschappelijk onderzoek naar geluid is een Fourieranalyse echter veelal vereist, omdat het een veel gedetailleerder inzicht levert.

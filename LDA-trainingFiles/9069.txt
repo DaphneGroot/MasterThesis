@@ -1,0 +1,5 @@
+Prisma (optica).
+Vaak wordt met prisma in de natuurkunde een driehoekig prisma bedoeld, gemaakt van een transparant materiaal (bijvoorbeeld glas). Zo'n vorm wordt in de spectraalanalyse gebruikt om licht van verschillende golflengten in verschillende richtingen af te buigen (dit gebeurt omdat de brekingsindex van het materiaal afhankelijk is van de golflengte) om zo eenvoudig het spectrum te kunnen bekijken.
+Simpele definitie: Een prisma is een doorzichtig donker voorwerp dat bestaat uit vier of meer niet evenwijdige grensvlakken.
+Een alternatieve manier om een spectrum te maken is met hulp van een tralie.
+Een ander gebruik van prisma's maakt gebruik van de totale reflectie als het licht onder een grote hoek uittreedt. Dergelijke prisma's worden onder andere gebruikt in prismakijkers en spiegelreflexcamera's.

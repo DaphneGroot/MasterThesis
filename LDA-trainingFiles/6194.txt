@@ -1,0 +1,12 @@
+Lichtbreking.
+Lichtbreking door prisma (top boven, basis onderaan de foto)
+Breking van licht of refractie is het verschijnsel dat lichtstralen van richting veranderen als ze van het ene medium (doorzichtige stof) in het andere terechtkomen.
+Het licht breekt omdat er een verschil is tussen de dichtheid of doorlaatbaarheid en daarmee de voortplantingssnelheid van licht van de 2 stoffen. Zo betekent een brekingsindex van 1,3 voor water dat de voortplantingssnelheid in water 30% lager is dan in vacuüm; voor lucht is die, afhankelijk van de temperatuur en golflengte, slechts ongeveer 0,3% lager. In geen enkel medium is die voortplantingssnelheid groter dan in vacuüm.
+De verandering in richting wordt bepaald door de brekingsindex (soms ook "optische dichtheid" genoemd) van de twee media (hoe groter het verschil des te groter de breking) en door de invalshoek waaronder de bundel het grensvlak treft (hoe groter de hoek des te groter de breking).
+Als een lichtstraal loodrecht invalt op het scheidingsoppervlak van de twee stoffen, loopt hij ongebroken voort.
+Wet.
+Breking wordt beschreven in de Wet van Snellius, die de hoek van inval vanuit medium 1 θ1 en de hoek van breking θ2 inmmedium 2 zich verhouden als
+waarin formula_3 en formula_4 de brekingsindices zijn in respectievelijk medium 1 en medium 2.
+Voor verschillende golflengtes (dus kleuren) licht is de breking meestal ook verschillend, hierdoor wordt bijvoorbeeld in een prisma een lichtbundel "gebroken" (opgesplitst) in bundels verschillende kleuren, dus in licht met verschillende frequenties. Dit verschijnsel wordt dispersie of "kleurschifting" genoemd en is de oorzaak van chromatische aberratie in lenzen.
+Een bekend voorbeeld: als het regent terwijl de zon schijnt worden de lichtstralen van de zon gebroken (en intern weerkaatst) door de regendruppels. Als je met de rug naar de zon staat zie je vóór je een regenboog.
+In anisotrope media treedt dubbele breking op.

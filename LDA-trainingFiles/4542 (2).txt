@@ -1,0 +1,8 @@
+Golflengte.
+GolflengteDe golflengte (symbool: λ) van een periodiek verschijnsel is de lengte van een golf. Dat wil zeggen de afstand tussen twee opeenvolgende punten met dezelfde fase, zoals de toppen van een sinusvormige golf.
+Er is een directe relatie tussen de golflengte "λ" (in m), de frequentie "f" (in Hz) en de voortplantingssnelheid "v" van de golf (in m/s) in het betrokken medium.
+Ook tussen de golflengte en het golfgetal bestaat een direct verband; het golfgetal is omgekeerd evenredig aan de golflengte.
+Toepassingen.
+De golflengte is een belangrijke parameter in de beschrijving van golfverschijnselen. Zo speelt deze grootheid een belangrijke rol bij diverse natuurkundige fenomenen als Rayleighverstrooiing, diffractie en de Airy-schijf. Over systemen die afbeeldingen maken kan over het algemeen gesteld worden dat het maximaal oplossend vermogen recht evenredig is met de gebruikte golflengte. Dit speelt bijvoorbeeld een rol bij optische opslagmedia, zoals de cd, dvd en blu-raydisk, waarbij door de steeds toenemende informatiedichtheid een kortere golflengte van licht nodig is om deze uit te lezen (resp. infrarood ~780 nm, rood ~650 nm en blauw ~400 nm).
+De golflengte van geluid speelt onder andere een rol in de weergave van met name lage tonen in kleine ruimtes en bij het ontwerp van blaasinstrumenten.
+In de radiotechniek werd de golflengte vroeger gebruikt om aan te geven waar een zender op de afstemschaal te vinden was. Dit komt terug in het gebruik van begrippen als 49-meterband, korte golf, middengolf en langegolf als aanduiding voor de frequentieband. Thans gebruikt men hiervoor de frequentie, maar desondanks leest men vaak het woord "golflengte" boven een lijst met frequenties.

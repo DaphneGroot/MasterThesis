@@ -1,0 +1,5 @@
+Nimzo-Indisch.
+Bij het schaken is het Nimzo-Indisch of "Indische verdediging" de naam van een schaakopening die in het begin van de 20e eeuw bestudeerd werd door Aaron Nimzowitsch. Hij boekte daarmee goede resultaten, en deze opening werd populair.
+Karakteristiek in deze opening is dat zwart door het paard te pennen druk uitoefent op het veld e4 terwijl hij veld d5 enigszins onder controle heeft. De kenmerkende zetten van deze opening zijn 1.d4 Pf6 2.c4 e6 3.Pc3 Lb4. Het Nimzo-Indisch is ingedeeld bij de halfgesloten spelen en valt onder ECO-code E20.
+De specifieke zet 3...Lb4 heeft Nimzowitsch niet als eerste gespeeld.
+De Indische verdedigingen spelen in de moderne toernooien een belangrijke rol als een alternatief voor de zet 1...d5 van het klassieke damegambiet.

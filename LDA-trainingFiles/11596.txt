@@ -1,0 +1,11 @@
+Gemiddelde.
+Bij rekenen en in de wiskunde is het gemiddelde of de gemiddelde waarde een begrip dat veelvuldig voorkomt. Het bekendste is het rekenkundig gemiddelde: de som van een aantal getallen gedeeld door het aantal getallen.
+Statistiek.
+In de statistiek wordt het begrip gemiddelde veel gebruikt. We moeten hierbij onderscheiden of het om de gehele populatie gaat of om een steekproef daaruit.
+Populatiegemiddelde.
+In de statistiek wordt het populatiegemiddelde van een kenmerkende grootheid vaak aangeduid met de Griekse letter μ. Voor een eindige populatie is het populatiegemiddelde niets anders dan het rekenkundig gemiddelde van alle populatiewaarden.
+Bij aselecte trekking van een waarde "X" van die grootheid uit de populatie, is de kansverdeling van "X" de populatieverdeling, met als gevolg dat de verwachtingswaarde van "X" gelijk is aan het populatiegemiddelde.
+Het is echter vaak onmogelijk om het populatiegemiddelde te bepalen. Is men bijvoorbeeld geïnteresseerd in het gemiddelde gewicht van de Sumatraanse neushoorn, dan kan men dat gewoon bepalen, omdat er nog maar zo'n 250 van zijn. Bij muskieten ligt dat echter heel anders. Er zijn er gewoon te veel om ze allemaal te kunnen onderzoeken. In zo'n geval nemen statistici hun toevlucht tot een steekproef om door de berekening van het steekproefgemiddelde een schatting te krijgen van het populatiegemiddelde.
+Steekproefgemiddelde.
+Hoe goed deze benadering is, hangt nog van vele factoren af, zoals van de steekproefomvang en de onderliggende verdeling. Wanneer het aantal proeven voldoende is, is daarmee voor de steekproef een wet van de grote aantallen bepaald. Er zijn verdelingen die geen populatiegemiddelde bezitten, omdat de bovenstaande integraal niet bestaat.
+Gelukkig kunnen we vaak veronderstellen dat de onderliggende verdeling normaal is. Dan speelt naast de verwachtingswaarde alleen de standaardafwijking een rol, waarvan we de waarde ook uit de steekproef kunnen schatten.

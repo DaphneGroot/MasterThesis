@@ -1,0 +1,4 @@
+Turbo C.
+Turbo C was een geïntegreerde ontwikkelomgeving van Borland voor de programmeertaal C, uitgebracht op 13 mei 1987, waarna het in mei 1990 werd opgevolgd door Turbo C++.
+Eerder had Borland al Turbo Pascal uitgebracht, dat een vergelijkbare IDE had rond de programmeertaal Pascal, en TurboBASIC.
+Sinds 2006 is Turbo C als freeware beschikbaar.

@@ -1,0 +1,4 @@
+Dragonball (processor).
+De Motorola Dragonball is een Motorola 68000-compatibele processor, aangepast voor laag stroomgebruik. In tegenstelling tot de Coldfire beschikt de Dragonball over de volledige 68000-instructieset.
+Toepassingen.
+Veel pda's van Palm zijn uitgerust met de Dragonball.

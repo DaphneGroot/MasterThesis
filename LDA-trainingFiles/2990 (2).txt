@@ -1,0 +1,37 @@
+Dichtheid (natuurkunde).
+De dichtheid of soortelijke massa van een homogeen materiaal is in de natuur- en scheikunde een intensieve grootheid die uitdrukt hoeveel massa van dat materiaal aanwezig is in een bepaald volume. Men drukt dit wel uit als de 'massa per volume-eenheid'.
+Vaak wordt nog de verouderde en foutieve term soortelijk gewicht gebruikt. Traditioneel duidt men dichtheid aan met de Griekse letter "ρ" (rho).
+In het SI-stelsel wordt dichtheid uitgedrukt in kilogram per kubieke meter (kg/m3), maar de oudere eenheid (uit het cgs-systeem) gram per kubieke centimeter (g/cm3) of kilogram per kubieke decimeter wordt ook nog gebruikt. De omzetting is: 1000 kg/m3 = 1 g/cm3 = 1 kg/dm3. Getalsmatig zijn de twee oudere eenheden dus aan elkaar gelijk, de SI-eenheid is een factor 103 groter.
+Areïeke dichtheid.
+Doorsnede van Glare, een plaatmateriaal met een lage areïeke dichtheid.
+De areïeke dichtheid van platen die uit composietmaterialen bestaan, kunnen niet rechtstreeks uit de dichtheden van de samenstellende componenten afgeleid worden.
+Druk en temperatuur.
+Men tabelleert de dichtheid van een stof meestal bij een bepaalde temperatuur en druk omdat de dichtheid afhankelijk is van de grootte van deze intensieve grootheden. De dichtheid van een stof wordt gewoonlijk opgegeven onder standaardomstandigheden, dit wil zeggen bij 20 °C of 25 °C en onder een druk van 101,325 kPa (1 atmosfeer).
+Bij de meeste stoffen neemt het volume lineair toe met een stijgende temperatuur. Die temperatuurafhankelijkheid van de dichtheid wordt uitgedrukt in de uitzettingscoëfficiënt van een stof. De uitzettingscoëfficiënt is meestal onafhankelijk van de temperatuur over een groot temperatuurtraject.
+Onder andere water vormt een uitzondering op deze regel. Vooral bij lagere temperaturen vertoont de uitzettingscoëfficiënt van water afwijkend gedrag: rond 4°C heeft de uitzettingscoëfficiënt van water een minimum.
+De dichtheid van een stof neemt meestal lineair toe bij hogere hydrostatische drukken. Deze samendrukbaarheid wordt uitgedrukt in de compressiemodulus. De compressiemodulus hangt nauw samen met de elasticiteit van een materiaal die uitgedrukt wordt in de elasticiteitsmodulus.
+Aggregatietoestand.
+Bundel gascilinders voor vervoer en opslag van gassen onder hoge druk.
+Witte dwergen gefotografeerd met de Wide Field and Planetary Camera 2 op de Hubble Ruimtetelescoop.
+Het binnenste van een meteoriet bestaat uit nikkelijzer waaruit de Aardkern ook opgebouwd is.
+De dichtheid van een stof verschilt onder standaardomstandigheden per aggregatietoestand. In het algemeen is de dichtheid van een stof in de vaste fase hoger dan de dichtheid in de vloeistoffase. De dichtheid van gassen is onder standaardomstandigheden veel kleiner dan die van vloeistoffen en vaste stoffen. Bovendien hangt de dichtheid van gassen sterk af van de temperatuur en de druk. In de superkritische fase kan bij hoge druk de dichtheid van een stof bijna gelijk zijn aan de dichtheid in de vloeistoffase of de vaste fase.
+Gassen.
+Veel gassen gedragen zich onder zeer hoge druk in bepaalde opzichten als vloeistoffen. De dichtheid van gassen kan onder zulke omstandigheden met behulp van de Van der Waalsvergelijking, of met een variant van deze vergelijking, berekend worden. Gassen met de grootste dichtheid zijn SF6: 6,60 kg/m3, en xenon: 5,897 kg/m3.
+Vloeistoffen en vaste stoffen.
+Vaste stoffen met een open kristalstructuur, zoals in het geval van elementen met een diamantrooster of verbindingen met een kwartsrooster, hebben een relatief lage dichtheid. Vaste stoffen met een dichte kristalstructuur, zoals metalen en legeringen, hebben een hogere dichtheid.
+Door smelten gaat de orde van de kristalstructuur van de vaste stof verloren en worden bindingen in het kristal verbroken. Daardoor wordt de gemiddelde afstand tussen atomen of moleculen groter zodat de meeste stoffen uitzetten tijdens het smelten. De dichtheid van een stof neemt daarom tijdens het smelten meestal af. Stoffen met een open kristalstructuur, zoals ijs, kunnen soms krimpen tijdens het smelten omdat open ruimten in de kristalstructuur instorten.
+Dichtheid van water neemt toe als de saliniteit toeneemt.
+De soortelijke massa van vloeistoffen kan bepaald worden met een pyknometer of een densitometer.
+Aggregatietoestanden met hoge dichtheid.
+De dichtheden van sommige andere aggregatietoestanden kunnen onder extreme omstandigheden heel hoog zijn. In het binnenste van zware hemellichamen zijn de druk en de temperatuur vaak zeer hoog in vergelijking met de standaardomstandigheden die in de chemie als referentie gehanteerd worden.
+Lichte materialen.
+Vetkrijtjes op een isolerend laagje aerogel boven een gasbrander.
+Het chassis van koolstofvezelversterkte kunststof en aluminium van een Aston Martin V12 Vanquish.
+Onderdelen voor kogellagers gemaakt van siliciumnitride, een sterk, breukbestendig keramisch materiaal met een dichtheid van slechts.
+Keramisch materiaal.
+Moderne keramische materialen met een lage dichtheid hebben meestal een open kristalstructuur. Metalen hebben doorgaans een veel hogere dichtheid dan keramische materialen omdat in metaalroosters de atomen zo dicht mogelijk gestapeld zijn. De atomen in een metaal hebben meestal twaalf of acht naaste buren waarmee ze een zwakke binding hebben. In roosters van keramische materialen hebben de atomen een laag coördinatiegetal door een tetraëder- of een octaëderomringing met maar vier of zes naaste buuratomen. De atomen vormen, zoals de koolstofatomen in diamant, sterke covalente bindingen met hun buuratomen. De atomen in de roosters van keramische materialen vormen netwerken van ringstructuren waarin veel ruimte tussen de atomen open blijft. De atomaire vullingsfactor van de diamantstructuur is slechts 0,3401, minder dan de helft van de pakkingsfactor van metalen.
+Aerogels en composieten.
+Keramische materialen kunnen sterke, elastische keramische vezels en lagen vormen. Op basis van keramische vezels kunnen verschillende soorten gel en schuim gemaakt worden, waaronder de extreem lichte "aerogels". Zoals gelatine bestaat uit een netwerk van collageenvezels in water, zo bestaat een aerogel uit een netwerk van silicaatvezels in lucht. Deze structuren ontstaan door een dendrietische kristalgroei. De eerste aerogel werd in 1931 vervaardigd uit silicagel. Inmiddels zijn er aerogels gemaakt van aluminiumoxide, chroom(III)oxide, tindioxide en grafeen. De lichtste aerogels hebben een dichtheid onder de 2 kg/m³. Aerogels zijn vuurvast en bieden tevens een hoge warmte-isolatie, zoals de afbeelding rechts laat zien.
+In composieten, zoals vezelversterkte kunststoffen, worden de eigenschappen van verschillende componenten in één samengesteld materiaal gecombineerd. Meestal worden vezels met een hoge treksterkte ingebed in een taaie matrix die hoge afschuifspanningen en drukkrachten kan weerstaan. In lichte composieten worden onder andere glasvezel, aramide, koolstofvezel en nanotubes verwerkt.
+Volumetrisch gewicht.
+Soms worden transportkosten in rekening gebracht op basis van het volumetrisch gewicht, dit is het grotere van twee massa's: de gewone massa en het volume vermenigvuldigd met een standaarddichtheid, bijv. 200 kg per kubieke meter.

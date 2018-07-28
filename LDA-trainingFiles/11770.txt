@@ -1,0 +1,3 @@
+Elektrische machine.
+Elektrische machines zijn machines, die elektrische energie omzetten in mechanische energie of andersom. Elektrische machines kunnen op wisselstroom (AC) of gelijkstroom (DC) draaien.
+Wanneer een machine elektrische energie omzet in mechanische energie, dan wordt er gesproken over een elektromotor. Wanneer andersom mechanische energie wordt omgezet elektrische energie spreekt men van een dynamo of generator.

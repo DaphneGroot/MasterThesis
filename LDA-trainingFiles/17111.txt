@@ -1,0 +1,4 @@
+Kucharkowski-Meybohmgambiet.
+Het Kucharkowski-Meybohm-Gambiet of Meybohmgambiet is in de opening van een schaakpartij een variant van de Sokolsky-opening die te vinden is onder de flankspelen. Het Meybohmgambiet is geanalyseerd door de Duitse schaker Jens Kucharkowski en zijn vriend Dirk Meybohm.
+De beginzetten van dit gambiet zijn: 1.b4 e5 2.Lb2 Lb4 3.f4. De zet 3. f4 is een alternatief op Lxe5, waarbij wit een centrumpion pakt voor een flankpion. Zwart heeft na 3... Pf6 niks te vrezen en zal rustig kunnen ontwikkelen.
+Het beste voor zwart is om het gambiet niet te accepteren, door 3.... d6 te spelen. Na 4. fxe5 dxe5 5. Lxe5 Pf6 6. Pf3 0-0. Zwart staat dan iets beter en heeft een betere ontwikkeling. Mocht zwart het gambiet accepteren, dan is de hoofdlijn 3.... exf4 4. Lxg7 Dh4+ 5. g3 fxg3 6. Lg2! gxh2+ 7. Kf1 hxg1=D+. 8. Kxg1. Wit kan nu niet meer rokeren, maar wint een kwaliteit. Wit heeft hier een iets beter spel en heeft een betere ontwikkeling.

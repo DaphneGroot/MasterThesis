@@ -1,0 +1,13 @@
+Torens van Hanoi.
+De Torens van Hanoi is een spel of puzzel met een aantal schijven. Het spel bestaat uit een plankje met daarop drie stokjes. Bij aanvang van het spel is op een van de stokjes een kegelvormige toren geplaatst van schijven met een gat in het midden. De schijven hebben verschillende diameters, in toenemende grootte. Ze zijn zo geplaatst dat de kleinste schijf bovenop en de grootste onderop ligt.
+Om praktische redenen heeft de toren meestal 8 schijfjes, omdat een spel met dit aantal binnen een minuut of 6 op te lossen is. Iedere extra schijf verdubbelt de minimale oplostijd.
+Analyse.
+Het is vrij gemakkelijk aan te tonen dat het probleem oplosbaar is, ongeacht het aantal schijven, en wel in 2n-1 zetten, waarbij n het aantal schijven is.
+Het is een geliefd probleem in programmeercursussen, omdat het zeer elegant op recursieve wijze op te lossen is.
+Hieraan is ook meteen te zien dat de oplossing voor 1 schijf minimaal 1 zet vergt, en dat een grotere toren kan worden opgelost in tweemaal het aantal zetten voor de toren met 1 schijf minder, plus 1.
+Het aantal zetten is steeds het dubbele aantal van de vorige stapel + 1.
+Handmatig oplossen.
+Lost men de puzzel met de hand op, dan wordt er gemakkelijk een fout gemaakt, waardoor het oplossen langer duurt. Er is echter een eenvoudige manier om het wel goed te doen.
+Oorsprong.
+Het spel is uitgevonden door de Franse wiskundige Édouard Lucas in 1883. Er is een legende over een hindoe-tempel in de Indiase stad Benares onder keizer Fo Hi, waarvan de priesters, de brahmanen, zich bezighouden met het verplaatsen van een toren van 64 gouden schijven. De schijven lagen op drie naalden van diamant, een el lang en zo dik als het lichaam van een bij. Volgens de legende komt de wereld tot een einde als het werk af is. Het is niet duidelijk of Lucas deze legende bedacht heeft of er alleen door is geïnspireerd.
+Aannemend dat de priesters 1 schijf per seconde zouden verplaatsen, zou het 264 - 1, is ongeveer 1,84×1019 seconden duren de puzzel af te maken. Dit komt overeen met ruwweg 585 miljard jaar, ruwweg 43 maal zo lang als de geschatte leeftijd van het universum.

@@ -1,0 +1,31 @@
+Hoek (meetkunde).
+Twee snijdende lijnen met hoeken α en β daartussen, die samen 180° of π radialen groot zijn
+Een hoek in de meetkunde is een figuur in een vlak gevormd door twee halfrechten, "benen" van de hoek geheten, met een gemeenschappelijk beginpunt. Draait men een van de benen om dit hoekpunt tot hij met de andere samenvalt, dan doorloopt de halfrechte de hoek tussen beide. Duidelijk is dat deze beweging op twee manieren kan plaatsvinden, zodat door de halfrechten ook twee hoeken gevormd worden; deze hoeken vormen samen een cirkel ("volle hoek"). Zonder nadere bepaling rekent men meestal de kleinere van beide hoeken als de hoek gevormd door de halfrechten.
+Het snijpunt van de twee lijnen wordt wel "hoekpunt" genoemd.
+Inleiding.
+Een hoek is een dimensieloze grootheid, waarvan de grootte traditioneel wordt uitgedrukt in "(boog)graden" (°). Een hoek ter grootte van een gehele cirkel telt voor 360°. Twee halfrechten in elkaars verlengde vormen een hoek van een halve cirkel, dus van 180°. Staan de halfrechten loodrecht op elkaar, dan is de (kleinere) hoek tussen beide 90°. Een graad is onderverdeeld in 60 "(boog)minuten" (') en een minuut weer in 60 "(boog)seconden" ("). Een hoek van 34 graden, 25 minuten en 16 seconden wordt genoteerd als: 34°25'16". In het SI-stelsel wordt een hoek gemeten in radialen. Bij het meten van hoeken in radialen zal vaak het getal π (pi) een rol spelen. Zo is een cirkel gelijk aan 2π radialen.
+In de landmeetkunde gebruikt men als eenheid de gon. Hierbij is de hoek van een volledige cirkel 400 gon.
+Wanneer twee lijnen in een vlak elkaar snijden, worden door deze lijnen 4 hoeken gevormd. De overstaande hoeken zijn daarbij in grootte aan elkaar gelijk. Twee aangrenzende hoeken zijn samen 180°. Zoals blijkt uit bijgaande figuur kan de hoek tussen twee lijnen op twee manieren worden gemeten. Meestal, maar niet noodzakelijk, wordt onder "de hoek" de kleinste hoek verstaan, in dit geval hoek α.
+Wanneer twee vlakken elkaar snijden en dus een lijn gemeen hebben, wordt de mate waarin het ene vlak moet roteren om die lijn, om samen te vallen met het andere, de hoek tussen deze vlakken genoemd.
+Geschiedenis.
+Hoeken werden reeds bij de Babyloniërs (4000 tot 300 v.Chr.) bestudeerd in de astronomie en de bouwkunde. De Babyloniërs gebruikten een talstelsel gebaseerd op het getal "60". Toenmalige wiskundigen verdeelden de (3 gelijke) hoeken van een gelijkzijdige driehoek in 60 eenheden, nu "graden" geheten. De "graad" werd verder opgesplitst in 60 minuten (ook wel boogminuten genoemd ter onderscheid van de minuut in tijd), en de minuut in 60 seconden (ook wel boogseconden genoemd).
+De Oude Grieken konden aan de hand van een hoek de omtrek van de Aarde bepalen, en de afstand tot de Maan. Pythagoras toonde aan dat de som van de hoeken in een driehoek 180° is.
+Tekenen van een hoek.
+Een van de drie klassieke problemen van de Grieken was de trisectie van een willekeurige hoek, enkel met passer en liniaal. Het was hun wel al gelukt een hoek in tweeën te delen en te verdubbelen, hoeken op te tellen en af te trekken, en bepaalde standaardhoeken (die van 90°, 60°, 72° 54°) te tekenen (de laatste drie uit een regelmatige drie- en vijfhoek). Daaruit kon een groot arsenaal afgeleide hoeken worden bepaald, maar niet alle hoeken! Pas veel later werd aangetoond dat de trisectie niet mogelijk is (Pierre Wantzel, 1837).
+Eenheden.
+Een rechte hoek formula_1 rad.
+Een cirkel omvat formula_2 rad.
+Een rechte hoek = 100 gon. Een cirkel omvat 400 gon.
+Conventies.
+In volgende figuur is formula_3, enkel de rotatiezin verschilt. Hoek formula_4 is dus positief, hoek formula_5 is negatief. Men spreekt van "gerichte hoeken"
+Hoeken in regelmatige veelhoeken.
+In het euclidische vlak geldt dat de som van de hoeken van een driehoek 180° (formula_7 rad) is, bij een vierhoek is de som 360° (formula_21 rad).
+Algemeen geldt voor een veelhoek met formula_22 zijden, dat de som van de inwendige hoeken formula_23 of formula_24° is.
+Op die manier kan eenvoudig afgeleid worden, dat de hoeken in een regelmatige driehoek (gelijkzijdige driehoek) 60° (formula_25 rad) zijn, in een regelmatige vierhoek (vierkant) 90° (formula_6 rad).
+Meer algemeen: de hoeken van een regelmatige "n"-hoek zijn elk formula_27° oftewel formula_28 rad.
+Berekenen.
+Alle gevallen worden omgezet in het eerste geval, een hoek tussen twee vectoren.
+Riemann-meetkunde.
+In de niet-Euclidische elliptische meetkunde van Bernhard Riemann die onder meer wordt toegepast in de algemene relativiteitstheorie wordt de metrische tensor gebruikt om de hoek tussen twee raaklijnen te bepalen. Met "U" en "V" raakvectoren en "g'ij" de komponenten van de metrische tensor "G" krijgen we voor de onderlinge hoek
+Gebruik.
+Rol (roll), gier (yaw) en stamp (pitch)-hoeken

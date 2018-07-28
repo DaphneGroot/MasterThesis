@@ -1,0 +1,5 @@
+Zeef van Eratosthenes.
+De zeef van Eratosthenes (bibliothecaris van Alexandrië vanaf ca. 240 v.Chr.) is een al zeer lang bekend algoritme om priemgetallen te vinden. Deze elegante methode is vooral efficiënt wanneer hij wordt gebruikt voor de kleinere priemgetallen. De methode vergt echter het bijhouden van alle getallen kleiner dan de gebruikte bovengrens, wat naarmate de te bepalen priemgetallen groter worden een steeds groter nadeel wordt.
+Methode.
+De getallen die op deze manier overblijven zijn alle priemgetallen tot het maximum.
+De procedure kan op enkele manieren versneld worden.

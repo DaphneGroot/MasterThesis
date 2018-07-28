@@ -1,0 +1,11 @@
+Debiet.
+Debiet is een natuurkundige grootheid voor een doorstromend medium uitgedrukt als de hoeveelheid van een vloeistof of gas per tijdseenheid. De grootheid wordt toegepast in de stromingsleer, hydrologie, geografie, civiele techniek, de meet- en regeltechniek en procestechniek. In de pomptechniek wordt vaak de term opbrengst gebruikt.
+De grootheid wordt doorgaans uitgedrukt in de eenheid m3/s. Maar waar dit in de praktijk leidt tot onhandige getallen, worden ook afgeleide eenheden gebruikt als m3/d, m3/h, l/s of l/h.
+Debiet kan in plaats van volume ook als massadebiet uitgedrukt worden (bijvoorbeeld als kg/s).
+Vloeistoffen.
+In de hydrologie staat debiet voor de hoeveelheid water die een rivier of beek per tijdseenheid transporteert of afvoert. Het jaar-gemiddelde debiet van de Rijn aan de Nederlands-Duitse grens bedraagt bijvoorbeeld 2200 kubieke meter per seconde.
+De debietmeter is een meetinstrument, waarmee het debiet van water gemeten kan worden door buizen en pijpen. Het debiet van grotere waterlopen kan alleen berekend worden uit dwarsdoorsnedes en stroomsnelheidsmetingen, of stijgsnelheden van de waterspiegel in bassins aan het eind van de waterloop (stuwmeren).
+In deze vorm heeft de formule een hydraulische analogie met de wet van Ohm (U = I · R) voor elektriciteit, waarbij Q ↔ U, A ↔ R en v ↔ I. Hierdoor kan stroming van water gemodeleerd worden in een analoge computer.
+De dwarsdoorsnede-gemiddelde stroomsnelheid in Rijntakken in Nederland varieert van 0,5 tot 1,5 m/s, corresponderend met een "A" van resp. 4400 tot 1500 m2.
+Gassen.
+Bij gassen onder druk wordt het debiet vaak teruggerekend naar het debiet bij atmosferische druk (101,3 kPa of 1,013 bar) en een standaardtemperatuur. Bij een druk van 100 bar is één m³ nog maar 10 liter. Het debiet van een aardgasput kan dan bijvoorbeeld 50 000 Nm³/dag zijn (waarbij de N staat voor 'Normaal'), het ongecorrigeerde debiet zou dan maar 500 m³/dag zijn.

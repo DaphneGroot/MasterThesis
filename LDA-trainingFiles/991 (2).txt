@@ -1,0 +1,35 @@
+Radio-ontvanger.
+Een radio-ontvanger, ook radiotoestel of kortweg radio genoemd, is een toestel dat via een externe of ingebouwde antenne radiogolven opvangt en de daarin aanwezige geluidsinformatie omzet in geluid. Het antennesignaal, dat door de zender gemoduleerd is met het geluidssignaal, wordt door de radio-ontvanger gedemoduleerd, waarbij het originele geluidssignaal gereconstrueerd wordt.
+Wereldontvanger.
+Een wereldontvanger is speciaal geschikt voor ontvangst van de korte golf en kan daardoor zenders van de hele wereld ontvangen.
+Een klassieke huiskamerontvanger kan meestal ook korte golf ontvangen, maar dat geschiedt enkel door een andere spoel in de afstemkring te schakelen.
+Het gevolg is dat dezelfde afstemschaal, die bij de middengolf de frequenties van 531 tot 1602 kHz omvat, ruim 100 zenders, na overschakeling op korte golf bijvoorbeeld frequenties van 4000 tot 12 000 kHz omvat, met ruimte voor 1600 zenders, die daardoor veel te dicht bij elkaar zitten en moeilijk te vinden zijn.
+Een echte wereldontvanger heeft meerdere golfgebieden voor de korte golf, waardoor het afstemmen gemakkelijker verloopt.
+Een moderne wereldontvanger werkt digitaal. De gebruiker hoeft geen golfgebied te kiezen maar kan volstaan met het intoetsen van de frequentie.
+Voor de hogere frequenties wordt vaak een dubbelsuper gebruikt om nauwkeuriger te kunnen afstemmen.
+Veel wereldontvangers zijn geschikt voor ontvangst van enkelzijbanduitzendingen.
+Bouwradio.
+Een bouwradio is een robuust uitgevoerde draagbare radio, die speciaal is ontwikkeld voor het gebruik op de werkvloer.
+De radio heeft een ingebouwde versterker en luidspreker.
+Kristalontvanger.
+Een kristalontvanger werkt zonder actieve componenten; er wordt gebruikgemaakt van een kristaldetector om de omhullende van het amplitude gemoduleerde signaal te detecteren. Met behulp van een koptelefoon kan het zo verkregen signaal beluisterd worden.
+Buizenradio.
+Deze werkt met radiobuizen als actieve (versterkende) component.
+De eerste ontvangers volstonden met een of twee buizen; dit waren rechtuit- of superregeneratieve ontvangers. Rond 1940 was de superheterodyne met een gangbaar aantal van vier buizen, met de komst van FM-radio werden dat er vijf. Met de komst van de stereo-ontvangers werd het aantal nog hoger door de vereiste decoder en de dubbele eindtrap, maar door de gelijktijdige opkomst van de transistor zijn er niet veel van zulke radio's voor de consumentenmarkt gebouwd.
+Professionele ontvangers, bedoeld voor veel banden en met een hoge gevoeligheid, konden wel 20 buizen hebben.
+In de jaren 70 van de vorige eeuw ging de buizenradio op zijn retour.
+Transistorradio.
+Nadeel van de eerste transistors was de kwaliteit en daarom was een huiskamertoestel in die tijd steeds met buizen uitgerust.
+Naarmate de transistors beter werden, werden ze ook in vaste toestellen toegepast.
+Een bijkomend voordeel van de transistor is dat hij direct bij het inschakelen werkt, terwijl een buis ongeveer 15 seconden nodig heeft om op te warmen.
+Dit was een voordeel dat bij de consument direct opviel.
+De eerste transistorradio's hadden 2 of 3 transistors. Later ontstonden er al snel radio's met 6 of zelfs 12 transistor. Dit waren eenvoudige enkelband AM-ontvangers. Van de transistors waren er soms veel als dummy (diodeovergang) in de schakeling gesoldeerd om als verkoopargument te dienen, De onwetende consument meende immers: hoe meer transistors, hoe beter. Een kostbare complexe ontvanger was voorzien van enige tientallen transistors.
+Radio met geïntegreerde schakeling.
+In een later stadium werden de transistors geïntegreerd in een of meer schakelingen. Het aantal actieve componenten werd hierdoor snel vele malen hoger en de omvang steeds kleiner.
+Radio.
+Sommigen spreken pas van een radio als het gaat om een volledig toestel in één behuizing. Alleen de antenne kan apart worden opgesteld.
+Een onvolledig toestel wordt 'receiver' of 'tuner' genoemd.
+Receiver.
+Een receiver is een radio-ontvanger met ingebouwde versterker, maar zonder luidsprekers. De luidsprekers moeten dus apart worden aangesloten.
+Tuner.
+Een tuner is een radio-ontvanger zonder versterker die als uitgang een lijnniveau heeft, die op een versterker moet worden aangesloten om de verschillende zenders te kunnen horen.

@@ -1,0 +1,11 @@
+Fianchetto.
+In het schaakspel is een fianchetto (van het Italiaanse "fianco", 'flank') de ontwikkeling van de loper op de lange diagonaal. Bij de witspeler wordt de loper naar het veld b2 of g2 gespeeld, en bij de zwartspeler naar de velden b7 of g7. Om dit voor te bereiden wordt meestal de zet b3, g3, b6 of g6 gespeeld. In sommige gevallen wordt de pion voor het fianchettoveld twee velden vooruit geschoven, waardoor de speler soms aanvalskansen krijgt, maar de positie van de gefianchetteerde loper meestal kwetsbaarder is.
+Strategie.
+Het nut van het fianchetto is dat de loper vanaf (bijvoorbeeld) g7 uitzicht heeft over de lange diagonaal, en daarmee ook op het centrum. Als een gefianchetteerde loper echter geblokkeerd wordt door een pion worden zijn mogelijkheden sterk beperkt. Vaak doet de speler die een fianchetto doet een concessie (hij geeft zijn tegenstander bijvoorbeeld een ruimtelijk voordeel) in ruil voor een open diagonaal.
+Omdat voor een fianchetto de pion moet worden opgespeeld ontstaan er vaak zwakke velden die niet meer gedekt worden door de pion, maar door de loper. Om deze reden wordt een gefianchetteerde loper vaak niet zomaar afgeruild. Zeker als de loper op de koningsvleugel gefianchetteerd wordt en vervolgens wordt afgeruild, ontstaan er gevaarlijke zwaktes op f3, h3 en g2 (of in het geval van zwart f6, h6 en g7). In sommige gevallen is een gefianchetteerde loper zelfs meer waard dan een toren.
+Fianchetto's komen vaak voor bij hypermoderne openingssystemen.
+Dubbelfianchetto.
+Bij "dubbelfianchetto" fianchetteert een speler beide lopers (zoals in diagram 1). Dit komt niet vaak voor aangezien één van de lange diagonalen meestal gesloten is, behalve in het geval van een open centrum; in dat geval hebben de lopers betere vooruitzichten als ze vlak bij het centrum staan en dus meerdere diagonalen bestrijken. Toch kan het dubbelfianchetto voorkomen in de Breyer-variant van het Spaans of in het geweigerd Wolgagambiet.
+Openingen.
+Voorbeelden van openingen die gebruikmaken van een fianchetto op g7 zijn het Koningsindisch, het Grünfeld-Indisch en de Drakenvariant van het Siciliaans.
+Diagram 1 toont een dubbelfianchetto door beide spelers.

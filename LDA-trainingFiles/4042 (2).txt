@@ -1,0 +1,7 @@
+Antigeluid.
+Antigeluid is een geluid dat een ander geluid opheft door een tegengestelde fase. De tegenfase kan ontstaan door reflectie, maar ook met elektronica en een luidspreker bewust gegenereerd worden. Met dat laatste is het mogelijk bestaand geluid te dempen, iets wat vooral bij lagere frequenties en monotone geluiden goed functioneert.
+Natuurkunde van geluid.
+Natuurkundig gezien is het principieel onmogelijk om een geluidsvermogen met een negatief geluidsvermogen op te heffen, omdat een negatief vermogen niet bestaat. Wel is het mogelijk om de amplitude van de luchtdrukvariatie op bepaalde plaatsen te verminderen door een luchttrilling toe te voegen met een inverse amplitude. Hoewel het geluidsvermogen ter plaatse niet vermindert, vermindert wel de drukvariatie, waar het oor gevoelig voor is.
+Voorkomen.
+Antigeluid komt in de natuur normaal voor in de vorm van reflecties van geluid. Statische geluiddempers die op dit principe werken worden al lang en veelvuldig toegepast. Reflectiedempers werken echter alleen op bepaalde frequenties die bij het ontwerp worden vastgelegd. Nieuw is dat met behulp van intelligente elektronica het mogelijk is complexe golven te dempen, voor zover ze voorspelbaar zijn voor het apparaat. In deze context is het begrip antigeluid ontstaan.
+Als antigeluid wordt toegepast in een gehoorapparaat is het mogelijk om met heel weinig vermogen ongewenst geluid effectief te dempen. Ook bij hoofdtelefoons wordt de techniek wel toegepast.

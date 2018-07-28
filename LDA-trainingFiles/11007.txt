@@ -1,0 +1,13 @@
+Konqueror.
+Konqueror is een opensource-webbrowser en bestandsbeheerder. Konqueror wordt meegeleverd met de desktopomgeving KDE en volgt ook exact de versienummering van KDE. Ook al kan Konqueror, als onderdeel van het basispakket van KDE (kdebase), door middel van Cygwin gecompileerd worden voor Microsoft Windows, draait Konqueror hoofdzakelijk op Linux en andere Unix-achtige besturingssystemen.
+De naam "Konqueror" komt van een spelletje met de namen van andere browsers. Eerst kwam de Navigator, dan de Explorer en dan de Conqueror, echter is dit met K geschreven vanwege de naamconventie van KDE.
+Integratie.
+Konqueror is sterk geïntegreerd in KDE. Met behulp van KParts kunnen andere KDE-toepassingen eenvoudig geïntegreerd worden in Konqueror de webbrowser of Konqueror de bestandsbeheerder. Dat verschil in functie kan ingesteld worden door middel van weergaveprofielen. Standaard wordt Konqueror geleverd met zes profielen, waarvan twee voor bestandsbeheer.
+De mogelijkheden van Konqueror worden vaak gedeeld met de rest van KDE. Het webbrowserdeel van Konqueror, KHTML, kan door middel van KHTMLPart ook eenvoudig geïntegreerd worden in andere KDE-applicaties.
+Bestandsbeheerder.
+Konqueror is de standaard-bestandsbeheerder in KDE, bestanden kunnen worden geopend, uitgevoerd, verplaatst, gekopieerd, verwijderd en bekeken. Door middel van KParts kunnen ook functies van andere programma's in Konqueror worden ingebed, zoals archiveren met het programma ArK of pdf-bestanden bekijken met KPDF.
+In KDE 4 is Konqueror als bestandsbeheerder vervangen door Dolphin, hoewel hij zijn mogelijkheden hiertoe wel behoudt.
+KHTML.
+Het deel van Konqueror dat zorgt voor het browsen (de layout-engine) heet KHTML. Dit onderdeel is vanaf KDE-versie 3.0 verder ontwikkeld in samenwerking met Apple, waarvan de Mac-browser Safari het resultaat is (WebKit).
+Acid2.
+Konqueror is de tweede webbrowser (na Safari) die geslaagd is voor de Acid2-test. Acid2 is een CSS/HTML-test gemaakt door het Web Standards Project.

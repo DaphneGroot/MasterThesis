@@ -1,0 +1,2 @@
+Stroomversterkingsfactor.
+Voor de meeste kleine transistors is de stroomversterkingsfactor 100 tot 500. Voor vermogenstransistoren is deze ongeveer tien keer zo klein.

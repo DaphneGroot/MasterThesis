@@ -1,0 +1,11 @@
+Amide.
+Eigenschappen.
+De binding van stikstof aan een atoom met een hoge partiële lading heeft tot gevolg dat het vrij elektronenpaar op stikstof nauwelijks beschikbaar is om de van ammoniak bekende waterstofbrug te vormen. Ook de eventuele waterstofatomen aan het stikstofatoom zijn tamelijk zuur.
+Voorkomen.
+Een belangrijke groep verbindingen waarin de amide-structuur optreedt zijn in de biologie/biochemie de eiwitten (poly-aminozuren). De figuur hiernaast geeft de structuur van de binding tussen twee aminozuren in een poly-aminozuur weer. R1 en R2 staan dan voor de aminozuurresten. In de chemische industrie zijn formamide, dimethylformamide en aceetamide belangrijke oplosmiddelen.
+De amidebinding komt voor in sommige typen kunstmatige polymeren, de polyamiden.
+In de biologie.
+Eiwitten zijn natuurlijke polyamiden met de 20 natuurlijke aminozuren als bouwstenen. Er zijn echter ook weinig voorkomende eiwitten zoals nisine, die andere aminozuren hebben ingebouwd. In de biochemie wordt het structuurelement van het amide vaak aangeduid als peptidebinding.
+De N-H van een amide is een goede donor van waterstofbruggen, de carbonylgroep een goede acceptor. Waterstofbruggen tussen de N-H en carbonylgroepen van verschillende amidebindingen geven aan eiwitten hun secundaire structuur: de basis van de natuurlijke opvouwing van eiwitten.
+Synthese.
+Het gedachte-experiment waarin ammoniak of een amine met een zuur reageert onder vorming van een amide en water verloopt in de praktijk niet makkelijk. In de praktijk wordt gebruikgemaakt van zuuranhydriden of zuurchlorides om de reactie de nodige snelheid te geven. Vaak is het dan weer nodig om de reagentia langzaam samen te voegen of zeer goed te koelen.

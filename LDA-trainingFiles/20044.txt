@@ -1,0 +1,12 @@
+Gestructureerd programmeren.
+Gestructureerd programmeren kan worden gezien als een subdiscipline van procedureel programmeren, een van de belangrijke programmeerparadigma's (en waarschijnlijk het populairste) voor het programmeren van computers.
+In de jaren zestig werd het langzaamaan duidelijk dat de complexiteit van computerprogramma's uit de hand begon te lopen. Programmeurs zagen door de bomen het bos niet meer.
+Goede programmeurs wisten door structureel te werken echter code te produceren die veel makkelijker te doorzien was. Het viel op dat bekwame programmeurs met name veel minder "GOTO"-statements gebruikten. Wetenschappers in de informatica, waaronder met name Edsger Dijkstra, Jean-Dominique Warnier en Michael A. Jackson, zagen de oplossing in het gestructureerd programmeren, waarbij het door nieuwe constructies in programmeertalen onnodig zou worden constructies als het "goto"-statement te gebruiken, waardoor de leesbaarheid van code veel beter werd.
+Hierbij staat S voor een opdracht (Statement) en B voor een logische expressie (Boolean).
+Men hoopte dat een en ander het bewijzen van de (wiskundige) correctheid van een programma mogelijk zou maken. Dat is echter tot op heden niet gelukt.
+Als alternatief voor het stroomdiagram werd het Nassi-Shneiderman-diagram uitgevonden. De restricties hiervan werken in het voordeel van het programmeren, het zijn dezelfde restricties die men moet hanteren met gestructureerd programmeren.
+Dit gestructureerde programmeren leidde tot een nieuwe generatie programmeertalen. Vrijwel al deze talen kennen het "goto"-statement en het label nog wel, maar het gebruik ervan wordt sterk afgeraden en bemoeilijkt door extra declaratieverplichtingen.
+Enkelvoudige keuzestructuur.
+Bij een keuzestructuur wordt een bepaald stuk code, afhankelijk van een voorwaarde, al dan niet uitgevoerd door de computer.
+Voorwaardelijke herhalingsstructuur.
+In het eerste geval kan het zijn dat de opdracht helemaal nooit uitgevoerd wordt (herhaling van 0 of meer keren), in het tweede geval wordt de opdracht minimaal één keer uitgevoerd.

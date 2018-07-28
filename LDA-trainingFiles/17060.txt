@@ -1,0 +1,4 @@
+Lolligambiet.
+Het Lolligambiet is een openingsvariant bij het schaken; dit gambiet is een variant in de schaakopening Koningsgambiet.
+De beginzetten zijn 1.e4 e5 2.f4 ef 3.Pf3 g5 4.Lc4 g4 5.Lxf7. Eco-code C 37.
+Het Lolligambiet dateert uit de 18e eeuw.

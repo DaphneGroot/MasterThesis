@@ -1,0 +1,15 @@
+Bug (technologie).
+Een bug is een fout in een computerprogramma of een website, waardoor het zijn functie niet (geheel) volgens specificaties vervult.
+Praktisch alle programma's van enige omvang bevatten bugs, maar de meeste worden niet als storend ervaren of treden alleen onder zeldzame omstandigheden op. Een van de bekendste bugs (of eigenlijk een verzameling bugs die onder dezelfde omstandigheid tot uitdrukking kwam) was de millenniumbug. De millenniumbug is echter geen echte bug, maar een voorbeeld van slechte specificaties.
+Het traceren en verwijderen van bugs wordt debuggen genoemd. Speciale software, de debugger, kan helpen bij het vinden van (de oorzaak van) een bug. Er bestaat ook hulpsoftware, vaak geïntegreerd in de ontwikkelomgeving, die verdachte constructies in de broncode kan signaleren voordat een fout in de werking van het programma tot uitdrukking komt.
+De eerste bug.
+De ontdekking van de eerste computerbug wordt wel (ten onrechte) toegeschreven aan Grace Hopper. Zij werkte in 1947 op de Harvard University. Bij het zoeken naar de oorzaak van een storing in de "Mark II Aiken Relay Calculator" vond een van de operators een nachtvlinder in relais nummer 70 op paneel F. Dit insect werd in het logboek geplakt, met als bijschrift "first actual case of bug being found" (eerste echte vondst van ongedierte).
+Volgens Grace Hopper zelf werd de term bug al gebruikt voor een storing in de radar tijdens de Tweede Wereldoorlog. In het Engels is het woord "bug" een algemene benaming voor ongedierte zoals kevers. Nadien vond men de term "debuggen" uit. Dit was het controleren of er geen ongedierte in de computer verscholen zat; later kreeg het de betekenis van het verwijderen van fouten uit programma-code.
+Het woord bug als term voor "fout" kan al ontstaan zijn in de 14e eeuw afgeleid van het Welsh woord *bwg* (Concise Oxford Dictionary of English Etymology).
+Webster's 10th Collegiate Dictionary beschrijft het woord bug in de betekenis "an unexpected defect, fault, flaw, or imperfection" met bronnen teruggaand tot 1622.
+In andere betekenissen gebruikt.
+De term bug wordt onder andere gebruikt voor semiautomatische seinsleutels sinds 1902.
+De fabrikant Vibroplex van seinsleutels had een kever in het logo.
+Ook afluistermicrofoontjes worden wel bugs genoemd.
+Oorzaken.
+Wanneer een programma (-onderdeel) anders wordt gebruikt dan volgens specificaties, kunnen storingen ontstaan die strikt genomen geen bugs zijn. Een spectaculair voorbeeld daarvan was de ramp met de Ariane 5-raket op 4 juni 1996, waarin software uit de (minder krachtige) Ariane 4 werd hergebruikt maar niet met alle daarvoor benodigde aanpassingen.

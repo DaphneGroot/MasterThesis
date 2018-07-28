@@ -1,0 +1,4 @@
+Fasemodulatie.
+Fasemodulatie (PM = "Phase Modulation", PSK = "Phase Shift Keying") is een modulatietechniek waarbij de fase-hoek van de draaggolf door het modulerend signaal gemoduleerd wordt. Fasemodulatie lijkt op frequentiemodulatie omdat de afgeleide van de fase de frequentie zelf is.
+De ontvangst van een PM-gemoduleerd signaal is (voor spraaksignalen) ook mogelijk met een FM-ontvanger. Het is dan wel beter om een eerste-orde integrerend filter na de demodulatie toe te passen, om het verschil tussen fase- en frequentiemodulatie op te vangen.
+Fasemodulatie wordt toegepast voor transmissie van digitale signalen zoals in modems en bij digitale geluidssynthese.

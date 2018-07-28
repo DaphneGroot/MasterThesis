@@ -1,0 +1,5 @@
+Oz (programmeertaal).
+Oz is een "multi-paradigma"-programmeertaal. Dat betekent dat er verschillende complementaire programmeertechnieken en -concepten door elkaar kunnen worden gebruikt. In de praktijk leidt dat tot een gelaagde set van gaandeweg meer expressieve technieken, waarbij concepten uit een eerder "paradigma" aangevuld worden met nieuwe mogelijkheden.
+Mozart is een opensource-implementatie van die programmeertaal, die gratis beschikbaar is voor de meeste besturingssystemen (Unix, Apple Macintosh, Linux, Win32).
+Het recente boek "Concepts, Techniques, and Models of Computer Programming"
+van Peter Van Roy and Seif Haridi maakt gebruikt van Oz om de progressieve opbouw van technieken en modellen te illustreren.

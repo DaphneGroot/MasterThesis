@@ -1,0 +1,13 @@
+Flipflop.
+Een flipflop bestaat uit 2 transparante latches
+De flipflop of bistabiele multivibrator of geheugenelement met dubbele excitatie is een digitale elektronische schakeling. Het element fungeert als een schutsluis voor data. De logische toestand van de uitgangen kan uitsluitend veranderen tijdens een actieve flank op de klokingang. Het element heet daarom ook wel flankgevoelig data-element.
+De schakeling bestaat uit twee na elkaar geschakelde transparante latches ofwel elementen met enkele excitatie. Hiervan zijn de stuuringangen zodanig gekoppeld, dat steeds een van de elementen dicht is; tijdens een flank zijn beide kortstondig dicht. De term dubbele excitatie verwijst naar de twee toestanden die het element hierbij na elkaar doorloopt. De gecombineerde stuuringangen heten samen de klokingang. Het eerste element wordt wel "meester" genoemd, de tweede "slaaf". De flipflop heet daarom ook wel meester-slaaf-element "(Engels: master-slave element)".
+Een flipflop heeft een klokingang "C", een, twee of geen synchrone gegevensingangen (data-ingangen), en minimaal één uitgang. Een tweede uitgang is vaak het tegengestelde van de eerste.
+Typen.
+Er zijn diverse typen flipflops, afhankelijk van hoe de data-ingangen intern met de rest van de schakeling verbonden zijn. In de volgende schakelformules en waarheidstabellen is "Q" de uitgang, "n" de oude toestand en "n+1" de nieuwe.
+Alle data-ingangen kunnen ook in geïnverteerde vorm voorkomen. Als bijkomstigheid kunnen alle typen asynchrone ingangen bezitten. Deze grijpen direct in op de uitgangen, dus onafhankelijk van de klokingang. Zo'n schakeling is een combinatie van een flipflop en een set-reset-element.
+Elektronische implementatie.
+IEC-symbool van een JK-flipflop met complementaire uitgangen, negatieve actieve flank en asynchrone reset
+Flipflops worden, meestal in groepen en in combinatie met andere logische schakelingen, als geïntegreerde schakeling, uitgevoerd. Meestal is het positieve logica; een logische 1 correspondeert met een hoge spanning. Het type 7474 uit de TTL-serie 74xx is een voorbeeld van een dubbele D-flipflop.
+Verwarring.
+Het woord "flipflop" wordt soms als verzamelnaam voor alle bistabiele elementen (bistabiele multivibratoren) gebruikt. Het gaat hierbij om asynchrone geheugens, (transparante) latches en flipflops in de zin van dit artikel. Databladen noemen doorgaans alleen de flankgevoelige elementen flipflops.

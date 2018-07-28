@@ -1,0 +1,4 @@
+Analoog geluid.
+Analoog geluid is een term die, net als digitaal geluid, niet helemaal correct is. Er wordt doorgaans een elektrische vorm van geluid mee bedoeld en niet een fysische trilling in een medium.
+Geluid kan in deze vorm gebracht worden met behulp van een transducer (voorbeeld van zo'n transducer is een microfoon, die met een bepaalde regelmaat (frequentie) de amplitude van een luchtdruktrilling meet en omzet naar een elektrisch signaal (dat dus ook met diezelfde frequentie varieert).
+Digitaal geluid is echter niet hoorbaar, het moet worden omgezet naar analoog geluid voordat men het kan horen. Het geluid van een auto, een drilboor, het vallen van bladeren; het bereikt ons oor als analoog geluid. Dit geluid bestaat uit golven, die het oor registreert en doorstuurt naar de hersenen.

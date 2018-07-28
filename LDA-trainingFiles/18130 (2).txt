@@ -1,0 +1,11 @@
+Watersport.
+rect 4 1 966 635 Schoonspringen
+rect 0 643 969 1247 Synchroonzwemmen
+rect 0 1248 970 1982 Zeilen
+rect 967 1346 2145 1987 Drakenbootrace
+rect 2143 1347 3062 1987 Kajakken
+rect 969 0 2044 644 Surfen
+rect 969 643 2051 1346 Zwemmen
+rect 2047 652 3062 1347 Roeien
+rect 2044 0 3062 650 Waterpolo
+Watersport is in brede zin een verzamelnaam voor vormen van sport die in of op het water beoefend worden. In engere zin staat het alleen voor die vormen van sport waarbij met een boot of (surf)plank gevaren wordt.

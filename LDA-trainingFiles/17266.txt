@@ -1,0 +1,7 @@
+Variabele.
+Een variabele is in de wiskunde de aanduiding voor een willekeurig element van een verzameling. Men zegt wel dat de variabele de verzameling "doorloopt", of dat de variabele "waarden aanneemt" in die verzameling. Een variabele wordt meestal voorgesteld door een letter, maar soms door meer dan één letter uit het alfabet; ook letters uit andere alfabetten worden gebruikt.
+Reële variabele.
+In de definitie van de functie formula_1, met formula_2, is "x" de onafhankelijke variabele die de reële getallen doorloopt.
+Definiëren we "f(x)" niet als "3x", maar als "ax" voor zeker getal "a", dan is "a" geen variabele, maar een constante. Wel kunnen we voor "a" elke waarde kiezen, maar eens gekozen is de waarde voor "a" voor deze functie "f" onveranderlijk.
+Booleaanse variabele.
+Een variabele die enkel de waarden "0" en "1" kan aannemen.

@@ -1,0 +1,4 @@
+Schara-/Henniggambiet.
+Het Schara-/Henniggambiet is in de opening van een schaakpartij een variant binnen het geweigerd damegambiet. De variant is geanalyseerd door de twee schakers Alexander Schara en Heinrich von Hennig. Het gambiet wordt ook wel ingedeeld bij de schaakopening Tarrasch.
+De beginzetten zijn: 1.d4 d5 2.c4 e6 3.Pc3 c5 3.cd cd
+Eco-code D 32 en het gambiet is ingedeeld bij de gesloten spelen.

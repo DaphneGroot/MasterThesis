@@ -1,0 +1,5 @@
+Parts per billion.
+Parts per billion, ook wel bekend onder de Engelse afkorting ppb, is een natuurkundige eenheid die staat voor "delen per miljard".
+Deze maat is duizend keer kleiner dan de parts per million (ppm) en een miljoen keer kleiner dan de promille en wordt vooral gebruikt in de analytische chemie
+Wie duizend liter water met 1 ppb strychnine drinkt, krijgt 1 milligram van dit gif naar binnen. Hoewel dit weinig lijkt, zijn er stoffen die in zulke kleine hoeveelheden schadelijk zijn dat er een maat is die nog een factor duizend kleiner is, de parts per trillion (ppt).
+Voor een aantal stoffen bestaan tegenwoordig detectiemethoden die zo gevoelig zijn dat dit inderdaad kan worden gemeten.

@@ -1,0 +1,6 @@
+Deelverzameling.
+Een Venndiagram van verzameling A als deelverzameling van B.B omvat A.
+Iedere verzameling is een deelverzameling van zichzelf, voor iedere verzameling "A" geldt dus formula_3.
+De omgekeerde definitie is minder gebruikelijk. Uitgaande van dezelfde verzamelingen "A" en "B" zeggen we: "B" omvat "A", genoteerd als formula_4.
+Verschillende schrijfwijzen.
+De meeste auteurs noteren formula_11 als formula_5 een willekeurige deelverzameling van formula_6 is, dus eventueel formula_15.

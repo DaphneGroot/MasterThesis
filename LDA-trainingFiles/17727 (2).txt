@@ -1,0 +1,6 @@
+Boltzmannconstante.
+De constante van Boltzmann wordt gebruikt in de snelheidsverdelingswet van Maxwell-Boltzmann. Die geeft de verdeling van de snelheden van de moleculen in een gas weer.
+De algemene gasconstante "R" is de boltzmannconstante vermenigvuldigd met de constante van Avogadro "NA". Er kan dan in mol gerekend worden in plaats van in aantallen deeltjes, wat bruikbaarder is in de praktijk. De waarde van "R = k·NA" is 8,314 472 J/(mol·K).
+In een thermodynamisch systeem in evenwicht bij de absolute temperatuur "T" volgt uit het equipartitiebeginsel dat de thermische energie gemiddeld gelijk is aan ½"kT" per vrijheidsgraad. Voor een beweging in één dimensie is de thermische energie per deeltje ½"kT". De gemiddelde thermische energie van een deeltje van een ideaal gas, dat in drie dimensies beweegt zonder interne vrijheidsgraden, is 3/2 "kT". De energie "kT" bij 300 K, of 27 °C, is 4,14·10−21 J, of 25,9 meV.
+Toekomst.
+Volgens de voorgestelde herdefinitie van de basiseenheden, waaronder ook een herdefinitie van de kelvin, zal de boltzmannconstante een bepaalde exacte waarde krijgen.

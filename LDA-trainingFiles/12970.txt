@@ -1,0 +1,25 @@
+Slowscantelevisie.
+Slowscantelevisie (afgekort SSTV) is een vorm van televisie die wordt gebruikt door zendamateurs. Bij SSTV wordt één zwart-witbeeld in ongeveer 7 seconden tijd overgezonden. Tegenwoordig stuurt men meestal beelden met kleur met resolutie 320x256, wat dan ongeveer 2 minuten duurt. Hierdoor is het dus alleen geschikt voor stilstaande beelden.
+Door de lage snelheid is het signaal geschikt om over een normaal spraakkanaal te versturen zoals een radiozender met een audio-bandbreedte van 3 kHz. Hierdoor is SSTV zelfs geschikt om over de HF-banden te worden verstuurd.
+SSTV is eind 1957 ontwikkeld door Copthorn MacDonald (YV2CM). De eerste apparatuur werd in de herfst van 1957 getest op de 11 meterband. De eerste gepubliceerde beschrijving van het systeem was het artikel in twee delen in QST, dat in de augustus- en septembernummers verscheen.
+Naast SSTV is er ook nog ATV, amateurtelevisie, dat voldoet aan de normen voor "normale" tv-zenders. Met ATV wordt wel een bewegend beeld uitgezonden.
+Werking.
+Om SSTV te verzenden en ontvangen, wordt er bijna altijd gebruikgemaakt van een pc met een geluidskaart. De computer zet een afbeelding om in een SSTV-signaal door iedere kleur zijn eigen toonhoogte te geven en zo rij voor rij de afbeelding te versturen met een zender. Aan de andere kant wordt het signaal opgevangen met een geschikte ontvanger, en via de lijningang van een geluidskaart in een computer wordt het met speciale software weer omgezet naar een afbeelding.
+SSTV-modi.
+SSTV kan uitgezonden worden in verschillende "modi".
+Robot, Martin en Scottie zijn de meest bekende en gebruikte.
+In Europa gebruikt men meer Martin en in de Verenigde Staten en Japan gebruikt men vaker Scottie.
+Er zijn nog vele andere modi, maar deze worden bijna nooit gebruikt.
+Contacten leggen.
+Net zoals bij elke hamradiomodus kan iemand twee dingen doen om een QSO (gesprek) te voeren. Men kan "CQ (algemene oproep) roepen" op een oproep-frequentie: dit wordt gedaan door een afbeelding te sturen met daarbij de tekst CQ of CQSSTV en de eigen call-sign. Een ander station kan dan de oproep beantwoorden. Men kan ook "luisteren" op een oproep-frequentie en een CQ-oproep beantwoorden.
+Vermogens.
+Sommige zenders en versterkers kunnen hun volledige vermogen niet voor langere tijd gebruiken zonder oververhit te raken.
+Jargon.
+Zoals bij elke hamradiomodus wordt er ook bij SSTV gebruikgemaakt van de 'Q-code' en andere afkortingen zoals 73 (groeten), de (van), TNX (bedankt). Amateurs gebruiken dit deels uit gewoonte maar ook om plaats te besparen. Voorbeeld: "TNX QSO, QRT, 73 de AB1CDE". Dit wil zeggen "Bedankt voor het gesprek, ik stop met uitzenden, groetjes van AB1CDE"
+Ontvangstrapport.
+Een ontvangstrapport, bij SSTV ook wel RSV-rapport genoemd, wordt vaak verzonden bij het antwoorden van een oproep. RSV staat voor Readability (leesbaarheid), Signal Strength (signaalsterkte) en Video Quality (beeldkwaliteit).
+De maximumscore die aan een ontvangen beeld kan gegeven worden, is dus R5, S9 en V5. Dit doet men in één getal, bijvoorbeeld: "AB1CDE 595 de FG2HIJ". Hier geeft FG2HIJ een score van R5, S9 en V5 aan AB1CDE, wat dus wil zeggen dat FG2HIJ het beeld perfect ontvangen heeft met een sterk signaal.
+Luisteren.
+Om te luisteren op de hamradio-frequenties is er in de meeste landen geen vergunning vereist. Luisteramateurs kunnen dus meeluisteren en beelden ontvangen. Ze mogen echter zelf geen beelden uitzenden.
+SSTV-gedragsregels.
+Halve beelden met een klein beetje tekst zijn niet gewenst. Hierdoor moet de software van het tegenstation steeds opnieuw beginnen en dit haalt logboeken overhoop.

@@ -1,0 +1,6 @@
+Upgrade.
+Bij computers is een upgrade het vervangen van oude hardware of software door modernere hardware of software om een systeem weer "up-to-date" te maken.
+Verschil update en upgrade.
+Bij "software" spreekt men van twee termen met een net iets andere betekenis.
+Downgrade.
+Als men terugvalt op een oudere versie wordt dat een "rollback" of "downgrade" genoemd.

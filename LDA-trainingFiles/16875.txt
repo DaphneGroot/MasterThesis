@@ -1,0 +1,4 @@
+Stauntongambiet.
+Het Stauntongambiet kan worden gespeeld in de opening van een schaakpartij. Dit gambiet werd geanalyseerd door Howard Staunton (1810 - 1874) de grote Britse officieuze wereldkampioen uit de 19e eeuw en het blijkt een sterk antwoord te zijn op de schaakopening Hollands. In 1847 speelt Howard zijn gambiet voor het eerst tegen Bernard Horwitz.
+De beginzetten zijn 1.d4 f5 2.e4 fxe4
+en het gambiet is ingedeeld bij de halfgesloten spelen

@@ -1,0 +1,43 @@
+Lettertype.
+"Specimen" van een set fonts van letterontwerper William Caslon in Chambers' "Cyclopaedia" (1728)
+Een lettertype, ook wel aangeduid met de Engelse term "font", is in de typografie een stilistisch samenhangende set tekens die meestal letters, cijfers en leestekens uitbeelden. De set kan ook andere symbolen bevatten of geheel daaruit bestaan, zoals in het geval van wiskundetekens. Veel tekstverwerkers geven de gebruiker de mogelijkheid verschillende lettertypen te kiezen, zoals "Times New Roman", "Calibri", "Helvetica", "Arial" of "Courier".
+Een lettertype is een verschijningsvorm van een letterfamilie (Engels: typeface). Het lettertype "Times" kan voorkomen in verschillende fonts, zoals 10 punts italic, 7 punts vet, e.d. Het woord 'font' hangt samen met het Latijnse woord voor gieten, en verwijst naar de in lood, antimoon en tin gegoten zetletters.
+Algemeen.
+Er zijn verschillende systemen bedacht om lettertypen in te delen. Een zo'n classificatiesysteem is de chronologische volgorde. Maar alleen al in de 20e eeuw zijn zoveel lettertypen ontworpen, dat dit systeem niet toereikend is. De tot nu toe meest gebruikte classificatie, de zogenaamde Vox-classificatie, schept enige orde, maar is niet geheel consequent. Ook de vereenvoudigde classificatie wordt vaak gebruikt.
+Vox-classificatie.
+De Vox-classificatie is ontworpen door de Franse typograaf Maximilien Vox.
+Een groot voordeel van de Vox-classificatie is dat daarin kunstmatige termen gebruikt worden, die niet historisch belast zijn met andere typografische namen en betekenissen, die gemakkelijk tot misverstanden kunnen leiden. Wel spelen die termen in op meer bekende typografische termen en namen, zodat de hoofdkenmerken van de letter toch duidelijk wordt weergegeven. Voordeel is ook dat de terminologie internationaal gebruikt kan worden.
+Breedte.
+Lettertypen worden ook onderscheiden in typen met variabele en met vaste breedte. Men spreekt van proportioneel en 'niet-proportioneel' (monospace) lettertype. Bij een proportioneel lettertype zijn niet alle letters even breed. Zo neemt de 'l' minder ruimte in beslag dan de 'm'. Bij een lettertype met vaste breedte nemen alle letters evenveel ruimte in.
+Historisch gezien werden niet-proportionele lettertypes gebruikt op schrijfmachines. In de oertijd van de computer waren alleen deze lettertypen met vaste breedte beschikbaar voor de lay-out van teksten op de computer. Tegenwoordig wordt vooral met lettertypen met variabele breedte gewerkt, omdat dit rustiger leest.
+"Courier New" is een lettertype met vaste breedte dat op veel systemen aanwezig is.
+corps.
+Corps is de grootte van de letter, en ook de minimale afstand van regels tekst onderling. In vroeger tijden was dat de hoogte van het letterstaafje. Deze wordt gemeten in typografische punten. Gebruikelijke corpsen zijn: 5, 6, 8, 9, 10, 12, 14, 16, 18, 20, 24, 36, 48, 60, 72 punten.
+letterbeeld.
+Binnen een lettertype wordt onderscheid gemaakt tussen: kapitalen of hoofdletters, "onderkast" of kleine letters. Daarnaast bestaan er nog de "kleine kapitalen" die als tekst-letters werden gebruikt.
+De onderkast of kleine letters kunnen worden ingedeeld in
+De verhouding tussen de lengte van de stokken, de lengte van de staarten en de "x-hoogte", dat alles is in hoge mate bepalend voor het uiterlijk van een letter.
+De "Times New Roman" is bekend vanwege de vrij korte staartletters. Er moest zo veel mogelijk tekst op de krantenpagina. Door de staartletters kort te maken, kon de regelafstand worden verkleind, terwijl toch het letterbeeld vrij groot bleef. Dat wordt voor een groot deel bepaald door de "x-hoogte".
+De Monotype Corporation in Engeland was bovendien zeer wel in staat om verlengde staartletters of "descenders" te leveren. Een tekst gegoten met dergelijke matrijzen, levert een pagina, die heel anders van "kleur" is. Nog een term die onder drukkers gebruikt wordt om het uiterlijk van een tekst-pagina met een bepaalde letter te karakteriseren.
+Een andere letter die juist opvalt door zijn lange stokletters is de "Egmond", getekend door S.H. de Roos, een Nederlands letter-ontwerper in de 20e eeuw. (14-09-1877 - 3-04-1962)
+Als de bovenzijde van de letter is afgedekt, is het bijzonder moeilijk de regel nog te lezen, eigenlijk kan er slechts naar worden geraden.
+Schreef.
+Schreef is de term voor het dwarsstreepje aan de uiteinden van de rechte en soms ook ronde vormen van de letter.
+Schreefloos.
+Letters uit deze familie bestaan uit overal even dikke lijnen; aan de uiteinden ontbreken de dwarsstrepen: zonder schreef.
+Egyptiennes.
+Bij deze letters zijn de schreven even dik (of soms zelfs dikker) als de stokken van de letters. De stokken zijn recht en overal even dik. Deze letters kwamen in zwang in de tijd van de veldtocht van Napoleon Bonaparte in Egypte. De chocoladeletters op het Sinterklaasfeest behoren tot deze groep.
+Kleinkapitalen.
+Sommige lettertypen bestaan geheel uit kleinkapitalen. Deze worden voornamelijk gebruikt voor briefhoofden, familiedrukwerk en naamkaartjes.
+Ergonomie.
+Een proportioneel lettertype (boven, niet alle tekens zijn even breed) en een niet-proportioneel lettertype (onder, met gelijke tekenbreedte)
+Lettertypen als "Times New Roman", "Arial" en "Helvetica" zijn populair omdat ze makkelijk leesbaar zijn vanaf papier. Deze lettertypen zijn echter niet ontworpen voor een computerscherm. Vandaar dat Microsoft speciaal twee lettertypen heeft laten ontwerpen door Monotype die ergonomisch geschikt zijn om van een beeldscherm gelezen te worden. Dit zijn "Verdana" (schreefloos) en "Georgia" (met schreef).
+Het gebruik van veel verschillende lettertypen door elkaar geeft een storend effect. Om dezelfde reden is het af te raden om grote delen van een tekst vet of "cursief" weer te geven. Wel kan het verhelderend zijn om speciale stukken tekst, zoals citaten of voorbeelden, consequent een ander lettertype te geven. Men dient dit echter met mate toe te passen.
+In drukwerk, zoals in kranten, worden voor de koppen soms andere lettertypen gebruikt dan in de lopende tekst.
+Er zijn ook speciale lettertypen voor bepaalde toepassingen, zoals voor telefoonboeken. Voor stripboeken worden speciale individuele fonts ontworpen naar het handschrift van de tekenaar of diens tekenstijl.
+Typestyle, typefaces en fonts.
+De correcte Engelse vertaling voor 'lettertype' is "typestyle" of "typeface family". Onder invloed van de personal computers wordt dit echter steeds vaker "font" genoemd. Officieel is dit echter incorrect, en is een font een combinatie van grootte en "typeface". Een typeface is een normale, cursieve of vette variant van een lettertype.
+Bijvoorbeeld: Times New Roman is een "typestyle", "Times New Roman Italic" is een "typeface" en "Times New Roman Italic 9pt" is een "font".
+In het Nederlands is dit onderscheid minder duidelijk en noemen we dit alles gewoon lettertype. Nederland heeft een rijke traditie in het ontwikkelen van lettertypes. Letterontwerpen wordt aan de Haagse Koninklijke Academie van Beeldende Kunsten als vak onderwezen.
+Verdere talen.
+Veel computers hebben een beperkt aantal lettertypen waardoor ze talen als het Khmer, Thai, Georgisch, Russisch of het Cherokee niet kunnen afbeelden. Het vinden van geschikte lettertypen is vaak een tijdrovende bezigheid. Het Alphabetum is een font dat veel oude geschriften als runen en sanskriet ondersteunt. Het Titus tracht alle Unicode glyphs in een font te verenigen.

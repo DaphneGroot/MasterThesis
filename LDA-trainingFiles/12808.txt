@@ -1,0 +1,22 @@
+Patstelling.
+Een patstelling of kortweg pat is een stelling in het schaakspel, waarin
+de speler die aan zet is, geen reglementaire zet kan doen en niet schaak staat. Hierbij moet worden bedacht dat het schaakzetten van de eigen koning een onreglementaire zet is. Er is bij een patstelling geen winnaar, de partij eindigt in remise.
+Door de regel voor pat zijn er situaties waarin "kracht" onvoordelig is en "zwakte" voordelig. Voor de speler die sterk staat, is remise onvoordelig, hij wil daarom een patstelling voorkomen. Als de tegenstander vrijwel geen materiaal meer heeft, maar nog niet opgeeft, moet de potentiële winnaar behoedzaam spelen en opletten dat hij geen pat veroorzaakt. Het kan - vooral voor beginners - veiliger zijn schaak te geven, want dan is het zeker geen patstelling. Voor de speler die zwak staat, is remise voordelig. Hij kan proberen zich in een patstelling te manoeuvreren, doordat hij bijvoorbeeld zijn resterende stukken offert, zoals het geval is bij een dolle toren.
+Het is mogelijk dat een speler pat staat, terwijl hij nog veel stukken op het bord heeft, maar dat is zeldzaam. Een speler die pat staat, heeft vaak alleen nog de koning. Eventueel heeft hij nog enkele andere stukken, bijvoorbeeld pionnen die door een ander stuk geblokkeerd zijn of absoluut gepende stukken.
+Een misverstand: pat is dat de koning niet kan zetten.
+Een wijdverbreid misverstand onder beginnende schakers is dat er sprake is van pat, als de koning geen reglementaire zet kan doen en niet schaak staat. Dat kan niet juist zijn, want die situatie doet zich in de aanvangsstelling al voor. Het is in werkelijkheid niet pat als er nog minstens een stuk is dat kan spelen. Toch wordt er soms in het eindspel een niet-aanwezig pat geclaimd als de koning geen reglementaire zet kan doen, maar er andere stukken zijn die dat wel kunnen. Het is pas pat wanneer de speler "geen enkele" reglementaire zet ter beschikking heeft, van welk stuk dan ook; als de speler stukken heeft waarmee kan worden gespeeld, is het geen pat.
+Een ander misverstand: je verliest, als de koning geslagen wordt.
+Beginners leren vaak dat het spel verloren is als de koning geslagen wordt.
+Volgens deze regel zou het toegestaan zijn de eigen koning schaak te zetten of een schaak niet op te heffen - maar verstandig is het natuurlijk niet.
+Volgens de officiële regel is het niet geoorloofd de eigen koning schaak te zetten.
+Deze regel lijkt gemaakt te zijn om de spelers tegen blunders te beschermen.
+Voor de praktijk van het schaakspel is het enige verschil dat een speler zich op pat kan beroepen doordat hij geen enkele reglementaire zet tot zijn beschikking heeft.
+Zou deze regel niet bestaan, dan zou je bij een patstelling meestal gedwongen zijn je eigen koning schaak te zetten waarna hij door de tegenstander geslagen wordt.
+Promotie.
+Als een pion de overkant bereikt, promoveert hij naar keuze tot dame, toren, loper of paard. Het lijkt niet erg zinvol een toren of loper te kiezen (minorpromotie), want die stukken kunnen niets wat een dame niet kan. Door de patregel is dat soms toch gunstiger: er zijn situaties waarin een dame tot pat leidt, dus tot remise, terwijl met een toren of loper de tegenstander kan worden matgezet.
+Geschiedenis van pat.
+De regel omtrent pat heeft een levendige ontstaansgeschiedenis. In een van de voorlopers van het moderne schaken, Chaturanga, betekende pat een nederlaag voor de speler die de zet uitvoerde die tot pat leidde; in een andere voorloper, Shatranj, betekende het juist een overwinning.
+Er zijn stemmen opgegaan om de regels te veranderen, zodat pat betekent dat de speler die pat staat, de partij verliest. Het effect van een dergelijke regel zou zijn, dat er meer nadruk komt te liggen op het materiaal dat zich op het bord bevindt. Een pion extra zou een veel groter voordeel inhouden dan met de huidige regels, bijvoorbeeld zou koning en pion tegen koning "altijd" winst betekenen, tenzij de verdedigende koning de pion zou kunnen veroveren.
+Figuurlijke betekenis.
+In overdrachtelijke zin is er sprake van een patstelling, als, bijvoorbeeld bij onderhandelingen, geen van beide partijen nog een stap kan zetten om tot overeenstemming te komen. Het woord betekent dan dat er een impasse is ingetreden.
+De Van Dale benoemt dit als: "moeilijke positie waaruit men zich niet kan redden".

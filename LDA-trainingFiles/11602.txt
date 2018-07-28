@@ -1,0 +1,2 @@
+Gemiddelde absolute afwijking.
+De gemiddelde absolute afwijking is het gemiddelde van de absolute waarden van de afwijking van elke meting ten opzichte van het gemiddelde van de gegevensset. De gemiddelde absolute afwijking geeft een indicatie van de spreiding van een gegevensset in het geval de variantie of standaardafwijking niet voldoet.

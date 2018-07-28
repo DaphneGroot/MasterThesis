@@ -1,0 +1,6 @@
+Neutronenstraling.
+Neutronenstraling is in de kernfysica de term voor het vrijkomen van neutronen, meestal met hoge kinetische energie, bij de transformatie van atoomkernen, zoals plaatsvindt bij kernsplijting of kernfusie.
+De vrijgekomen hoog-energetische neutronen kunnen op hun beurt andere atoomkernen treffen en met deze reageren (men spreekt van "activeren"), dat wil zeggen omzetten in een (vaak instabiel) isotoop, ofwel bij zware atoomkernen tot splijting van de getroffen kern leiden. In het laatste geval kan er een kettingreactie optreden.
+In een kernreactor wordt dit proces beheerst, onder andere door een deel van de vrijgekomen neutronen weg te vangen met behulp van een neutronen-absorberend materiaal (in een regelstaaf) zodat het aantal kernsplijtingen per tijdseenheid constant blijft.
+In een kernbom wordt juist gestreefd naar een zo groot mogelijke toename in kernreacties in zo kort mogelijke tijd.
+Neutronenstraling is gevaarlijk voor levende organismen, omdat het door neutronenvangst radioactiviteit in het lichaam zelf kan induceren.

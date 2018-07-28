@@ -1,0 +1,3 @@
+Spanningsbron.
+Een spanningsbron is een elektrische of elektronische schakeling die een elektrische spanning afgeeft waarvan de grootte bij het aansluiten van een elektrische belasting niet afneemt. Met andere woorden, als er een stroom gaat lopen blijft de spanning tussen de twee aansluitpunten van de spanningsbron gelijk. De stroomsterkte die de spanningsbron levert, wordt bepaald door de aangesloten belasting.
+In de praktijk noemt men een apparaat dat de ideale spanningsbron min of meer benadert, ook wel spanningsbron. Voorbeelden daarvan zijn een batterij, een accu, een dynamo en een gestabiliseerde voeding voor een elektronisch apparaat.

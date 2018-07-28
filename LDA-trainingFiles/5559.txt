@@ -1,0 +1,9 @@
+Softwarelicentie.
+Een softwarelicentie is een vergunning om een computerprogramma van iemand anders te gebruiken.
+Computerprogramma's zijn auteursrechtelijk beschermd. De precieze wettelijke regels kunnen van land tot land verschillen, maar over het algemeen schrijven ze voor dat het programma niet mag worden vermenigvuldigd of openbaar gemaakt. Het installeren van een programma, vanaf een schijfje of vanaf het internet, geldt als een vorm van vermenigvuldigen.
+Licentievoorwaarden.
+De vergunning om een computerprogramma te mogen gebruiken wordt vastgelegd in een contract, de licentie, en bevat veelal beperkende voorwaarden ten aanzien van het kopiëren van het programma of het aantal gebruikers dat gelijktijdig het programma mag gebruiken. Veelal wordt voor het benutten een vergoeding verlangd door diegene die de auteursrechten bezit.
+Een zogenaamde "end-user license agreement" (EULA) is een overeenkomst naar Amerikaans recht, die de "eindgebruiker", een particulier persoon, moet aangaan met de eigenaar van het programma.
+Doordat softwarelicenties juridisch gezien contracten zijn, kunnen computerprogramma's onder meerdere licenties gelijktijdig uitgegeven worden. Sommige softwareontwikkelaars (zoals Qt Development Frameworks) verspreiden hun applicaties bijvoorbeeld gratis onder de GNU General Public License en verkopen daarnaast de software onder een licentie die het combineren van hun software met propriëtaire software wel toestaat.
+Vrije software.
+Bij vrije software en opensourcesoftware krijgt de gebruiker, naast een onbeperkt gebruiksrecht, ook de broncode van het programma en mag deze vrijwel zonder beperkingen wijzigen en opnieuw uitgeven (zie verder aldaar en in de tabel hieronder).

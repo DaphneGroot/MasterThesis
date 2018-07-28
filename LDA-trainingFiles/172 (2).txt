@@ -1,0 +1,4 @@
+Computernetwerk.
+Een computernetwerk is een systeem voor communicatie tussen twee of meer computers. De communicatie verloopt via netwerkkabels of via een draadloos netwerk. In de netwerktopologie worden fysieke en logische topologieën onderscheiden. Men spreekt van een LAN in het geval van lokale plaatsgebonden bekabeling waarop computers binnen één gebouw of een campus aangesloten worden en een WAN wanneer er sprake is van verbindingen over grotere afstanden.
+Het lagenmodel.
+Voor computernetwerken is IP het meest gebruikte communicatie protocol, met op de derde laag het internetprotocol (IP) en op de vierde laag het Transmission Control Protocol (TCP) van het OSI-model.

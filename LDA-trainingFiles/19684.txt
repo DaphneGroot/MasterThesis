@@ -1,0 +1,26 @@
+Multimedia Messaging Service.
+Voorbeeld van het gebruik van mms.
+Multimedia Messaging Service (mms) is de multimediale opvolger van sms. Het versturen van een mms gaat via een GPRS-netwerk.
+Een mms kan bestaan uit tekst, geluid, een plaatje of een stukje video, of een combinatie van deze soorten.
+Mms-toestellen.
+Er komen steeds meer toestellen op de markt die mms ondersteunen. Alle grote merken introduceren mms-toestellen: Apple, Nokia, Sony Mobile Communications Inc., Siemens, Motorola, Samsung, Sagem etc. Mms wordt nu automatisch verstuurd als een smsnummer niet beschikbaar is. Er zijn ook nieuwe spelers die nog niet eerder met gsm-toestellen op de Europese markt voorkwamen, zoals Sharp en Minton.
+Mms in Nederland.
+In Nederland ondersteunen momenteel alle mobiele operators mms. T-Mobile was de eerste die het introduceerde gevolgd door Vodafone (beiden in oktober 2002). Bij Vodafone werd het samen met Vodafone live! geïntroduceerd. In maart 2003 kwam daar Telfort bij. Vodafone had als eerste een verbinding met de andere twee netwerken. In augustus 2003 volgde KPN Mobile, die het als onderdeel van i-mode introduceerde. In oktober 2003 lanceerde ook Orange mms in Nederland.
+Mms in België.
+In België ondersteunen alle netwerkbeheerders (Proximus, Orange en BASE) mms. Proximus lanceerde in november 2002 mms en was daarmee de eerste provider, daarna volgde Orange in januari 2003. Aanvankelijk kostte deze mms-dienst 50 eurocent per bericht. BASE wilde zich focussen op i-mode, daarom volgde BASE pas enkele jaren later, in 2007 lanceerde deze provider deze dienst.
+Stoppen?
+Sommige providers stoppen met het aanbieden van MMS. KPN stopt ermee in 2017 en T-Mobile en Ben in 2019. Dit komt doordat anno 2017 internetdiensten als WhatsApp substantieel aan populariteit hebben gewonnen. KPN stopt met het ondersteunen van MMS per 1 juli 2017.
+Kosten voor het versturen.
+In Nederland wordt het versturen van een mms per bericht afgerekend. Het GPRS-verkeer voor het versturen wordt niet afgerekend, behalve door Orange. De prijs per mms ligt ongeveer rond de 30-50 eurocent. Deze prijzen verschillen per operator. In België kost het versturen van een mms tussen de 10 en 50 eurocent.
+Diensten.
+Mms wordt door verschillende operators en andere partijen ingezet als 'transportmiddel' voor andere diensten.
+Infodiensten.
+Net als bij sms-infodiensten kun je leuke of nuttige informatie via mms ontvangen. Bijvoorbeeld weersvoorspellingen en beurskoersen, maar ook film en entertainmentnieuws.
+Fotodiensten.
+Hierbij worden de ingestuurde foto's voor het eindproduct gebruikt. Voorbeelden hiervan zijn: mms-postkaart, mms-stickers (meerdere stickers op een vel van 10x15cm), mms-visitekaart, CartoonMe etc.
+E-mail.
+Ook wordt mms als aflevermethode voor e-mail gebruikt (bv voor Vodafone klanten). Alle binnenkomende mailtjes worden automatisch via een mms afgeleverd. De kosten verschillen afhankelijk van je aansluiting (abonnement/prepaid), tussen gratis en € 2,- per maand.
+Overig.
+Luchtreizigers kunnen hun instapkaart in de vorm van een QR-code middels mms ontvangen.
+Gebruikers.
+De belangrijkste gebruikers van MMS zijn te vinden in de leeftijdsgroep van 16 tot 30 jaar.

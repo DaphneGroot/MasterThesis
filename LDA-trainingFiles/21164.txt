@@ -1,0 +1,6 @@
+Eeuwig schaak.
+Er is sprake van eeuwig schaak als een speler de vijandelijke koning voortdurend schaak zet en dat kan blijven doen zonder dat de tegenstander dat (redelijkerwijs) kan verhinderen. Hiermee dwingt men remise af, doordat uiteindelijk driemaal dezelfde stelling of de vijftigzettenregel niet kan worden vermeden.
+Eeuwig schaak is een manier om zich uit een moeilijke situatie te redden. Het kan in alle fasen van de partij voorkomen.
+In het diagram lijkt wit zwaar verloren te staan, maar hij is aan zet. Hij speelt Th3+. De zwarte koning moet naar g8. Nu speelt wit Lh7+ en de koning moet weer terug naar h8. Wit pleegt aftrekschaak en speelt Lf5+. Als wit op het punt staat om voor de derde maal dezelfde stelling op het bord te brengen kan hij remise claimen.
+Een bijzonder geval van eeuwig schaak is de dolle toren.
+Soms kan men remise afdwingen door een ander stuk dan de koning te blijven opjagen.

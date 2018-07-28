@@ -1,0 +1,26 @@
+Lineaire afbeelding.
+In de wiskunde is een lineaire afbeelding ruwweg een afbeelding die de lineaire combinaties bewaart. Deze afbeeldingen vertonen interessante eigenschappen en ze spelen een belangrijke rol in de lineaire algebra van vectorruimten of modulen.
+Definities.
+Men zou dit informeel kunnen verwoorden als volgt: "Het beeld van de som is de som van de beelden." en "Het beeld van het product van een scalair met een vector is het product van de scalair met het beeld van die vector."
+Zolang we niet uitdrukkelijk gebruikmaken van de omkeerbaarheid van scalairen, gaat bovenstaande definitie naadloos over naar algemenere lineaire afbeeldingen tussen modulen over een commutatieve ring. De theorie blijft een tijdlang analoog, behalve dat niet ieder moduul een basis heeft (nodig voor onder meer de dimensiestelling).
+Bij een niet-commutatieve ring kan men eventueel spreken van een "links-lineaire afbeelding" tussen linkermodulen.
+Combineren van lineaire afbeeldingen.
+Analoog definiëren we voor een willekeurig element formula_2 uit "K",
+Beschouw anderzijds de lineaire afbeeldingen formula_1 en formula_9. Dan is ook de samenstelling een lineaire afbeelding
+Het is duidelijk dat deze nieuwverkregen afbeeldingen inderdaad lineair zijn.
+Uit deze eigenschappen volgt dan ook dat "Lin"("V","W")= opnieuw een "K"-vectorruimte is, aangezien het een deelruimte is van de "K"-vectorruimte "VW" van de functies van "V" naar "W".
+Nulruimte en beeldruimte.
+De nulruimte "Nf" of kern van een lineaire afbeelding "f" is de verzameling van alle vectoren die door "f" op de nulvector worden afgebeeld. Het beeld van het domein van "f", het bereik, heet ook de beeldruimte "Bf" van "f". Zowel de nulruimte als de beeldruimte van een lineaire afbeelding is weer een lineaire ruimte.
+Voorbeeld 1.
+De identieke afbeelding is lineair. De projectie op een vector is lineair. Lineaire afbeeldingen over eindigdimensionale vectorruimten kunnen door een matrix worden voorgesteld, en omgekeerd kan men met elke eindigdimensionale matrix een lineaire afbeelding associëren.
+Voorbeeld 2.
+De afbeelding formula_11 die een differentieerbare functie afbeeldt op haar afgeleide, is een lineaire afbeelding. Hierbij zijn formula_12 respectievelijk de verzamelingen van functies en van alle functies die minstens één keer differentieerbaar zijn.
+Voorbeeld 3.
+Het eerste element van de beeldvector is gelijk aan het inwendig product van de argumentvector (x,y) met de bovenste rij van de matrix; het tweede element van de beeldvector is gelijk aan het inwendig product van de argumentvector (x,y) met de onderste rij van de matrix.
+Voorbeeld 4.
+De afbeelding formula_15 is een lineaire afbeelding tussen twee modulen over de ring formula_16. De kern van deze afbeelding is het formula_16-moduul dat bestaat uit alle gehele getallenkoppels van de vorm formula_18. Het beeld is formula_19, de verzameling van alle drievouden.
+Algemener kan elke abelse groep worden opgevat als een formula_16-moduul, en elk groepsisomorfisme tussen abelse groepen wordt een lineaire afbeelding.
+Dimensiestelling.
+waarbij Im(f) het beeld en Ker(f) de kern van f is.
+Zij formula_23 een lineaire afbeelding en formula_24, dan is formula_25 injectief dan en slechts dan als formula_25 surjectief is.
+Hieruit volgt weer: als formula_25 injectief of surjectief is, dan is formula_25 een bijectie, en dus vanwege de lineariteit een isomorfisme.

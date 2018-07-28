@@ -1,0 +1,9 @@
+Crosspost.
+Een crosspost is een techniek die oorspronkelijk op Usenet gebruikt wordt om een bericht in één keer in meerdere nieuwsgroepen te plaatsen door alle groepsnamen door komma's gescheiden op te nemen in de "Newsgroups:"-header.
+Crossposten komt echter niet alleen maar op Usenet voor, maar onder meer ook op sociale netwerken en internetforums.
+Usenet.
+Echter, ook het crossposten naar een groot aantal groepen wordt over het algemeen niet als gewenst gezien. Daarom kan men bij het crossposten beter ook een "Follow-Up:"-header (Opvolging naar) instellen, om alle antwoorden naar de meest relevante groep te laten sturen.
+Een bericht in meerdere groepen afzonderlijk posten heet multiposten.
+Sociale netwerken en internetforums.
+Het gelijktijdig op verschillende sociale netwerken plaatsen van berichten wordt ook crossposten genoemd. Sommige van zulke sociale netwerksites bieden dat standaard aan en voor andere sites zijn er hulpmiddelen van derden voor nodig. Op sommige sociale netwerken is het ook mogelijk om binnen zo'n sociaal netwerk te crossposten als er bijvoorbeeld verschillende discussiegroepen zijn.
+Ook op internetforums komt het begrip voor wanneer forumleden in verschillende forums dezelfde vraag stellen. Dit laatste wordt over het algemeen als ongewenst ervaren.

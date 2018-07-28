@@ -1,0 +1,6 @@
+Wet van Coulomb.
+In de Nederlandse middelbareschoolnatuurkunde wordt in plaats van het symbool formula_6 het symbool formula_7 gebruikt. Het symbool wordt door de SUNAMCO commissie niet voorgeschreven.
+Wat de vorm betreft lijkt de wet van Coulomb sterk op de gravitatiewet, maar de Coulombkracht kan, in tegenstelling tot de zwaartekracht, ook afstotend zijn.
+Het feit dat bijvoorbeeld een keukenzoutkristal kan bestaan, is een gevolg van de coulombattractie tussen de natrium- en chloride-ionen waaruit het kristal is opgebouwd.
+Implicaties in de scheikunde.
+Als een titratie niet in water (met een relatieve elektrische veldconstante "εr" van 78,5) maar in ethanol wordt uitgevoerd (met een relatieve elektrische constante van slechts 24,5), zullen geladen deeltjes elkaar volgens de bovenstaande wet van Coulomb 3 keer zo sterk aantrekken. Daardoor zal een zuur van het type HA + ROH ↔ A- + ROH2+ in ethanol minder snel in (geladen) ionen uiteen vallen. Daardoor zal het evenwicht naar links verschuiven en het zuur in ethanol minder sterk zijn dan in water, dit zuur heeft dan in ethanol een hogere pKa.

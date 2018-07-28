@@ -1,0 +1,13 @@
+Tralie (natuurkunde).
+tralie met 1e en 2e orde diffractie
+Een tralie of diffractierooster is een voorwerp uit de natuurkunde dat wordt gebruikt (in de telecommunicatie en in de optica) om elektromagnetische straling naar golflengte te scheiden.
+Werking.
+Daarbij is formula_2 de golflengte van het licht en formula_3 de afstand tussen de middens van de spleten van de tralie.
+Als er wit licht of licht van meerdere golflengten op een tralie valt, zal iedere golflengte in een andere richting worden gestuurd. De exacte golflengte bepaalt de verstrooiingshoek van het licht voor alle orden behalve de nulde orde. Daarom kan een tralie net als een prisma worden gebruikt om de golflengten van het licht te scheiden en een spectrum te maken.
+Technisch.
+De lijnen van de tralie kunnen op een transparant of een spiegelend oppervlak worden aangebracht. Met een spiegelend oppervlak is de naam 'rooster' meer algemeen.
+Door die aanpassing van de vorm van de lijnen is het mogelijk om zoveel mogelijk licht te concentreren in een enkele orde, en alle andere orden te verzwakken. De richting waarin het meeste licht wordt uitgezonden (blaze-hoek) is karakteristiek voor het rooster.
+De afstanden tussen de lijnen en de breedte van de lijnen in een rooster of tralie is van dezelfde grootteorde als de golflengte van het opvallend licht. Dat wil zeggen dat voor zichtbaar licht ongeveer 2000 lijnen per millimeter moeten worden aangebracht.
+Voorbeelden en toepassingen.
+De spectrale kleureffecten die men ziet als men de beschreven zijde van een compact disc in het licht houdt, worden ook veroorzaakt door de dicht bij elkaar liggende lijnen.
+Een tralie vindt toepassingen in monochromatoren en spectrometers.

@@ -1,0 +1,18 @@
+Grootste gemene deler.
+De grootste gemene deler of grootste gemeenschappelijke deler (gemeen is een oudere term voor gemeenschappelijk), afgekort tot ggd, van een aantal gehele getallen (waarvan er ten minste een ongelijk is aan 0) is het grootste positieve gehele getal, waar al deze gehele getallen door gedeeld kunnen worden zonder dat er een rest overblijft. De grootste gemene deler van de getallen 8 en 12 is bijvoorbeeld 4. De grootste gemene deler wordt wel genoteerd als de functie formula_1
+Bepaling.
+Bovenstaande voorbeelden zijn eenvoudig, maar bij grotere getallen is het niet direct duidelijk wat de ggd is. De ggd wordt bijvoorbeeld bepaald door beide getallen te ontbinden in priemfactoren. Dat wil zeggen dat van beide getallen wordt bepaald door welke priemgetallen ze deelbaar zijn. Daarbij wordt achtereenvolgens van elk priemgetal geprobeerd of dit een deler is. Als een getal meerdere malen door hetzelfde priemgetal deelbaar is, wordt dit evenzo veel malen genoteerd.
+Een efficiënt algoritme (rekenmethode) voor het bepalen van de ggd is het algoritme van Euclides. Voor grote getallen is dit algoritme te verkiezen boven de methode met het ontbinden in factoren. Het is namelijk heel lastig (zelfs voor computers) om een groot getal in factoren te ontbinden als die factoren zelf ook grote getallen zijn.
+Gebruik.
+Bij het vereenvoudigen van een breuk is het handig om de ggd van de teller en de noemer te bepalen. Zowel teller als noemer kunnen dan door hun ggd worden gedeeld en zo verkrijgt men direct de grootst mogelijke vereenvoudiging. De breuk 24/204 wordt zo vereenvoudigd tot (24/12)/(204/12) = 2/17. (Een breuk van twee getallen die relatief priem zijn, kan niet vereenvoudigd worden.)
+Voorbeeld.
+De ggd van 75 en 105 is dus 3x5 = 15.
+Relatief priem.
+Een paar getallen waarvan de ggd gelijk is aan 1 wordt relatief priem genoemd.
+Product ggd en kgv van twee getallen gelijk aan product.
+Het product van de ggd en het kleinste gemene veelvoud van twee positieve gehele getallen is gelijk aan het product van die twee gehele getallen zelf.
+Grootste gemene deler in verschillende getallenverzamelingen.
+Niet alleen van een aantal natuurlijke getallen kan een grootste gemene deler bepaald worden, ook van elementen van een hoofdideaaldomein. Dit volgt uit de nu volgende generalisatie van de stelling van Bachet-Bézout.
+Zij R een hoofdideaaldomein en formula_7 elementen uit R. Dan bestaat er een grootste gemene deler formula_8 van formula_7. Bovendien bestaan er elementen formula_10 uit R zodat
+De grootste gemene deler is uniek op eenheden na: als formula_12 en formula_8 grootste gemene delers zijn van formula_7, dan bestaat er een eenheid formula_15 zodat formula_16.
+In een uniek factorisatiedomein kan men ook een grootste gemene deler bepalen met de hierboven vermelde methode van het ontbinden in factoren.

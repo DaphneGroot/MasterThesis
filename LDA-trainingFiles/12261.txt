@@ -1,0 +1,11 @@
+Kleuren zien.
+Spectrale gevoeligheid van de L-, M- en S-kegeltjes, cijfers van "the Stockman & Sharpe (2000) 10° quantal cone fundamentals"
+Kleurenzien is het kunnen waarnemen van verschillen in de golflengte van licht. In het menselijk oog komen vier soorten lichtgevoelige cellen voor: naast staafjes drie verschillende soorten kegeltjes. De kegeltjes zijn onmisbaar voor kleurwaarneming.
+De drie soorten kegeltjes, soms L, M en S (Long-, Medium-, en Short-wavelength) genoemd, hebben ieder een verschillend lichtgevoelig pigment. De gevoeligheidsmaxima liggen respectievelijk in het geelgroene, het groene en het blauwe golflengtegebied. De eerste twee soorten kegeltjes liggen echter ten opzichte van de blauw-gevoelige kegeltjes met hun gevoeligheidsmaximum niet ver uit elkaar, zie de figuur hiernaast.
+Spectrumkromme.
+De kleuren van de regenboog uitgezet in een driedimensionale ruimte opgespannen door de relatieve gevoeligheid van de drie soorten kegeltjes
+De "spectrum locus" (spectrumkromme) is één ruimtelijke kromme die het verband legt tussen alle monochrome kleuren uit het spectrum (de kleuren van de regenboog) en de respons van de drie typen kegeltjes. Omdat er drie typen kegeltjes zijn ligt de kromme in drie dimensies.
+Op de assen (naar rechts, naar voren, naar boven) zijn de genormaliseerde responsies van de kegeltjes (L, M, S) uitgezet.
+Op elk van de zijvlakken is de kromme loodrecht geprojecteerd als een grijze lijn; deze drie projecties zijn de spectrumkrommen van de drie verschillende soorten kleurenblindheid: protanopie (linkervlak), deuteranopie (achtervlak) en tritanopie (grondvlak).
+Kleurenzien in de dierenwereld.
+De meeste zoogdieren hebben maar twee soorten kegeltjes: één in het blauwe gebied en één in het geelgroene gebied. Vogels hebben voor zover bekend minstens vier soorten kegeltjes (gevoeligheidsmaxima: 370, 445, 508 en 565 nm), met vooral meer zicht in het ultraviolette deel van het spectrum. Ook veel insecten kunnen ultraviolet zien, maar minder goed rood. Sommige vissen zijn juist weer gevoeliger voor infrarood.

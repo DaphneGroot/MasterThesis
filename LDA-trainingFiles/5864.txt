@@ -1,0 +1,15 @@
+Kerktoonladder.
+Een kerktoonladder is een toonladder met tonen uit een diatonische reeks, dus met dezelfde intervallen als een grote-tertstoonladder, die echter op een andere toontrap kan beginnen. Dit heeft als gevolg dat het patroon van hele en halve tonen "verschoven" is ten opzichte van de tonica (en dominant) van de toonreeks.
+Algemeen.
+Op een piano is het makkelijk om zulke modi te vinden. Gebruik alleen de witte toetsen.
+De toonladders kunnen ook getransponeerd worden. De begintoon verandert, maar de intervallen blijven hetzelfde. Zo kunnen we bijvoorbeeld de toonladder van D dorisch transponeren: de toonladder van D dorisch is D–E–F–G–A–B–C–D ofwel met intervallen "heel–half–heel–heel–heel–half–heel".
+Getransponeerd naar C wordt dat: C–D–Es–F–G–A–Bes–C Zo krijgen we C dorisch.
+Hypomodi.
+Er zijn ook nog toonladders die een kwart lager (wat hetzelfde is als een kwint hoger) dan de oorspronkelijke kerktoonladder zijn, met het voorvoegsel hypo-(ὑπό, onder).
+De 'hypo-toonladders', worden ook wel plagale toonladders genoemd, zo is hypolydisch hetzelfde als lydisch plagaal.
+Middeleeuwse modi.
+De modi I, III, V en VII hebben dezelfde serie intervallen als boven. Het voorvoegsel hypo- geeft aan dat de intervallenreeks dezelfde is, maar de toonladder begint op de dominant "onder" de tonica. In een hypodorische melodie bewoog de melodie zich dus "rond" de grondtoon re, in een dorisch "boven" de re. (De grondtoon kon op D, E, F of G liggen.)
+Opvallend is dat de twee reeksen die in latere tijd de westerse muziek zouden beheersen (ionisch en aeolisch, die gelijk zijn aan resp. majeur- en authentieke (zonder verhoogde leidtoon) mineurtoonladders), buiten de kerkelijke canon vielen. Overigens was er al vroeg de neiging om in modi V en VI de lydische kwart te verlagen, waardoor de facto een ionische reeks ontstaat. Heden ten dage worden in het Gregoriaans zelden lydische kwarten gezongen, ook al heet de melodie lydisch. Dezelfde neiging bestond ook voor de dorische melodie. Door hierin, evenals bij de lydische melodie, de zgn. b-rotundum (=bes) toe te passen trad een tendens naar aeolisch op.
+Op hun beurt waren de modi weer gebaseerd op de toonreeksen van de Byzantijnse kerk. In de tijd van Karel de Grote probeerde men de kerk in allerlei opzichten te standaardiseren en uniform te maken. Muzikaal speelde men daarbij leentjebuur bij Byzantium. Overigens ging dat met fouten gepaard: zo zijn de Griekse namen aan andere middeleeuwse kerktoonsoorten verbonden dan de oorspronkelijke Griekse toonsoort.
+De kerktoonaarden werden voor het eerst genoemd door Alcuinus van York. Hij gaf ze de Griekse namen Protos, Deuteros, Tritos en Tetrardos. Deze zijn later de hoofdkerktoonsoorten geworden.
+In het boek "Dodekachordon" (1547) van Glareanus werden de nieuwe 12 toonladders beschreven (de locrische en hypolocrische toonladders werden vanwege de imperfectie van de verminderde kwint verworpen). Vanaf toen werden deze toonladders door de kerk geaccepteerd als bestaande toonladders.

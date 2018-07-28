@@ -1,0 +1,6 @@
+Presentatiesoftware.
+Presentatiesoftware is software die specifiek is gericht op het maken van presentaties. Presentatiesoftware is vaak standaard opgenomen in kantoorsoftwarepakketten.
+Vaak worden er tijdens een voordracht grafieken, schema's of overzichten getoond. Deze objecten staan opgeslagen op "slides" of "dia's". De dia's kunnen met behulp van een toetsenbord, muis of ander invoerapparaat gewisseld worden. Presentiesoftware wordt gebruikt voor uiteenlopende doeleinden door onder andere leerlingen, docenten en bedrijven.
+Het eerste presentatieprogramma voor de personal computer was VCN ExecuVision, dat in 1982 geïntroduceerd werd. Voor de opkomst van de presentatieprogrammatuur werd dit tijdens de presentatie zelf gemaakt op krijtborden, whiteboards of flip-overs.
+Als men een presentatie vroeger helemaal voorbereid had, werd er gebruikgemaakt van dia's of een overheadprojector met transparanten.
+Om flexibeler en sneller te werken wordt het presentatiemateriaal nu vaak volledig met de computer gemaakt door middel van presentatieprogrammatuur en direct getoond op een scherm met behulp van een beamer.

@@ -1,0 +1,10 @@
+Zipdisk.
+Zipdisk (100 MB) met externe zipdrive
+Een zipdisk is een door Iomega ontwikkeld opslagmedium voor een computer.
+Zipdisks bestaan sinds 1994 en zijn verkrijgbaar met opslagcapaciteiten van 100, 250 en 750 megabyte.
+Een zipdisk en een gewone diskette zijn niet uitwisselbaar: de computer heeft voor het gebruik van een zipdisk een speciale zipdrive nodig. De afmetingen van een zipdisk zijn ca. 98 mm × 99 mm × 7 mm, iets groter dan die van een 3½ inch-diskette. Een zipdisk past niet in een diskettestation en omgekeerd. Tegenwoordig worden computers niet meer uitgerust met een diskettestation of een zipdrive.
+Het voordeel van een zipdisk ten opzichte van een cd-rom is dat een zipdisk herschreven kan worden, zoals een harde schijf en diskette, in tegenstelling tot een eenmalige brandsessie op cd-rom. De zipdisk is geen populair opslagmedium geworden vanwege de hogere prijs van een zipdisk, 10 euro voor een zipdisk van 100 MB, ten opzichte van de goedkope beschrijfbare cd van 700 MB voor 20 eurocent. Met de komst van cd-rw en USB-sticks van voldoende capaciteit nam de belangstelling voor het medium snel af.
+Inmiddels zijn er veel (gratis) alternatieven via het internet om bestanden uit te wisselen/op te slaan. Zo is bestanden opslaan in de cloud tegenwoordig iets wat erg normaal is. Denk daarbij aan Microsoft OneDrive, iCloud of Google Drive.
+Zipdrives zijn er in vier soorten aansluitingen: parallelle poort, IDE, USB en SCSI. Een zipdrive kan zowel extern (met behuizing) als intern (ingebouwd op de plaats van een diskettestation) zijn.
+Jaz.
+Na de introductie van de zipdisk kwam Iomega in 1996 met diens opvolger, de Jaz. Deze beschikte aanvankelijk over een capaciteit van 1 GB, later verdubbelde deze naar 2 GB per schijf.

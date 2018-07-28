@@ -1,0 +1,7 @@
+Kylix (ontwikkelomgeving).
+Kylix was een software-ontwikkelomgeving van Borland en een herimplementatie van de op Microsoft Windows gerichte Delphi IDE voor Linux. Kylix bood ondersteuning voor Object Pascal, C en C++. Voor het ontwikkelen van grafische gebruikersinterfaces werd gebruikgemaakt van de Qt-toolkit, een toolkit die vooral gebruikt wordt door KDE. De Kylix- en Delphi-broncode zijn beperkt uitwisselbaar tussen beide platformen. Kylix kon gebruikt worden tegen betaling.
+Inactiviteit en alternatieven.
+Hoewel er vanuit Borland geen officiële mededelingen zijn gedaan over het stopzetten van de ondersteuning op Kylix, zijn er sinds het einde van 2002 geen actualiseringen meer aangebracht. Ook werd de website uit de lucht gehaald.
+Een aantal initiatieven van enthousiaste gebruikers hebben de update-taken zo veel mogelijk overgenomen. Deze worden overigens niet officieel door Borland erkend. De VisualCLX-bibliotheek (visuele componenten voor cross-platform gebruik) wordt actueel gehouden.
+Er is ook een cross-platform-compiler voor Kylix ontwikkeld. Met dit vrij verkrijgbare product, CrossKylix, kan een Linuxversie van een Windowsprogramma worden gecompileerd op een Windows-machine.
+Een actief ondersteund alternatief voor Kylix is Lazarus, dat in tegenstelling tot Kylix wel onder de GNU General Public License wordt verspreid.

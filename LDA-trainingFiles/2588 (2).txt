@@ -1,0 +1,14 @@
+Filmgevoeligheid.
+De filmgevoeligheid van een filmrol, fotorolletje of digitale camera wordt uitgedrukt in een getal, waarvoor een aantal normen kunnen worden gebruikt. De gevoeligheidsnormen ISO/ASA (International Organization for Standardization/American Standard Association) en DIN (Deutsches Institut für Normung) berusten op de hoeveelheid licht die nodig is om de zwakste impressie van licht op de fotografische film te doen ontstaan. Hun definitie is gebaseerd op een gemiddelde gradatie bij normaal ontwikkelen. De standaard staat bekend als ISO 5800:1987.
+Een verdubbeling van de ISO/ASA waarde betekent dat de film half zoveel licht nodig heeft om een vergelijkbaar bruikbaar beeld te geven.
+Tegenwoordig (2011) in de handel verkrijgbare filmsoorten hebben meestal een gevoeligheid van 200 of 400 ASA. Andere kan ook nog verkregen worden, maar dit zal meestal besteld moeten worden, tenzij je winkelt in een speciaalzaak voor filmpjes.
+Ook de gevoeligheid van beeldsensoren (CCD of CMOS) van digitale camera's wordt in ISO uitgedrukt, deze kan echter naar believen binnen bepaalde grenzen ingesteld worden door de versterking van het beeldsignaal aan te passen.
+Invloed op het beeld.
+Foto genomen met 3200, let op de korrel in het rode gebied
+Zowel in de "chemische" als digitale fotografie heeft het gebruik van een hogere filmgevoeligheid een "korreliger" beeld tot gevolg, waarin minder details te zien zijn. In beide gevallen is dit toe te schrijven aan het feit dat bij weinig licht de individuele fotonen een rol gaan spelen. Om in "chemische" film toch voldoende fotonen te vangen worden de zilverkristallen in de film groter gemaakt, of wordt de film zo ontwikkeld dat de kristallen samenklonteren. In een beeldsensor kan de versterking opgevoerd worden, maar zal bij weinig licht het nuttige signaal in de ruis verdrinken. Dit verschijnsel speelt vooral een rol bij beeldsensoren met kleine receptoren, zoals gebruikt in kleine camera's met veel megapixels.
+Vergelijkingtabel ISO-DIN.
+Merk op dat de DIN-waarde drie hoger wordt voor elke verdubbeling van de ISO/ASA waarde. De waardes met lichtgrijze achtergrond worden in de praktijk niet of nauwelijks gebruikt. Weggelaten waardes (500 ISO/ASA - 28 DIN) zijn nog minder gebruikelijk.
+Formules.
+formula_1
+formula_2 of eenvoudiger "D" = 10 log("A") + 1
+Hierbij stelt A de filmgevoeligheid uitgedrukt in ASA voor en D de filmgevoeligheid uitgedrukt in DIN.

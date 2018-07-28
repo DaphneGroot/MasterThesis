@@ -1,0 +1,17 @@
+Aljechingambiet.
+Het Aljechingambiet is bij het schaken de naam voor een vijftal gambieten in schaakopeningen die geanalyseerd zijn door Aleksandr Aljechin.
+In de Franse opening.
+Een variant in de schaakopening Frans met beginzetten: 1.e4 e6 2.d4 d5 3.Pc3 Lb4 4.Pge2 "(diagram)"
+en ze is ingedeeld bij de halfopen spelen.
+In de Aljechin-opening.
+Een variant in schaakopening Aljechin met beginzetten:1.e4 Pf6 2.e5 Pd5 3.d4 d6 4.Pf3 Lg4 5.c4 Pb6 6.Le2
+en ze is ingedeeld bij de halfopen spelen.
+In de Caro Kann opening.
+Een variant van de schaakopening Caro Kann met beginzetten: 1.e4 c6 2.d4 d5 3.Pc3 de 4.Pe4 Pf6 5.Ld3
+en ze is ingedeeld bij de halfopen spelen.
+In het aangenomen damegambiet.
+Een variant in de schaakopening aangenomen damegambiet met de beginzetten: 1.d4 d5 2.c4 dc 3.Pf3 a6 "(diagram)"
+en ze is ingedeeld bij de gesloten spelen.
+In de Slavische opening.
+Een variant in de schaakopening Slavisch met de beginzetten 1.d4 d5 2.c4 c6 3.Pc3 dc 4.e4
+en ze is ingedeeld bij de gesloten spelen.

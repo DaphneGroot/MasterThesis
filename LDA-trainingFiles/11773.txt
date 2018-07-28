@@ -1,0 +1,18 @@
+Spoel.
+Een spoel is een elektrische component bestaande uit geleidende wikkelingen, meestal van koperdraad, op een spoelvorm (meestal van kunststof) waarin zich al dan niet een magnetiseerbare (weekijzeren) kern bevindt, die wel of niet beweegbaar is. Twee magnetisch gekoppelde spoelen vormen een transformator.
+Werking.
+Als er een elektrische stroom door een draad heen loopt, wordt er een magnetisch veld opgewekt. Is de draad om een buis gewikkeld, dan wordt het magnetische veld gebundeld en krijgt het een richting. Als zich in de buis een magnetiseerbaar materiaal (weekijzer, ferriet) bevindt, dan wordt de bundeling van het opgewekte magnetisme sterk vergroot. Omgekeerd zal de spoel een veranderlijk magnetisch veld omzetten in een elektrische spanning.
+Constructie.
+Spoelen bestaan globaal in twee vormen: als elektr(on)ische component en als elektromechanische actuator.
+Component.
+In de elektrotechniek worden spoelen met name gebruikt voor filtering. Storende signalen van apparaten, zoals elektromotoren en tl-verlichting kunnen worden verzwakt door het gebruik van een spoel. In de elektronica worden spoelen zeer vaak gebruikt voor afstemming en filtering. Beide zijn van belang voor het scheiden en verwerken van elektrische signalen met verschillende frequenties. In alle radio- en televisieapparatuur, maar ook in alle mobiele communicatieapparatuur wordt veelvuldig van deze component gebruikgemaakt. In de vorm van de transformator vindt de spoel ook zeer algemeen zijn toepassing.
+Actuator.
+Als elektromechanische component wordt de spoel ook wel aangeduid als "solenoïde", een letterlijke vertaling van het Engelse "solenoid" (spoel). De spoel is dan een actuator, een constructie die een mechanische (meest lineaire) beweging opwekt bij het aanbrengen of wegnemen van een elektrische stroom door de spoel. De beweging wordt veroorzaakt doordat de opgewekte magnetische krachten in de delen van de kern elkaar aantrekken of loslaten. Het kan hierbij gaan om een relais, waar deze beweging elektrische contacten bedient, een ventiel of klep, die een vloeibaar of gasvormig medium, zoals water, olie of stoom, doorlaat of blokkeert, of een elektromagneet, die een anker tegen zijn kern aangetrokken kan houden zolang de stroom vloeit. In pneumatische stuurventielen worden spoelen toegepast als stuurelement, het werkelijke schakelen van het medium wordt door perslucht verzorgd.
+Zelfinductie.
+Deze formule heet de wet van Lenz, opgesteld in 1833 (of '34) door de Baltische natuurkundige Heinrich Lenz, als uitbreiding van de wet van Faraday. De beginletter "L" van zijn naam wordt gebruikt als symbool voor zelfinductie.
+Een smoorspoel is een spoel met een grote zelfinductie L en een beperkte ohmse weerstand. Dit soort spoelen wordt vaak ingezet om hoog frequente signalen (AC) te onderdrukken in bijvoorbeeld een gelijkrichter.
+Complexe impedantie.
+Wanneer door een spoel met zelfinductie "L" een stroom
+Richting en grootte van het magnetisch veld.
+Om bij het ontwerp van deze apparaten gemakkelijk de richting van het magnetisch veld en de elektrische stroom ten opzichte van elkaar te onthouden wordt de kurkentrekkerregel of de rechterhandregel toegepast.
+De grootte (en richting) kan worden berekend met de wet van Biot-Savart of benaderd met behulp van het magnetisch moment.

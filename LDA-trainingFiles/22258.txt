@@ -1,0 +1,4 @@
+RFC 1918.
+RFC 1918 is een RFC dat de privé-adresruimte van IP-adressen (IPv4) beschrijft.
+Privé-adressen zijn adressen die niet routeerbaar zijn op het internet. Door deze beperking wordt het mogelijk de adressen te hergebruiken: verschillende netwerken kunnen binnen het eigen netwerk dezelfde IP-adressen gebruiken. Hierdoor wordt het gebruik van publieke IPv4-adressen verminderd.
+Om computers (of andere apparaten) die geconfigureerd zijn met een RFC 1918-adres toch gebruik te laten maken van het internet, wordt er tussen het privénetwerk en het internet een network address translation (NAT)-router geplaatst die de RFC 1918-adressen vertaalt in een publiek IP-adres. Op deze manier kunnen een groot aantal computers één of enkele IP-adressen delen.

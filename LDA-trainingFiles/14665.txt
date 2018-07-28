@@ -1,0 +1,32 @@
+Schroefdraad.
+Schroefdraad is de spiraalvormige rug of verhoging aangebracht op bijvoorbeeld een bout en respectievelijk in een moer, die dan samen worden gebruikt om twee voorwerpen met een draaiende beweging aan elkaar te bevestigen door klemming. Men beschouwt de spiraalvormige draad op houtschroeven niet als schroefdraad.
+Ontstaan.
+Schroefdraad (niet te verwarren met draadeind) werd voor het eerst in Egypte (rond 2500 v. Chr.) gebruikt. Hij werd vooral bij persen (bijv. wijnpersen) gebruikt.
+Archytas van Tarentum (428 v.Chr. - 347 v.Chr.) wordt algemeen beschouwd als de uitvinder van de schroefdraad.
+De Duitse mijnbouwingenieur Agricola beschreef in 1556 al hoe metalen schroeven werden toegepast als beter alternatief voor spijkers.
+De Brit Sir Joseph Whitworth is de bedenker van een universele schroefdraad (1841). Later is deze tot British Standard verheven.
+De schroevendraaier dateert pas van 1740.
+Het maken van schroefdraad.
+Schroefdraad kan worden "gerold", "gesneden" of "gegoten".
+Bij het snijden en tappen moet, net als bij andere verspanende bewerkingen, snijolie gebruikt worden, voor het verkrijgen van een scherpe en niet gekartelde draad.
+Bij metrische (binnen)schroefdraad kan het te boren gat worden bepaald door de nominale waarde minus de spoed.
+Dus M20x1,5 heeft een boorgat diameter van 18,5 [mm], en M100x1 heeft een boorgat diameter van 99 [mm].
+Soorten en maten.
+De meest voorkomende schroefdraad is die waarbij de schroef naar beneden beweegt wanneer hij met de wijzers van de klok mee gedraaid wordt (rechtsdraaiend). Er zijn soms echter goede redenen om linksdraaiende schroefdraad toe te passen, zoals bij de linker trapper van een fiets of bij de bevestiging van een vliegwiel op een krukas, omdat de trapper of moer door de bewegingsrichting anders losdraait. Een spanwartel (zie foto 3) werkt bijvoorbeeld alleen als de schroefdraad aan de beide uiteinden van tegengestelde draairichting is.
+De termen draads en tegendraads worden weleens gebruikt om respectievelijk rechtsdraaiend en linksdraaiend aan te duiden. Maar dit kan verwarring veroorzaken. Tegendraads draaien kan namelijk ook betekenen: andersom proberen te schroeven dan de schroefdraad de facto loopt. Dus bij een rechtsdraaiende schroefdraad linksomdraaiend vast proberen te schroeven.
+Normale schroefdraad is altijd eengangig. Bij meergangige schroefdraad lopen meerdere spiraalvormen over de omtrek, de schroefdraad start vanaf meerdere punten. Deze draad wordt vooral toegepast bij bewegingsschroefdraad waarbij men een grote verplaatsing per omwenteling wenst, maar geen grovere draad wil gebruiken. De verplaatsing door meergangige draad is de verplaatsing door één gang maal het aantal gangen.
+Voor het bepalen van diameter en spoed bij een onbekende schroefdraad wordt vaak gebruikgemaakt van een schroefdraadmal. Een draadmal is een simpel stukje plat metaal (1–2 mm dik) waarin de exacte vorm van diverse soorten schroefdraad is uitgestanst. Draadmallen zitten meestal gebundeld in een houder, met aan de ene kant de meest gangbare metrische schroefdraden en aan de andere kant de meest courante Engelse schroefdraden. Op elk blad staat alleen de spoed aangegeven. Op de bovenste foto zijn duidelijk de inkepingen te zien die bij het vergelijken, exact (!) over een bepaalde schroefdraad heen komen te liggen.
+Voor bepaalde toepassingen gebruikt men schroefdraad met een uitzonderlijke vorm of grootte.
+Werking.
+De hellingshoek van een schroefdraad vertaalt moment op een bout of moer naar kracht, of rotatieve naar lineaire beweging.
+Krachtversterking treedt op bij het gebruik van een steeksleutel op een schroef of moer. Moment "F"s × "L" [Nm] werkt als een aandraaikoppel "F"k × "d" [Nm] op de schroefverbinding. Omdat "L" groter is dan "d", treedt er krachtversterking op ter grootte van "L"/"d".
+Bij het aandraaien van een moer dwingt men als het ware de moer tegen de flauwe helling van de spoed van de schroefdraad op. Deze "hellings-"hoek wordt de spoedhoek genoemd. (Voorbeeld: bij een metrische schroefdraad M6 is de spoed 1 mm per omwenteling; de spoedhoek is ca. 3 graden.) Het op een moer uitgeoefende koppel resulteert in een aandraaikracht "F"k ter plaatse van de schroefdraad. In het geval van een vrijwel wrijvingsloze schroefdraad veroorzaakt de schroefdraad een kracht "F"l loodrecht op de schroefdraad. "F"l kan worden ontbonden in een spankracht "F"b in de bout (wat meestal het doel zal zijn) en een kracht "F"r die de moersleutel tegenwerkt. Kracht "F"b wordt relatief groter bij een kleinere spoedhoek α; "F"b is omgekeerd evenredig met de tangens van hoek α. Met een gemiddelde schroefdraadverbinding wordt een krachtvermenigvuldiging met een factor 20 of 30 gerealiseerd. In praktisch alle gevallen zal de moersleutel tevens aanzienlijke tegenwerking ondervinden door wrijving van de langs elkaar wrijvende vlakken van de schroefdraad van bout en moer. Dit is nadelig voor het aandraaien van een schroefdraadverbinding, maar het is er tevens de oorzaak van, dat een moer niet los gaat wanneer het koppel van de sleutel wordt verwijderd. Een fijne schroefdraad met kleine spoed loopt grosso modo een kleinere kans om los te gaan dan een grove draad met een grote spoed.
+Omdat de totale krachtversterking evenredig is met het product van "L"/"d" (moersleutel) en van 1/(tangens α)(van de schroefdraadspoed), kan de trekkracht op een bout gemakkelijk worden onderschat. De schroefdraad kan dan tot over de vloeigrens worden belast, waardoor er blijvende vervorming of breuk optreedt.
+Diversiteit.
+Er bestaan zeer veel soorten schroefdraad (en normen). Echter alle schroefdraden zijn onder te verdelen in Metrisch (spoed in [mm], en Engels (spoed in gangen per duim ofwel n/1"). Binnen deze 2 groepen heb je nog veel varianten.
+De volgende schroefdraden zijn niet de meest voor de hand liggend, maar bestaan wel degelijk, en zijn genormaliseerd.
+Rijwielschroefdraad voor spaken en nippels, b.v. 15-56 SWG, 56 gangen per "
+Rijwielschroefdraad voor pedaalassen, b.v. FG14,3 of FG14,3 links, 20 gangen per "
+Gasmeterschroefdraad b.v. GM 3/4", 14 gangen per "
+Miniatuurschroefdraad, b.v. S 0,3 met een spoed van 0,08 [mm]
+Binnen de "normale" schroefdraden zijn er ook nog varianten mogelijk. Denk daarbij aan conische draad, of meergangige draad. Deze laatste komt vaak voor bij ballpoints. Voor gasflessen wordt altijd linkse draad gebruikt. De reden hiervoor is dat men geen "gangbare" hulpmiddelen kan gebruiken, b.v. een verloop van de waterleiding om er vervolgens een waterslang op aan te kunnen sluiten.

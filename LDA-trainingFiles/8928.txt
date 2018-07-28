@@ -1,0 +1,9 @@
+Stikstofoxiden.
+Stabiliteit.
+Hoewel NO het meest gevormd wordt, zal in de lucht dus vooral NO2 voorkomen.
+Ontstaan.
+Stikstofoxiden ontstaan bij alle vormen van verbranding op hoge temperatuur, bijvoorbeeld in een verbrandingsmotor. Als diesel met benzine vergeleken wordt, kan geconcludeerd worden dat diesels meer NO"x" produceren, omdat de verbranding plaatsvindt bij hogere druk en bijgevolg ook hogere temperatuur. Andere voorbeelden van verbrandingsprocessen zijn huishoudelijke verwarming op gas, stookolie of kolen, industriële processen zoals thermische elektriciteitscentrales op kolen, olie of gas, cementovens, hoogovens voor staalproductie enz.
+Bij 1500 °C levert dit 0,3% NO op, bij 1930 °C 1% en bij 2300 °C 2%.
+Toxicologie en veiligheid.
+Stikstofoxiden kunnen op deze manier smog nabij de grond creëren en zijn verantwoordelijk voor een gedeelte van het versterkte broeikaseffect: N2O werkt zoals koolstofdioxide, maar dan 265 keer zo sterk.
+Om hier iets aan te doen, is een chemische reductie in vele gevallen verplicht. Er zijn verschillende soorten reducties mogelijk: selectieve of niet-selectieve en katalytische of niet-katalytische. Het meest toegepast zijn de katalysatoren voor de uitlaat van auto's op benzine, gebaseerd op platina of palladium. Ook industriële processen passen reductie toe. Het gaat dan om selectieve katalytische reductie bijvoorbeeld een speciale katalysator op vrachtauto's waarbij het product AdBlue ervoor zorgt, dat de NOx uitstoot nagenoeg tot nul wordt teruggebracht. Sinds 2006 moeten alle nieuwe vrachtauto's voorzien zijn van een dergelijke katalysator of selectieve niet-katalytische reductie. Daarnaast passen industriële processen ook andere maatregelen toe, waaronder bepaalde chemische reacties.

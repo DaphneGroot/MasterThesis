@@ -1,0 +1,24 @@
+Hardheid (materiaalkunde).
+De hardheid van een materiaal is de weerstand die het materiaal biedt tegen permanente mechanische vervorming.
+Het hardste algemeen bekende mineraal is diamant. Met diamant kan in elk ander materiaal gekrast worden. Alleen ultrahard fulleriet en Aggregated carbon nanorods zijn harder, met een geschatte hardheid van 1,17 tot 1,52 van die van diamant. Dat materiaal is echter slechts in microscopisch kleine hoeveelheden beschikbaar.
+Elastische en plastische vervorming.
+Als er met een voorwerp een (geringe) kracht wordt uitgeoefend op het oppervlak van een ander voorwerp, zullen beide voorwerpen in principe "elastisch vervormen". Als de kracht wordt weggenomen, nemen de voorwerpen hun oorspronkelijke vorm weer in. Dit kan men goed waarnemen als men een rubberen balletje tegen een raam drukt, of als iemand op een schuimrubber matras gaat staan.
+Op het contactoppervlak treedt een bepaalde druk op, die in het voorwerp een bepaalde schuifspanning veroorzaakt. Als deze schuifspanning een bepaalde grens overschrijdt, ontstaat er een permanente deuk of scheur. Dan spreekt men van "plastische vervorming".
+De druk waarbij lokaal een deukje of kras ontstaat, is kenmerkend voor de hardheid van een materiaal.
+Krasbestendigheid.
+In de mineralogie wordt het begrip "hardheid" gebruikt om aan te geven in welke mate een materiaal andere, zachtere materialen kan penetreren. In zijn algemeenheid geldt dat een "harder" materiaal krassen kan maken op een "zachter" materiaal. Dit principe is door Friedrich Mohs gebruikt om een praktische bepalingsmethode voor hardheid te definiëren, de Hardheidsschaal van Mohs. Deze schaal definieert de hardheid van tien bekende mineralen. De hardheid van het hardst bekende materiaal, diamant, werd gesteld op 10; de hardheid van talk, werd gesteld op 1. De hardheid van een onbekend mineraal kan eenvoudig worden vastgesteld door uit te proberen met welke van die 10 bekende mineralen het bekrast kan worden.
+Kwarts, het hoofdbestanddeel van zand, heeft in de hardheidsschaal van Mohs de hardheid 7. Mineralen met een grotere hardheid heten edelstenen;
+sieraden van deze mineralen worden niet dof omdat stof en zand er geen krassen in maken.
+Met een sclerometer meet men de druk die met een bepaalde scherpe punt moet worden uitgeoefend om een kras of deukje in een materiaal te maken. De punt van de sclerometer wordt van een zeer hard materiaal gemaakt, bijvoorbeeld diamant. Hiermee kan men een absolute waarde voor de hardheid bepalen.
+Indrukweerstand of indentatie.
+De indrukweerstand wordt vooral gebruikt in de constructieleer en de metallurgie. Het wordt gewoonlijk gemeten door een harde punt of kogel met standaardafmetingen tegen een materiaal aan te drukken en vervolgens te meten hoe groot het deukje is, dat in het geteste materiaal is gevormd.
+Terwijl de meetpunt in het materiaal gedrukt wordt, neemt het contactoppervlak geleidelijk toe, waardoor de druk van de punt op het materiaal afneemt. Op dat moment dringt de punt niet verder in het materiaal door.
+De meetmethode en analyse werden vastgelegd in een internationale standaard (ISO 14577).
+Manieren.
+De methode werkt alleen, als het materiaal van de meetpunt harder is dan het te testen materiaal.
+De hardheid die volgens een bepaalde methode wordt gemeten, kan niet eenvoudig worden omgerekend naar de meetwaarde voor een andere methode, omdat de omstandigheden waaronder de proeven worden gedaan verschillend zijn.
+Terugslaghardheid of dynamische hardheid.
+Bij een terugslagmeting laat men vanaf een vastgelegde hoogte, bijvoorbeeld 25 cm, een klein gewichtje op het materiaal vallen.
+Als het gewichtje omhoog stuitert, wordt gemeten hoe hoog het gewicht komt. Indien het gewichtje bijvoorbeeld terugstuitert tot 60% van de oorspronkelijke hoogte, is 40% van de toegevoerde energie bij het stuiteren verloren gegaan. Deze energie zal voor een belangrijk deel zijn gebruikt voor de plastische vervorming van het proefmateriaal.
+Een voorbeeld van een instrument voor het bepalen van de terugslaghardheid is de Shore scleroscoop, uitgevonden door Albert F. Shore omstreeks 1907.
+De terugslaghardheid wordt ook "absolute hardheid" genoemd.

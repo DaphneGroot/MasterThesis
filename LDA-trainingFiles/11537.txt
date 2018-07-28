@@ -1,0 +1,38 @@
+Stelling van Pythagoras.
+Afbeelding van een rechthoekige driehoek ter illustratie van de stelling van Pythagoras
+De stelling van Pythagoras is een wiskundige stelling die haar naam dankt aan de Griekse wiskundige Pythagoras. 'Zijn' stelling was overigens alleen maar nieuw voor de Grieken. In Soemer was het resultaat al veel langer bekend en ook in Babylonië en het oude Egypte werd ze al eerder toegepast (met name de verhouding a=3;b=4;c=5 werd al vroeg gebruikt om rechte hoeken uit te meten, zoals dat tot op de dag van vandaag door sommigen nog wordt gedaan). Naast kennis van de stelling om haar toe te kunnen passen, is ook het leveren van een bewijs belangrijk. Wat dat betreft waren de Grieken (Pythagoras of een van zijn leerlingen) wel de eersten. Zij wisten niet alleen dat de stelling waar was, maar konden ook in algemene termen (abstracties) aantonen waarom zij waar was.
+Stelling.
+De stelling van Pythagoras is equivalent met het parallellenpostulaat. Daarom geldt de stelling van Pythagoras niet in niet-euclidische meetkunde.
+Voorbeeld.
+Omdat de lengte "c" niet negatief kan zijn, is
+Omdat de lengte "a" niet negatief kan zijn, is
+Bewijzen.
+Er bestaan meer dan 350 bewijzen voor de stelling van Pythagoras. Onder deze bewijzen zijn er die zijn ontdekt of mogelijk herontdekt door prominenten, zoals James Garfield, de 20e president van de Verenigde Staten, en Multatuli.
+Bewijs met opdelen vierkant.
+Een van de meer eenvoudige bewijzen deelt een vierkant met zijde a+b op twee manieren in. In de linkerfiguur is het vierkant opgebouwd uit een vierkant met zijde a, een vierkant met zijde b, en 4 rechthoekige driehoeken. De rechterfiguur is een vierkant opgebouwd uit een vierkant met zijde c en dezelfde 4 rechthoekige driehoeken.
+Beide figuren tonen een vierkant met zijde a+b, dus beide vierkanten hebben dezelfde oppervlakte. Laat men nu zowel links als rechts de vier rechthoekige driehoeken weg, dan hebben de figuren die overblijven nog steeds dezelfde oppervlakte. Links blijven een vierkant met zijde a en een vierkant met zijde b over, met een gezamenlijke oppervlakte van a²+b². Rechts resteert een vierkant met zijde c. Het vierkant met zijde c heeft een oppervlakte van c². Hiermee is de stelling bewezen.
+Telkens zijn er een korte en een lange zijde in elkaars verlengde geplaatst.
+De lengte en breedte van de zijden van het vierkant zijn (a+b), dus de oppervlakte van het grote vierkant is (a+b)².
+De oppervlakte is ook gelijk aan de som van de vier driehoeken (4 × ½ab) plus de oppervlakte van het binnenste vierkant, dat oppervlakte c² heeft.
+Bewijs met gelijkvormigheid.
+Een ander inzichtelijk bewijs maakt gebruik van een hulplijn. Hiertoe dient de hoogtelijn vanuit de rechte hoek "C", die zijde "AB" snijdt in het punt "D".
+Het is nu snel in te zien dat driehoek "ACD" gelijkvormig is aan driehoek "ABC". Immers, de hoeken bij "A" zijn dezelfde, en beide driehoeken hebben ook een rechte hoek, bij "C" resp. "D".
+Op dezelfde manier blijkt dat driehoek "CBD" gelijkvormig is aan driehoek "ABC". Er dus drie gelijkvormige driehoeken. Wordt gekeken naar de verhoudingen van de lengtes van de zijden van de driehoeken, dan ziet men dat die gelijk zijn aan "a":"b":"c", precies de schuine zijden van de drie driehoeken. Dat betekent dat de oppervlaktes van de driehoeken zich verhouden als "a"²:"b"²:"c"², de kwadraten van de verhoudingen van de zijden. Omdat duidelijk is dat opp("CBD") + opp("ACD") = opp("ABC"), geldt kennelijk voor een bepaald getal "k" dat "ka"²+"kb"²="kc"². De stelling van Pythagoras volgt door deling door "k". □
+Bewijzen zonder woorden.
+Hoewel geen formeel bewijs, is het "bewijs zonder woorden" een populaire manier om de geldigheid van een stelling te visualiseren zonder daarbij tekst te gebruiken. Ook van de stelling van Pythagoras zijn diverse bewijzen zonder woorden bekend, met name zogenaamde "puzzelstukjesbewijzen". Enkele voorbeelden staan hieronder.
+Omkering.
+dan is die driehoek rechthoekig, met de hoek die tegenover de zijde c ligt de rechte hoek.
+Als geldt dat a2+b2 > c2, dan is de hoek die niet aan c ligt scherp, en als a2+b2 < c2, dan is die hoek stomp. Dit volgt meer precies uit de cosinusregel, die geldt als een uitbreiding van de stelling van Pythagoras voor alle driehoeken.
+Hier is "γ" de hoek bij hoekpunt C. De stelling van Pythagoras is een bijzonder geval van de cosinusregel, omdat cos(90°)=0.
+Pythagorese drietallen.
+De kleinste positieve gehele getallen die aan relatie van de stelling van Pythagoras voldoen zijn 3,4,5, immers 3² + 4² = 5². Zo'n drietal heet een Pythagorees drietal. Uiteraard voldoet ook elk geheel veelvoud hiervan, zoals 6² + 8² = 10². Dit is eenvoudig als volgt in te zien: als (a,b,c) een Pythagorees drietal is, dan geldt dat a² + b² = c². Daaruit volgt dat k²(a² + b²) = k²c², ofwel k²a² + k²b² = k²c², dus is (ka,kb,kc) ook een Pythagorees drietal.
+Ook als men de veelvouden van een drietal niet meetelt, dus als de drie getallen relatief priem zijn, zijn er oneindig veel combinaties van positieve gehele getallen die aan de vergelijking x²+y²=z² voldoen. (5,12,13) is een andere bekende combinatie.
+waarin "t" en "s" positieve gehele getallen zijn, relatief priem en met "t
+"s".
+Voor t=2 en s=1 volgt de relatie 3² + 4² = 5².
+Euclidische afstand.
+Door herhaling van de stelling van Pythagoras in driehoek "ABC" en vervolgens driehoek "ACD" vindt men dat de lichaamsdiagonaal "AD" een lengte heeft die de wortel is uit de som van de kwadraten van de drie ribben "AB", "BC" en "CD".
+De afstandsformule in het cartesisch coördinatenstelsel is van de stelling van Pythagoras afgeleid. De euclidische afstand van een punt ("x"1, "y"1) tot een punt ("x"2, "y"2) is gegeven door
+Wordt gekeken in "n" dimensionale cartesische coördinaten, dan is de afstand van formula_16 tot formula_17 gedefinieerd door
+Deze algemene formule kan men afleiden door herhaling van de afstandsformule in 2 dimensies.
+Dit kan men zich voorstellen door in drie dimensies te kijken naar een balk (zie figuur hiernaast). De ribben in de drie verschillende richtingen horen bij de verschillen van de "x"-, "y"- en "z"-coördinaten. Men vindt nu de lengte van de lichaamsdiagonaal "AD" door eerst te zien dat "AC"² = "AB"² + "BC"² (driehoek ABC is recht) en vervolgens dat "AD"² = "AC"² + "CD "² (ook driehoek ACD is recht). Dit is te comineren tot "AD"² = "AB"² + "BC"² + "CD "²

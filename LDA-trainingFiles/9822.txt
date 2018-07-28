@@ -1,0 +1,21 @@
+Waterslag (hydraulica).
+Waterslag is een begrip uit de hydraulica. Waterslag treedt op wanneer de stroming van een vloeistof in een gesloten leiding plotseling tot stilstand wordt gebracht, bijvoorbeeld door het abrupt sluiten van een kraan of het stoppen van een pomp, of wanneer de stroming plots gestart wordt (het starten van een pomp). De energie van het stromende water wordt dan omgezet in een drukgolf die door de leiding gaat lopen.
+Bij het stoppen van dit water treedt een drukverandering op (oorspronkelijk een verhoging). Deze drukverandering kan berekend worden met de zogenaamde formule van Zjoekovski, naar de Russische ingenieur Nikolaj Zjoekovski.
+Oók bij het snel starten van een stroming kan waterslag optreden, bijvoorbeeld door het snel openen van een klep bij een leiding op druk ontstaat een negatieve drukgolf.
+Bepaling golfsnelheid "a" [m/s].
+De bovenstaande formule kan voor buizen met relatief kleine diameter d en/of dikke wanden e benaderd worden door
+De drukverandering (deze is in het begin positief, maar nadien ook negatief; zie verder) kan tientallen kPa bedragen en de leidingen doen scheuren.
+Sluittijd.
+Voor deze berekening moet de snelheidsverandering ∆"v" dan wel optreden binnen een bepaalde tijd. Deze tijd is afhankelijk van bijvoorbeeld de sluitsnelheid van een kraan.
+Fysische achtergrond.
+Wanneer in een leiding het water tot stilstand wordt gebracht (door een afsluiter), zal het water door de massatraagheid verder blijven stromen. Aan de afsluiter echter kan het water niet meer verder terwijl er nog steeds bij komt, de waterdruk stijgt dan ook (want er is meer massa water voor een constant volume).
+Deze drukverhoging doet het water dicht bij de afsluiter (zonder ermee in contact te staan) ook stoppen. Op die manier loopt een golf van water dat tot stilstand komt en tegelijkertijd een drukgolf, vanaf de afsluiter tot de pomp. De golf heeft een tijd nodig van formula_7 om de pomp te bereiken.
+Nu staat het water in de leiding overal stil, maar is er overal een overdruk. Het water zal zich dus "ontspannen" en terug beginnen stromen. Dit gaat goed, tot het ontspannen de afsluiter bereikt. Het water dat daarvan wegstroomt 'weet' niet dat de leiding verderop dicht is, er zal dan ook een drukverlaging optreden (minder water voor een constant volume). Deze golf rolt opnieuw naar de pomp. Dit proces gaat oneindig verder (indien er geen wrijving is).
+Praktijk.
+In de praktijk ontstaat waterslag wanneer
+Gevaar.
+Onder andere bij waterleidingbedrijven (met lange transportleidingen) is waterslag gevaarlijk. Als gevolg van waterslag kan het voorkomen dat leidingen scheuren. Industriële leidingen worden daarom nooit abrupt afgesloten, maar langzaam, om waterslag te voorkomen. Ook kunnen in de leiding veiligheidsventielen worden opgenomen welke open gaan als de druk boven een bepaalde waarde stijgt.
+Waterslag veroorzaakt dikwijls een doffe tik in de leidingen, dit kan als zeer hinderlijk worden ervaren. In woningen wordt waterslag vaak bestreden door het plaatsen van een waterslagdemper. Deze wordt meestal aangebracht in de nabijheid van de (af)wasmachineaansluiting.
+Toepassing.
+De energie in de drukgolf van de waterslag wordt in een waterslagpomp gebruikt om water naar een hoger niveau te pompen. De waterslagpomp gebruikt stromend water om een klep plotseling te sluiten, de waterslag die dan ontstaat perst water in de transportleiding. Als de waterstroom tot stilstand gekomen is, gaat de klep weer open en de cyclus begint opnieuw.
+Omdat een waterslagpomp maar twee bewegende kleppen bevat en geen externe (elektrische) energie nodig heeft, is deze vooral populair in ontwikkelingslanden en afgelegen gebieden.

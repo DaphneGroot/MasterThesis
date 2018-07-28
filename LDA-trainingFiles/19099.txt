@@ -1,0 +1,7 @@
+Manufacturing resources planning.
+Manufacturing resources planning wordt ook wel MRP II genoemd. Het is een systeem waarmee de manufacturing resources gepland worden, resources als materiaal, mensen en machines. Dit is een onderdeel van de logistiek.
+MRP II is een uitbreiding van MRP I, dit heet ook wel Material Requirements Planning. MRP I is een onderdeel van MRPII.
+MRP is een integrale productiebesturing. Hiermee wordt een prognose van de te vervaardigen eindproducten gemaakt.
+Het aantal mensen, machines, voorraden, etc wordt hierbij op de prognose ingesteld.
+Indien er naast de productiebesturing ook het managen van (alle) andere bedrijfsprocessen van belang is voor de integrale bedrijfsvoering,
+moet MRP II worden "opgeschaald" naar een "Enterprise Resources Planning" ook wel afgekort tot "ERP".

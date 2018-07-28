@@ -1,0 +1,39 @@
+Opera (webbrowser).
+Opera is een webbrowser en internet suite die ontwikkeld wordt door het Noorse bedrijf Opera Software. Het programma heeft een nieuwsgroepenlezer, een RSS-lezer, een IRC-client en een BitTorrent-client. Vroeger had Opera ook een geïntegreerde e-mailfunctie, maar die is van Opera ontkoppeld tot een apart programma, geheten Opera Mail.
+Algemeen.
+De browser is beschikbaar voor een groot aantal platforms waaronder Windows, Solaris, macOS, Linux, FreeBSD, QNX, 2 en BeOS. Opera is niet alleen beschikbaar voor de pc, maar ook voor de mobiele telefoon, Nintendo DS en Nintendo's Wii in de vorm van Opera Mini en Opera Mobile. Daarnaast is er een 'portable' versie beschikbaar, waardoor Opera vanaf bijvoorbeeld een USB-stick kan werken.
+Opera had in januari 2010 een marktaandeel van 2,1 procent en was daarmee de vijfde browser. In januari 2013 had Opera een marktaandeel van 1,19 procent. Het marktaandeel van Opera is redelijk stabiel maar vertoont een licht dalende trend.
+Functies.
+Opera werkt standaard met een Tabbed Document Interface (TDI) als aanvulling op een Multiple Document Interface (MDI). Ook kan worden gekozen voor een Single Document Interface (SDI). Opera was de eerste die al deze modi ondersteunde. Opera was een van de eerste browsers die het concept "Tabbed Browsing" introduceerden (InternetWorks was de eerste). Tegenwoordig bieden bijna alle webbrowsers de mogelijkheid om tabs te gebruiken.
+Een andere vernieuwing zijn de zogenaamde muisgebaren"." Deze stellen de gebruiker in staat om veel gebruikte opdrachten, zoals "herladen", "nieuwe pagina", "terug" en dergelijke sneller uit te voeren. Muisgebaren werken door een muisknop in te drukken en tegelijkertijd een beweging met de muis te maken.
+Opera onderscheidt zich verder van andere browsers door de uitgebreide toetsenbordnavigatie. Zonder de muis te gebruiken, kunnen hyperlinks op een webpagina worden aangewezen door een combinatie van de Shift-toets en de pijltjestoetsen.
+Inkomsten.
+Sinds versie 8.50 van september 2005 is Opera gratis en reclamevrij. In eerdere gratis versies zat een advertentiebanner, die enkel na aanschaf van een licentie verborgen werd. Het bedrijf Opera genereert nu inkomsten uit de zoekacties die met de browser gemaakt kunnen worden en door de verkoop van Opera voor de mobiele telefoon.
+Opera 9.00.
+Op 20 juni 2006 kwam versie 9.0 uit. Opvallende vernieuwing in deze versie was de toevoeging van BitTorrent-ondersteuning.
+Opera 10.00.
+Op 4 december 2008 kwam de eerste alfaversie van Opera 10.0 uit. De belangrijkste wijzigingen zijn een verbeterde regex-engine en een ingebouwde spellingcontrole. Opera 10.0 haalt een score van 100% op de Acid3-test.
+Op 3 juni 2009 werd de eerste bètaversie van Opera 10.00 uitgebracht. Opera 10 bevatte de nieuwe layout-engine Presto 2. Verschillende belangrijke sites verwerkten de versienummering in de User-Agent-string verkeerd omdat Opera toen de enige webbrowser was met een versienummer van twee cijfers. In de alfaversie was de User-Agent Opera/10.00 (Windows NT 6.1; U; en) Presto/2.2.0, iets wat in de bètaversie veranderd werd naar Opera/9.80 (Windows NT 6.1; U; nl) Presto/2.2.15 Version/10.00.
+Met Opera 10 werd ook "Opera Turbo" geïntroduceerd. Dit versnelt het surfen over internet wanneer men gebruikmaakt van een langzame verbinding. Door Opera Turbo in te schakelen, wordt een proxyserver gebruikt die eerst de webpagina opvraagt en comprimeert, en vervolgens het resultaat naar de browser stuurt. Zelfs foto's, zoals JPEG-bestanden (die reeds gecomprimeerd zijn), worden nog eens extra gecomprimeerd. Dat betekent ook dat de afbeeldingen en foto's van een website van mindere kwaliteit zijn.
+Opera 10.50.
+Opera 10.50 is uitgegeven op 2 maart 2010. Nieuwigheid is een compleet vernieuwde JavaScript-engine. Ook is de ondersteuning voor CSS3 verbeterd en werd integratie met Windows 7 toegevoegd ("jumplists"). Verder werd privébrowsen, waarin de adressen van bezochte pagina's niet worden opgeslagen, mogelijk gemaakt.
+Opera 10.60.
+Opera 10.6 bevatte een snellere JavaScript-engine. Volgens Opera Software zou de engine tot wel 50% sneller zijn dan in versie 10.50. Verder werd ondersteuning voor HTML5-video met de videocodec WebM toegevoegd.
+Opera 11.00.
+Op 23 november 2010 kwam de eerste bètaversie van Opera 11 uit, de definitieve versie volgde op 16 december. Opera 11.00 kreeg een grondige herziening op het gebied van de grafische gebruikersomgeving. Zo werd het bijvoorbeeld mogelijk tabbladen te groeperen. Er is ook een nieuw uiterlijk voor muisgebaren. Opera biedt vanaf deze versie ook extensies, net zoals Mozilla Firefox en Google Chrome. Alhoewel de specificatie van Opera-extensies sterk lijkt op Google Chrome-extensies, is het niet volledig hetzelfde wat ervoor zorgt dat er geen Google Chrome-extensies kunnen gebruikt worden in Opera.
+Opera 11.10.
+In april 2011 verscheen de definitieve versie van Opera 11.10. De Speed Dial-pagina werd volledig herzien en de Turbomodus (Opera Turbo) werd versneld.
+Opera 12.00.
+Opera 12.00 maakt meer gebruik van hardwareversnelling. Opera 12 is de eerste versie van Opera die ook beschikbaar is in een 64 bitversie voor Mac en Windows, met de mogelijkheid om 32 bitplug-ins te draaien in een 64 bitversie van Opera. Voor Linux was al langer een 64 bitversie beschikbaar.
+Verder maakt Opera Unite niet langer deel uit van Opera, omdat dit platform nooit van de grond kwam en er weinig ontwikkelaars apps voor ontwikkelden. Ook widgets en text-to-speech-mogelijkheden worden weggelaten. Nieuw in Opera 12 is de ondersteuning voor Do-Not-Track, waarmee kan aangegeven worden om niet meer "gevolgd" te worden op het internet (persoonlijke advertenties). Verder is de ondersteuning voor thema's en extensies verbeterd en zorgt de WebGL-ondersteuning voor betere grafische prestaties. Ondersteuning voor HTML5 werd verbeterd met de toevoeging van een drag-and-drop-mogelijkheid, zodat het mogelijk is bestanden te uploaden door middel van slepen.
+Ondersteuning voor het aanspreken van webcams werd ook toegevoegd aan Opera 12.
+De laatste officiële versie van Opera 12 was 12.15, uitgebracht in april 2013. In juli 2013 is nog versie 12.16 verschenen, maar alleen voor gebruikers die niet wilden overstappen naar Opera 15. In april 2014 kwam versie 12.17 uit (uitsluitend bestemd voor Opera voor Windows) om de gevolgen van het Heartbleedlek te repareren. Versie 12.18 (een veiligheidsupdate voor Windows) verscheen in februari 2016.
+Opera 15.
+In Opera 15 werd M2 (Opera-mailcliënt) geschrapt. Opera Mail zal voortaan als applicatie op zich uitgebracht worden en niet langer deel uitmaken van de internet suite. Grote verandering in versie 15 is tevens het gebruik van Blink (fork van WebKit) en Chromium-code.
+Opera 18.
+Opera 18 bevat enkele nieuwe functies, zoals thema's, versleepbare tabbladen, microfoon- en camera-integratie. De gebruiker kan nu ook een aangepaste zoekmachine aanmaken.
+Opera 19.
+Opera 19 zal opnieuw Opera Sync bevatten. Deze functie was gesneuveld bij de migratie naar de Chromium-code.
+My Opera.
+My Opera was de virtuele gemeenschap van Opera, waaraan iedereen gratis kon deelnemen na het aanmaken van een account. My Opera was vergelijkbaar met andere sociaalnetwerksites. Het gaf de gebruikers bijvoorbeeld de mogelijkheden een blog te maken en foto's te uploaden. Tevens was er de mogelijkheid om vanuit de browser van Opera je persoonlijke bestanden, zoals bladwijzers, automatisch online te laten opslaan via een account van My Opera. Dit wordt synchroniseren genoemd.
+Op 3 maart 2014 is Opera gestopt met My Opera en Opera Mail.

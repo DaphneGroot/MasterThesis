@@ -1,0 +1,63 @@
+Condensator.
+Klassieke plaatcondensator, met lucht en glas als tussenstof (diëlektricum). De condensator kan worden aangesloten door stekkers in de gaatjes te steken. Schulhistorische Sammlung Bremerhaven.
+Vier Leidse flessen in Museum Boerhaave, Leiden. De Leidse fles was de eerste praktische condensator.
+Ladingsscheiding (+Q, -Q) in een condensator met parallelle platen veroorzaakt een inwendig elektrisch veld "E". Een dielektricum (oranje) verkleint de veldsterkte en vergroot de capaciteit van de condensator.
+Een condensator is een elektrische component die elektrische lading opslaat, opgebouwd uit twee geleiders met een relatief groot oppervlak, die zich dicht bij elkaar bevinden en gescheiden zijn door een niet-geleidend materiaal of vacuüm, het diëlektricum.
+Wanneer de ene geleider positief geladen wordt ten opzichte van de andere, verplaatsen de aan moleculen in het diëlektricum gebonden elektronen zich een beetje naar de positief geladen geleider. De naam is afgeleid van het Latijn "condensare": samenpersen, dus "condensator" = samenperser, wat betrekking heeft op de ladingen die samengeperst worden bij de polen (platen) van de condensator.
+Capaciteit.
+Naarmate een condensator lading opneemt, stijgt de spanning over de condensator.
+Het vermogen van een condensator om lading op te slaan, het aantal coulomb per volt, heet de "capaciteit" van de condensator en wordt gemeten in de eenheid farad. De capaciteit is afhankelijk van
+Diëlektricum.
+De geleiders zijn van elkaar geïsoleerd, maar in de praktijk laat het materiaal in de tussenruimte (het diëlektricum) toch een kleine "lekstroom" door. In schakelschema's wordt dit in rekening gebracht middels een grote weerstand die parallel staat aan de condensator. Bovendien is er een bovengrens aan de sterkte van het elektrisch veld dat tussen de geleiders van een condensator kan worden aangelegd: de "doorslagspanning".
+Parasitaire capaciteit.
+Vele elektrische componenten zoals kabels zijn onbedoeld tevens condensatoren met een zekere capaciteit. Dit heet dan een 'parasitaire capaciteit'. Daardoor wordt een bovengrens opgelegd aan de frequentie van het door te geven signaal.
+Biologie.
+Het biologische celmembraan en het oppervlak van een elektrode in een elektrolyt gedragen zich ook als condensatoren.
+Condensator en spoel.
+De elektrische tegenhanger van de condensator is de spoel. Terwijl een ideale condensator een oneindig grote impedantie vormt voor gelijkstroom, en voor een wisselstroom een impedantie die kleiner wordt naarmate de frequentie toeneemt, is een ideale spoel juist een volmaakte geleider voor gelijkstroom, terwijl zijn impedantie toeneemt met de frequentie van een wisselstroom. Condensatoren en spoelen worden toegepast in scheidingsfilters, die wisselstroomsignalen afhankelijk van hun frequentie doorlaten of tegenhouden.
+Uitvinders.
+De eerste condensator was de Leidse fles: een glazen fles gevuld met geleidend water met tinfolie aan de buitenkant en in latere types ook aan de binnenkant. De capaciteit was van de orde van 7 nF. Deze werd uitgevonden zowel door de Duitser Ewald Georg von Kleist in oktober 1745 als onafhankelijk van hem mogelijk al in 1744 aan de Universiteit Leiden door Pieter van Musschenbroek, vandaar de naam.
+Basisformules.
+De condensator is verbonden met een staafbatterij waardoor de platen van de condensator geladen zijn met elektrische ladingen "+Q" en "-Q", wat gepaard gaat met een elektrisch veld (pijltjes) tussen de platen
+Een condensator kan elektrische lading opslaan. Dit vermogen wordt de capaciteit van de condensator genoemd en uitgedrukt in de eenheid farad (symbool F). Een condensator die een lading bevat van 1 coulomb terwijl er een spanning van 1 volt tussen de platen staat, heeft een capaciteit van 1 farad.
+Het verband tussen de capaciteit "C" van de condensator in farad, de lading "Q" in coulomb op de condensator, de spanning "U" in volt over de condensator wordt gegeven door
+Plaat- en elektrolytische condensator.
+Een condensator van 10 millifarad in een TRM-800 versterker.
+Het standaardmodel voor de werking van condensatoren is de plaatcondensator.
+Het symbool, twee evenwijdige strepen, is daarvan afgeleid.
+Voor de eenvoudigste condensator, de plaatcondensator, is de capaciteit als volgt te berekenen. De platen zijn overal gelijk (nemen we aan) en hebben een oppervlakte "A" en een ladingsdichtheid
+op het oppervlak van de platen. Als de afmeting van de platen veel groter is dan hun tussenafstand "d", is het elektrische veld rond het midden van de condensator gelijk aan
+met formula_8 de permittiviteit van de tussenstof (diëlektricum). De spanning is gedefinieerd als de lijnintegraal van het elektrische veld tussen de platen
+Met formula_10 vinden we
+De capaciteit van de condensator neemt toe met de oppervlakte "A" van de platen, maar wordt kleiner als de platen verder uit elkaar staan (dan wordt de tussenafstand "d" groter). Verder is de capaciteit evenredig met de permittiviteit "ε" van het diëlektricum.
+Een belangrijke uitvoering, speciaal voor grote capaciteiten, is de elektrolytische condensator (elco). Deze bestaat uit twee opgerolde (voor groot oppervlak) lagen aluminiumfolie gescheiden door papier of poreuze kunststof, gedrenkt in een elektrolyt. De elektrolyt maakt het papier geleidend, waardoor dat deel uitmaakt van een van de "platen". Het diëlektricum wordt gevormd door aluminiumoxide op een van beide platen. Aluminiumoxide is uiterst dun waardoor de capaciteit zeer hoog is. Nadeel is dat het oxide in stand wordt gehouden door de aangebrachte spanning. Elektrolytische condensatoren zijn daardoor "gepoold": ze hebben een plus- en een minpool. Bij omkeren van de spanning wordt het diëlektricum vrij snel afgebroken, waarna er kortsluiting ontstaat.
+Gelijk- en wisselstroom.
+Een condensator beïnvloedt het vloeien van elektrische stroom. Voor gelijkstroom is hij een blokkade: er vloeit slechts een stroom totdat de condensator opgeladen is. Bij een aangelegde wisselspanning wordt de condensator afwisselend geladen, ontladen en tegengesteld geladen, waardoor schijnbaar stroom wordt doorgelaten; in het circuit waarin de condensator is opgenomen loopt een wisselstroom.
+Gelijkstroomschakeling: op- en ontladen.
+Een serieschakeling met een weerstand, een condensator, een schakelaar en een gelijkspanningsbron die een spanning "U"0 levert kan gebruikt worden om een condensator op te laden.
+Als de condensator aanvankelijk ongeladen was en de schakelaar gesloten wordt op tijdstip "t" = 0, wordt de lading "Q" op de condensator op een tijdstip "t" opgebouwd door de stroom "i"("t") tot dusver (we berekenen de tijdsintegraal (optelling) van de stroom "i"("t"))
+zodat de spanning "U"C over de condensator geschreven kan worden als
+Met de Kirchhoffs Spanningswet en de Wet van Ohm volgt voor de constante totale spanning
+waarbij "U"R de spanning over de weerstand is.
+Als we de afgeleide naar de tijd nemen en vermenigvuldigen met "C", krijgen we een eerste-orde lineaire differentiaalvergelijking
+Op tijd "t" = 0 is de spanning over de condensator nog 0 V maar de spanning over de weerstand "U"0. De elektrische stroom "i" op tijdstip "t" = 0 is
+dus vinden we als oplossing van de differentiaalvergelijking
+met "τ"0 = "RC", de "tijdconstante" van het systeem.
+Terwijl de spanning over de condensator toeneemt, neemt de spanning over de weerstand "R" en de stroom door de hele schakeling exponentieel af. Het omgekeerde geval - de "ontlading" van een geladen condensator over een weerstand zonder spanningsbron - geschiedt ook exponentieel, maar dan vervangt de aanvankelijke spanning over de condensator "U"0. De eindspanning is 0 V.
+Complexe impedantie.
+de (complexe) impedantie van de condensator, de zogenaamde "capacitantie". Dit is een uitbreiding van de Wet van Ohm.
+De fasedraaiing "φ" is dan kleiner dan 90° (want tan("φ") = "ωR"c"C") en er wordt wel elektrisch vermogen gedissipeerd. De factor "R"c"C" heeft de dimensie tijd, in seconden (als "R" in Ω en "C" in F). Deze "tijdconstante" speelt een herkenbare rol bij stapsgewijze verandering van de spanning over een condensator.
+Uitvoeringen.
+Door zijn mechanische constructie en de gebruikte materialen heeft men een grote verscheidenheid in types. De voornaamste karakteristieken die de keuze bepalen zijn: de capaciteit, de tolerantie, verlieshoek, toegelaten temperatuur, stabiliteit en fysieke afmetingen.
+Met de huidige techniek slaagt men er in miniatuurcondensatoren te bouwen met vrij grote capaciteit. Dit geldt vooral voor keramische SMD condensatoren, die de rol van kleine elco's kunnen overnemen.
+Parallelschakeling.
+Voor de vervangingscapaciteit "C"P bij parallelle schakeling (verticaal gericht naast elkaar) van "n" condensatoren met capaciteiten "C"1..., "C"n worden de afzonderlijke capaciteiten opgeteld omdat de spanningen over de condensatoren gelijk zijn maar de lading zich verdeelt. De formule wordt als volgt afgeleid. Voor de afzonderlijke condensatoren geldt in het algemeen
+maar over alle condensatoren staat dezelfde spanning
+zodat voor de totale capaciteit "C"P van de parallelle condensatoren samen geldt
+waarbij het sommatie-teken Σ is gebruikt voor de optelling van de ladingen "Qi" voor "i" = 1,2..,"n".
+Serieschakeling.
+De vervangingscapaciteit "C"S bij serieschakeling (achter elkaar) van "n" condensatoren met capaciteiten "C"1,"C"2..,"Cn", wordt analoog aan parallelle weerstanden berekend als de inverse van de som van de inversen van de afzonderlijke capaciteiten. Dit is een gevolg van het optellen van de spanningen "U" van iedere condensator. We krijgen
+Uitgewerkt voor twee in serie geschakelde condensators geeft dit
+Aanduiding van de capaciteit.
+Bij bepaalde condensatoren wordt de capaciteit expliciet op de behuizing vermeld, inclusief de eenheid, bijvoorbeeld 470 μF, bij andere zonder de eenheid en dan is de impliciet aangenomen eenheid de picofarad. Indien er gebruik wordt gemaakt van een kleurcodering voor elektronica is het systeem bij de eerste drie banden (geteld vanaf de bovenkant/buitenkant van de condensator) analoog aan dat van de weerstand, dus de eerste band geeft de tientallen, de tweede band de eenheden en de derde band de vermenigvuldigingsfactor (macht van 10) weer, dit alles in picofarad. Een vierde band kan de tolerantie weergeven zoals bij weerstanden, en de vijfde band de maximaal toegelaten spanning. Bij een opdruk met drie cijfers zonder expliciet aangegeven eenheid is ook het derde cijfer de vermenigvuldigingsfactor (macht van 10). Een keramische condensator met bijvoorbeeld opdruk 104 heeft een capaciteit van 10 × 104 = 100.000 pF = 100 nF = 0,1 μF.
+Verder kan de capaciteit van condensatoren gemeten worden met speciale capaciteitsmeters, die vaak ook onderdeel zijn van multimeters. Ook zijn "LC-meters" verkrijgbaar, waarmee men zowel condensatoren als spoelen kan doormeten.

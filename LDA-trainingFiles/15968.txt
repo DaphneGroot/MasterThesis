@@ -1,0 +1,7 @@
+Complementaire kleur.
+Complementaire kleuren zijn kleuren die tegenover elkaar staan in de kleurencirkel.
+Deze kleuren houden met elkaar verband door het feit dat als wit licht gereflecteerd wordt door een object van een bepaalde kleur, een gedeelte van het spectrum van dat licht door het object wordt geabsorbeerd. Het gereflecteerde licht heeft dan de kleur, die aangevuld (gecomplementeerd) met het geabsorbeerde deel wit licht oplevert.
+Sommigen blijven hieraan hechten omdat zij deze traditioneel complementaire kleurenparen als harmonischer beschouwen dan de hieronder genoemde. Men spreekt in dit geval wel van harmonische kleurenparen.
+Dit kan iedereen met een normaal kleurenzicht zelf controleren via de kleur van het nabeeld van een kleur.
+De K is hieraan bijgevoegd omdat inkten nooit zuiver zijn. Zoals rood met groen en blauw licht wit vormt, zouden cyaan, magenta en gele inkt samen zwart moeten vormen. Inkten zijn echter nooit perfect zuiver van kleur en dus wordt er een drukgang met zwart aan toegevoegd.
+De eerste die op de gedachte kwam dat kleuren in complementaire paren geordend konden worden, was Ignaz Schiffermüller in zijn "Versuch eines Farbensystems" uit 1772.

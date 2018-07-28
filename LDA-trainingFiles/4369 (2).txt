@@ -1,0 +1,28 @@
+Objectgeoriënteerd.
+Objectgeoriënteerd, vaak afgekort tot OO als afkorting voor het Engelse "Object-oriented", is een paradigma dat gebruikt wordt bij het "objectgeoriënteerd programmeren" en de "objectgeoriënteerde opslag" van data. Bij deze benadering wordt een systeem opgebouwd uit objecten.
+Eenvoudig gezegd bestaat een object uit bepaalde gegevens en de programmatuur die gebruikt wordt om die gegevens te verwerken. Bij voorkeur zijn die gegevens uitsluitend te benaderen via de bijbehorende programmatuur. Een bestand kan bijvoorbeeld als object worden gedefinieerd, waarbij de gebruiker van het object slechts lees- en schrijfopdrachten kan geven, en interne gegevens zoals de "handle" van het bestand aan het zicht worden onttrokken. Kenmerkend voor objecten is ook dat zij in een hiërarchisch verband tot elkaar kunnen staan: zo is een invoerbestand een "soort" bestand.
+Objectgeoriënteerd programmeren biedt "niet" de mogelijkheid om een nieuw soort toepassingen te implementeren. Het dient uitsluitend om programma's beter te structureren, met het oog op de overzichtelijkheid, herbruikbaarheid van componenten, e.d. In dat opzicht is het een logische volgende stap na de opkomst van "go-to-less"-programmeren en modulair programmeren enkele decennia eerder.
+Het objectgeoriënteerde paradigma kende een opmars in het begin van de jaren 90. Vele talen ondersteunen tegenwoordig objectgeoriënteerd programmeren.
+De eerste twee voorzieningen zijn niet specifiek voor objectoriëntatie, maar worden ook gebruikt in modulaire programmeertalen zoals Modula, Ada en CLU. De specifieke kenmerken van overerving en polymorfisme zijn tegelijk de meest controversiële.
+Geschiedenis.
+Het objectgeoriënteerde programmeerparadigma werd voor het eerst gebruikt in de programmeertaal Simula van Ole-Johan Dahl en Kristen Nygaard in de jaren 60 van de 20e eeuw.
+Een tweede, veel radicaler objectgeoriënteerde taal is Smalltalk, ontwikkeld in de jaren 70 bij Xerox PARC.
+Smalltalk is veel populairder geworden dan Simula, vooral voor prototyping; voor ontwikkeling van productiesoftware is de taal minder geschikt.
+De eerste objectgeoriënteerde taal die grootschalige aanhang verwierf onder professionele softwareontwikkelaars was C++, ook tegenwoordig een van de meest gebruikte programmeertalen. Naast C++ ontstonden in de jaren 80 ook Object Pascal, Objective C en andere veelgebruikte objectgeoriënteerde talen. De principes vonden zeer breed ingang in de ontwikkelpraktijk.
+Van de nieuwere objectgeoriënteerde talen zijn de meest gebruikte Java (bekend vanaf 1995) en (vanaf 2001).
+De OO-talen zijn een verbeterde versie van de derdegeneratietalen. Ze worden ook wel vijfdegeneratietalen genoemd.
+Concept.
+De meeste objectgeoriënteerde talen zijn gebaseerd op het klasse-concept.
+Met een speciale "constructor"-functie kunnen objecten worden "geïnstantieerd". Elk object heeft zijn eigen waarden van eigenschappen en toestand.
+Deze aanpak doet natuurlijk aan omdat we op een vergelijkbare manier over de wereld denken.
+Bijvoorbeeld: de tafel waaraan u nu zit kunnen we beschouwen als een "object" van de "klasse" tafel;
+een specifieke "cirkel" in de meetkunde als een object van de klasse cirkel.
+Als we in een programma een tafel of een cirkel nodig hebben, kunnen we die als klassen definiëren.
+Attributen zullen bijvoorbeeld de plaats van de tafel, of cirkel, vastleggen; methoden kunnen bijvoorbeeld het object verplaatsen of bepalen of een gegeven ander object zich erop bevindt.
+Overerving en polymorfisme.
+Een van de krachtige instrumenten van OO is de mogelijkheid tot hiërarchische classificatie. Een superklasse op het hoogste niveau kan in meerdere niveaus opgesplitst worden in lagere klassen. Daarbij 'erft' elke klasse op het lagere niveau de attributen en methoden van de klassen op het niveau boven de klasse. Dat mechanisme noemen we overerving (inheritance).
+Overerving laat ook toe "varianten" van klassen te maken. We spreken dan van basis- en specifiekere klassen. In sommige situaties kan de basisklasse aangeven welke operaties mogelijk zijn op een object, terwijl een specifieke klasse een specifieke implementatie van de operatie geeft. Zo kan een basisklasse codice_1 gemaakt worden, met methoden zoals"codice_2, codice_3, codice_4 en codice_5. Daarvan kunnen specifieke implementaties worden gemaakt zoals codice_6 en codice_7, die misschien heel verschillend werken (codice_4 en codice_5 hoeven bijvoorbeeld voor een cirkel niets te doen), terwijl code die een codice_1 gebruikt daar niets van hoeft te weten. Dit concept wordt polymorfisme genoemd.
+Inkapselen van data.
+Doordat een klasse de toegang tot attributen en methoden voor gebruik buiten de klasse kan limiteren, hoeft een programmeur niet na te denken over de interne werking van de klasse. Een cirkelklasse kan bijvoorbeeld zijn attribuut "codice_11" niet publiekelijk maken maar de verschillende methoden om de oppervlakte op te vragen of de diameter te veranderen wel. De cirkelklasse zou dan eenvoudig aangepast kunnen worden om toch in plaats van de diameter intern de straal op te slaan, zonder dat de gebruiker van de cirkelklasse dit hoeft te weten: de publiekelijke toegang tot de klasse is immers niet veranderd. Dit begrip wordt inkapselen (encapsulatie) genoemd.
+Objectgeoriënteerde gebruikersinterface.
+Een geheel ander soort objectgeoriënteerdheid treft men aan in de objectgeoriënteerde gebruikersinterface. Dit is een vorm van een grafische gebruikersomgeving waarbij de nadruk niet ligt op de programma's die gebruikt worden om taken uit te voeren, maar op de documenten of bestanden waarmee men werkt. De Workplace Shell van 2 is een voorbeeld van een dergelijke interface.

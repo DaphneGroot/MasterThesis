@@ -1,0 +1,7 @@
+Caro-Kann.
+Binnen het schaken wordt de schaakopening Caro-Kann gekenmerkt door de zetten 1.e4 c6. Hierna is het de bedoeling om 2.d4 met d5 te beantwoorden. Deze opening heeft iets weg van de Franse opening en heeft het voordeel dat de witveldige loper van zwart niet ingesloten wordt.
+De Caro-Kann is een oude opening die al bij Giulio Polerio in de 16e eeuw bekend was. Aan het eind van de 19e eeuw werd ze geanalyseerd door de Brit Horatio Caro en de Oostenrijker Marcus Kann; de verdediging werd echter pas als voldoende geclassificeerd nadat José Raúl Capablanca en Aaron Nimzowitsch haar gespeeld hadden. Michail Botvinnik speelde de verdediging met succes tegen Vasili Smyslov tijdens het wereldkampioenschap in 1958.
+Deze opening is ingedeeld bij de halfopen spelen en valt onder ECO-code B10.
+Klassiek (Capablancavariant).
+De witte pion op h5 kan een zwak punt vormen in het eindspel.
+De Caro-Kann heeft de reputatie een solide verdediging te vormen. Deze reputatie heeft ze te danken aan deze variant, waarin het makkelijk is openingen te vinden. Zwart verzwakt zijn pionstructuur niet wezenlijk en zal doorgaans ergens in het spel c5 spelen om het d4 veld aan te vallen. Zwart kan kiezen uit de korte en de lange rokade of kan zelfs de koning in het centrum laten staan. Als het eindspel aanbreekt heeft zwart vaak goede kansen vanwege de solide pionnenstructuur. Daarnaast heeft zwart meestal meer pionnen op de koningsvleugel.

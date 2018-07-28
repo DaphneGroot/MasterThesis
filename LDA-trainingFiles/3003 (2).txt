@@ -1,0 +1,7 @@
+Ohm (eenheid).
+De ohm (symbool: Ω, de Griekse hoofdletter omega) is de afgeleide SI-eenheid voor elektrische weerstand. De ohm is vernoemd naar Georg Ohm, een Duitse natuurkundige.
+De ohm is de elektrische weerstand tussen twee punten van een homogene geleider als bij een constant potentiaalverschil van 1 volt tussen die punten een constante stroom van 1 ampère ontstaat.
+Uitgedrukt in SI-eenheden: 1 Ω = 1 kgm2A−2s−3. De inverse is de siemens.
+Opschriften.
+De in de elektronica gebruikte weerstanden zijn meestal voorzien van een kleurcode die de waarde aangeeft.
+Bij een opschrift (ook op schakelschema's) wordt meestal niet Ω, kΩ of MΩ gebruikt maar R, K of M, waarbij de letter op de plaats van de komma staat. In plaats van 4,7 kΩ staat er dus 4K7.

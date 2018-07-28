@@ -1,0 +1,6 @@
+Structuur.
+Structuur is de manier waarop iets in elkaar zit, waarop elementen van een verzameling samenhangen. Niet alle verzamelingen hoeven geheel of gedeeltelijk samenhangend te zijn, maar in een structuur is er een verband tussen alle elementen. Dat verband wordt bepaald door relaties tussen elementen onderling. Niet alle dingen hoeven daarbij met elk afzonderlijk element verbonden te zijn, het kan wel, maar hoeft niet.
+Een structuur kan opgelegd zijn: de keuze voor een bepaalde structuur en een bepaalde naamgeving van de elementen (taxonomie) gaan hand in hand.
+De wetenschap kent bijvoorbeeld natuurlijke talen een bepaalde structuur toe: hun grammatica.
+Hoe iets werkt (in tegenstelling tot hoe het in elkaar zit) heet een proces. Voor een proces is een geschikte structuur nodig.
+In de veeteelt wordt met structuur ook bedoeld de hoeveelheid grovere delen in het veevoer. Met name voor rundvee. Een rund heeft voor een goede werking in de pens grovere delen nodig zoals stro of hooi. Deze bevorderen een betere werking van de bacteriën die de voeding beter verteren en omzetten.

@@ -1,0 +1,7 @@
+Publicdomainsoftware.
+Publicdomainsoftware is over het algemeen software die door de ontwikkelaars in het publiek domein is geplaatst, waarbij dus afstand is gedaan van de auteurs- of creatierechten.
+Meestal gaat het hier om software die is ontwikkeld door universiteiten of universitaire instellingen die andere onderzoeksinstellingen willen toelaten voordeel te halen uit hun ontwikkelingen en zo zelf mede bij te dragen tot de wetenschap of de uitvinderswereld.
+Een van de meest bekende publicdomainprogramma's is SPICE, dat in de CAE-wereld bekend is (was) als wiskundig model om het gedrag van elektronische schakelingen te voorspellen.
+In theorie is het mogelijk dat de auteursrechten op software zijn verlopen, maar met de huidige auteurswetten is die kans vrij klein: alleen software die door Ada Lovelace is geschreven is in het publieke domein.
+Software in het publieke domein zou men kunnen opvatten als de ultieme vorm van vrije software. Anders dan publicdomainsoftware wordt vrije software echter wel degelijk beschermd door auteursrecht, maar wordt het gepubliceerd onder een licentie die de gebruikers van de software bepaalde vrijheden toekent, zoals het aanpassen van de software. Programmatuur in het publieke domein bevat geen beperkingen maar ook geen bescherming van de rechten van de gebruikers.
+Nog verder staat publicdomainsoftware af van freeware, waarbij de gebruiker geen enkel recht wordt toegekend anders dan kosteloos gebruik en verspreiding in ongewijzigde vorm van de programmatuur. Toch worden deze twee nog weleens met elkaar verward.

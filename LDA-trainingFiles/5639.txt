@@ -1,0 +1,13 @@
+Geluidsdruk.
+Geluidsdruk is een snelle lokale drukvariatie in lucht of een ander medium rondom de heersende statische druk. Een lokale geluidsdruk wordt veroorzaakt door een lopende of staande geluidsgolf. In lucht is de statische druk gelijk aan de atmosferische druk. In lucht kan de geluidsdruk gemeten worden met een microfoon bevestigd op een meetinstrument, een geluidsmeter. In water kan de geluidsdruk gemeten worden met een hydrofoon en bijbehorende elektronica.
+Een sterker geluid heeft een grotere maximale momentane druk dan een zwakker geluid. De amplitude van de drukwisselingen rond de evenwichtsdruk is dan groter.
+Wiskundige formulering.
+Omdat de geluidsdruk meestal zeer klein is, gebruikt men als geschiktere eenheid de μPa.
+De effectieve waarde wordt ook wel de RMS-waarde genoemd. RMS staat voor "root mean square", de wortel uit het gemiddelde van het kwadraat. Vaker wordt echter de term "equivalente waarde" gebruikt.
+Geluidsniveau.
+Geluidsdruk varieert in de praktijk zeer sterk. De laagste waarde die nog hoorbaar is ligt rond de 10-5 Pa voor iemand met een zeer goed gehoor. De geluidsdruk van een explosie kan oplopen tot 104 Pa. Daarom wordt de geluidsdruk veelal omgerekend naar een logaritmische waarde, het geluidsniveau of geluidsdrukniveau, internationaal aangegeven met SPL (Sound Pressure Level) in dB.
+In lucht is de referentiedruk internationaal vastgesteld op 2x10-5Pa. Dit is de gehoordrempel van een gemiddeld persoon bij een frequentie van 1000 Hz.
+De equivalente waarde van het geluidsniveau wordt aan geluid met Leq. Deze equivalente waarde wordt vaak gebruikt voor geluidnormering, zoals het geluidsniveau dat een werknemer tijdens een werkdag kan ervaren. In dat geval bedraagt de periode T waarover gemiddeld wordt 8 uur. Ook in de woonomgeving wordt de equivalente waarde gebruikt, bijvoorbeeld bepaald over het gehele etmaal.
+Menselijk gehoor.
+Het menselijk gehoor kan geluiden waarnemen met een geluidsdruk vanaf ca. 20 μPa (= 0,00002 Pa). Deze grens is indicatief en varieert per persoon, met de frequentie van het geluid, en met de leeftijd. Deze ondergrens noemt men de gehoordrempel. Als deze gehoordrempel is verhoogd kan er sprake zijn van gehoorschade.
+Gehoorschade bij kortstondige blootstelling ontstaat vanaf een geluidsdruk van circa 20 Pa. De pijngrens, het niveau waarboven geluid als pijnlijk wordt ervaren, varieert sterk per persoon: getallen tussen de 20 Pa en 200 Pa worden genoemd.

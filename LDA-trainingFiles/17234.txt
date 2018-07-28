@@ -1,0 +1,9 @@
+Tangens en cotangens.
+Tangens en cotangens zijn goniometrische functies. De naam tangens komt van 'raaklijn' in het Latijn ("tangens" betekent "rakend"). Het argument van de tangens en de cotangens wordt vaak gezien als een hoek en dat heeft te maken met de oorspronkelijke definitie van deze functies. De tangens was gedefinieerd als de verhouding van de overstaande en de aanliggende rechthoekszijde in een rechthoekige driehoek. Deze oorspronkelijke definitie beperkte echter het domein van het argument van 0° tot 90° (behalve 90° zelf, waar de tangens niet gedefinieerd is). De inverse functie van de tangens is de arctangens of boogtangens, die voor een gegeven waarde van de tangens als functiewaarde de oorspronkelijke hoek (tussen −90°en +90°) geeft.
+Goniometrische cirkel.
+De functiewaarde van de tangens loopt van 0 tot ∞, voor een argument lopend van 0° tot 90°, en van −∞ terug naar 0 voor een argument lopend van 90° tot 180°; daarbuiten wordt de functie periodiek voortgezet. Daarnaast geldt dat formula_1.
+De tangens wordt meestal aangeduid met "tan", en de cotangens met "cot". Vroeger werden de afkortingen "tg" en "cotg" gebruikt.
+Machtreeks.
+De tangens en cotangens kunnen ook in de vorm van een machtreeks geschreven worden, bijvoorbeeld als Taylorreeks.
+Daarin is formula_34 het zogenaamde "n"-de Bernoulligetal.
+Beschouwt men "x" als hoek, dan is "x" uitgedrukt in radialen.

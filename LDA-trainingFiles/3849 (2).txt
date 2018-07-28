@@ -1,0 +1,17 @@
+Logica.
+Logica of redeneerkunst is de wetenschap die zich bezighoudt met de formele regels van het redeneren. Traditioneel wordt de logica door de filosofie bestudeerd, maar zij wordt ook tot de wiskunde gerekend.
+De "logicus" (meervoud: "logici") is gespecialiseerd in deze tak van wetenschap, maar ook door wetenschappers binnen veel andere takken en subdisciplines van de wetenschap wordt veel gebruikgemaakt van de logica.
+Algemeen.
+Deze indeling is te vinden in de logische geschriften van Aristoteles, het Organon, en is tot op heden aanwezig in introducties in de logica Er is een aanzienlijk verschil tussen de traditionele of klassieke logica, die op Aristoteles' syllogistische logica is gebaseerd, en de sinds de 19de eeuw ontwikkelde symbolische of wiskundige logica en predicatenlogica.
+Als een formele wetenschap onderzoekt en classificeert de logica de structuur van beweringen en argumentaties, zowel door de studie van formele systemen van gevolgtrekking als door de studie van argumentaties in de natuurlijke taal. De studie van de logica reikt van kernzaken als de studie van drogredenen en paradoxen, tot gespecialiseerde analyse van redeneringen door gebruik van kansrekening en argumenten betreffende causaliteit. Logica wordt tegenwoordig ook gebruikt in argumentatieleer.
+Geschiedenis.
+15de-eeuws manuscript met de Zeven vrije kunsten, Logica en Aristoteles
+Meerdere antieke beschavingen hebben samenhangende systemen van redeneren gebruikt en vragen gesteld over logica of uitgesproken logische paradoxen.
+In India bevat de Nasadiya Sukta van de Rig-Veda (RV 10.129) ontologische speculaties in termen van verschillende logische divisies. Deze zijn later formeel geherformuleerd als de vier cirkels van "catuskoti": “A”, “niet A”, “A en niet A”, en “niet A en niet niet A”.
+De Chinese filosoof Gongsun Long (ca. 325–250 v.Chr.) formuleerde de paradox “één en één kunnen niet twee worden, aangezien geen van beide twee wordt”. In China is de traditionele academische studie van logica onderdrukt tijdens de Qin-dynastie op voorspraak van de rechtsfilosoof Han Feizi.
+Het eerste substantiële werk over logica dat overgeleverd is, is van Aristoteles. De academische formele logica, zoals we deze tegenwoordig kennen, stamt af van de Griekse traditie.
+Sinds de Middeleeuwen wordt logica bestudeerd als een vertakking van filosofie, een deel van het klassieke trivium, dat bestond uit grammatica, retorica en logica.
+Sinds halverwege de 19de eeuw wordt de "formele logica" bestudeerd in de context van de grondslagen van de wiskunde, waar het veelal symbolische logica genoemd wordt.
+Een van de belangrijkste notatiemethodes voor logica werd geformuleerd door Gottlob Frege, een grote inspiratiebron voor Bertrand Russell, die in 1903 samen met Alfred North Whitehead trachtte de logica formeel tot de hoeksteen van de wiskunde te ontwikkelen met de publicatie van de Principia Mathematica.
+Met uitzondering van het elementaire gedeelte worden deze beginselen niet meer gebruikt en zijn ze grotendeels vervangen door de verzamelingenleer.
+In de verdere ontwikkeling van de studie van formele logica ging het onderzoek niet alleen meer over fundamentele onderwerpen. De studie van verschillende toepassingen op het gebied van de wiskunde resulteerde in de opkomst van een wiskundige logica. De ontwikkeling van formele logica en haar implicaties voor computers behoort tot de fundamenten van de computerwetenschap.

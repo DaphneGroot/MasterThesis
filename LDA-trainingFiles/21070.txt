@@ -1,0 +1,9 @@
+GNU/Hurd.
+GNU/Hurd is een project dat het doel heeft een volledige vervanging te zijn voor een Unixsysteem en deze zelfs te overtreffen. Het wordt onder de GPL ontwikkeld en om zo veel mogelijk een Unixkloon te zijn, volgt het ook de POSIX-standaard.
+In de volksmond heeft men het vaak over de kortere, hoewel niet correcte, term 'De Hurd' (De Hurd slaat alleen op de kernel, terwijl GNU/Hurd een besturingssysteem is).
+Voor het GNU Project, dat in 1984 gestart is, werd al vanaf het begin voorzien om een kernel te schrijven. De Linuxkernel, die in 1991 uitkwam, sloot echter goed op het bestaande GNU-systeem aan, waardoor de directe noodzaak voor een Hurd-kernel minder groot werd. De ontwikkeling is hiermee echter niet gestopt.
+Ontwerp.
+Dit besturingssysteem bestaat uit een aantal verschillende servers, die boven op de Machkernel samenwerken. Zie verder de Hurd.
+Distributies.
+Op het moment is er één distributie beschikbaar: Debian GNU/Hurd. Hoewel deze distributie bruikbaar is, is ze niet officieel uitgebracht.
+Richard Stallman van het GNU Project heeft aangegeven dat het goed mogelijk zou zijn dat er eind 2003 een werkend systeem was. Dit is echter (weer) vertraagd wegens te weinig mankracht en problemen die toch moeilijker bleken te zijn dan verwacht. Er wordt een onofficiële Debian-uitgave met Hurd-kernel verwacht midden of eind 2013. Deze versie zal moderne functionaliteiten zoals SATA-, USB- en audio-ondersteuning met zich meebrengen.

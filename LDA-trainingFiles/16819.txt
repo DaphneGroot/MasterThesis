@@ -1,0 +1,3 @@
+Reactant.
+Een reactant is een chemische stof die meedoet in een chemische reactie. De reactanten reageren met elkaar en vormen de reactieproducten.
+Reactanten maken onderdeel uit van de stoichiometrische vergelijking in tegenstelling tot bijvoorbeeld een katalysator. Een katalysator doet wel mee in de reactie maar komt niet voor in de stoichiometrische vergelijking.

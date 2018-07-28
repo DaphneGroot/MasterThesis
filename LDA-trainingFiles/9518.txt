@@ -1,0 +1,8 @@
+Radiochemie.
+De Radiochemie is een deelgebied van de scheikunde dat zich bezighoudt met de chemie van radio-actieve isotopen (radionucliden). Een pionier op dit deelgebied was Marie Curie.
+Labels.
+Speciaal doel kan daarbij zijn het 'merken' ("labelen") van chemische verbindingen zodat ze aan de hand van de ioniserende straling die ze uitzenden kunnen worden gevolgd of teruggevonden.
+Medische toepassingen.
+Voor de diagnostiek wordt vaak gebruikgemaakt van met 99mTc (technetium-99m) gemerkte geneesmiddelen. Het technetium wordt gebruikt in de vorm van natriumpertechnetaat (NaTcO4). Er bestaat een scala aan geneesmiddelen dat zich relatief eenvoudig met 99mTc laat "labelen".
+Eisen.
+Bovendien moeten de synthesen vaak worden uitgevoerd vlak bij de plaats waar de radionucliden worden gemaakt (vaak bij een kernreactor zoals die van Petten, of een deeltjesversneller, bijvoorbeeld een cyclotron) en liefst ook in de buurt van waar ze gebruikt zullen worden (het ziekenhuis).

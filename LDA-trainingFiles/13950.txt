@@ -1,0 +1,3 @@
+Paradox (database).
+Paradox is een front-end voor de relationele database van, in eerste instantie: Ansa, later: Borland, en maakt gebruik van de Borland Database Engine (BDE). In versie 10 maakt het deel uit van Corel Office 2002. Het Paradox-databaseformaat werd tot ca. 2000 door de compilers van Borland (Delphi en C++Builder) als standaard database gebruikt.
+De Windowsgeoriënteerde versie van Paradox gebruikt de programmeertaal ObjectPal voor alle databasemanipulaties.

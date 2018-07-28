@@ -1,0 +1,15 @@
+Plan Lievense.
+Plan Lievense was een plan voor energieopslag met behulp van een waterbuffer in het Markermeer toen het voornemen tot inpoldering tot Markerwaard van de baan was. In 1981 presenteerde ingenieur L.W. Lievense een alternatief plan voor de Markerwaard. De kern van het plan bestond eruit van het Markermeer een buffer te maken voor de productie van elektriciteit. Dit meer zou gevuld met water moeten worden in tijden van weinig vraag en veel aanbod van elektriciteit. De overcapaciteit die er dan bestaat aan elektriciteitsproductie diende aangewend te worden om de waterstand in het meer omhoog te brengen. Wanneer er weinig aanbod was en veel vraag zouden de turbines van het meer stroom leveren. Dit plan was uitgedacht in verband met de problemen rond elektriciteitsopwekking met windenergie. Het aanbod van elektriciteit door windturbines is door de sterk variërende windsnelheden grillig en heeft weinig verband met de vraag. Door de aanleg van dit spaarbekken hoopte Lievense dit probleem te ondervangen.
+Capaciteit.
+In het plan zou er een vele meters hoge ringdijk worden aangelegd in het Markermeer waarop 400 windturbines met een capaciteit tussen de 1 en 1,5 MW vermogen zouden worden geplaatst.
+Als het meer tot een hoogte "h" gevuld is, kan door een waterspiegelstijging "Δh" aan energie
+Bij een oppervlakte van 700 km² en een stijghoogte van 10 m zou dus 350 TJ opgeslagen kunnen worden.
+Dit is 35% van het gemiddelde dagelijkse nationale elektriciteitsgebruik, dat 275 GWh (≈ 1000 TJ) bedraagt. Voor één dag stroom zou het meer tot zo'n 17 meter boven NAP moeten worden opgepompt.
+Bezwaren.
+Er waren ernstige voorbehouden tegen het plan door de landschappelijke implicaties en de mogelijke ecologische gevolgen voor het Markermeer.
+Uiteindelijk gaven twee overwegingen de doorslag, enerzijds de prijs maar ook de veiligheid. Een dijkdoorbraak van een gevuld Lievense bekken zou Amsterdam onder water zetten. De TU-Delft gebruikt nog steeds de case study van het plan Lievense in haar opleiding waterbouwkunde als voorbeeld in de categorie waterrampen. Een "omgekeerd stuwmeer" (zie beneden) voorkomt dit gevaar.
+Revival.
+Door twee studenten waterbouwkunde is in opdracht van de ChristenUnie Flevoland in 2006 opnieuw berekend of het Plan Lievense met de nieuwe technieken nu wel uitvoerbaar is.
+Het resultaat is een ontwerp met een tweetal bassins aan weerszijden van de ringdijk waarvan het deel aan de Markermeerzijde ongeveer 60 km2 beslaat, een kleine 10% van de totale oppervlakte van het Markermeer, omringd met een dijk van ongeveer 20 meter hoog. Zo'n reservoir heeft een energiecapaciteit van ruwweg 120 TJ.
+Omgekeerd stuwmeer.
+Bureau Lievense heeft samen met KEMA in 2007 een nieuw plan gepresenteerd, waarin het idee wordt omgedraaid: het water wordt niet het stuwmeer ingepompt, maar juist eruit, tot een diepte van 40 m onder de zeespiegel. Bij een oppervlakte van 40 km² en een waterdiepte variërend tussen 32 en 40 m onder de zeespiegel kan dan zo'n 20 GWh (≈ 70 TJ) opgeslagen worden. Als het plan in de vorm van een eiland voor de kust wordt uitgevoerd, is er geen gevaar voor een mogelijke overstroming van Amsterdam.

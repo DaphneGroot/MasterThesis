@@ -1,0 +1,14 @@
+Multiset.
+In de wiskunde is een multiset (uit het Engels: "multiset" of "bag" (zak)) een generalisatie van het concept verzameling. Een lid van een multiset kan meer dan één lidmaatschap hebben, dit in tegenstelling tot een verzameling, waar elk lid van deze verzameling precies één keer voorkomt. De term "multiset" werd in de jaren zeventig van de twintigste eeuw geïntroduceerd door Nicolaas Govert de Bruijn.
+Het gebruik van multisets in wiskunde gaat echter vooraf aan de introductie van de naam 'multiset'. In 1888 gebruikte Richard Dedekind het concept al in een van zijn artikelen.
+Het totale aantal elementen in een multiset, inclusief herhaald lidmaatschap, wordt de kardinaliteit van een multiset genoemd, en het aantal keren dat eenzelfde lid voorkomt in een multiset, wordt de multipliciteit van dat lid genoemd. In de multiset is de multipliciteit van de leden "a", "b", en "c" respectievelijk 2, 3, en 1, en de kardinaliteit van de multiset is 6.
+Er is geen eenduidige notatie voor een multiset. Het is gebruikelijk een multiset als zodanig te benoemen en te noteren als een verzameling en de gelijke elementen te herhalen. Een eenvoudig voorbeeld van een multiset is:, met de elementen 1 met multipliciteit 1, 2 met multipliciteit 3 en 3 met multipliciteit 2. Men dient te weten dat het hier om een multiset gaat, want als verzameling opgevat geldt: =.
+Wanneer de elementen van een multiset worden genummerd, ontstaat een (genummerde) rij. De volgorde van de elementen is dan wel belangrijk.
+Definitie.
+Een "multiset" is een paar (V,m), waarin V een verzameling is en m een afbeelding die aan elk element v van V een natuurlijk getal, m(v), de "multipliciteit" van v, toevoegt.
+Formele notatie.
+Een formele manier om een multiset (V,m) te noteren is:, dus als de verzameling paren van de elementen van v met hun multipliciteit.
+Voorbeeld: de multiset, met a, b en c verschillend, wordt formeel genoteerd als:.
+Informatica.
+In de informatica is een multiset een bepaald type container, en wordt dan meestal een "bag" genoemd.
+Om, ten opzichte van een verzameling, de dubbele elementen mogelijk te maken kent men aan elk (uniek) element een multipliciteit toe. Zo'n paar van element en multipliciteit heet een tupel. Het koppelen van een element aan zijn multipliciteit heet "tupelen". Het is voor de hand liggend een bag te implementeren als een associatieve array van integers.

@@ -1,0 +1,10 @@
+Tilde.
+De tilde is het diakritisch teken ~. Meestal wordt het boven een letter aangebracht, maar onder andere in de natuurwetenschappen wordt het ook als zelfstandig symbool gebruikt. Het neemt dan een eigen tekenpositie in (ASCII-teken 126). De naam 'tilde' komt van het Latijnse 'titilus' (tableau, bovenschrift).
+Talen.
+In de spelling van het Portugees wordt de tilde gebruikt op de 'a' en 'o' om de nasale klinkers /ã/ en /õ/ weer te geven. De Spaanse spelling kent de 'n' met tilde ('ñ') om de klank /N/ (zoals 'nj' in 'anjer') weer te geven. In het fonetische alfabet IPA wordt de tilde gebruikt om nasalisering van een klinker aan te geven. Ook de standaardspellingen van het Baskisch, het Bretons, het Estisch en het Vietnamees gebruiken de tilde.
+In sommige Aziatische talen, bijvoorbeeld Koreaans, wordt de tilde gebruikt om een klank langer te maken in straattaal. In het Nederlands zou dit dan iets opleveren als: 'Vandaag was zo~ leuk!'.
+Wis- en natuurkunde.
+In de wis- en natuurkunde wordt de tilde als zelfstandig symbool gebruikt om evenredigheid aan te duiden. Bijvoorbeeld bij een lineaire beweging is de afgelegde weg "s" recht evenredig met de verlopen tijd "t". Anders geschreven: "s" ~ "t".
+Twee boven elkaar geschreven tildes, ≈, worden gebruikt als het teken "is ongeveer gelijk aan". Zo geldt: π ≈ 3,14 of π ≈ 3,14159 enz.
+Logica.
+In de logica wordt soms de tilde gebruikt om de logische negatie aan te geven, ter vervanging van ¬ als dit teken niet beschikbaar is.

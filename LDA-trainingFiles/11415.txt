@@ -1,0 +1,42 @@
+Wet van Snellius.
+Wet van Snellius op een muur in Leiden
+De wet van Snellius of brekingswet is een natuurwet uit de optica die aangeeft hoe lichtstralen gebroken worden op de overgang van het ene medium naar het andere, bijvoorbeeld van lucht naar glas waarin het licht zich met verschillende fasesnelheden voortbeweegt. De wet is genoemd naar de Nederlandse wis- en sterrenkundige Willebrord Snel van Royen.
+De brekingsindex van een stof in de wet van Snellius is de verhouding tussen de fasesnelheid van het licht in vacuüm en die in dat medium. Deze wet sluit aan bij het principe van Fermat, dat stelt dat het licht de snelste weg tussen twee punten kiest. Het scheidingsoppervlak tussen twee media waarvan de brekingsindex verschillend is, noemt men een "diopter". In bijna alle gevallen waarin lichtbreking plaatsvindt wordt ook een gedeelte van het licht gereflecteerd.
+Hoewel het potlood recht is, lijkt het alsof het in het contactvlak water-lucht gebroken is
+Beschrijving.
+De lichtweg is omkeerbaar. De grootst mogelijke hoek θ is 90 graden in het medium met de laagste brekingsindex. De bijbehorende andere hoek θ in het medium met de hogere brekingsindex heet de "grenshoek". Voor hoeken groter dan de grenshoek treedt totale interne reflectie aan het grensvlak op, de lichtstraal kan het medium met de hogere brekingsindex niet uit. De verhouding van gebroken en gereflecteerd licht wordt gegeven door de Fresnelvergelijkingen.
+In Franse teksten heet de wet van Snellius de wet van Descartes, die het principe ook in de zeventiende eeuw vermeldde.
+Echter de eigenlijke ontdekker van de wet was mogelijk Ibn Sahl in 984.
+Uitgaande van het principe van de kortste optische weglengte.
+De snelheid in het glas en de lucht is niet gelijk. Het principe van Fermat stelt dat het licht de snelste route neemt. Dit is wiskundig op te lossen door de vergelijking van de reistijd op te schrijven en met de afgeleide het minimum te vinden. De wet van Snellius volgt.
+Analogie van zwemmers op het strand
+De strategie van de twee zwemmers.
+De natuurkundige Richard Feynman kwam met de volgende vergelijking. Twee zwemmers moeten zo snel mogelijk een boei in zee bereiken. Iemand die snel op het strand is, maar in het water trager dan zijn concurrent, zal zo veel mogelijk de afstand op het strand afleggen (strategie 2). De zwemmer die het snelst zwemt, maar trager is op het strand, legt zo weinig mogelijk afstand op het strand af (strategie 1).
+De voor iedere loper snelste baan (afhankelijk van de snelheid op het strand en in de zee) voldoet aan de wet van Snellius.
+Uitgaande van het golfmodel van Huygens.
+Golffronten uit een puntbron breken in het medium met de hogere brekingsindex volgens de golftheorie van Huygens.
+Christiaan Huygens kon de wet afleiden met zijn golftheorie, door aan te tonen dat golven elkaar versterken langs het traject dat door Snellius voorspeld wordt voor een gebroken lichtstraal, maar elkaar overal elders uitdoven.
+Uitgaande van de elektromagnetischeveldtheorie.
+Hendrik Antoon Lorentz versterkte in 1875 de hypothese dat licht een elektromagnetisch golfverschijnsel is door de elektromagnetische wetten van Maxwell op te lossen aan een grensvlak tussen twee optische media met verschillende waarden voor de magnetische permeabiliteit en de diëlektrische permittiviteit. Deze fysische grootheden bepalen de verschillen in voortplantingssnelheid van het licht in die media, alsmede het verband tussen invals- en brekingshoeken aan het grensvlak zoals voorspeld door Snellius.
+Zonshoogte.
+Een toepassing van de wet van Snellius is het feit dat men de zon altijd in een hogere stand ziet dan zijn werkelijke positie. Daardoor kan men bij zonsondergang de zon langer zien. Dit is als volgt te verklaren. De atmosfeer is in feite geen homogeen medium: het aantal moleculen per volume-eenheid daalt als de hoogte toeneemt. Men kan aantonen dat de brekingsindex toeneemt met het aantal moleculen per volume-eenheid, dus op grotere hoogte heeft men een kleinere brekingsindex. Het gevolg daarvan is dat de zonnestralen gekromde zijn naar de laag toe met de hoogste waarde van "n". Men kan de kromming van de zonnestralen ook vinden door de atmosfeer in te delen in opeenvolgende homogene luchtlagen, en de wet van Snellius toe te passen op ieder diopter tussen twee opeenvolgende lagen.
+Geluid onder water.
+Een andere toepassing van de wet is bij akoestische metingen onder water (zie hydrografie). Licht of elektromagnetische golven dringen maar zeer slecht door in het water, vandaar de keuze voor geluid. Een gemiddelde geluidssnelheid van ongeveer 1500 m/s varieert om en nabij 6% als gevolg van variaties van temperatuur en zoutgehalte. Als er veel regen valt, dan stroomt er veel zoet water in zee, en zal de geluidssnelheid aan het zeeoppervlak lager zijn dan bij droog weer. Daarna treedt al gauw weer menging op. Er treedt een zekere horizontale gelaagdheid op van lagen met min of meer gelijke geluidssnelheid. Als een geluidsignaal schuin door deze lagen loopt, treedt er breking op volgens de wet van Snellius. Om afstanden en hoeken juist te schatten, dienen de metingen hiervoor gecorrigeerd te worden.
+Weerkaatsing van radiogolven in de atmosfeer.
+De atmosfeer bestaat uit een aantal lagen, waarvan er enkele geïoniseerd zijn, dat wil zeggen veel geladen deeltjes bevatten. Daar deze geladen deeltjes zich gemakkelijk kunnen verplaatsen, is zo een laag enigszins geleidend. Daardoor kunnen radiogolven in bepaalde frequentiebereiken er geheel of gedeeltelijk door gereflecteerd worden. Doordat deze geïoniseerde lagen min of meer bolvormig zijn, en men vanaf het aardoppervlak tegen de binnenzijde van deze bol aankijkt, werkt hij als een holle spiegel. Dit leidt ertoe dat bijvoorbeeld kortegolfzenders (ca. 3 MHz tot ca. 30 MHz) over veel grote afstanden zijn te ontvangen dan bijvoorbeeld middengolfzenders (ca. 1 MHz) of FM-zenders (ca. 80 MHz tot ca. 100 MHz). Zo kunnen onder gunstige omstandigheden bepaalde kleine regionale zenders in bijvoorbeeld Amerika of het Verre Oosten soms ook in Europa worden ontvangen.
+Nieuwe materialen.
+Er zijn nieuwe optische materialen ontwikkeld met een negatieve brekingsindex.
+Berekening straalbuiging geluid onder water.
+Aan de grenslaag tussen twee waterlagen met verschillende brekingsindices, dus verschillende geluidssnelheden, zal volgens de wet van Snellius breking optreden. De weg van het signaal is daardoor niet recht maar gebogen.
+Voorbeeld.
+Stel de waterdiepte is 1000 m en denk deze diepte opgebouwd uit 1000 lagen van elk 1 m dik. De snelheid in de onderste laag is 1550 m/s en neemt per laag af met 0,1 m/s. De snelheid in de bovenste laag is dan 1450 m/s. Op de bodem bevindt zich een geluidsbron die onder een hoek van 45 graden een geluidspuls uitzendt. Deze puls bereikt het wateroppervlak in het punt O.
+Hier geldt dan: formula_4 m/s, formula_5= 1549,9 m/s, enzovoort tot formula_6= 1450 m/s
+Uit deze manier blijkt i1000 = 41,4134 graden.
+Men berekent de weg die de geluidspuls in de diverse lagen aflegt als volgt.
+De horizontale projectie x van de afgelegde weg per laag volgt uit
+voor de totale horizontale afstand tussen Z en O volgt X = 939,223 m
+vervolgens is de totale looptijd van de geluidspuls te berekenen door
+De werkelijk gemeten looptijd van de puls is 0,9148275 s. vermenigvuldigd met de gemiddelde snelheid 1500 m/s levert dit de afstand 1372,27 m. de afstand via een rechte lijn tussen Z en O is 1371,91 m.
+Met deze afstand werken de akoestische plaatsbepalingsystemen.
+Fouten ten gevolge van straalbuiging zijn vaak te verwaarlozen, zoals in dit voorbeeld, maar er zijn wel degelijk omstandigheden waar met dit probleem rekening gehouden moet worden, zoals bij padloders ("multibeam echo sounders") in water van enige diepte met een grote snelheidsgradiënt.
+Ook landmeters kennen dit probleem. De precieze grootte van de zgn. refractie is moeilijk te bepalen. De precieze grootte van de fout stijgt kwadratisch, net als de fout door de aardkromming.

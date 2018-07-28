@@ -1,0 +1,13 @@
+Condensor (optica).
+Een condensor (letterlijk: "verdichter") wordt in sommige optische apparaten – microscoop, projector, vergrotingsapparaat – in het algemeen apparaten waarin een lichtbron het af te beelden voorwerp egaal moet belichten – gebruikt om het licht zo efficiënt en gelijkmatig mogelijk over het object te verdelen.
+Projector.
+Diaprojector, schematischCM = condensorspiegel, B = lichtbron,C1, C2 = condensorlenzen, S = dia, P = projectieobjectief
+In een projector beeldt de condensor in het ideale geval de lichtbron af in het midden van de intreepupil van het projectieobjectief. Op deze wijze krijgt men de grootste lichtopbrengst en de meest gelijkmatige lichtverdeling. Een scherpe afbeelding van de lichtbron is hierbij echter niet nodig; de condensorinstelling hoeft dus niet aangepast te worden aan de verplaatsing van het objectief ten behoeve van het scherpstellen van het projectiebeeld.
+Gewoonlijk omvat de condensor ook een holle spiegel achter de lichtbron. Deze spiegel is zo geplaatst dat hij de lichtbron ongeveer op zichzelf afbeeldt. Niet exact, want anders zou de temperatuur van de gloeidraad veel te hoog worden waardoor deze voortijdig doorbrandt. Meestal wordt de condensorspiegel zo uitgelijnd dat de afzonderlijke windingen van de gloeidraad precies "tussen" de windingen zelf worden afgebeeld. Dit imiteert enigszins een egaal lichtgevend oppervlakje. Het uiteindelijke effect is dat van het naar achter gestraalde licht eenzelfde deel nuttig wordt gebruikt als van het naar voren gestraalde licht; de effectieve lichtopbrengst wordt dus bijna tweemaal zo groot.
+De te projecteren film of dia wordt vlak voor de condensor (aan de objectiefzijde) geplaatst.
+Overheadprojector.
+Een "overheadprojector" moet een groot projecteerbaar oppervlak hebben, bijvoorbeeld bijna 30 x 30 cm om A4 zowel staand als liggend te kunnen projecteren. Om dat oppervlak egaal te kunnen belichten, is een zeer grote condensor nodig. Daar de condensorlens dan ook dik en dus zwaar zou zijn, wordt hier meestal een Fresnellens van kunststof gebruikt. Deze ligt direct onder de glasplaat waarop de te projecteren documenten worden gelegd.
+Vergroter.
+Een vergrotingsapparaat, waarmee in de donkere kamer fotografische negatieven op afdrukpapier worden afgebeeld, onderscheidt zich van een projector voornamelijk doordat de beeldafstand veel kleiner is. Aan de condensor worden in beginsel dezelfde eisen gesteld als bij een projector.
+Microscoop.
+Bij een microscoop zijn, afhankelijk van de toepassing, verschillende condensorvarianten mogelijk. Vaak wordt het object met een evenwijdige bundel verlicht.

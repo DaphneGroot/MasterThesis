@@ -1,0 +1,3 @@
+NaN.
+NaN ("Engels": Not a Number) is binnen de informatica een speciaal resultaat van een wiskundige berekening waarbij getallen met een komma verwerkt worden. Vrijwel altijd gaat het om berekeningen met zwevendekommagetallen.
+NaN representeert dus een waarde die niet als gewoon getal herkend wordt. NaN verschilt van oneindig in die zin, dat NaN aangeeft dat ook de limiet van de uitdrukking niet gedefinieerd en in het bijzonder niet oneindig is.

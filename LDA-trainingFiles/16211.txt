@@ -1,0 +1,12 @@
+Afschot (helling).
+Afschot is een bewust aangebrachte helling van een vlak of leiding, voor het doen af- of weglopen van vloeistof.
+Wegen.
+Bij wegen is "afschot" de dwarshelling die in het wegdek wordt aangebracht om een goede afwatering te verzekeren. De helling is afhankelijk van de klimatologische omstandigheden en het soort verharding. Zo is bij betonverharding een hellingspercentage van 2% (1:50) gebruikelijk, bij asfalt 2,5% en bij normale bestrating 2,5% tot 4%.
+Leidingwerk.
+Leidingwerk is op "afschot" gemonteerd als het (net) niet waterpas is, veelal met de intentie om de vloeistof in het systeem naar een centraal punt te leiden. Tegenhanger van afschot in deze context is opschot of tegenschot. Er is geen separate eenheid voor afschot. Enkel voorbeelden zijn: 1:200 (0,5%), 1:100 (1%) of 1:50 (2%). De betekenis hiervan is dat over een afstand van 200 meter het afschot 1 meter bedraagt, respectievelijk over 100 meter en 50 meter.
+Riolering.
+Deze situaties doet zich onder meer voor bij rioleringssystemen, leidingwerk ligt op afschot om doorstroming van afvalwater te waarborgen. Afschot van riolering bedraagt 0,5 cm/m (0,5% of 1:200). Is het afschot te groot dan zal het afvalwater te snel wegstromen en bestaat de kans dat niet vloeibare bestanddelen (ontlasting) achterblijven. Is het afschot te klein dan kan het afvalwater te langzaam wegstromen waardoor niet vloeibare bestanddelen zich ophopen. Beide situaties kunnen resulteren in verstopping van de riolering.
+Rookgasafvoer.
+De rookgasafvoer van HR-ketels moet op afschot in de richting van de ketel worden aangelegd. Zodoende wordt condensvocht teruggevoerd in de ketel alwaar het via een sifon wordt afgevoerd naar het riool.
+Platte daken.
+Een plat dak ligt op afschot zodat het hemelwater naar een laagst gelegen punt wordt geleid. Alhier wordt een regenwateruitloop geplaatst zodat het water gecontroleerd van het dakvlak kan worden afgevoerd. Er kunnen meerdere afschotten zijn in éénzelfde dakconstructie, met elk een afvoerpunt.

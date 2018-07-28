@@ -1,0 +1,11 @@
+Orthogonaal.
+In de twee- of driedimensionale euclidische meetkunde zegt men van twee objecten dat zij orthogonaal (van het Griekse: oρθός (orthos), "recht" en γωνια (gonia), "hoek") zijn, als zij ten opzichte van elkaar een rechte hoek vormen, of anders gezegd loodrecht op elkaar staan. Dit wordt wel aangegeven door het teken formula_1 tussen de objecten te plaatsen. Ook van meer dan twee objecten zegt men dat zij orthogonaal zijn, als elk tweetal van deze objecten orthogonaal is.
+In andere takken van de wiskunde spreekt men ook over orthogonale objecten zonder dat er nog enig verband bestaat met het gewone begrip "rechte hoek" of "loodrechte stand". Orthogonaliteit van objecten heeft dan een specifieke betekenis die veelal verbonden is met de aard van die objecten. Hierna volgen een paar voorbeelden.
+In de statistiek wordt met de term ook wel volledige afwezigheid van correlatie tussen twee variabelen bedoeld.
+Inproduct.
+Voor objecten waarvoor een inproduct gedefinieerd is, wordt de hoek tussen deze objecten afgeleid van dit inproduct. Twee objecten met een inproduct gelijk aan 0 heten dan orthogonaal.
+Vectoren.
+Zij staan dan in de gebruikelijke voorstelling loodrecht op elkaar. Zo zijn bijvoorbeeld in het platte vlak de vectoren (1,1) en (2,-2) orthogonaal. Evenzo de vectoren (1,3) en (6,-2). In de driedimensionale ruimte zijn bijvoorbeeld de vectoren (-1,1,1) en (2,1,1) orthogonaal.
+Een verwant begrip is het orthogonaal complement van een lineaire deelruimte.
+Functies.
+dus zijn "sin" en "cos" orthogonaal.

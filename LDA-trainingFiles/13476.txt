@@ -1,0 +1,9 @@
+Common Object Request Broker Architecture.
+Common Object Request Broker Architecture, kortweg CORBA, is een standaard voor de communicatie tussen objecten, geschreven in verschillende programmeertalen en draaiend op verschillende machines. ORB's (Object Request Brokers) worden geleverd door verschillende bedrijven en zijn gebaseerd op IIOP (Internet Inter Orb Protocol), waardoor in principe clients en servers, onafhankelijk van de gebruikte ORB, met elkaar kunnen praten.
+Interface.
+Omdat een server op zijn beurt weer als client kan dienen voor het stellen van subvragen, spreekt men meestal van een stub als interface voor het stellen van vragen en een skeleton als interface voor het verlenen van diensten.
+IDL.
+De vragen van een client worden net als de diensten van een server met behulp van IDL (Interface Definition Language) vastgelegd. Er ontstaan op deze wijze.idl bestanden aan zowel de client- als serverzijde.
+De server implementeert de diensten en kan de serverobjecten registreren bij de CORBA name server. Een client zoekt remote serverobjecten op en roept methoden ervan aan.
+Object Management Group.
+De standaard wordt beheerd door de The Object Management Group (OMG).

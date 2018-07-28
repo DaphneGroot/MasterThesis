@@ -1,0 +1,18 @@
+Terts (muziek).
+Een terts (van Latijn: "tertius", de derde) is in de muziektheorie het interval in een diatonische toonladder tussen een eerste toon en de daarboven liggende derde. Een terts omvat twee toonafstanden. Het interval tussen bijvoorbeeld de tonen c en e is dus een terts. Men zegt dat de e een terts boven de c ligt. Daarnaast wordt ook de toon die in een diatonische toonladder op de derde toontrap ligt, de terts genoemd. Zo is de e de terts in de toonladder van c. Ook wordt de tweeklank die bestaat uit twee tonen die een terts uit elkaar liggen, als terts aangeduid. De tweeklank c-e is een terts, of de tonen c en e vormen een terts.
+Samen met hun omkeringen, de sexten, zijn de tertsen de meest voorkomende intervallen in de klassieke muziek, tezamen vormen zij de ruggengraat van functionele harmonie. Vanwege het historisch steeds veelvuldiger voorkomen van tertsen en sexten na circa 1350 is de stemming van de intervallen in de geschiedenis meermaals aangepast, om al deze harmonieën welluidender te maken.
+Varianten.
+Tertsen worden nog onderscheiden in grote, kleine, verminderde en overmatige tertsen.
+Grote terts.
+Een grote terts is opgebouwd uit twee hele toonafstanden. Men duidt een grote terts wel afgekort aan met M3 (het basisinterval van majeur).
+Kleine terts.
+Een kleine terts is opgebouwd uit een hele en een halve toonafstand. Men duidt een kleine terts wel afgekort aan met m3 (het basisinterval mineur).
+Verminderde terts.
+Een terts die bestaat uit twee halve toonafstanden, heet een verminderde terts. Deze is aanmerkelijk zeldzamer dan zijn omkering, de overmatige sext.
+Overmatige terts.
+Een terts die bestaat uit een hele en een anderhalve toonafstand, heet een overmatige terts. Deze is zeer uitzonderlijk, omdat een overmatige terts enharmonisch gelijk is aan een reine kwart.
+Tertsen in reine stemming.
+Bij een reine stemming is de frequentie van de grote terts 5/4e van de frequentie van de grondtoon, wat overeenkomt met 386,31 cents. De kleine terts is dan 6/5e van de grondtoon, wat overeenkomt met 315,64 cents.
+In de gelijkzwevende stemming, die tegenwoordig in de Westerse muziek het meest gebruikt wordt, liggen deze verhoudingen anders, omdat daarin alle intervallen behalve de octaven worden aangepast aan de verdeling van het octaaf in 12 identieke toonschreden van 100 cents elk. De grote terts is daarbij dan dus precies 400 cents, en de kleine precies 300 cents.
+Septimale kleine terts.
+De septimale kleine terts is de toon die precies 7/6 keer zo hoog is als de grondtoon.

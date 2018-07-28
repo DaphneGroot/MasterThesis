@@ -1,0 +1,14 @@
+Orde (rekenkunde).
+Eerste orde.
+Optellen is een rekenkundige bewerking van de eerste orde.
+Aftrekken is eveneens een bewerking van de eerste orde en is de inverse (omgekeerde bewerking) van optellen.
+Tweede orde.
+Dit kan dus worden gezien als: formula_9 en dat formula_3 maal herhaald.
+Vermenigvuldigen is een rekenkundige bewerking van de tweede orde.
+Delen is eveneens een bewerking van de tweede orde en is de inverse van vermenigvuldigen.
+Derde orde.
+Dit kan dus worden gezien als: formula_18 en dat formula_3 maal herhaald.
+Machtsverheffen is een rekenkundige bewerking van de derde orde.
+Worteltrekken en de logaritme zijn eveneens rekenkundige bewerkingen van de derde orde en de inversen van machtverheffen.
+Hogere orden.
+In de praktijk eindigt hier de ordening. Men kan zich echter voorstellen, dat er hogere orden bestaan. Men kan herhaald machtverheffen, dat is dan een bewerking van de "vierde orde". Deze bewerking wordt tetratie genoemd. Ook dat herhaald machtsverheffen kan men herhalen: herhaald-herhaald machtsverheffen, een bewerking van de "vijfde orde". Deze ordes worden vaak aangegeven met de pijl-omhoog notatie. Zo wordt formula_27 geschreven als formula_28 en formula_29. Merk op dat formula_30 gewoon formula_31 is.

@@ -1,0 +1,28 @@
+Verbrandingsmotor.
+De Ottomotor van Nikolaus Otto is een voorbeeld van een motor met inwendige verbranding.
+In een verbrandingsmotor komt door verbranding van een brandstof warmte vrij die tijdens een kringproces door de motor wordt benut om arbeid te verrichten. De drukverhoging wordt veroorzaakt door temperatuurstijging en een toename van de hoeveelheid moleculen na de verbranding. De hoge druk en temperatuur veroorzaken een uitzetting van het gas die mogelijk wordt gemaakt door een bewegend onderdeel of een opening.
+Bij een conventionele zuigermotor of gasturbine gebeurt dat door uitoefenen van een druk op een zuiger of schoepen. Bij een straalmotor of een raketmotor zorgt de drukopbouw voor de uitstroming van een massa gassen zodat de druk die de verbrandingsproducten uitoefenen op de behuizing de motor voortstuwt.
+Geschiedenis.
+In 1862 bouwde Étienne Lenoir zijn hippomobile, voorzien van een met lichtgas aangedreven verbrandingsmotor. Pas toen de Duitser Nikolaus Otto in 1878 verbeteringen aanbracht werd de gasmotor van Lenoir een commercieel succes.
+Met zijn patent op de eerste succesvolle hoge-snelheidverbrandingsmotor legde Gottlieb Daimler in 1885 de laatste hand. De grootste verbeteringen aan de zware-oliemotor zijn gedaan door de Duitser Rudolf Diesel die zijn eerste patenten nam in 1892. Tegen het einde van de negentiende eeuw was de verbrandingsmotor de grote concurrent van de stoommachine in industrie en transport.
+Zuigermotor.
+In zuigermotoren vindt de verbranding plaats in een cilinder met een zekere cilinderinhoud waarin zich een zuiger heen en weer beweegt. Op deze zuiger zitten zuigerveren. Een brandstofmengsel wordt in de cilinder gebracht, in de zuigerstand met het kleinste volume ontstoken, en draagt dan de door de verbranding opgewekte energie op de zuiger over die zich met kracht uit de cilinder wil bewegen. Deze kracht en lineaire beweging wordt meestal overgebracht op een ronddraaiende krukas.
+Tweetaktmotor.
+In tweetaktmotoren, ook wel tweeslagmotoren genoemd, is er iedere omwenteling een arbeidsslag en een slag waarbij er gespoeld wordt. Tijdens het spoelen verdringt het binnenstromende verse mengsel de afgewerkte gassen.
+Omdat de tweetaktmotor iedere omwenteling een arbeidsslag maakt, is het geproduceerde geluid (lawaai) en vermogen in theorie twee keer groter dan een viertaktmotor met hetzelfde toerental en dezelfde cilinderinhoud. Door de slechtere spoeling is dit in de praktijk echter niet het geval.
+Dieselmotor en mengselmotor.
+Dieselmotoren zijn cilinderverbrandingsmotoren waarbij het mengsel spontaan ontbrandt door de warmte die door de compressie van de lucht wordt opgewekt. In mengselmotoren vindt de ontsteking plaats door een vonk in de bougies, opgewekt door inductie.
+De brandstof kan in de cilinder worden gebracht door menging vooraf met de verbrandingslucht in een carburateur of door brandstofinjectie in het inlaatspruitstuk of, bij dieselmotoren, in de al gecomprimeerde lucht in de cilinder worden ingespoten.
+Motoren met roterende zuiger.
+In de wankelmotor hebben de verbrandingskamers een niet-cilindrische vorm: de motor bestaat uit een om een as draaiende excentische rotor met een min of meer driehoekige dwarse doorsnede in een trommel. Bij rotatie veranderen de drie kamers van grootte. In de open ruimten tussen de zijden van de driehoek en de trommel wordt een brandstof/luchtmengsel gebracht, samengeperst en tot ontploffing gebracht waardoor de driehoek gaat draaien.
+Het voordeel van een wankelmotor ten opzichte van een klassieke zuigermotor is het kleine aantal bewegende onderdelen.
+Turbine.
+In een turbine wordt opgewekte druk in mechanische energie omgezet door het medium (gas of vloeistof) langs turbineschoepen te laten stromen.
+Straalmotor.
+In een straalmotor wordt aan de voorkant aangezogen lucht door een compressor samengeperst en vermengd met brandstof in de verbrandingskamer. Dit mengsel wordt ontstoken. De druk die hierbij vrijkomt stuwt de motor voort en drijft via een turbine de compressor aan, waardoor het proces in stand blijft.
+Bijzondere gevallen.
+Bijzondere gevallen zijn voorts de stirlingmotor en de stoommachine die wel warmte-energie omzetten in bewegingsenergie maar die dit doen door "uitwendige" verbranding en daarom niet tot de inwendige verbrandingsmotoren worden gerekend.
+Brandstoffen.
+De meest gebruikte brandstoffen zijn aardoliederivaten: benzine, diesel(olie), zware stookolie, lpg.
+Vanwege de toenemende uitstoot van broeikasgassen door het wegverkeer wordt op kleine schaal geëxperimenteerd met alternatieve brandstoffen die niet van aardolie afkomstig zijn, zoals bio-ethanol (in Brazilië al op grote schaal toegepast sinds eind jaren 1970), biodiesel, puur plantaardige olie, aardgas (CNG), HCNG, biogas en waterstof.
+Brandstoffen tankt men in een tankstation.

@@ -1,0 +1,5 @@
+Elektrische geleiding.
+Elektrische geleiding is het transport van elektrische lading door geladen deeltjes. In metalen zijn deze deeltjes de elektronen, in zout-oplossingen (elektrolyten) zorgen gedissocieerde ionen voor het elektrisch transport.
+Bij metalen is elektrische geleiding mogelijk dankzij de losse binding van de elektronen in de buitenste elektronenschil, waardoor de metaalatomen ingebed zijn in een gemeenschappelijke elektronenwolk.
+De mate van elektrische geleiding van een gegeven materiaal noemt men de elektrische geleidbaarheid van dat materiaal. Deze wordt uitgedrukt in siemens per meter. Het - meer gebruikelijke - omgekeerde van elektrische geleiding heet (elektrische) weerstand.
+Metalen als aluminium, koper, zilver en goud geleiden elektrische stroom erg goed, en worden daarom op grote schaal toegepast in geleiders.

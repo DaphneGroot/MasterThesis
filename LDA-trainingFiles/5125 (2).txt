@@ -1,0 +1,11 @@
+Cis-trans-isomerie.
+"Cis"-"trans"-isomerie, ook wel bekend als "E"/"Z"-isomerie of geometrische isomerie, is een vorm van stereo-isomerie. Het concept wordt zowel in de organische als anorganische chemie toegepast. De woordelementen "cis" en "trans" komen uit het Latijn, waarin "cis" betekent 'aan dezelfde kant' en "trans" 'aan de andere kant' of 'eroverheen'. "Cis"-"trans"-isomerie komt zowel voor in organische verbindingen als in anorganische coördinatieverbindingen.
+Dubbele binding.
+Functionele groepen die aan weerszijden van een dubbele binding of aan weerszijden van een ringstructuur liggen, kunnen of aan dezelfde kant (de "cis"-vorm), of aan tegengestelde kanten van elkaar (de "trans"-vorm) liggen. Dit komt doordat een dubbele koolstof-koolstofbinding, in tegenstelling tot een enkele, niet vrij kan roteren.
+In de tegenwoordige scheikundige nomenclatuur wordt echter gebruikgemaakt van de Z/E-aanduiding. Hiertoe worden de atoomnummers van de eerstgebonden atomen aan de dubbele binding met elkaar vergeleken. Indien de twee atomen met het hoogste atoomnummer aan dezelfde zijde van de dubbele binding zitten, wordt gesproken van de "Z"-configuratie (van het Duitse "zusammen"). In het andere geval is sprake van de "E"-configuratie (van het Duitse "entgegen"). In ringsystemen wordt enkel gebruikgemaakt van de "cis"- en "trans"-notatie.
+In de natuur komen veel onverzadigde en meervoudig onverzadigde vetzuren voor, die in het algemeen de "cis"-configuratie hebben. Transvetzuren komen vooral in chemisch geharde vetten voor.
+Cyclische verbindingen.
+Het cis-1,3-dichloorcyclopentaan zal stabieler zijn dan het overeenkomstige trans isomeer
+Anorganische chemie.
+De aanduiding "cis" en "trans" wordt vooral toegepast bij complexen van metaalionen om aan te geven hoe de liganden ten opzichte van elkaar geplaatst zijn.
+In complexen met een zesvoudige omringing zijn de liganden doorgaans gerangschikt volgens een octaëdrische moleculaire geometrie. Voor tetra-amminedichlorokobalt(III), een coördinatieverbinding met de formule CoCl2(NH3)4+, kunnen de twee chloorliganden "trans", op twee tegenover elkaar liggende zijden een plaats vinden, of "cis", op twee naast elkaar liggende vlakken, ten opzichte van elkaar staan.

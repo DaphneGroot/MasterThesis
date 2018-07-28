@@ -1,0 +1,41 @@
+Veelhoek.
+Een veelhoek of polygoon (van het Oudgriekse πολυγώνιον, "polygṓnion"‚ "veelhoek", samengesteld uit: πολύς, "polýs", "veel" en γωνία "gōnía", "hoek") is een meetkundige figuur in een plat vlak, gevormd door een gesloten keten van een eindig aantal lijnstukken.
+Algemeen.
+Een veelhoek is een cyclus van hoekpunten met de verbindende lijnstukken tussen twee opeenvolgende hoekpunten in de cyclus. Daarbij duidt het woord "cyclus" aan dat bijvoorbeeld de vierhoek ABCD dezelfde is als de vierhoek BCDA, en ook de omgekeerde volgorde DCBA dezelfde vierhoek beschrijft. De verbindende lijnstukken worden de zijden van de veelhoek genoemd. In het voorbeeld zijn dat de zijden AB, BC, CD en DA. Elke veelhoek heeft evenveel hoekpunten als zijden. De zijden, gecombineerd met een richting van het doorlopen ervan, vormen een vrije lus. Een hoekpunt met een gestrekte hoek heeft geen invloed op de vrije lus.
+Als geen opeenvolgende zijden geheel of gedeeltelijk samenvallen, maakt men bij het bewegen langs de zijden steeds eenduidig een draaiing tussen -180 en 180 graden (waarbij een draaiing naar links positief wordt gesteld), en krijgt men een totale draaiing van een veelvoud van 360 graden (in omgekeerde richting het tegengestelde). Het aantal malen dat men 360 graden doorloopt, moet niet verward worden met het windingsgetal t.o.v een punt, dat aangeeft hoe vaak een gesloten vlakke kromme om dat punt heendraait. Bij een regelmatige sterveelhoek komt het aantal malen 360 graden dat de draaiing bedraagt, wel overeen met het windingsgetal t.o.v. het middelpunt; het is bijvoorbeeld 2 bij een pentagram: bij het bewegen langs de zijden wordt vijf keer een draai van 144 graden gemaakt, dus in totaal 720 graden, oftewel twee keer 360 graden, terwijl de hoek vanuit het middelpunt doorlopen bij het bewegen langs een zijde ook 144 graden is, en dat gebeurt ook vijf keer.
+Bij een "tweehoek" is dit niet van toepassing: men maakt twee keer een draai van plus of min 180 graden, afhankelijk van de keuzes is het totaal 0 of plus of min 360 graden.
+Bij een "eenhoek" zou men kunnen stellen dat er één zijde is van lengte nul; de draaiing is nu helemaal onbepaald.
+Een veelhoek is "eenvoudig" als geen twee zijden gemeenschappelijke punten hebben, behalve dat opeenvolgende zijden het hoekpunt gemeenschappelijk hebben. Zo niet, dan wordt de veelhoek "complex" genoemd.
+Een veelhoek is "zelfdoorsnijdend" als, naast het feit dat opeenvolgende zijden samenkomen in een hoekpunt, sommige zijden elkaar snijden. Een snijpunt wordt niet tot de hoekpunten gerekend. Een voorbeeld is het pentagram, een regelmatige zelfdoorsnijdende vijfhoek. Het is een sterveelhoek. Als de vijf inwendige lijnstukken worden weggelaten, ontstaat een niet-zelfdoorsnijdende tienhoek met nog steeds de vorm van een pentagram.
+Gebied.
+Met een veelhoek die wordt beschreven door een zichzelf niet overschrijdende grens (dit is algemener dan een eenvoudige veelhoek), kan men een gebied (deelverzameling van het vlak) associëren bestaande uit de zijden en het gebied "erbinnen". Als men tegen de klok in langs de opeenvolgende zijden beweegt, heeft men het gebied steeds aan de linkerzijde, met dien verstande, dat waar twee delen van de contour samenvallen, het gebied zich aan geen van beide zijden bevindt en plaatselijk alleen uit het lijnstuk bestaat, of het gebied zich aan beide zijden bevindt. Het gebied kan een of meer polygonale "gaten" hebben (het hoeft dus niet enkelvoudig samenhangend te zijn).
+Informatie die verdwijnt als men alleen naar het gebied kijkt, bestaat uit zijden van lengte nul (samenvallende opeenvolgende hoekpunten) en hoekpunten met een gestrekte hoek, en verder de zijden of delen van zijden die samenvallen, met aan weerszijden "binnengebied" (er zijn dan ook geen inwendige hoeken van 360 graden meer).
+Het woord "veelhoek" wordt ook wel gebruikt voor het bedoelde gebied, maar meestal bedoelt men dan wel een gebied zonder "gaten".
+Hoeken.
+Bij een veelhoek die wordt beschreven door een zichzelf niet overschrijdende grens zonder zijden van lengte nul (samenvallende opeenvolgende hoekpunten), zijn de inwendige hoeken welgedefinieerd; ze zijn groter dan of gelijk aan 0 graden en kleiner dan of gelijk aan 360 graden. De uitwendige hoeken zijn de supplementen hiervan (180 graden min de hoek).
+Een "eenhoek" heeft zoals gezegd een zijde van lengte nul, zodat de hoek onbepaald is.
+Eigenschappen.
+Alle hierna beschreven eigenschappen van een regelmatige "n"-hoek met zijde "a" zijn beschreven in de Euclidische meetkunde.
+Som der hoeken.
+Bij een convexe "n"-hoek kan men ook een andere redenering volgen; deze kan men door middel van de diagonalen uit één hoekpunt verdelen in ("n"-2) driehoeken, waarbij de hoeken van de veelhoek opgebouwd zijn uit de hoeken van de driehoeken, waarbij voor elk de som van de hoeken π radialen of 180° is.
+Oppervlakte.
+Deze formule heet de "shoelace formula" (schoenveterformule, wegens het patroon van vermenigvuldigingen als de x- en y-coördinaten naast elkaar in twee kolommen staan), en is voor het eerst beschreven door Meister in 1769 en door Gauss in 1795. Het bewijs kan worden verkregen door de veelhoek in driehoeken te verdelen, maar de formule kan ook worden gezien als een speciaal geval van de stelling van Green.
+Bolyai-Gerwien theorema.
+Als men twee eenvoudige veelhoeken met gelijk oppervlak beschouwt, dan kan de ene in veelhoeksvormen worden geknipt die kunnen worden samengevoegd om de tweede veelhoek te vormen. Dit staat bekend als het Bolyai-Gerwien theorema.
+Koordenveelhoek.
+Een veelhoek met een omgeschreven cirkel heet een koordenveelhoek. Alle regelmatige veelhoeken zijn koordenveelhoeken, net als alle driehoeken en rechthoeken.
+Raaklijnenveelhoek.
+Een veelhoek met een ingeschreven cirkel heet een raaklijnenveelhoek. Alle regelmatige veelhoeken zijn raaklijnenveelhoeken, net als alle driehoeken en ruiten.
+Bicentrische veelhoek.
+Een veelhoek die zowel raaklijnenveelhoek als koordenveelhoek is, heet een bicentrische veelhoek. Voor bicentrische veelhoeken geldt de porisme van Poncelet en de stelling van Weill.
+Construeren van regelmatige veelhoeken.
+Deze priemgetallen zijn de fermatgetallen. De enige bekende zijn 3, 5, 17, 257 en 65537. Dit betekent dat een zeshoek (met priemfactoren 2 en 3) wel met passer en liniaal geconstrueerd kan worden, maar een zevenhoek niet. Een vijfhoek kan dus wel met passer en liniaal worden geconstrueerd, maar daar is wel een ingewikkelde constructie voor nodig.
+Diagonalen.
+Een diagonaal is een verbindingslijn tussen twee verschillende, niet opeenvolgende, hoekpunten van de veelhoek. Een diagonaal hoeft niet door het middelpunt van de veelhoek te lopen. Een diagonaal kan zich ook buiten de veelhoek bevinden (dit geldt voor een of meer diagonalen dan en slechts dan als de veelhoek concaaf is).
+Het aantal diagonalen van een veelhoek met "n" hoeken ("n
+2) bedraagt formula_13.
+Uit ieder van de n hoeken gaat een diagonaal naar ieder van de n hoeken, met uitzondering van de twee opeenvolgende hoekpunten en zichzelf (n-3). Op iedere diagonaal liggen twee hoekpunten, vandaar dat met de uitkomst n(n-3) moet delen door twee.
+Vlakverdeling.
+Met veelhoeken kunnen al dan niet regelmatige vlakverdelingen worden gemaakt, zoals deze voorkomen in Arabische kunst en ook in de grafiek van Escher. Met elke driehoek en elke vierhoek kan een vlakverdeling gemaakt worden die bestaat uit alleen deze vormen. Met vijf- en meerhoeken kan het alleen als de veelhoek aan bepaalde voorwaarden voldoet. Een vlakverdeling van een regelmatige veelhoek is alleen mogelijk met de reeds genoemde drie- en vierhoek en met de zeshoek. Dit komt doordat de hoeken van een driehoek (60°), vierhoek (90°) en een zeshoek (120°) alle een deler zijn van 360°. Voor alle andere hoeken van regelmatige veelhoeken geldt dit niet.
+Configuratie.
+Elke veelhoek met "n" hoeken is een "n"2 configuratie.

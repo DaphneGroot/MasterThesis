@@ -1,0 +1,6 @@
+Noemer.
+De noemer is het getal onder de streep van een breuk. In is 5 de noemer.
+Is iets in een aantal gelijke stukken verdeeld, dan geeft de noemer aan hoe dat deel heet, hoe dat te "noemen" is.
+Is iets in vijf gelijke stukken verdeeld, dan heet één zo'n stuk een vijfde. De naam van het deel is gelijk aan het rangtelwoord van het aantal stukken waarin het is verdeeld.
+Alleen en hebben een eigen naam: half en kwart respectievelijk.
+Het getal boven de streep, dat het aantal delen telt, heet de teller.

@@ -1,0 +1,12 @@
+Diameter.
+De lengte van de lijn is de diameter van de cirkel
+De diameter van een cirkel, cilinder of bol is de lengte van de rechte lijn die kan worden getrokken tussen twee punten op de bol of de cirkel en door het middelpunt hiervan. Deze lengte is de grootst mogelijke afstand tussen twee punten op bol of cirkel. Afstanden die worden gemeten langs de cirkellijn of het boloppervlak worden omtrek genoemd. De diameter is een bijzondere vorm van een koorde van bol of cirkel, namelijk die met de grootste lengte. Het woord diameter is ontleend aan het Grieks "διάμετρος" ("diametros"), van "δια-" ("dia-") = door + "μέτρον" ("metron") = meten.
+Diameter heet in het Nederlands ook middellijn - een oorspronkelijk Nederlands woord bedacht door Simon Stevin. De middellijn van een cirkel is zowel een lijn: een koorde die het middelpunt van de cirkel snijdt als de lengte van die koorde.
+De diameter is gelijk aan: 2 × de straal.
+De omtrek van een bol of cirkel is gelijk aan: π × de diameter.
+Doorsnede.
+In het Nederlands wordt tevens vaak de term doorsnee of doorsnede gebruikt voor diameter of middellijn. Vanwege dit gebruik staat het zelfs zo in de Van Dale, terwijl dit meetkundig gezien niet correct is. De doorsnede is namelijk de oppervlakte van het snijvlak.
+Rond.
+Op technische tekeningen wordt de diameter vaak aangegeven met een Ø, die als "rond" wordt uitgesproken.
+Gebruik.
+De diameter is een gebruikelijke maat om de grootte van de cirkel te specificeren. De maat van boren en buizen wordt vrijwel zonder uitzondering gespecificeerd met de diameter. De reden hiervan is dat de diameter eenvoudig en direct te meten is. Voor buizen wordt soms ook de binnendiameter opgegeven. Ook de afmetingen van schroeven wordt als diameter gegeven. Zo betekent M5 dat de schroef Metrisch is, met een diameter van 5 mm.

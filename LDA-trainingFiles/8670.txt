@@ -1,0 +1,8 @@
+Pyro-elektrisch effect.
+Het pyro-elektrisch effect (Grieks: "pyr" is "vuur") is een elektrische spanning die ontstaat als sommige materialen worden verhit. Het effect is origineel ontdekt in natuurlijke materialen zoals kwarts en toermalijn, en sindsdien zijn ook kunststoffen gemaakt die het effect vertonen. Zowel bot als peesmateriaal vertonen een pyro-elektrisch effect. Alle materialen die het pyro-elektrisch effect vertonen, vertonen ook het gerelateerde Piëzo-elektrisch effect.
+Geschiedenis.
+De eerste keer dat het pyroelektrisch effect wordt genoemd is in stukken van Theophrastus in 314 v.Chr.. Hem was opgevallen dat toermalijn een lading kreeg wanneer het werd verwarmd. David Brewster gaf het effect zijn huidige naam in 1824. Zowel William Thomson in 1878 en Voight in 1897 hebben geholpen op de theorie achter het effect te formuleren. Pierre Curie en zijn broer Jacques Curie bestudeerden pyroelektriciteit rond 1880, en ontdekten daarbij het mechanisme van de piëzo-elektriciteit.
+Toepassing.
+Heel kleine temperatuurveranderingen kunnen al een pyro-elektrische ladingsscheiding opleveren. Bewegingssensoren worden vaak uit pyro-elektrische materialen gemaakt omdat de lichaamswarmte van een mens of dier op meters afstand al voldoende zijn om een ladingsverandering te veroorzaken.
+Materialen.
+Goede kunstmatige pyro-elektrische materialen zijn geproduceerd in de vorm van dunne films van galliumnitride, cesiumnitraat, polyvinyl-fluoriden, afgeleiden van fenyl-pyrazine en van kobalt-ftalocyanine.

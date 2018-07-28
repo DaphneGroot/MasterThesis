@@ -1,0 +1,16 @@
+DivX.
+DivX is een standaard om digitale videobestanden compact op te slaan door gebruik te maken van een compressiealgoritme dat geoptimaliseerd is voor videobeelden.
+Om bestanden in DivX-formaat te kunnen opnemen of afspelen, hebben multimediaprogramma's een zogenaamde codec voor dit algoritme nodig. In steeds meer hardware wordt een DivX-codec ingebouwd. Aan de codec zelf wordt doorgaans ook gerefereerd met het woord "DivX".
+Geschiedenis.
+DivX begon aanvankelijk als een hack van de Microsoft-MPEG4-codec. Deze codec was aanvankelijk beschermd, zodat het niet mogelijk was om op hoge resolutie films te coderen. Afspelen kon daarentegen wel, zodat degene die genoeg geld betaalde voor een betere encoder wel hogekwaliteitfilms kon coderen. Op deze manier trachtte Microsoft misbruik van hun codec oninteressant te maken. De gekraakte codec kon wel hogekwaliteitfilms coderen en ging door het leven als DivX 3. De Microsoft MPEG4-codec was een implementatie van MPEG4. Het codeerformaat week op belangrijke punten af van de officiële MPEG4-implementatie. De ontwikkeling van DivX gaat hand in hand met de ontwikkeling en opkomst van webvideo.
+Van illegaal naar legaal codec.
+Probleem van DivX 3 was dat het illegaal was. Het bedrijf DivX Networks werd opgericht om een DivX-codec te ontwikkelen die wel legaal was en bovendien de beeldkwaliteit nog op zou schroeven. Men begon met een referentie-implementatie van de officiële MPEG4-standaard, Momusys. Om de ontwikkeling vlotter te laten gaan werd het project opensource gemaakt.
+Dit leverde de DivX4-codec op. Het doel een betere beeldkwaliteit te leveren dan DivX3 werd echter niet gehaald. Het bleek namelijk mogelijk de beeldkwaliteit van DivX3 flink op te schroeven door gebruik te maken van variabele bitrates en er werden ook nog andere technieken bedacht.
+Nadat DivX4 uitgebracht was, veranderde DivX Networks van strategie. De licentie van de broncode liet het toe dat men de code kon nemen en deze commercieel mocht doorontwikkelen. Vanaf nu zou DivX als gesloten project door het leven gaan. DivX Networks had ook de merknaam DivX verworven.
+XviD, de opensource-DivX.
+De opensourceprogrammeurs die aan DivX 4 hadden gewerkt waren hier, logischerwijs, behoorlijk door geïrriteerd. Zij begonnen een nieuw project, XviD dat voort zou borduren op de DivX-broncode van dat moment.
+DivX Networks verbeterde de DivX4-codec en bracht DivX5 uit. Deze codec verbeterde de beeldkwaliteit flink. Ook de XviD-programmeurs wisten de DivX4-codec flink te verbeteren en hebben de beeldkwaliteit van DivX inmiddels geëvenaard. De prestaties van beide codecs zijn dusdanig goed dat zij DivX3 ver achter zich laten.
+DivX moet niet worden verward met DIVX, een ongerelateerde poging van Circuit City in de Verenigde Staten om tot een dvd-uitleensysteem te komen. Aanvankelijk heette de DivX-codec DivX;-), met de smiley, als een sarcastische verwijzing naar dit gefaalde DIVX-systeem.
+Films.
+Sinds de laatste jaren verschijnen er steeds meer dvd-spelers die ook schijven met DivX-bestanden aankunnen. DivX is een zeer populair videoformaat op het internet. Via torrentprogramma's worden duizenden films (illegaal) te downloaden aangeboden.
+Dvd-spelers met DivX 6.0 (DivX Ultra genoemd) kunnen ook ondertitelingbestanden lezen. Er zijn diverse sites die ondertitelingsbestanden leveren voor gedownloade films.

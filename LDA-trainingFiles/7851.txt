@@ -1,0 +1,48 @@
+Meiose.
+De meiose, reductiedeling of rijpingsdeling is een tweedelig delingsproces dat voortplantingscellen produceert. Afhankelijk van de levenscyclus gaat het om verschillende dingen: namelijk gametische meiose met de vorming van eicellen en zaadcellen bij onder andere dieren en sporische meiose met de vorming van sporen (meiosporen) of afgeleiden daarvan bij onder andere planten, mossen en varens.
+Chromosomen komen bij veel organismen in paren voor, de homologe chromosomen, waarvan door de bevruchting 1 afkomstig van de ene ouder en een afkomstig van de andere ouder. De moedercel is diploïde en bevat homologe chromosomen. Tijdens de meiose worden de homologe chromosomen volgens het toeval verdeeld over de dochtercellen. De dochtercellen bevatten slechts 1 chromosoom van elk paar en zijn haploïde.
+Interfase.
+Deze fase van de celcyclus maakt geen deel uit van de meiose, maar er treden wel voorbereidingen tot de meiose op.
+Profase I.
+Het kernmembraan en de nucleoli verdwijnen, er wordt een spoelfiguur aangelegd en de chromosomen worden duidelijk zichtbaar. Ze bewegen zich naar het evenaarsvlak toe tussen de twee centriolenparen. De verspreiding van de chromosomen van de ouders gebeurt willekeurig. In deze fase treedt ook de crossing-over op: corresponderende delen van homologe chromosomen wisselen onderling van plaats. Door deze vorm van natuurlijke recombinatie is zelfs ieder afzonderlijk chromosoom dat uiteindelijk in de geslachtscel terechtkomt een menging van het genetisch materiaal van de ouders.
+Metafase I.
+De chromosomen leggen zich nu niet elk apart in het evenaarsvlak, zoals bij de mitose, maar per paar. Het zijn dus twee zusterchromatiden die aan de spoeldraden worden vastgehecht. Punt waaraan ze zijn vastgehecht is centromeer.
+Anafase I.
+De homologe chromosomen worden nu, elk met hun twee zusterchromatiden, van elkaar weggetrokken. Het aantal chromosomen wordt gehalveerd.
+Telofase I.
+De cel gaat zich insnoeren. Er zijn nu twee dochtercellen ontstaan die ieder een diploïde hoeveelheid DNA bezitten, telkens bestaande uit twee zusterchromatiden die met elkaar verbonden zijn alsof het één chromosoom betreft. Het aantal chromosomen is dus haploïd.
+Deze twee cellen zullen zich verder delen door een deling gelijkend op mitose. Het resultaat zal dus twee haploïde dochtercellen zijn per moedercel.
+Meiose II.
+Aan dit gedeelte van de meiose gaat geen interfase vooraf; hij volgt direct op de eerste meiotische deling. Deze fase verloopt zoals de mitose, met het verschil dat er geen paren meer zijn.
+Profase II.
+In iedere dochtercel wordt een spoelfiguur gevormd, loodrecht op de richting van de vorige.
+Metafase II.
+De chromosomen liggen onder elkaar in het evenaarsvlak met hun centromeer aan de spoeldraden bevestigd.
+Anafase II.
+De trekdraden trekken de zusterchromatiden uit elkaar, zodat deze zich elk naar hun pool verplaatsen. We krijgen nu onafhankelijke dochterchromosomen.
+Telofase II.
+De spoelfiguren worden afgebroken. Er vindt opnieuw celinsnoering plaats. De chromosomen ondergaan despiralisatie en decondensatie tot lange dunne chromatinedraden.
+Het resultaat is 4 gameten die haploïd zijn.
+Meiose versus mitose.
+Tijdens de mitose wordt het aantal chromosomen verdubbeld omdat de centromeren zich delen. Dit dubbele aantal chromosomen wordt vervolgens over de dochtercellen verdeeld en wel zo dat iedere dochtercel over precies dezelfde chromosomen beschikt. Bij de mitose wordt dus feitelijk een cel gekopieerd met in haar kern dezelfde informatie als in de moedercel.
+Bij de meiose daarentegen worden de chromosoomparen gesplitst en wel zo dat van ieder paar er juist één vertegenwoordiger naar een dochtercel gaat. Hierdoor wordt, per cel, het aantal chromosomen gehalveerd, terwijl ieder kenmerk (gen) toch nog aanwezig blijft. Wat de "informatie" voor elk kenmerk inhoudt, wordt louter door het toeval bepaald.
+Het grote verschil tussen meiose en mitose is dat bij de mitose de zuster-chromatiden zich afsplitsen door het delen van het centromeer. Hierbij worden twee dochterchromosomen gevormd.
+Bij de meiose I daarentegen gebeurt deze splitsing niet. Deze vindt pas plaats in de meiose II.
+Levenscyclus en moment van de meiose.
+Meiose met de vorming van haploïde dochtercellen uit een diploïde moedercel kan op verschillende momenten in de levenscyclus plaatsvinden. Organismen zonder generatiewisseling (met slechts één generatie) hebben een "gametische meiose" of een "zygotische meiose", als er een generatiewisseling plaatsvindt (met ten minste twee elkaar afwisselende generaties), is er een "sporische" of "intermediaire meiose".
+Bij gametische meiose worden de gameten meiotisch gevormd door een diploïde individu (gametofyt), die na de bevruchting zich uit de zygote gevormd heeft. Er is dus geen haploïde generatie te onderscheiden, maar alleen een diploïde generatie. Een dergelijke levenscyclus wordt daarom gametische of diplofasische cyclus genoemd. Een dergelijke levenscyclus komt onder andere voor bij dieren.
+Bij zygotische meiose ondergaat de diploïde zygote direct weer meiose, waarna zich een haploïde gametofyt ontwikkelt. Er is dus geen diploïde generatie maar alleen een haploïde generatie. Een dergelijke levenscyclus wordt daarom zygotische of haplofasische cyclus genoemd.
+Als er een generatiewisseling is, is er een sporische of intermediaire meiose: door meiose worden aan een diploïde individu (sporofyt) de haploïde sporen gevormd. Er is een zowel een diploïde generatie als een haploïde generatie te onderscheiden. Deze generaties wisselen elkaar af: de zogenaamde generatiewisseling. Een dergelijke levenscyclus wordt daarom sporische of diplohaplofasische cyclus genoemd. Een dergelijke levenscyclus komt onder andere voor bij mossen, varens en zaadplanten. Bij de mossen is de haploïde gametofyt de dominante generatie en leeft de sporofyt op de gametofyt; bij varens en zaadplanten is de diploïde sporofyt de dominante generatie, leeft zelfstandig en heeft een grotere levensduur.
+Dieren.
+Bij de ontwikkeling van de dierlijke eicel ontstaat uit één cel één eicel, terwijl bij de ontwikkeling van de zaadcellen uit één cel vier zaadcellen ontstaan.
+Bij eicellen ontvangt de éne dochtercel daarbij steeds vrijwel al het cytoplasma en gaat de andere te gronde (het poollichaampje is de andere, niet-functionele eicel), terwijl bij de productie van zaadcellen de twee ontstane cellen even groot zijn en zich beide daarna nog een keer delen zodat uiteindelijk vier zaadcellen ontstaan uit een stamcel.
+Bij de mens en ook bij veel andere zoogdieren vindt de meiose II van de eicel plaats na de bevruchting. Ook hierbij ontstaat dan een poollichaampje.
+Planten.
+Voor zaadplanten geldt ongeveer het onderstaande.
+Uit de bij de bevruchting ontstane diploïde zygote ontwikkelt zich tot een embryo en verder tot de volwassen plant: de diploïde sporofyt. Vaak zijn er mannelijke met alleen microsporangia en vrouwelijke sporofyten met alleen macrosporangia te onderscheiden, maar soms zijn microsporangia en macrosporangia te vinden op dezelfde plant.
+De microsporen (pollen) worden gevormd in de microsporangia (helmknoppen); deze komen vrij. De microsporen ontwikkelen zich tot microprothallium (♂ gametofyt) met antheridium (♂ gametangium), die weer de zaadcellen (♂ gameten) of overeenkomstige kernen vormen.
+De macrosporen worden gevormd in de macrosporangia, maar deze komen niet vrij en ontwikkelen zich binnen de sporangiumwand tot een macroprothallium (♀ gametofyt) met een eicel (♀ gameet). De gameten zorgen voor de bevruchting, waarbij weer een zygote ontstaat.
+Eicelvorming.
+In de zaadknop zit de embryozak met daarin de embryozakmoedercel. Deze cel deelt zich 2 keer, waarbij een eicel, twee synergiden, 3 antipoden en een secundaire embryozakkern ontstaan.
+Stuifmeelvorming.
+In de helmhokjes van de meeldraden vindt de vorming van stuifmeelkorrels (pollen) plaats. Bij de vorming van de meeldraad veranderen vier groepjes van meristematische cellen in vier stuifmeelkorrelmoederzakken (microsporangiën), twee per helmhokje. Een pollenmoederzak bestaat uit voedingsweefsel (tapetum), waarbinnen de stuifmeelkorrelmoedercellen (microspore moedercellen) liggen, welke uitgroeien tot stuifmeelkorrels. Door meiose ontstaan uit de microsporen eerst twee cellen (een dyade) en vervolgens een klompje van vier cellen (een tetrade). De cellen van de tetrade maken zich gewoonlijk van elkaar los en vormen de haploïde microsporen. De buitenwand om deze microspore verdikt onder invloed van zowel het tapetum als de microspore tot de exine. Daarbinnen wordt door de microspore een binnenwand (intine) gevormd. Vervolgens deelt de microspore zich via een mitotische celdeling in tweeën, de generatieve cel en de vegetatieve kern. De vegetatieve kern groeit bij de bestuiving uit tot de pollenbuis, waarna deze kern verdwijnt (degenereert).

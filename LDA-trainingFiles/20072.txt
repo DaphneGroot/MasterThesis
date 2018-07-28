@@ -1,0 +1,58 @@
+Limiet.
+Het woord limiet is afkomstig van het Latijnse "limes", dat "grens" betekent. In de wiskunde kan het begrip limiet of grenswaarde goed gedemonstreerd worden met het volgende voorbeeld. De getallen uit de rij 1, 1/2, 1/4, 1/8... naderen steeds dichter de grenswaarde 0. Het getal 0 is dan ook de limiet van deze rij. Echter, ook 1, -1/2, 1/4, -1/8... heeft limiet 0, waarbij de term "grens" minder van toepassing is.
+Limiet van een rij getallen.
+Bij deze ε is er het getal S, zodat de functie voor waarden van x groter dan S in het intervalL- ε,L+ εligt
+(dat wil zeggen, de limiet voor formula_4 naar oneindig van formula_5 is formula_2),
+als de getallen van de rij willekeurig dichtbij formula_2 in de buurt komen.
+Als een rij een limiet heeft, heet hij convergent, anders divergent.
+Limiet van een rij in een topologische ruimte, een metrische ruimte en een genormeerde vectorruimte.
+Algemener kan men een rij formula_12 beschouwen van elementen in een metrische ruimte, of nog algemener, in een topologische ruimte formula_13. De rij heet convergent als er een element formula_14 in de topologische ruimte bestaat waarvan elke willekeurig kleine omgeving een hele staart van de rij omvat. Formeel heet formula_14 een limiet van de rij formula_12, als
+In een metrische ruimte heeft een rij hoogstens één limiet, in een algemene topologische ruimte kan eenzelfde rij verschillende limieten hebben. In een metrische ruimte wordt de topologische structuur volledig vastgelegd door de convergente rijen: de afsluiting van een verzameling bestaat uit alle limieten van rijen uit die verzameling. In een algemene topologische ruimte is dit evenmin gegarandeerd.
+De algemene topologie veralgemeent het begrip rij nog tot filter. Een filter formula_20 convergeert naar een punt formula_14 als alle omgevingen van formula_14 tot formula_20 behoren. We zeggen in dat geval ook dat formula_14 een "limiet" is van formula_20. Convergentie van filters legt eenduidig de topologische structuur vast.
+Limiet van een functie.
+(dat wil zeggen de limiet als formula_14 nadert tot formula_27 van formula_32 gelijk is aan formula_2),
+Merk op dat het punt formula_27 zelf expliciet buiten de definitie is gelaten. De functie kan in het punt formula_27 zelf een waarde hebben verschillend van de limiet, of daar zelfs niet gedefinieerd zijn. Zo is bijvoorbeeld
+niet gedefinieerd voor formula_44, maar het is eenvoudig in te zien dat
+Linker- en rechterlimiet.
+Naast het begrip limiet bestaan ook nog eenzijdige limieten, en wel de rechter- (ook wel limiet van boven) en de linkerlimiet (limiet van onder).
+De rechterlimiet wordt genoteerd als formula_46 of als formula_47,
+als voor elke formula_36 er een formula_37 bestaat, zodanig dat voor alle formula_51 met formula_52 geldt dat formula_53
+als voor elke formula_36 er een formula_37 bestaat, zodanig dat voor alle formula_51 met formula_60 geldt dat formula_53
+Merk op dat de limiet bestaat dan en slechts dan als de rechterlimiet en de linkerlimiet beide bestaan en aan elkaar gelijk zijn.
+Limieten in oneindig.
+als voor elke formula_8 er een formula_9 bestaat, zodanig dat voor alle formula_69 geldt dat formula_70.
+Er is een verband met limieten van rijen: als een functie formula_26 een limiet heeft voor formula_72, dan heeft de rij formula_73 dezelfde limiet. Het omgekeerde geldt niet altijd, omdat de rij alleen naar de functiewaarden in de gehele getallen 'kijkt'; tussen de gehele getallen kan de functie zich natuurlijk nog sterk "misdragen".
+Metrische ruimten.
+als voor elke formula_36 er een formula_37 bestaat, zodanig dat voor alle formula_79 met formula_80 geldt dat formula_81.
+Continuïteit van een functie.
+Een functie "f" is continu in een punt "a" van zijn domein als formula_82 bestaat en gelijk is aan "f(a)". Een functie "f" heet simpelweg continu als hij in alle punten van zijn domein continu is.
+Verklarend voorbeeld.
+We nemen de functie formula_90, en berekenen de limiet ervan in twee punten formula_44 en formula_92.
+De functiewaarde in het punt "0" is gelijk aan de limiet in dat punt van de functie. Dat is de definitie van continuïteit, we kunnen stellen dat de functie "f" continu is in het punt "x"=0.
+Opnieuw kijken we of deze limiet overeenkomt met de functiewaarde in dat punt.
+We zien dat de functie niet gedefinieerd is voor "x"=-1; de noemer wordt namelijk nul. Hier hebben we een situatie dat de limiet bestaat, maar de functiewaarde niet.
+Deze merkwaardige situatie kunnen we begrijpen door de originele functie te vereenvoudigen, zodat de "eenvoudigere" functie formula_99 ontstaat, waarvoor de functiewaarde voor "x"=-1 wél gedefinieerd is (en gelijk is aan bovenstaande limiet!)
+Oneindig als 'limiet'.
+Als er in het geval van reële getallen geen convergentie is, dus er geen eindige limiet is, kan er sprake zijn van een onbegrensde toename van de waarden in de rij of de functiewaarden. Dat houdt in dat voor elk willekeurig groot getal de rij vanaf een zeker rangnummer of de functiewaarden vanaf een zeker punt alle groter zijn dan dat getal. Men zegt dan dat de limiet formula_100 is. Analoog heet de limiet formula_101 voor onbegrensd afnemende waarden.
+Een formulering als "de rij heeft een limiet" kan daarmee onduidelijk zijn. Duidelijker zijn "de rij heeft een eindige limiet" en "de rij heeft een al of niet eindige limiet", tenzij het expliciet gaat over rijen in een ruimte met oneindig als element, zoals formula_108 (zie onder).
+Topologische ruimten met oneindig als element.
+Voor een rij in formula_108 of formula_126 (zie topologische ruimten met oneindig als element) of een functie met domein formula_108 of formula_126 en een bereik formula_108 of formula_126 vallen een oneindige limiet en een limiet in oneindig onder de normale limietbegrippen voor de betreffende topologische ruimte(n): het zijn metrische topologische ruimten, het limietbegrip volgt uit dat voor bijbehorende metrische ruimten, waarbij er niet een heel rijtje definities nodig is zoals hierboven.
+In het bijzonder is dus de limiet van een functie "f" van een deelverzameling "D" van formula_108 naar formula_108, voor "x" naar een ophopingspunt "a" van "D", als volgt gedefinieerdː
+met "d" een willekeurige bijbehorende metriek. Hierbij kunnen "a" en "L" ook oneindig of min oneindig zijn. De limiet van een rij valt hier ook onder, met "D" = en "a" oneindig.
+Als formula_3 is de rij convergent als "L" element is van de beschouwde topologische ruimte, en anders divergent. In het bijzonder geldt dat als formula_142, de rij convergent is als rij in formula_108 (ook als alle elementen van de rij eindig zijn), en divergent als rij in formula_144.
+Limiet van een rij functies.
+Ook een rij functies formula_145 kan convergeren en een functie formula_26 als limiet hebben. De functionaalanalyse onderscheidt verschillende soorten convergentie. De meeste soorten convergentie kunnen worden opgevat als topologische convergenties, zoals hierboven bij "limiet van een rij in een topologische ruimte".
+Puntsgewijze convergentie.
+Voor elke formula_14 convergeert de rij formula_148 met als limiet formula_32.
+Dit is de convergentie van de producttopologie als elke functie wordt opgevat als een element uit een (oneindig) Cartesisch product.
+Uniforme convergentie.
+Voor voldoend grote indices in de staart van de functierij wordt het grootste absolute verschil tussen de limietfunctie en een lid van de rij willekeurig klein
+Dit is de convergentie van de metrische ruimte van de supremumnorm.
+Convergentie in kwadratisch gemiddelde.
+De kwadratische afwijking tussen de functies en hun limiet wordt willekeurig klein.
+Dit is de convergentie van de pseudometrische ruimte van de kwadratisch-gemiddelde-seminorm.
+Convergentie in "Lp"-ruimten.
+De limiet in "Lp"-ruimten voor formula_153 is voor formula_154 gebaseerd op een norm (de formula_155-de-machtswortel van de integraal van de formula_155-de-macht) en voor formula_157 slechts op een metriek (de integraal van de formula_155-de-macht).
+Limiet van een rij krommen.
+Omdat een geparametriseerde kromme een functie is is de limiet van een rij geparametriseerde krommen een bijzonder geval van de limiet van een rij functies. Dit is onder meer aan de orde bij ruimtevullende krommen.
+De lengte van een limietkromme hoeft niet de limiet van de lengtes van de krommen te zijn.

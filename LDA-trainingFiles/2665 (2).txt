@@ -1,0 +1,23 @@
+Impuls (natuurkunde).
+ofwel, de impuls is het product van de scalaire grootheid massa en de vectoriële grootheid snelheid. De impuls is dus ook een vectorgrootheid, met dezelfde richting als de snelheid.
+De eenheid van impuls is formula_3 (Newton seconde), wat in SI-eenheden neerkomt op formula_4.
+Impuls in de klassieke natuurkunde: stoot.
+Stoot bij biljart. De impuls van de witte bal wordt over alle ballen verdeeld.
+Wanneer de kracht constant is, neemt de impuls lineair toe in de tijd. Als dit niet het geval is neemt men de integraal van de uitgeoefende kracht in de tijd.
+Wet van behoud van impuls.
+De "wet van behoud van impuls" kan worden afgeleid uit Newtons axioma's voor de klassieke mechanica: Als er geen externe kracht werkt op een systeem, blijft de totale impuls behouden;
+De totale impuls van het systeem kan niet veranderen tenzij er een externe kracht op werkt. Dit geldt ook als het systeem bestaat uit meer dan twee voorwerpen of zelfs een continuüm.
+Impuls en relativiteit.
+Er wordt algemeen aangenomen dat de wetten van de natuurkunde invariant zouden moeten zijn voor translatie. Met andere woorden: het moet niet uitmaken of je een verschijnsel waarneemt in stilstand of terwijl je met een constante snelheid beweegt. Christiaan Huygens leidde zijn botsingswetten af door eerst een eenvoudige botsing te bekijken waarbij twee biljartballen elkaar met gelijke snelheid raken, en de botsing daarna in gedachten plaats te laten vinden aan boord van varende trekschuiten.
+Hierbij is formula_16 de rustmassa en formula_17 de lorentzfactor die afhangt van de verhouding tussen de snelheid en de lichtsnelheid in vacuüm. Bij snelheden die klein zijn ten opzichte van de lichtsnelheid is de lorentzfactor vrijwel gelijk aan 1. De definities van klassieke en relativistische impuls komen dan overeen. Maar, wanneer de snelheid in de buurt komt van de lichtsnelheid 'c' neemt de lorentzfactor toe en is de relativistische impuls groter dan de klassieke. De impuls nadert zelfs tot oneindig wanneer de snelheid van het voorwerp de lichtsnelheid nadert. Dit geeft aan waarom de lichtsnelheid nooit gehaald kan worden. Hiervoor is een oneindig grote stoot nodig en dus een kracht die oneindig groot is of oneindig lang werkt.
+De relativistische impuls wordt zelfs gebruikt om een relativistische massa formula_18 te definiëren. Bij deze alternatieve rekenmethode in de relativistische mechanica wordt de regel formula_2 behouden.
+Met behulp van viervectoren ontstaat een nieuwe invariantie. Die geldt niet voor energie en zelfs niet voor massa, maar wel voor impuls. Zie Behoudswet.
+waarin E de energie van het foton is. Met deze definitie geldt voor zowel deeltjes met massa als deeltjes zonder massa dat formula_27, waar formula_1 de lengte van de formula_22 aangeeft en formula_30 de lengte van formula_31. Massaloze deeltjes bewegen zich altijd met de lichtsnelheid.
+Impuls in de kwantummechanica.
+Wanneer met deze operator gewerkt wordt in de kwantummechanica, zijn de uitkomsten van de berekeningen (wanneer toegepast op voor de andere methoden gebruikelijke schaal) overigens wel gelijk aan de bovenstaande formules.
+Gegeneraliseerde impuls.
+formula_34,
+waarbij formula_35 een plaatscoördinaat en formula_36 een snelheidscoördinaat is in een gegeneraliseerd coördinatenstelsel. Het nummer van de vrijheidsgraad wordt met i aangegeven.
+In het Hamiltonformalisme zijn q en p de onafhankelijke gegeneraliseerde coördinaten.
+Nota bene.
+Let op! Het Engelse woord "impulse" heeft dezelfde betekenis als het Nederlandse "stoot", niet als impuls. Het Engelse woord voor impuls is "momentum", niet te verwarren met het Nederlandse woord "moment", dat in het Engels "torque" heet (en daarmee lijkt op het Nederlandse woord "torsie", dat het gevolg kan zijn van een "moment").

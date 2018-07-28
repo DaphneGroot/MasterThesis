@@ -1,0 +1,15 @@
+Transversale golf.
+Een transversale vlakke golf, zoals de golven van de branding eruit kunnen zien (voordat ze breken).
+Een transversale golf is een golf waarin de oscillatie loodrecht staat op de voortplantingsrichting van de energie in de golf (in tegenstelling tot een longitudinale golf).
+Voorbeelden.
+Illustratie van een lopende transversale golf, zoals een trillend touw eruit zou kunnen zien.
+Een voorbeeld van een transversale golf is de golf in een lang touw dat aan een kant in trilling wordt gebracht (door de hand heen en weer te bewegen). Golven op het wateroppervlak zijn eveneens transversale golven. Seismische golven aan het aardoppervlak, met name de S-golf zijn eveneens transversaal.
+Ook elektromagnetische straling, inclusief zichtbaar licht is een transversaal golfverschijnsel. Het oscillerende elektrisch veld van elektromagnetische straling staat loodrecht op de voortplantingsrichting. Ook het magnetische veld staat loodrecht op de voortplantingsrichting. Geluid is daarentegen een voorbeeld van een longitudinale golf.
+Op grond van de algemene relativiteitstheorie neemt men aan dat zwaartekrachtgolven ook transversaal zijn, al voorspellen sommige theorieën daarnaast ook longitudinale golven.
+Polarisatie.
+Omdat er meerdere richtingen loodrecht kunnen staan op de voortplantingsrichting, kan een transversale golf polarisatie vertonen. In het voorbeeld van het lange touw kan de trilling verticaal zijn (door de hand op en neer te bewegen) of horizontaal (door de hand heen en weer te bewegen). Door het touw in een cirkelvorm te bewegen, ontstaat een trillingsvorm die eruitziet als een kurkentrekker. Deze vorm is niet gepolariseerd, de trillingsrichting varieert met de tijd en met de positie op het touw.
+Verschil met longitudinale golf.
+Bij een transversale golf staat de richting van de oscillatie (bijvoorbeeld de beweging van de deeltjes) loodrecht op de voortplantingsrichting. Bij een longitudinale golf is de richting van de oscillatie parallel aan de voortplantingsrichting. Dit wordt geïllustreerd door de figuur hiernaast.
+Golven in het hart van vloeistoffen en gassen zijn altijd longitudinale golven, omdat in deze media geen elastische vervorming op kan treden. De oppervlaktegolven kunnen wel transversaal zijn.
+Een longitudinale golf vertoont geen polarisatie. Immers, de richting van de oscillatie is parallel aan de voortplantingsrichting, en er zijn dus niet meer mogelijkheden voor de richting van de oscillatie.
+Rayleighgolven, dat zijn bepaalde golven aan het aardoppervlak, kunnen worden gezien als een wisselwerking tussen longitudinale en transversale golven.

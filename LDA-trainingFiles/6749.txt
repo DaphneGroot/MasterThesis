@@ -1,0 +1,18 @@
+Sinus en cosinus.
+Sinus en cosinus zijn onderling samenhangende goniometrische functies. Zij worden in de wiskunde gebruikt als aanduidingen van de verhouding van lengtes van lijnstukken. Later werden van deze verhoudingen functies afgeleid. Zo is de sinus de functie met als grafiek de bekende golflijn.
+Hoofdkenmerken.
+Deze functie is periodiek, met periode 2π. De sinus heeft dus dezelfde waarde voor de hoeken α, α+2π, α+4π... De grafiek is op de intervallen [2π,4π), [4π,6π), enz. een herhaling van het deel tussen 0 en 2π. Dit komt doordat een hoek van bijvoorbeeld 480° = 1×360°+120°, dus een keer helemaal rond en dan nog eens 120°, als echte hoek gelijk is aan een hoek van 120°. De bijbehorende waarden van sinus resp. cosinus zijn dan ook steeds gelijk.
+zodat de grafiek van de cosinus gelijk is aan de π/2 naar links verschoven grafiek van de sinus.
+Geschiedenis.
+Sinus en cosinus werden bestudeerd door Hipparchus van Nicaea (180–125 v.Chr.), Claudius Ptolemaeus van Egypte (90–165 na Chr.), Aryabhata (476–550), Varahamihira, Brahmagupta, Abū al-Wafā' al-Būzjānī, Omar Khayyam, Bhāskara II, Nasir al-Din al-Tusi, Ghiyath al-Kashi (14e eeuw), Ulugh Beg (14e eeuw), Regiomontanus (1464), Rheticus, en Rheticus' leerling Valentin Otho.
+De Arabieren introduceerden het begrip "sinus" als "gib", wat letterlijk "koorde" betekent. In de 12e eeuw werden de Arabische werken vertaald naar het Latijn. Hierbij werd "gib" verward met "gaib", dat bocht of boezem betekent. Het Latijnse woord hiervoor is "sinus". Ondanks de foute vertaling raakte het begrip ingeburgerd.
+In de oorspronkelijke definitie zijn sinus en cosinus verhoudingen van bepaalde zijden in een rechthoekige driehoek. De grootte van de driehoek speelt daarbij geen rol; voor een bepaalde hoek zijn de verhoudingen onafhankelijk van de grootte van de driehoek. Dit valt onmiddellijk aan te tonen met gelijkvormigheid.
+Als eerste kennismaking wordt deze methode nog vaak onderwezen bij wijze van opstap naar de vernieuwde, meer algemene benadering. Men heeft hiervoor gekozen omdat het abstractieniveau beduidend lager is en de toepassingsmogelijkheden veel duidelijker zijn. Hoewel de regels niet moeilijk zijn, worden ze vaak door elkaar gehaald. Het ezelsbruggetje "SOS Castoa" wordt hierom nog weleens toegepast door wiskundeleraren. Deze goniometrische verhoudingen worden vaak geïntroduceerd in de derde klas van de middelbare school.
+Sinus en cosinus in het heden.
+Stompe hoeken zouden volgens de genoemde definitie geen sinus of cosinus kunnen hebben. Men heeft om dit probleem op te lossen de sinus en cosinus geherdefinieerd. Bij afspraak is de sinus van "θ" het tweede coördinaatgetal van het beeldpunt "P" van "θ" op de goniometrische cirkel. De cosinus is het eerste coördinaatgetal.
+De enige functies die daaraan voldoen zijn de sinus en cosinus functies.
+Somformules.
+Voor meer formules: zie de lijst van goniometrische gelijkheden.
+Toepassingen.
+De sinus en de verwante goniometrische functies zoals de cosinus, worden bijzonder vaak toegepast, vooral in de studie van golven. Een van de eigenschappen van de sinus is dat de tweede afgeleide ook een sinus is (met een min-teken). Voor de cosinus geldt een analoge eigenschap. Dit maakt de sinus en de cosinus een oplossing van de golfvergelijking, die een differentiaalvergelijking van de tweede graad is.
+Daarin is "θ" de poolhoek en "r" de poolstraal.

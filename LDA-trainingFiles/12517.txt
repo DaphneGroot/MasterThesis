@@ -1,0 +1,17 @@
+Autogeen lassen.
+Autogeen lassen, ook wel gassmeltlassen of zuurstof-acetyleenlassen genoemd, is een lasmethode die gebruikmaakt van een zeer hete vlam. Meestal wordt gebruikgemaakt van de reactie van ethyn (acetyleen) met zuivere zuurstof.
+Geschiedenis.
+De term autogeen lassen komt uit het Frans ("soudure autogène") en werd door E. Desbasseyns de Richemont in 1840 ingevoerd. Er waren op laboratoriumschaal toen al blaaspijpen gebaseerd op waterstof en zuurstof. De Richemont vond een versie uit die met lucht en waterstof werkte en voor lasdoeleinden geschikt was. Ethyn was sinds 1836 bekend maar een acetyleenbrander werd pas in 1887 ontwikkeld.
+Er was toen al een ontwikkeling van het elektrisch lassen op gang gekomen en tot de jaren 1930 is er een concurrentieslag geweest tussen de twee lasprincipes. Uiteindelijk werd de slag grotendeels ten nadele van het autogeen lassen beslecht.
+Kenmerken.
+Er wordt gebruikgemaakt van de hitte die vrijkomt bij een sterk exotherme chemische reactie. De brander wordt meestal gevoed met een gasmengsel, omdat het bij gebruikmaking van zuurstof uit de lucht in de regel niet lukt om voldoende hoge temperaturen te bereiken. Gebruikmaking van een mengsel van ethyn en zuivere zuurstof levert een vlamtemperatuur op van meer dan 3100°C.
+Overigens zijn er diverse stoffen die kunnen branden met een nog veel hetere vlam dan wat met ethyn haalbaar is, bijvoorbeeld: oxalonitril (4525°C) en dicyanoacetyleen (4987°C).
+Proces.
+Bij het lassen wordt gebruikgemaakt van een speciale brander. In Vlaanderen wordt deze meestal aangeduid met de Franse benaming "chalumeau". Deze wordt in de ene hand gehouden en een staaf vulmiddel in de andere.
+Het afregelen van de lasvlam is belangrijk. Een overschot aan zuurstof tast het werkstuk aan; een overschot aan ethyn kan niet op tijd verbranden en geeft te weinig hitte.
+Er zijn twee technieken voor het maken van een lasverbinding, de "stekende" en "slepende" methode. Tot 4 mm materiaaldikte is de stekende methode gebruikelijk, en bij een dikte van het materiaal > 6 mm wordt de slepende methode gebruikt. Bij rechtshandige mensen wordt hier ook wel gesproken over resp. 'naar links' en 'naar rechts' lassen, maar bij linkshandige mensen is dit natuurlijk precies andersom.
+Veiligheid.
+De bescherming voor de ogen bestaat uit een soort laboratoriumbril met een donker kijkvenster.
+Verder moet opgelet worden waarheen de lasvlam op een onbedacht moment gericht wordt.
+Bij het aansteken van de vlam wordt eerst de zuurstofkraan geopend en daarna de acetyleenkraan. Na het lassen gaat het in omgekeerde volgorde: eerst wordt de acetyleenkraan dichtgezet, daarna wordt de zuurstofkraan uitgezet. (Anders ontstaat er roetvorming in de brander)
+Om de gasafnamepunten voor brandbaar gas en voor zuurstof bij gasdistributie of de reduceerventielen op gasflessen te beschermen kan men gebruikmaken van verschillende veiligheidsvoorzieningen. In Nederland is minimaal een vlamdover op elke aansluiting voor acetyleen bij wet verplicht. Echter een werkgever in deze branche is verplicht om de veiligheid van zijn medewerkers te bewaken; daarom is het zeer aan te raden ook de zuurstofaansluiting van een vlamdover te voorzien.

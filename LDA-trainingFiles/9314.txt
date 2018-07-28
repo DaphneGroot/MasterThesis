@@ -1,0 +1,3 @@
+Agner Erlang.
+Agner Krarup Erlang (Lønborg, 1 januari 1878 – Kopenhagen, 3 februari 1929) was een Deense wiskundige, statisticus en ingenieur.
+Erlang kreeg vooral bekendheid door zijn werk met wachttijdberekeningen bij het opzetten van telefoonverbindingen. De eenheid voor telefoonverkeer – de Erlang – is naar hem vernoemd. Ook een kansverdeling, namelijk de Erlang-verdeling, is naar hem genoemd.

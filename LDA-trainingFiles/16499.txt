@@ -1,0 +1,4 @@
+Helpdesk.
+Een manier om de infrastructuur te beheersen is Information Technology Infrastructure Library (ITIL).
+Binnen ITIL worden incidenten gemeld aan de servicedesk, welke optreedt als Single Point of Contact (SPOC); de servicedesk registreert de zogenaamde incidenten en geeft die door aan de diverse helpdesks. Deze koppelen de voortgang weer terug naar de servicedesk.
+Beide vormen worden steeds vaker uitbesteed aan gespecialiseerde bedrijven. In een bedrijfsorganisatie is de helpdesk vaak onderdeel van de afdeling die belast is met het systeembeheer.

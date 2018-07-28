@@ -1,0 +1,13 @@
+Taylorreeks.
+Taylorreeksontwikkeling van ln("x") (resp. 1, 2, 3, en 10 termen)
+In de analyse, een deelgebied van de wiskunde, is een taylorreeks of taylorontwikkeling de voorstelling of benadering van een functie als een machtreeks waarvan de coëfficiënten worden berekend uit de waarden van de afgeleiden van deze functie in een bepaald punt.
+Het concept van een taylorreeks werd door de Schotse wiskundige James Gregory ontdekt en in 1715 formeel geïntroduceerd door de Engelse wiskundige Brook Taylor. Wanneer de taylorreeks is gecentreerd rondom nul, noemt men deze reeks ook wel een maclaurin-reeks, dit naar de Schotse wiskundige Colin Maclaurin, die in de 18e eeuw op grote schaal gebruik maakte van taylorreeksen.
+Het is gebruikelijk een ​​functie te benaderen door een eindig aantal termen van haar taylorreeks te gebruiken. De stelling van Taylor geeft kwantitatieve schattingen van de fout in deze benadering. Elk eindig aantal van initiële termen van de taylorreeks van een functie wordt een taylorpolynoom genoemd. De taylorreeks van een functie is de limiet van de taylorpolynomen van die functie, als deze limiet tenminste bestaat. Een functie hoeft niet gelijk te zijn aan haar taylorreeks, zelfs als de taylorreeks van deze functie op ieder punt convergeert. Een functie die in een open interval (of een schijf in het complexe vlak) gelijk is aan zijn eigen taylorreeks, staat bekend als een analytische functie.
+Definitie.
+De taylorreeks van een reëel- of complexwaardige functie formula_1 die oneindig vaak differentieerbaar is in een reëel- of complex getal formula_2, is de machtreeks
+waarin formula_4 de faculteit van formula_5 aangeeft en formula_6 staat voor de formula_5-e afgeleide van formula_1 in het punt formula_2. De afgeleide van orde nul wordt gedefinieerd als de functie zelf. In het geval dat formula_10 spreekt men ook wel van de maclaurinreeks.
+Analytische functie.
+Als een functie in een omgeving van het ontwikkelingspunt "x"0 gelijk is aan de reekssom van haar taylorreeks, wordt ze analytisch "in x"0 genoemd. Een functie die analytisch is in alle punten van haar domein, heet kortweg analytisch. Voorbeelden van zulke functies zijn de goniometrische functies sinus en cosinus en de exponentiële functie.
+Van een analytische functie kunnen alle waarden in een samenhangende omgeving van een punt bepaald worden uit de functiewaarde en de waarde van alle afgeleiden in dat ene punt. Dat wil nog niet zeggen dat de taylorreeks convergeert in alle waarden "x" uit die omgeving, zoals blijkt uit het volgende voorbeeld.
+De functie "f" is analytisch in haar hele domein. Haar taylorreeks in "x"0=0
+convergeert evenwel slechts voor "x" strikt tussen -1 en +1.

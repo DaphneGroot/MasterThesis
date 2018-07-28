@@ -1,0 +1,5 @@
+Hyperlink.
+Een hyperlink (of kortweg link) – met een Nederlands woord "verbinding" of "koppeling" – is een computer- en internetterm die duidt op een verwijzing (referentie) in een hypertekst (bijvoorbeeld een website) die de gebruiker kan volgen.
+Het activeerbare element van de hyperlink wordt het anker genoemd; meestal is dit een stukje tekst, maar het kan ook bijvoorbeeld een knop, invulbaar veld of plek (hot spot) in een afbeelding (image map) zijn.
+Het volgen van een hyperlink (bijvoorbeeld door erop te klikken) roept een andere plek in de hypertekst op, meestal een andere pagina. In interactieve naslagwerken en hulpsystemen, bijvoorbeeld, zijn de ankers veelal termen waarover de opgeroepen pagina's nadere uitleg geven.
+Veel hypertekst is te verdelen in onafhankelijk onderhouden verzamelingen "hyperdocumenten"; het wereldwijde web bestaat bijvoorbeeld uit websites. Deze documenten hebben meestal een algemene voorpagina (de hoofdpagina van een website). Het maken van hyperlinks naar andere pagina's dan de beginpagina wordt dieplinken genoemd.

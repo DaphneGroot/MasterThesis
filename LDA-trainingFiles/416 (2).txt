@@ -1,0 +1,20 @@
+Geluidssnelheid.
+De dichtheid en de compressiemodulus kunnen afhankelijk zijn van onder meer de temperatuur en bijvoorbeeld het vochtgehalte. Voor lucht bij kamertemperatuur (20 °C) is de geluidssnelheid ca. 343 meter per seconde of 1234,8 km/h. Bij droge lucht (met relatief weinig waterdamp) met een temperatuur van 0 °C is dat 331 m/s ofwel 1194 km/h. In vloeistoffen en vaste stoffen is de geluidssnelheid meestal hoger. In water bijvoorbeeld plant geluid zich voort met een snelheid van circa 1510 m/s; in hout is dat circa 3300 m/s; in staal circa 5800 m/s. Bij de hardste metalen kan de geluidssnelheid oplopen tot 12.000 m/s.
+Als een vliegtuig sneller vliegt dan de geluidssnelheid in de lucht op die hoogte, produceert het een schokgolf die men 'het doorbreken van de geluidsbarrière' noemt. Het Machgetal is hiervan afgeleid.
+Geluidssnelheid in lucht.
+daarin is formula_6 de specifieke-warmteverhouding (voor lucht 1,41), "R" de algemene gasconstante (8,3145 J/(mol K)), "T" de absolute temperatuur in kelvin en "M" de molaire massa van het gas in kg/mol.
+De samendrukbaarheid en de dichtheid van een lucht worden goed benaderd door de algemene gaswet.
+De specifieke warmte verhouding is een correctie, door de snelle adiabatische samendrukking neemt de temperatuur namelijk toe op het moment dat de lucht door de geluidsgolf wordt samengeperst en na het passeren neemt de temperatuur weer af. De hogere temperatuur vermindert de samendrukbaarheid en het effect is een verhoging van de geluidssnelheid.
+De snelheid neemt toe met de temperatuur, bij 20 °C is de geluidssnelheid ongeveer 12 m/s groter dan bij 0 °C. De geluidssnelheid is vrijwel onafhankelijk van de frequentie van het geluid en ook van de luchtdruk, maar niettemin zijn de afwijkingen meetbaar en ook hoorbaar. De geluidssnelheid ten opzichte van de grond kan natuurlijk wel beïnvloed worden door de snelheid van de wind.
+Geluidssnelheid in water.
+De geluidssnelheid in water is ongeveer 1500 m/s, veel hoger dan in lucht. Het is mogelijk om veranderingen van de temperatuur van de oceaan te meten door te meten hoe de geluidssnelheid over grote afstanden verandert.
+Een probleem is dat de geluidssnelheid afhankelijk is van de dichtheid en het geleidingsvermogen van het medium waardoor de geluidsgolf zich voortplant. In dit geval is dat water, waarvan die factoren worden beïnvloed door temperatuur en zoutgehalte.
+Deze formule van Medwin is een empirische formule, waarvan er vele bestaan. Andere namen in dit verband zijn Chen & Millero, Wilson, Del Grosso, Kinsler & Frey, Horton en Lovett.
+Aangezien deze fout systematisch is zal het verschil op 200 meter diepte 20 keer zo groot zijn, namelijk 20 x 0,067 m = 1,34 meter
+Op verschillende plaatsen en tijden zal altijd verschil in geluidssnelheid optreden. Men moet zich bewust zijn van de onnauwkeurigheid die hierdoor kan ontstaan en zich afvragen of de onnauwkeurigheid binnen de tolerantie valt. Bijvoorbeeld wanneer het getij draait of men in een dieper gedeelte gaat peilen. Men moet dan overwegen om een nieuwe geluidssnelheidsmeting of barcheck te doen.
+Geluidssnelheid in vaste stoffen.
+De temperatuur van de stof is, tenzij anders vermeld, 293 kelvin (K).
+Geluidssnelheid in vloeistoffen.
+De temperatuur van de vloeistof is, tenzij anders vermeld, 293 K.
+Geluidssnelheid in gassen en dampen.
+De temperatuur van het gas is, tenzij anders vermeld, 273 K.

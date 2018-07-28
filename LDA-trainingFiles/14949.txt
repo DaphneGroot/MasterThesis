@@ -1,0 +1,15 @@
+Remstraling.
+Remstraling ontstaat doordat een elektron afgebogen wordt in het elektrische veld van een atoomkern
+Remstraling (uit het Duits, "Bremsstrahlung") is een vorm van elektromagnetische straling die wordt uitgestraald als een geladen deeltje een acceleratie (of deceleratie) ondergaat, typisch bij het op een doel botsen van een versneld elektron in een röntgenbuis.
+Het met hoge snelheid vliegende elektron wordt door botsing met de atomen in de anode sterk geremd en verliest hierbij veel van zijn snelheid; de verloren kinetische energie wordt als röntgenstraling uitgezonden.
+Remstraling ontstaat wanneer elektronen aan een hoge snelheid een atoom binnenvliegen en onder de invloed van de kern van het atoom in hun baan afgebogen of zelfs volledig gestopt worden. Hierbij wordt de kinetische energie omgezet in röntgenstraling, in dit geval remstraling.
+Een andere manier om röntgenstraling op te wekken is aan de hand van karakteristieke straling.
+Remstraling ontstaat ook in het heelal in emissienevels zoals H-II-gebieden en planetaire nevels die geïoniseerd gas bevatten met een temperatuur van ongeveer 10.000 K.
+Kwantummechanische beschrijving.
+Daarbij zijn formula_2 het atoomnummer, formula_3 de fijnstructuurconstante, formula_4 de gereduceerde constante van Planck en formula_5 de lichtsnelheid. De kinetische energie formula_6 van het elektron in de begin- en eindtoestand hangen door
+waarbij formula_8 de elektronmassa is, met zijn totale energie formula_9 of zijn impuls formula_10 samen. De wet van behoud van energie levert
+waarbij formula_12 de energie van het foton is. De richtingen van het geëmitteerde foton en het gestrooide elektron zijn gegeven door
+De absolute waarde van het virtuele foton tussen kern en elektron is
+De geldigheid is door de Born-nadering
+gegeven, waar formula_17 zowel de snelheid van het elektron in de begin- als in de eindtoestand kenmerkt.
+Een analyse van de tweevoudige differentiële werkzame doorsnede toont bv. dat elektronen van wie de kinetische energie groter is dan de rustenergie (511 keV), fotonen overwegend naar voren uitzenden, waartegen elektronen met een lagere energie fotonen isotroop uitzenden.

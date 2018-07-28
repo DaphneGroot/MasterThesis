@@ -1,0 +1,29 @@
+Vierkantswortel.
+De vierkantswortel, tweedemachtswortel of ook eenvoudigweg wortel, is het eenvoudigste voorbeeld van het wiskundige begrip "wortel".
+Definitie.
+Niet-negatief betekent 0 of groter dan 0. In principe zou een vierkantswortel ook een negatief reëel getal "b" kunnen zijn: het kwadraat levert dezelfde "a" op omdat min maal min plus is. Maar om dubbelzinnigheid over het teken (positief of negatief) uit te sluiten, is de vierkantswortel per definitie een niet-negatief getal.
+Oplossen van vergelijkingen.
+Het oplossen van vergelijkingen is iets anders dan worteltrekken. De vergelijking formula_3 met "a" > 0 heeft twee oplossingen, namelijk formula_4 en formula_5. Deze kunnen ook genoteerd worden als formula_6.
+Bijvoorbeeld formula_7 heeft twee oplossingen: formula_8.
+Definitiegebied.
+Binnen de reële getallen is de vierkantswortel uitsluitend gedefinieerd voor formula_9. De vierkantswortel van een negatief getal bestaat dus niet binnen de reële getallen, maar wel binnen de complexe getallen.
+Oorsprong van de naam.
+De naam "vierkantswortel" houdt verband met de oorspronkelijke constructie uit de meetkunde. Een getal werd ruimtelijk voorgesteld als de lengte van een lijnstuk, een oppervlak of een inhoud. Een vierkant met oppervlakte formula_10 heeft zijden met lengte formula_1. De vierkantswortel trekken wordt dan de zijde van een vierkant vinden. De derdemachtswortel heette ook de cubische wortel of teerlingswortel, omdat aan het vinden van de ribbe van een blok (kubus of teerling) gedacht werd.
+Grafiek van de functie formula_12, bestaande uit een liggende halve parabool met een verticale directrix.
+Wortel als functie.
+Om een continue differentieerbare functie te definiëren, beperkt men de wortel als functie tot de absolute waarde waarbij negatieve wortels dus niet zijn toegestaan.
+Voor alle reële getallen formula_13
+Rekenregels.
+Men moet de bovenstaande rekenregel uiteraard niet toepassen op getallen waarvoor de wortel niet gedefinieerd is. Uit een voorbeeld blijkt dat anders merkwaardige resultaten kunnen ontstaan.
+Verband met gebroken macht.
+Voor de exponent formula_30 en veelvouden daarvan, zijn alle voor het machtsverheffen geldende rekenregels van toepassing.
+Verband met algebraïsche, complexe en irrationale getallen.
+Iedere vierkantswortel van een niet-negatief geheel getal valt onder de algebraïsche getallen, en is geheel als dat getal een kwadraat is, en anders irrationaal. Voor formula_31 hier het bewijs dat het geen rationaal getal is.
+Van een negatief getal kan geen reële vierkantswortel worden berekend. Uit de behoefte om toch een vergelijkbare bewerking op negatieve getallen uit te kunnen voeren, zijn de complexe getallen ontstaan.
+Op het domein van de complexe getallen heeft bijvoorbeeld het getal −1 "twee" vierkantswortels, "i" en −"i".
+Met die conventie heeft de vergelijking formula_32 met a < 0 en formula_33 (reële getallen) als oplossingen formula_34 en formula_35.
+Voorbeeld: de vergelijking formula_36 heeft als oplossingen formula_37 en formula_38.
+Met behulp van complexe getallen kan op deze wijze een oplossing worden geconstrueerd van de abc-formule in het geval van een negatieve discriminant D.
+Worteltrekken.
+Het bepalen van de vierkantswortel wordt worteltrekken genoemd. Er bestaat een algoritme om dit met de hand uit te voeren (zie worteltrekken). De procedure, die lijkt op de klassieke staartdeling, staat al vermeld in Nederlandse rekenboeken uit de 17e eeuw.
+Ook de derdemachtswortel kan met de hand worden getrokken.

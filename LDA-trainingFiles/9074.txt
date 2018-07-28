@@ -1,0 +1,6 @@
+Etmaalwaarde.
+De Etmaalwaarde is een getal om de geluidsbelasting uit te drukken. De etmaalwaarde werd in de Nederlandse geluidswetgeving voor het omgevingslawaai gebruikt sinds ongeveer 1986. Vanaf 2004 werd de etmaalwaarde vervangen door de Lden.
+Voor wegverkeer heeft men een uitzondering gemaakt. Daar wordt de geluidsbelasting voor de avond niet meegenomen.
+In de meeste gevallen is de nachtperiode maatgevend voor de etmaalwaarde. Dat betekent dat om aan de wetgeving te voldoen, er veelal alleen in de nachtperiode eisen worden gesteld.
+Dit principe gaat veranderen met de invoering van de Lden.
+In de arbowetgeving wordt de etmaalwaarde niet gebruikt, daar gebruikt men het equivalente geluidsniveau zonder toeslagen voor de dag, avond of nacht.

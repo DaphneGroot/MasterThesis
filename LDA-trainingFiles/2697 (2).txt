@@ -1,0 +1,15 @@
+Zwaveltrioxide.
+Gevaren.
+Het is gevaarlijk om de alfa-vorm boven zijn smeltpunt te verwarmen, omdat daarbij de netwerkstructuur weer uiteenvalt naar de moleculaire structuur. De gamma-fase heeft echter boven 62°C een dampdruk van een paar atmosfeer en dat kan tot ontploffingen leiden.
+Bovendien is de damp van SO3 bijzonder hygroscopisch en met een molecule water vormt het zwavelzuur. Bij inademing wordt er dus zwavelzuur in de longen gevormd en dat kan ernstige consequenties met zich meedragen.
+Oplossingen van zwaveltrioxide in zwavelzuur worden ook wel oleum of "rokend zwavelzuur" genoemd. Zij moeten met grote omzichtigheid behandeld worden omdat zij bijzonder corrosief zijn. De rook die zij afgeven maakt het probleem des te erger. Deze rook is in feite een aerosol van kleine zwavelzuurdruppeltjes.
+Bereiding.
+Ook zouten van andere metalen kunnen gebruikt worden als het pyrosulfaat ervan tenminste stabiel is.
+Op industriële schaal wordt de stof bereid met behulp van het contactproces. Zwaveldioxide wordt gewoonlijk verkregen door het roosten van pyriet (FeS2). Het gezuiverde SO2 wordt dan verder geoxideerd met atmosferische zuurstof bij 400 tot 600 °C met behulp van een katalysator op basis van vanadiumpentoxide V2O5 geactiveerd met kaliumoxide K2O op diatomeeënaarde of silica als drager. Platina werkt ook maar is beduidend duurder en is meer onderhevig aan vergiftigingsverschijnselen door onzuiverheden in het SO2 gas.
+Het merendeel van het zwaveltrioxide dat op deze wijze wordt verkregen, wordt omgezet naar zwavelzuur. Dat geschiedt echter niet door directe toevoeging van water omdat daarbij een gevaarlijk aerosol van zwavelzuurdruppeltjes zou ontstaan. In plaats daarvan wordt het oxide in zwavelzuur zelf opgelost onder de vorming van oleum dat op zijn beurt weer verdund wordt met water onder vorming van meer zwavelzuur.
+SO2 + O3 → SO3 + O2
+SO2 + NO2 → SO3 + NO.
+Toepassingen.
+De voornaamste toepassing is de vervaardiging van zwavelzuur hierboven genoemd
+Het alkylzwavelzuur wordt met natronloog geneutraliseerd en zo ontstaat een alkylsulfonaat.
+Zwaveltrioxide is zowel een sterk Lewis-zuur als een sterke oxidator. Het wordt ook gebruikt in rookbommen. Een druppel vloeibaar SO3 volstaat om een ruimte geheel in rook te hullen.

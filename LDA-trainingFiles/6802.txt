@@ -1,0 +1,3 @@
+World Wide Web Consortium.
+Het World Wide Web Consortium (W3C) is een organisatie die de webstandaarden voor het wereldwijde web ontwerpt, zoals HTML, XHTML, XML, CSS en de Web Content Accessibility Guidelines. Het wordt geleid door Tim Berners-Lee, de originele bedenker van het HTTP-protocol en HTML, waar het web oorspronkelijk en nog steeds grotendeels op gebaseerd is. De organisatie is in 1994 opgericht in samenwerking met CERN, ondersteund door DARPA en de Europese Commissie.
+W3C telt momenteel meer dan 500 leden en circa 60 fulltime medewerkers over de hele wereld; zij leveren een bijdrage aan het ontwikkelen van specificaties en software voor W3C.

@@ -1,0 +1,9 @@
+XMMS.
+XMMS, voluit X MultiMedia System, is een multimediaspeler die draait onder de meeste op Unix-gelijkende besturingssystemen zoals Linux en BSD. XMMS maakt gebruik van GTK1 en is geschreven in de programmeertalen C en C++.
+Geschiedenis.
+Het had tussen in 1997 en 1999 (toen het nog niet open source was) de naam X11AMP, momenteel wordt het verspreid onder de GPL en is het dus vrije software. Het is gebaseerd op de toolkit GTK+, waarvan ook andere GNOME-applicaties gebruikmaken.
+Mogelijkheden.
+De laatste versie is 1.2.11, uitgebracht op 16 november 2007. Deze versie kan een groot aantal mediaformaten afspelen, zoals MP3, WAV, Ogg Vorbis en vele anderen, naarmate de desbetreffende plug-in is geïnstalleerd.
+XMMS kan verschillende plug-ins gebruiken om de mogelijkheden te vergroten en de grafische gebruikersomgeving (GUI) kan veranderd worden door middel van skins (thema's). Ook skins die ontworpen zijn voor het closed source-programma Winamp worden ondersteund met behulp van een plug-in.
+Forks en opvolger.
+XMMS2 is de officiële opvolger van XMMS. Het is een nieuw project dat ook volledig is herschreven en is begin 2003 gestart door het XMMS-ontwikkelaarsteam.

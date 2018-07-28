@@ -1,0 +1,8 @@
+Schijfloze computer.
+Een schijfloos (Engels: "diskless") computersysteem is een systeem dat, zoals de naam al aangeeft, geen harde schijf heeft.
+Toepassingen.
+Doordat flashgeheugen gemakkelijk een compleet besturingssysteem kan bewaren, ontstaan er steeds meer 'schijfloze' computers. Daarnaast zijn er vele technische toepassingen waarbij de ingebouwde computer geen harde schijf heeft.
+Terminal.
+Een terminal is een computer waarmee enkel op een centrale computer gewerkt wordt.
+ingebed systeem.
+Voor industriële besturingen worden vaak computers gebruikt, die in de machines ingebouwd zitten. Deze computers kunnen soms een harde schijf gebruiken, maar vaak ook niet omdat die computers meestal een beperkte taak hebben.

@@ -1,0 +1,13 @@
+Parsec.
+De parsec (meervoud: parsecs, afkorting: "pc") is een afstandsmaat die gebruikt wordt in de astronomie. Eén parsec komt overeen met ongeveer 206264,8 AE of 3,261 631 lichtjaar. Het woord zelf is een samentrekking van "par"allax en boog"sec"onde.
+Definitie.
+De parsec is de afstand die men vanaf de zon de ruimte moet ingaan, om de gemiddelde afstand Aarde - zon onder een hoek van één boogseconde te zien.
+Vanaf de bewegende Aarde gezien zal een ster oscilleren aan de hemel. Elke zes maanden 'beweegt' een ster op een afstand van één parsec zich schijnbaar over een hoek van twee boogseconden. Welke zes maanden dat zijn, varieert met de plaats aan de hemel. Voor sterren die staan op een lijn loodrecht op het omwentelingsvlak van de aarde om de zon, maakt het niet uit welke zes maanden gekozen worden, "elke" periode van zes maanden zal een verschuiving van twee boogseconden opleveren (alleen in een andere richting).
+Van dit verschijnsel, dat parallax wordt genoemd, maken astronomen gebruik om de afstand tot de dichtstbijzijnde sterren te bepalen. Men kan het resultaat van de meting, in boogseconden, dus direct herleiden naar een afstand in parsec. De afstand in parsec is namelijk de reciproke (omgekeerde) waarde van de parallax in boogseconden. Zie Astronomische afstandsmeting.
+Waarde van de parsec.
+De gemiddelde afstand van de aarde tot de zon is gelijk aan 1 AE (astronomische eenheid) = 149 597 870 700 meter. Een hoek van 1 boogseconde is uitgedrukt in radialen. De omgekeerde waarde hiervan is 206 264,8. Noemen we de afstand van één parsec "d", dan is de lengte van de boog waarop die ene boogseconde staat gelijk aan. Per definitie is de lengte van die boog gelijk aan één astronomische eenheid:. Dus, wat bij benadering 31 biljoen km is. Uit bovenstaande berekening volgt dat één parsec overeenkomt met ongeveer 206 264,8 AE ofwel ongeveer 3,261 631 lichtjaar.
+Gebruik van de parsec.
+Om historische en praktische redenen gebruiken astronomen vaker de parsec dan het lichtjaar om afstanden aan te duiden. De dichtstbijzijnde ster Proxima Centauri staat bijvoorbeeld op een afstand van 1,3 parsec (4,2 lichtjaar). Hoe verder weg de ster ligt, hoe "kleiner" de parallax en hoek in boogseconden en hoe "groter" dus de afstand in parsec (en in lichtjaar).
+De parsec en het lichtjaar zijn geen SI-eenheden.
+Grotere afstanden.
+Grotere eenheden zijn in de astronomie niet nodig. Met een leeftijd van circa 13,7 miljard jaar heeft alles in het heelal een waarnemingshorizon van ongeveer 46,5 gigalichtjaar. Dat is circa 15 gigaparsec.

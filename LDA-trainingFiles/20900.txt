@@ -1,0 +1,11 @@
+DARPA Grand Challenge.
+"Red team" in de DARPA Challenge
+De DARPA Grand Challenge is een wedstrijd voor auto's die autonoom een afstand van meer dan 200 kilometer moeten afleggen, in de woestijn tussen Californië en Nevada.
+Algemeen.
+Deze wedstrijd die op 13 maart 2004 voor de eerste keer gehouden werd, kent een prijzengeld van $1.000.000, uitgeloofd door het Defense Advanced Research Projects Agency (DARPA). Het doel is om technieken te ontwikkelen die in te ontwikkelen militaire robots toegepast kunnen worden.
+Voorbereiding.
+Oorspronkelijk was deze DARPA wedstrijd alleen open voor organisaties met banden met de militaire wereld. Hierop volgden hevige protesten die ertoe leidden dat de wedstrijd werd opengesteld voor (bijna) iedereen: de verantwoordelijke van elke deelnemende ploeg moet een Amerikaans staatsburger zijn.
+Grand Challenge 2004.
+Voorafgaand aan de wedstrijd was er een kwalificatieronde waar slechts zeven van de 22 deelnemers doorheen kwamen. Omdat dit deelnemersveld te klein was, mochten alle deelnemers toch meedoen. Het team dat het verste kwam, het "red team", legde zeven mijl af in een tijd van 0:08:38.
+Grand Challenge 2005.
+Op 8 oktober 2005 werd de wedstrijd opnieuw gehouden. Het prijzengeld was ondertussen verhoogd naar 2 miljoen dollar. Van de 23 deelnemende teams haalden er vijf de eindstreep. Het winnende team van Stanford legde de afstand van 210 km af in een tijd van 6:54, een gemiddelde snelheid van 30 km/u. Stanford reed met een omgebouwde Volkswagen Touareg met radar, camera's en vier laser-afstandmeters. Zeven Pentiumcomputers verwerkten de gegevens en stuurden de auto aan.

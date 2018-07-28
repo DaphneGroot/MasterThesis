@@ -1,0 +1,18 @@
+Kwantumgetal.
+Kwantumgetallen worden in de kwantummechanica gebruikt voor het beschrijven van kwantumtoestanden. Een stel kwantumgetallen karakteriseert een eigentoestand van een kwantummechanisch systeem volledig. Zij kunnen, in tegenstelling tot de beschrijvende grootheden in de klassieke mechanica, alleen discrete waarden aannemen. Er zijn verschillende kwantumgetallen voor verschillende eigenschappen, en ook voor verschillende deeltjes.
+Kwantumgetallen zijn vanwege hun discrete aard contra-intuïtief in vergelijking met de klassieke continue wereld. Het is echter een wezenlijk kenmerk van de kwantummechanica dat bepaalde grootheden alleen maar exacte, discrete waarden kunnen hebben.
+Behalve in de atoom- en molecuulfysica zijn kwantumgetallen ook van essentieel belang in de deeltjesfysica. Daar dienen zij om atoomkernen en subatomaire deeltjes en hun toestandsovergangen te beschrijven.
+Hoofdkwantumgetal.
+Dit komt overeen met steeds hogere aangeslagen toestanden. Bij zeer grote spreekt men van Rydberg-atomen.
+Nevenkwantumgetal.
+De nevenkwantumgetallen worden ook vaak met de letters "s", "p", "d", "f", "g", "h", "i", "j", "k"... aangeduid.
+De naam 'impulsmomentkwantumgetal' is historisch bepaald en is gebaseerd op de voorstelling dat dit kwantumgetal het impulsmoment van het om de atoomkern draaiende elektron beschrijft (zie Atoommodel van Sommerfeld). Tegelijkertijd is formula_5 de eigenwaarde van de impulsmomentoperator.
+Magnetisch kwantumgetal van het impulsmoment.
+Het wordt "magnetisch" kwantumgetal genoemd omdat de extra potentiële energie in een magneetveld in de z-richting (normaal Zeemaneffect) ervan afhangt (bij geen z-component, dat wil zeggen geen extra potentiële energie; bij alleen een z-component, dat wil zeggen maximale extra energie).
+Kwantumgetal van het totale impulsmoment.
+Het "kwantumgetal van het totale impulsmoment" beschrijft het totale impulsmoment van een elektron, waarbij de spin gekoppeld is aan het impulsmoment en de beide impulsmomenten niet meer kunnen worden onderscheiden.
+Kernspinkwantumgetal.
+Het "kernspinkwantumgetal" beschrijft het impulsmoment van een atoomkern. Het is samengesteld uit de spins van de afzonderlijke neutronen en protonen en kan daardoor alleen positieve heel- of halftallige waarden aannemen. Zie ook Spin_(kwantummechanica).
+Meer-elektronensystemen.
+In tegenstelling tot waterstof bestaan de schillen van andere atomen uit meerdere elektronen die elkaar beïnvloeden. Desondanks kan men hun toestand vaak bij benadering door bovengenoemde kwantumgetallen beschrijven. Om dergelijke systemen echter van een-elektronsystemen te onderscheiden, worden de kwantumgetallen in dat geval met hoofdletters geschreven. Zo is dan bijvoorbeeld het totale impulsmoment van alle elektronen.
+Men moet zich echter realiseren dat elektronen fermionen zijn en dus onderhavig zijn aan het Pauli-principe: er mogen geen twee elektronen alle kwantumgetallen gelijk hebben.

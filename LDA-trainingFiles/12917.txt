@@ -1,0 +1,8 @@
+PowerBASIC.
+PowerBASIC is een uiterst moderne variant van het aloude BASIC-front. PowerBASIC werkt met een compiler.
+PowerBASIC is de opvolger van Borlands TurboBASIC. Programmeur Robert Zale kocht in 1991 de rechten van Borland en ontwikkelde de taal verder. In 1991 werd PowerBASIC 2.0 (als opvolger van TurboBASIC 1.1) uitgebracht.
+PowerBASIC is de verdere ontwikkeling van Borlands TurboBASIC, die tezamen met TurboC en TurboPascal destijds een revolutie in pc-land betekenden: kleine compilers (op één floppydisk) die een enorme kracht en snelheid aan zelf geschreven programma's kon geven. Tot die tijd was men aangewezen op grote compilers (UCSD-compiler bijvoorbeeld) die alleen op grote mainframes konden draaien.
+Destijds al een enorme snelheid, maar aangezien de ontwikkeling van TurboBASIC tot PowerBASIC tot in 2003 is voortgezet, is PowerBASIC een uiterst modern product, met alle moderne mogelijkheden van moderne talen. Zo bevat bijvoorbeeld PowerBASIC for DOS vanaf versie 3.2 al pointers. Dit was de enige Basiccompiler die pointers aanbood.
+Versies.
+Sinds versie 7.0 van de Windowscompiler is deze van PB/DLL naar PB/Win hernoemd, omdat deze perfect geschikt is om complete programmatuur te schrijven en niet specifiek voor DLL's bedoeld is.
+Sinds versie 9.0 beschikt PB/WIN over uitgebreide mogelijkheden voor objectgeoriënteerd programmeren (OOP).

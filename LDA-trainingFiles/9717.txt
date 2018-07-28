@@ -1,0 +1,7 @@
+Kalenderkringloop.
+De 52-jarige kalenderkringloop van de Mayakalender bestaat uit een samenstelling van de tzolkin en de haab.
+De tzolkincyclus duurt 260 dagen en geeft iedere dag van die periode een unieke naam, bijvoorbeeld "1 Imix". De haab doet hetzelfde voor een periode van 365 dagen, een dag heet daar bijvoorbeeld "1 Pop". Iedere dag in de Mayakalender wordt dus gekenmerkt door vier labels. Nu is het kleinste gemene veelvoud van 260 en 365 gelijk aan 18980 dagen, dat is ongeveer 52 jaar. Na 52 jaar herhaalt de hele naamgevingscyclus zich dus weer, met weer dezelfde namen voor de dagen. Dit wordt de kalenderkringloop genoemd.
+Naast deze tijdrekening bestond er echter ook een lange telling die over veel langere perioden een eenduidige aanduiding van iedere dag mogelijk maakte.
+Berekenen van de datum.
+Het berekenen van de juiste datum volgende de kalenderkringloop wordt als volgt gedaan.
+Met dit getal () gaan we verder rekenen.

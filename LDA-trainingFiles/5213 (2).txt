@@ -1,0 +1,15 @@
+Recessief (genetica).
+Recessieve afwijking die overerft in de familie. aa is aangedaan, Aa is drager, AA is gezond (NB. de tweeling moet twee-eiig zijn, want genetisch verschillend)
+Een genetische eigenschap is recessief als bij een diploïd organisme deze eigenschap alleen tot uiting (expressie) komt, wanneer een dominant allel ontbreekt. In een diploïd organisme betekent dit, dat beide kopieën van het chromosoom de recessieve variant van het gen moeten bevatten, het organisme is dan homozygoot recessief voor deze eigenschap.
+Bij polyploïde organismen zijn er meer dan twee allelen van een gen aanwezig. Bij een tetraploïd is dit bijvoorbeeld vier. Als er vier recessieve allelen aanwezig zijn wordt dit een nulliplex genoemd, bij twee een duplex, bij één een triplex en een quadriplex heeft vier dominante allelen.
+Penetrantie.
+Soms komt een recessief allel ook al in (zeer) milde vorm tot uiting bij mensen die maar één recessief allel dragen. De penetrantie van dit recessieve allel is dan hoger dan van een normaal recessief allel.
+Schematische weergaven.
+In de genetica wordt het dominante allel aangeduid met een hoofdletter en het recessieve allel met een kleine letter. Personen homozygoot voor het dominante allel worden aangeduid met AA (of BB, CC enz). Heterozygote personen hebben één dominant en één recessief allel en worden aangeduid met Aa. Personen homozygoot voor het recessieve allel worden aangeduid met aa. Alleen personen met aa zullen dus de recessieve eigenschap tot uiting brengen.
+Soms is de situatie gecompliceerder. Bij bloedgroepen zijn A en B dominant over 0. Met alleen hoofdletters en kleine letters komt men er dan niet uit.
+In een genetische stamboom (zie de afbeelding) wordt overzichtelijk gemaakt, hoe een recessieve eigenschap overerft in een familie. Bij stambomen zoals op de afbeelding kan men al snel denken aan een autosomaal recessieve eigenschap of aandoening.
+Met behulp van een Vierkant van Punnett kan men snel inzicht krijgen in de mogelijke allelen bij nakomelingen van een ouderpaar van wie de allelen bekend zijn.
+Autosomaal recessief overervende aandoeningen.
+Niet alleen positieve of neutrale eigenschappen kunnen overgeërfd worden volgens het autosomaal recessieve patroon. Ook aandoeningen kunnen op deze manier overerven.
+Ziektes die volgens een recessief patroon overerven, komen alleen tot uiting als in een organisme allebei de genen op de gepaarde chromosomen een afwijking (mutatie) hebben. Van dergelijke aandoeningen zijn er vele duizenden bekend maar ze zijn merendeels zeldzaam tot zeer zeldzaam. Relatief frequent in de Nederlandse bevolking zijn de taaislijmziekte, hemochromatose, MCAD-deficiëntie en factor V Leiden.
+Bij autosomaal recessieve overerving van een ziektebeeld hebben beide ouders van een patiënt ieder één genafwijking, en heeft de patiënt van elk van beide ouders juist de twee afwijkende genen gekregen. De ouders hebben als dragers van slechts één genafwijking met daarnaast een normaal gen geen verschijnselen van de aandoening (of soms zéér milde verschijnselen).

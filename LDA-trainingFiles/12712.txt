@@ -1,0 +1,12 @@
+Grafiek (wiskunde).
+De grafiek van de functie formula_1.
+In de wiskunde is de meest gebruikelijke betekenis van een grafiek een visuele voorstelling in een plat vlak van een functie in één variabele over de reële getallen. De grafiek van de functie formula_2 is een deel van een rechthoekig assenstelsel en bestaat uit de punten formula_3. Gebruikelijk is het daarbij de formula_4-as horizontaal en de formula_5-as verticaal te nemen.
+Grafieken vormen een belangrijk hulpmiddel bij de analyse van functies. Zij geven inzicht in het gedrag van de functie. Rechts bevindt zich een voorbeeld van een grafiek van een wiskundige functie. Langs de horizontale as is de variabele formula_4 uitgezet, langs de verticale as de functiewaarde
+Naast grafieken van functies, zoals hierboven besproken, zijn er meer afbeeldingen die grafiek genoemd worden. Zo kan ook van een tweeplaatsige relaties geen beeld geschetst worden door de grafiek, die een deelverzameling van een Cartesisch product.
+In meer dimensies is de grafiek van een relatie een deelverzameling van het Cartesisch product van zijn domeinen. De tupels in de grafiek karakteriseren het gedrag van de functie, afbeelding of relatie. Samen met het domein en het codomein of, in het geval van een drie- of meerplaatsige relatie, samen met de domeinen, vormt de grafiek de functie, afbeelding of relatie zelf. Als het domein en het codomein lichamen, of synoniem velden, zijn, kan de grafiek ook grafisch worden voorgesteld.
+In de statistiek kan men door middel van grafieken een beeld krijgen van de data, maar daar worden ook andere soorten afbeeldingen zoals het histogram gebruikt.
+Definitie.
+De "grafiek" van een functie of afbeelding is een bepaalde deelverzameling van het Cartesisch product van het domein en het codomein van deze functie of afbeelding.
+De grafiek van een afbeelding of functie formula_2 met domein formula_9 is gelijk aan de verzameling
+In het geval van een afbeelding formula_2 van formula_12 veranderlijken met domein formula_9 is de grafiek gelijk aan de verzameling
+De grafische weergave van de grafiek van een tweeplaatsige functie is een oppervlak in een ruimte in drie dimensies.

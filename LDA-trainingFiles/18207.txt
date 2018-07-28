@@ -1,0 +1,8 @@
+ AEX-KOERSEN AVONDHANDEL PER 6/3/1996. 
+ -------------------------------------------- 
+ I   FONDSNAAM   I   HOOG   I   LAAG   I 
+ I--------------------I----------I----------I 
+ I   ABN AMRO    I  140,00  I  140,00  I  I   AEGON  I     I     I  I   AHOLD  I     I     I  I   AKZO   I     I     I  I   ASML   I  144,80  I  144,80  I  I   BAAN   I   89,70  I   89,70  I  I   BESI   I     I     I  I   BOLSWESSANEN     I     I     I  I   DSM    I     I     I  I   ELSEVIER    I   32,00  I   32,00  I  I   FORTIS/AMEV I     I     I  I   GIST BROCADES    I     I     I  I   GUCCI  I     I     I  I   HAGEMEYER   I     I     I  I   HEINEKEN    I     I     I  I   HOOGOVENS   I     I     I  I   ING    I   77,30  I   77,30  I  I   KNP BT      I     I     I  I   KPN    I     I     I  I   KLM    I     I     I  I   NEDLLOYD    I     I     I  I   NUTRICIA    I     I     I  I   OCE V/D GRINTEN  I     I     I  I   PAKHOED     I   59,10  I   59,10  I  I   PHILIPS     I     I     I  I   POLYGRAM    I     I     I  I   RD     I     I     I  I   TOOLEX ALPHA     I     I     I  I   UNILEVER    I     I     I  I   VNU    I   41,00  I   41,00  I 
+ I   WOLTERS KLUWER   I  253,60  I  253,60  I 
+ --------------------------------------------. 
+ (c) Reuters Limited 1997. 

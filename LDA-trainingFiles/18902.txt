@@ -1,0 +1,6 @@
+Twm.
+Twm (Timeless Windows Manager) is een windowmanager voor het X Window System. De eerste versie van twm kwam uit op 13 juni 1988. Het is de standaard windowmanager voor X11 sinds uitgave 4 (X11R4). Twm wordt niet verder ontwikkeld en wordt voornamelijk in noodgevallen gebruikt (bijvoorbeeld wanneer andere windowmanagers niet werken). Om historische redenen is het nog wel in bijna elke X-distributie beschikbaar.
+Twm is een zogenaamde "reparenting"-windowmanager, wat betekent dat het oudervenster (parent window) de windowmanager zelf is.
+Naam.
+De afkorting stond eerst voor "Tom's Window Manager", vanwege de maker Tom LaStrange. Omdat de windowmanager opgenomen werd in X11, en omdat vele anderen eraan gingen meewerken, werd de naam omgedoopt tot "Tab Window Manager". Later werd de naam nog eens veranderd naar de huidige naam, Timeless Windows Manager.
+Twm werd, net als andere groot uitgegroeide opensourceprojecten als Linux en KDE, aangekondigd met een eenvoudig bericht op een nieuwsgroep.

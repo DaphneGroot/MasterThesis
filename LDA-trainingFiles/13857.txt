@@ -1,0 +1,4 @@
+ISO 8601.
+ISO 8601 is een internationale standaard voor de aanduiding van termen betreffende kalender, datum en tijd. De standaard draagt voluit de titel "Data elements and interchange formats – Information interchange – Representation of dates and times".
+Een typerend kenmerk van de standaard is dat een datum wordt genoteerd van meest naar minst significant onderdeel, dus eerst het jaar, dan de maand en vervolgens de dag (en eventueel het tijdstip). Internationaal worden data dan ook steeds vaker in de vorm "jjjj-mm-dd" genoteerd. Dit is onder andere nuttig voor gebruik in computerprogramma's omdat elementen dan eenvoudiger in chronologische volgorde gesorteerd kunnen worden.
+Wat de weeknummering betreft komt deze norm overeen met NEN 2772.

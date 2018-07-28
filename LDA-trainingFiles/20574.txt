@@ -1,0 +1,45 @@
+Windturbine.
+Windturbines op de rechter havendam in Zeebrugge
+Een van de vier windturbines (2005) uit Lanaken industriepark
+Windturbines in opbouw voor het windmolenpark voor de Noord-Hollandse kust
+Windturbines langs het Boudewijnkanaal in Brugge
+Tonmolen met verticale as te Paasloo. Deze molen wordt gebruikt om een waterpomp aan te drijven, maar met hetzelfde principe kan een generator aangedreven worden.
+Een windturbine zet de energie van de wind om in een draaiende beweging, die door een generator wordt gebruikt om elektriciteit op te wekken.
+Horizontale en verticale as.
+De twee hoofdtypes windturbine zijn de horizontale-asturbine en de verticale-asturbine. Windturbines met een horizontale as worden wereldwijd het meest toegepast. Verticale-aswindturbines (VAWT) zijn onafhankelijk van de windrichting. Voor toepassing in bebouwde omgeving of op gebouwen zijn verticale-asturbines zeer geschikt.
+Onderdelen van een windturbine.
+Een windturbine bestaat uit een fundering, een mast, een gondel met daarin de feitelijke turbine en ten slotte wieken.
+Fundering.
+Een windturbine moet goed verankerd worden met de grond waarop hij staat. Op land wordt uit kostenoverweging vaak een ondiepe fundering gebruikt. De fundering is gemaakt van beton, en is voorzien van doorvoeren waar de elektriciteitskabel door heen kan.
+Bij offshore windparken zijn er drie gangbare funderingstypen, een driebenige voet (tripod), een bucket fundament of een rechte mast (monopile). Er wordt onderzoek gedaan naar de mogelijkheid om windmolens met drijflichamen te maken waarbij geen directe verankering meer is met de zeebodem. Hierdoor zou plaatsing van windmolens in dieper water mogelijk worden. Deze zijn echter nog in de testfase.
+Omdat moderne windturbines groter zijn dan oudere versies is het (nog) niet mogelijk om de fundering daarvan te gebruiken voor nieuwe windturbines.
+Mast.
+Een mast van een windmolen moet veel belasting kunnen verdragen. Groter nog dan de belasting van de gondel, generator en bladen is de windbelasting die de mast te verduren krijgt. Daarom is de regel: hoe hoger de mast, hoe breder de voet. De ashoogte van windturbine is met de jaren ook sterk gestegen. Waren de windturbines rond 1980 ongeveer 15 meter hoog, midden jaren 1990 hadden ze al een hoogte van 50 meter. Tegenwoordig zijn windturbines gemiddeld 100 meter hoog. De verwachting is dat de windmolens in de toekomst gemiddeld een ashoogte hebben van 150 tot 200 meter hoog.
+De mast kan gemaakt zijn van beton of staal. Afhankelijk van de grootte ervan kan deze door middel van lieren opgetakeld worden. Grotere exemplaren moeten met behulp van een kraan in elkaar gezet worden.
+Het transport van masten van de productielocatie naar de bouwplaats is een grote logistieke uitdaging. Omdat een mast in een stuk qua gewicht en omvang niet te transporteren valt, wordt de mast in onderdelen getransporteerd en op locatie in elkaar gezet. De verschillende onderdelen zijn zo groot als mogelijk. Een stalen mast bestaat uit twee tot vier secties die met flensverbindingen aan elkaar gemaakt worden. De wanddikte bedraagt 20 tot 60 millimeter.
+Gondel.
+In de gondel bevindt zich een generator en tandwielkast. De generator zet de bewegingsenergie van de as om naar elektriciteit en is te vergelijken met een grote dynamo. De meeste windturbines hebben een tandwielkast. Deze werkt als een versnellingsbak: de rotatiesnelheid wordt ermee vergroot. De tandwielkast is een kwetsbaar onderdeel waardoor sommige fabrikanten kiezen voor een direct aangedreven generator, de zogenaamde "direct-drive" of "gearless" windturbine. Windturbines zijn uitgevoerd met een aerodynamisch remsysteem om ze stil te kunnen zetten bij noodsituaties of onderhoud. Een windvaan op de gondel meet de windrichting. Zodra deze verandert, richt een kruimotor de gondel weer recht op de wind.
+Wieken.
+De wieken van een windturbine zijn belangrijke onderdelen. Moderne wieken zijn gemaakt van met glasvezel of koolstofvezel versterkt kunststof. De maximale bladlengte van moderne windturbines ligt rond de 65 meter bij landgeplaatste turbines en rond de 85 meter bij offshore turbines.
+Onderhoud.
+Bij windmolens wordt er gemiddeld vier keer per jaar gepland onderhoud verricht: visueel, smering, elektrisch en het mechanische onderhoud. Dit probeert men zoveel mogelijk uit te voeren op windluwe dagen, zodat er zo min mogelijk productieverlies is.
+Ongevalrisico.
+Ook bij windturbines komt het soms tot ongelukken. Vaak staan windturbines in het vrije veld en niet in dichtbebouwde omgeving waardoor ongelukken niet vaak leiden tot persoonlijk letsel. Als er al letsel is dan is dit vaak gerelateerd aan uitgevoerde werkzaamheden. Doordat windmolens zeer hoog zijn en boven de bestaande bebouwing uitreiken geven branden en afbrekende rotorbladen in windmolens een spectaculair gezicht. Tegenstanders van windenergie gebruiken deze ongelukken om de risico's van windenergie in beeld te brengen.
+Elektrocutie.
+Een windmolen produceert elektriciteit. Bij ondeskundige behandeling kan dit het risico van elektrocutie met zich meebrengen.
+Valgevaar.
+Windmolens brengen door hun hoogte gevaren op het gebied van vallen met zich mee. Hierbij kan gedacht worden aan vallende personen, maar ook aan vallend gereedschap wat letsel kan veroorzaken.
+Beknelling.
+Een windturbine bestaat uit verschillende draaiende onderdelen. Zo kan de gondel draaien ten opzichte van de mast, de wieken draaien en geven via een tandwielenkast hun energie door aan de generator. Bij inspectie en reparatie moeten soms veiligheidsmechanismen verwijderd worden waarbij het risico bestaat op beknelling.
+Brandgevaar.
+In de gondel zijn diverse vloeistoffen aanwezig die nodig zijn om de molen draaiende te houden zoals hydraulische olie en vet. Dit brengt het risico van brand met zich mee. Vanwege de hoogte staat de brandweer vaak machteloos. Vanwege de bouwvorm bestaat ook het risico op een schoorsteeneffect.
+Zo brandde op 29 oktober 2013 een windmolen uit in het windpark Piet de Wit bij Ooltgensplaat waarbij twee monteurs om het leven kwamen. Op 31 oktober 2006 brandde een windmolen bij de Friese plaats Heerenveen volledig af.
+Vallende rotorbladen.
+Rotorbladen zitten met bouten vastgemaakt aan de naaf. Door blikseminslag of metaalmoeheid kan deze verbinding losraken waarbij een blad kan vallen. Ook kan een windmolen "op hol" slaan waarbij de molen door de middelpuntvliedende kracht uit elkaar getrokken wordt. In 2008 brak een wiek af van een windmolen bij Oudkarspel, in 2009 was dat het geval bij een windturbine van het windmolenpark Harry van den Kroonenberg bij Lelystad. In beide gevallen leverde dit geen extra schade op aan de turbine zelf. In december 2014 viel er een blad van de windmolen bij Medemblik, waarschijnlijk als gevolg van haarscheuren. In 2008 sloeg in Denemarken een windmolen op hol; een wiek brak af door de middelpuntvliedende kracht en door de daaruit resulterende onbalans bezweek de toren.
+IJsafzetting.
+Net als bij vliegtuigen kan er op rotorbladen bij winterse omstandigheden ijsafzetting optreden. Een onbalans in de rotorbladen kan hierbij een gevolg zijn, met het risico op vallende rotorbladen. Ook kunnen kleine stukjes ijs losraken en tot rondvliegende projectielen worden. Om schade te voorkomen zijn moderne turbines uitgerust met een ijsdetectiesysteem, die de turbine uitschakelt zodra er ijs gedetecteerd wordt. Zodra het ijs weg is, zal de turbine automatisch weer aangezet worden.
+Voor meer informatie over ongevallen zie Lijst met ongelukken met windturbines in Nederland en België.
+Windturbines in Nederland en België.
+Men vindt deze windturbines soms in grote 'parken' met vele windturbines, bijvoorbeeld in Nederland op de Maasvlakte en in België in de haven van Brugge-Zeebrugge. Begin 2012 stond er voor 341 MW aan windturbines in Vlaanderen.
+Duurzaamheid.
+Uit recent Brits onderzoek blijkt echter dat de meeste windturbines na 25 jaar nog steeds economisch rendabel zijn. Het lijkt erop dat de levensduur tussen de 20 en 25 jaar voor oude windturbines ligt en nieuwe turbines na 25 jaar nog steeds mee moeten kunnen. De energie die het kost om een windturbine te produceren is binnen 3 tot 6 maanden terugverdiend, afhankelijk van het soort turbine.

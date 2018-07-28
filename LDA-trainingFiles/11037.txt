@@ -1,0 +1,9 @@
+Kern (algebra).
+In de lineaire algebra beeldt een lineaire afbeelding een ruimte met een zekere dimensie "n" af in een andere ruimte. Daarbij hoeft de dimensie van het beeld niet gelijk te zijn aan de dimensie van het domein, maar kan kleiner zijn. Er zijn "dimensies verdwenen". De oorzaak daarvan is dat een deel van het domein op de nulvector wordt afgebeeld. Dat deel is een lineaire deelruimte van het domein en wordt de kern of nulruimte van de lineaire afbeelding genoemd.
+Definitie.
+De kern is een lineaire deelruimte van V.
+De nulruimte van een lineaire afbeelding wordt in sommige werken ook met formula_4 aangeduid, "ker" is afkomstig van een afkorting voor het Engelse "kernel".
+Nulliteit.
+De nulliteit ν van een lineaire afbeelding of matrix is de dimensie van de kern van die lineaire afbeelding of matrix. Intuïtief is dit begrip als volgt te duiden: een matrix die uit niets anders dan nullen bestaat, heeft meer nulliteit dan een matrix waarvan de determinant nul is, maar waarvan alle minoren verschillend van nul zijn.
+Andere betekenis.
+De operatorentheorie hanteert een andere betekenis voor de term kern, zie gesloten operator.

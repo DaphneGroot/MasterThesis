@@ -1,0 +1,26 @@
+Statistische toets.
+Een statistische toets is een methode om na te gaan of een bepaalde veronderstelling, nulhypothese genaamd, in het licht van de waarnemingsuitkomsten verworpen dient te worden. (De methode is vergelijkbaar met het zogenaamde bewijs uit het ongerijmde.) Kan de veronderstelling niet worden verworpen dan zegt men wel dat men deze accepteert, zij het "bij gebrek aan bewijs". De gemaakte veronderstelling wordt verworpen als de waarnemingsuitkomsten in het licht van deze veronderstelling als extreem aangemerkt moeten worden, hetgeen populair gezegd erop neerkomt dat de waargenomen verschillen met wat verwacht was niet meer op toeval lijken te berusten. De genoemde veronderstelling betreft meestal het verschil tussen groepen (vaak controle- en experimentele groep) of verschil van nieuwe situatie met oude, enzovoort. Een statistische toets kan men geheel vergelijken met een rechtszaak, wat in het volgende voorbeeld ook gedaan zal worden.
+Voorbeeld.
+Nu moet, net als bij de rechtszaak, bewijs verzameld worden: de dobbelaar gooit 600 keer met de dobbelsteen (hij neemt een steekproef). Als hij 100 keer 6 gooit heeft hij geen reden om H0 te verwerpen, ook niet bij 99 keer en bij 98 keer. Dit zijn immers geen extreme uitkomsten bij een eerlijke dobbelsteen. (Er is te weinig bewijs voor de schuld van p.) Gooit hij daarentegen 0 of 1 keer een 6, dan kan dit weliswaar gebeuren bij een eerlijke dobbelsteen, maar is dat zo'n extreme uitkomst dat hij niet gelooft dat de dobbelsteen eerlijk is: hij verwerpt de nulhypothese (ten gunste van de alternatieve). (Er is voldoende bewijs tegen p om hem te veroordelen.)
+Wat echter als hij 80 keer 6 gooit, of 72 keer? Zijn dit voor een eerlijke dobbelsteen extreme waarden of niet? Met kansrekening kan de dobbelaar berekenen dat voor een eerlijke dobbelsteen slechts in ca. 1% van de gevallen minder dan 80 van de 600 keer 6 wordt gegooid. Als hij de nulhypothese verwerpt bij minder dan 80 keren 6, dan loopt hij welbewust het risico om in 1% van de gevallen dat hij deze procedure toepast en met een eerlijke dobbelsteen te maken heeft, deze toch als niet eerlijk bestempelt. (De onschuldige verdachte p wordt ten onrechte veroordeeld!) Een dergelijke verkeerde beslissing heet fout van de eerste soort en de kans op een dergelijke fout, hier 1%, heet onbetrouwbaarheid.
+Hij kan kritischer zijn en als onbetrouwbaarheid bv. 0.1% kiezen. Dan zal hij de nulhypothese pas verwerpen bij 72 of minder keren 6. Ook kan hij minder kritisch zijn en als onbetrouwbaarheid 5% nemen; hij verwerpt dan de nulhypothese al bij 84 of minder keren 6.
+Wat nu als de dobbelsteen inderdaad niet eerlijk is en slechts 1 op de 8 keer 6 gooit. Zal de dobbelaar dat ontdekken? Als de onbetrouwbaarheid 1% is, ontdekt hij de oneerlijkheid als hij minder dan 80 keer 6 gooit. Voor de bedoelde dobbelsteen is de kans daarop ca. 88%. Deze kans heet onderscheidend vermogen bij de genoemde succeskans van 1/8. Dat betekent echter ook dat nog met een kans van 12% de verkeerde beslissing wordt genomen, fout van de tweede soort genaamd.
+Procedure.
+Een statistische toets verloopt in principe steeds langs dezelfde lijnen, die we aan de hand van het bovengenoemde voorbeeld hier zullen uiteenzetten.
+1. Probleemstelling.
+Hierin wordt de betrokken verdeling genoemd en de steekproef.
+2. Hypothesen.
+Specificeer de nul- en de (eventuele) alternatieve hypothese.
+4. Verdeling onder de nulhypothese.
+Specificeer de verdeling van de toetsingsgrootheid onder de nulhypothese.
+5. Steekproefuitkomst.
+Bereken de waarde t die de toetsingsgrootheid bij de steekproefuitkomst aanneemt.
+6. Kritiek gebied.
+Geef aan voor welke waarde van de toetsingsgrootheid de nulhypothese wordt verworpen.
+6a. Overschrijdingskans.
+Als alternatief voor punt 6 kunnen we ook de overschrijdingskans van de gevonden waarde t van T berekenen.
+7. Conclusie.
+De gevonden waarde t=80 ligt in het kritieke gebied, dus we verwerpen de nulhypothese. Of, alternatief: de overschrijdingskans is 0,014, dus veel kleiner dan de onbetrouwbaarheidsdrempel 0,05; we verwerpen de nulhypothese.
+Bekende toetsen.
+Bekende statistische toetsen zijn chi-kwadraat, t-toets en F-toets.
+Er wordt een onderscheid gemaakt tussen parametrische en parametervrije of verdelingsvrije toetsen.

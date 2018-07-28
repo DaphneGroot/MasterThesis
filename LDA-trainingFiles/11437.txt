@@ -1,0 +1,11 @@
+Geigerteller.
+De geigerteller (ook geiger-müllerteller, geiger-müllertelbuis, GM-buis of GM-teller geheten) is een stralingsdetector, waarmee ioniserende straling gemeten kan worden. Zulke straling, zoals röntgenstralen en radioactiviteit, is niet door menselijke zintuigen waar te nemen. Hans Wilhelm Geiger en Walther Müller vonden in 1928 de teller uit.
+Principe.
+Het principe van de geigerteller berust op de ioniserende werking van de te meten straling. In een buis ("ionisatiekamer") gevuld met een verdund "telgas" wordt een hoge elektrische spanning aangelegd. Deze spanning wordt zo hoog gekozen dat een enkel ioniserend deeltje vele ionenparen veroorzaakt, in de orde van 108 (het versterkingsgetal of "amplification value A"). Dit spanningsgebied heet het Geiger-Müller-gebied. De spanning mag niet zo hoog zijn dat spontaan elektrische doorslag optreedt.
+Als straling door de buis passeert zal het gas even geïoniseerd worden en zal er korte tijd een elektrisch stroompje lopen. Vaak wordt dit versterkt en naar een luidspreker gestuurd, waardoor een tik hoorbaar wordt. Beluister een rustige Geigerteller of een drukke Geigerteller. Hiernaast wordt de hoeveelheid tikken per tijdseenheid ook op een display aangegeven.
+In de figuur is te zien dat de buis C geaard is en als kathode fungeert, terwijl op de as van de buis een geïsoleerde staaf P als anode dient. Langs de hele anode komt de lawine van elektronen aan, die door een ioniserend deeltje (hier een α-deeltje) zijn losgemaakt. Daaromheen vormt zich dan kortdurend een cilindrische laag van positieve ionen, die op weg gaan naar de relatief negatieve buiswand, de kathode. Deze positieve ionen bewegen trager dan de elektronen en veroorzaken de dode tijd van de GM-buis, waarin hij ongevoelig is voor een nieuw invallend ioniserend deeltje. Het micavenster M moet dik genoeg zijn om het drukverschil tussen de binnen- en buitenkant van de GM-buis te weerstaan, maar dun genoeg zijn om α-deeltjes toe te laten.
+schematische voorstelling van de GM buis
+Beperkingen.
+De proportionele teller heeft deze beperkingen niet.
+Voordeel.
+Door de keuze van een hoogspanning waarbij maximale ionisatie optreedt is het uitgangssignaal steeds hetzelfde en volstaat een goedkope hoogspanningsvoeding, anders dan bij proportionele tellers.

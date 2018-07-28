@@ -1,0 +1,21 @@
+Methaan.
+Methaan (CH4) is de eenvoudigste koolwaterstof en behoort tot de groep der alkanen. Het bezit een tetraëdrische moleculaire geometrie. Het centrale sp3-gehybridiseerde koolstofatoom is volledig verzadigd. Methaan is bij kamertemperatuur en bij atmosferische druk een gas. Het werd in 1778 ontdekt door Alessandro Volta.
+Methaan, ook bekend onder de naam moerasgas, is het voornaamste bestanddeel van aardgas. Aardgas wordt in de natuur aangetroffen in samenhang met aardolie en andere fossiele brandstoffen, en heeft een vergelijkbare geologische oorsprong, ontstaan uit vergane resten organisch materiaal.
+Ontstaan.
+Methaan ontstaat onder andere bij afbraak van organische stoffen door bacteriën onder anaerobe (zuurstofloze) omstandigheden. Anaerobe omstandigheden komen veelal in moerasbodems voor. Ook in zuurstofarme grond wordt onder andere door de afbraak van dode plantenwortels methaan gevormd. Ook bij bosbranden kan methaan ontstaan door verhitting van organische stof.
+In de omgeving van rundveehouderijen is een verhoogde concentratie van methaan aanwezig, doordat het gas gevormd wordt door de bacteriën in de voormagen van runderen bij het verteren van het voedsel. Er zijn gevallen bekend waarin stallen in brand vlogen door een verhoogde concentratie methaan.
+Uit anaerobe vergisting van biologische afvalstoffen wordt methaan gewonnen voor productie van groene stroom of warmtekrachtkoppeling.
+Moleculaire structuur.
+Een methaanmolecule bestaat uit een centraal koolstofatoom met daarom vier waterstofatomen, gerangschikt volgens een symmetrische tetraëder. Deze symmetrie bepaalt in belangrijke mate de eigenschappen van methaan. Zo leidt de symmetrie ertoe dat methaan strikt apolair is, waardoor het gasvormig en weinig reactief is onder standaard omstandigheden.
+Deze symmetrie kan theoretisch worden voorspeld met MO-theorie, en is ook experimenteel aangetoond met onder andere röntgendiffractie en VIS-spectroscopie. Deze ontdekkingen hebben geleid tot de vorming van het hybridisatiemodel. Het koolstofatoom in methaan is sp3-gehybridiseerd. Dientengevolge zijn de koolstof-waterstofbindingen in methaan zeer sterk en verloopt bijvoorbeeld de deprotonering bijzonder moeizaam (de p"K"a van methaan ligt namelijk boven de 50).
+Reacties.
+Methaan is net als alle alkanen weinig reactief. Eigenlijk reageert het alleen met sterke oxidatoren zoals zuurstof(verbranding) of de halogenen. Een andere belangrijke reactie is stoomreforming.
+Verbrandingsreacties.
+De verbranding is als volgt: (vormingsenthalpie ΔfHo = −891 kJ · mol−1)
+Stoomreforming.
+Deze reactie wordt vooral toegepast in het Haber-Boschproces, waarbij grote hoeveelheden waterstof nodig zijn voor de productie van ammoniak, en bij vergassing van biomassa om synthesegas te produceren.
+Methaanhydraat.
+Sedimenten op de oceaanbodems en in permafrostgebieden aan de onderzijde van de bevroren bodemlaag bevatten heel grote methaanvoorraden: methaan dat onder hoge druk een clatraat of insluitverbinding vormt met water (ijs), methaanhydraat of methaanijs, waarin methaan als gashydraat in vaste vorm aanwezig is. Soms ontsnapt een deel van dit methaan in gasvorm naar de oppervlakte. De methaanclatraten zouden, vanwege de grote omvang van de voorraden, potentieel een belangrijke energiebron kunnen vormen, maar de winning ervan op de bodem van de oceaan is met de huidige stand der techniek nog zeer moeilijk.
+Schadelijkheid.
+Methaan is schadelijk voor het milieu, omdat het bijdraagt aan het versterkte broeikaseffect. Het is als broeikasgas ongeveer 25 keer zo sterk als koolstofdioxide. Sinds 1750 is de hoeveelheid methaan in de lucht meer dan verdubbeld. De levensduur van methaan in de atmosfeer is om en nabij de tien jaar.
+Er wordt gevreesd dat stijging van de temperatuur op aarde zal leiden tot het ontdooien van de permafrost. Dit zou kunnen leiden tot het vrijkomen van grote hoeveelheden methaan, en een verdere toename van het broeikaseffect.

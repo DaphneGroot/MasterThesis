@@ -1,0 +1,18 @@
+Mm Hg.
+mm Hg of mmHg (spreek uit millimeter kwik, millimeter kwikkolom of millimeter kwikdruk) is een niet-SI-eenheid voor het aangeven van de mate van druk.
+De term kwikdruk met als eenheid cmHg werd in het verleden gebruikt voor het aantal centimeters kwikdruk.
+mmHg vindt tegenwoordig uitsluitend nog toepassing in de geneeskunde, waarin hij wordt gebruikt voor onder andere het uitdrukken van drukken in lichaamsvloeistoffen, bijvoorbeeld de bloeddruk en de oogdruk.
+Een nauw verwante doch niet identieke eenheid is de torr. Deze wordt tegenwoordig nog veel gebruikt in de techniek, voor het meten van zeer lage drukken, bijna vacuüm.
+Wettelijk verbod op het gebruik van mmHg.
+Sinds de IJkwet van 1978 is in Nederland het gebruik van mmHg als eenheid van druk "n de uitoefening van een beroep of bedrijf bij het vragen, het aanbieden of het leveren van goederen of diensten", behalve voor bloeddruk en druk van andere lichaamsvloeistoffen. Dit verbod wordt herhaald in het Eenhedenbesluit bij de IJkwet van 1981 en in de Metrologiewet van 2006. Na wijziging van de Metrologiewet gold dit verbod per 1 januari 2010 impliciet voor iedereen. Met ingang van 2016 geldt dit verbod expliciet voor 'eenieder'.
+Definitie en conversiefactoren.
+Doordat de eenheid gebaseerd is op de stijging van kwik in een kolom, is de precieze grootte afhankelijk van de dichtheid van kwik (en daarmee van de temperatuur) en van de grootte van de zwaartekracht (en daarmee van de geografische locatie en hoogte). Een algemene omrekenfactor naar een andere eenheid is daardoor per definitie arbitrair.
+Gewoonlijk wordt gekozen voor de dichtheid van kwik bij 0 °C, namelijk 13,5951 g/cm3, en de door de Algemene Conferentie voor Gewichten en Maten vastgestelde standaardzwaarteveldsterkte van 9,80665 m/s2. Hieruit volgt dat 1 mmHg = 13,5951 * 9,80665 = 133,322387415 pascal.
+De officiële SI-brochure geeft geen definitie maar vermeldt slechts 1 mmHg ≈ 133,322 Pa. Het Nederlandse Meeteenhedenbesluit definieert 1 mmHg = 133,322 Pa.
+Barometer.
+Het meten van luchtdruk met behulp van een kolom kwik is eenvoudig en wordt nog steeds toegepast. De normale atmosferische luchtdruk bedraagt rond de 760 mmHg. In een traditionele barometer voor het meten van luchtdruk bevindt zich een kwikkolom met daarboven een vacuüm. Het vacuümgedeelte kan uitzetten of krimpen aan de hand van de luchtdruk. Modernere kwikbarometers leest men af in millibar.
+De reden dat kwik gebruikt wordt, is dat het veel zwaarder is dan andere vloeistoffen, zoals water. De kolom om de druk te meten kan daardoor veel korter zijn. Zo is een barometer van 80 cm lang ruim voldoende. Met water gevuld zou de barometer wel zo'n 10 meter lang moeten worden.
+Omdat kwikdamp ongezond is bij inademen, wordt het gebruik van kwik ontmoedigd.
+Geneeskunde.
+In de geneeskunde wordt de bloeddruk ook tegenwoordig nog algemeen in mmHg uitgedrukt, hoewel de kwikbloeddrukmeter inmiddels nagenoeg verdwenen is en vervangen door elektronische meetapparatuur. In bloeddrukmeters werd vroeger, net als bij de barometer, een kwikkolom gebruikt voor het bepalen van de bloeddruk.
+Ook bij de meting van de oogdruk wordt de waarde opgegeven in mmHg.

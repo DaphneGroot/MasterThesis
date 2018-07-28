@@ -1,0 +1,5 @@
+Farad (eenheid).
+De farad, met symbool F, is de eenheid van elektrische capaciteit, en geeft aan hoeveel lading bij een bepaalde spanning in een condensator aanwezig is. De farad is genoemd naar Michael Faraday.
+Condensatoren.
+Omdat de eenheid farad relatief groot is, worden in de praktijk veel vaker condensatoren gebruikt waarvan de capaciteit in picofarad, nanofarad of microfarad wordt uitgedrukt. Maar de maximale capaciteit van condensatoren wordt steeds groter. Lange tijd was 1 farad een nauwelijks voorkomende grootte, maar er is anno 2009 al een condensator leverbaar van 3 kF - 2,5 V (3000 F). Deze wordt ook wel "supercondensator" genoemd. Dergelijke condensatoren worden veel gebruikt voor elektronische schakelingen die moeten blijven functioneren bij stroomuitval. Een voorbeeld is fietsverlichting met leds, waar een condensator de verlichting laat branden terwijl de fietser stilstaat. In 2009 is een zaklamp met een supercondensator en leds geïntroduceerd die in 90 seconden kan worden opgeladen en dan 2 uur lang kan branden.
+De condensator in fietsverlichting wordt overigens gebruikt om de spanning af te vlakken na het gelijkrichten.

@@ -1,0 +1,9 @@
+XQuery.
+XQuery is een querytaal die het mogelijk maakt, informatie uit een of meerdere XML-documenten op te vragen.
+Qua functionaliteit lijkt de taal op SQL.
+XQuery of XML Query gebruikt XPath-syntaxis om te verwijzen naar specifieke delen van een XML-document.
+XQuery 1.0 is ontwikkeld door de XML Query werkgroep van het World Wide Web Consortium (W3C). Sinds 23 januari 2007 is het een webstandaard.
+Een uitgevoerde query van XQuery levert een fragment van het doorzochte XML-document op, het resultaat hiervan is ook een XML-document. In het XQuery-datamodel worden deze XML-documenten overigens gezien als boomstructuren.
+Veel van de functionaliteit van een eerder ontwikkelde en populaire querytaal voor XML, XQL, wordt ook door XQuery ondersteund.
+Voorbeeld.
+"Voorbeeld gebaseerd op Engelstalige artikel XQuery

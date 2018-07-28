@@ -1,0 +1,7 @@
+Drijfgas.
+Een drijfgas is een gas dat in spuitbussen wordt gebruikt om de inhoud onder druk te zetten, zodat deze naar buiten ontwijkt als het ventiel wordt ingedrukt.
+Hiervoor worden verschillende soorten gassen gebruikt, aanvankelijk vooral cfk's (chloor-fluor-koolwaterstoffen) die chemisch inert en goedkoop zijn, maar die, sinds bekend is dat ze de ozonlaag aantasten, niet meer mogen worden gebruikt.
+Alternatieven zijn bijvoorbeeld propaan/butaanmengsels (brandbaar), dimethylether, samengeperste lucht, lachgas en koolzuurgas. Ook worden sommige spuitbussen nu als pompverstuiver geleverd waardoor geen drijfgas meer nodig is en de energie voor het vernevelen door de indrukkende gebruiker zelf wordt geleverd.
+Een voordeel van cfk's en propaan/butaanmengsels is dat ze als vloeistof in de spuitbus aanwezig zijn. Zolang er nog vloeistof is, zal de dampdruk (bij gelijkblijvende temperatuur) constant blijven. Propaan/butaanmengsels worden zelfs "op maat" gemaakt om een bepaalde dampdruk te bereiken.
+Bij samengeperst gas zal de druk afnemen naarmate de spuitbus meer gebruikt wordt.
+Behalve voor spuitbussen kan drijfgas ook worden gebruikt voor andere doeleinden, zoals bierfusten en brandblussers. Daar wordt meestal koolstofdioxide als drijfgas gebruikt. Ook brandstoftanks van draagraketten worden vaak met een drijfgas onderdruk gehouden. Meestal betreft dit helium.

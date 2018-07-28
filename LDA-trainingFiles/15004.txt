@@ -1,0 +1,9 @@
+General Packet Radio Service.
+General Packet Radio Service (GPRS) is een techniek die een uitbreiding vormt op het bestaande gsm-netwerk. Met deze technologie kan op een efficiëntere, snellere en goedkopere manier mobiele data verzonden en ontvangen worden. Hoewel we spreken over GPRS-netwerken is GPRS geen nieuw netwerk.
+Bij GPRS zijn gebruikers altijd online. Dit betekent dat ze een constante verbinding met internet of bedrijfsnetwerk hebben en dus maar een keer in hoeven te bellen om de hele dag online te zijn. Ze betalen daarbij niet voor de tijd dat ze ingelogd zijn, maar worden afgerekend op de hoeveelheid data die ze downloaden of versturen. De gebruiker houdt de verbinding ook alleen maar bezet op momenten dat er daadwerkelijk gebruik van wordt gemaakt. Daardoor wordt de capaciteit beter benut en kan er meer data tegelijk uitgewisseld worden.
+Aanpassingen in het netwerk.
+Het bestaande gsm-netwerk wordt uitgebreid met een SGSN (Serving GPRS Support Node), die ervoor zorgt dat de gebruikers mobiel kunnen zijn en toegang tot het netwerk kunnen krijgen, en een GGSN (Gateway GPRS Support Node), die zorgt voor een verbinding met internet of intranet. Hierdoor wordt het versturen en ontvangen van pakketgeschakelde data mogelijk.
+Toestellen.
+De laatste klasse komt vooral voor op PC Cards op laptops, klasse B komt bij de meeste toestellen voor.
+Datarate.
+GPRS kan meerdere timeslots inpalmen, asymmetrische allocatie is ook mogelijk (bijvoorbeeld meer kanalen in downlink dan in uplink selecteren).

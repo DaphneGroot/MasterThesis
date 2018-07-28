@@ -1,0 +1,7 @@
+Parts per million.
+Parts per million (ppm'") oftewel delen per miljoen is een maat voor concentratie. Een concentratie van 1 ppm geeft aan dat er één deel van een product is op een totaal van een miljoen delen, meestal uitgedrukt in massa. Eén ppm is duizend keer kleiner dan één promille.
+De dimensieloze eenheid ppm wordt vooral veel gebruikt om lage concentraties aan te duiden in de scheikunde en dan in het bijzonder binnen de toxicologie en de milieuwetenschappen. Maximaal aanvaarde concentraties van verontreinigingen worden vaak in ppm uitgedrukt of in eenheden die nog kleiner zijn, zoals ppb ("parts per billion") en ppt ("parts per trillion"). Hierbij wordt de Amerikaanse korte schaal van grote getallen gebruikt; "parts per billion" moet dus als "deeltjes per miljard" begrepen worden, "parts per trillion" als "deeltjes per biljoen".
+Voorbeeld.
+Voorbeeld: als 1 liter water (ca. 1 kg, 1000 g) met 1 massa-ppm lood verontreinigd is, bevat dat water 1 milligram (0,001 g) van het zware metaal.
+Overbodigheid van ppm.
+Binnen het SI is het werken met ppm en soortgelijke eenheden overbodig en ongewenst. Het verhoudingsgetal ppm kan gemakkelijker en overzichtelijker worden uitgedrukt met μL/L, μg/g, mg/kg, μm/m of iets dergelijks, waarbij de laatste notaties duidelijk laten zien welke eenheden in het spel zijn.

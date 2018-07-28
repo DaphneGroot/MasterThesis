@@ -1,0 +1,3 @@
+Regeloppervlak.
+Een regeloppervlak is een oppervlak, waarbij door elk punt van het oppervlak minstens één lijn gaat, die volledig tot het oppervlak behoort. Zo'n lijn heet een beschrijvende van dat oppervlak.
+Ieder regeloppervlak kan dus worden beschreven door

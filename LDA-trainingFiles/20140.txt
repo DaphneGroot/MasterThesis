@@ -1,0 +1,17 @@
+Tcl (programmeertaal).
+Tcl (afkorting van tool command language) is een scripttaal die eind jaren tachtig werd ontwikkeld door John Ousterhout. Deze scripttaal, die steeds verder ontwikkeld wordt, is bedoeld om zelfstandig gebruikt te worden en wordt ook gebruikt om als scripttaal in andere programma's in te bouwen. Tcl wordt meestal uitgesproken als 'tikkel' en heel vaak wordt met Tcl de Tk-toolkit gebruikt, waarmee dan een grafische gebruikersinterface wordt gemaakt (men spreekt dan over Tcl/Tk). Tcl is beschikbaar voor Unix/Linux, Windows, OS X en Android.
+De belangrijkste commando's.
+Dit commando onderbreekt de uitvoering van de huidige procedure. De eerste parameter is het resultaat van de procedure.
+Dit commando berekent een rekenkundige expressie. Alle parameters worden samengevoegd tot één woord en de rekenkundige expressie die zij vormen wordt berekend. Gewoonlijk verdient het de voorkeur om de expressie tussen accolades te plaatsen om dubbele evaluatie te voorkomen. Zonder accolades zou de expressie eerst door de shell en vervolgens door het expr commando worden geëvallueerd.
+Meer commando's worden beschreven in de documentatie.
+Toepassingen.
+Doordat in Tcl alles om woorden en zinnen draait, is de taal erg geschikt voor het bewerken van teksten. Tcl blijkt ook een uitstekende vervanger van Unix sh-scripts; de taal blijkt krachtiger, presteert beter en is bovenal makkelijker te programmeren dan de standaard Unix-shells.
+Tcl is ook beschikbaar voor Windows en kan op dezelfde manier een welkome vervanging voor batch-scripts vormen. Om de scripts ook te laten werken zonder dat Tcl geïnstalleerd moet zijn is de TclPro Compiler beschikbaar.
+Tcl is geschikt voor het genereren van webpagina's. Tclhttpd is een webserver die volledig geschreven is in Tcl.
+Een andere webserver waarin Tcl centraal staat is AOLserver. In AOLserver kan men, in typische ASP- of PHP-stijl HTML-code mengen met Tcl-code. Doordat Tcl veel en uitgebreide tekstfuncties bevat ontstaat er een krachtige combinatie. Tcl integreert daarnaast met databases (waarbij de tekstomgang van Tcl weer goed van pas komt om SQL-query's op te bouwen) en beschikt over een API om met webservers te communiceren.
+Prestaties.
+In het eerste commando wordt i gelijk gezet aan "0". Omdat "0" een tekst is wordt deze als tekst in het geheugen opgeslagen.
+In het tweede commando wordt i als getal gebruikt. De tekstversie wordt naar een integer geconverteerd, uit het geheugen verwijderd. De integer-versie wordt vervolgens gebruikt in de berekening.
+Als vervolgens het derde commando uitgevoerd wordt, is i nog steeds in het geheugen opgeslagen als integer, en kan de berekening vlot zonder conversies uitgevoerd worden.
+In het vierde commando is i echter weer als string nodig. De integer wordt in een tekstrepresentatie omgezet en gebruikt om de waarde van t te berekenen.
+Bovenstaand schema zorgt ervoor dat conversies geen groot snelheidsprobleem meer vormen. Om de prestaties verder te verhogen beschikt Tcl over een compiler. Deze compiler compileert code in procedures automatisch naar een tussencode als deze de eerste keer worden uitgevoerd. De procedure kan dan bij een volgende aanroep veel sneller worden uitgevoerd dan de originele code in tekstvorm.

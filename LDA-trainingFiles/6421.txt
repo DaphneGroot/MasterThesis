@@ -1,0 +1,3 @@
+Henry (eenheid).
+met de zelfinductie "L" als evenredigheidsconstante.
+In de praktijk van de elektrotechniek en de elektronica zijn spoelen van 1 henry niet courant en wordt er meer gewerkt met lagere waarden, tot in de orde van grootte van 1 μH.

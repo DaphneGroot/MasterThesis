@@ -1,0 +1,8 @@
+Internetforum.
+Een webpagina met een Internetforum (getoonde software phpBB 3.0)
+Een internet- of discussieforum, meestal gewoon forum (meervoud: "forums" of "fora") is een online discussieruimte tussen verschillende gebruikers. Deze gebruikers plaatsen langere berichten en kunnen 'asynchroon' met elkaar overleggen; de bijdragen worden gearchiveerd en de discussie kan over een langere periode verdergaan. Internetforums verschillen hiermee van andere discussiemogelijkheden zoals chatruimtes, nieuwsgroepen, weblogs en sociale media zoals Twitter.
+Op sommige internetforums moeten bezoekers zich registreren onder een bijnaam of nickname om te mogen reageren. Andere forums zijn vrijer en daarop zijn berichten zonder registratie geplaatst. Deze worden geplaagd door spamaanvallen en schakelen meestal over naar een bepaalde vorm van authentificatie. De virtuele persoonlijkheid van een forumbezoeker kan naast het gebruik van bijnamen ook tot uiting komen in het gebruik van avatars en handtekeningen. De meeste forumgangers bezoeken het forum onder een schuilnaam. Dit blijkt allerhande vormen van ongepast gedrag uit te lokken. Daarom hebben de meeste (kwaliteits)forums een of ander 'forumbeleid' met gebruiksvoorwaarden voor de website. Moderatoren controleren of de gebruikers zich houden aan deze voorwaarden.
+Veelgebruikte forumsoftware is phpBB, Invision Power Board, Simple Machines Forum (allen open source) en vBulletin (commercieel).
+Gangbare afkortingen en termen.
+Wie nieuw is op forums worstelt steeds vaker met Engelstalige afkortingen en termen die voor de doorgewinterde forumbezoeker normaal zijn geworden.
+Hieronder een aantal afkortingen met hun verklaringen.

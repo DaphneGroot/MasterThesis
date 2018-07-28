@@ -1,0 +1,9 @@
+Decimale graad.
+In de geodesie en landmeetkunde en in de bouw wordt soms de decimale graad gebruikt in plaats van de booggraad.
+De decimale graad is gedefinieerd als 1/400 deel van een cirkel. Een volledige cirkel beslaat dus 400 decimale graden. Deze graad wordt aangeduid met "gon", "grad" of "gra" en wordt ook wel het "400-gradenstelsel" genoemd.
+Oorspronkelijk werd de "gon" aangeduid met "gr" (van graad). Deze was onderverdeeld in 100 cgr (centigraden), die weer in 100 mogr (myriograden). De mogr werd ook wel met dmgr (decimilligraden) aangeduid. Deze wat ongebruikelijke indeling was ingevoerd naar analogie van de verdeling de graad in 60 minuten van elk 60 seconden.
+Relatie met de meter.
+De meter is indirect te danken aan de decimale graad. Bij het vaststellen van een eenheid van lengte, bedacht men dat deze een relatie zou moeten hebben met de graad. De afstand tussen de evenaar en de noordpool werd gelijkgesteld aan 10 000 000 meter. Deze afstand bedraagt 100 gr, zodat 1 gr gelijk zou zijn aan 100 000 meter, of omgekeerd 1 meter gelijk zou zijn aan 10−5 gr.
+Nadat de meter op deze wijze was vastgesteld, bleek de werkelijke afstand tussen evenaar en noordpool als gevolg van allerlei fouten (meetfouten én het het feit dat de aarde geen perfecte bol is) iets groter te zijn dan de 10 000 000 meter die men oorspronkelijk had aangenomen. Latere metingen wezen uit dat de afstand 10 001 965,7293 meter is. De meter is dus te kort volgens de gehanteerde definitie. De vastgestelde meter was echter al zo ingeburgerd, dat deze niet meer aangepast is.
+Trivia.
+De zeemijl is op een soortgelijke manier gedefinieerd, maar dan als de lengte van één boogminuut, dus 10.000 km / (90 * 60) = 1852 meter.

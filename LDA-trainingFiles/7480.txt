@@ -1,0 +1,6 @@
+Lentepunt.
+Het lentepunt is een van de twee snijpunten van de baan van de aarde rond de zon (de ecliptica) met de hemelevenaar. Het geldt als het nulpunt van het astronomisch coördinatenstelsel.
+Tijdens de maartequinox, die valt rond 21 maart (hij kan vallen op 18 tot en met 22 maart), gaat de aarde door het lentepunt. Het is dan het begin van de lente op het noordelijk halfrond. Samen met de septemberequinox (herfstpunt) zijn dit de enige twee dagen van het tropisch jaar dat de zon precies in het westen ondergaat en in het oosten opkomt. De dag en de nacht duren tijdens de equinoxen ruwweg even lang (equi = gelijk, nox = nacht).
+De periode tussen twee lentepuntdoorgangen van de zon is het tropisch jaar.
+Door precessie verschuift het lentepunt langzaam in westelijke richting, waarbij het zich verplaatst over ongeveer één graad per 71,58 jaar (25 770 jaar gedeeld door 360 graden).
+Omdat het verschuivende lentepunt als nulpunt van het astronomisch coördinatenstelsel gebruikt wordt, moet bij vermelding van posities altijd aangegeven worden voor welk tijdstip deze gelden. Dit wordt de epoche genoemd. De equinox 2000.0 ofwel de standaardepoche J2000, is de positie waar het lentepunt zich bevond op 1 januari 2000, 12:00 h.

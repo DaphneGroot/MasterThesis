@@ -1,0 +1,22 @@
+Nieuwsgroep.
+Een nieuwsgroep is een communicatiekanaal op Usenet. Het is vergelijkbaar met de discussiefora zoals die op veel websites te vinden zijn, maar de nieuwsgroepen vormen geen rechtstreeks onderdeel van het wereldwijde web waar men met een webbrowser naartoe kan surfen. Nieuwsgroepen worden ook wel "discussiegroepen" genoemd.
+Er zijn vele tienduizenden nieuwsgroepen die gaan over de meest uiteenlopende onderwerpen. Het geeft iedereen de mogelijkheid om informatie te verspreiden en zeer serieus te discussiëren, maar ook om volstrekte nonsens te verkondigen.
+De nieuwsgroepen zijn ook een plek waar mensen elkaar vrijwillig helpen om een probleem op te lossen, vaak in verband met computers en het internet, maar het kan ook gaan over een ziekte van een goudvis, problemen met wetgeving of wat dan ook.
+Infrastructuur.
+Nieuwsgroepen maken vaak gebruik van het Usenet-netwerk en zijn onder andere bereikbaar via het NNTP-protocol. In tegenstelling tot veel andere netwerkdiensten maakt dit systeem geen gebruik van een centrale server. Berichten worden volgens een peer-to-peer-systeem van server naar server doorgegeven.
+Benodigde software.
+Om nieuwsgroepen te kunnen lezen, heeft u in principe een newsreader (ook wel nieuwslezer genoemd) nodig. Een overzicht hiervan staat op de newsreader-pagina. U kunt ook gebruikmaken van een e-mailclient zoals Mozilla Thunderbird of Outlook Express.
+U kunt nieuwsgroepen lezen via de nieuwsservers van uw provider of van enkele 'openbare' servers, zoals die van euro.net en van de Freie Universität Berlin. Wanneer u slechts over een internetbrowser beschikt, kunt u ook gebruikmaken van Google Groups.
+Verschillende nieuwsgroepen.
+Nieuwsgroepen zijn geordend volgens een hiërarchie. Men begint op topniveau (bijvoorbeeld "nl" of "news") en hierachter komen dan steeds meer gespecialiseerde termen. Een voorbeeld is "nl.comp.software.newsreaders" (i.e. een Nederlandstalige nieuwsgroep over newsreaders).
+Big8.
+Onder Big8 verstaan we de (acht) oorspronkelijke, internationale hiërarchieën, te weten comp.*, humanities.*, misc.*, news.*, rec.*, sci.*, soc.* en talk.*. (bijvoorbeeld "talk.religion", "talk.politics", "talk.origins")
+nl.* en be.*.
+Net zoals bij de domeinnamen bestaan er ook landenhiërarchieën. Die van Nederland en België zijn de nl.*- en de be.*-hiërarchie.
+Om nieuwe nieuwsgroepen aan te maken in de nl.*-hiërarchie bestaat er een oprichtingsprocedure, die onder andere een discussie en stemming in "nl.newsgroups" omvat.
+alt.*.
+De alt.*-hiërarchie is een verzameling voor alles wat niet onder één van de andere hiërarchieën valt. Met name alt.binaries.* is bekend, omdat er (in tegenstelling tot de meeste andere nieuwsgroepen) naast tekst ook "binary's", zoals muziek, films en foto's gepost mogen worden. Omdat dergelijke nieuwsgroepen meestal een groot volume aan data opleveren, zullen niet alle newsservers die groepen voeren.
+Binaire nieuwsgroepen.
+Nieuwsgroepen worden steeds meer gebruikt voor het verspreiden van binaire bestanden, ook al is dat niet de oorspronkelijke bedoeling van nieuwsgroepen.
+Die populariteit wordt onder meer veroorzaakt doordat bestanden van usenet door een onbeperkt aantal gebruikers kunnen worden gedownload waarbij de downloadsnelheid slechts afhankelijk is van de bandbreedte van de internetverbinding en usenetserver van de downloader. Dit in tegenstelling tot "Peer-to-peer" (P2P) uitwisselingsnetwerken waarbij de downloadsnelheid wordt gelimiteerd door de uploadsnelheid van de gebruikers die het bestand delen. Een ander voordeel is dat voor het downloaden van nieuwsgroepen niet is vereist dat ook wordt geüpload, hetgeen bij de meeste P2P netwerken wel het geval is.
+Binaire newsreaders zijn gespecialiseerd in het downloaden van binaire bestanden. Deze binaire newsreaders automatiseren het decoderen van de gedownloade tekstbestanden en het combineren van de gedecodeerde bestanden naar het oorspronkelijke binaire bestand.

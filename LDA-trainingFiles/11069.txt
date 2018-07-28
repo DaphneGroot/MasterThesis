@@ -1,0 +1,3 @@
+Slavisch (schaakopening).
+De Slavische verdediging is bij een schaakpartij de opening die begint met de zetten 1.d4 d5 2.c4 c6 ("zie diagram"). Strikt genomen valt het Slavisch onder het geweigerd damegambiet, maar de opening wordt dusdanig vaak gespeeld, dat het een eigen ECO-code heeft (D10).
+De Slavische verdediging werd al in de 16e eeuw door de Italiaanse schaakmeester Polerio genoemd, en door Tsjigorin opnieuw in de toernooipraktijk gebracht. In de jaren dertig van de 20e eeuw werd ze door onder andere Aljechin, Bogoljoebov en Euwe met succes gespeeld.

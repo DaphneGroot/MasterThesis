@@ -1,0 +1,32 @@
+C++.
+C++ (uitgesproken als "C plus plus") is een programmeertaal gebaseerd op C.
+In tegenstelling tot C is C++ een multi-paradigmataal, wat inhoudt dat er verschillende programmeerparadigma's gebruikt kunnen worden. De taal is ontworpen door Bjarne Stroustrup voor AT&T Labs, als verbetering van C. De naam is afkomstig van de programma-opdracht "C++", wat betekent: "verhoog de waarde van de variabele C met 1".
+Geschiedenis.
+Bjarne Stroustrup, een in Denemarken en het Verenigd Koninkrijk opgeleide computerwetenschapper, begon zijn werk aan "C with classes" ("C met klassen") in 1979. Het idee om een nieuwe taal te ontwikkelen ontstond tijdens het programmeren voor zijn PhD-thesis. Stroustrup vond dat Simula bepaalde eigenschappen had die erg behulpzaam waren voor grootschalige software-ontwikkelingsprojecten, maar dat de taal te langzaam voor praktisch gebruik was. Aan de andere kant was BCPL snel, maar van een te "laag" niveau (te dicht op de "bitjes" en de "bytejes") om voor gebruik in grote software-ontwikkelingsprojecten geschikt te zijn. Toen Stroustrup bij AT&T Bell Labs ging werken kreeg hij de opdracht om de UNIX-kernel te analyseren met het oog op gebruik in distributed computing. Met in gedachten zijn ervaringen bij het schrijven van zijn proefschrift begon Stroustrup aan een project om de programmeertaal C uit te breiden met Simula-achtige eigenschappen. Hij koos voor C omdat het een taal voor algemeen gebruik was die snel en gemakkelijk porteerbaar was en vooral op grote schaal werd gebruikt. Behalve door C en Simula werd hij ook geïnspireerd door Algol 68, Ada, CLU en ML. In eerste instantie werden de klasse, afgeleide klasse, sterke typering, inlining en default argument-eigenschappen via "C met klassen" aan de C-compiler, Cpre, toegevoegd.
+In 1983 werd de naam van de taal gewijzigd in C++ (de incremental operator in C is ++). Nieuwe functies werden toegevoegd, waaronder virtuele functies, overloading van functienamen en operators, referenties, constanten, door de gebruiker gestuurde allocatie en vrijgave van geheugen, verbeterde type checking, eenregelig commentaar met twee schuine strepen ("forward slashes") (codice_1) zoals dat in BCPL gebruikt werd, alsook de ontwikkeling van een compiler voor C++, Cfront. In 1985 werd de eerste editie van "The C++ Programming Language" uitgebracht. Dit werd snel een belangrijk naslagwerk voor de taal, aangezien er op dat moment nog geen officiële standaard was.
+De eerste commerciële implementatie van C++ werd in oktober 1985 uitgebracht. Versie 2.0 van C++ volgde in 1989 en de geactualiseerde tweede editie van "The C++ Programming Language" werd in 1991 uitgebracht. Onder de nieuwe eigenschappen waren meervoudige overerving, abstracte klassen, statische memberfuncties, const-memberfuncties en beschermde members. In 1990 werd "The Annotated C++ Reference Manual" gepubliceerd. Dit werk werd de basis voor de toekomstige standaard. Latere toevoegingen aan C++ zijn onder andere templates, exception handling, naamruimten, nieuwe casts en een booleaans datatype. Naarmate de C++-taal evolueerde, evolueerden de standaardbibliotheken mee. De eerste toevoeging aan de C++-standaardbibliotheek was de O-bibliotheek. Deze bibliotheek bood faciliteiten om de traditionele C-functies zoals printf en scanf te vervangen. Later was onder de belangrijkste toevoegingen aan de standaard bibliotheek een grote hoeveelheid van de Standard Template Library.
+Het is mogelijk om in hetzelfde programma in C++ zowel objectgeoriënteerde als procedurele code te schrijven. Dit heeft tot enige bezorgdheid geleid dat sommige C++-programmeurs nog steeds procedurele code schrijven, terwijl zij de indruk hebben dat zij objectgeoriënteerde code schrijven, alleen omdat zij C++ gebruiken. Vaak is het een samensmelting van de twee. Dit veroorzaakt vaak problemen wanneer de code na enige tijd opnieuw in detail moet worden doorgrond of wanneer de ene programmeur zijn werk aan een ander moet overdragen.
+C++ wordt op dit moment nog steeds gebruikt en was in 2011 een van de favoriete programmeertalen voor het ontwikkelen van professionele applicaties
+Objectgeoriënteerd.
+De belangrijkste uitbreiding op C is de toevoeging van klassen voor objectgeoriënteerd programmeren. De klasse-ondersteuning omvat onder andere
+Templates.
+Een andere uitbreiding ten opzichte van C zijn templates (de basis van generiek programmeren). Een template of sjabloon is een functie of klasse die gebruikmaakt van een abstract datatype.
+Deze functie kan vervolgens voor alle datatypen gebruikt worden die de operatoren + en / ondersteunen.
+Andere uitbreidingen ten opzichte van C.
+Naast de object-georiënteerde uitbreidingen biedt C++ nog enkele nieuwe zaken die in C niet aanwezig waren op dat moment.
+De C++-standaardbibliotheek en STL.
+De standaardbibliotheek bevat alle functionaliteit van C, met daarbij een verzameling templates: de Standard Template Library (STL). Dit zijn algemene templates voor het beheren van containers als vectors, lists en maps.
+Geen zuivere superset van C.
+In tegenstelling tot wat vaak wordt beweerd, is C++ geen zuivere superset van C. Niet alle geldige C-code is automatisch geldige C++-code. De meeste C-code zal probleemloos als C++ gecompileerd worden, maar er zijn kleine verschillen. Een andere programmeertaal, Objective-C, is wel een superset van C.
+Vergelijkbare talen.
+Ook PHP, hoewel een scriptingtaal, heeft sinds versie 4 (en vooral sinds 5) veel weg van C++.
+Objective-C lijkt niet op C++. Beide talen ontstonden als object-georiënteerde uitbreiding op C, hun gemeenschappelijke voorouder. Hierdoor delen ze toch wat gelijkenissen en zijn ze tegenwoordig zelfs combineerbaar als Objective-C++ 2.0.
+C++-voorbeelden.
+int main() // De uitvoering van het programma begint bij main()
+Merk in dit voorbeeld op dat de functie 'int main()' geen return-statement bevat: volgens de C++ standaard geeft de main-functie uit zichzelf de waarde 0 (nul) terug tenzij een andere return-waarde meegegeven wordt. Een 'return 0' statement is dus overbodig.
+// cin, cout en string zijn onderdeel van de std:: namespace.
+using namespace std; // maakt namespace std bruikbaar zonder de std:: kwalificatie.
+// 'using namespace' is handig omdat het minder typewerk is. Maar
+// in grotere projecten kan je het beter niet gebruiken, omdat je
+// dan niet kan zien uit welke namespace een variabele komt
+Met dit programma kun je een aantal getallen ingeven, die vervolgens na het ingeven van het eerste niet-getal gesorteerd zullen worden en op het console getoond.

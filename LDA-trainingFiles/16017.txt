@@ -1,0 +1,9 @@
+Centimeter.
+Een centimeter (cm) is een lengte van 0,01 meter = 10 mm.
+Centi komt van het Latijnse woord 'centum', honderd.
+De centimeter is de gebruikelijke eenheid voor metingen in huiselijke omstandigheden, bijvoorbeeld lichaamslengte, afmetingen van meubels, kleding enzovoort. In technische tekeningen wordt liever de millimeter gebruikt.
+Condensatoren.
+Vroeger werd de capaciteit van condensatoren wel in centimeters uitgedrukt. Dat is niet zo verwonderlijk: deze is voornamelijk van de geometrie van de condensator afhankelijk: het plaatoppervlak gedeeld door de afstand, met een dimensieloze factor, de diëlektrische constante εr, voor het diëlektricum. 1 cm ≈ 0,885 419 pF.
+De gebruikelijke voorvoegsels worden in dit geval achterwege gelaten; zo kan men een condensator van 10.000 cm aantreffen (niet 100 m). Een dergelijke condensator bestaat bijvoorbeeld uit twee platen van een m² op een onderlinge afstand van 1 cm, of, praktischer, twee platen van 1 cm² op een onderlinge afstand van 1 µm.
+Meetlint.
+Een oprolbaar meetlint wordt ook wel een centimeter genoemd. Dat is vergelijkbaar met de micrometer, die zowel een lengte-eenheid als een meetinstrument is, hoewel dit meetinstrument niet zo nauwkeurig is als de naam doet vermoeden.

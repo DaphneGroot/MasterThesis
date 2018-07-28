@@ -1,0 +1,7 @@
+Ls (Unix).
+Onder Unix en zijn varianten is ls ("list") een commando om de bestandslijst in een directory weer te geven. Zonder argumenten wordt de inhoud van de "werkdirectory" (= huidige directory) getoond.
+Uitvoerformaat.
+Als het commando ls wordt uitgevoerd geeft het het volgende resultaat.
+De drie tekens daarna geven de permissies voor de eigenaar ten opzichte van het bestand aan.
+De drie daarna zijn de permissies voor andere groepsleden en de laatste drie betreffen de "wereld", de rest van de gebruikers.
+Het bovenstaande voorbeeld is dus een normaal bestand dat de gebruiker "ufo" zowel mag lezen als wijzigen, terwijl de rest van de gebruikers het alleen maar mag lezen.

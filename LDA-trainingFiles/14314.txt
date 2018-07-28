@@ -1,0 +1,2 @@
+MCFC.
+Molten Carbonate Fuel Cell (MCFC) is een brandstofcel werkend met gesmolten carbonaat (CO32-) als elektrolyt. Het ionentransport vindt plaats met behulp van carbonaat-ionen, de katalysator voor de ionisatie van waterstof is nikkel of nikkel(II)oxide.

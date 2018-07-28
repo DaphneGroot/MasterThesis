@@ -1,0 +1,26 @@
+Wet van Hooke.
+De wet van Hooke beschrijft het gedrag van een mechanische veer als gevolg van kleine veranderingen in de lengte.
+De wet van Hooke (Latijn:"ut tensio, sic vis", "zoals rek, zo is kracht") is een bekende wet uit de natuurkunde en materiaalkunde die de evenredigheid tussen de mechanische spanning en de hieruit voortkomende vervorming (bijvoorbeeld een uitrekking) beschrijft. De wet geldt voor allerhande materialen tot de proportionaliteitsgrens. Voorbij die grens is de vervorming niet omkeerbaar en is de veer vernield. Voor veren in laboratoria worden dan ook staalsoorten gebruikt met een hoge proportionaliteitsgrens. De Britse natuurkundige Robert Hooke publiceerde de wet van Hooke in 1678 in de vorm van een anagram: "ceiiinosssttuv". Tevens formuleerde hij deze in 1678 in zijn werk "De Potentia Restitutiva". De wet van Hooke kan thans worden afgeleid uit de microscopische uitleg van veerkracht.
+De aanduiding "wet" is echter enigszins misleidend. Het karakter van deze wet is heel anders dan dat van algemeen geldende wetten zoals de wetten van Newton. De wet van Hooke is niet meer dan een zgn. materiaalvergelijking, een wiskundige weergave van bepaalde experimenteel gevonden resultaten. Deze "natuurwet" is niet algemeen geldig, in tegenstelling tot een echte natuurwet.
+Fysica.
+De wet van Hooke zegt dat de uitrekking van een materiaal recht evenredig is met de kracht die op dat materiaal wordt uitgeoefend. Voor een veer is dat in dit verband de zogeheten veerconstante die aangeeft hoe stijf of stug de veer is, of iets anders geformuleerd hoe groot de vervorming (verlenging of verkorting) is als er een bepaalde kracht op de veer werkt.
+Bij veren die worden belast door een moment zal de veer roteren. De stijfheid van deze torsieveren wordt torsieveerconstante genoemd.
+De veerconstante "k" kan met behulp van een kracht/wegdiagram verder duidelijk worden gemaakt. Als namelijk een veer werkzaam is in het elastische gebied - dus onder de zogenaamde elasticiteitsgrens van het materiaal - dan is er een lineair verband aanwezig tussen de kracht ("F") en de vervorming ("u") die daar het gevolg van is.
+In het kracht/wegdiagram wordt dit lineaire verband duidelijk gemaakt, met behulp van twee krachten die op de veer werken.
+Bij een kracht F1 = AA’ hoort namelijk een verplaatsing u van het aangrijpingspunt Δu1 = OA., en bij een kracht F2 = BB’= 3 x AA’ is de verplaatsing Δu2 = OB = 3 x OA.
+Het diagram laat ook zien, dat de veerconstante "k = tg α". Een veer wordt dus stijver of slapper naarmate de hoek "α" groter of kleiner wordt.
+Als de formule met vectoren voor formula_4 en formula_5 geschreven wordt, verschijnt een minteken om de terugdrijving door de veer weer te geven. Een algemene uitdrukking van de wet van Hooke past tensoren toe.
+Deze wet wordt gebruikt door de dynamometer (krachtmeter).
+waarin formula_9 = de uitrekking of indrukking is van een veer als er een kracht F op de veer werkt.
+Torsieveerconstante.
+Bij torsieveren zal de veer roteren wanneer hier een moment of koppel op werkt.
+Het bovenstaande diagram voor schroefvormige veren is ook geschikt om de torsieveerconstante "C" weer te geven, als namelijk de kracht "F" wordt vervangen door het moment "M" en de verplaatsing door de rotatie "Φ."
+Lineaire en niet lineaire veren.
+Voor een eenvoudige schroefvormige, metalen veer is het maken van berekeningen met een veerconstante een zeer goede benadering. Naarmate een veer meer windingen heeft is de vervorming van het materiaal geringer en blijft dientengevolge in het lineaire gebied. Hierdoor kan een veer voor wegingen gebruikt worden met een simpele lineaire schaal. Bij meer complex gevormde, metalen, verende onderdelen wordt dit ingewikkelder en wordt bij berekeningen vaak gebruikgemaakt van energie formules.
+Vergeleken met een schroefveer heeft een verend onderdeel gemaakt van kunststof (elastische materialen) een veel slechtere lineariteit. Dat wil zeggen dat bijvoorbeeld in een uitgerekt elastiek de elasticiteitsmodulus voor verdere kleine uitwijkingen, verschilt van die voor een niet uitgerekt elastiek. We spreken dan van niet-lineaire veren.
+Plastische veren.
+Veren waarbij de vervorming toeneemt bij een bepaalde kracht (dus zonder dat deze kracht nog verder toeneemt) vervormen plastisch.
+Normaalspanning.
+Voor y- en z-richtingen gelden analoge formules.
+Schuifspanning.
+Voor y- en z-richtingen gelden analoge formules.

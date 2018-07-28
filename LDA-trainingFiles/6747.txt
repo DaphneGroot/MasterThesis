@@ -1,0 +1,17 @@
+Goniometrie.
+De goniometrie of trigonometrie (Grieks: τρι, drie, γωνια "(gonia)", hoek en μετρειν "(metrein)", meten) is een tak van de wiskunde die zich bezighoudt met driehoeken en in het bijzonder de oorspronkelijk op driehoeken gebaseerde goniometrische functies zoals sinus (sin), cosinus (cos) en tangens (tan). Dit is een basisvak van de vlakke meetkunde, omdat alle andere vormen die door rechte lijnen worden ingesloten, opgebouwd kunnen worden uit driehoeken.
+De goniometrie kent vele toepassingen, onder andere bij de driehoeksmeting.
+De goniometrische cirkel.
+Een goniometrische cirkel of eenheidscirkel is een cirkel met als middelpunt de oorsprong van het assenstelsel en een straal met lengte 1. De voerstraal naar een punt P op de cirkel maakt een hoek "α" met de "x"-as. De sinus van deze hoek, sin("α"), is gelijk aan de "y"-coördinaat van het punt P. De cosinus van de hoek, cos("α"), is gelijk aan de "x"-coördinaat van het punt P. Als punt P de cirkel doorloopt zullen de waarden van cos("α") en sin("α") de waarden doorlopen uit het interval [−1,1].
+Met behulp van de goniometrische cirkel kan de hoekeenheid radiaal afgeleid worden: 1 (één) radiaal is de hoek waarbij de booglengte gelijk is aan de straal (= 180°/π, is gelijk aan ruim 57°). De booglengte tussen twee punten op de goniometrische cirkel is de absolute waarde van de hoek, uitgedrukt in radialen, tussen de voerstralen naar deze punten.
+Tegenwijzerzin is de positieve oriëntatiezin op een goniometrische cirkel. Een hoek gemeten in tegenwijzerzin vanaf het beginbeen tot eindbeen heeft dan een positieve waarde. Meet men in wijzerzin dan heeft de hoek een negatieve waarde.
+Relaties tussen hoeken.
+secans (sec), cosecans (csc) en cotangens (cot) zijn de reciproque functies van respectievelijk: de cosinus, sinus en tangens.
+Met de basisrelaties kan steeds een van de functies in een andere worden uitgedrukt, zij het slechts voor een rechthoekige driehoek. De 'kunst' bij goniometrie is dan ook vaak om een willekeurige driehoek of veelhoek op te delen in rechthoekige driehoeken, zodat de basisrelaties toegepast kunnen worden. De volgende 6 formules gelden
+voor formula_12 tussen 0 en formula_13 radialen.
+Verdere omrekenregels.
+De regels van Simpson zetten sommen om in producten (ontbinden in factoren)
+Inverse functies.
+Deze functies voeren een getal terug naar de bijbehorende hoek en heten ook wel cyclometrische functies. Ze worden gevonden uit de oorspronkelijke functies door x- en y-assen te verwisselen (spiegeling ten opzichte van de lijn y=x).
+Goniotafel.
+Om de waarde te bepalen van een goniometrische functie bij een bepaalde hoek wordt gebruikgemaakt van een computer of rekenmachine. Vóór de introductie van deze hulpmiddelen werd gebruikgemaakt van een zogenaamde goniometrische tafel of kortweg een goniotafel. In een goniotafel, welke vaak was gecombineerd met een logaritmische tafel of logaritmetafel, werd voor de hoeken tussen 0 en 90 graden, met een verdere onderverdeling in minuten, de logaritmische waarden (log-waarden) gegeven voor de sin-, cos-, cotan- en tan-functie. Met de logaritmetafel kon deze waarde vervolgens worden omgezet in een reëel getal. Tussenliggende hoekwaarden kon men berekenen door te interpoleren. Grotere of negatieven hoeken kon men berekenen door gebruik te maken van de standaard goniometrische relaties.

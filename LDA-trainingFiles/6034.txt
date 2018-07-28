@@ -1,0 +1,17 @@
+Edgar F. Codd.
+Edgar F. (Ted) Codd (Isle of Portland, 19 augustus 1923 – Williams Island (Florida), 18 april 2003) was een Brits informaticus. Hij werd bekend als de grondlegger van het zeer invloedrijke relationele model voor databases.
+Biografie.
+Ted Codd werd geboren in Portland (Engeland) en studeerde wiskunde en scheikunde aan de Universiteit van Oxford. Hij was piloot in de Britse luchtmacht tijdens de Tweede Wereldoorlog. In 1948 verhuisde hij naar New York en ging voor IBM werken. In 1953 verhuisde hij uit ergernis over senator Joseph McCarthy naar Ottawa (Canada). Tien jaar later keerde hij terug naar de Verenigde Staten en ontving hij een doctoraat in de informatica ("computer science") van de Universiteit van Michigan in Ann Arbor. Twee jaar later verhuisde hij naar San José (Californië) om bij een researchafdeling van IBM aldaar te gaan werken. In de jaren 60 en 70 werkte hij aan zijn theorieën over gegevensmodellen, die tot zijn teleurstelling grotendeels genegeerd werden door IBM, totdat ze met groot succes in de praktijk werden gebracht door Larry Ellison, oprichter van het database-bedrijf Oracle.
+In 1981 werd Codd voor zijn werk de Turing Award toegekend.
+Hij overleed op 79-jarige leeftijd als gevolg van een hartinfarct in Williams Island (Florida).
+Relationele model.
+Toen Codd zijn model ontwikkelde bestond de databasewereld uit hiërarchische databases en netwerkdatabases. Deze modellen hebben gemeen dat de interne organisatie van de gegevens in de database en de wijze waarop een applicatie de gegevens kan benaderen geheel worden afgestemd op de toepassing die ervan gemaakt wordt. Hierdoor is een hoge performantie mogelijk, maar iedere verandering van de database of van de bevraging ervan vereist onderhoud aan de software.
+Codd loste dat probleem op met het "relationele model". Dat model is het eenvoudigst te begrijpen als het structureren van gegevens in gewone tabellen. Een applicatie benadert de gegevens slechts via deze conceptuele structuur, terwijl de database-software zorgt voor een optimale interne organisatie en bevraging van de gegevens. De database-software en de toenmalige computers hadden het er in de begintijd moeilijk mee. Het kon uren duren voor het resultaat van een bevraging beschikbaar was. Tegenwoordig is het heel normaal dat bijvoorbeeld voor het samenstellen van een enkele webpagina meerdere database-query's op een relationele database worden uitgevoerd.
+Codd publiceerde zijn ideeën in 1970.
+Zijn werkgever, IBM, de marktleider van de hiërarchische databases, begon met de ontwikkeling van een implementatie: System R. De eerste klant was Pratt & Whitney in 1977..
+In 1979 kwam er een concurrent: Oracle.
+Codd heeft zich overigens met verschillende publicaties verzet tegen het te lichtvaardig gebruik van de term "relationeel" door commerciële bedrijven. Hij stelde een aantal strenge wiskundige regels op waaraan een product moest voldoen om relationeel genoemd te mogen worden.
+Het begrip "relationeel" heeft in dit verband betrekking op het wiskundige begrip relatie in de verzamelingenleer.
+Ontwerp.
+Het is belangrijk dat een database een goed ontwerp heeft. Op die manier worden vervelende bijwerkingen vermeden, zoals duplicatie van gegevens of het moeizaam veranderen van de databasestructuur.
+Op relationele databases is een aantal concepten van toepassing die in de betreffende artikelen nader uitgelegd worden.

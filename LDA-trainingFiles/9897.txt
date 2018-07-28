@@ -1,0 +1,38 @@
+Unified Modeling Language.
+De Unified Modeling Language, afgekort UML, is een modelmatige taal om objectgeoriënteerde analyses en ontwerpen voor een informatiesysteem te kunnen maken. UML is ontworpen door Grady Booch, James Rumbaugh en Ivar Jacobson in de jaren negentig en het is sinds 1997 een standaard. Kenmerkend is dat de UML-modellen een grafische weergave zijn van bepaalde aspecten van het informatiesysteem.
+Algemeen.
+UML is een modelleertaal die breed gedragen wordt, wat te zien is aan het feit dat in de jaren negentig van de twintigste eeuw er een UML-consortium werd opgericht met als deelnemers onder andere de volgende bekende organisaties: Rational, DEC, IBM, ObjectTime, Oracle, HP en Texas Instruments. Dit consortium heeft de UML opgesteld die binnen de Object Management Group (OMG) als standaard aangenomen is.
+Met UML kunnen niet alleen beschrijvingen worden gemaakt van statische verschijnselen, maar ook van dynamische processen. UML is een veelzijdig instrument dat in verschillende fasen van de systeembouw kan worden toegepast. Een van de krachtige aspecten van UML is dat er op relatief eenvoudige wijze meta-beschrijvingen kunnen worden gemaakt.
+In tegenstelling tot wat vaak wordt gedacht, is UML zelf geen methode, maar een notatiewijze die bij verschillende methodes kan worden gebruikt. Een methode die gebruikmaakt van UML is RUP (Rational Unified Proces).
+Object Constraint Language (OCL) is een declaratieve taal waarmee in UML diverse regels, condities en beperkingen kunnen worden aangegeven.
+Er bestaan allerlei programma's om UML-diagrammen te modelleren. Voorbeelden hiervan zijn Rational Software, Microsoft Visio, StarUML, CannonSketch en TaskSketch.
+Geschiedenis.
+De auteurs van de UML Grady Booch, James Rumbaugh en Ivar Jacobson worden ook wel de "three amigo's" genoemd. Ze hadden elk hun taal maar hebben deze gestandaardiseerd in UML. Booch had Booch 95, Rumbaugh had Object Modelling Technique (OMT) en Jacobson had Object Oriented Software Engineering (OOSE).
+Overzicht van de ontwikkeling tot de UML in de afgelopen decennia
+Sinds 1997 bestaat er een standaard voor UML. Kenmerkend is dat de UML-modellen een grafische weergave zijn van bepaalde aspecten van het informatiesysteem. Er zijn verschillende versies UML. De eerste versie was 1.0. Vervolgens waren er verschillende subversies. 1.1, 1.2 tot 1.5. Vervolgens kwam versie 2.0.
+UML-diagrammen.
+Alle diagrammen kunnen nota's bevatten. Dit wordt voorgesteld door een rechthoek met een ezelsoortje aan de rechterkant. Alle elementen kunnen een stereotype (speciale betekenis) hebben. vb. «include»
+Er kunnen tags gebruikt worden. Dit is een speciale waarde die een element heeft. vb
+Een element kan een beperking hebben, Deze zet men tussen accolades. vb.
+Het verschil tussen associaties, aggregaties en composities.
+Het verschil tussen aggregatie, compositie en associatie
+Een voorbeeld: bekijk de figuur hiernaast. Stel dat we 4 klassen hebben: Schip, Vloot, Motor en Land. Een Vloot heeft enkel maar zin om te bestaan wanneer er Schepen in zitten. Een Vloot heeft daarom een aggregatie met Schip. Wanneer een Vloot opgeheven wordt hoeft dit immers niet te betekenen dat de Schepen mee moeten verdwijnen. Een vloot heeft verder een bi-directionele associatie met Land. Elk Land kan meer dan 1 Vloot hebben, een Vloot behoort slechts tot één land. Vandaar de respectievelijke multipliciteiten * en 1. Een Schip heeft een Motor. Hier wordt een compositie gebruikt. Dit betekent dat er geen Motor kan bestaan, zonder dat deze in context van een Schip moet bekeken worden. Wanneer het Schip weg is, is de bijbehorende Motor dat ook.
+Objectendiagram (object diagram).
+Het objectdiagram geeft de objecten binnen een applicatie of systeem in een soort verzameling. Objecten zijn instanties van klassen. In een object hebben de attributen een bepaalde waarde op een bepaald tijdstip. Een object heeft een unieke identiteit. De naam van een object wordt onderlijnd.
+Componentendiagram (component diagram).
+Het componentendiagram laat de verdeling van het systeem in componenten zien alsook en vooral hun onderlinge relaties of samenwerking. Elke component vormt één of meerdere klassen.
+Gebruiksdiagram (deployment diagram).
+Het gebruiksdiagram toont het gebruik van de hardwarecomponenten binnen een systeemconfiguratie.
+Use Case-diagram.
+Het Use case diagram toont de actoren en de gebruikersfunctie van het systeem. Een algemeen Use Case-diagram is een tekening. Een gedetailleerde Use Case is een tekst die een vaste structuur heeft. Het is een dynamisch diagram.
+Collaboratiediagram (collaboration diagram/ communicatiediagram).
+Het toepassingsdiagram toont hoe het systeem gebruikt gaat worden, welke handelingen ermee moeten worden verricht. Er wordt getoond welke verantwoordelijkheden (berichten/ methoden) worden verstuurd over de associatie.
+Volgordediagram/sequentiediagram (sequence diagram).
+Het volgordediagram geeft de interacties weer tussen verschillende objecten die een bepaalde functionaliteit (of een deel ervan) implementeren. De tijdsvolgorde staat centraal in het volgordediagram. Ook wel bekend als een sequentiediagram.
+Activiteitendiagram (activity diagram).
+Het activiteitendiagram laat de toestanden van het systeem zien gedurende het gebruik ervan en hoe de verschillende toestanden in elkaar overlopen.
+Correlatiediagram.
+Het correlatiediagram stelt de samenwerking centraal tussen objecten en hun gestructureerde organisatie.
+Toestanddiagram (state diagram).
+Het toestand- of statechartdiagram laat de toestand zien waarin een object zich kan bevinden tijdens zijn bestaan in het systeem.
+Ook de overgangen naar toestanden, de events en activiteiten die veranderingen teweegbrengen in de toestanden komen worden weergegeven.

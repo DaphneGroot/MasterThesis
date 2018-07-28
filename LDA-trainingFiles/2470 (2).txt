@@ -1,0 +1,23 @@
+Natuurlijk getal.
+Een natuurlijk getal is een getal dat het resultaat is van een telling van een eindig aantal dingen, dus een van de getallen formula_1 De verzameling natuurlijke getallen wordt aangegeven met het symbool formula_2. Er is geen overeenstemming of het getal 0 bij de natuurlijke getallen hoort. In de traditionele definitie beginnen de natuurlijke getallen bij 1 - van daaraf begint men immers te tellen -, maar vanaf de negentiende eeuw ziet men de definitie opduiken die 0 wel tot de natuurlijke getallen rekent (zie geschiedenis). In de wiskunde wordt tegenwoordig vrij algemeen het getal 0 tot de natuurlijke getallen gerekend.
+Als de verzameling van de natuurlijke getallen wordt aangevuld met de negatieve getallen formula_3, ontstaat de verzameling van de gehele getallen, aangeduid door het symbool formula_4. De natuurlijke getallen vormen dus een strikte deelverzameling van de verzameling van de gehele getallen: formula_5
+Getallen in de vorm "n + n" (of "2n"), waarbij "n" behoort tot formula_2, noemt men even; dit is de verzameling. De overige getallen in formula_2 noemt men oneven; dit is de verzameling. Oneven getallen kunnen voor een zeker natuurlijk getal "n" geschreven worden als "2n + 1".
+Alle verzamelingen waarvoor een bijectie bestaat met formula_2, worden aftelbaar oneindige verzamelingen genoemd. Dit is onder meer het geval voor de verzameling van de even getallen, voor de oneven getallen en voor de priemgetallen; alle drie zijn dit deelverzamelingen van formula_2.
+Getallenverzamelingen zijn een belangrijk begrip in de tak van de wiskunde die getaltheorie wordt genoemd.
+Definiëring.
+Natuurlijke getallen kunnen worden gebruikt om objecten, bijvoorbeeld appels, te tellen.
+In de wiskunde zijn verschillende pogingen gedaan de natuurlijke getallen preciezer te definiëren, Een van de eerste pogingen is van Peano.
+Axioma's van Peano.
+Op dit laatste axioma steunt het bewijs met behulp van volledige inductie.
+Voor elk predicaat formula_30 waarin formula_20 optreedt, stelt dit een axioma voor.
+Van later datum is de definitie van de natuurlijke getallen met behulp van verzamelingen.
+Binnen de verzamelingenleer.
+De kleinste verzameling die hieraan voldoet is formula_38.
+Geschiedenis.
+De natuurlijke getallen ontstonden "op natuurlijke wijze" bij het tellen van voorwerpen. Bijvoorbeeld: "ik heb vier schapen", "hij is de derde zoon". Het getal nul komt hierbij niet voor: er wordt geteld vanaf een.
+De Babyloniërs en ook de Egyptenaren ontwikkelden een systeem met cijfers om getallen voor te stellen. Zo konden ook grote getallen gemakkelijker opgeschreven worden. De Egyptenaren hadden aparte hiërogliefen voor de cijfers 1 t/m 10 en voor alle machten van 10, tot en met 1 miljoen. Op een steen in Karnak komen bijvoorbeeld de getallen 276 (twee "honderden" zeven "tienen" zes "enen") en 4622 voor. Dit dateert van 1500 v.Chr..
+Nog later werd in Babylonië het teken 'nul' toegevoegd, als plaatsvervangend teken voor bijvoorbeeld geen "honderdtallen". Zo waren de tekens voor "honderdtallen", "tientallen"... niet meer nodig; de "positie" van het cijfer duidt aan of er "honderdtallen", "tientallen"... worden bedoeld. Zij beschouwden 0 zelf echter niet als een natuurlijk getal. De Babyloniërs gebruikten vanaf ca. 450 v.Chr. wel een geschreven teken voor een positie van een nul, maar niet wanneer dit als eerste of als laatste teken in een getal voorkwam.
+De Maya-beschaving gebruikte 0 wel als apart getal vanaf 1e eeuw v.Chr.
+De getaltheorie, oorspronkelijk de studie van natuurlijke getallen, begon met de Griekse filosofen Pythagoras en Archimedes. Ook in Indië, China en Midden-Amerika werden onafhankelijk daarvan rond dezelfde tijd vergelijkbare studies gemaakt.
+De moderne beschouwing van de natuurlijke getallen komt van de Indische wiskundige Brahmagupta in 628 na Chr. Pas meer dan vijf eeuwen later aanvaardden ook de Europese wiskundigen het idee dat 0 een apart getal is, meestal echter niet als "natuurlijk" getal.
+In de 19e eeuw formuleerde Peano een axiomatische definitie van de natuurlijke getallen, gebaseerd op de verzamelingenleer, waarin hij het getal 0 ook tot de natuurlijke getallen liet behoren. Dat neemt niet weg dat bij het tellen vanaf 1 geteld wordt. Echter bij gebruik van de natuurlijke getallen als index is het soms handig om als laagste index 0 te nemen.

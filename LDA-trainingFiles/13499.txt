@@ -1,0 +1,8 @@
+Web Services Description Language.
+Web Service Description Language, of kortweg WSDL is een XML-taal waarmee de interfaces van webservices kunnen worden beschreven. Over het algemeen zullen deze WSDL-documenten voornamelijk door applicaties gelezen worden en beschikbaar zijn voor aanroepende applicaties.
+De binding-style en use van de WSDL.
+De WSDL binding beschrijft hoe de service gebruikmaakt van het berichtenprotocol, met name SOAP. Een WSDL SOAP binding kent 2 stijlsoorten: RPC (Remote Procedure Call) of Document. Het gebruik van een SOAP binding is of 'encoded' of 'literal'.
+Dit uit zich in de structuur van het te verzenden SOAP-bericht. Het is essentieel om te weten met welk soort WSDL-bestand je aan het werk bent. Sommige technieken, zoals JAX-WS ondersteunen alleen document/literal en niet rpc/encoded. En andere technieken vice versa.
+WS-I (Web Services Interoperability) Basic Profile schrijft het gebruik van document/literal voor.
+rpc/encoded wordt beschouwd als verouderd en dient niet meer gebruikt te worden.
+Een WSDL-document hoeft niet manueel opgesteld te worden. Er zijn voor bijna elke programmeertaal hulpmiddelen aanwezig waarmee WSDL-documenten op eenvoudige wijze gegenereerd kunnen worden, om ze zodoende via SOAP aanroepbaar te maken.

@@ -1,0 +1,10 @@
+Stereo-isomeer.
+Stereo-isomeren zijn isomeren die dezelfde chemische formule en volgorde van atomen hebben, maar met een andere ruimtelijke structuur.
+Cis-trans-isomerie.
+Verbinding I heet cis-1,2-dichlooretheen. Verbinding II heet trans-1,2-dichlooretheen.
+Cis-trans-isomerie doet zich voor bij verbindingen met een dubbele binding tussen koolstofatomen of cyclische (ringvormige) verbindingen, doordat in beide gevallen de koolstof-koolstofbinding in tegenstelling tot een "gewone" enkele binding niet vrij kan roteren. Overeenkomstige groepen aan weerszijden van een dubbele binding of zijgroepen van de ring kunnen zich aan dezelfde kant (de cisvorm) of aan de tegenoverliggende kant (de transvorm) van het molecuul bevinden.
+Optische isomerie.
+Deze moleculen zijn enantiomeren, want ze zijn elkaars spiegelbeeld.
+Optische isomerie of enantiomerie is een vorm van stereo-isomerie die optreedt zodra een molecuul een asymmetrisch (chiraal) centrum bevat. Zijn de moleculen elkaars spiegelbeeld, dan worden dit enantiomeren genoemd. Zijn de moleculen niet elkaars spiegelbeeld dan wordt gesproken van diastereomeren.
+Biochemie.
+De complexe processen in levende organismen zijn vaak gebaseerd op een specifieke stereo-isomeer. De verdeling tussen de verschillende isomeren is zodoende niet willekeurig.

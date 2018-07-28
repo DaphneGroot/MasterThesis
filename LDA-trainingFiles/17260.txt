@@ -1,0 +1,12 @@
+Waarheidstabel.
+Een waarheidstabel of waarheidstafel is een wiskundige tabel die in het begin van de 20e eeuw werd ontwikkeld door Emil Leon Post. De tabel wordt in de logica, en dan met name in de propositielogica, gebruikt om te beslissen of een logische uitdrukking al dan niet waar is en of een argument al dan niet valide is. Waarheidstabellen kunnen worden gebruikt om de waarheidwaarden weer te geven van logische operatoren (zoals "en", "of", "niet" en "als...dan") bij alle combinaties van waarden.
+In waarheidstabellen kan men de waarheid of onwaarheid van een propositie op verschillende manieren aanduiden. Een manier is om simpelweg "waar" of "onwaar" te schrijven maar men gebruikt meestal een T voor true (Engels voor waar) en F voor false (onwaar). Ook gebruikt men de 1 voor waar en 0 voor onwaar.
+Een nadeel van waarheidstabellen is dat bij samengestelde proposities met veel variabelen de tabel al vrij snel te groot wordt. De grootte van de tabel groeit exponentieel in het aantal variabelen: zo heeft een tabel met 8 variabelen (A, B, C t/m H) 28 rijen. Een alternatief voor de waarheidstabel is het Karnaugh-diagram. Een andere manier om een stelling te onderzoeken is met behulp van een semantisch tableau.
+Logische negatie.
+De negatie (¬) heeft 1 argument. De teruggegeven waarde is altijd het tegengestelde van de waarde van het argument. Men spreekt (¬ P) uit als "niet P".
+Logische conjunctie.
+De logische conjunctie (ʌ) heeft twee argumenten. Stel dat deze A en B heten. A en B kunnen allebei ofwel waar (T, true) ofwel onwaar (F, false) zijn. Voor elke combinatie geeft "en" een waarheidswaarde terug: als A en B beide waar zijn is dit T, anders F. Men spreekt (PʌQ) uit als "P en Q".
+Logische implicatie.
+De logische implicatie (→) heeft twee argumenten. De teruggegeven waarde is enkel T als het eerste argument F is, en als beide argumenten T zijn. Men spreekt (P → Q) uit als "als P dan Q".
+Logische equivalentie.
+De logische equivalentie (↔) heeft twee argumenten. De teruggegeven waarde is T als beide argumenten dezelfde waarde hebben. Men spreekt (P ↔ Q) uit als "P dan en slechts dan als Q".

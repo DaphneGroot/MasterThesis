@@ -1,0 +1,7 @@
+Bogoljoebovgambiet.
+Het Bogoljoebovgambiet is in de opening van een schaakpartij de naam van een tweetal varianten, een in de Nimzowitschverdediging en een in het aangenomen damegambiet.
+Het Bogoljoebovgambiet in de Nimzowitschverdediging.
+Van het Bogoljoebovgambiet in de Nimzowitschverdediging zijn de beginzetten 1.e4 Pc6 2.d4 d5 3.Pc3. Als zwart de pion op e4 slaat is het niet wits bedoeling deze direct terug te slaan, maar in plaats daarvan met 4.d5 het zwarte paard naar een ongunstige plek te dwingen, zoals 4....Pe5, waarna wit met 5.Dd4 de zwarte speler een ontwikkelingsachterstand bezorgt. Dit gambiet is ingedeeld bij de halfopen spelen, en valt onder ECO-code B00, de koningspionopeningen.
+De opening 1.e4 Pc6 die op naam van Aaron Nimzowitsch staat is geanalyseerd door Efim Bogoljoebov. Hij heeft nog een gambiet in deze opening gevonden, maar daarmee zijn slechts weinig partijen gespeeld: 1.e4 Pc6 2.d4 d5 3.Pc3 de 4.d5 Pb8 5.f3, het Richtergambiet. Ook dit gambiet valt onder ECO-code B00. Het is ingedeeld bij de halfopen spelen.
+De Bogoljoebov-verdediging in het aangenomen damegambiet.
+In het aangenomen damegambiet is de Bogoljoebov-verdediging de zet 5.e4 in de reeks 1.d4 d5 2.c4 dc 3.Pf3 Pf6 4.Pc3 a6 5.e4. De verdediging valt onder ECO-code D24, het aangenomen damegambiet, en het is ingedeeld bij de gesloten spelen.

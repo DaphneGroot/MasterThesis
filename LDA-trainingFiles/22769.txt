@@ -1,0 +1,13 @@
+Java-applet.
+Een Java-applet is een in de programmeertaal Java geschreven applet (klein programma dat op een client draait) dat in een webbrowser draait. Java-applets werden in 1995 geïntroduceerd door Sun Microsystems, de ontwikkelaar van de programmeertaal Java. Java-applets worden gebruikt om de mogelijkheden van een webpagina uit te breiden met die van de programmeertaal Java.
+Inleiding.
+In de begintijd werden Java-applets veel gebruikt om gecompliceerde grafische zaken aan webpagina's toe te voegen. Dit gebruik van Java-applets is echter grotendeels overgenomen door Adobe Flash. Java-applets worden nu nog voornamelijk gebruikt voor illustratie en demonstratie van wetenschappelijke principes en voor IRC-chat in de browser.
+Het gebruik van Java-applets vereist installatie van een Java Virtual Machine (JVM), omdat Java een bytecode-interpreter nodig heeft. Dat geeft tegelijk het nadeel aan van het gebruik van java-applets ten opzichte van Macromedia Flash: het opstarten van de JVM kost meer tijd dan het opstarten van Flash en eenmaal opgestart neemt de JVM op de computer ook meer geheugen in beslag. De JVM wordt pas afgesloten als de browser wordt afgesloten. Hierdoor zal een tweede applet veel sneller laden.
+Naast de opkomst van Macromedia Flash hebben ook de toenemende mogelijkheden van HTML (door ontwikkelingen in HTML scripting en Cascading Style Sheets) bijgedragen tot een verminderd gebruik van Java-applets.
+Een Java-applet kan behalve in een browser ook in de Appletviewer van Sun Microsystems worden bekeken. Deze viewer is echter vooral bedoeld voor het ontwikkelen van Java-applets.
+Mogelijkheden.
+Omdat Java een volledige programmeertaal is, zijn de mogelijkheden van een Java-applet veel groter dan die van HTML. Wel is het zo dat de webbrowser beperkingen oplegt aan de Java-applets in webpagina's, met name om te voorkomen dat iemand door een kwaadaardig applet de bestanden op de computer van een bezoeker kan aanpassen.
+Java-applets kunnen wel communiceren met de webbrowser, bijvoorbeeld door webpagina's te openen. Ook kunnen ze met JavaScript communiceren, en vice versa. Verschillende Java-applets in één pagina kunnen ook met elkaar communiceren.
+Applets kunnen buiten de browser om socket-verbindingen over TCP aanmaken. Hierdoor kunnen ze zelfstandig communiceren met bijvoorbeeld FTP- en IRC-servers. Met dergelijke applets wordt het mogelijk om in de webbrowser ook deze protocollen te gebruiken.
+Servlets.
+De tegenhanger van een applet is een servlet, dat is een programma dat op de webserver draait. Kenmerkend verschil is echter dat de uitvoer van een servlet HTML is, zodat er op de clientcomputer geen extra programmatuur hoeft te worden geïnstalleerd.

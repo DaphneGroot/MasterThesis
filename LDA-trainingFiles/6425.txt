@@ -1,0 +1,7 @@
+Tesla (eenheid).
+De tesla (T) is de SI-eenheid van magnetische fluxdichtheid en magnetische polarisatie, vernoemd naar Nikola Tesla.
+De gauss (G) en de gamma zijn verouderd, ze behoren niet tot het SI-stelsel der eenheden. De weber (Wb) behoort wel tot het SI-stelsel.
+Het magneetveld van de aarde varieert tussen 0,000 03 en 0,000 07 T (0,3 tot 0,7 gauss). De vrij sterke permanente magneten in luidsprekers bereiken een veldsterkte van ongeveer 0,2 T. De magneten van MRI-scanners in ziekenhuizen hebben veldsterkten van 1,5 tot 7 tesla.
+Voor natuurkundig onderzoek worden magneten gebruikt met een stationair magnetisch veld tot 22 tesla. Deze magneten bestaan uit een elektrische spoel met windingen van supergeleidend draad waardoor een elektrische stroom loopt (meer dan 10 ampère). De magneten in NMR-spectrometers zijn zo precies, dat het apparaat moet worden afgeschermd voor het aardmagnetisch veld, dat een miljoen keer zo zwak is, om verstoringen te voorkomen.
+De sterkste door mensen gemaakte magneten (2003) zijn ongeveer 100 tesla. Dit zijn echter pulsmagneten, waarbij het hoge veld minder dan 1 seconde in stand blijft. Het probleem om hogere velden te maken is de benodigde koeling van de spoel (door de weerstand in de draden ontstaat veel warmte). Voor supergeleidende spoelen geldt dat deze bij te hoge magneetvelden plotseling weer gewone geleiders met weerstand worden.
+In de astronomie worden objecten waargenomen waarvan wordt vermoed dat ze magneetvelden in de orde van grootte van 1 gigatesla genereren. Deze objecten worden magnetars genoemd.

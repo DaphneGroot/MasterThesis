@@ -1,0 +1,4 @@
+Freeware.
+Freeware is een gangbare benaming voor software waarvan de auteur een licentie heeft verleend tot gebruik en verdere verspreiding "in ongewijzigde vorm", zonder daarvoor vergoeding te vragen. Hierdoor is deze software gratis te gebruiken.
+In tegenstelling tot publicdomainsoftware wordt freeware volledig beschermd door auteursrechten. In tegenstelling tot vrije software is het niet toegestaan de software te verbeteren of aan te passen, verspreiden of verkopen. Bij vrije software mag dit wel en is de broncode beschikbaar als onderdeel van de licentie.
+Het Engelse woord "free" betekent in de context van freeware dus "gratis" en niet "vrij."

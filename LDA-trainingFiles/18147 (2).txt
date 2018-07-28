@@ -1,0 +1,7 @@
+Deelbaar.
+Een (geheel) getal is deelbaar door een ander (geheel) getal als bij de deling de rest 0 is.
+Zo is 125 deelbaar door 5, want 125: 5 = 25 rest 0
+en is 128 niet deelbaar door 7, want 128: 7 = 18 rest 2...
+Kenmerken van deelbaarheid.
+Grote getallen kan men ook testen op deelbaarheid door 7 of 13 door de cijfers in groepen van 3 afwisselend op te tellen en af te trekken, en het resultaat te testen op deelbaarheid door 7 of 13. Zo is 2634717358 deelbaar door zowel 7 als 13, want 2 - 634 + 717 - 358 = -273 en 273 is zowel door 7 als door 13 deelbaar. Deze test berust op de gelijkheid 7 × 11 × 13=1001.
+Met behulp van deze regels kan men desgewenst zelf deelbaarheidsregels voor andere talstelsels dan het tientallige bepalen. Zo is bijvoorbeeld een getal deelbaar door 7, als de som van de cijfers in het octale talstelsel deelbaar is door 7 (naar analogie met deelbaarheid door 9 en het decimale talstelsel).

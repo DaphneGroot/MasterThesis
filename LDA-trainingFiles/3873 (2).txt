@@ -1,0 +1,48 @@
+Telefonie.
+Nederlands minister-president Mark Rutte aan de telefoon
+Telefonie of telefoon (Grieks: τήλε (tèle), "ver", en φωνή (phónè), "geluid") is een telecommunicatiesysteem voor gesprekken tussen personen die zich buiten gehoorbereik van elkaar bevinden. Hiervoor hebben alle gesprekspartners een telefoontoestel nodig en moet tussen die toestellen een verbinding zijn. Die verbinding kan een directe draadverbinding zijn, bijvoorbeeld voor een eenvoudige huistelefoon, maar tegenwoordig zijn de meeste telefoontoestellen aangesloten op het wereldwijde netwerk van telefooncentrales en zijn veel verbindingen draadloos.
+Algemene werking van de telefoon.
+In het telefoontoestel wordt het geluid (luchttrillingen) door middel van een microfoon omgezet in een elektrische stroom (elektrisch signaal). Het signaal wordt door kabels of een radioverbinding naar een telefooncentrale overgebracht. Van daaruit wordt een verbinding gemaakt met het toestel van de gebelde persoon, of met een volgende telefooncentrale als het een interlokaal gesprek betreft. De telefoon van de ontvanger geeft een signaal, en als de ontvanger de oproep beantwoordt, wordt in de centrale een verbinding gelegd waardoor beide partijen met elkaar kunnen spreken.
+Bij het overgrote deel van de vaste telefoontoestellen in de westerse wereld wordt deze verbinding verbroken als men op een van beide telefoons de hoorn op de haak legt, of (als de telefoon geen haak heeft) op de afsluittoets drukt.
+Elke aansluiting op het telefoonnet krijgt een uniek telefoonnummer. De telefooncentrale kan daardoor een aansluiting met elke willekeurige andere aansluiting verbinden.
+Ontwikkelingen van 1900 tot 1980.
+100-jarige geschiedenis van de telefoon, Polygoonjournaal 1976
+Kiezen van een nummer.
+In 1915 waren er in Nederland 75.000 abonnees op het net aangesloten. De "Naamlijst voor den Telefoondienst" stond in een boek van 754 pagina's. Voor elke telefoonaansluiting moest een apart aderpaar naar de centrale gelegd worden. Voor interlokale gesprekken was het aantal verbindingen beperkt tot het aantal aderparen dat tussen twee centrales lag.
+Het tot stand brengen van een verbinding gebeurde met de hand. Op sommige plaatsen heeft dit tot in de jaren vijftig van de twintigste eeuw geduurd. Er werd naar een telefooncentrale gebeld, waar een telefonist(e) met de hand de verbinding tot stand bracht.
+Overgang naar automatische centrale.
+Hierna deed de elektromechanische schakelaar (ook "kiezer" genoemd) zijn intrede in de telefooncentrale. Vanaf dat moment spreekt men van "automatische centrales": de abonnee brengt de gewenste verbinding tot stand met behulp van een kiesschijf, die stroomimpulsen naar de kiezer in de centrale stuurt. In Nederland werd de eerste automatische centrale in 1925 in Haarlem in gebruik genomen. In 1962 waren alle telefooncentrales in Nederland geautomatiseerd met als laatste het Groningse dorp Warffum. Na Zwitserland was Nederland het tweede land dat volledig geautomatiseerd was.
+Alleen toepasbaar voor spraak.
+De bandbreedte van traditionele telefoonkabels was uitsluitend toegespitst op het (soms amper) verstaanbaar doorgeven van menselijke spraak, waarbij het dan in de regel niet goed mogelijk was verschillende stemmen van elkaar te onderscheiden. Door het wegvallen van hoge tonen werden vrouwen al te vaak met "meneer" aangesproken. Het viel in het begin dan ook niet mee om een snellere datacommunicatie dan 300 bits per seconde (ruim typsnelheid) over dit netwerk op te zetten. Andere vormen dan spraak waren dan ook nauwelijks mogelijk.
+Ontwikkelingen vanaf 1980 tot nu.
+Vanaf 1990 zijn de ontwikkelingen in de telefonie in een sneltreinvaart gegaan.
+Mobiele telefoon.
+Vanaf de jaren 80 ontwikkelde zich parallel aan het bestaande netwerk een nieuwe manier van telefoneren: de mobiele telefoon. Met een mobiele telefoon waren consumenten niet meer gedwongen om te bellen vanaf een vast punt, maar waren zij vrijwel overal bereikbaar. Men begon ook te spreken over het vaste netwerk en het mobiele netwerk, in plaats van over het telefoonnetwerk.
+Van een elektromechanische naar een elekronische centrale.
+Tegenwoordig wordt nagenoeg elke telefoonverbinding door een (computergestuurde) elektronische telefooncentrale tot stand gebracht. Gelijktijdig met de overgang van de elektromechanische naar de elektronische centrale heeft de overgang van de draaiende kiesschijf naar het drukknopkiezen plaatsgevonden. Bij drukknopkiezen stuurt een telefoontoestel verschillende toontjes naar de centrale.
+Digitalisering van het vaste net.
+Door de opkomst van de elektronica werd het mogelijk om de interlokale verbindingen (tussen twee centrales) uit te breiden zonder het aantal kabels te vermeerderen. De grote voordelen van digitale boven analoge signalen in het telefoonsysteem waren dat het veel gemakkelijker wordt om de verbinding te schakelen, dat er minder kwaliteitsverlies optreedt en dat meer verbindingen over één kabel gevoerd kunnen worden.
+Oorspronkelijk gebeurde dit door middel van het multiplexen van meerdere frequentiebanden op een kabel, later door het digitaliseren van de verbindingen. Vervolgens werd ook de verbinding van de telefooncentrale naar de wijkcentrale gedigitaliseerd.
+ISDN en ADSL.
+Door de opkomst van de digitalisering, ontstonden er ook nieuwe gebruiksmogelijkheden voor consumenten. Steeds meer consumenten kregen in deze jaren beschikking over internet. Dit verliep via een relatief trage inbelverbinding, waarbij werd ingebeld op een telefoonnummer. Tijdens het internetten kon de telefoon niet gebruikt worden voor een gesprek.
+ISDN bood hiervoor een oplossing. Naast het feit dat er meer data over deze lijn kon gaan, werd het mogelijk om zowel te telefoneren als te internetten. Bij gebruik van ISDN door de afnemer is de verbinding tussen de wijkcentrale en het telefoontoestel ook digitaal. De enige analoge schakel in de verbinding is het stuk van de microfoon in de hoorn tot de DA-converter in het telefoontoestel zelf.
+Het nadeel was echter, dat er nu 2 lijnen nodig waren: een telefoonlijn, en een ISDN-lijn. Met ADSL bleek dit niet meer nodig, omdat ADSL via het traditionele kopernetwerk verloopt. Bij gebruik van ADSL door de afnemer is alleen het dataverkeer (internet) digitaal; het audiosignaal is nog steeds analoog.
+Telefoneren via de coaxkabel.
+Er is ook een techniek ontwikkeld die gebruikmaakt van het bestaande coaxkabelnetwerk voor het distribueren van spraak en data. De telefoniesignalen worden digitaal verzonden, samen met de beeldinformatie van de radio- en televisiekanalen. Het bestaande coaxnetwerk leent zich goed voor het opwaarderen tot hogere snelheden. Hierdoor werd het mogelijk om te telefoneren via coax.
+Vervanging van traditionele telefoonlijn door combinatielijn.
+In het midden van de jaren negentig waren er zeven miljoen vaste aansluitingen in Nederland. Het totaal aantal aansluitingen bleef daarna stabiel. Het percentage analoge aansluitingen nam echter sterk af, en het aantal digitale vaste aansluitingen (inclusief internet) nam sterk toe. In de 2e helft van 2009
+In deze periode is er een grote concurrentie tussen de aanbieders van glasvezel, DSL, en coax, waarbij de verschillende partijen steeds met verbeteringen komen om de snelheid van het netwerk te verhogen.
+Glasvezel.
+Met de digitalisering van het telefoonnetwerk konden voor het verkeer tussen telefooncentrales glasvezelkabels werden gebruikt. Glasvezels zijn haardunne, buigzame vezeltjes van zeer zuiver en helder glas. Met glasvezel zijn veel hogere data-snelheden mogelijk dan over het traditionele kopernetwerk.
+Omdat de vraag naar hoge capaciteiten toeneemt, worden er, onder meer in veel nieuwbouwwijken, initiatieven ontplooid om glasvezelkabel ook tot in de meterkast te leggen. Dit staat bekend als "fiber to the home".
+Internetbellen via VoIP.
+Door de opkomst van internet werd het mogelijk om te telefoneren via datzelfde internet. Deze techniek heet Voice over IP ofwel VoIP. Hierbij wordt de traditioneel gescheiden netwerken van spraak en data tot één netwerk samengevoegd. Een van de bekendste aanbieders van VoIP is Skype. Een deel van deze diensten brengt geen kosten boven op het internetabonnement met zich mee. Voor een deel van de diensten wordt uitsluitend een vast maandbedrag in rekening gebracht. Sommige providers rekenen verbindingskosten per gesprek en/of een tarief per seconde of minuut.
+Verbindingstechnieken.
+Er zijn meerdere technieken en elementen beschikbaar, die in meer of mindere mate gebruikt worden in de communicatie via de telefoon.
+Telefoonkabel in Nederland. De kleuren van de mantel geven aan hoe de kabel gelegd moet worden (links de centrale, rechts de abonnee). Zou men een kabel met veel aders andersom leggen, dan moeten de aders bij de aansluiting gecompliceerde kruisingen maken. De aders zelf zijn op deze afbeelding niet zichtbaar.
+Samengaan van spraak- en dataoverdracht.
+Het begrip spraakoverdracht via telefoon is niet langer eenduidig: door de digitalisering is het overbrengen van spraak niet meer te onderscheiden van dataoverdracht. Beeld, data, spraak: het kan allemaal via hetzelfde medium.
+Telefooncirkel.
+Een telefooncirkel is een reeks personen waarbij elk de volgende belt, bijvoorbeeld bij senioren ter controle of er niets aan de hand is, of bij scholieren om vrije uren door te geven.
+Gratis communicatie.
+Wanneer er geen verbinding tot stand komt ("missed call") zijn er voor de beller vaak geen kosten. Het overgaan van de telefoon en/of de informatie die in het toestel wordt opgeslagen (zoals vaak bij een mobiele telefoon: wie er gebeld heeft en wanneer) kunnen dan zorgen voor basale gratis communicatie, volgens tevoren gemaakte afspraken.

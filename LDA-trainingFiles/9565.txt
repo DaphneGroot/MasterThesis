@@ -1,0 +1,7 @@
+Lekstroom.
+Elk isolatiemateriaal onder spanning laat wel iets van elektrische stroom door, hoe gering ook: dat is de lekstroom.
+De kwaliteit van een isolatiemateriaal duiden we onder meer aan door de isolatieweerstand, die een maat is voor de lekstroom die we kunnen verwachten. Deze kan tot vele gigaohm gaan.
+De lucht is een heel goede isolator, met een haast oneindige isolatieweerstand. Door vocht of vervuiling kan deze echter dalen, waardoor de lekstroom stijgt. Daarom wordt bijvoorbeeld bij hoogspanningsisolators de kruipweg door middel van cirkelvormige rillen aan de onderzijde doelbewust verlengd.
+Lekstromen komen met name voor in condensators, batterijen, oplaadbare batterijen, loodaccu's, transformators, isolators, halfgeleiders, kabels en dergelijke.
+Bij een elektrisch apparaat dat op het lichtnet is aangesloten maar dat niet geaard is, zal de behuizing vaak enige spanning voeren.
+Dit is als een trilling voelbaar door met de hand zachtjes over een metalen onderdeel van het apparaat te strijken.

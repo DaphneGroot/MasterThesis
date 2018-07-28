@@ -1,0 +1,7 @@
+	MOEILIJKSTE OPGAVE
+	'Eigenlijk was het havo-examen natuurkunde wel makkelijk', vindt Hiltje Popma (18). 'Behalve opdracht 8, daar snapte ik helemaal niets van.' Haar klasgenoten vertellen hetzelfde, als ze naderhand het examen op het schoolplein bespreken. 'Ik had nog nooit gehoord van een geaard punt met een voltage van min 5', zegt Patrick de Vos (16).
+In opdracht 8 gaat het om een elektrische schakeling waarin drie weerstanden zijn opgenomen. De schakeling is een 'verwerker': de punten A en B zijn ingangen, punt E is de uitgang. De spanning van het punt D in de verwerker is constant -5,0 V.
+In situatie 1 wordt alleen op ingang A een hoog signaal van +5,0 V gezet. Op de punten B en E wordt niets aangesloten. De spanning van punt E, en de spanning van punt C, blijkt dan -1,0 V te zijn. De leerlingen moesten onder meer de stroomsterkte berekenen die door de weerstanden gaan.
+Ton Bouman, natuurkundedocent, kan zich wel voorstellen dat zijn leerlingen juist deze vraag zo moeilijk vonden. 'Vooral het begrip spanning is betrekkelijk nieuw. Aan negatieve spaning is in de voorbereiding weinig aandacht besteed. Het is maar goed dat 8 de laatste vraag van het examen was. Hierdoor konden de leerlingen eerst rustig de andere vragen maken, alvorens in paniek te raken', aldus de docent.
+JW
+

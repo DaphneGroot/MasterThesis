@@ -1,0 +1,10 @@
+Exponent.
+In de wiskunde is een exponent (van het Latijnse "exponere": buiten plaatsen) het aantal malen dat het grondtal in een machtsverheffing met zichzelf vermenigvuldigd wordt om het resultaat te verkrijgen.
+Voorbeeld: formula_1
+Hierin is 4 de exponent. Deze wordt doorgaans genoteerd in superscript rechts naast het grondtal.
+Logaritme.
+De wiskundige functie die als 'uitkomst' de exponent heeft is de logaritme.
+Voorbeeld: formula_4.
+formula_5 is dus het getal "x" waarvoor geldt: als 7 verheven wordt tot de macht "x" dan is het resultaat 2401.
+Buiten de wiskunde.
+Buiten de wiskunde verstaat men onder een 'exponent' een vooraanstaand vertegenwoordiger van een bepaalde stroming.

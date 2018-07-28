@@ -1,0 +1,27 @@
+Parabool (wiskunde).
+Een parabool, van het Grieks παραβολή, "vergelijking", is een vlakke tweedegraadskromme die de meetkundige plaats is van punten met dezelfde afstand tot een gegeven lijn, de richtlijn, en een gegeven punt, het brandpunt. De wiskundige vergelijking die een parabool beschrijft, is van de tweede graad. Een parabool kan ook beschouwd worden als een kegelsnede waarvan het snijvlak evenwijdig is met een beschrijvende van de kegel.
+De eenvoudigste vergelijking van een parabool is formula_1. Het brandpunt van deze parabool is het punt (0, 1/4) en de richtlijn is de lijn formula_2.
+Geschiedenis.
+Paraboolpasser ontworpen door Leonardo da Vinci
+Het vroegst bekende werk over kegelsneden is van Menaechmus in de vierde eeuw v.Chr. Hij ontdekte een manier om het probleem van de verdubbeling van de kubus met behulp van parabolen op te lossen. (De oplossing voldoet echter niet aan de eisen voor constructie met passer en liniaal). De oppervlakte omsloten door een parabool en een lijnsegment, het zogenaamde "paraboolsegment", werd in de derde eeuw v.Chr. berekend door Archimedes met de uitputtingsmethode in zijn werk "De kwadratuur van de parabool". De naam "parabool" is afkomstig van Apollonius, die vele eigenschappen van kegelsneden ontdekte. Het was Pappos van Alexandrië die de eigenschap van de parabool met brandpunt en richtlijn ontdekte.
+In het platte vlak.
+Een parabool is de meetkundige plaats van punten die dezelfde afstand formula_3 hebben tot een gegeven lijn formula_4, de richtlijn, en een gegeven punt formula_5, het brandpunt. De parabool is de conflictlijn tussen de richtlijn en het brandpunt.
+De parabool wordt beschreven door een kwadratische vergelijking. Voor een parabool met horizontale richtlijn formula_6 en brandpunt formula_7, die beschreven wordt door de functie formula_8 kan dit als volgt ingezien worden. Er geldt dat de afstand van het punt formula_9 tot het brandpunt gelijk is aan
+en de afstand tot de richtlijn
+In de driedimensionale ruimte.
+De parabool is de doorsnede van een vlak met een kegel, vandaar dat de parabool een kegelsnede is, zie de figuren.
+Cartesiaanse vergelijking.
+Als formula_15 spreken we van een dalparabool, de bolle kant wijst naar beneden. Als formula_16 hebben we te maken met een bergparabool, de bolle kant wijst naar boven.
+De nulpunten van deze parabool worden gegeven door de wortelformule.
+De symmetrieas van de parabool is de lijn: formula_21
+Het minimum of maximum van de parabool is het punt formula_22
+formula_23
+Vergelijking in poolcoördinaten.
+Hierbij is formula_3 de afstand van het brandpunt tot een van de twee punten van de parabool op de y-as.
+Top.
+De coördinaten van de top van een parabool met vergelijking formula_28 zijn
+Als formula_15, bij een dalparabool, dan is dit een minimum; als formula_16, bij een bergparabool, is het een maximum.
+Brandpunt en richtlijn.
+De bijbehorende richtlijn formula_4 heeft als vergelijking formula_36.
+Paraboloïde.
+De driedimensionale figuur die ontstaat wanneer een parabool rond zijn as wordt gewenteld heet een paraboloïde.

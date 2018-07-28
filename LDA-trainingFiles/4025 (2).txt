@@ -1,0 +1,3 @@
+Optische as (optica).
+Positieve lens. A is de optische as.
+In de geometrische optica wordt onder de optische as van een brekend of reflecterend optisch element verstaan de rechte lijn die met de symmetrieas van dat element samenvalt. Bij een lenzenstelsel is de optische as de lijn die gevormd wordt door de optische assen van de afzonderlijke lenselementen. In eenvoudige gevallen kan men de rechte lijn door de krommingsmiddelpunten van de lensoppervlakken als de optische as zien. In bijzonder gevallen, zoals een paraboolspiegel met een offset, hoeft de optische as niet noodzakelijkerwijs met de symmetrieas samen te vallen.

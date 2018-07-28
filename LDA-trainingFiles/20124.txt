@@ -1,0 +1,10 @@
+Burrows-Wheelertransformatie.
+De Burrows-Wheelertransformatie (hieronder ook afgekort als BWT) is een transformatie van een tekenreeks naar een vorm waarin deze gemakkelijker te comprimeren is. De bekendste toepassing van de Burrows-Wheelertransformatie is het programma bzip2.
+De Burrows-Wheelertransformatie verandert de volgorde van de tekens in een tekenreeks, de tekens zelf blijven ongewijzigd. Na de BWT zullen veel tekens aaneengesloten naast elkaar zitten, zodat bijvoorbeeld het RLE-algoritme beter toegepast kan worden. Om een goede compressie te bereiken, moet de tekenreeks minimaal enkele kilobytes omvatten.
+De Burrows-Wheelertransformatie werd uitgevonden in 1983 door David Wheeler en gepubliceerd door M. Burrows en David Wheeler in 1994.
+Algoritme.
+Het opmerkelijke van de Burrows-Wheelertransformatie is dat hij omkeerbaar is; het ongedaan maken van een sortering is op zijn zachtst gezegd opmerkelijk. Toch lukt dit.
+Na het omkeren van ons voorlopig resultaat (nl. "leppasaanis"), krijgen we onze oorspronkelijke tekenreeks "sinaasappel".
+Werkingsprincipe.
+Het doel van BWT is om de tekst zodanig om te werken, dat je veel herhalingen van letters krijgt. De getransformeerde tekst is nog steeds even lang als de oorspronkelijke, maar is wel gemakkelijker te comprimeren. Bepaalde compressiealgoritmes werken namelijk beter op teksten met veel herhalingen van letters.
+Het werken van BWT berust op het feit dat in een natuurlijke taal bepaalde lettercombinaties vaker voorkomen dan andere. Door de transformatie worden de letters gesorteerd op basis van de letterreeks die er op volgt. Bijvoorbeeld, de i in sinaasappel wordt gesorteerd op basis van de letterreeks "naasap...". Zo wordt in het Nederlands de 'c' vaak gevolgd door een 'h'. Dus de letters 'c' in een Nederlandse tekst zullen na een BWT tranformatie vaak achter elkaar staan. Hoe langer de tekst, des te sterker het effect. Als in een publicatie van de bond van groentehandelaren het woord 'sinaasappel' 10x voorkomt, vind je in de getransformeerde tekst alle s-en van dat woord achter elkaar.

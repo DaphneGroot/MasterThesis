@@ -1,0 +1,25 @@
+Mediaan (statistiek).
+In de statistiek is de mediaan het midden van een verdeling of gegevensverzameling; de mediaan is een centrummaat. De verzameling kan een concrete populatie of een steekproef zijn, bestaande uit ordinale gegevens. Met midden wordt het middelste element in de verdeling of de geordende verzameling bedoeld. Bij een even aantal elementen is er geen midden; elk element tussen de twee om het midden liggende elementen fungeert dan als mediaan. In het geval van getallen neemt men dan meestal het gemiddelde van die twee.
+De mediaan is het 0,5-kwantiel en het middelste van de drie kwartielen.
+Verdeling.
+Als de populatie gegeven is door de verdelingsfunctie "F", is de mediaan "m" bepaald als het punt (een van de punten), waarvoor geldt: formula_1.
+Steekproef.
+Evenals dat het geval is bij het gemiddelde is het in de praktijk vaak een ondoenlijke zaak de populatiemediaan te bepalen omdat de populatie te groot (of zelfs oneindig groot) is. Ook hier nemen we onze toevlucht tot een steekproef en bepalen de steekproefmediaan als benadering (schatting) van de populatiemediaan. Voor een oneven steekproefomvang is de mediaan het middelste element in de geordende steekproef. Bij even omvang neemt men het gemiddelde van de middelste twee.
+Voorbeelden.
+In de onderstaande tabel staan de geordende uitkomsten "xi" van een steekproef van omvang 13.
+Omdat n = 13 oneven is, is het 7e getal middelste getal. De mediaan van de steekproef is dus 0,7 (en een schatting voor de mediaan van de hele populatie).
+Als de steekproef maar 12 elementen bevat is er geen middelste.
+Nu is de mediaan het gemiddelde van de middelste twee data. Dus is de mediaan gelijk aan 0,75.
+Eigenschappen van de mediaan.
+Voor een symmetrische verdeling waarvoor het populatiegemiddelde μ bestaat, zoals de normale verdeling, is de populatiemediaan gelijk aan μ.
+Dat wil echter niet zeggen dat de steekproefmediaan en het steekproefgemiddelde van een steekproef uit zo'n verdeling, ook aan elkaar gelijk zijn. Zij zijn twee verschillende schattingen van dezelfde grootheid μ. Beide schattingen hebben hun sterke en zwakke kanten.
+Het steekproefgemiddelde is superieur wanneer het erom gaat tot het uiterste gebruik te maken van de in de steekproef aanwezige informatie. Dit noemt men "efficiëntie". Het steekproefgemiddelde onderdrukt de willekeurige fout in de steekproef beter dan de mediaan en is daarmee een nauwkeuriger schatting van μ. Daar staat echter iets tegenover. Laten we bijvoorbeeld de bovenstaande getallen nemen, maar een typefout introduceren.
+Voor het gemiddelde heeft de typefout in het laatste getal (nl. 650) desastreuze gevolgen; de mediaan echter blijft onveranderd. Medianen zijn dus "robuust" in de aanwezigheid van 'uitbijters'. In de praktijk is dat zeer waardevol omdat bij grote steekproeven de kans op een uitbijter niet te verwaarlozen is.
+Robuuste statistiek.
+Hoewel de mediaan al erg lang bekend is, zijn de robuuste eigenschappen lange tijd niet of nauwelijks volledig uitgebuit. Vooral door het werk van de Belgische statisticus Rousseeuw is daar sinds de jaren 80 verandering in gekomen. Het probleem was niet dat er geen robuuste schatting voor μ bestond, maar dat een robuuste schatting voor de standaardafwijking σ ontbrak. In de op kleinste kwadraten gebaseerde schattingen wordt μ geschat door het steekproefgemiddelde en σ door de steekproefstandaardafwijking s. De laatste waarde is echter nog minder robuust dan het gemiddelde, zoals een kleine berekening met de bovenstaande waarden goed laat zien.
+Rousseeuw stelde voor de MAD: mediane absolute deviatie (van de mediaan) daarvoor in de plaats te stellen.
+Deze wordt berekend door eerst van alle getallen de mediaan "m = 0,7" af te trekken en de absolute waarde te nemen.
+De mediaan hiervan is 0,4 = MAD.
+Voor data uit een normale verdeling wordt een goede (en robuuste!) schatting van σ gegeven door 1,483  MAD.
+We zien dus dat "a"/σ het 75ste percentiel is van de standaard normale verdeling, dus
+Met behulp van mediaan en MAD is het mogelijk de uitbijter te verwijderen door zijn deviatie (649,3) te vergelijken met de geschatte σ (0,6). Omdat dit een factor 1000 scheelt is het uiterst onwaarschijnlijk dat dit punt bij de onderliggende verdeling hoort.

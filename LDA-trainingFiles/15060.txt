@@ -1,0 +1,4 @@
+Oorsprong (wiskunde).
+De oorsprong in een twee-dimensionaal Cartesisch coördinatenstelsel
+In de meetkunde is de oorsprong van een Euclidische ruimte een speciaal punt, meestal aangeduid met de letter O, dat als een vast referentiepunt wordt gebruikt voor de geometrie van de omliggende ruimte. In een Cartesisch coördinatenstelsel is de oorsprong het punt waar de assen van het stelsel elkaar snijden. Elk punt van de ruimte kan als oorsprong worden gekozen.
+Gebruikelijke coördinatenstelsels zijn tweedimensionale (besloten in een vlak) en driedimensionale (besloten in een ruimte) stelsels met respectievelijk twee of drie loodrechte op elkaar staande assen. De oorsprong deelt elk van deze assen in twee helften, een positieve- en een negatieve helft. Punten in het vlak of de ruimte kunnen dan worden gelocaliseerd in referentie tot de oorsprong door elk punt numerieke coördinaten toe te kennen langs elke as.

@@ -1,0 +1,3 @@
+Systeem (systeemtheorie).
+Een systeem, als onderwerp van de systeemtheorie, wordt gezien als een geheel van elementen die elkaar wederzijds beïnvloeden en die een geïntegreerd geheel vormen. Het systeem zorgt voor de relatie tussen het input- en outputsignaal. Een signaal is een functie formula_1 die een bepaald fenomeen beschrijft of definieert.
+Elk systeem is bepaald door het impulsantwoord formula_2. Dit is de output van het systeem als de input een dirac-impuls is. Er bestaat ook een stapantwoord, dit is dan de output van het systeem indien de input een eenheidsstapfunctie is.

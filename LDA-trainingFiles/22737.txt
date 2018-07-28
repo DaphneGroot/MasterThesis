@@ -1,0 +1,6 @@
+Nummermelder.
+Een nummermelder waar een nummer uit het geheugen opgeroepen wordt
+Een nummermelder is een apparaat voor de dienst nummerweergave. Een nummermelder wordt vooral gebruikt voor telefoons die niet beschikken over een ingebouwde nummermelder.
+Een nummermelder geeft het telefoonnummer van de beller weer alvorens de telefoon wordt opgenomen. De meeste nummermelders beschikken over een geheugen, zodat de ontvangen oproepen worden opgeslagen als de gebelde niet thuis is. Ook beschikken nummermelders meestal over een terugbelfunctie, zodat op een later tijdstip gemakkelijk kan worden teruggebeld.
+Wanneer het nummer van de beller onderdrukt wordt, bijvoorbeeld omdat die een anoniem nummer heeft, zal het nummer uiteraard niet weergegeven worden. In Nederland kan worden voorkomen dat het nummer wordt doorgegeven door de code *31* voor het telefoonnummer te kiezen. Met een mobiele telefoon kan dat door #31# voor het nummer te plaatsen.
+Nummerweergave door de KPN gaat via "dual-tone multi-frequency" (DTMF). Andere telefonieaanbieders kunnen gebruikmaken van frequentieverschuivingsmodulatie ("frequency-shift keying," FSK). Een toestel voor FSK herkent zowel FSK als DTMF. Andersom echter niet, zodat bij veranderen van aanbieder nummerweergave soms niet meer werkt.

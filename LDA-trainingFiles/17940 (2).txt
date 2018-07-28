@@ -1,0 +1,11 @@
+Mydoom.
+Mydoom (officiële naam: "W32.Mydoom@MM") is een computerworm. Andere namen voor deze worm zijn "W32.Novarg.A@mm", "W32/Mydoom@mm", "WORM_MIMAIL.R".
+Verspreiding.
+De verspreiding van Mydoom begon explosief in januari 2004. MessageLabs noemde het de snelst verspreidende worm ooit. Zeven jaar nadat hij voor het eerst werd gesignaleerd, blijkt de worm nog steeds actief.
+Voor de verspreiding maakt Mydoom gebruik van e-mail en het peer-to-peernetwerk van Kazaa.
+Kenmerken.
+De mailtjes waarmee Mydoom zich verspreidt hebben wisselende kenmerken. Meestal is de bijlage een.exe.pif.cmd of.scr bestand, terwijl het eruitziet als een tekstbestand (.txt of.doc).
+De tekst van het bestand is een ingewikkelde, technische tekst waardoor veel mensen geneigd zijn de bijlage te openen. In het verleden probeerden andere virussen dit ook wel door grappige filmpjes of seksueel getinte plaatjes in de bijlage te beloven.
+Het virus kan alleen geactiveerd worden op pc's met Microsoft Windows.
+Schade.
+Na de installatie van de worm wordt een zogenaamd achterdeurtje geïnstalleerd. Via de poorten 3127 tot en met 3198 wacht de pc op instructies. Anderen kunnen zo bepaalde acties op de pc trachten te doen, zoals

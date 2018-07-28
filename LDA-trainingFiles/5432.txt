@@ -1,0 +1,47 @@
+Fortran.
+Fortran is een programmeertaal die speciaal ontwikkeld is voor rekenwerk en vooral gebruikt is in de exacte wetenschappen. Het woord Fortran (voorheen FORTRAN) is een acroniem afgeleid van "The IBM Mathematical Formula Tran'"slating System". Fortran is om verschillende redenen van belang. Ten eerste was het de eerste hogere programmeertaal die in algemeen gebruik kwam, zodat Fortran alleen daardoor al zijn stempel op alle andere programmeertalen gedrukt heeft. Ten tweede was het de eerste taal die door het ANSI gestandaardiseerd werd en is de ontwikkeling af te lezen uit een aantal opvolgende standaards (FORTRAN 66, FORTRAN 77, Fortran 90, Fortran 95 en Fortran 2003), waarbij de compatibiliteit met voorgaande versies zo veel mogelijk behouden bleef. Ten slotte was het decennialang de meest toegepaste taal voor technische, natuurwetenschappelijke en econometrische problemen. Het was gedurende die tijd dé taal voor supercomputers omdat er matrixberekeningen mee gemaakt kunnen worden.
+Vroege geschiedenis.
+Een IBM-704-mainframe, het platform waarvoor FORTRAN in eerste instantie ontwikkeld is
+De eerste versie is ontwikkeld door een aantal medewerkers van IBM onder leiding van John Backus. Het eerste rapport over FORTRAN dateert van 1954, de eerste werkende compiler, voor de IBM-704, kwam begin 1957 gereed. Al in 1958 kwam de opvolger daarvan, FORTRAN II, beschikbaar. In de jaren daarop verschenen vele versies van Fortran, ook van andere leveranciers dan IBM. Dit maakte standarisatie door het ANSI noodzakelijk, die in 1966 de standaard FORTRAN 66 publiceerde. FORTRAN 66 kende twee versies, namelijk Basic FORTRAN, dat ongeveer overeenkwam met FORTRAN II, en full FORTRAN, dat het meest leek op de op dat moment nieuwste versie, FORTRAN IV. Omdat latere versies van Fortran niet vernieuwend meer waren maar de ontwikkelingen bij andere programmeertalen op enige afstand volgden wordt hier een beschrijving van Basic FORTRAN 66 gegeven.
+Kenmerken van FORTRAN 66.
+Voorbeeld van één regel FORTRAN in ponskaart. Merk op dat alles in hoofdletters is en dit een commentaar is, de regel begint met een 'C'. Met drukinkt zijn de verschillende zones aangegeven, de regelnummerzone wordt hier niet gebruikt.De schrijfwijze is gebaseerd op de veronderstelling dat programma's op ponskaarten worden aangeboden aan de computer. (De programmeur werd geacht niet achter een kaartponser te zitten, dit was werk voor de datatypiste.) Hij leverde zijn werk aan op een "FORTRAN coding form", aan een medewerker. Van de 80 kolommen van de ponskaart werden de laatste acht gebruikt voor een regelnummer. Dit is nuttig voor het geval men een stapel ponskaarten laat vallen; de kaarten kunnen dan op volgnummer worden gesorteerd met een sorteermachine. In kolom 1 geeft een 'C' aan dat de kaart slechts commentaar bevat en ieder ander teken dan een spatie in kolom 6 geeft aan dat de kaart als een vervolg op de vorige kaart beschouwd moet worden: de gewone toestand is dus dat één kaart één statement bevat, die in kolom 7 t/m 72 staat. Kolommen 2 tot en met 5 worden gebruikt voor getallen die als label dienen; deze getallen mogen in willekeurige volgorde staan. Zoals gebruikelijk bij ponskaartinvoer gebruikt FORTRAN alleen hoofdletters.
+Spaties zijn in FORTRAN niet significant: woorden mogen naar believen aan elkaar of los worden geschreven. Ook kent FORTRAN geen gereserveerde woorden: namen van statements mogen ook worden gebruikt als namen van variabelen. Deze regels zijn niet erg zinvol omdat ze het schrijven van een compiler moeilijker maken en voor de gebruiker weinig voordeel opleveren.
+Enkelvoudige variabelen hoeven niet gedeclareerd te worden; gehele-getallenvariabelen hebben een naam die begint een van de letters I t/m N, reële variabelen hebben een naam die met een andere letter begint. Een array moet gedeclareerd worden met de DIMENSION-opdracht. Arrays hebben hoogstens twee dimensies en de ondergrens is altijd 1. Variabelen die in de COMMON-opdracht gedeclareerd worden zijn globaal; zij kunnen zowel in het hoofdprogramma als in subroutines en functies gebruikt worden. Alle andere variabelen zijn lokaal; lokale variabelen in subroutines en functies hebben hun oude waarde bij een nieuwe aanroep, net als de "own" variabele in Algol-60.
+De toewijzingsopdracht (assignment statement) heeft de vorm
+Bijzonderheden zijn dat een machtsverheffing wordt aangegeven met ** en dat een formule of alleen gehele of alleen reële waarden mag bevatten. Het resultaat van een deling (/) hangt dan ook af van het type van deler en deeltal: het resultaat van 3/2 is 1, het resultaat van 3.0/2.0 is 1.5. Komen gehele en reële waarden in één formule voor dan moet de functie FLOAT of IFIX gebruikt worden voor de noodzakelijke conversie. Bij de toewijzing wordt weer wel een automatische conversie uitgevoerd: bij conversie naar een gehele waarde wordt het resultaat afgekapt en niet afgerond.
+Er zijn slechts drie controlestructuren, namelijk de DO-opdracht, de IF-opdracht en de GOTO-opdracht;
+DO label variabele = beginwaarde, eindwaarde, stapgrootte
+De variabele moet enkelvoudig en geheel zijn en een stapgrootte van 1 kan worden weggelaten. Een DO-opdracht heeft tot gevolg dat de opdrachten tot en met de opdracht met het opgegeven label herhaald worden totdat de eindwaarde bereikt is.
+Er is geen statement dat het einde van het te itereren blok aangeeft (zoals NEXT in BASIC). In plaats daarvan bevat het DO-statement het label dat staat bij het laatste statement van het blok. De meeste programmeurs zetten hier een statement dat niets doet, dat is het loze statement CONTINUE.
+De IF-opdracht heeft een curieuze vorm, namelijk
+De gewone GOTO-opdracht heeft de vorm
+Hier bepaalt de waarde van de gehele variabele bij welk label het programma wordt voortgezet. Deze opdracht is dus te vergelijken met de "ON GO"TO in Basic of het gebruik van de "Switch" in Algol-60.
+Programma’s, subroutines en functies eindigen met END. Het hoofdprogramma stopt bij het bereiken van END, subroutines en functies keren terug naar het hoofdprogramma bij RETURN. Een functie wordt in een formule aangeroepen, een subroutine wordt met CALL aangeroepen.
+De wijze waarop gegevens worden afgedrukt wordt bepaald in een FORMAT-opdracht, waarna in de opdracht READ, WRITE of PRINT wordt verwezen. Deze kan ook worden gebruikt om niet-numerieke gegevens af te drukken, die overigens niet kunnen worden verwerkt. Hiervoor wordt gebruikgemaakt van zogenaamde Hollerithconstanten, waarbij het aantal karakters zorgvuldig moet worden geteld.
+Voor- en nadelen.
+Een belangrijk voordeel is de overdraagbaarheid van standaard Fortrancode tussen verschillende machines, omdat er geen machinespecifieke commando's in de taal waren gedefinieerd. Er waren wel dialecten gemaakt door specifieke computerleveranciers die niet-overdraagbare uitbreidingen hadden. Ook zijn Fortrancompilers vaak erg stabiel en leveren ze erg snelle code; door het ontbreken van pointers kan een Fortrancompiler meer optimalisaties uitvoeren dan bijvoorbeeld een C-compiler.
+Fortran heeft oorspronkelijk weinig faciliteiten gehad om op laag niveau met het besturingssysteem te converseren, en het kende lange tijd ook geen pointers. Dit maakte het moeilijk om Fortran te gebruiken voor systeemtaken, maar het gebruik van hogere programmeertalen voor dit doel kwam pas op in de jaren 1970.
+Het formeel niet bestaan van pointers kon met betrekking tot variabelen in de taal omzeild worden door het definiëren van arrays; de naam van een array gedroeg zich als een pointer. Dit werd vaak toegepast om een virtueel dynamisch geheugengebruik te simuleren, hetgeen bij de betrekkelijke kleine geheugencapaciteit voor veel wetenschappelijke programma's noodzakelijk was. Het nadeel was dat programma's erg ondoorgrondelijk werden en nauwelijks te onderhouden waren. Veel programma's crashten doordat op deze wijze regelmatig adressen buiten de gedeclareerde geheugenruimte aangesproken werden.
+FORTRAN 77.
+FORTRAN 77 was op beide punten verbeterd: er waren meer controlestructuren en er werden karaktergegevens geïntroduceerd.
+Fortran 90.
+Fortran 90 heeft pointers geïntroduceerd. Dit gebeurde op een moment waarop al regelmatig gewezen werd op de problemen bij het gebruik van pointers in Pascal en C.
+Wat wel een grote verbetering was die de betrouwbaarheid van de software kon vergroten was dat in deze versie de interface (call-argumenten naar een subroutine of function) vastgelegd konden worden.
+call my_subroutine(2.1)
+subroutine my_subroutine(n)
+use alle_interfaces
+call my_subroutine(2.1)
+subroutine my_subroutine(n)
+use alle_interfaces
+end subroutine my_subroutine
+module alle_interfaces
+subroutine my_subroutine(n)
+end subroutine my_subroutine
+end module alle_interfaces
+Fortran 95.
+type naam_van_dit_type
+end type naam_van_dit_type
+type(naam_van_dit_type)::een_zelfgedefinieerd_type,en_nog_een
+een_zelfgedefinieerd_type%eerste = 1
+een_zelfgedefinieerd_type%tekst = 'Tekst'
+en_nog_een = een_zelfgedefinieerd_type

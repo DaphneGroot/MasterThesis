@@ -1,0 +1,4 @@
+Operator-overloading.
+Operator-overloading is een techniek die door sommige programmeertalen zoals C++ wordt ondersteund en de programmeur de mogelijkheid geeft een operator (bijvoorbeeld + of -) een (nieuwe) betekenis te geven voor een bepaalde klasse van objecten.
+De waarde van g3 zou nu "12", maar ook "3" kunnen zijn, afhankelijk van de implementatie van de operator '+' voor deze klasse.
+De waarde van g3 zou nu "12", maar ook "3" kunnen zijn, afhankelijk van de implementatie van de methode 'add' voor deze klasse.

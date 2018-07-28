@@ -1,0 +1,5 @@
+Gestructureerde analyse.
+Gestructureerde analyse ("Structured Analysis") is een analysemethodologie uit de informatica en informatiekunde. Het analyseert systeemeisen en stelt de analist in staat hieruit een systeemontwerp te maken.
+Historie.
+De analyse is ontworpen door Tom DeMarco en groot geworden door de werken van Edward Yourdon.
+In de jaren tachtig en begin jaren negentig was de methodologie behoorlijk populair. Het werd echter verdrongen door de opkomst van de object-oriëntatie en de Unified Modeling Language (UML).

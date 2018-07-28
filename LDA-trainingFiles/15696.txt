@@ -1,0 +1,5 @@
+ASCII-art.
+ASCII-art is een kunstvorm waarbij afbeeldingen worden samengesteld uit enkel ASCII-tekens. Vooral in niet-grafische omgevingen, zoals bepaalde computerterminals, e-mail, sms en chatomgevingen bieden, wordt dit wel gebruikt om tekst toch van vaak zeer eenvoudige illustraties te kunnen voorzien. Er zijn echter ook mensen die als hobby zeer uitgebreide ASCII-art maken, zoals gedetailleerde taferelen, hetgeen creativiteit en geduld vereist.
+ASCII-art was een voorloper van ANSI-art, in die hoedanigheid werden deze afbeeldingen ook in de eerste bulletin board systemen (BBS) gebruikt voordat deze BBS'en op ANSI overstapten.
+Ook kunnen er bijvoorbeeld letters in ASCII-art getekend worden. Op het internet staan meerdere "ascii art generators" die tekst voor je in verschillende stijlen kan genereren.
+AAlib is een bibliotheek met functies voor programma's waarmee ASCII-art geproduceerd kan worden.

@@ -1,0 +1,12 @@
+Data Encryption Standard.
+Printplaat met meerdere DeepCrack-chips die gebruikt werden voor een brute force attack tegen DES
+De Data Encryption Standard (DES) is een methode om gegevens met symmetrische cryptografie te versleutelen.
+DES is gebaseerd op het algoritme Lucifer van de firma IBM, en is in 1977 tot standaard verheven. DES werkt in de basisvorm met een sleutellengte van 64 bits (56 bits + 8 controle bits), maar in 1995 is gebleken dat DES in de oorspronkelijke vorm niet meer betrouwbaar en veilig is.
+Kenmerk van DES is dat de informatie die moet worden vercijferd wordt opgedeeld in datablokken van elk 64 bits, die in 16 stappen op gedefinieerde manieren door elkaar worden geschoven. In de meeste stappen wordt de helft van de bits via een Exclusive OR-functie gemanipuleerd, waarbij zowel per stap de sleutel wisselt, als ook de groep van bits.
+Nadeel van de basisversie van DES is, dat bij dezelfde sleutel er bij dezelfde invoer altijd dezelfde uitvoer verschijnt. En aangezien er steeds in blokken van 64 bits wordt gewerkt, kan men dus blokken van 64 bits overschrijven met een ander blok van 64 bits, zodat een deel van de boodschap wordt herhaald. Om dit tegen te gaan zijn extra maatregelen bedacht.
+DES is vanaf het begin door een grote groep deskundigen gewantrouwd. Lucifer, waarop DES is gebaseerd, werkte met sleutels van 128 bits lengte. DES werd uiteindelijk als standaard voorzien van sleutels van slechts 56 bits lengte. De NSA (National Security Agency) heeft hierin de hand gehad, waarschijnlijk om ervoor te zorgen dat DES-code voor de Amerikaanse overheid te kraken bleef. Echter bleek in de jaren 90 dat de aanpassingen door de NSA net veiliger waren tegen bepaalde cryptografische aanvallen.
+Kraken van standaard-DES is niet onhaalbaar, zeker niet voor een overheid: projecten als SETI tonen aan dat combineren van rekenkracht eenvoudig is te realiseren, zeker als argeloze burgers mee willen werken om hun computer mee te laten doen. Dit type bedreiging staat wel bekend als de Chinese Loterij.
+Om de sleutellengte en daarmee (waarschijnlijk) ook de veiligheid van DES te vergroten, heeft men een schakeling bedacht waarbij drie DES-algoritmes achter elkaar zijn geschakeld. Dit wordt 3DES, of Triple DES, genoemd.
+DES werd als encryptie-standaard vanwege de tekortkomingen opgevolgd door het veiliger geachte AES.
+Referenties.
+Schneier, Bruce (2004-09-27), CNet Retrieved 2010-10-28.

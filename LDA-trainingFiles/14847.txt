@@ -1,0 +1,37 @@
+Vergelijking (wiskunde).
+Oudst bekende vergelijking, door Robert Recorde, in moderne typografie staat er 14x + 15 = 71.
+Een vergelijking in de wiskunde is een betrekking waarin twee uitdrukkingen, waarin onbekenden voorkomen, aan elkaar gelijk worden gesteld. De gelijkstelling gebeurt met een gelijkheidsteken, (=), zoals in de vergelijking
+waarin de uitdrukking formula_2, met daarin de onbekende formula_3, gelijkgesteld wordt aan de uitdrukking 5.
+De onbekende grootheden worden vaak aangeduid met letters die aan het einde van het alfabet voorkomen, zoals x, y en z. Letters die in het begin van het alfabet voorkomen, bijvoorbeeld a, b en c, gebruikt men om de coëfficiënten weer te geven.
+Vergelijkingen kunnen een verschillend karakter hebben. Bevat de vergelijking slechts één onbekende, dan is eigenlijk altijd het doel om de vergelijking op te lossen. Dat wil zeggen dat men de waarde of waarden voor die onbekende bepaalt waarvoor linker lid en rechter lid van de vergelijking een gelijke waarde aannemen. Is er echter sprake van meer onbekenden, dan zijn veelal een aantal van die onbekenden op te vatten als variabele of parameter, en behoort bij de vergelijking een grafiek, een kromme of een andere (meerdimensionale) meetkundige voorstelling. Een derde mogelijkheid is dat de vergelijking wordt gepresenteerd als algemeen geldige formule - men spreekt dan van een identiteit. Zo wordt de stelling van Pythagoras vaak aangeduid met de identiteit a²+b²=c².
+Algebraïsche vergelijkingen met één variabele.
+Een algebraïsche vergelijking is een vergelijking, waarin een polynoom aan 0 wordt gesteld. Polynoom en vergelijking mogen door elkaar worden gebruikt. Volgens de hoofdstelling van de algebra heeft iedere vergelijking in één variabele in het complexe vlak minstens één nulpunt. De nulpunten van een polynoom, de oplossingen van de bijbehorende algebraïsche vergelijking heten ook de wortels van de vergelijking. Reële vergelijkingen hebben niet noodzakelijk een reële wortel, al hebben alle polynomen van oneven graad wel minstens één reële oplossing. Het maximale aantal oplossingen is dus gelijk aan de graad van de vergelijking.
+In het algemeen noemt men een formula_4 algebraïsch gesloten als elke algebraïsche vergelijking met coëfficiënten in formula_4, minstens één oplossing in formula_4 heeft.
+Indeling van de algebraïsche vergelijkingen.
+Deze lijst kan analoog worden verder gezet met vergelijkingen van een hogere graad. Algemeen heet
+met formula_14 een "n"-de-graadsvergelijking.
+Hogere-graadsvergelijkingen.
+Wiskundigen hebben gezocht naar de algemene oplossing van de vijfdegraadsvergelijking, totdat Niels Henrik Abel bewees dat een dergelijke oplossing niet in algebraïsche vorm, met optellen, aftrekken, vermenigvuldigen en worteltrekking, bestaat. Moderne bewijzen van de stelling van Abel worden meestal gegeven aan de hand van Galoistheorie.
+De stelling van Abel is niet in tegenspraak met de hoofdstelling van de algebra. Een polynoom van de vijfde graad heeft altijd nulpunten, maar die zijn niet altijd in een algebraïsche formule met wortels te schrijven. Het eenvoudigste voorbeeld is
+Voorbeelden.
+formula_16
+Dit betekent dat x dezelfde waarde heeft als a. Deze vergelijking is natuurlijk volledig equivalent met: formula_17.
+Oplossing van vergelijkingen.
+Een vergelijking heeft een oplossing, als er een (toegelaten) waarde van de onbekende is waarvoor de vergelijking bij invulling in een gelijkheid overgaat. Zo heeft de vergelijking x - 2 = 4 als oplossing x = 6.
+Niet alle vergelijkingen hebben echter een oplossing. De vergelijking
+bijvoorbeeld heeft geen oplossing, omdat geen enkele waarde van x de vergelijking tot een gelijkheid maakt. Daarentegen heeft de vergelijking
+twee oplossingen, namelijk x=2 en x=-2, en de vergelijking
+Stelsels vergelijkingen.
+Een stelsel vergelijkingen bestaat uit minstens twee vergelijkingen. Een oplossing van het stelsel is een stel waarden van de onbekenden zodat wordt voldaan alle vergelijkingen van dit stelsel. Als een stelsel geen oplossing heeft, zegt men dat de vergelijkingen van het stelsel strijdig zijn.
+Soms kan men aan een stelsel en de oplossingen ervan een meetkundige betekenis geven. Zo correspondeert met een stelsel van twee "lineaire" vergelijkingen met twee onbekenden een paar lijnen in een tweedimensionaal assenstelsel. Een eventuele oplossing correspondeert met een snijpunt van de twee lijnen.
+Analytische meetkunde.
+In de analytische meetkunde spelen vergelijkingen om krommen en andere figuren te beschrijven een grote rol. Deze vergelijkingen beschrijven dan de punten veelal in een Cartesisch assenstelsel van de figuur. In het platte vlak gaat het dan om vergelijkingen van de vorm "f"("x","y") = 0. De oplossingsparen ("x","y") corresponderen met de punten die de figuur vormen.
+In hogere dimensies wordt ook een hogerdimensionale deelruimte als oplossing beschreven, bijvoorbeeld in (gekromd) oppervlak in drie dimensies.
+Differentievergelijkingen en differentiaalvergelijkingen.
+Een differentievergelijking wordt gebruikt om een elementen in een rij te beschrijven. Een nieuw element wordt dan berekend uit het vorige element, of de vorige elementen. De rij van de positieve even getallen wordt bijvoorbeeld beschreven door
+Differentievergelijkingen zijn een discrete vorm van differentiaalvergelijkingen. In deze laatste komen functies en hun afgeleide voor.
+Identiteiten.
+Vergelijkingen worden ook vaak gebruikt om algemeen geldige wiskundige, maar ook natuurkundige, wetten weer te geven. Een heel bekende, die het geschopt heeft tot uitdrukking, is 1 + 1 = 2. Maar veel identiteiten verbergen diepere wiskundige kennis. De identiteit van Euler is daarvan een voorbeeld en stelt
+Deze identiteit wordt als een van de meest bijzondere in de wiskunde beschouwd, doordat er vijf zeer fundamentele getallen in worden samengebracht: 0, 1, "i", "π" en "e".
+Een natuurwetenschappelijke wet heeft vaak de vorm van een identiteit, zoals de algemene gaswet formula_32. Met name als links één grootheid staat, zoals bij de massa-energierelatie "E" = "mc"², spreekt men ook van een formule.
+Zie ook: Lijst van goniometrische gelijkheden

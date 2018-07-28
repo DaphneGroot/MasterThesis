@@ -1,0 +1,16 @@
+Eerste-ordesysteem.
+Een eerste-ordesysteem is een dynamisch systeem dat gemodelleerd kan worden als een integrator met een negatieve terugkoppeling.
+Veel dynamische systemen zijn bij benadering eerste-ordesystemen, bijvoorbeeld een leeglopend bad of een bord eten dat staat af te koelen.
+De 'integrator' is een reservoir dat tastbare materie kan bevatten (zoals bij het bad), maar bijvoorbeeld ook warmte (zoals bij het dampende bord) of elektrische lading (zoals op een condensator). Het meest zuivere voorbeeld van een lineair eerste-ordeproces is radioactief verval.
+In een eerste-ordesysteem verliest het reservoir inhoud met een snelheid die evenredig is met de inhoud van het reservoir: het bad loopt sneller leeg naarmate het voller is, en de warme maaltijd koelt het snelst af als het net op tafel gezet is.
+Differentiaalvergelijking.
+In het linkerlid staat de informatie over het systeem zelf: de eerste term beschrijft de tijdsafankelijkheid, waarbij formula_2 de tijd als fysische eenheid heeft. De tweede term beschrijft de negatieve terugkoppeling. In het rechterlid staat de informatie over de excitatie: het systeem kan afhangen van de excitatie x(t), maar ook van afgeleiden van de excitatie.
+Indien b = 0 heeft het systeem een laagdoorlaatgedrag. Indien de excitatie x(t) een hoogfrequente sinus is, zal het systeem deze in hoge mate onderdrukken. Omgekeerd, indien a = 0 krijgt het systeem een hoogdoorlaatgedrag en wordt een constante excitatie en een laagfrequente sinus onderdrukt.
+met K een integratieconstante. Verder is formula_2 de tijdconstante van het systeem. Deze geeft aan hoe snel de dalende exponentiële functie afneemt. Na drie tijdconstanten is de exponentiële functie reeds voor 95% uitgewerkt, na vijf tijdconstanten voor meer dan 99%. De halveringstijd is gelijk aan ln(2) (ongeveer 0,693) maal deze exponentiële tijdconstante.
+Dit homogeen deel van de oplossing heet het overgangsgedrag (transiënt gedrag). Het is tijdelijk actief bij het opstarten van een excitatie, of bij het wijzigen van het type excitatie.
+Systeemkenmerken.
+De systeemfunctie (overdrachtsfunctie, transferfunctie) ontstaat door in de differentiaalvergelijking als excitatie x(t) een Dirac-functie te kiezen, en op de vergelijking dan de Laplacetransformatie toe te passen.
+Eerste orde laagdoorlaatsysteem.
+De polen en nullen van een systeem zijn respectievelijk de nulpunten van de noemer en de teller van zijn systeemfunctie. Voor een eerste-orde laagdoorlaatsysteem wordt dit: de enige pool ligt in s = -1/formula_2 en de enige nul ligt op oneindig
+Eerste orde hoogdoorlaatsysteem.
+De polen en nullen zijn: de enige pool ligt in s = -1/formula_2 en de enige nul ligt in de oorsprong s = 0

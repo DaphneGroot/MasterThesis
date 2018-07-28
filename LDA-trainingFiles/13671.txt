@@ -1,0 +1,10 @@
+Datastructuur.
+Een datastructuur is in de informatica een manier waarop de elementen (in dit verband ook wel componenten, delen of items genoemd) van een samengestelde variabele samenhangen. De structuur bepaalt de wijze waarop de elementen selecteerbaar zijn, en daarmee op welke wijze en met welke mate van efficiëntie gegevens kunnen worden opgeslagen, gewijzigd en teruggevonden. Verder kunnen datastructuren worden gecombineerd tot complexere datastructuren.
+Soorten datastructuren.
+Er zijn minstens twee klassen van datastructuren te onderscheiden.
+Sommige moderne scripttalen, zoals Javascript, Python, Perl of Ruby, gebruiken het eerste soort niet meer ten gunste van andere constructies zoals een associatieve array. Dit heeft alles te maken met het feit dat computers sneller worden, en het statische record probleemloos vervangen kan worden door een dynamische constructie. Vroeger zou dit de machine onnodig vertraagd hebben en onnodig geheugen verkwisten. Dat wil overigens niet zeggen dat deze oplossingen bij voorbaat beter zijn.
+Container.
+Containers kunnen op minstens één manier in twee groepen worden verdeeld. Namelijk de conceptuele containers (een abstracte datastructuur), en de implementaties van deze concepten. Het onderscheid tussen deze twee groepen is niet in alle gevallen even duidelijk omdat sommige concepten maar 1 implementatie kennen. In deze gevallen zijn de twee begrippen synoniem.
+Implementatie.
+Voorbeelden van implementaties van containers zijn o.a.
+Alle containers kunnen met behulp van een iterator worden doorlopen.

@@ -1,0 +1,21 @@
+Vervalenergie.
+De vervalenergie is een term uit de kern- en deeltjesfysica die staat voor het verschil in de totale bindingsenergie die tijdens een vervalreactie vrijkomt.
+Vervalenergie en massa-overschot.
+De vervalenergie komt vrij in de vorm van kinetische energie van de atoomkern en één of meer uitgezonden massadragende deeltjes en in de vorm van elektromagnetische straling (hoogenergetische fotonen). De hoeveelheid vrijkomende energie is dankzij de eerste wet van de thermodynamica altijd gelijk voor het verval van een radio-isotoop naar een bepaald vervalproduct. Soms zijn meerdere vervalprocessen via verschillende tussenstadia mogelijk, elk met een eigen vervalenergie voor de verschillende tussenstadia.
+Vervalenergieën worden uitgedrukt in MeV's en berekend met behulp van massa-overschotten van de kernen en deeltjes die aan het vervalproces deelnemen. De massa's van de deeltjes veranderen tijdens het vervalproces door omzetting van massa in energie, volgens Einsteins formule E=mc².
+Berekening.
+waarin "EA", "EB", "EC" en "ED" de verschillende massa-overschotten van de reactiecomponenten "A", "B", "C" en "D" zijn.
+α-verval.
+(47,308948 - 40,614285 - 2,42491565) MeV = 4,269747 MeV
+waarmee uranium-238 aardwarmte en het nuttige edelgas helium-4 produceert.
+β−-verval.
+(-85,941604 + 86,487462) MeV = 0,545858 MeV
+meestal lang nadat het de kernreactor heeft verlaten waar het strontium-isotoop geproduceerd is.
+Vervalreeksen van radium-226.
+Radium-226 kan naar lood-206 vervallen door α- en β-verval en het kan door clusterverval naar lood-208 en stikstof-14 vervallen.
+Verval naar lood-206.
+(23,669099 + 23,78544 - 5 × 2,42491565) MeV = 35,32996 MeV
+Verval naar lood-208 en stikstof-14.
+(23,669099 + 21,748455 - 2,86341704 - 2,42491565) MeV = 40,129221 MeV
+Verschil in vervalenergie.
+Het verval van radium-226 naar lood-208 en stikstof-14 blijkt per saldo een 4,799261 MeV hogere vervalenergie op te leveren dan het verval naar lood-206. Dat verschil is voor het grootste deel toe te schrijven aan de extra bindingsenergie in het stikstof-14 atoom die de lagere bindingsenergie van 4 helium-4 kernen ruimschoots compenseert.

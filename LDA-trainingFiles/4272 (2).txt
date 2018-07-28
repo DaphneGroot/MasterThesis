@@ -1,0 +1,27 @@
+Natuurkundige eenheid.
+Een natuurkundige eenheid of kortweg eenheid is een maat waarin natuurkundige grootheden numeriek kunnen worden uitgedrukt. Het aantal eenheden heet de numerieke waarde; deze is zelf een dimensieloos getal. De waarde van de grootheid kan worden beschouwd als het product van de numerieke waarde en de eenheid. De dimensie van de grootheid is dezelfde als die van de eenheid.
+Bijvoorbeeld, de afstand van de aarde tot de maan is gemiddeld 384 440 kilometer, ofwel 0,000 000 040 64 lichtjaar, ofwel 1 261 300 000 voet. "Kilometer", "lichtjaar" en "voet" zijn eenheden van lengte.
+Zie Natuurkundige grootheden en eenheden voor een overzicht van grootheden en eenheden.
+SI-eenheden.
+Voor wetenschappelijke toepassingen mogen alleen eenheden worden gebruikt die deel uitmaken van het SI-stelsel (afkorting van "Système International d’Unités") of die rechtstreeks afgeleid zijn van een SI-eenheid. Er zijn 7 SI-basiseenheden.
+Meer afgeleide eenheden staan vermeld op Natuurkundige grootheden en eenheden.
+Rekenkundige bewerkingen.
+In rekenkundige bewerkingen met grootheden horen het getal en de eenheid waaruit een grootheid bestaat bij elkaar, en gelden voor de eenheden dezelfde rekenregels als voor getallen.
+De oppervlakte is het product daarvan: 623,7 cm²
+wat men dan niet meer eenvoudig als vermenigvuldiging kan uitwerken (men zou op 623,7 cm uitkomen, een lengte).
+5 cm + 8 cm = 13 cm
+Een eenheid als km² (vierkante kilometer) moet worden gelezen als (km)²
+Schrijfwijze.
+Voor de namen en de symbolen van eenheden gelden SI-regels voor de schrijfwijze, die door het BIPM worden aanbevolen.
+Zo wordt aanbevolen te schrijven "km/h" of "kilometer per uur", maar niet "km per uur".
+Symbolen worden steeds gecombineerd met een hoeveelheid in cijfers, dus niet "Na een paar km hadden we een lekke band".
+Omrekenen van eenheden.
+Soms kunnen voor dezelfde grootheid verschillende eenheden gebruikt worden. Een voorbeeld is de grootheid temperatuur, die kan worden uitgedrukt in graden Celsius maar ook in kelvin. Het wordt bij gebruik van eenheden uit verschillende systemen al gauw lastig om met natuurkundige formules te werken. De voornaamste drijfveer voor het ontstaan van het SI was om dit tot een minimum te beperken.
+Metrieke stelsel.
+Hoewel de eerste voorloper van het SI (het metrieke stelsel) opgesteld is tijdens van de Franse Revolutie, was koning Willem I de eerste die het tot wettelijk bindend systeem verhief. Hij wilde daarmee de eenheid in zijn koninkrijk bevorderen. Sindsdien is iedere staat op aarde, behalve de VS hem daarin gevolgd.
+EU-richtlijn.
+In 1979 werd het gebruik van het SI-stelsel dwingend voorgeschreven in het economisch verkeer, voor doeleinden van volksgezondheid en openbare veiligheid en voor bestuursrechtelijke handelingen, door de totstandkoming van Richtlijn 80/181/EEG van de Raad van de Europese Gemeenschappen van 20 december 1979 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten op het gebied van de meeteenheden (PbEG L39, Meeteenhedenrichtlijn).
+Nederlandse wetgeving.
+Seconde en minuut zijn dus officiële volle namen van eenheden met elk twee betekenissen.
+De term hectare wordt gebruikt in plaats van hectoare.
+Voor enkele eenheden zijn er beperkingen tot bepaalde toepassingen en/of worden de voorvoegsels niet gebruikt.

@@ -1,0 +1,4 @@
+DNA-virus.
+DNA-virussen zijn een groep virussen en worden zo genoemd omdat het erfelijk materiaal uit DNA bestaat, dit in tegenstelling tot de RNA-virussen.
+De afkorting "ss" staat voor "single strand", het betreft hier een enkele DNA-streng en dus geen dubbele helix.
+De afkorting "ds" staat voor "double strand", het betreft hier een dubbele DNA-streng en vormt een dubbele helix zoals gebruikelijk bij de meeste organismen.

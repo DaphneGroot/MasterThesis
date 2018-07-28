@@ -1,0 +1,4 @@
+Kalium-argonmethode.
+De kalium-argonmethode is een dateringsmethode op basis van radioactief verval, die geschikt is om de ouderdom van gesteenten te bepalen.
+Als gesteente smelt, verdampt alle daarin aanwezige edelgas argon-40. Kalium, dat een zeer veelvoorkomend element is, blijft in het gesteente achter. Een deel (ongeveer een tienduizendste hiervan) bestaat uit het radioactieve isotoop kalium-40, dat in de loop der tijd vervalt tot argon-40. Dit edelgas kan echter niet ontsnappen omdat het in het gesteente zit opgesloten. Doordat men weet dat de halveringstijd van kalium-40 1,248 miljard jaar bedraagt, kan men aan de verhouding kalium-40/argon-40 in een steenmonster de ouderdom van het gesteente bepalen.
+De kalium-argonmethode is geschikt om de ouderdom van (stollings)gesteenten tussen 100.000 jaar en 4,3 miljard jaar te bepalen. Een methode om recentere voorwerpen van organische oorsprong te dateren is de koolstof 14-methode.

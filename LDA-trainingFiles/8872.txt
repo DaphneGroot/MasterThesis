@@ -1,0 +1,7 @@
+Moleculaire mechanica.
+Moleculaire mechanica toegepast op een dipeptide.
+Moleculaire mechanica of MM is een techniek waarbij in een computersimulatie het gedrag van moleculen wordt beschreven. Bij moleculaire mechanica wordt een statische molecule bestudeerd, dit in tegenstelling tot de gerelateerde moleculaire dynamica.
+In moleculaire mechanica wordt meestal een enkele molecule in geïsoleerde vorm beschreven; wanneer interacties met andere moleculen (zoals oplosmiddelen) belangrijk zijn, is de dynamica een betere techniek. Een uitzondering is de simulatie van een kristalstructuur waar wel soms moleculaire mechanica voor wordt gebruikt.
+De basis van de moleculaire mechanica wordt gevormd door een zogenaamd krachtveld: een set empirische vergelijkingen die beschrijven hoe atomen zich in elkaars nabijheid gedragen. Vaak worden dat soort vergelijkingen opgesteld aan de hand van metingen aan moleculen, zoals met microgolfspectroscopie. De berekening bestaat eruit de posities van de atomen zo aan te passen dat de energie van het krachtveld minimaal is.
+Wanneer het krachtveld goed is opgezet kunnen na verificatie aan de hand van bekende moleculen ook voorspellingen worden gedaan over eigenschappen van onbekende moleculen.
+Via kunstgrepen kunnen ook tussenvormen in een chemische reactie met behulp van moleculaire mechanica worden bestudeerd. De resultaten zijn dan onder meer de reactiesnelheden en de ligging van het evenwicht.

@@ -1,0 +1,12 @@
+Puntkomma.
+Een puntkomma of een kommapunt is een leesteken dat bestaat uit een punt en een komma onder elkaar. Omdat de puntkomma midden in een zin wordt geschreven, komt er nooit een hoofdletter achter. Volgens schrijfadviseur Jan Renkema is de puntkomma het lastigste leesteken, omdat het onderscheid met de komma enerzijds en de punt anderzijds heel klein is, terwijl bovendien verwarring met de dubbele punt mogelijk is.
+De informatie aan weerszijden wordt door het gebruik van de puntkomma sterk met elkaar verbonden, veel sterker dan wanneer er een punt gebruikt zou zijn. Bij gebruik van een komma is het verband tussen de twee zinsdelen nog sterker. Als er in een zin twee keer de combinatie onderwerp/vervoegd werkwoord/lijdend voorwerp voorkomt en deze twee zinsdelen duidelijk in elkaars verlengde liggen of zonder elkaar weinigzeggend zijn dan kan, om de leesbaarheid te vergroten, een puntkomma gebruikt worden. Dit is slechts een richtlijn en helpt om een verschil tussen de twee delen aan te geven als om de delen bij elkaar te betrekken.
+Het door sommigen ervaren nadeel van veelvuldig gebruik van de puntkomma is dat een tekst erg drammerig over zou kunnen komen; een voordeel is dat door gematigd gebruik ervan een tekst wat meer gaat leven en eventuele kilheid zou verliezen.
+Bij volledige zinnen eindigen deze op een punt. Opsommingen waarbij de leden bestaan uit enkele woorden krijgen geen puntkomma.
+"Hierbij konden we ervoor kiezen: "
+De puntkomma heeft ASCII-teken 59, of 0x003B
+Programmeertalen.
+In veel computertalen wordt de puntkomma (;) gebruikt om het einde van een statement aan te geven (C, Java, PHP, Actionscript) of om twee statements van elkaar te scheiden (Algol, Pascal). In veel assembleertalen scheidt de puntkomma de instructie van het commentaar.
+Emoticons.
+De puntkomma heeft de afgelopen jaren veel populariteit gewonnen dankzij het gebruik van emoticons (smileys).
+Hierbij wordt de puntkomma in combinatie met een) vaak gebruikt om een knipogende smiley aan te geven.

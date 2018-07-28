@@ -1,0 +1,12 @@
+Prokaryoten.
+Schematische voorstelling van een prokaryotische cel.
+Een prokaryoot organisme is een eencellig organisme zonder celkern. Hiermee onderscheidt het zich van organismen die tot het domein van de Eukaryota worden gerekend. Deze laatsten hebben wel een celkern. De prokaryoten omvatten de bacteriën en de archaea. Het domein met de naam Prokaryota wordt tegenwoordig niet meer erkend.
+Kenmerken.
+Prokaryoten zijn zeer klein. Deze groep is polyfyletisch, groot en uiterst soortenrijk. Veel soorten, vooral de Archaea, kunnen voorkomen onder extreme omstandigheden.
+Prokaryoten hebben circulair DNA dat zich los in de cel bevindt, dit in tegenstelling tot eukaryoten. Eukaryoten hebben lineair DNA dat zich in de celkern bevindt.
+Bij prokaryoten bevindt het DNA zich los in de cel, terwijl dit bij eukaryoten in een door een membraan afgescheiden compartiment (de celkern) binnenin de cel is. Andere organellen ontbreken, met de Planctomycetes als uitzondering hierop.
+Buiten het chromosomaal DNA bevat de prokaryoot vaak verschillende plasmiden. Met dit plasmide-DNA kan genetische informatie tussen bacteriën, ook tussen soorten, worden uitgewisseld.
+Voorbeelden.
+Tot de prokaryote organismen behoren de domeinen van de bacteriën en de "Archaea". Deze twee domeinen werden eerder samen als het domein "Prokaryota" of "Monera" gerekend, maar deze groep blijk parafyletisch te zijn: de "Archaea" zijn meer verwant met de "Eukaryota" dan met de "Bacteria".
+Blauwalgen (cyanobacteriën), die behoren tot de bacteriën, zijn fotosynthetische organismen. De bladgroenkorrels (chloroplasten: organellen die in eukaryotische cellen fotosynthetiseren) zijn volgens de endosymbiontentheorie ontstaan uit vrijlevende cyanobacteriën.
+Andere prokaryoten leven in endosymbiose met eukaryoten, waarvoor ze energie vrijmaken, terwijl de gastheer voor een geschikt milieu zorgt. De endosymbiontentheorie stelt dat dit in eukaryote cellen onder andere ten oorsprong ligt aan de mitochondriën en plastiden. Zowel bladgroenkorrels als mitochondriën hebben eigen ringvormig DNA en ribosomen van een type zoals dat voorkomt bij prokaryoten.

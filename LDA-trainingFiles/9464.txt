@@ -1,0 +1,5 @@
+Gigahertz.
+Een magnetron gebruikt golven van 2,4 GHz
+De gigahertz is een tot het SI behorende afgeleide eenheid. De eenheid heeft het symbool GHz. Een gigahertz is gelijk aan 109 Hz, ofwel 1 000 000 000 hertz. Eén cyclus duurt daarmee 1 nanoseconde.
+Radiogolven met frequenties in de buurt van een gigahertz worden ook wel microgolven genoemd, of "centimetergolven" (dit laatste omdat de golflengte in de orde van centimeters ligt, 1 GHz → 30 cm, 10 GHz → 3 cm). Dit type radiogolven kan alleen worden gebruikt als de zender de ontvanger min of meer kan "zien". Vaak wordt dit gebruikt voor directe communicatie tussen twee punten met behulp van parabolische schotelantennes.
+Sinds 2000 worden processoren in pc's geklokt met een gigahertz of meer. In 2011 werden ook smartphones boven de 1GHz geklokt.

@@ -1,0 +1,3 @@
+Server.
+Een server is een computer of een programma dat diensten verleent aan clients. In de eerste betekenis wordt met server de fysieke computer aangeduid waarop een programma draait dat deze diensten verleent.
+Andere termen die gebruikt worden voor serverprogramma's zijn daemon (UNIX) en service (Windows).

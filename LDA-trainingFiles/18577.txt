@@ -1,0 +1,5 @@
+Verhang.
+Het verhang is het relatieve hoogteverschil van een watergang, uitgedrukt in m/km (meter per kilometer, derhalve een dimensieloos getal). De verhanglijn is het verhang uitgezet in functie van de lengte van de rivier. Bij een groot verhang snijdt een rivier zich in het landschap in. Als het verhang gering is, gaat een rivier kronkelen of meanderen, waardoor het verhang meestal nog kleiner wordt.
+De formule voor verhang is formula_1 waarbij I staat voor verhang, h voor het hoogteverschil in meter en l voor de lengte in kilometer.
+Zo is het (gemiddelde) verhang van de beek de Geul 4,3 m/km, met een totaal hoogteverschil van 250 meter op een totale lengte van 58 kilometer.
+Verhang maakt het mogelijk dat op rivieren gesteveld wordt. In verband met het drukke scheepvaartverkeer is dat tegenwoordig op de Nederlandse en Belgische rivieren verboden.

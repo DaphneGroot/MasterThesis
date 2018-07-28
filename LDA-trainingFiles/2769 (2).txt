@@ -1,0 +1,22 @@
+Cesium.
+Cesium of caesium is een scheikundig element met symbool Cs en atoomnummer 55. Het is een zilver/goudkleurig alkalimetaal.
+Ontdekking.
+Cesium is als eerste spectroscopisch ontdekt door Robert Bunsen en Gustav Kirchhoff in 1860. Het kwam in kleine hoeveelheden voor in mineraalwater uit Bad Dürkheim, dat zij onderzochten.
+De naam is afkomstig van de Latijnse term "caesius", dat als "hemelblauw" (naar de twee intense blauwe lijnen in het atomaire emissiespectrum van dit element) vertaald kan worden.
+Toepassingen.
+Cesium wordt toegepast in atoomklokken. Sinds 1967 wordt de seconde in het SI-stelsel gedefinieerd als 9.192.631.770 cycli van de straling die hoort bij de overgang tussen twee energietoestanden ("ground state hyperfine splitting frequency") van de isotoop 133Cs bij het absolute nulpunt.
+Opmerkelijke eigenschappen.
+Het metaal kan ofwel elektrochemisch ofwel door ontleding van het azide CsN3 bereid worden, maar het moet onder een inert gas, in vacuüm of onder olie bewaard worden. Het metaal zelf is bijzonder onedel. De elektronenconfiguratie is [Xe]6s1 en het ene valentie-elektron is slechts zeer zwak aan het atoom gebonden. De eerste ionisatiepotentiaal is maar 3,893 eV of 375,71 kJ/mol, de laagste waarde van alle stabiele elementen. Cesiumchemie wordt daarom beheerst door de sterke neiging het Cs+ ion te vormen.
+In aanraking met water reageert het explosief onder vorming van cesiumhydroxide en waterstof.
+De dichtheid van cesium is groter dan die van water, in tegenstelling tot natrium. Het metaal zal dan ook naar de bodem van een bekerglas water zinken. De warmte die bij deze reactie ontstaat kan het gevormde waterstof niet aansteken, want daar is luchtzuurstof bij nodig. Het waterstof is na zijn reis door het water niet meer heet genoeg om te ontbranden. Wel zal de warmte verdeeld worden tussen water en cesium. Door het ontwikkelde waterstof kan het cesium zijn warmte niet makkelijk aan het water afstaan. Daardoor zal de druppel cesium snel heter worden. De druppel ligt, zonder water ertussen, direct op de bodem van het bekerglas. Door het temperatuurverschil tussen het glas direct onder de druppel heet cesium (ongeveer 600 °C) en het glas onder het "koude" water (maximaal 100 °C) zal de bodem van het bekerglas stuk springen. Op dat moment volgt de explosie door het contact van heet cesium, waterstof met zuurstof uit de lucht.
+Het hydroxide is het actieve deel dat zorgt voor een base. De base is in staat glas te etsen.
+Ook met droge lucht kan het metaal reageren onder vorming van het oxide Cs2O en peroxiden (Cs2O2, Cs2O3).
+Van alle metalen is dit het metaal dat het ideaal van een vrij elektronenmetaal met een parabolische bandstructuur het dichtste benadert. Het is zilverwit en zacht als boter. Het smelt al bij 28 °C en is dus een vloeistof op een warme dag. Aangezien verontreinigingen tot verlaging van het smeltpunt leiden is dat voor een minder zuiver monster al bij kamertemperatuur het geval.
+Het heeft met de andere alkalimetalen gemeen dat zijn zouten vrij goed oplosbaar zijn. Toch zijn er wel verschillen in de chemie van cesium en de lichtere alkalimetalen. Het feit dat een cesiumion relatief groot is zorgt er bijvoorbeeld voor dat het chloride CsCl niet de keukenzoutstructuur heeft met oktaedrische omringing (6:6) maar een eigen structuur met een kubische omringing (8:8). Beide structuren zijn kubisch maar de eerste heeft ruimtegroep Fm3m, de laatste Pm3m.
+Verschijning.
+Cesium is een vrij zeldzaam element dat behoort tot de alkalimetalen. Het mineraal polluciet is de voornaamste bron. De belangrijkste natuurlijke voorraden (2/3 van de wereldvoorraad) van dit metaal bevinden zich aan het Bernic Lake van Manitoba in Canada. Men schat dat zich daar 300.000 ton polluciet bevindt, dat gemiddeld uit 20% cesium bestaat.
+Isotopen.
+Er zijn van cesium 34 isotopen bekend (atoommassa 112-145). Dit is meer dan van enig ander element. Echter, in de natuur komt slechts één stabiele isotoop voor: 133Cs. De radioactieve isotoop 137Cs wordt gebruikt in hydrologisch onderzoek, analoog aan het gebruik van tritium. 137Cs ontstaat bij nucleaire explosies en wordt ook gevormd in kerncentrales.
+Toxicologie en veiligheid.
+Toevoegen van een kleine hoeveelheid cesium aan water geeft een explosieve reactie.
+Cesium reageert explosief bij contact met water. Dat is voor de mens voornamelijk gevaarlijk wegens deze heftige reactie waarbij het corrosieve cesiumhydroxide (CsOH) wordt gevormd.

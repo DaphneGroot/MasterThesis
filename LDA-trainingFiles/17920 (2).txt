@@ -1,0 +1,4 @@
+Rechthoek.
+Een rechthoek is een tweedimensionaal meetkundig figuur met vier zijden en rechte hoeken tussen elk van die zijden. Twee overliggende zijden zijn altijd even lang. Het is een bijzondere vorm van een vierhoek.
+Het vierkant is een speciale vorm van de rechthoek waarbij alle zijden even lang zijn.
+Een driedimensionaal lichaam waarvan alle hoeken recht zijn, wordt een balk genoemd, tenzij alle zijden gelijk zijn. In zo'n geval heet het lichaam een kubus. Alle zijvlakken van een balk zijn rechthoeken. Alle zijvlakken van een kubus zijn vierkanten.

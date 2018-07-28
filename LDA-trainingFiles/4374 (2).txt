@@ -1,0 +1,106 @@
+Complex getal.
+In de wiskunde zijn complexe getallen een uitbreiding van de reële getallen. Zoals de reële getallen overeenkomen met punten op een rechte lijn, correspondeert elk complex getal met een punt uit een vlak. Een complex getal is zodoende een paar reële getallen formula_1 en formula_2, dat gewoonlijk weergegeven wordt als formula_3. Hierin is formula_4 (soms wordt ook formula_5 gebruikt) een bijzonder complex getal, de imaginaire eenheid, met als eigenschap formula_6. Met complexe getallen in de vorm formula_3 kan gewoon gerekend worden, met de extra rekenregel dat overal formula_8 vervangen wordt door –1.
+De schrijfwijze formula_9 laat zien dat een complex getal in feite een lineaire combinatie is van een reëel getal en een imaginair getal.
+De extra mogelijkheden die het rekenen met complexe getallen biedt, hebben geleid tot allerlei nuttige toepassingen in vooral alles wat met trillingen en golven te maken heeft, zoals het grootste deel van de natuurkunde, de elektrotechniek, de meet- en regeltechniek en vele andere technische disciplines.
+Inleiding.
+Complexe getallen voorzien in de behoefte oplossingen te hebben van alle (algebraïsche) vergelijkingen, dus bijvoorbeeld ook vergelijkingen van de vorm formula_10 voor negatieve getallen formula_11.
+Het is voldoende een denkbeeldige (imaginaire) oplossing, aangeduid met formula_4 (van "imaginair", ingebeeld) te definiëren van de vergelijking formula_13. Men stelt dus: deze vergelijking heeft "per definitie" een oplossing, en deze oplossing wordt formula_4 genoemd. Door de reële getallen uit te breiden met dit denkbeeldige getal formula_4, waarmee verder op de normale manier gerekend wordt, ontstaat de verzameling formula_16 van de complexe getallen. Deze uitbreiding bevat met formula_4 vanzelf ook alle uitdrukkingen van de vorm formula_3 waarin formula_1 en formula_2 reële getallen zijn. Hiermee is het gewenste resultaat bereikt: binnen de complexe getallen is elke algebraïsche vergelijking oplosbaar.
+Geschiedenis.
+De formule van de Italiaanse wiskundigen Scipione del Ferro en Niccolo Fontana Tartaglia voor de oplossingen van de derdegraadsvergelijking plaatste de wiskundigen van de zestiende eeuw voor een enorm nieuw probleem. Wanneer zo'n vergelijking drie verschillende (reële) oplossingen heeft, komen in die formule namelijk wortels voor uit negatieve getallen. En in die tijd waren wortels uit negatieve getallen nog niet gedefinieerd. Het is geen wonder dat de naam 'imaginaire getallen' snel gevonden was, en de gewone getallen heetten vanaf toen 'reëel'. Aan het einde van de 18e eeuw legden de grote wiskundigen Leonhard Euler en Carl Friedrich Gauss de basis voor de getallenleer en de Complexe functietheorie waarmee dit probleem en vele andere zouden worden opgelost.
+Definitie.
+Rafael Bombelli, de bedenker van de imaginaire getallen, stelde de rekenregels op voor complexe getallen. Hierbij stelde hij als axioma de genoemde eigenschap van het complexe getal formula_4.
+Het getal formula_1 noemt men het "reële deel" en het getal formula_2 het "imaginaire deel" van het complexe getal formula_3, en noteert
+De verzameling van de complexe getallen wordt genoteerd als formula_16.
+De reële getallen vormen een deel van de complexe getallen; het zijn de complexe getallen met imaginair deel gelijk aan 0. Getallen waarvan het reële deel 0 is noemt men "zuiver imaginair".
+Alternatieve definitie.
+Een complex getal is een getal dat bestaat uit twee reële getallen. Dit leidt tot een alternatieve definitie, waarin het paar reële getallen zelf als complex getal opgevat wordt en vermeden wordt vooraf de imaginaire eenheid formula_4 in te voeren.
+Dit paar reële getallen kan vervolgens worden opgevat als een vector in een tweedimensionale ruimte, het complexe vlak, waarmee kan worden gerekend zoals met gewone vectoren maar met een extra definitie voor de vermenigvuldiging, zie hieronder, met het karakter van een combinatie van een verschaling en een rotatie. Deze definitie heeft tot gevolg dat het kwadraat van een zuiver imaginair getal een reëel getal oplevert.
+De alternatieve definitie luidt als volgt.
+Het getal formula_1 heet ook hier het "reële deel" en het getal formula_2 het "imaginaire deel" van het complexe getal.
+Voorstelling.
+Met de identificatie van (1,0) = 1 en formula_51 is aan de regels voor complexe getallen voldaan.
+De verzameling formula_52 is, "na" uitbreiding met de hierboven gedefinieerde vermenigvuldiging, isomorf met de verzameling formula_16.
+Deze constructie levert een meetkundige voorstelling van de complexe getallen op, het complexe vlak genoemd. Deze manier van voorstellen werd in 1806 bedacht door de Zwitserse amateur wiskundige Jean-Robert Argand en wordt wel als Arganddiagram aangeduid. De eerste wiskundige, die een meetkundige voorstelling van de complexe getallen gaf, was trouwens Caspar Wessel in 1797, maar zijn werk werd niet opgepakt door anderen, mede omdat hij in het Deens schreef.
+Naast de overeenkomsten is een belangrijk verschil tussen formula_52 en formula_16 dat de in formula_16 gebruikte vermenigvuldiging van getallenparen in formula_52 niet gedefinieerd is.
+Met de eerst gegeven definitie zijn de reële getallen vanzelf een deelverzameling van de complexe. Het zijn de complexe getallen met imaginair deel 0.
+Met de alternatieve definitie vormen de reële getallen formeel geen deelverzameling van de complexe, maar men kan ze ingebed denken door de reële getallen te identificeren als de complexe getallen van de vorm formula_58.
+De verzameling formula_16 van de complexe getallen, met de hierboven gedefinieerde optelling en vermenigvuldiging, is een lichaam.
+Voorbeelden.
+waarbij we van de rekenregel gebruikgemaakt hebben om formula_8 te vervangen door –1.
+Andere voorstellingen.
+Vatten we de matrix op als lineaire transformatie van het xy-vlak, dan stelt formula_4 de afbeelding voor die het punt (1,0) afbeeldt op (0,1) en het punt (0,1) op (-1,0). Precies wat we verwachten bij vermenigvuldiging met formula_4.
+Deze manier van voorstellen is analoog aan de voorstelling van de quaternionen als 2×2-matrices van complexe getallen.
+De eigenschappen van complexe getallen hebben tot gevolg dat een polynoom van graad formula_77 in de complexe getallen precies formula_77 nulpunten heeft (in plaats van ten hoogste formula_77 nulpunten zoals bij de reële getallen het geval is). Dit is de hoofdstelling van de algebra. Ook geldt dat de vergelijking formula_80 voor negatieve getallen formula_1 een oplossing heeft voor alle formula_77 ongelijk aan 0 in plaats van alleen maar voor oneven waarden van formula_77.
+Notaties voor complexe getallen.
+Door de definitie van complexe getallen als elementen van een twee-dimensionale ruimte zijn er een tweetal notaties voor complexe getallen die voor de hand liggen. Deze notaties worden beide gebruikt, vaak naast elkaar.
+Cartesische of algebraïsche notatie.
+Een complex getal als vector in de ruimte
+In de elektrotechniek wordt meestal het symbool formula_5 gebruikt voor de imaginaire basisvector, om verwarring met het symbool voor stroom formula_4 te vermijden.
+Notatie met poolcoördinaten.
+Omdat we de complexe getallen definiëren als elementen van een tweedimensionale ruimte, kunnen we een complex getal formula_93 ook weergeven in poolcoördinaten, door de afstand formula_94 van formula_34 tot de oorsprong (0,0) en de hoek θ tussen de vector formula_96 en het positieve deel van de reële as.
+De bovengenoemde afstand formula_94 wordt de "voerstraal" of "modulus (absolute waarde)" van het complexe getal formula_84 genoemd en de hoek formula_99 de "poolhoek" of het "argument" van formula_84.
+Complex geconjugeerde.
+Uit de definitie volgt onmiddellijk dat
+Modulus.
+Of, wanneer men een complex getal vermenigvuldigt met zijn complex geconjugeerde bekomt men het kwadraat van de modulus.
+Modulus van de complex geconjungeerde.
+Voor de complex geconjungeerde van formula_9, oftewel formula_125,
+Ordening.
+Op de complexe getallen bestaat geen ordening zoals op de reële getallen, waarbij we aan "grootte" moeten denken. In die zin is een uitspraak als formula_127 betekenisloos. Het is echter wel mogelijk op de complexe getallen een ordening in te voeren. Een ervan heet "lexicografische ordening". In deze ordening gaat men net zo te werk als bij het ordenen van namen, en beschouwt men het reële deel van een complex getal als het ware als de eerste letter en het imaginaire deel als de tweede letter. Het complexe getal formula_3 is dus groter dan alle complexe getallen formula_129 waarvoor formula_130 of waarvoor formula_131 en formula_132.
+Optellen en aftrekken.
+Het optellen en aftrekken van complexe getallen gaat het makkelijkst in Cartesische vorm: het reële deel en het imaginaire deel worden apart opgeteld. Dit komt overeen met optelling van vectoren.
+formula_140.
+Uiteraard is aftrekken hetzelfde als het optellen van het tegengestelde.
+Vermenigvuldigen en delen.
+Dit is feitelijk hetzelfde als het vermenigvuldigen bij de reële getallen, met inachtneming van de definitie formula_6.
+We zien dat bij het vermenigvuldigen van twee complexe getallen de moduli met elkaar worden vermenigvuldigd en de argumenten bij elkaar opgeteld.
+In het bijzonder volgt dat vermenigvuldiging met formula_4 hetzelfde is als draaiing over formula_158 radialen, dus een toename van het argument met formula_158. Daaruit zien we weer overeenstemming met de definitie: formula_6.
+Voor formula_169 moeten we voor machtsverheffen eerst wat meer gereedschap ontwikkelen.
+Daarbij is gebruikgemaakt van de definitie formula_6.
+De verzameling formula_16 vormt met de hierboven beschreven optelling en vermenigvuldiging een. De eerder geciteerde hoofdstelling van de algebra betekent dat formula_16 een gesloten lichaam is.
+Logaritme en e-macht.
+De e-macht is een bekende standaardfunctie die uitgebreid kan worden naar de complexe getallen.
+Voor een complex getal formula_174 is de e-macht van formula_84 gedefinieerd als
+Merk op dat de complexe e-macht zo gedefinieerd is dat deze voor reële waarden van formula_84 (dat wil zeggen met een imaginair deel 0) overeenkomt met de definitie van de e-macht voor reële getallen.
+Met deze vaststelling in de hand, kunnen we ook de natuurlijke logaritme van complexe getallen definiëren. Een eigenschap van de natuurlijke logaritme is namelijk dat
+Voor een complex getal z definiëren we nu op basis van het bovenstaande
+met voor formula_198 de "normale" definitie van de natuurlijke logaritme voor reële getallen. Aangezien de logaritme zo slechts op veelvouden van 2π na bepaald is, spreken we af voor formula_199 altijd de hoofdwaarde te nemen. Daarmee geldt dus dat formula_200.
+Sinus en cosinus.
+uit de voorgaande sectie kunnen we een verband leggen tussen de complexe e-macht en de sinus en cosinus.
+Merk op dat, overeenkomstig het geval is voor de reële functies, de complexe sinus en cosinus periodieke functies zijn met periode formula_209.
+Stelling van De Moivre.
+De eerder uitgewerkte omschrijvingen van goniometrische formules naar e-machten wordt vaak gebruikt om goniometrische functies te reduceren tot meer overzichtelijke polynomen op basis van e-machten en vandaar mogelijk weer tot makkelijkere, goniometrische uitspraken.
+Complexe wortelfuncties.
+Hieruit kunnen we meteen afleiden wat de n-de-machtswortels van een complex getal z zijn. Per definitie zijn dit alle oplossingen w van de vergelijking formula_217.
+Het complexe getal w dat het meest voor de hand ligt is de w waarvoor geldt dat
+De n-de-machtswortels van een complex getal zijn in het complexe vlak dus precies n punten, regelmatig verdeeld over een cirkel om de oorsprong, met straal
+formula_222.
+Voorbeeld.
+In het reële domein is de derdemachtswortel uit -1 gelijk aan -1. Maar met bovenstaande rekenregel vinden we dat ook formula_223 en formula_224 derdemachtswortels van –1 zijn.
+Hoofdwaarde.
+Zijn we geïnteresseerd in een unieke oplossing voor de wortelfunctie, dan kunnen we die waarde kiezen die gebaseerd is op de hoofdwaarde van formula_199 en daar weer de hoofdwaarde van nemen. In het bijzonder vinden we zo als 'unieke' wortel voor -1 de waarde formula_4.
+Merk op dat de bekende rekenregels niet gelden voor complexe wortels. Zo geldt "niet":formula_230.
+Eenheidswortels.
+Een speciale rol is weggelegd voor de zgn. "eenheidswortels". Dat zijn de oplossingen van de vergelijking
+waarin n een natuurlijk getal is.
+Trillings- en golfverschijnselen.
+Stel formula_233 beschrijft een wisselstroom met hoekfrequentie formula_234 en amplitude formula_235. Dit kan worden geschreven als
+Deze cosinus is een oplossing van een lineaire differentiaalvergelijking (DV) van de tweede orde met constante coëfficiënten. Ook
+is een oplossing van diezelfde DV.
+Sinus en cosinus zijn de twee onafhankelijke oplossingen van die DV, hetgeen wil zeggen dat de een niet als een veelvoud van de ander is te schrijven. Volgens de theorie van de differentaalvergelijkingen is ook een lineaire combinatie
+een oplossing, waarbij A en B reële constanten zijn. In feite is dit een toepassing van het superpositieprincipe. Dit kan weer herschreven worden als
+In plaats van formula_242 en formula_243 zijn nu de amplitude formula_235 en faseverschuiving formula_245 de integratieconstanten waarmee de DV aan de randvoorwaarden kan voldoen.
+Door uitbreiding van formula_246 met een imaginair deel is een complexe exponentiële functie formula_247 ontstaan, die de prettige eigenschap heeft dat de afgeleide ervan verkregen wordt door vermenigvuldiging met formula_248 en de integraal door deling door formula_248. De relevante fysische grootheid is formula_250.
+Hierdoor worden lineaire differentiaalvergelijkingen vereenvoudigd tot algebraïsche uitdrukkingen. Ook bij andere soorten differentiaalvergelijkingen worden wel complexe getallen gebruikt.
+Complexe getallen in de elektrotechniek en elektronica.
+Wisselstroom is een periodiek verschijnsel, zodat complexe getallen ook hier het rekenwerk sterk vereenvoudigen. Toepassingen liggen bijvoorbeeld in de signaalanalyse, meet- en regeltechniek, analoge en digitale geluids- en beeldbewerking, telecommunicatie, etc. De faseverschuiving (in elektrotechnische spreektaal vaak wat slordig "cosinus φ" genoemd) valt met deze complexe rekenwijze eenvoudig te berekenen. Ook het begrip "impedantie" kan als complexe grootheid worden beschreven (zie ook complexe impedantie), waardoor de wet van Ohm herschreven kan worden als: complexe spanning = complexe impedantie maal complexe stroom. Hierbij wordt de modulus van de impedantie vermenigvuldigd met de amplitude formula_235 van de stroom en het argument van de impedantie opgeteld bij de fase formula_252 van de stroom.
+Fourieranalyse wordt veelvuldig gebruikt voor de analyse van tijdafhankelijke signalen, in het bijzonder voor stationaire periodieke signalen. Voor in- en uitschakelverschijnselen, die niet zuiver periodiek zijn, is de Laplacetransformatie, een uitbreiding van de Fouriertransformatie, onontbeerlijk. Zowel de Fourieranalyse als de Laplacetransformatie maken deel uit van de complexefunctietheorie; voor quasi-stationaire signalen, zoals golfpakketten, zijn er analytische signaalfuncties.
+Opmerking: In de elektrotechniek en elektronica wordt de imaginaire eenheid "j" genoemd, om verwarring met de "i" voor de stroomsterkte te voorkomen.
+Complexe getallen in de natuurkunde.
+Ook in de natuurkunde worden complexe getallen en de bijbehorende complexefunctietheorie vooral gebruikt om trillingen en golven te beschrijven, zoals in de geluidsleer, de elektromagnetische-golftheorie, de fysische optica (een tweedimensionale versie van de fourieranalyse is toepasbaar op afbeeldingen en buigingspatronen), evenals in de kwantummechanica, waarin golffuncties waarschijnlijkheidsverdelingen beschrijven.
+Relativiteit.
+In het speciale en de algemene relativiteitstheorie worden een aantal formules voor de ruimtetijd eenvoudiger als men de tijdsvariabele imaginair weergeeft. (Dit is niet langer standaard in klassieke relativiteit, maar wordt wel gebruikt in de kwantumveldentheorie.) Complexe getallen zijn essentieel voor spinors, die een veralgemening van de tensoren die worden gebruikt in de relativiteitstheorie.
+Fractals.
+Bepaalde fractals worden weergegeven in het complexe vlak, bijvoorbeeld de Mandelbrotverzameling en de Juliaverzameling.
+Driehoeken.
+Elke driehoek heeft een unieke Steiners ingeschreven ellips -een ellips binnen de driehoek, die raakt aan het midden van de drie zijden van de driehoek. De brandpunten van driehoekige Steiners ingeschreven ellips kan als volgt worden gevonden, volgens de Stelling van Marden: Noteer de hoekpunten van de driehoeken in het complexe vlak als, formula_253, formula_254 en formula_255. Schrijf de derdegraadsvergelijking formula_256, neem haar afgeleide en stel de (kwadratische) afgeleide gelijk aan nul. De stelling van Marden zegt dat de oplossingen van deze vergelijking, complexe getallen zijn die de locaties van de twee brandpunten van de Steiners ingeschreven ellips weergeven.

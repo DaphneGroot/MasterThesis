@@ -1,0 +1,7 @@
+Driehoeksgetal.
+Een driehoeksgetal is een type veelhoeksgetal. Een driehoeksgetal kan grafisch worden weergegeven door het aantal stippen in een gelijkzijdige driehoek, die gelijkmatig met stippen wordt gevuld. Aangezien bijvoorbeeld drie stippen in de vorm van een gelijkzijdige driehoek kunnen worden gelegd, is drie dus een driehoeksgetal.
+Het "n"-de driehoeksgetal is het aantal stippen in een driehoek met "n" stippen aan één zijde. Drie is dus het tweede driehoeksgetal. De eerste zeven driehoeksgetallen zijn de niet-negatieve gehele getallen 0, 1, 3, 6, 10, 15, 21. In het plaatje worden deze (behalve 0) weergegeven.
+Definitie.
+(dit is de binomiaalcoëfficiënt van "n"+1 over 2).
+Eigenschappen.
+De som van alle reciproque driehoeksgetallen is

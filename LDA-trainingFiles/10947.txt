@@ -1,0 +1,5 @@
+Open Source Development Lab.
+Open Source Development Lab was een vereniging die zich bezighield met het ontwikkelen van vrije software. Een bekende medewerker was Linus Torvalds.
+Meestal hield het OSDL zich bezig met beslissen of toegestuurde patchen goed genoeg waren om in bestaande software opgenomen te worden.
+OSDL werd gesponsord door bedrijven uit diverse takken van de industrie.
+Op 22 januari 2007 ging OSDL samen met de Free Standards Group op in een nieuwe organisatie, The Linux Foundation. Het doel blijft hetzelfde: Linux promoten.

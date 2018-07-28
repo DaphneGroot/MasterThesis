@@ -1,0 +1,8 @@
+Transcendent getal.
+Een reëel getal, of algemener: een complex getal, "x" noemt men transcendent, wanneer dit getal niet als het nulpunt van een polynoom is te schrijven, waarvan de graad eindig is.
+voor formula_2 met geheeltallige of meer algemeen rationale coëfficiënten formula_3, waarbij geldt dat formula_4. Een getal dat wel het nulpunt van een polynoom is, heet een algebraïsch getal. Een transcendent getal is een getal dat niet algebraïsch is.
+Ieder transcendent getal is irrationaal, want een rationaal getal is een oplossing van een lineaire vergelijking met geheeltallige coëfficiënten, dus algebraïsch.
+Een transcendent getal kan op de getallenlijn of in het complexe vlak niet door een constructie met passer en liniaal worden aangegeven.
+Er zijn overaftelbaar veel transcendente getallen en maar aftelbaar veel algebraïsche getallen. Een transcendent getal is, zoals opgemerkt, een irrationaal getal, maar niet ieder irrationaal getal is transcendent. Bijvoorbeeld formula_5 is irrationaal en algebraïsch.
+Open problemen.
+Van enkele reële getallen is nog niet bekend of ze transcendent of algebraïsch zijn, zoals van de constante van Euler-Mascheroni.

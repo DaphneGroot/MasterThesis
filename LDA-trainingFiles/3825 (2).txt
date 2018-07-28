@@ -1,0 +1,12 @@
+Pauk.
+Een pauk is een keteltrom met een gedefinieerde toonhoogte.
+Op een koperen of kunststof ketel (doorsnede 50 tot 80 cm) is een vel gespannen. Vroeger gebruikte men kalfshuid, maar tegenwoordig steeds vaker synthetisch vervaardigde vellen. Door met een mallet op het vel te slaan klinkt een bepaalde toon. De toonhoogte is afhankelijk van de spanning van het vel en de plaats waarop het vel geraakt wordt.
+De grootte van de eronder liggende resonantieruimte bepaalt in welk toonbereik de pauk gebruikt kan worden.
+Bij de "machinepauk" wordt de velspanning geregeld met een hendel. De meeste moderne "orkestpauken" zijn uitgerust met een pedaal dat de spanning in het vel regelt. Met een mechaniek van trekstangen wordt de positie van het pedaal omgezet in de gewenste velspanning. Voor het gemak van de paukenist (of paukslager) wordt een "toonwijzer" toegevoegd om een visuele indicatie te geven van de velspanning. De toonwijzer geeft daarbij grofweg aan op welke toon de pauk ingesteld staat.
+De klankkleur is sterk afhankelijk van het gebruikte materiaal van de kop van de stok (kurk, leer, vilt) en van de plaats waar het vel geraakt wordt, en - in veel mindere mate - de constructie van de pauk. Sommige orkesten, speciaal het Koninklijk Concertgebouworkest en de Wiener Philharmoniker, gebruiken pauken die aan de onderkant open zijn.
+Er bestaan ontzaglijk veel trommels, vooral als men de zeer uiteenlopende trommels en gongs van primitieve volkeren meerekent. In het symfonieorkest worden maar weinig trommels gebruikt. De meest gebruikte hiervan is de pauk die door de "paukenist" wordt bespeeld.
+De pauk is mogelijk voor een breder publiek bekend geworden door Franz Joseph Haydns compositie: symfonie nr. 94 ook wel genoemd "De symfonie met de paukenslag". Het verhaal gaat dat hij dit speciaal gecomponeerd had om zijn gehoor wakker te schudden als het tijdens een uitvoering dreigde in te dutten.
+Bereden orkesten zijn vaak uitgerust met een zogenaamd "paukenpaard". Op dit paard zijn aan weerszijden twee pauken bevestigd die door de ruiter worden bespeeld.
+Stemmen.
+De trommel vertoont bij deze verhouding een van de Chladni-patronen. De eerste eigenfrequentie is die van het vel als dat precies in het midden aangeslagen zou worden. Dit ervaren we echter "niet" als de grondtoon.
+De veel luidere maar niet noodzakelijk harmonische boventonen bepalen wat we ervaren als de grondtoon. Waar die een verhouding van ongeveer 2:3:4 te zien geven ervaart ons oor de (afwezige) akoestische verschiltoon 1.

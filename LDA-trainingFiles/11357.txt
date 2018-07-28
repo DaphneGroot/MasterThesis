@@ -1,0 +1,7 @@
+Concaaf.
+Concaaf is een ander woord voor "hol" (het tegengestelde van "bol" of convex).
+Voorbeeld: de concave kant van een schaal is de binnenkant; de buitenkant noemen we de convexe kant.
+'Concaaf' en 'convex' komen ook vaak terug in wetenschap en techniek, bijvoorbeeld in de optica en in grafieken. Zo kent men concave en convexe lenzen en spiegels.
+de grafiek van een concave functie f
+In de wiskunde spreekt met van een concave functie "f", wanneer formula_1 en formula_2 met formula_3 geldt dat
+Van een functie formula_5 wordt gezegd dat deze convex is als formula_6 concaaf is. Concaaf betekent hier dus niet "niet convex", want veel functies zijn met deze definitie noch convex, noch concaaf.

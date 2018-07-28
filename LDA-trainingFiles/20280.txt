@@ -1,0 +1,21 @@
+Bedektzadigen.
+De bedektzadigen (wetenschappelijke naam: Angiospermae) zijn binnen de landplanten ("Embryophyta") de belangrijkste groep. De schattingen over hoeveel soorten bedektzadigen er zijn belopen tussen de 200.000 tot 450.000. Ze worden gekenmerkt door bloemen en doordat ze zich voortplanten door middel van zaden in vruchten.
+Het verschil is dat bij de naaktzadigen de zaden niet in een vruchtbeginsel maar 'naakt' liggen, bijvoorbeeld in een dennenkegel op de kegelschubben.
+De naam "bedektzadigen" is een vertaling van de wetenschappelijke naam "Angiospermae".
+Bloemen.
+Alle planten die tot deze groep horen, laten bloemen zien, hoe onopvallend ook (zoals bij de grassen en sommige loofbomen). De naam bloemplanten is een vertaling van de wetenschappelijke naam "Anthophyta". Deze naam heeft niet betrekking op de hele groep van de zaadplanten ("Spermatophyta"). De andere groep zaadplanten, de Naaktzadigen met onder andere de coniferen, hebben dan ook geen bloemen.
+Vruchten.
+Bij de bedektzadigen liggen de zaden in een vrucht. In sommige gevallen zijn deze vruchten onopvallend, zoals bij een eikel, waar de vruchtwand slechts een heel dunne bedekking van het zaad vormt. In andere gevallen zijn de vruchten heel opvallend, zoals bij de tomaat.
+Taxonomie.
+Deze groep is altijd erkend als een natuurlijke groep, van planten die duidelijk onderling verwant zijn. In de loop van de tijd is een aantal verschillende namen voor deze groep gebruikt, waarbij de naam "Angiospermae" een directe beschrijving van het belangrijkste onderscheidende kenmerk is.
+Angiospermae.
+Deze naam wordt bijvoorbeeld gebruikt door het Wettstein systeem (laatste versie gepubliceerd in 1935). Aldaar worden de bedektzadigen onderverdeeld in twee groepen: de "Dicotyledones", de dicotylen of tweezaadlobbigen en de "Monocotyledones", de monocotylen of eenzaadlobbigen.
+Magnoliophyta.
+Arthur Cronquist die in 1981 een veelgebruikte classificatie publiceerde, het Cronquist systeem, gebruikte een een standaardaanduiding. Cronquist duidde de bedektzadigen aan met de naam "Magnoliophyta", een naam in de rang van afdeling ("divisio" of "fylum"), gevormd uit de familienaam "Magnoliaceae". In de "Heukels" tot en met de 22e druk werd dit omgezet naar "Magnoliopsida", een naam in de rang van klasse.
+Angiosperms.
+In de jaren negentig is het APG-systeem (1998) gepubliceerd (zie ook de eerste druk van het handboek van W.S. Judd en anderen). Dit gebruikte de informele naam "angiosperms", een gangbaar Engels woord voor deze groep (bijvoeglijk naamwoord "angiosperm"). Dit is dus geen formele botanische naam, met een rang, maar de naam voor een clade. Bij APG is de traditionele tweedeling verlaten: de eenzaadlobbigen worden gehandhaafd, als clade onder de naam "monocots", de normale Engelse naam, maar de tweezaadlobbigen blijken niet handhaafbaar. De belangrijkste andere groep in het systeem zijn de "eudicots", die de typische tweezaadlobbigen bevat, met de voor die groep typische kenmerken. De atypische tweezaadlobbigen worden ongeplaatst gelaten.
+Dit systeem is later herzien als APG II (2003), waarbij een derde hoofdgroep onderscheiden wordt, de "magnoliids". In 2009 is het APG III-systeem gepubliceerd.
+De 23e druk van de "Heukels" (2005) volgt APG II. Om precies te zijn: het is gebaseerd op de 3e editie van "The Plant-book" (aangekondigd voor 2008, nog te verschijnen) dat op zijn beurt een modificatie gebruikt van APG II. Door de Nederlandstalige Wikipedia wordt deze indeling als geautoriseerde bron gehanteerd voor de indeling van de bedektzadigen onder de verwijzing. Bij APG heten de bloemplanten "angiosperms", met als belangrijkste groepen de "monocots" en de "eudicots", in de "Heukels" vertaald als Bedektzadigen, Eenzaadlobbigen en Tweezaadlobbigen. Omdat de tweezaadlobbigen in de 23e druk van de "Heukels" een andere (kleinere) groep zijn dan de traditionele Tweezaadlobbigen (zoals in de 22e druk), worden ze hier aangeduid als 'nieuwe' Tweezaadlobbigen.
+Het APG III-systeem, de opvolger van het APG II-systeem, is gepubliceerd in oktober 2009, 6½ jaar na de publicatie van het APG II-systeem.
+Angiospermae.
+Ook onder de PhyloCode is een naam gepubliceerd: "/Angiospermae" Lindley 1830. Deze naam kan pas gaan gelden als de PhyloCode in werking treedt.

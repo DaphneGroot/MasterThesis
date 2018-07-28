@@ -1,0 +1,11 @@
+Absolute waarde.
+Onder absolute waarde of modulus van een reëel getal of andere grootheid verstaat men in het algemeen de lengte of grootte daarvan, daarmee afziend van andere eigenschappen, zoals teken of richting. Ook kan men zeggen dat met de absolute waarde wordt aangegeven hoe ver dat reële getal van nul afligt.
+In de wiskunde noteert men een absolute waarde door het argument tussen twee verticale strepen te zetten: formula_1
+Voorbeelden.
+Dit berust op het feit dat de vierkantswortel gedefinieerd is als een positief getal.
+De definitie voor reële getallen laat zich uitbreiden naar complexe getallen.
+Complexe getallen.
+Hierbij is formula_9 de notatie voor de complex geconjugeerde van "z".
+De waarde formula_10 kan worden gevisualiseerd als de lengte van de "vector z" in het complexe vlak. Deze wordt berekend met de stelling van Pythagoras.
+Generalisatie.
+Ook voor sommige vectoren is de absolute waarde gedefinieerd. In het algemeen verstaan we daaronder de norm van de vector.

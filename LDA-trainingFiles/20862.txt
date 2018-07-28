@@ -1,0 +1,17 @@
+Digitale radio.
+Digitale radio is de term waarmee een aantal manieren om digitale radio-uitzendingen te verzorgen bedoeld wordt. Doel van digitale radio is het verzorgen van radio-uitzendingen met een hogere kwaliteit dan FM toelaat; de kwaliteit van de uitzendingen is te vergelijken met die van een compact disc, hoewel dit sterk afhangt van de compressietechniek en de bitrate van het signaal.
+Naast een hogere geluidskwaliteit maakt digitale radio ook een ruimer aanbod mogelijk. Dit kan meteen een oplossing bieden voor de huidige capaciteitsproblemen op de FM-band. Bovendien is het mogelijk om tijdens de uitzendingen meer randinformatie door te sturen, wat de interactiviteit met de luisteraar ten goede kan komen.
+Technieken.
+Digital Audio Broadcasting (DAB) is de meest gebruikte standaard voor digitale radio. Daarnaast is het mogelijk om DVB of Digital Radio Mondiale (DRM) te gebruiken voor digitale radio. SES Astra daarentegen introduceerde zijn eigen standaard, genaamd Astra Digital Radio voor digitale radio-uitzendingen op de Astra1-satellieten.
+Hoewel al vroeg was aangetoond dat DAB superieur was aan IBAC en IBOC, is de laatste in de VS doorontwikkeld en wordt daar nu een op IBOC gebaseerd systeem gebruikt: HD Radio.
+De audiocompressie die in standaard-DAB wordt gebruikt, MPEG1 Layer 1 en 2, is verouderd. Deze techniek bestond al in 1993. Daarom wordt in veel landen omgeschakeld naar DAB+ of T-DMB-Radio, dat net als HD-Radio gebruikmaakt van AAC+.
+In het midden van de jaren 90 heeft het Fraunhofer-instituut geprobeerd om in DAB MPEG1 Layer 1 en 2 te vervangen door MP3. Dit is door de partners in Eureka147 tegengehouden. In die tijd waren namelijk de audiodecoders in hardware uitgevoerd en het invoeren van een nieuwe audiocodering zou de radiostandaard hebben kunnen vertragen.
+Situatie in Europa.
+Een aantal landen in Europa zijn van plan FM af te schakelen. Voor Noorwegen staat dit als eerste land in Europa in 2017 gepland.
+Er worden thans nog veel analoge radiotoestellen verkocht. Deze toestellen worden onbruikbaar als de analoge radio-uitzendingen uitgefaseerd worden, zoals eerder al met analoge televisie-uitzendingen gebeurde.
+Vlaanderen.
+In 2004 waren er ongeveer 20.000 DAB-ontvangers in Vlaamse huisgezinnen. De VRT is al in 1997 begonnen met digitale uitzendingen. Daarnaast zendt het ook digitale radio uit via DVB-T.
+Nederland.
+Er is radio via DAB, via DVB-T en webradio.
+Vanaf juni 2003 verzorgt Radio Nederland Wereldomroep dagelijkse uitzendingen in DRM op korte golf.
+Een aantal commerciële radiostations heeft in 2007, uit ongeduld over het trage beschikbaar komen van extra frequenties, de digitale FMeXtra-techniek in gebruik genomen op de FM-band.

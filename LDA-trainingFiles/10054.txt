@@ -1,0 +1,6 @@
+Gelpermeatiechromatografie.
+Gelpermeatiechromatografie (GPC) is een techniek verwant aan chromatografie en een onderdeel van size exclusionchromatografie (SEC), waarbij een oplossing over een stationaire gel als drager wordt gevoerd, en de verschillende opgeloste verbindingen daarbij verschillende vertragingen oplopen.
+In de gelpermeatiechromatografie wordt de vertraging niet veroorzaakt door adsorptie van de opgeloste stof aan de stationaire fase, maar doordat de stationaire fase verschillende poriegrootten heeft waarin grote moleculen niet, en kleine moleculen wel passen. Indien die moleculen in die gaatjes passen leggen de moleculen een langere weg af dan de moleculen die er niet in passen. Hierdoor worden kleine moleculen meer vertraagd dan grote moleculen.
+Evenals bij andere chromatografische scheidingen geldt ook hier de van Van Deemter-vergelijking.
+Deze techniek wordt veel gebruikt voor moleculaire gewichtsverdelingen van polymeren en het zuiveren van een eiwit.
+Het kolommateriaal bestaat vaak uit sepharosegel of styreendivinylbenzeen.

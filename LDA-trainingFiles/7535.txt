@@ -1,0 +1,3 @@
+Elementenanalyse.
+Elementenanalyse is een vorm van scheikundige analyse waarbij niet de structuur van de moleculen wordt onderzocht, maar waarbij alleen de samenstelling van het monster in verschillende elementen wordt bepaald.
+De oude chemische analysetechnieken zijn tegenwoordig alleen nog voor specifieke doelen in gebruik. Ze zijn veel arbeidsintensiever en moeten heel specifiek voor een enkel element worden uitgevoerd. Atoomspectroscopische technieken zijn veel eenvoudiger en sneller uit te voeren, aangenomen dat de dure apparatuur beschikbaar is. In sommige gevallen hebben deze atoomspectroscopische technieken last van matrixeffecten en zijn ze voor sommige elementen niet voldoende gevoelig.

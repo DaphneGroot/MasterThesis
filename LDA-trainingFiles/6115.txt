@@ -1,0 +1,10 @@
+Homepage.
+De homepage van de Nederlandstalige Wikipedia
+De term "homepage" komt uit het Engels en betekent letterlijk "thuispagina".
+Om het adres van de homepage zo eenvoudig mogelijk te houden wordt een website vaak zo ingericht dat de homepage verschijnt als iemand in zijn browser slechts het domein (bijvoorbeeld) opvraagt. De homepage heet meestal index.htm of index.html. Een wat ingewikkelder website gebruikt vaak een database waaruit de pagina's opgevraagd worden en gebruikt vaak een scriptpagina zoals index.php als homepage.
+Op sommige sites wordt de bezoeker, al dan niet na het tonen van een splash page, automatisch doorgestuurd naar een vervolgpagina. Bij meertalige websites wordt de bezoeker meestal al van op de homepage gevraagd een taal te selecteren.
+Sommige websites zijn zeer omvangrijk en complex, en bedienen meerdere doelgroepen. Zo'n website kan het beste worden gezien als een verzameling van meerdere subwebsites, elk met een eigen homepage.
+Het is niet noodzakelijk dat een bezoeker als eerste de homepage opvraagt. Via zoekmachines, bladwijzers (bookmarks) en deep links kan een bezoeker direct op een andere pagina van de website binnenkomen. Sommige websites zijn echter zo ingericht dat de bezoeker dan technische problemen ondervindt, of automatisch wordt doorgestuurd naar de hoofdpagina.
+Om navigatie binnen een website voor de bezoeker duidelijk te houden zullen vrijwel alle andere pagina's van de site op de een of andere manier een hyperlink naar de homepage van de betreffende site laten zien op een herkenbare plek. Meestal zal dat in een menu aan de linkerzijde of bovenzijde van het scherm zijn. Ook linkt het logo of "banner" van de site bovenaan de pagina vaak naar de homepage.
+Andere betekenis.
+Het begrip homepage wordt ook wel gebruikt als aanduiding voor een persoonlijke website, waarop iemand wat over zichzelf vertelt, zijn hobby's, familie en vrienden, huisdieren etc.

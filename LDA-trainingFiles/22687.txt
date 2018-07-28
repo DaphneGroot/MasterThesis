@@ -1,0 +1,6 @@
+Website-ontwerp.
+Onder website-ontwerp of webdesign wordt verstaan het ontwerpen van webpagina's of websites, bedoeld voor plaatsing op het WWW of een intranet. Het ontwerpen omvat een aantal activiteiten, waaronder het visueel aantrekkelijk vormgeven van de pagina's, vaak met behulp van grafische elementen zoals foto's en logo, en typografische elementen. Naast de vormgever speelt de programmeur een grote rol. Hij of zij vertaalt de vormgeving naar een HTML-code en gebruikt daarbij de nodige additionele programmeertalen als DHTML, Javascript, PHP, ASP en Perl.
+Bij het ontwerp- en ontwikkeltraject wordt rekening gehouden met tal van richtlijnen en theorieën. Gebruiksgemak speelt hierbij een grote rol. Het gebruiksgemak wordt bepaald door een aantal factoren, waaronder een logische vlakverdeling, structurering van navigatie, typografische consistentie en de functies van kleuren. "Overdaad schaadt" is dé vuistregel.
+Geschiedenis.
+Toen het WWW pas was ontstaan werd gebruikgemaakt van een eenvoudige markup-taal, waarmee niet veel meer kon dan het aanbrengen van hyperlinks.
+Tijdens de groei die het WWW doormaakte ontstond een wat complexere en meer flexibele markup-taal, HTML (HyperText Markup Language). Het tonen van plaatjes, tabellen, scripts, stylesheets etc. werd hierdoor mogelijk.

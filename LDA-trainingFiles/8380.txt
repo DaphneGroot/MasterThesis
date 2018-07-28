@@ -1,0 +1,7 @@
+Siemens (eenheid).
+De siemens (symbool S) is de SI-eenheid voor geleidbaarheid en komt overeen met
+waarbij A staat voor ampère, s voor seconde, kg voor kilogram en m voor meter.
+waarin "G" het geleidingsvermogen in siemens, "I" de stroom in ampère, "U" de spanning in volt en "R" de weerstand in Ω is.
+Deze eenheid is genoemd naar de Duitse industrieel en uitvinder Werner von Siemens (1816–1892). Omdat de siemens het tegenovergestelde van de weerstandseenheid ohm is, en zoals de tweede formule laat zien als getal 1 gedeeld door de weerstand (de reciprook of vaak het omgekeerde genoemd) is, wordt het door elektrotechnici ook wel "mho" genoemd (ohm, omgekeerd), en wordt genoteerd als een omgedraaide hoofdletter omega: formula_3. De term "mho" werd voorgesteld door de Britse natuurkundige William Thomson (1824–1907).
+Een weerstand van 1 ohm heeft een geleidingsvermogen van 1 siemens.
+In de elektrotechniek wordt de siemens weinig gebruikt, wel is de geleidbaarheid een goede indicator voor de hoeveelheid opgeloste zouten in water, gemeten met een salinometer, zodat deze bijvoorbeeld bij de zuivering van drinkwater of demiwater als kwaliteitsparameter gebruikt wordt, uitgedrukt in mS/m of μS/cm. De geleidbaarheid van ultrapuur water geldt dan als referentiepunt.

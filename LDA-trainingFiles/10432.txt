@@ -1,0 +1,7 @@
+Mortaliteit.
+Mortaliteit is de sterfte in een bepaalde periode, aangegeven in relatie tot het totaal aantal individuen in de populatie waarover het gaat.
+Bij mensen wordtdoor medici meestal de jaarlijkse sterfte onder de bevolking aan een veel voorkomende ouderdomskwaal uitgedrukt in een jaarlijks aantal sterfgevallen per 1.000, 10.000 of 100.000 inwoners. In het geval van de sterfte aan een bepaalde infectieziekte wordt de prevalentie meestal uitgedrukt in het aantal ziektegevallen per 1.000 of 100.000 inwoners, en de jaarlijkse mortaliteit in het aantal sterftegevallen per 100.000 inwoners. Bij hoge sterfte in een bepaalde groep of na een catastrofe, zoals na een zware aardbeving, hongersnood of overstroming, kan in ernstige gevallen de dagelijkse of wekelijkse mortaliteit in procent of promille uitgedrukt worden. Bijvoorbeeld van alle mensen die een bepaalde ziekte krijgen, van proefdieren in een experiment (zie ook LD50), of van nakomelingen in een veestapel in de eerste levensweek.
+Sinds 1968 wordt de micromort gebruikt om mortaliteit uit te drukken.
+De grootte van een populatie wordt bepaald door vruchtbaarheid (die weer mede afhankelijk zijn van geslachtsverhouding en leeftijdsopbouw), sterfte, mortaliteit en migratie (immigratie en emigratie).
+Zie ook.
+Vergelijk dit met "Morbiditeitsgraad", het aantal organismen van een populatie dat ziek wordt van een infectieziekte.

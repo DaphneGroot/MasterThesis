@@ -1,0 +1,12 @@
+En passant slaan.
+En passant slaan (Fr. "in het voorbijgaan", "terloops") is een term uit het schaakspel die een bepaalde manier aangeeft waarop een pion een andere pion kan slaan.
+Een pion mag in de uitgangsstelling twee velden vooruit. Als het veld dat hij daarbij passeert door een pion van de tegenstander bedreigd wordt (de pion 'eindigt' dan derhalve naast de vijandelijke pion) mag die pion hem slaan ('en passant' = in het voorbijgaan), alsof hij slechts één veld vooruit was gezet. En passant slaan is alleen toegestaan bij de zet direct volgend op de opmars van de pion.
+Bij en passant slaan zijn uitsluitend pionnen betrokken. Alleen een pion kan en passant slaan, en alleen een pion kan en passant geslagen worden.
+En passant slaan kan worden beschouwd als een uitzondering op de regels van het schaakspel. En passant slaan wordt genoteerd door e.p. achter de zet te schrijven.
+Direct slaan.
+Een pion kan alleen en passant geslagen worden direct nadat hij twee velden vooruit is gegaan. Doet de tegenstander eerst een andere zet, dan kan hij de pion niet meer en passant slaan.
+Voorbeeld.
+De stelling in het diagram ontstond na 1 e4 a6 2 e5 d5. De zwarte pion is van d7 twee velden vooruit gegaan en is naast de witte komen te staan. Wit mag nu op de 3e zet de zwarte pion en passant slaan: 3. exd6 e.p. Wit haalt de zwarte pion op d5 van het bord en speelt zijn eigen pion van e5 naar d6, alsof de zwarte pion op d6 stond.
+Als zwart f5 speelt in plaats van d5, dan mag wit ook "en passant" slaan, maar de witte pion komt dan op f6 te staan.
+Een gevoelsmatige rechtvaardiging voor het bestaan van deze regel is dat een pion anders een vijandelijke pion zou kunnen passeren, zonder dat deze in de gelegenheid is geweest hem te slaan.
+"En passant" is de enige slagzet in het schaakspel waarbij het stuk dat slaat niet op het veld van het geslagen stuk terechtkomt.

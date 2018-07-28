@@ -1,0 +1,32 @@
+Afstandsbediening.
+Afstandsbediening is een techniek waarbij iets (een toestel of een verschijnsel) niet ter plaatse, maar vanaf een zekere afstand wordt bestuurd, geregeld of bediend.
+Voor afstandsbediening dient een signaal overgebracht te worden, en dikwijls ook een signaal terug om het resultaat te kunnen beoordelen.
+Ook het toestel waarmee een besturingssignaal wordt verzonden wordt vaak afstandsbediening genoemd.
+Geschiedenis.
+Robert Adler en Eugene Polley kunnen als de uitvinders van de afstandsbediening worden aangemerkt. Adler, die in 2007 op 93-jarige leeftijd overleed, werkte in de jaren vijftig bij televisiefabrikant Zenith, die het apparaatje dat op basis van ultrasone geluiden functioneerde, introduceerde. Dit was de Zenith Flash-Matic, die qua uiterlijk een grotere overeenkomst toont met een föhn dan met een hedendaagse afstandsbediening. Door de uitvinding van de afstandsbediening is het kijkgedrag nogal veranderd doordat televisiekijkers zijn gaan 'zappen'. Adler dacht dat door zijn uitvinding en het zappen een einde aan televisiereclames zou komen, maar die verwachting is niet uitgekomen. In 1997 kregen Robert Adler en Eugene Polley een Emmy-award voor hun verdiensten. Eugene Polley is op 22 mei 2012 overleden.
+Overigens produceerde het Amerikaanse bedrijf Philco reeds voor 1939 een draadloze afstandsbediening voor radio, waarmee het volume en de zender op afstand konden worden ingesteld.
+Draadloze afstandsbediening.
+Twee Apple Remote-afstandsbedieningen van Apple Macintosh-computers
+Met een draadloze afstandsbediening wordt doorgaans een - bij voorkeur - klein en handzaam commando-apparaat bedoeld, waarmee men door middel van druktoetsen middels infrarood-, ultrasone of radiografische signalen een elektronisch of elektrisch apparaat kan aansturen. Voorbeelden van aan te sturen apparaten zijn het televisietoestel, de radio, de videorecorder, de dvd-speler, verlichting, de centrale deurvergrendeling van de auto, de garagedeur en zelfs de computer. De afstandsbediening voor de centrale deurvergrendeling van een auto is veelal in de autosleutel of in een sleutelhanger ingebouwd.
+De meeste afstandsbedieningen werken met infrarood licht; uitzonderingen zijn afstandsbedieningen voor de deurbel, verlichting, de garagedeur en op afstand bestuurbaar speelgoed, die met een radiografisch signaal werken (handzender). Radiografische afstandsbedieningen hebben over het algemeen een groter bereik dan infrarode afstandsbedieningen en hebben geen directe zichtlijn nodig. Voor een radiografische afstandsbediening is geen vergunning nodig, mits ze voldoen aan de eisen voor Short Range Devices.
+De meeste afstandsbedieningen zijn ontworpen om slechts voor een enkel apparaat te werken, en worden hierbij meegeleverd. Soms is een afstandsbediening niet draadloos, maar opgenomen in de draad van de hoofdtelefoon van bijvoorbeeld een walkman, cd-speler of mp3-speler. In auto's worden wel afstandsbedieningen gebruikt voor de radio-cd/dvd-speler die met een draad verbonden zijn met het apparaat in kwestie.
+Ook mobiele telefoons worden als afstandsbediening gebruikt voor domotica in huis en bedrijfsgebouw. Zo kunnen allerlei apparaten, verlichting en de verwarmingsthermostaat vanaf elke plaats op aarde (met GSM-dekking) worden bediend.
+Infraroodafstandsbediening.
+Infrarood licht van een afstandsbediening zichtbaar gemaakt met een digitale camera
+Universele afstandsbedieningen.
+Er bestaan ook vele soorten "universele afstandsbedieningen". Dit zijn afstandsbedieningen die op diverse merken televisies, videorecorders en/of satellietapparatuur ingesteld kunnen worden.
+Ze zijn meestal geschikt voor drie, vier of meer apparaten, zodat ze gebruikt kunnen worden om een groot aantal losse afstandsbedieningen te vervangen.
+Met bepaalde software kunnen ook sommige pda's die van infraroodzenddioden zijn voorzien, als afstandsbediening worden gebruikt.
+Meestal kan zo'n afstandsbediening voor de apparatuur worden ingesteld door een cijfercode in te voeren.
+Er wordt dan ook een boekje meegeleverd waarin de codes voor de verschillende merken staan.
+Vaak zijn er per merk meerdere codes en moet proefondervindelijk worden vastgesteld welke code de beste is.
+Nadeel van deze methode is dat het altijd een beetje een verrassing is welke functie de knoppen zullen hebben.
+Een andere methode is dat de functies 'geleerd' worden, dat wil zeggen dat de knoppen van de oorspronkelijke afstandsbediening een voor een in de universele afstandsbediening gekopieerd worden.
+Men kan hiermee uitzonderingen maken op de functies uit het codeboekje.
+Het is zelfs mogelijk om alle functies te kopiëren van een merk dat niet in het codeboekje staat, maar sommige universele afstandsbedieningen hebben te weinig geheugen om meer dan enkele tientallen functies te 'leren'.
+Ten slotte zijn er universele afstandsbedieningen die op een computer aangesloten kunnen worden, zodat het instellen veel comfortabeler gaat.
+Industriële afstandsbedieningen.
+Industriële afstandsbedieningen zijn bedieningen die machines, voertuigen en apparaten kunnen bedienen middels een radiofrequentie. Industriële afstandsbedieningen werken vaak anders dan de meeste consumentenproducten. Afhankelijk van de instellingen die softwarematig ingegeven zijn in de industriële afstandsbediening, zendt de bediening een radiogolf uit naar een radiografische module in de ontvanger. Wanneer de ontvanger het radiosignaal ontvangt die de zender heeft verzonden, controleert hij het zo dat het de juiste frequentie is en dat beveiligingscodes overeenkomen. Zodra de verificatie is voltooid, stuurt de ontvanger een instructie naar een relais dat is geactiveerd. Het relais activeert een functie in de toepassing die overeenkomt met de zenderknop. Deze interpreteert deze en voert op zijn beurt een opdracht uit.
+Bedrijfsmatige toepassingen.
+"Afstandsbediening voor SJ locomotief van het type T44"
+Niet enkel huishoudelijke apparaten worden aangestuurd vanaf afstand. Ook in fabrieken en werkplaatsen is besturing op afstand vaak in gebruik. Hierbij wordt een apparaat, machine of installatie op afstand aangestuurd door toegang op afstand tot de software van het systeem. Dit verloopt door middel van een datacommunicatiekabel, modemverbinding of een internetaansluiting. Zo kan behalve dat het apparaat wordt aangestuurd, ook op afstand een storing worden verholpen of software bijgewerkt worden. Ook kan er via internet op een andere locatie gewerkt worden om een apparaat of machine te besturen of een storing op te lossen.

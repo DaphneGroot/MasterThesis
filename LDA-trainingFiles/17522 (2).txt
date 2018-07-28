@@ -1,0 +1,4 @@
+Malware.
+Malware is elke software die gebruikt wordt om computersystemen te verstoren, gevoelige informatie te verzamelen of toegang te krijgen tot private computersystemen. Het woord is een samentrekking van het Engelse "malicious software" (kwaadaardige software, soms schadelijke software). Malware veronderstelt kwade opzet. Software waarmee geen kwaad wordt beoogd, valt hier dus niet onder.
+Typen malware.
+Tegenwoordig komen er ook steeds meer mengvormen voor.

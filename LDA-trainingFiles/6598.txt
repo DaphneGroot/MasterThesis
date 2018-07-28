@@ -1,0 +1,4 @@
+Norm (standaard).
+Het is ook mogelijk dat een producent zijn standaard (al dan niet opzettelijk) slecht heeft beschermd zodat het alsnog de standaard wordt; we noemen dit een de facto standaard. Een voorbeeld is de Centronics printer poort van Centronics Data Computer Corporation.
+Organisaties.
+Voor veel specialistische gebieden worden ook normen onderling afgesproken, zonder tussenkomst van een speciale organisatie. Zo zijn er verschillende bedrijven die een eigen "standaard" hebben voor compressie in.

@@ -1,0 +1,4 @@
+Absolute temperatuur.
+De absolute temperatuur, thermodynamische temperatuur of kelvintemperatuur is de temperatuur, gemeten ten opzichte van het absolute nulpunt.
+De temperatuur van een voorwerp of systeem is een maat voor de thermische energie van dat voorwerp, dat wil zeggen van de hoeveelheid beweging van de samenstellende delen, bijvoorbeeld moleculen, van het voorwerp. Er is daarom een laagst mogelijke temperatuur, namelijk waarbij deze delen alleen nog bewegen met de nulpuntsbeweging (nulpuntsenergie). Dit is het absolute nulpunt, gelegen op -273,15 °C, of (per definitie) 0 K. Een lagere temperatuur is niet mogelijk.
+Absolute temperatuur wordt doorgaans uitgedrukt in kelvin, de SI-basiseenheid voor temperatuur.

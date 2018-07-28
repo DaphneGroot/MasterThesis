@@ -1,0 +1,14 @@
+Overerving (informatica).
+Overerving is een term die gebruikt wordt bij de methodiek van het object-georiënteerd programmeren. Het betekent dat een klasse variabelen (eigenschappen) en - afhankelijk van de definitie van de programmeertaal voor methodes - functies en procedures erft van een superklasse.
+Als superklasse kan bijvoorbeeld "Dier" genomen worden. Een van de eigenschappen van een "Dier" is de vorm; de vorm wordt bepaald door de DNA-code van het dier. Bij het aanmaken van het dier wordt de DNA-code bepaald. De DNA-code kan bepaald worden door het afnemen van bloed, voor het gemak geeft een functie met de naam "bloed" de DNA-code van het dier.
+codice_1
+Dieren reageren ook op prikkels van buiten, dus zou aan deze klasse ook een methode met de naam "prikkel" toegevoegd kunnen worden die een variabele waarde van de klasse binnenkrijgt en verwerkt.
+codice_2
+Door over te erven van de klasse "Dier" worden alle eigenschappen en methodes van die klasse overgenomen. Dit maakt het mogelijk om nieuwe diersoorten te maken die allemaal een DNA-code hebben en prikkels kunnen verwerken. De programmeur kan een nieuwe diersoort een unieke DNA-code geven en het op een andere manier laten reageren op een prikkel dan is voorgeschreven in de superklasse "Dier".
+Een voorbeeld van een klasse die erft van "Dier" is een klasse "Zoogdier" die op zichzelf zijn eigenschappen en methodes overerft aan een klasse "Olifant".
+codice_3
+De "Zoogdier"-klasse neemt alle methodes en eigenschappen van "Dier" over en voegt er eigen methodes en eigenschappen aan toe. De "Olifant" klasse overschrijft alleen de variabele "Geluid", alle andere methodes en toegankelijke eigenschappen voor en van de klasse neemt hij over van zijn superklasse(n). Als het geluid van een "Olifant" wordt opgevraagd wordt dus het geluid 'Muuuh' teruggegeven in plaats van het standaardgeluid 'zzzz'.
+Een stukje terminologie. De klasse "Dier" hier een generalisatie van "Zoogdier". De klasse "Zoogdier" is een specialisatie van "Dier". Het verschijnsel overerving wordt daarom ook wel specialisatie genoemd.
+Door overerving goed toe te passen is het dus mogelijk om van alle wezens die uiteindelijk eigenschappen erven van de superklasse "Dier" de DNA-code te krijgen en ze een prikkel toe te sturen dit wordt polymorfisme genoemd. Bij klassen die erven van "Zoogdier" kan zelfs het geluid worden opgevraagd.
+Soorten overerving.
+Men kan onderscheid maken tussen 'implementatie overerving' en 'blauwdruk overerving' (interface inheritance). Het verschil is dat bij de laatste variant alleen definitie overerfd wordt, en niet de implementatie daarvan. Om object-oriëntatie, en in het bijzonder polymorfisme echt goed tot zijn recht te kunnen laten komen, is dit laatste van belang. In plaats van implementatie overerving kan in dat geval inbedding en delegatie als alternatief toegepast worden.

@@ -1,0 +1,4 @@
+Werkgeheugen (computer).
+Het werkgeheugen van een computer is het geheugen dat het besturingssysteem ter beschikking heeft. Vaak wordt dit verward met RAM-geheugen, terwijl dit in de meeste moderne besturingssystemen maar een deel van het werkgeheugen vormt.
+Het werkgeheugen fungeert in verschillende niveaus in de geheugenhiërarchie, zoals het registergeheugen en het extern geheugen. RAM-geheugen wordt meestal als cache gebruikt. Onderdeel van het werkgeheugen is meestal ook een gedeelte op harde schijf, dat als wisselbestand dienstdoet. Als virtueel geheugen is deze toestand duidelijker: voor een proces is het alsof de processor beschikking heeft over een veel groter fysiek geheugen dan er in de werkelijkheid beschikbaar is aan RAM.
+Wanneer één van de DDRAM-modules het niet meer doet, kan dat er de oorzaak van zijn dat de hele computer het niet meer doet. Het is dan voldoende de niet meer werkende DDRAM-module uit de computer te halen.

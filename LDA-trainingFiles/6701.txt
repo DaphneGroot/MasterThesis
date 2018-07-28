@@ -1,0 +1,5 @@
+Inform.
+Inform is een programmeertaal ontwikkeld door Graham Nelson, waarmee Interactive Fiction computerspellen (ook tekstadventures genoemd) kunnen worden ontworpen.
+De Inform-compiler genereert van de broncode een Z-code-bestand, dat met een Z-Machine interpreter kan worden ingelezen.
+Z-code werd oorspronkelijk ontwikkeld door Infocom voor het klassieke tekstadventurespel Zork.
+Met behulp van Nederlandstalige bibliotheek-bestanden kan men met Inform ook Nederlandstalige tekstadventures ontwerpen.

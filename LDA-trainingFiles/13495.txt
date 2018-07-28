@@ -1,0 +1,3 @@
+Remote method invocation.
+Remote Method Invocation of kortweg RMI is de manier die door Sun is ontwikkeld om Java-objecten met elkaar te laten communiceren. Hierdoor is het mogelijk om Java-objecten die zich op verschillende computers bevinden te laten samenwerken. RMI werkt alleen met softwarecomponenten die in Java geschreven zijn (om ook niet-java programma's te kunnen aanroepen moet RMI over IIOP worden gebruikt, kortweg RMI-IIOP). Omdat Java geschikt is voor vrijwel alle hardware-platforms kan er met behulp van RMI wel een gedistribueerd systeem over meerdere hardwareplatforms worden gerealiseerd.
+RMI is de Javaversie van wat algemeen bekend is als Remote procedure call, oftewel RPC.

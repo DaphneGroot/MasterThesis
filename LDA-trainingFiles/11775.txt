@@ -1,0 +1,5 @@
+Galmkamer.
+Een galmkamer is een ruimte voor het verrichten van akoestische metingen. Een galmkamer heeft uitsluitend kale, zo min mogelijk absorberende wanden, vloer en plafond die in verschillende hoeken ten opzichte van elkaar staan om eenvoudige staande golven te voorkomen. In een ideale galmkamer heerst een 'ideaal reverberant geluidsveld', hetgeen wil zeggen dat de geluidsgolven in alle richtingen en op alle posities even sterk zijn. Eenmaal veroorzaakt geluid in een galmkamer blijft lang in stand zolang in die kamer niets aanwezig is dat het geluid absorbeert.
+Een galmkamer kan gebruikt worden om de geluidsabsorptie van een materiaal te bepalen. Dit geschiedt door de nagalmtijd in de kamer met en zonder het materiaal of een voorwerp te bepalen. Door de absorptie van het voorwerp wordt de nagalmtijd korter.
+Omdat de absorptie afhankelijk is van de frequentie van het geluid, dienen deze metingen bij verschillende frequenties plaats te vinden. Gebruikelijk is het om metingen uit te voeren in elke octaaf- of tertsband.
+De tegenhanger van een galmkamer is een dode kamer.

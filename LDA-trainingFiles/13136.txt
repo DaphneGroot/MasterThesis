@@ -1,0 +1,10 @@
+Chaturanga.
+Chaturanga (Sanskriet: चतुरङ्ग, spreek uit: 'tsjatoeranga') is de naam van een bordspel dat al in de 6e eeuw in India werd gespeeld, en in het algemeen als de voorloper van zowel het moderne westerse schaakspel alsook van het Chinese Xiangqi wordt gezien. Chaturanga wordt heden ten dage nog in India gespeeld.
+Doel.
+Het doel van het spel is de vijandelijke koning te veroveren. Dit gebeurt evenals in het westerse schaken en Xiangqi door hem mat te zetten, dat wil zeggen op een zodanige manier te bedreigen dat er geen verdediging meer mogelijk is. In tegenstelling tot bij het westerse schaken is pat geen remise, maar een overwinning voor de partij die pat gezet wordt. Dit in lijnrechte tegenstelling tot Xiangqi, waar pat juist een overwinning is voor degene die zijn tegenstander pat zet.
+Het bord.
+Het bord bestaat net als bij het huidige schaakspel uit 64 velden, gerangschikt in een vierkant van 8 × 8 velden. In tegenstelling tot het huidige schaakspel zijn de velden echter niet om-en-om zwart en wit, maar allemaal van gelijke kleur. De onderste en bovenste twee rijen zijn bij spelaanvang bezet door stukken en pionnen. De stukken zijn vergelijkbaar met westerse stukken (zie ook hieronder), de beginopstelling is vrijwel identiek. Het enige verschil is dat de zwarte koning op d8 staat in plaats van op e8.
+De stukken.
+Alle stukken (met uitzondering van de pion of soldaat) slaan zoals ze zetten.
+Promotie.
+Pionnen of soldaten kunnen promoveren wanneer ze de laatste rij van het bord bereiken, maar alleen naar het type stuk dat bij aanvang van het spel op het promotieveld stond. Zo kan bijvoorbeeld een pion die naar b8 gaat alleen promoveren tot paard. Daarnaast kan een promotie alleen plaatsvinden wanneer de speler al een stuk verloren heeft van de soort waarnaar gepromoveerd wordt, dus de pion die naar b8 gaat promoveert alleen tot paard wanneer de witspeler al een paard verloren heeft tijdens het spel. Een gevolg van deze regels is dat pionnen nooit op e1 of d8 promoveren, aangezien daar bij aanvang van het spel de beide koningen staan.

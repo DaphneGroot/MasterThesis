@@ -1,0 +1,11 @@
+	Cap Volmac mag verder met 'jaar-2000 fabriek'
+	Van onze verslaggever
+AMSTERDAM
+Een echte wizzkid kan B. Roelen niet worden genoemd. Maar de 71-jarige computerdeskundige uit Venray dacht wel de oplossing te hebben voor een van de duurste problemen waarmee computergebruikers nu te maken hebben: de komst van het jaar 2000.
+Veel computerprogramma's hebben een blinde vlek voor dit jaar. Bij de eeuwwisseling tikt de klok in deze computers niet door van 1999 naar 2000 maar terug naar 1900. Met desastreuze gevolgen voor de gebruikers van deze programma's die bijvoorbeeld hun hele administratie hierdoor in de soep zien draaien.
+Het oplossen van dit probleem, dat wereldwijd speelt, is een miljardenbusiness. Wie op deze markt met iets nieuws weet te komen dat vooral sneller werkt en dus goedkoper is dan de andere oplossingen is spekkoper. En Roelen dacht zo'n vinding te hebben gedaan.
+Hij stapte met zijn idee naar het grote softwarebedrijf Cap Volmac. Daar werd Roelen niet direct de deur gewezen. Sterker nog, ze namen zijn ideeën serieus en trokken een paar maanden uit om te onderzoeken of het echt werkte. 'Maar we hebben op een gegeven moment gezegd dat we er niet meer mee verder zouden gaan', zegt een woordvoerder van Cap Volmac.
+Die mededeling vertrouwde Roelen niet. Hij vermoedde door Cap Volmac aan het lijntje te zijn gehouden terwijl het softwarehuis ondertussen zelf met de vinding aan de haal was gegaan. Dus stapte Roelen naar de rechter. Behalve Cap Volmac werd ook het Hoofddorpse softwarebedrijf Techforce gedaagd.
+Tot verbazing van Techforce. Weliswaar werkt dit bedrijf samen met Cap Volmac en wordt in de 'jaar 2000-fabriek' die Cap Volmac inmiddels heeft geopend gretig gebruik gemaakt van de software van Techforce om dit probleem te kraken, maar dit programma was al in 1992 ontwikkeld. Dus Roelen was een beetje laat. 'De contacten tussen Roelen en Cap Volmac zijn altijd buiten ons om gegaan. Wij wisten hier ook niets van', zegt een woordvoerder van Techforce.
+Dat bleek ook in de rechtszaal waar zelfs Roelen zich verbaasd toonde dat Techforce in deze zaak verwikkeld was geraakt. En dat bleek vooral gisteren toen de president van de Utrechtse rechtbank uitsprak dat Roelen niet aannemelijk had gemaakt dat Cap en Techforce zijn programma hebben gestolen.
+

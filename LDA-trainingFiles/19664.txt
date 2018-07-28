@@ -1,0 +1,11 @@
+Inwendig punt.
+Het punt "x" is een inwendig punt binnen "S", aangezien "x" binnen "S" ligt. Het punt "y" ligt op de grens van "S".
+Een inwendig punt is een punt binnen een ruimte, dus niet op de grens ligt met een andere ruimte. Anders gezegd is een inwendig punt een punt dat geheel omgeven is door andere punten van die ruimte.
+Voor een Euclidische ruimte.
+Het punt "x" in een deelverzameling "S" van een Euclidische ruimte heet inwendig punt van "S", als er een open bol bestaat met "x" als middelpunt die geheel is vervat in "S".
+Voor een metrische ruimte.
+Deze definitie veralgemeent naar elke willekeurige deelverzameling "S" van een metrische ruimte formula_1. Volledig uitgedrukt, als "X" een metrische ruimte is met metriek "d", dan is "x" een inwendig punt van "S" als er een bol om formula_2 bestaat met straal formula_3
+die geheel in formula_4 bevat is.
+Voor een topologische ruimte.
+Deze definitie veralgemeent naar topologische ruimten door de "open bal" te vervangen door het topologische begrip, omgeving. Laat "S" een deelverzameling van een topologische ruimte,"X" zijn. Dan heet "x" inwendig punt van "S", als er een omgeving van "x" bestaat, die is vervat in "S". Merk op dat deze definitie niet afhangt van de vraag of het een vereiste is dat omgevingen al of niet open zijn. Als het niet vereist is dat omgevingen open zijn, zal "S" automatisch een omgeving van "x" zijn, wanneer "S" een omgeving van "x" bevat.
+Dit betekent dat een inwendig punt van "A" zich niet op de rand van "A" kan bevinden. Als "A" een open verzameling is, is elk element van "A" een inwendig punt.

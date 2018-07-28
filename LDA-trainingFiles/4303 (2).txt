@@ -1,0 +1,49 @@
+Logaritme.
+Grafiek van de wiskundige functies ln(x) en log10(x)"
+De logaritme van een bepaald getal is de exponent waarmee een constante waarde, het grondtal, moet worden verheven om dat bepaalde getal als resultaat te verkrijgen. Voor grondtal 10 is de logaritme van 1000 bijvoorbeeld gelijk aan 3, dit omdat 1000 gelijk is aan 10 tot de macht 3: 1000 = 10 × 10 × 10 = 103. Meer in het algemeen geldt dat als "x" = "g'y", dat dan "y" de logaritme van "x" is voor het grondtal "g". Dit wordt geschreven als "y" = log"g"("x"); log10(1000) is dus 3.
+Definitie.
+Zowel het grondtal "a" als het argument "x" moeten groter zijn dan 0; bovendien mag "a" niet gelijk zijn aan 1.
+De logaritme voor het grondtal "a" is dus de inverse van de exponentiële functie met a als grondtal. Wanneer men de grafiek van de logaritme voor het grondtal a spiegelt ten opzichte van de lijn "y=x", krijgt men de grafiek van de functie "x → ax".
+De logaritme van 0 met welk grondtal dan ook is niet gedefinieerd, omdat er geen macht bestaat met welk grondtal dan ook welke resulteert in nul. Daarom heeft elke grafiek van de logaritme een asymptoot bij nul.
+Gewone of briggse logaritme.
+De gewone of briggse logaritme, "log", is de logaritme met het grondtal 10. Vóór de komst van rekenmachines werd deze logaritme veel bij berekeningen gebruikt.
+Natuurlijke of neperiaanse logaritme.
+In plaats van log"a"("x") wordt ook wel "a"log("x") geschreven. Bij een "n"-tallig talstelsel wordt in log"a"("x") de "a" vaak niet genoteerd wanneer deze gelijk is aan "n". Zo wordt in het normale tientallige stelsel log("x") genoteerd, waar log10("x") bedoeld wordt.
+Geschiedenis.
+De Zwitserse klokkenmaker Jost Bürgi, in dienst van de hertog van Hessen-Kassel, was de eerste die het begrip logaritme ontwikkelde.
+De natuurlijke logaritme werd voor het eerst geïntroduceerd in 1614, in een boek getiteld "Mirifici Logarithmorum Canonis Descriptio," door John Napier, die beschouwd wordt als de uitvinder van de logaritme. Aanvankelijk gebruikte Napier het getal 1/e als grondtal. Hij noemde logaritmen "artificial numbers", kunstmatige getallen. Later bedacht hij de term "logaritme", om aan te geven dat het zowel om een verhouding als om een getal ging (Grieks: λόγoς, "logos", in de betekenis van ratio, verhouding en άριθμός, "arithmos", getal).
+Het gebruik van logaritmes droeg bij aan de vooruitgang van de wetenschap, speciaal de sterrenkunde, door de vereenvoudiging van ingewikkelde berekeningen. De logaritmes verdrongen de ingewikkelder "prosthaphaeresis", dat gebaseerd was op goniometrische betrekkingen, als snelle methode om vermenigvuldigingen te maken. Voor de komst van rekenmachines en computers, werden logaritmes veel gebruikt voor berekeningen, o.a. in de navigatie en de ingenieur<nowiki/>swetenschappen.
+De Briggse logaritme is genoemd naar de Engelse wiskundige Henry Briggs. De logaritmetafels met het grondtal "e" waren zeer moeilijk op te stellen. Ze waren daardoor onnauwkeurig. Briggs stelde voor het grondtal 10 toe te passen. Dit rekende gemakkelijker. Na een bezoek aan Napier in 1615 schreef Briggs zijn eerste werk, "Logarithmorum Chilias Prima" dat in 1617 verscheen. Een verdere wiskundige verhandeling verscheen in 1624 onder de titel "Arithmetica Logarithmica". Dit werk bevatte de logaritmen van de natuurlijke getallen van 1 tot 20.000 en van 90.000 tot 100.000 berekend tot op 14 decimale cijfers. Hij stelde die tafels op, door met pen en papier de eerste 27 opeenvolgende vierkantswortels uit 10 te trekken met 16 cijfers na de komma. De 27 volgende wortels bepaalde hij met een benaderingsformule. In hetzelfde werk vinden we ook tafels voor de sinus tot 15 decimale cijfers en van de tangens en secans tot op 10 decimale cijfers.
+De nog aanwezige leemte in de logaritmentafel (70% was nog niet berekend (tussen 20.000 en 90.000)!) werd in Gouda door de landmeter Ezechiel de Decker opgevuld in twee afzonderlijke uitgaven. In 1626 verscheen zijn "Eerste deel der nieuwe telkonst" en in 1627 samen met Adriaen Vlacq het "Tweede deel van de nieuwe telkonst". De volledige tafels werden in 1628 in Vlacqs "Arithematica Logarithmica" voor het eerst gepubliceerd.
+De uiteindelijke complete tabellen van Briggs werden gedrukt in Gouda in 1631 en gepubliceerd in 1633 onder de titel van Trigonometria Britannica. Dit werk was de opvolger van Briggs' in 1617 gepubliceerd Logarithmorum Chilias Prima ("Introduction to Logarithms"). Dit was het eerste rekensysteem dat goed werkte.
+Toepassing.
+Ook de rekenliniaal is op het principe van logaritmes gebaseerd: de schalen zijn zo ingedeeld dat de logaritmes van de weergegeven getallen lineair verlopen: het lijnstuk tussen 1 en 2 is even lang als het lijnstuk tussen 2 en 4. Door het optellen van twee lijnstukken ter lengte van de logaritme van de getallen leest men bij de uitkomst het resultaat van de vermenigvuldiging ervan af. Door de opkomst van de zakrekenmachine zijn zowel logaritmetafels als rekenlinialen in onbruik geraakt.
+Logaritmische schalen.
+De logaritme komt goed van pas wanneer iets zo'n enorm bereik heeft, dat het verschil tussen de allerlaagste en allerhoogste waarde ons ook niet zo veel meer zegt. De wet van Weber zegt dat de menselijke zintuigen een logaritmische indruk opdoen van de intensiteit van de prikkel.
+Grootte-ordes en logaritmes.
+De orde van grootte van 3269 is formula_8; de wetenschappelijke notatie is dan ook 3269=3,269·103.
+Het werkt ook voor negatieve machten. De orde van grootte van 0,03269 is formula_9; de wetenschappelijke notatie is: 0,03269=3,269·10-2.
+In een "n"-tallig talstelsel is het mogelijk om op onderstaande wijze het aantal cijfers voor de komma van een willekeurig getal "x" te bepalen.
+Het aantal cijfers van een getal in het tientallige stelsel wordt dus bepaald door formula_11.
+Rationaliteit.
+Zijn "a" en "b" natuurlijke getallen, dan is log"a"("b") in het algemeen een irrationaal getal. Alleen als er natuurlijke getallen "n" en "m" bestaan zodat "am" = "bn" is de logaritme rationaal.
+Afgeleide.
+We kunnen dit aantonen met behulp van de kettingregel.
+Door gebruik te maken van de natuurlijke logaritme en zijn afgeleide, is het mogelijk om de afgeleiden van andere logaritmen te bepalen.
+Aangezien x altijd positief is, en ln(a)>0 is voor a>1 en ln(a)<0 is voor 0<a<1, is formula_20 een strikt stijgende functie als a>1 en een strikt dalende functie als 0<a<1.
+Rekenen met logaritmes.
+Bij het werken met logaritmen kan gebruik worden gemaakt van de onderstaande regels
+Logaritmes van complexe getallen.
+Hierboven hebben we aangenomen dat het argument x (het getal waarvan we een logaritme nemen) een positief reëel getal is. Het is echter mogelijk de definitie van de logaritme uit te breiden naar negatieve en zelfs complexe argumenten.
+Een complex getal formula_37 heet een logaritme van formula_38, als formula_39.
+met absolute waarde formula_45 en argument formula_46, dan is elk van de getallen
+De waarde van de logaritme voor formula_53, heet de "hoofdwaarde" van de logaritme.
+Negatieve argumenten zijn een bijzonder geval van complexe argumenten. Bijvoorbeeld formula_54 is een complex getal op de eenheidscirkel met argument formula_55. De logaritme van −1 heeft daarom een hoofdwaarde van formula_56.
+Logaritmes van quaternionen.
+Het is mogelijk de definitie van de logaritme uit te breiden naar quaternionen.
+Een quaternion "w" heet een logaritme van "q", "w" = log "q", als "ew" = "q".
+met absolute waarde "r", argument "φ" en eenheidsvector "v" dan is elk van de getallen
+De waarde van de logaritme voor "n" = 0, heet de "hoofdwaarde" van de logaritme.
+Dit is opnieuw een meerwaardige functie die afhangt van twee gehele getallen "n"1 (behorend bij log "a") en "n"2 (behorend bij log "b"), stelt men nu "n1" = "n2" = 0, dan krijgt men de hoofdwaarde van formula_62
+Berekeningen met grote getallen.
+Logaritmen zijn ook een hulp bij berekeningen met grote getallen, geschreven als een macht, die met een grafische rekenmachine onmogelijk zijn uit te rekenen (zonder herschrijven).

@@ -1,0 +1,19 @@
+Uniform Resource Locator.
+Een Uniform Resource Locator (afgekort URL) is een gestructureerde naam die verwijst naar een stuk data. Voorbeelden zijn het unieke adres waarmee de locatie van een webpagina op internet wordt aangegeven of een e-mailadres. In de naam is alle informatie opgenomen over de benodigde techniek om de betreffende gegevens te bereiken. De URL is een bijzondere vorm van de URI.
+Protocol.
+Het protocol wordt genoteerd in de vorm van een korte protocolaanduiding (vaak een afkorting) gevolgd door een dubbele punt.
+Autoriteit.
+De "autoriteit" is de bron van de informatiebron, bijvoorbeeld een host van een website.
+Deze wordt genoteerd in de vorm codice_9
+In de meeste gevallen zijn gebruikersnaam, wachtwoord en poortnummer niet nodig, waardoor het @-teken
+en de dubbele punten meestal niet in de URL terug te vinden zijn, zoals in bijvoorbeeld codice_10
+of codice_11.
+Padnaam.
+De precieze betekenis van de padnaam hangt af van het protocol; voor FTP
+verwijst het meestal naar een fysiek bestand, terwijl het bij IRC naar een kanaal verwijst. Bij HTTP kan het om een bestand gaan, maar bijvoorbeeld ook om een commando aan een zoekmachine of een database manager.
+Meestal worden ze in de vorm codice_12 gebruikt.
+Querystring.
+Een querystring wordt meestal gebruikt om bepaalde parameters mee te geven aan de URL, zoals de zoektermen van een zoekactie. De querystring volgt na het vraagteken, verschillende parameters in de string worden gescheiden met het ampersandteken.
+Fragmentidentifier.
+De "fragmentidentifier" wordt gebruikt om naar een specifiek onderdeel van de informatiebron te verwijzen en wordt genoteerd in de vorm codice_13.
+In HTML-pagina's worden ze bijvoorbeeld gebruikt om naar tekstankers te verwijzen.

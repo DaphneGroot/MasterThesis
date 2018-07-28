@@ -1,0 +1,4 @@
+Diffractiebuis.
+Een diffractiebuis is een instrument waarmee de golflengte van een elektron kan worden bepaald.
+De diffractiebuis is luchtledig. Eerst worden de elektronen versneld met behulp van een elektronenversneller. De negatief geladen elektronen worden vanaf de negatief geladen gloeikathode naar de positief geladen anode getrokken. Een deel zal door een gat in deze anode schieten en komt vervolgens tegen een bekend kristalrooster terecht. Dit kristal zal zich als een tralie gedragen en diffractie van de elektronen vertonen volgens de Wet van Bragg.
+Uit de straal van het cirkelvormige interferentiemaximum (poederdiffractie) is te berekenen wat de hoek van inval/uitval was, daaruit volgt via de wet van Bragg wat de golflengte λ van de elektronen is.

@@ -1,0 +1,7 @@
+Draaibrug (brugtype).
+Een draaibrug is een beweegbare brug die open en dicht gaat door te roteren om een verticale as.
+Beschijving.
+De bovenbouw van de brug beschrijft bij het openen en sluiten een boog. Dit heeft ook gevolgen voor de aansluiting tussen de landhoofden en de uiteinden van het brugdek: geen enkel deel van het brugdek mag tijdens het draaien het landhoofd raken. Als de brug in beide richtingen geopend moet kunnen worden, komt dat erop neer dat ook de einden van het brugdek boogvormig moeten zijn.
+Voordat de brug kan worden opengedraaid, wordt deze losgemaakt door de vijzels waar het brugdek op rust, de zogenaamde "opzetinrichting", omlaag te bewegen. In dichte toestand wordt de brug door deze vijzels vergrendeld.
+Een draaibrug kan bestaan uit twee gelijke armen, zodat twee doorvaartopeningen ontstaan waarbij het draaipunt van de brug op een eiland ligt. Als één doorvaartopening volstaat, zal men een ongelijkarmige draaibrug construeren. In dat geval moet men, om op het mechaniek een gelijkmatige belasting te verkrijgen, een contragewicht toevoegen aan de kortste arm van de brug.
+Een draaibrug heeft als voordeel dat er een doorvaart ontstaat zonder beperking in de doorvaart- en doorrijhoogte, terwijl de brug toch snel open en dicht kan gaan. De breedte van de doorvaart kan wel beperkt(er) zijn.

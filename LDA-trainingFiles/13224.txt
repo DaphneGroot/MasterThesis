@@ -1,0 +1,3 @@
+Rapidschaak.
+Het rapidschaak is een variant van schaken waarbij beide spelers tussen de 15 en 60 minuten bedenktijd hebben. Als met toegevoegde tijd per zet wordt gespeeld (zoals bij gebruik van de Fischer-klok) dan mag de toegekende tijd plus 60 maal de toegevoegde tijd minimaal 15 minuten en maximaal 60 minuten bedragen.
+De spelers hoeven hun zetten niet te noteren.

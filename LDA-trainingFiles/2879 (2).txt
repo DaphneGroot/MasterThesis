@@ -1,0 +1,3 @@
+Lijst van eenheden van tijd.
+Veel van deze eenheden worden alleen in bepaalde situaties gebruikt. Zo is het siderisch jaar alleen bekend in de astronomie en de olympiade alleen bij de Olympische Spelen.
+Het begin en einde van een tijdseenheid ligt vast of niet.

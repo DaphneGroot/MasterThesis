@@ -1,0 +1,6 @@
+Amplitude.
+De amplitude van een (periodieke) trilling is de grootste afwijking ten opzichte van de evenwichtsstand, of, anders gezegd, de maximale uitslag. De trilling kan een mechanische trilling zijn van bijvoorbeeld een snaar van een harp, of de daardoor ontstane geluidsgolf, of van enig ander cyclisch in de tijd variërend verschijnsel. Omdat een golfverschijnsel steeds in grootte varieert, zal de waarde van die golf ook steeds variëren. De amplitude is nu de waarde vanaf de evenwichtsstand tot aan de maximale uitslag of sterkte van de golf.
+De amplitude van een elektrische spanning is de maximale waarde van de spanning. Deze amplitude wordt gemeten in volt. Weliswaar is de netspanning van het huishoudelijke elektriciteitsnet ongeveer 230 V, maar dit is de effectieve waarde. De amplitude is een factor √2 groter.
+De amplitude van een slinger is de afstand van het neutrale midden (evenwichtsstand) tot aan de grootste uitslag. Deze amplitude wordt gemeten in meter.
+De amplitude van geluid is de maximale druk die optreedt. Deze wordt gemeten in Pascal.
+De 'sterkte' van een sinusvormige golf wordt geheel bepaald door de amplitude. Andere vormen hebben nog als kenmerken onder andere de vormfactor en de effectieve waarde.

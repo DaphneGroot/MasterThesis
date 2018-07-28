@@ -1,0 +1,3 @@
+Hypotenusa.
+De hypotenusa of schuine zijde van een rechthoekige driehoek is de zijde die tegenover de rechte hoek ligt. De naam is afgeleid van het Griekse "ὑποτείνουσα": "ὑπο" (hypo: onder) en "τεινειν" (teinein: uitstrekken).
+De term hypotenusa is vooral bekend vanwege de Stelling van Pythagoras: "het kwadraat van de lengte van de hypotenusa is de som van de kwadraten van de lengten van de rechthoekszijden".

@@ -1,0 +1,5 @@
+Inverteerbaar.
+Grafiek met functie f(x) en de inverse van f(x).
+Deze voorwaarden kunnen we ook schrijven als formula_8 (formula_1 is een "linksinverse" van "f") en formula_10 (formula_1 is een "rechtsinverse" van "f"). Hier staat het symbool o ('na') voor de samenstelling van twee afbeeldingen en formula_12 en formula_13 voor de identieke afbeelding op "X" respectievelijk "Y".
+Een functie "f" van een verzameling "X" naar een verzameling "Y" is inverteerbaar dan en slechts dan als er voor ieder element "y" van "Y" precies één element "x" van "X" is waarvoor formula_14. Een andere manier om dit te zeggen is dat "f" zowel injectief is (voor elke "y" formula_4 "Y" is er hoogstens één "x" formula_4 "X" met formula_14) als surjectief (voor elke "y" is er minstens één zo'n "x").
+Bij een functie formula_18 ontstaat de grafiek van de functie formula_1 door lijnspiegeling van de grafiek van formula_20 in de lijn formula_21.

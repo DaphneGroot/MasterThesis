@@ -1,0 +1,19 @@
+Rationaal getal.
+Een rationaal getal is in de wiskunde het quotiënt (verhouding, Latijn: "ratio") van twee gehele getallen waarvan het tweede niet nul is. De verzameling van rationale getallen wordt meestal genoteerd als formula_1.
+Schematische voorstelling van de relatie tussen de verschillende verzamelingen getallen
+De rationale getallen maken deel uit van de reële getallen formula_2 en omvatten de gehele getallen formula_3. Elk geheel getal is dus ook een rationaal getal en elk rationaal getal is ook een reëel getal.
+beide decimale getallen met oneindig veel decimalen, echter wel met een zich herhalend patroon. Men spreekt van repeterende breuk. Het kan bewezen worden dat elk rationaal getal in het decimale stelsel "achter de komma" een eindig aantal cijfers heeft of een oneindig aantal cijfers, waarin zich een patroon herhaalt.
+Als een getal met oneindig veel decimalen geen herhalend patroon heeft is dit getal irrationaal.
+De verzameling van de rationale getallen is niet eindig, maar wel aftelbaar. De rationale getallen liggen dicht op de reële rechte, wat betekent dat elk punt op die rechte willekeurig dicht benaderd kan worden door een rationaal getal, maar er zijn ook oneindig veel 'gaten', want tussen elk tweetal rationale getallen ligt een irrationaal getal.
+Getallen als de wortel uit 2, π en e behoren niet tot de verzameling van rationale getallen, omdat ze niet als een breuk, dus als quotiënt van twee gehele getallen, geschreven kunnen worden. Deze getallen heten irrationaal.
+Operaties met rationale getallen.
+Als verzameling zijn de rationale getallen volgens de bovenstaande definitie te schrijven als
+waarin formula_3, de verzameling van gehele getallen is.
+formula_1 is door de eigenschappen van de optelling en vermenigvuldiging een voorbeeld van een lichaam (Nederland) of veld (Belgisch). Voor de operaties die we met rationale getallen kunnen uitvoeren, gelden de volgende regels.
+Eigenschappen.
+formula_1 is het quotiëntenlichaam van het integriteitsdomein formula_3 van de gehele getallen.
+formula_1 is het kleinste lichaam van karakteristiek 0. Elk ander lichaam van karakteristiek 0 bevat een kopie van formula_1.
+De rationale getallen zijn niet algebraïsch gesloten, bijvoorbeeld doordat de vierkantswortel van het rationale getal 2 niet op zijn beurt rationaal is (zie bewijs).
+De algebraïsche sluiting van formula_1 is het lichaam van de algebraïsche getallen. Deze verzameling wordt genoteerd als formula_17 (of formula_18) en is net als formula_1 aftelbaar. Let wel, formula_17 is niet gelijk aan het lichaam formula_21 van de complexe getallen, dat de algebraïsche sluiting van de reële getallen is.
+Formele definitie.
+De rationale getallen kunnen formeel worden gedefinieerd als equivalentieklassen van paren gehele getallen, waarbij het tweede niet nul is.

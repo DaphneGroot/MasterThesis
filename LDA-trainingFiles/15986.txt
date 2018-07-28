@@ -1,0 +1,5 @@
+V-snaar.
+Dynamo van een vrachtauto. Omdat dit een zware dynamo is, wordt hij aangedreven door twee V-snaren (rechts)
+De V-snaar of V-riem is een aandrijfriem voor machines. Deze loopt over twee poelies met dezelfde V-vorm. Dit heet een profiel. De profielen zijn gestandaardiseerd, waardoor het mogelijk is wereldwijd riemen te kopen voor machines. In vergelijking met platte overbrengriemen kan met de V-snaar een groter overbrengingsvermogen worden bereikt. Dit komt doordat de poelies de V-snaar heel strak vasttrekken en zo het slippen tegengaan.
+Een voorbeeld van de toepassing van een V-snaar is het gebruik in een auto, voor de niet-synchrone aandrijvingen, dat wil zeggen aandrijvingen die desnoods iets mogen slippen, zoals die van de dynamo of een koelventilator.
+Wanneer een "synchrone" aandrijving vereist is, zoals bij de nokkenas en er geen enkele slip is toegestaan, wordt geen V-snaar maar een getande riem toegepast.

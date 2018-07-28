@@ -1,0 +1,31 @@
+Liter.
+Een liter is een inhoudsmaat die in het dagelijks verkeer veelvuldig wordt gebruikt om het volume van een vloeistof of een gas aan te geven. Hoewel het geen SI-eenheid is, wordt het gebruik ervan expliciet gedoogd door het Bureau international des poids et mesures (BIPM). Het door het BIPM aanbevolen alternatief is om volumes in dm³ of m³ uit te drukken.
+In de meeste landen wordt in de regel het symbool l voor liter gebruikt, de onderkast van de 12e letter van het alfabet. Elders, voornamelijk in de wetenschappelijke literatuur, kan men ook de hoofdletter L als symbool tegenkomen; zie deze uitleg.
+De maat liter dateert van 1793, toen hij in Frankrijk tijdens de Franse Revolutie werd ingevoerd. De naam liter ("litre" in het Frans) is afgeleid van een oudere Franse maat, de "litron". Deze naam is oorspronkelijk Grieks en kwam via het Latijn in het Frans terecht.
+1795.
+De liter was tijdens de invoering van de Franse wet in 1795 gedefinieerd als de inhoud van een kubus met ribben van 1 dm, oftewel 1 dm³.
+1799.
+Toen in 1799 de definitie van de meter een klein beetje werd aangepast, veranderde de liter automatisch mee.
+Door de oorspronkelijke definitie van het kilogram als de massa van 1 dm³ water, is een liter tevens gelijk aan het volume van 1 kg water. Later, toen men nauwkeuriger kon meten, werd vastgesteld dat er een kleine onnauwkeurigheid was opgetreden bij de vervaardiging van de standaardkilogram. Daardoor heeft een kilogram zuiver water bij een temperatuur van 4°C en standaard atmosferische druk een volume van 1,000028 dm³ in plaats van precies 1 dm³ of liter, zoals de bedoeling was.
+1901.
+Bij metingen werkt massa nauwkeuriger dan volume. Vermoedelijk daarom heeft men, toen er in 1901 een verschil was vastgesteld, ervoor gekozen om de liter te definiëren als het volume van 1 kg water onder bovengenoemde omstandigheden. De liter was dus niet meer precies gelijk aan 1 dm³, maar voor de dagelijkse praktijk was het verschil onmerkbaar klein.
+1964.
+In 1964 werd als definitie van de liter weer 1 dm³ gekozen. Het is toch logischer om de definitie van een volume te baseren op een lengtemaat, en niet op de massa van een bepaalde stof.
+Afgeleide eenheden.
+Voor de belangrijkste afgeleide eenheden zie de tabel hiernaast.
+Microliter.
+Een microliter (symbool μl of μL) is een volume-eenheid die gedefinieerd is als één miljoenste deel van een liter, een volume van één kubieke millimeter. Een druppel water kan van ca. 10 tot ca. 50 microliter groot zijn (afhankelijk van bijvoorbeeld de kwaliteit van het water, de temperatuur of hoe de druppel ontstaat).
+Nanoliter.
+Een nanoliter (symbool nl of nL) is een volume-eenheid die gedefinieerd is als één miljardste deel van een liter. Dit is een volume van een kubieke tiende millimeter; zo ongeveer het kleinste volume dat met het blote oog nog zichtbaar is. Druppeltjes van deze grootte worden gebruikt door inkjetprinters, hoewel er ook inkjetprinters zijn die werken met druppels van een picoliter.
+Picoliter.
+Een picoliter (symbool pl of pL) is een volume-eenheid die gedefinieerd is als één biljoenste deel van een liter, ofwel één miljoenste deel van een microliter. Dit is een volume van tien micrometer bij tien micrometer bij tien micrometer. Een picoliter is ongeveer het volume van verschillende (menselijke) celtypen.
+Kleinere volumes.
+Incidenteel komt men nog de benamingen femtoliter, attoliter, zeptoliter en yoctoliter tegen.
+De femtoliter en attoliter komen regelmatig voor in wetenschappelijke literatuur, bijvoorbeeld in relatie tot nanotechnologie. De zeptoliter en yoctoliter worden nauwelijks gebruikt. In een yoctoliter passen slechts enkele tientallen atomen.
+Symbool.
+Als symbool wordt internationaal zowel de L (hoofdletter) als de l (kleine letter) gebruikt. De kleine letter l is in 1879 door het BIPM voorgesteld als het officiële symbool voor de eenheid liter. In de 6e resolutie van de 16e CGPM (Conference Générale des Poids et Mesures) in 1979 wordt door ditzelfde BIPM gesteld dat de hoofdletter L ook toegestaan is, dit om verwarring met het cijfer 1 en de hoofdletter I (de 9e letter van het alfabet) te voorkomen.
+In een aantal landen (met name de Verenigde Staten, Canada en Australië, en ook Frankrijk) wordt L vaker gebruikt dan l, vooral in combinatie met prefixen (bijvoorbeeld mL, µL).
+In Groot-Brittannië en Ierland wordt altijd de kleine letter l gebruikt, maar wordt het woord "litre" vaak helemaal uitgeschreven als er geen prefix wordt gebruikt.
+Voor het Nederlands wordt door de Taalunie de l officieel voorgeschreven.
+Desondanks wordt sinds enkele jaren op middelbare scholen in Nederland bij de vakken scheikunde en biologie de hoofdletter L gebruikt. Ook in de vraagstukken van het Centraal Examen wordt de L gebruikt.
+In 1979 werd ook het teken ℓ (script small l, U+2113, HTML &amp;#8467;) ingevoerd om liter mee aan te duiden. Sommige landen, zoals Zuid-Afrika, moedigden het gebruik van dit teken aan. Later is dit teken in onbruik geraakt, hoewel men het op sommige plaatsen (bijvoorbeeld in wetenschappelijke teksten) nog wel tegenkomt.

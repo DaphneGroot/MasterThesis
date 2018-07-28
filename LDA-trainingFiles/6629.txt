@@ -1,0 +1,49 @@
+Shogi.
+Shogi ("shō" = generaal, "gi" = spel; in het Japans: 将棋) is een Japans strategisch bordspel, ook wel aangeduid met Japans schaak. Het is een spel uit de familie waartoe ook het westerse schaken en het Chinees schaken behoren. Het spel kent zijn oorsprong in Japan waar het een hoog aanzien heeft. Vele professionals kunnen een bestaan opbouwen op basis van de verbreiding en het spelen van het spel. Japanse kranten publiceren dagelijks een kleine rubriek (naast de go-rubriek). De verbreiding buiten Japan is beperkt.
+Shogi in zijn huidige vorm werd al in de 16e eeuw gespeeld. Een directe voorloper zonder de inzet van geslagen stukken kan worden getraceerd tot 1210 in het historische document "Nichūreki", wat een bewerkte kopie is van "Shōchūreki" en "Kaichūreki" uit de late Heian periode (ca. 1120). In de loop der tijd zijn ook vele varianten bedacht, zo bestaat er een versie met 36x36 vakken (Tai Kyoku Shogi), maar de 9x9-variant heeft de tijden het best overleefd.
+Spelregels.
+Shogi is een vorm van schaken waarbij vanuit een beginopstelling de spelers elkaar bestrijden met hetzelfde doel. Net als in westers en Chinees schaken is het de bedoeling de vijandige koning te vangen.
+Shogi wordt gespeeld op een bord van 9×9 kleurloze vlakken (dus "geen" schaakbordpatroon). De spelers spelen om beurten een zet, waarbij de speler met de juwelenkoning begint. Deze wordt gewoonlijk aangeduid met "zwart", ofwel "sente" (voorhand), alhoewel er geen kleurverschil is tussen de stukken. Een zet kan bestaan uit het verplaatsen van een stuk, het slaan van een stuk (door de plaats ervan op het bord in te nemen) of het inzetten van een geslagen stuk op een lege plek op het bord.
+Beginopstelling.
+Beide spelers stellen hun stukken op in de richting van de tegenstander, zoals op bijgaand bord. Traditioneel is de volgorde waarmee de stukken op het bord geplaatst worden vastgelegd.
+Alle stukken hebben dezelfde kleur en hebben de vorm van een platte pijl. De eigendom van het stuk wordt bepaald door de "richting" waarin het stuk wijst. Op een stuk staat in Japanse tekens de naam, meestal met zwarte inkt geschreven. Aan de achterkant van het stuk staat (eventueel) het gepromoveerde stuk geschreven, meestal in rood.
+De karakters hebben veel mensen ervan weerhouden om het spel te willen doorgronden. Dit heeft geleid tot ideografische symbolen, die ook de gang van het stuk weergeven. Deze representatie is echter nooit populair geworden. Voor wie zich er echt in wil verdiepen, is het leren kennen van de Japanse symbolen de kleinste stap.
+Beweging van de stukken.
+Voor alle stukken geldt dat ze mogen worden verplaatst volgens de onderstaande regels. Een vriendschappelijk stuk blokkeert de verdere verplaatsing van een stuk. Een stuk van de tegenstander dat in de baan van de beweging staat kan worden geslagen, waarna de beweging stopt. Alle stukken slaan zoals ze bewegen.
+Koning.
+Een koning mag zowel horizontaal, verticaal als diagonaal één veld worden verplaatst.
+Toren.
+Een toren mag zowel horizontaal als verticaal één of meerdere velden worden verplaatst.
+Loper.
+Een loper kan diagonaal één of meerdere velden worden verplaatst.
+Gouden generaal.
+Een gouden generaal mag worden verplaatst zoals een koning, behalve diagonaal achterwaarts.
+Zilveren generaal.
+Een zilveren generaal mag worden verplaatst zoals een koning, behalve orthogonaal zijwaarts en achterwaarts.
+Paard.
+Een paard kan "springen" naar slechts twee velden: twee velden voorwaarts en één veld zijwaarts in één beweging. De beweging van een paard kan dus niet worden geblokkeerd.
+Lans.
+Een lans mag één of meerdere velden worden verplaatst in orthogonaal voorwaartse richting. Het stuk kan dus niet terug of zijwaarts worden verplaatst.
+Pion.
+Een pion mag één veld worden verplaatst in orthogonaal voorwaartse richting. Zo slaat de pion dus ook!
+Promotie.
+Een stuk in de promotiezone van de tegenstander mag naar keuze op elke zet worden gepromoveerd. Met andere woorden: elke zet die wordt gemaakt "naar" die zone, "in" die zone of "vanuit" die zone geeft het recht op promotie. Promotie is echter onherroepelijk totdat het stuk in handen van de tegenstander valt.
+De promotiezone bestaat uit de laatste drie rijen van de tegenstander waar deze de stukken opstelde.
+Promotie gebeurt door het stuk om te draaien: op de achterkant staat de naam van het gepromoveerde stuk. Er is dus niet zoals in westers schaak een keuze tot welk stuk wordt gepromoveerd.
+Promotie is niet verplicht, behalve voor pionnen en lansen op de laatste rij en paarden op de laatste twee rijen, die anders niet zouden kunnen bewegen. In de meeste gevallen is promotie echter een verbetering, en wordt het dus wel gedaan.
+Terugplaatsen van geslagen stukken (droppen).
+Geslagen stukken van de tegenstander moeten zichtbaar voor de tegenstander worden bewaard. Ze kunnen bij wijze van zet op een "leeg veld" het bord geplaatst worden. Men spreekt gewoonlijk van een "drop", ook in het Nederlands.
+Spelverloop.
+Partijen tussen ervaren spelers kenmerken zich gewoonlijk door de betrekkelijk trage openingsfase waarin de spelers zich de tijd nemen hun koning in veiligheid brengen middels het bouwen van een "kasteel". Vergelijk het met een rokade: de koning wil niet te midden van de schermutselingen staan.
+De stukken in shogi zijn betrekkelijk traag, maar wel veelal voorwaarts gericht. Wanneer er echter stukken 'in de hand' komen, dan kunnen deze overal worden gedropt. Dat geeft een grote dynamiek die niet stopt totdat een van beide spelers mat staat.
+Het eindspel van shogi wordt door het droppen van stukken niet gekenmerkt door een bijna leeg bord zoals bij westers schaak, maar door een vol bord met een race om wie het eerste mat kan geven. Het komt dan ook niet eenvoudig tot remise: bijna elk spel wordt door een van de twee spelers gewonnen.
+Slechts op 2 manieren is de uitslag van een partij shogi onbeslist.
+Onbesliste partijen worden in amateur-toernooien gerekend als een deling van de punten. In professionele toernooien wordt een dergelijke partij overgespeeld met verwisselde kleuren en in het geval van sennichite met de tijd resterend van de onbesliste partij.
+Speelsterkte en handicap.
+De speelsterkte van amateurspelers worden van zwak tot sterk geclassificeerd van 15e kyu tot 1e kyu en vervolgens van 1e dan tot 6e dan. Professionele spelers werken met een eigen speelsterkteschaal met dezelfde terminologie.
+Het is in shogi goed mogelijk om te spelen met een handicap om het speelsterkteverschil te compenseren. Dit leidt gewoonlijk tot interessantere partijen.
+De sterkste speler speelt bij handicap zwart. Hij levert stukken in voordat het spel begint. Deze stukken worden helemaal uit het spel genomen en kunnen ook later niet op het bord worden gezet. Bedenk dat het spelen met een stuk minder niet zo zware onbalans veroorzaakt als bij westers schaak. Bij shogi is de positie veel belangrijker dan de stukkenbalans.
+Bij kleine verschillen tussen de spelers speelt de sterkste speler met een lans minder.
+Bij de grootste verschillen, bijvoorbeeld als een westerling tegen een Japans professional speelt, speelt de sterkste speler met alleen zijn koning en drie pionnen.
+In eerste instantie lijkt het onmogelijk om met zo'n oneerlijke verdeling van stukken een eerlijk spel te kunnen spelen, maar wanneer de sterke speler stukken van de tegenstander slaat en voor zijn eigen aanval kan inzetten wordt het verschil merkbaar kleiner.
+Gebruikelijke handicaps in opklimmende volgorde van verschil zijn als volgt. Daarbij is het speelsterkteverschil het verschil in kyu of dan-graden.

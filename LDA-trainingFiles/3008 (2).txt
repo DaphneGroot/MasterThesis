@@ -1,0 +1,7 @@
+Watt (eenheid).
+Een gloeilamp met een vermogen van 60 watt gebruikt een hoeveelheid energie van 60 joule per seconde.
+Een praktische, niet-SI-eenheid die rechtstreeks van de watt is afgeleid is de kilowattuur (kWh): 1 kWh = 3,6 MJ (megajoule). De vermenigvuldiging van de watt (joule per seconde) met een tijdseenheid heeft weer een eenheid van energie als gevolg.
+NB: op veel apparaten is aangegeven wat het apparaat maximaal kan verbruiken; dat wil niet zeggen dat het dat ook daadwerkelijk continu verbruikt.
+Een megawatt (symbool: MW) is gelijk aan een miljoen (106) watt. De productiecapaciteit van energiecentrales wordt meestal in megawatt uitgedrukt, ook wel MWe (met de "e" van elektrisch). Het "thermisch" vermogen (de hoeveelheid warmte die vrijkomt) is altijd hoger, en wordt ook wel aangeduid als MW"th". De opgewekte warmte gaat deels verloren bij de omzetting naar elektriciteit.
+Het opgenomen vermogen van apparaten wordt gewoonlijk uitgedrukt in voltampère, in tegenstelling tot het geleverde vermogen dat wordt uitgedrukt in watt.
+Een uitzondering hierop zijn lampen, omdat men door gewenning beter bekend is met de hoeveelheid licht (geleverd vermogen) die een (gloei)lamp produceert bij een zeker opgenomen vermogen, uitgedrukt in watt.

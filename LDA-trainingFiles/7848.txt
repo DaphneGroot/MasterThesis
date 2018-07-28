@@ -1,0 +1,13 @@
+Ribosoom.
+Een ribosoom is een complex van eiwitten en RNA-ketens in de cel dat een heel belangrijke functie heeft bij de opbouw van eiwitten. Ribosomen bestaan uit twee delen, een groot en een klein deel. Het ribosoom bevindt zich in het cytoplasma van de cel, is aanwezig op ruw endoplasmatisch reticulum en op het kernmembraan.
+Wanneer een mRNA-keten ("boodschapper-RNA" of "messenger-RNA") uit de celkern bij het ribosoom komt, dan worden de basen uit die keten per codon van drie basen afgelezen. Tegelijkertijd wordt een eiwitketen gebouwd die uit de in RNA gecodeerde volgorde van aminozuren bestaat.
+De aminozuren worden door tRNA (t = transfer dus "overdrachts-RNA") naar het ribosoom getransporteerd. Dit tRNA beschrijft de genetische code, het bindt vrije aminozuren in het cytoplasma en vervoert deze naar het ribosoom voor de eiwitsynthese. Dit wordt translatie genoemd.
+Een mRNA-keten kan door meerdere ribosomen tegelijk gelezen worden, en daarmee tegelijk meerdere exemplaren van het eiwit opbouwen.
+Het actieve centrum in het ribosoom wordt gevormd door de RNA-ketens. Toen dat werd ontdekt, werd daarmee eindelijk een duidelijke aanwijzing gevonden voor de vraag of in de evolutie nucleïnezuren of eiwitten het eerst waren: Er was al aangetoond dat nucleïnezuren zowel voor overdracht van informatie als voor het uitvoeren van chemische reacties konden worden ingezet. Eiwitten daarentegen kunnen niet zorgen voor de opslag, overdracht, en vermenigvuldiging van informatie. Nu zelfs duidelijk is dat eiwitten worden gebouwd door chemische reacties die worden gekatalyseerd door RNA, wordt het duidelijker dat de nucleïnezuren er eerder waren dan eiwitten.
+Er is een kristalstructuur gemaakt van het ribosoom. Daarmee is het ribosoom het grootste niet-virale eiwitcomplex waarvan de structuur is bepaald en de structuur met de meeste niet-symmetriegerelateerde atomen.
+Mitochondrion.
+De mitochondriën bevatten een eigen type ribosoom.
+Polysoom.
+Ribosomen kunnen ook een parelsnoervormig polysoom (polyribosoom) vormen. Eigenlijk zijn het verschillende ribosomen die een voor een mRNA-streng aan het aflezen zijn.
+Bacterieel ribosoom.
+Bacteriële ribosomen werken op dezelfde manier, maar zijn licht verschillend van grootte. Zo hebben verschillende bacteriën een 50S-ribosoom.

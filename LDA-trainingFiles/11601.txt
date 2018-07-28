@@ -1,0 +1,5 @@
+Spreidingsbreedte.
+De spreidingsbreedte is in de statistiek de afstand tussen de hoogste en laagste meting uit een gegevensset.
+Als de standaardafwijking en variantie niet voldoen, kan de spreidingsbreedte gebruikt worden als maatstaf voor de spreiding. De spreidingsbreedte is echter erg gevoelig voor extremen. Een alternatief is dan gebruik te maken van de gemiddelde absolute afwijking, of de interkwartielafstand.
+Voorbeeld.
+3, 5, 5, 6, 7, 8, 9, 10 Spreidingsbreedte = 10 – 3 = 7

@@ -1,0 +1,14 @@
+Schaakbord.
+Een schaakbord is het bord waarop het schaakspel wordt gespeeld. Het bestaat uit 64 velden: 8 horizontale "rijen" en 8 verticale "lijnen". De velden worden "zwart" en "wit" genoemd, maar hebben vaak een andere donkere en lichte kleur, wat een beter contrast geeft met de schaakstukken. Zowel in horizontale als in verticale richting zijn de velden om en om licht en donker (wat meer algemeen een schaakbordpatroon wordt genoemd).
+Een schaakbord is vaak gemaakt van hout, met een rand eromheen. De velden zijn van donker en licht fineer. De afmeting is ongeveer 40 bij 40 centimeter.
+In een doos met spelbenodigdheden vindt men vaak een kartonnen bord dat opgevouwen kan worden. Een dergelijk schaakbord is prima te gebruiken, maar zal op een serieus schaaktoernooi niet geaccepteerd worden.
+Vaak vindt men op de andere kant van het bord een dambord, met 100 velden.
+Het schaakbord dient zodanig te worden opgesteld dat er zich voor beide spelers linksonder een donker veld bevindt.
+Notatie.
+De lijnen worden worden aangeduid met een letter (a-h), voor de witspeler is lijn a links en lijn h rechts. De rijen worden aangeduid met een cijfer (1-8), 1 aan de kant van de witspeler en 8 aan de kant van de zwartspeler. Zo kan elk veld worden genoteerd met een letter en cijfer, bijvoorbeeld e4.
+In oudere Angelsaksische literatuur wordt een andere notatie gebruikt. De lijnen heten: QR, QN, QB, Q, K, KB, KN, KR en de rijen worden genummerd vanaf de speler die aan zet is. Bijvoorbeeld wordt met de lijn QR bedoeld: de lijn waarop bij aanvang van het spel de toren (Rook) op de damevleugel (Queen) staat. Het veld e4 heet voor een Angelsaksische witspeler K4 en voor de zwartspeler K5.
+Legende.
+Over het schaakbord bestaat een beroemde legende. Naar verluidt vond een wijze uit India ongeveer 1500 jaar geleden het schaakspel uit. Hij leerde de koning het spel. Deze was zo enthousiast over het spel dat hij besloot dat het als voorbeeld voor het hele volk moest dienen: het schaakspel had hem geleerd dat de boeren (pionnen) en de adel (de stukken) als een eenheid moesten samenwerken.
+De koning beloofde de man een beloning die hij zelf mocht uitkiezen. Deze vroeg de koning om 1 rijstkorrel (of graankorrel) op het eerste veld van het schaakveld, 2 korrels op het tweede veld, 4 korrels op het derde, 8 korrels op het vierde enz. Op ieder veld dus steeds het dubbele aantal rijstkorrels van het vorige veld, totdat alle velden gevuld waren.
+Aanvankelijk was de koning beledigd door de bescheiden vergoeding die er van hem gevraagd werd, maar dat verdween snel toen de rekenmeesters aan het hof hadden uitgerekend om hoeveel rijstkorrels het ging: in totaal zouden er meer dan 18 triljoen (264 - 1; een getal van 20 cijfers) rijstkorrels op het schaakbord gelegd moeten worden: vele malen meer dan de hele wereldproductie bij elkaar.
+Een soortgelijk resultaat wordt verkregen bij de legende van de Torens van Hanoi.

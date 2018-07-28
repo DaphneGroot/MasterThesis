@@ -1,0 +1,34 @@
+Stofwisseling.
+Stofwisseling of metabolisme (uit het Grieks: "μεταβολισμός" "metabolismos" = verandering of omzetting) is het geheel van biochemische processen dat plaatsvindt in de cellen van organismen. Enzymen spelen bij deze omzettingen een centrale rol. Er wordt onderscheid gemaakt tussen de opbouw van stoffen onder gebruik van energie (anabolisme) en de afbraak van biomoleculen, waarbij energie vrijkomt (katabolisme).
+Functies van de stofwisseling.
+De stofwisseling heeft onder meer de volgende functies
+Katabolisme.
+Katabolisme is de afbraak van organische stoffen binnen een organisme; het omvat verschillende manieren van stofwisseling in een cel, afhankelijk van de verschillende soorten biopolymeren: polysachariden, lipiden, nucleïnezuren en proteïnen worden afgebroken tot kleinere moleculen, respectievelijk monosachariden, vetzuren, nucleotiden en aminozuren. Bij deze biochemische reactie komt energie vrij: katabolisme is een vorm van celademhaling (dissimilatie).
+Anabolisme.
+Anabolisme of biosynthese is de opbouw van organische stoffen, waarbij energie wordt gebruikt of wordt opgeslagen, bijvoorbeeld in ATP, NADPH, koolhydraten en biopolymeren. De energie wordt geleverd door licht (bij fotosynthese) of door redoxreacties (bij chemosynthese). Anabolisme behelst de reeks metabole routes waardoor uit kleinere moleculen grotere moleculen worden gevormd. Anabolisme is een vorm van assimilatie. waarbij weefsels en organen zoals spieren en botten worden opgebouwd. Dit gebeurt dankzij groei en celdifferentiatie.
+Fototroof.
+Een organisme is fototroof als het zich in leven houdt met licht als energiebron, naast de opname van anorganische stoffen. 'Fototroof' komt van Oudgrieks φως "phos" (licht) + τροφή "trophé" (voeding).
+De lichtenergie wordt bij fototrofe organismen vastgelegd via fotosynthese en hoofdzakelijk gebruikt voor de groei en voor het aanmaken van energierijke reservestoffen. Daarnaast wordt de lichtenergie gebruikt voor onder andere de opname van anorganische stoffen door plantenwortels tegen de concentratiegradiënt in, voor het transport van water met de daarin opgeloste stoffen binnen de plant, en voor de beweging van de plant, bijvoorbeeld fototropie. Fototrofe organismen voorzien zichzelf van de benodigde voedingsstoffen: ze zijn "autotroof".
+Mixotroof.
+Een mixotroof organisme kan zowel de benodigde energie uit licht (fototroof) als chemische stoffen (chemotroof) verkrijgen. Mixotrofe organismen kunnen voor assimilatie gebruikmaken van licht (fotosynthese), maar kunnen ook (an)organische verbindingen hiervoor gebruiken (chemosynthese).
+Chemotroof.
+Een organisme is chemotroof als het in staat is om met behulp van chemische omzettingen als energiebron te leven. Er bestaan zowel autotrofe ('zelfvoorzienende') als heterotrofe ('afhankelijke') chemotrofe organismen. Ze verkrijgen hun benodigde energie door oxidatie van respectievelijk anorganische en organische (door andere organismen aangemaakte) moleculen.
+Organotroof.
+Een organotroof organisme verkrijgt de energiebehoefte uit chemische omzettingen van organische stoffen. Organotrofie is een vorm van chemotrofie. Heterotrofe organismen worden ook wel met de term organotroof aangeduid. Een heterotroof organisme bouwt zijn organische celmateriaal op uit organische stoffen, gemaakt door andere organismen en is dus afhankelijk van andere organismen. Het dissimileert moleculen die door autotrofe organismen geassimileerd zijn.
+Lithotroof.
+Een lithotroof organisme is een organisme dat de energiebehoefte verkrijgt uit chemische omzettingen van anorganische stoffen. Het woord lithotroof is afkomstig van het Griekse woord "lithos" dat steen en "trophe" dat voeding betekent.
+Koolstofbron.
+Naar de herkomst van koolstof voor de opbouw van de organische stoffen en het celmateriaal kan men heterotrofe organismen onderscheiden van autotrofe organismen.
+Heterotroof.
+Een organisme is heterotroof, als het zijn celmateriaal opbouwt uit organische stoffen, dat wil zeggen stoffen afkomstig van andere organismen. Het woord "heterotroof" is afkomstig uit het Grieks en betekent letterlijk "zich van anderen voedend" ("heteros" - "vreemd", "een andere"; "trophein" - "voeden"). Een heterotroof organisme is voor zijn energievoorziening afhankelijk van andere organismen: het dissimileert moleculen die oorspronkelijk door autotrofe organismen geassimileerd zijn.
+De simpelste heterotrofen zijn gisten, maar ook de mens is heterotroof en wel chemo-organoheterotroof.
+Autotroof.
+Autotrofe organismen zijn organismen die CO2 gebruiken als bron van koolstof voor hun cellen. Autotroof is een samenstelling van de Griekse woorden "autos" (zelf) en "trophein" (voeden). Dit betekent dat het organisme zelf voedsel kan aanmaken en het niet hoeft te betrekken van een ander organisme. Autotrofe organismen halen hun energie uit anorganische stoffen of uit zonlicht. De energie gebruiken zij om kooldioxide om te zetten in glucose. Door gebruik van de genoemde energiebronnen zal door de activiteit van autotrofe organismen de hoeveelheid organische stof toenemen.
+Voorbeelden van autotrofe bacteriën zijn nitrificeerders en anammox bacteriën. Anammox bacteriën zijn aerotolerante (zuurstoftolerante) chemo-litho-autotrofe micro-organismen en behoren tot de planctomycetes.
+Metabolieten.
+Strikt genomen zijn metabolieten de producten van stofwisselingsprocessen. De term metabolieten wordt echter meestal alleen gebruikt voor kleine moleculen, zoals glucose en aminozuren.
+Er wordt soms ook een onderscheid gemaakt tussen primaire en secundaire metabolieten. Zo zijn de aminozuren waaruit eiwitten worden opgebouwd voorbeelden van primaire metabolieten, maar het alkaloïde nicotine daarentegen een secundaire metaboliet in bepaalde planten. Secundaire metabolieten bij planten zijn plantenstoffen (metabolieten) die niet direct betrokken zijn bij primaire processen (zoals fotosynthese, citroenzuurcyclus, eiwitsynthese). Ze zijn niet direct noodzakelijk voor het overleven van het organisme, maar dragen wel bij tot zijn overlevingskansen.
+Metabolisme (grootheid M).
+Metabolisme wordt ook als rekenwaarde gebruikt in de klimaattechnologie, om de warmteafgifte van een mens te bepalen is er voor het metabolisme een grootheid in het leven geroepen.
+Het metabolisme varieert met de activiteit van een persoon en wordt uitgedrukt in de eenheid MET, waarbij geldt dat.
+De MET is gedefinieerd als de geproduceerde warmte per m gemiddeld persoon in rust. De gemiddelde persoon heeft een oppervlakte van 1,8 m. De gemiddelde warmteproductie per persoon ligt dus op 105 watt.

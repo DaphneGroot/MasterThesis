@@ -1,0 +1,4 @@
+Broncodering.
+Binnen de telecommunicatie en ICT, heeft broncodering als doel het efficiënt representeren van informatie, zodat er op een optimale wijze gebruik kan worden gemaakt van schaarse middelen zoals opslagcapaciteit en transportcapaciteit.
+Bij broncodering wordt altijd getracht maximaal gebruik te maken van eventuele redundantie die aanwezig is in de te transporteren of te bewaren informatie.
+Daarnaast wordt bij sommige vormen van broncodering ook getracht gebruik te maken van beperkingen bij de ontvanger van de informatie. In de informatie aanwezige subtiliteiten, die een ontvanger ontgaan, behoeven immers niet te worden opgeslagen of getransporteerd.

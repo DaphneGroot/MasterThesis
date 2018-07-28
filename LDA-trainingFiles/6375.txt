@@ -1,0 +1,17 @@
+Wet van Ampère.
+De wet van Ampère is een natuurwet, ontdekt door André-Marie Ampère in 1826, die op mathematische wijze de relatie uitdrukt tussen de elektrische en magnetische component van elektromagnetische verschijnselen. Meer precies geeft de wet de grootte van het magneetveld dat opgewekt wordt door een stroom van ladingen.
+Formulering.
+waarbij formula_2 de magnetische permeabiliteit in Vs/Am in vacuüm is;
+formula_3 de dimensieloze relatieve permeabiliteit van het voortplantingsmedium; voor lucht is die vrijwel gelijk aan 1;
+formula_4 de magnetische fluxdichtheid in T (tesla, die gelijk is aan N/Am);
+formula_5 de stroomsterkte.
+Deze wet kan ook geformuleerd worden met de magnetische veldsterkte H.
+De SI-eenheid van H is gelijk aan A/m.
+Een elektrische stroom I produceert een magnetisch veld B.
+De sterkte van het opgewekte magneetveld is omgekeerd evenredig met de afstand tot de draad: hoe kleiner "r", hoe groter "|B(r)|".
+Kracht tussen stroomvoerende geleiders.
+Twee geleiders beïnvloeden elkaar. Evenwijdige en gelijkgerichte elektrische stromen trekken elkaar aan, evenwijdige en tegengesteld gerichte stromen stoten elkaar af.
+Men kan dit begrijpen in termen van de lorentzkracht: de stroom in de ene draad wekt een magneetveld op, deze levert omwille van de wet van Lorentz een kracht op de bewegende ladingen in de andere draad, en beide draden voelen daardoor dus een onderlinge kracht.
+Wetten van Maxwell.
+De wet van Ampère is genoemd naar de Fransman André-Marie Ampère, een van de hoofdontdekkers van het elektromagnetisme. Later werd door Maxwell de hele theorie van het elektromagnetisme samengevat in vier vergelijkingen, de wetten van Maxwell. De wet van Ampère, met een uitbreiding voor een tijdafhankelijke diëlektrische verplaatsing, is daar één van. De wetten van Maxwell worden echter vaak in differentaalvorm geschreven, dat wil zeggen: niet met integralen zoals hierboven, maar vergelijkingen die verbanden geven tussen afgeleiden van de elektrische en magnetische velden.
+In differentaalvorm luidt de wet van Ampère: formula_13.

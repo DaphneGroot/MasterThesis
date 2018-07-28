@@ -1,0 +1,18 @@
+Asymptoot.
+In de wiskunde is een asymptoot van een functie of kromme een rechte lijn of een kromme waar de grafiek van die functie of die kromme willekeurig dicht toe nadert bij grote waarden van een van de variabelen. De term is afgeleid uit het Grieks en betekent letterlijk "niet samenvallen". Asymptoten worden vaak gebruikt als hulpmiddel bij het tekenen van grafieken. Een deelgebied van de wiskunde, de asymptotiek'", bestudeert het gedrag van functies in de buurt van formula_1 of bij een punt waar de functie onbegrensd is.
+Rechte lijnen als asymptoten.
+x" f(x) in het rood, asymptoten blauw en groen
+Merk op dat de horizontale asymptoot in deze definitie een bijzonder geval is van de schuine asymptoot, waarbij "a" = 0.
+Horizontale asymptoot.
+2) Grafiek van de functie "f"("x") = arctan("x") f(x) in het rood, asymptoten blauw en groen
+In het eerste geval is er een horizontale asymptoot "y" = "p" langs de positieve x-as, in het tweede geval is deze "y" = "q" langs de negatieve x-as. Indien beide limieten bestaan, heeft de functie twee asymptoten die samenvallen in het geval dat "p" = "q".
+Schuine asymptoot.
+x" f(x) in het rood, asymptoten blauw en groen
+Willekeurige kromme als asymptoot.
+x" f(x) in het rood, asymptoten blauw en groen
+Zoals beschreven in de inleiding, hoeven asymptoten niet noodzakelijk rechten te zijn. Een willekeurige kromme kan in het algemeen ook asymptoten hebben die zelf niet lineair zijn. Zo is "f(x) = x2 + 1" een asymptotische kromme van "f(x) = x4/(x2 – 1)".
+zal voor het gedrag van "f" voor grote waarden van "x" quasi volledig bepaald zijn door de vierkantswortel.
+Men kan "g(x) = √x" dan ook als een asymptotische curve zien van "f"("x"), in figuur 4 aangeduid in het blauw.
+Bovendien heeft "f"("x") door de aanwezigheid van de term 1/x, ook weer de y-as als verticale asymptoot, aangeduid in het groen.
+Opmerkingen.
+5) Grafiek van een kromme die zijn asymptoot een oneindig aantal keer snijdt

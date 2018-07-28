@@ -1,0 +1,17 @@
+Elektron.
+Het elektron (Oudgrieks: ἤλεκτρον; betekenis: barnsteen dat door wrijving elektrisch geladen werd) is een negatief geladen elementair deeltje, dat gebonden kan zijn (bijvoorbeeld in een atoom) of zich vrij in de ruimte kan bevinden. Als het zich in de ruimte bevindt ondervindt het (net als een ion) invloed van een elektrisch veld en als het beweegt ten opzichte van een magnetisch veld ook invloed daarvan (Lorentzkracht).
+Structuur van het atoom.
+Atomen bestaan volgens Rutherfords atoommodel uit een positief geladen atoomkern, waaromheen evenveel negatief geladen elektronen draaien als er positief geladen protonen zijn in de kern. De protonen en neutronen in de kern van het atoom bevatten vrijwel de volledige massa van het atoom. Ze zijn ruim 1800 maal zo zwaar als een elektron, of specifieker: de protonmassa is 1836,15 maal de elektronmassa en de neutronmassa is 1838,68 maal de elektronmassa.
+Kenmerken van het elektron.
+Het elektron is een elementair deeltje met spin 1/2, en is dus een fermion, zoals het proton, het neutron en het positron. Het antideeltje van het elektron heet positron. Voor zover men weet heeft het elektron geen verdere inwendige structuur. Volgens de snaartheorie is het elektron, evenals andere elementaire deeltjes, een bepaald trillingspatroon in een eendimensionale snaar, maar over deze snaartheorie is nog veel discussie.
+Het elektron heeft een negatieve lading gelijk aan het elementaire ladingskwantum e (1,6022 × 10-19 Coulomb), voor het eerst gemeten door Robert Andrews Millikan met zijn oliedruppelexperiment.
+Volgens het standaardmodel van de deeltjesfysica kunnen elektrische ladingen alleen voorkomen in veelvouden van 1 e.
+De rustmassa van het elektron bedraagt 9,109534 × 10-31 kg, wat 1/1836e is van de massa van een proton en overeenkomt met een rustenergie van 511,007 keV. Het elektron heeft overigens net als een foton ook golfeigenschappen en is onderheving aan de dualiteit van golven en deeltjes volgens de hypothese van De Broglie. Deze golfeigenschap van elektronen wordt toegepast binnen de elektronenmicroscoop.
+De elektronenconfiguratie bepaalt in hoge mate het chemisch gedrag van het atoom.
+Classificatie van het elektron.
+Het elektron behoort tot de klasse der leptonen. Het elektron behoort tot de eerste generatie. Deze deeltjes zijn stabiel.
+Elektronen in een atoom.
+In een atoom kunnen de elektronen alleen met welbepaalde energieën formula_1 rond de atoomkern bewegen (discrete energieniveaus), waar n een geheel getal > 0 is, het dusgenaamde hoofdkwantumgetal.
+Voor waterstof (atoomgetal 1) en helium (atoomgetal 2) komt n = 1 overeen met de grondtoestand en komen n = 2, 3... overeen met aangeslagen toestanden.
+Bij de elementen met atoomgetallen 3 t/m 10, lithium t/m neon, hebben we twee elektronen in de binnenste schil (n = 1, de K-schil) en één t/m acht elektronen in de daaropvolgende schil (n = 2, de L-schil), die voor deze elementen de buitenste elektronenschil is. De grondtoestanden komen voor deze elementen overeen met hoofdkwantumgetal n = 2, de aangeslagen toestanden met n = 3, 4...
+Zie Periodiek systeem voor de overige elementen en voor meer informatie.

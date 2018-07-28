@@ -1,0 +1,18 @@
+Arbeid (natuurkunde).
+Als de paarden hier een constante kracht "F" uitoefenen over een afstand "Δx", is de arbeid gelijk aan "F Δx"
+Het symbool "W" komt van het Engelse woord voor arbeid: work. De eenheid van arbeid is de newton-meter (Nm), maar de joule (J), de eenheid van energie, mag ook gebruikt worden. Arbeid is immers een vorm van energie.
+Definitie.
+Arbeid is een scalaire grootheid, kan positief of negatief zijn, en wordt uitgedrukt in joule. Arbeid gaat altijd samen met een verandering van energie en heeft ook dezelfde eenheid, maar er zijn ook energieomzettingen waarbij geen arbeid verricht wordt. Altijd als iets "tegen een bepaalde kracht in" wordt bewogen, wordt er door die kracht negatieve arbeid verricht; wordt iets "met een kracht mee" bewogen, dan is de door die kracht verrichte arbeid positief. Ruwweg kan het volgende principe gebruikt worden: als de kracht de beweging bevordert is de arbeid van "die" kracht positief, als de beschouwde kracht de beweging tegenwerkt is de arbeid negatief. Een voorbeeld is het indrukken van een balpenveer: bij het indrukken van de veer wordt arbeid verricht door degene die de veer indrukt (de spierkracht maal de afstand), maar de veer verricht negatieve arbeid. Bij het loslaten komt die opgeslagen energie weer vrij, de veer verricht positieve arbeid.
+Is er geen beweging, dan is de verplaatsing formula_4 nul dus is de arbeid 0 joule. Als de beweging dwars op de kracht gericht is, is de verplaatsing formula_4 dat ook en is de hoekfactor (cosinus 90 graden) nul dus is ook de arbeid 0 joule.
+Verband arbeid en kinetische energie bij een puntmassa.
+Bij een ballista wordt er arbeid verricht om de pijl een hoge kinetische energie te geven
+Als formula_10 de enige kracht is op een puntmassa (m), of de resultante van alle krachten, is de omzetting van arbeid in kinetische energie af te leiden uit formula_11 (de tweede van de wetten van Newton) en formula_12
+Hierbij geven 1 en 2 de begin- en eindtoestand van het traject C aan, en formula_15 en formula_16 de bijbehorende begin- en eindsnelheden.
+Arbeid bij draaiing.
+Bij een draaiende koppeling wordt er arbeid verricht tijdens het draaien
+Arbeid en warmte.
+Bij het uitboren van een kanonsloop wordt er een aanzienlijke hoeveelheid warmte geproduceerd
+Een van de eerste ontwikkelingen in de vroege thermodynamica was dat men zich realiseerde dat er een equivalentie bestaat tussen arbeid en warmte. Bijvoorbeeld bij het boren van kanonslopen ondervond Benjamin Thompson al in de 18e eeuw dat er een voorspelbare hoeveelheid warmte vrijkwam. James Prescott Joule heeft die equivalentie in 1850 experimenteel aangetoond. De Eerste wet van de thermodynamica gaat dan ook over de relatie tussen toegevoerde warmte, inwendige energie en arbeid. De warmte-eenheid calorie naast de joule is daarmee overbodig geworden. Officieel is dat ook zo, maar uit het algemene spraakgebruik is de calorie nog niet helemaal verdwenen.
+Arbeid op een geladen deeltje in een elektrisch veld.
+Als niets tegenwerkt zal het deeltje zich in de richting van die kracht verplaatsen.
+waarbij formula_28 de passieve lading is (de lading die de kracht ondergaat).

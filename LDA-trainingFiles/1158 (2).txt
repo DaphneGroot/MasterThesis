@@ -1,0 +1,2 @@
+Useragent.
+De useragent of user agent is het computerprogramma dat bij een netwerkfunctie of protocol hoort. In de context van e-mail bijvoorbeeld duidt 'useragent' het e-mailprogramma aan waarmee e-mail wordt opgehaald. In de context van webpagina's geeft "useragent" aan welke webbrowser wordt gebruikt.

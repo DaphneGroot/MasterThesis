@@ -1,0 +1,30 @@
+Klinker (klank).
+Klinkers of vocalen zijn spraakklanken, waarvan de uitspraak begint met gesloten stemspleet die vervolgens opengaat. De spraaklucht gaat dan door de stembanden trillen en kan welhaast ongehinderd de mond verlaten. Wanneer een klinker voorafgegaan wordt door een medeklinker, dan is het de medeklinker die de stemspleet opent.
+De letters a, e, i, o, u en y worden eveneens klinkers genoemd, maar de klank van die letters hangt af van de taal en de letters die eromheen staan. Om verwarring te voorkomen zullen we in de rest van dit artikel steeds waar 'klinker' staat de klank bedoelen.
+Voorkomen van klinkers.
+Klinkers vormen in de meeste talen (inclusief het Nederlands) het hart van elke lettergreep, meestal omgeven door een of meer medeklinkers. Anders gezegd: klinkers zijn altijd syllabisch, dat wil zeggen dat ze zelfstandig (of voorzien van een zogenaamde onset en/of coda van consonantische fonemen) een lettergreep kunnen vormen.
+Nederlandse klinkers.
+De verzameling klinkers in het Nederlands is sterk afhankelijk van het dialect. Wanneer we het hebben over 'de' Nederlandse klinkers dan bedoelen we gemakshalve die van het Standaardnederlands.
+Kort en lang.
+In het Standaardnederlands komen 9 enkelvoudige klinkers voor, waarvan 6 in verschillende lengtes. Daarnaast zijn er nog minstens 12 tweeklanken. De lange enkelvoudige klinkers komen voor in lettergrepen die eindigen op de letter R: "beur" is lang, "uk" is kort; "boer" is lang, "hoek" is kort. De enige uitzondering op die regel is de (lange) aa zoals in "baak".
+Het blijkt dat niet alle tweeklanken met twee klinkerletters worden geschreven (zie 'luw') en ook dat niet alle enkelvoudige klinkers met een of twee van dezelfde letters worden geschreven (zie 'ziek').
+Vrij en gedekt.
+Men kan de Nederlandse klinkers onderverdelen in vijf gedekte klinkers, zeven vrije klinkers, de zogenoemde toonloze /e/ (van de) en drie tweeklanken. Verder komen vier gedekte klinkers ook voor als neusklinker (in aan het Frans ontleende woorden) en zijn er nog zeven onechte tweeklanken.
+Gedekte klinkers.
+Er zijn vijf gedekte klinkers: /ɑ/ (a van bal), /ɛ/ (e van bel), /ɪ/ (i van bil), /ɔ/ (o van bol) en /ʏ/ (u van bul). De gedekte klinkers worden ook wel korte klinkers genoemd, maar deze benaming kan verwarring scheppen omdat bijvoorbeeld /ɛ/ en de /ɔ/ ook verlengd voorkomen in onder andere blèren en roze. Met de benaming "gedekte klinkers" is bedoeld dat deze klinkers gevolgd ("gedekt") worden door een medeklinker in dezelfde lettergreep. De gedekte klinkers komen namelijk vrijwel alleen in gesloten lettergrepen voor, dat wil zeggen in lettergrepen die eindigen op een medeklinker: kar, bed, bik, bom, hun. Alleen in tussenwerpsels zoals hè staat een gedekte klinker in een open lettergreep.
+In sommige dialecten zijn er twee varianten van de gedekte /ɔ/: als in hok en als in bok. Op het leesplankje van Hoogeveen wordt dat aangegeven met een punt boven de letter.
+Drie gedekte klinkers komen in aan het Frans ontleende woorden ook voor als neusklinkers.
+De /ʏ/ heeft geen nasale variant in het Frans.
+Vrije klinkers.
+Er zijn zeven vrije klinkers: /aː/ (aa van raak), /eː/ (ee van reek), /i/ (ie van riek/, /oː/ (oo van rook), /y/ (uu van Ruud), /øː/ (eu van reuk) en /u/ (oe van roek). De vrije klinkers worden ook wel lange klinkers genoemd, maar ook deze benaming kan verwarring scheppen omdat het verschil in lengte met de gedekte klinkers vaak niet groot is en omdat de "lange" klinkers zelf nog verlengd worden voor de /r/. Vergelijk raak en raar, roek en roer. Met de benaming "vrije klinkers" is bedoeld dat ze "vrij" kunnen voorkomen, dat wil zeggen niet alleen in gesloten lettergrepen zoals koek en keus, maar ook in open lettergrepen zoals koe en keu.
+De sjwa.
+De dertiende klinker is de sjwa /ə/, ook wel doffe, toonloze of stomme e genoemd, zoals we die horen in de tweede lettergreep van "leren".
+Tweeklanken.
+Er zijn drie zuivere tweeklanken: de /ɛɪ/ van geit of tijd, de /œy/ van guit en de /ɔu/ van goud of gauw. Bij zuivere tweeklanken gaat het niet om een combinatie maar om een vermenging van klinkers. De twee klinkers zijn niet apart hoorbaar.
+Onechte tweeklanken.
+Het Nederlands kent verder nog zeven onechte tweeklanken. Bij onechte tweeklanken gaat het niet om een vermenging maar om een combinatie van klinkers. De klinkers blijven apart hoorbaar. Vijf combinaties eindigen op een /i/ en twee op een /u/.
+De tweeklanken /eːu/ en /iu/ worden altijd gespeld met een w erachter.
+Enkelvoudig versus samengesteld.
+Een andere manier om klinkers te rangschikken, is door uit te gaan van enkelvoudige en samengestelde klinkers. Enkelvoudige klinkers veranderen in de tijd niet van klank en kunnen dus even goed kort of lang worden uitgesproken; samengestelde klinkers (tweeklanken) vormen in de tijd een klankverloop. In het onderstaande diagram staan links de enkelvoudige klinkers en rechts de samengestelde.
+Hoogte.
+Met de "klinkerhoogte" wordt de verticale positie van de tong ten opzichte van de bovenkant van de mond (de tandkassen of het verhemelte) of ten opzichte van de geopende kaak tijdens de articulatie bedoeld. Bij de articulatie van hoge ofwel gesloten klinkers bevindt de tong zich hoog in de mond, terwijl de tong zich bij de articulatie van lage ofwel open klinkers laag in de mond bevindt. De termen "open" en "gesloten" worden bij voorkeur gebruikt in het Internationaal Fonetisch Alfabet en verwijzen naar de stand van de kaak, hoewel het hier in feite meer een akoestische dan een articulatorische eigenschap betreft. Klinkerhoogte wordt tegenwoordig meestal gedefinieerd op basis van de eerste formant (F1): hoe hoger de F1, des te lager (opener) is de klinker. De laagste klinker is "a".

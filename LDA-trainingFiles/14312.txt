@@ -1,0 +1,3 @@
+Alkalinebrandstofcel.
+Diagram van een Alkalinebrandstofcel 1 waterstof 3 elektrische belasting 4 zuurstof 5 kathode 6 elektrolyt 7 anode 8 water 9 OH–-ionen
+Een alkalinebrandstofcel of alkalische brandstofcel (Engelse benaming: Alkaline Fuel Cell of AFC) is een brandstofcel werkend met kaliloog (alkaline, ook wel kaliumhydroxide) als elektrolyt. Het ionentransport vindt plaats met behulp van hydroxide(OH)-ionen. De katalysator voor de ionisatie van waterstof is platina, of kobalt.

@@ -1,0 +1,13 @@
+P-waarde.
+De p-waarde of overschrijdingskans (van een gegeven steekproefuitkomst) is de kans dat in de verdeling gegeven door de nulhypothese de waarde van de toetsingsgrootheid wordt behaald of overschreden (links, rechts dan wel tweezijdig). De p-waarde is dus gebaseerd op de specifieke steekproefuitkomst.
+De p-waarde geeft aan hoe extreem de gevonden waarde voor de toetsingsgrootheid in de verdeling onder de nulhypothese is. Hoe kleiner de p-waarde, hoe extremer de uitkomst. In de praktijk worden waarden van 5% en 1% aangehouden als grens; is de p-waarde kleiner, dan spreekt men van een significante, resp. sterk significante uitkomst.
+De p-waarde is alleen geschikt om een nulhypothese te toetsen tegen een alternatieve hypothese en doet geen uitspraak over de waarschijnlijkheid van de nulhypothese of alternatieve hypothese.
+Statistische toetsen die gebruikmaken van p-waarden, komt men veel tegen in wetenschap, met name sociale wetenschappen, medische wetenschappen en economie.
+Voorbeeld.
+Deze kans kan berekend worden door een normale benadering van de binomiale verdeling. Onder de nulhypothese kan "T" als normaal verdeeld beschouwd worden met verwachting 30 en standaardafwijking
+Als de vooropgestelde grenswaarde op 5% gezet is, is de gevonden waarde van 2,3% kleiner dan het significantieniveau en dus reden om aan de zuiverheid van de dobbelsteen te twijfelen.
+In verband met de hierna volgende kritiek op de p-waarde is het van belang zich te realiseren dat de p-waarde ook afhankelijk is van het aantal worpen. Bij 90 worpen met de dobbelsteen is de p-waarde van 10 keer 6, ondanks dezelfde verhouding (10/90 = 20/180), gelijk aan 9,72%, dus groter dan 5%, en dus niet significant.
+Kritiek op het gebruik van p-waarden.
+Er wordt recentelijk veel kritiek geleverd op het gebruik van p-waarden in wetenschappelijke publicaties die relevante verbanden aan zouden tonen. Bij een bepaalde set waarnemingen kunnen veel hypothesen geformuleerd worden die vervolgens getoetst worden. Het jagen op een vraag die een significant resultaat oplevert noemt men wel "p-hacking" en leidt vaak tot foute conclusies. Dit ligt besloten in de betekenis van de p-waarde. Een p-waarde van bijvoorbeeld 5% voor een steekproefresultaat, betekent dat in 1 op de 20 steekproeven de conclusie dat het veronderstelde effect daadwerkelijk aanwezig is, niet correct is. Door op p-waardes te jagen, worden vaak resultaten gevonden die niet herhaalbaar blijken.
+Foute interpretaties van de p-waarde.
+We gaan voor het gemak uit van het veel gebruikte significantieniveau van 5%. We veronderstellen dat we een p-waarde van 4% hebben gevonden.

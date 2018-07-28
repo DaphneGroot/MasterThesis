@@ -1,0 +1,7 @@
+PaintShop Pro.
+PaintShop Pro is een beeldbewerkingsprogramma voor Windows.
+Geschiedenis.
+PaintShop Pro, dat ontwikkeld werd door Jasc, verscheen oorspronkelijk onder de naam Paint Shop Pro. In 2004 werd de firma Jasc Software overgenomen door Corel. Bij versie 13 (X3) uit 2010 werd het programma hernoemd naar "Corel PaintShop Photo Pro" om later hernoemd te worden naar "PaintShop Pro".
+Paint Shop Pro (ook wel kortweg PSP genoemd) is in 1991 in de Lage Landen verschenen. De vertaling van versie 6 in het Nederlands (voorheen was het programma enkel Engelstalig) zorgde voor een opmars in de Nederlandstalige markt.
+Functies.
+Het tekenprogramma is speciaal door het grote aantal bestandsformaten die ermee geopend of bewerkt kunnen worden: in versie 8.0 zijn dit er 59, waaronder ook de meest voorkomende types zoals.gif.jpg.png.bmp enz. Qua mogelijkheden benadert het de marktleiderapplicaties zoals Adobe Photoshop, die meer kosten, of GIMP, dat gratis is.

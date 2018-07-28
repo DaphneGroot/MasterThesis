@@ -1,0 +1,3 @@
+Aljechin (schaakopening).
+De Aljechinverdediging is een opening in het schaken, die zich kenmerkt door de zetten 1.e4 Pf6. Allgaier analyseerde deze verdediging in 1811 en Aleksandr Aljechin maakte haar in de jaren twintig van de 20e eeuw populair. Hij heeft zich slechts in een twintigtal partijen van deze opening bediend. Bobby Fischer heeft de opening verschillende keren gespeeld, onder meer in zijn match tegen Boris Spasski.
+Het is een opening in de halfopen spelen, en ze valt onder ECO-code B02. De zet 1...Pf6 doet vreemd aan omdat wit met 2.e5 een breed centrum krijgt. Het idee is echter dat zwart de pionnen naar voren lokt en het witte centrum met zetten als...d6 ondermijnt.

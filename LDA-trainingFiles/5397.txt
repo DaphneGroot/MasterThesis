@@ -1,0 +1,13 @@
+Huffmancodering.
+Huffmancodering is een methode om gegevens die bestaan uit een rij van symbolen, optimaal en verliesloos te comprimeren. De codering wordt onder andere toegepast bij datacommunicatie en voor digitale afbeeldingen. Huffmancodering is vernoemd naar David Huffman, die de codering in 1952 voor het eerst beschreef.
+Het principe van Huffmancodering is eenvoudig. Van een reeks symbolen worden de veel voorkomende symbolen weergegeven door een kortere code, dan de weinig voorkomende. Zo kan de hele reeks op een kortere manier gecodeerd worden.
+Algoritme.
+De Huffmancode van een symbool is nu de lijst van bits (enen en nullen) die je tegenkomt als je vanaf de wortel van de boom het symbool opzoekt. Hiervoor geldt: hoe hoger de frequentie, hoe korter de (binaire) code. Op deze manier bereik je compressie. Als je namelijk platte tekst opslaat (ASCII), nemen alle karakters in de tekst 1 byte (van 8 bits) in beslag. Door Huffmancodering zorg je ervoor dat karakters die vaak voorkomen in een tekst in minder bits gecodeerd worden. Sommige karakters die weinig (of niet) voorkomen in de tekst krijgen weliswaar een code die langer is dan 8 bits (wat dus niet voor compressie zorgt) maar doordat deze karakters minder vaak voorkomen in de tekst dan de karakters met een laag aantal bits zal het totaal wel gecomprimeerd zijn.
+Een voorbeeld.
+Stel, we trachten een Huffmancodering te vinden voor een Nederlandse tekst.
+We nemen de twee letters met de laagste frequenties uit deze lijst, en combineren ze.
+Dat zijn dus de Y (krijgt een 0) en de Q (krijgt een 1).
+Vervolgens doen we hetzelfde met de resulterende lijst.
+YQ en X staan nu onderaan. YQ krijgt een 0 (Y dus 00, Q 01), en X krijgt een 1. Vervolgens wordt F bij XYQ gevoegd. Enzovoort.
+Het eindresultaat staat hieronder, met bij elke knoop de frequentie (de boom is voor het gemak 90° gedraaid; de bovenste tak is steeds '0', de onderste tak '1')
+Ter vergelijking, morse-code is eveneens een verliesloze maar niet optimale codering voor Nederlandstalige tekst.

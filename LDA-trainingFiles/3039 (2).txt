@@ -1,0 +1,12 @@
+Volt (eenheid).
+De volt (symbool van de "eenheid" volt is V) is de SI-eenheid voor elektrische potentiaal en elektrische spanning (potentiaalverschil). De eenheid is genoemd naar de Italiaanse natuurkundige Alessandro Volta (1745-1827). Deze vond in 1800 de eerste chemische batterij, de zuil van Volta, uit.
+Bij een elektrische bron spreekt men van elektrische spanning of kortweg spanning als men het potentiaalverschil tussen beide polen bedoelt. Een veel gebruikte benaming voor potentiaalverschil is "voltage".
+De volt is gedefinieerd als het potentiaalverschil over een geleider als een stroom van 1 ampère daarin een vermogen van 1 watt in warmte omzet. De eenheid is ook gelijk aan een joule per coulomb.
+De vermenigvuldigingsfactoren uit het SI-stelsel worden ook voor volt gebruikt: men spreekt over µV (microvolt, 10-6), mV (milli-, 10-3), kV (kilo-, 103), en MV (mega-, 106).
+Definitie gebruikmakende van het josephson-effect.
+Deze relatie bleek onafhankelijk te zijn van de opstelling of gebruikte materialen en is dus uiterst nauwkeurig. Toch is ze niet meer de officiële methode volgens het Bureau international des poids et mesures (BIPM).
+Gelijkspanning en wisselspanning.
+Bij een gelijkspanning blijft de polariteit van de spanning steeds dezelfde. Sluiten we een weerstand aan op de gelijkspanningsbron, dan loopt de stroom steeds in dezelfde richting. Dit wordt aangeduid met VDC (Volt Direct Current). De stroom die door een batterij aan een belastingsweerstand wordt geleverd is zeer constant. Goedkope acculaders, bijvoorbeeld voor een smartphone, leveren een pulserende gelijkstroom, waarbij de stroom niet van teken wisselt, maar wel periodiek heel laag kan worden.
+Bij wisselspanning wisselt de stroom in een aangesloten weerstand steeds van richting. Veel wisselspanningen, zoals die van het elektriciteitsnet zijn sinusvormig. De spanning is nu niet de gemiddelde waarde, en ook niet de gelijkgerichte gemiddelde waarde. Bij een wisselspanning definieert men de effectieve waarde, zijnde de waarde van een constante gelijkspanning die dezelfde warmteontwikkeling in een bepaald weerstand zou geven. Men duidt wisselspanning aan met VAC (Volt Alternating Current)
+Wetenswaardigheid.
+De elektronvolt (eV) is geen eenheid voor spanning, maar voor energie.

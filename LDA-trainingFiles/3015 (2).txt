@@ -1,0 +1,52 @@
+Verzameling (wiskunde).
+De doorsnede van twee verzamelingen "A" en "B" wordt in dit venndiagram in het lichtpaars gekleurde vlak in het midden weergegeven.
+Een verzameling is in de verzamelingenleer (een deelgebied van de wiskunde) een collectie van verschillende objecten, elementen genoemd, die op haar beurt ook weer als een object wordt beschouwd. Het begrip verzameling is een basisbegrip dat zich niet gemakkelijk laat definiëren in termen van andere begrippen, maar axiomatisch gedefinieerd moet worden.
+Verzamelingen behoren tot de meest fundamentele concepten binnen de wiskunde. De grondslag voor het begrip verzameling werd aan het einde van de 19e eeuw gelegd door de Duitse wiskundige Georg Cantor. Hij noemde een verzameling informeel: "een veelheid beschouwd als een", de totaliteit van in bepaalde zin bij elkaar behorende "elementen".
+De verzamelingenleer is heden ten dage alomtegenwoordig in de wiskunde, en kan als een basis worden gebruikt, van waaruit bijna de gehele wiskunde kan worden afgeleid. In het wiskundeonderwijs aan de middelbare scholen worden elementaire onderwerpen zoals venndiagrammen onderwezen. Meer geavanceerde concepten komen als onderdeel van een universitaire studie wiskunde aan de orde.
+Twee verzamelingen zijn identiek, wanneer ze dezelfde elementen bevatten. Een verzameling zonder element noemt men een "lege verzameling". Bij de beschrijving van een verzameling gaat het uitsluitend om de vraag welke elementen in de verzameling zijn opgenomen. Dat hetzelfde element eventueel meerdere keren in de verzameling voorkomt is niet van belang, evenmin als de volgorde van de elementen.
+Definitie.
+Hier wordt alleen een globaal overzicht gegeven van het concept verzameling. Dit overzicht is erop gericht om met verzamelingen te kunnen werken en de belangrijke begrippen als afbeeldingen, functies, getallen en relaties te kunnen definiëren.
+De elementen of leden van een verzamelingen kunnen van alles zijn: getallen, mensen, letters van het alfabet, andere verzamelingen en zo verder. Verzamelingen worden gewoonlijk aangeduid door hoofdletters. De verzamelingen "A" en "B" zijn dan en slechts dan aan elkaar gelijk als zij precies dezelfde elementen hebben.
+Zoals hieronder wordt besproken bleek de hierboven gegeven definitie ontoereikend te zijn voor de formele wiskunde. In plaats daarvan wordt de notie van een "verzameling" in de axiomatische verzamelingenleer als een ongedefinieerde primitieve genomen en worden haar eigenschappen gedefinieerd door de axioma's van Zermelo-Fraenkel. De meest fundamentele eigenschappen zijn dat een verzameling elementen "heeft" en dat twee verzamelingen gelijk zijn (een en dezelfde) dan en slechts dan als deze twee verzamelingen dezelfde elementen hebben.
+Voor een samenvatting van de notatie, zie "symbolen uit de verzamelingenleer".
+Beschrijving van verzamelingen.
+In het dagelijkse spraakgebruik maken we ook gebruik van het begrip verzameling: we spreken van "bestek" als we (de verzameling van) lepels, vorken en messen bedoelen. Het "servies" van oma is een verzameling borden, schalen enz. Een "pak" speelkaarten is een ander woord voor een verzameling speelkaarten. In de wiskunde kennen we de verzameling van de natuurlijke getallen:, een totaliteit met als elementen de getallen 0, 1, 2, 3, 4, enz.
+Een formele definitie kan hier niet gegeven worden. We volstaan ermee dat een verzameling bepaald wordt door zijn elementen. Deze elementen kunnen van alles zijn: getallen, andere verzamelingen, mensen, grassprieten... Zo is bijvoorbeeld 4 een element van de verzameling der gehele getallen. Wanneer "x" een element is van de verzameling "A", schrijven we "x" ∈ "A".
+omdat de extensionele specificatie alleen betekent dat elk van de opgesomde elementen een lid van de verzameling is.
+Vaak wordt hiervoor het symbool ∅ gebruikt.
+Het aantal elementen in een verzameling noemt men de kardinaliteit van de verzameling.
+Lidmaatschap.
+De belangrijkste relatie tussen verzamelingen is "lidmaatschap" - wanneer een verzameling een element is van een andere verzameling. Wanneer "a" lid is van "B" wordt dit aangeduid door "a"∈"B", terwijl als "c" geen lid is van "B" dit wordt aangeduid door "c"∉"B".
+Bijvoorbeeld met betrekking tot de verzamelingen "A" =, "B"= (de kleuren in de Nederlandse vlag), en "F" = zoals hierboven gedefinieerd, geldt
+Deelverzamelingen.
+A is een deelverzameling van B "A" is een deelverzameling van "B"
+Als elk lid van verzameling "A" ook lid is van verzameling "B", dan zegt men dat "A" een "deelverzameling" van "B" is. Dit wordt geschreven als "A" ⊆ "B" (uitgesproken als "A wordt omvat door B"). Op gelijkwaardige wijze kunnen wij "B" ⊇ "A" schrijven, lees als "B is een superset van A", "B sluit A in" of "B omvat A". De relatie tussen verzamelingen die wordt vastgelegd door ⊆ wordt "inclusie" of "omvatting" genoemd.
+Als "A" een deelverzameling is van, maar niet gelijk is aan, "B", dan wordt "A" een "echte of strikte deelverzameling" van "B" genoemd. Dit wordt geschreven "A" ⊊ "B" ("A is een strikte deelverzameling van B") of "B" ⊋ "A" ("B is een strikte superset van A").
+De uitdrukkingen "A" ⊂ "B" en "B" ⊃ "A" worden door verschillende auteurs anders gebruikt: sommigen gebruiken deze relatie in de betekenis van "A" ⊆ "B" (respectievelijk "B" ⊇ "A"), terwijl anderen er "A" ⊊ "B" (respectievelijk "B" ⊋ "A") mee bedoelen.
+Machtsverzamelingen.
+De machtsverzameling van een verzameling "S" is de verzameling van alle deelverzamelingen van "S". Dit sluit de deelverzamelingen in, die kunnen worden gevormd uit alle leden van "S" en daarboven op de lege verzameling. Als een eindige verzameling "S" een kardinaliteit "n" heeft, dan heeft de machtsverzameling van "S" kardinaliteit 2"n". De machtsverzameling kan worden geschreven als "P"("S").
+Als "S" een oneindige (hetzij aftelbare hetzij overaftelbare) verzameling is, dan is de machtsverzameling van "S" altijd overaftelbaar. Als "S" bovendien een verzameling is, dan is er nooit een bijectie van "S" op "P"("S") mogelijk. Met andere woorden is de machtsverzameling van "S" altijd strikt "groter" dan "S".
+Als een voorbeeld is de machtsverzameling van de verzameling is. De kardinaliteit van de oorspronkelijke verzameling is 3, en de kardinaliteit van de machtsverzameling is 23 = 8. Deze relatie is een van de redenen voor de terminologie "machtsverzameling".
+Eigenschappen.
+We noemen twee verzamelingen gelijk wanneer ze dezelfde elementen bevatten.
+De verzameling "A" wordt een deelverzameling van de verzameling "B" genoemd, als elk element van "A" ook element is van "B" (notatie: "A" ⊆ "B"). Iedere verzameling heeft als deelverzamelingen zichzelf (oneigenlijke deelverzameling) en de lege verzameling.
+Twee deelverzamelingen "A" en "B" worden disjunct genoemd wanneer zij geen gemeenschappelijke elementen hebben; hun doorsnede is dan leeg (de lege verzameling).
+Kardinaliteit.
+De kardinaliteit | "S" | van een verzameling "S" is "het aantal leden dat deel uitmaakt van "S" (het aantal elementen). Aangezien bijvoorbeeld de Nederlandse vlag drie kleuren kent is de kardinaliteit van de verzameling "kleuren in de Nederlandse vlag" gelijk aan
+De lege verzameling ∅ heeft kardinaliteit 0. Hoewel het misschien triviaal lijkt, is de lege verzameling, net zoals het getal nul, belangrijk in de wiskunde; het bestaan van de lege verzameling is zelfs een van de fundamentele concepten uit de axiomatische verzamelingenleer.
+Sommige verzamelingen hebben een oneindige kardinaliteit. De verzameling N van natuurlijke getallen is bijvoorbeeld oneindig. Men kan echter demonstreren dat sommige oneindige kardinaliteiten groter zijn dan andere. De verzameling van de reële getallen heeft bijvoorbeeld een grotere kardinaliteit dan de verzameling van de natuurlijke getallen. Het kan worden aangetoond dat de kardinaliteit van (dat wil zeggen: het aantal punten op) een rechte lijn dezelfde is als de kardinaliteit van enig lijnstuk van die lijn, dezelfde als die van het gehele vlak, en ook dezelfde als die van enige eindig-dimensionale Euclidische ruimte.
+Operaties.
+Een verzameling zal een deel zijn van het Universum "U", waarmee in dit verband wordt bedoeld de verzameling met alle mogelijke elementen. Het complement "A' " van een verzameling "A" is dan de verzameling van alle elementen in "U" die niet in "A" zitten, notatie: "A' " =. "A' " wordt ook wel als de complementaire verzameling, kortweg het complement van "A" aangeduid.
+Een partitie is een opdeling van een verzameling in niet lege, onderling disjuncte, deelverzamelingen, die wel "blokken" worden genoemd. Bijvoorbeeld: Als "A"=, dan is een partitie van "A" met drie blokken.
+Wanneer "A" een verzameling is, noemen we de verzameling van alle deelverzamelingen de machtsverzameling van A, notatie P("A") of 2"A".
+Om wat vooruit te lopen: de deelverzamelingen van een gegeven verzameling vormen samen een booleaanse algebra onder deze operatoren.
+Venndiagrammen.
+Venndiagrammen, genoemd naar John Venn, vormen een illustratie van eigenschappen van verzamelingen.
+De doorsnede van twee verzamelingen "A" en "B" is in de afbeelding lichtpaars weergegeven.
+Eigenschappen van en stellingen over verzamelingen.
+Definitie: A - B = - (Het complement van "B" m.b.t. "A").
+Modellering.
+Men dient voorzichtig te zijn met verbale beschrijvingen van verzamelingen, omdat deze gemakkelijk tot paradoxen kunnen leiden. De axiomatische verzamelingenleer is geconstrueerd om deze paradoxen te vermijden.
+Bijvoorbeeld: Laten we een verzameling "goed gemodelleerd" noemen wanneer ze niet zichzelf als element bevat. Laat S de verzameling van alle goed gemodelleerde verzamelingen zijn. Is S goed gemodelleerd? Hierop is geen antwoord mogelijk; dit wordt de paradox van Russell genoemd. In de axiomatische verzamelingenleer kan een verzameling niet zichzelf als element hebben.
+Relaties met andere takken van de wiskunde.
+Vrijwel alle andere takken van de wiskunde worden gebaseerd op de verzamelingenleer. Zo wordt bijvoorbeeld kansrekening (waarschijnlijkheidsrekening) bedreven op basis van verzamelingenleer. Ook andere elementaire begrippen in de wiskunde, zoals functies worden gedefinieerd in termen van verzamelingen. Hierbij wordt gebruikgemaakt van het Cartesisch product.

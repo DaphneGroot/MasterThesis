@@ -1,0 +1,12 @@
+Logische poort.
+Logische poorten zijn voornamelijk opgebouwd uit elektronische componenten zoals transistors, weerstanden en dioden, maar ze kunnen ook bestaan uit elektromagnetische relais, fluidics, optische of mechanische elementen.
+Logische schakelingen kunnen worden gestuurd met het invoeren van elektrische spanningen, in de meeste digitale elektronica gebruikt men van origine 5 volt-logica (TTL), welke een spanning groter dan ongeveer 4 volt gebruikt voor een logische hoog (een '1'), en een spanning lager dan 0,5 volt gebruikt voor een logisch laag signaal (een '0').
+Maar in veel modernere logica gebruikt men uit oogpunt van energiezuinigheid logica die gebruikmaakt van 3,3 volt, en in zeer sterk geïntegreerde logica zoals CPU's gebruikt men zelfs nog lagere spanningen zoals 1,8 volt.
+Soorten poorten.
+Hier volgt een overzicht van de standaard logische poorten (soms ook gates genoemd)
+Een poort met een N ervoor (NOR, NAND, enz.) doet hetzelfde als de oorspronkelijke poort (OR, AND, enz.) met een inverter (NOT) erachter.
+Overgangen en ruis.
+In de praktijk zijn behalve de twee gewenste functionele waarden, alle waarden in principe mogelijk. Het ontwerp van deze poorten is erop gericht dat de niet-functionele waarden maar zeer kort aanwezig zijn, bijvoorbeeld bij het omschakelen van een één naar een nul of omgekeerd. Of wanneer door externe invloeden (EMC) energie in de vorm van elektrische lading wordt geïnjecteerd. Bij extreem hoge of lage waarden kan de lading worden afgevoerd met diodes, vooral bij CMOS-schakelingen die een zeer hoge impedantie hebben, met grote kans op hoge destructieve spanningen. De één- en de nulwaarde worden ook altijd met een zo laag mogelijke impedantie uitgevoerd (de lage impedantie voert dan de ongewenste energie af en verkleint daarmee de ruis).
+Elementaire logische poorten in CMOS.
+Omstreeks 1975 werden de eerste geïntegreerde schakelingen in CMOS-technologie opgebouwd. Deze technologie is verder ontwikkeld en is tegenwoordig dominerend.
+Nevenstaande figuur geeft de opbouw en werking van de meest elementaire poorten in deze technologie weer.

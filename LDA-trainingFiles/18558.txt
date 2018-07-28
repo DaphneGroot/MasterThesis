@@ -1,0 +1,11 @@
+Stroomtang.
+Moderne digitale ampèretang met extra instellingen voor Volt (V), Ohm (Ω) en Hertz (Hz).
+Een stroomtang – ook wel ampèretang – is een bijzondere vorm van een ampèremeter bedoeld om wisselstroom of gelijkstroom mee te kunnen meten. Een stroomtang wordt gebruikt in plaats van een conventionele ampèremeter als de geleiders niet onderbroken kunnen of mogen worden en wel stroom gemeten moet worden. Voor het permanent meten van grote stromen in bijvoorbeeld een algemeen laagspanningsbord, worden stroomtransformatoren in combinatie met ampèremeters gebruikt.
+Wisselstroomtang.
+De wisselstroomtang werkt op basis van het principe van een transformator, waarbij het door een stroomkring opgewekte magnetische veld wordt gemeten door een spoel en van daar uit naar een aanwijzing met een wisselspanningsmeter geijkt op de betreffende elektrische stroom door de geleider. Met deze tang kan enkel wisselstroom worden gemeten. Indien dit met een elektromagnetisch instrument gebeurt, is er geen behoefte aan een externe voeding.
+Gelijkstroomtang.
+De gelijkstroomtang is gebaseerd op het hall-effect. Hierdoor is het ook mogelijk om gelijkstroom te meten. Het nadeel hiervan is echter dat de hall-effect-sensor elektriciteit verbruikt en dat het toestel met een batterij gevoed moet worden.
+Gebruik.
+Om een stroom te meten met een stroomtang moet de stroomvoerende geleider in de bek van de tang worden genomen. Het voordeel van een stroomtang is dat de geleider niet onderbroken hoeft te worden. Veelal kan dit als meest veilige stroommeting worden beschouwd. De gemeten waarden zijn echter onnauwkeuriger dan met een ampèremeter. De kleinste waarde is vaak op één tiende of één honderdste van een ampère.
+Aardlekstroomtang.
+Een bijzondere ampèretang is de aardlekstroomtang. Dit instrument heeft een hoge nauwkeurigheid en kan meten tot op 10 micro-ampère.

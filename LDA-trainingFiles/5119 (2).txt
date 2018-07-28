@@ -1,0 +1,21 @@
+Fietscomputer.
+Een fietscomputer is een elektronisch apparaat dat de snelheid, de afgelegde afstand en andere grootheden van een fiets aangeeft en op het stuur van de fiets wordt gemonteerd. Een lcd-display maakt uitlezing mogelijk en met een aantal toetsen kunnen de instellingen worden gewijzigd. Ondanks de naam is een fietscomputer een eenvoudig apparaat. Typische computermogelijkheden zoals het up- en downloaden van gegevens zijn niet mogelijk.
+Onderdelen.
+De sensor, het snoer en de houder zijn vaak een geheel. Bij draadloze fietscomputers is de verbinding tussen fietscomputer en sensor radiofrequent.
+Getoonde gegevens.
+† vanaf het moment dat op de resetknop werd gedrukt
+Veel fietscomputers schakelen de tijdmeting uit als de fiets stilstaat (auto pause) zodat een pauze geen invloed heeft op de gemiddelde snelheid.
+Werking.
+De sensor neemt bij elke omwenteling van het wiel de passage van de magneet waar.
+Bij een nieuw te installeren fietscomputer of na vervanging van de batterij moet daarom de over de band gemeten omtrek van het wiel in de instellingen van de computer ingevoerd worden.
+Het aantal omwentelingen van het wiel is zo gerelateerd aan de afgelegde afstand.
+De nauwkeurigheid is in de regel groter dan 99% en wordt beïnvloed door factoren als bandenspanning, aard van het wegdek en het op de zijkant van de band rijden in bochten.
+De uitlezing kan worden ingesteld in kilometers of in Engelse mijlen.
+Diefstalbeveiliging.
+Bijna alle fietscomputers kunnen met een eenvoudige handbeweging van de houder verwijderd worden.
+Beperkingen en storingen.
+Bij een ligfiets is de afstand tussen sensor en computer vaak groter dan de lengte van het snoer of het bereik van de radiofrequente verbinding. Draadloze fietscomputers kunnen door interferentie afwijkingen in de metingen laten zien als meerdere fietsen met overeenkomstge fietscomputers dicht bij elkaar rijden. Ook andere zenders die een radiosignaal gebruiken kunnen snelheidsafwijkingen geven, tot zelfs de max. aanduiding van 99,9 km/h, waarbij ook de afstandmeter mee tolt.
+Voeding.
+Een fietscomputer wordt in de regel van energie voorzien door een knoopcel. Een draadloze fietscomputer heeft ook een batterij in de sensor.
+GPS-ontvanger.
+Een gps-ontvanger en een smartphone met een sports-tracking-app zoals Endomondo, Runkeeper of Strava kunnen ook als draadloze fietscomputer gebruikt worden. Een voordeel hiervan is dat er vooraf een route ingevoerd kan worden en dat de gereden route achteraf geanalyseerd kan worden.

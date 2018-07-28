@@ -1,0 +1,7 @@
+ICQ.
+ICQ is een instantmessagingtechnologie van het in juni 1996 opgerichte internetbedrijf Mirabilis. De online dienst maakte in de jaren negentig snel furore. Het OSCAR-protocol dat ICQ gebruikt is niet publiekelijk beschikbaar. America Online nam Mirabilis en ICQ in 1998 over.
+ICQ is een drieletterwoord waarvan de Engelse uitspraak fonetisch gezien overeenkomt met het Engelstalige zinnetje: "I seek you" (in het Nederlands vertaald tot "Ik zoek je"). Mirabilis wilde met die naam duidelijk maken dat je met ICQ snel iemand kon vinden en realtime benaderen aan de hand van zijn of haar unieke identificatienummer, kortweg UIN.
+Geschiedenis.
+Hoewel het principe van instant messaging reeds vroeger werd gerealiseerd door programma's als Talk (op Unix-systemen) en IRC, was ICQ het allereerste instantmessagingplatform op het internet dat een grote doorbraak kende en instant messaging daarmee gemeengoed maakte.
+Met de komst van Microsofts MSN Messenger nam de populariteit van het programma flink af.
+ICQ werkt sinds 2003 met het gesloten OSCAR-netwerkprotocol van AOL, maar er zijn ook compatibele programma's zoals Trillian of Adium beschikbaar, gemaakt door derden.

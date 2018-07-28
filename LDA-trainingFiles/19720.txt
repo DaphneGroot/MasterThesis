@@ -1,0 +1,4 @@
+Standard Generalized Markup Language.
+(SGML, ISO 8879:1986) is een platformonafhankelijke ISO-standaard voor de syntaxis van opmaaktalen. Met behulp van DTD's kan een subset van SGML worden gemaakt met een bepaalde syntaxis.
+Een SGML-document bestaat uit een hiërarchische structuur van elementen. De elementen in deze structuur worden afgebakend met zogeheten "tags". Een element kan ook attributen hebben die meer informatie over dat element bevatten.
+XML is een subset van SGML die steeds meer gebruikt wordt. XML heeft een striktere syntaxis dan SGML en is daarom makkelijker en sneller te verwerken. Ook HTML is gebaseerd op SGML.

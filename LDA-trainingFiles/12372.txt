@@ -1,0 +1,21 @@
+Inductie (wiskunde).
+Een formele beschrijving van wiskundige inductie kan worden geïllustreerd aan de hand van het in de tijd volgordelijke domino-effect.
+In de wiskunde verstaat men onder inductie een verzameling bewijstechnieken om te laten zien dat een uitspraak geldt voor alle elementen van een verzameling door gebruik te maken van de onderliggende structuur van de verzameling. Dit is een nuttige vorm van bewijs, omdat inductie kan worden toegepast om eigenschappen te bewijzen voor oneindig grote verzamelingen. De bekendste vorm van bewijs door inductie is het bewijs met volledige inductie.
+Om bijvoorbeeld te bewijzen dat de methode van Laplace voor de berekening van een determinant dezelfde uitkomst geeft als de methode van Leibniz, wordt gebruikgemaakt van inductie. Omdat de methode van Laplace recursief is en het bewijs deze recursieve stappen ook volgt, is het een bewijs met inductie.
+Men vergelijkt de methode wel met het domino-effect. Een rij dominostenen is zo opgesteld dat, als een steen omvalt, ook de volgende omvalt. Als dan de eerste steen omvalt, zullen dus alle stenen omvallen.
+Algemene principes van bewijs door inductie.
+Inductie is een bewijstechniek die kan worden toegepast op een partieel geordende verzameling, mits aan de voorwaarde wordt voldaan dat elke oneindige keten, dat is een verzameling van elkaar in de ordening opvolgende elementen, een minimaal (kleinste) element moeten hebben. Het inductieprincipe houdt in dat de geldigheid van een uitspraak bewezen wordt voor de minimale elementen en dat voor een willekeurig element de geldigheid van de uitspraak volgt uit de geldigheid voor z'n directe voorganger, als die er is, en anders uit de geldigheid voor alle voorgangers.
+Welgefundeerde inductie.
+De afzonderlijke eis dat de uitspraak geldig moet zijn voor de minimale elementen van "V" is als zodanig niet nodig, aangezien deze al bevat is in de tweede eis. Een minimaal element heeft immers geen voorganger, dus voor alle voorgangers is de uitspraak waar, en uit deze ware uitspraak moet de geldigheid voor het minimale element afgeleid worden.
+Volledige inductie.
+De bekendste vorm van inductie voor de natuurlijke getallen is "volledige inductie". De sterke vorm daarvan komt overeen met welgefundeerde inductie. Er is ook een zwakke vorm van volledige inductie.
+Zij formula_10 een uitspraak over het natuurlijke getal "n".
+dan geldt formula_16 voor alle natuurlijke getallen.
+dan geldt formula_16 voor alle natuurlijke getallen.
+De twee vormen van volledige inductie zijn equivalent; dat wil zeggen dat met beide vormen dezelfde stellingen bewezen kunnen worden.
+Structurele inductie.
+"Structurele inductie" (of "structuurinductie") is een vorm van inductie die werkt op inductief gedefinieerde verzamelingen. Een inductief (of recursief) gedefinieerde verzameling bestaat uit een aantal basisobjecten en wordt vervolgens afgesloten onder een aantal operaties. Het principe van structuurinductie is: als
+dan geldt hebben alle objecten in de verzameling de eigenschap formula_16.
+Ook structurele inductie is een vorm van welgefundeerde inductie (ook structurele inductie kan als equivalente sterke variant worden gedefinieerd).
+Transfiniete inductie.
+Een ordinaalgetal is een 'getal' waarmee in een (mogelijkerwijs oneindige) rij een positie kan worden aangegeven. Ordinaalgetallen vormen een uitbreiding van de natuurlijke getallen. Transfiniete inductie is een inductieprincipe voor ordinaalgetallen, of algemener, voor welgeordende verzamelingen.

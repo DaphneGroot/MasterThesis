@@ -1,0 +1,2 @@
+Italiaans gambiet.
+Zwart kan nu een pion winnen door ofwel direct 7. Pxe4 te spelen of eerst met 7. Lxc3 een verdediger uit te schakelen.

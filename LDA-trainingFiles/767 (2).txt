@@ -1,0 +1,4 @@
+Newton (eenheid).
+formula_1
+Een massa van 1 kg ondervindt op aarde op de breedtegraad van de Lage Landen op zeeniveau een zwaartekracht van ongeveer 9,81 newton, aan de polen is dit 9,83 N en aan de evenaar 9,78 N. In het dagelijks leven wordt dit soms afgerond op 10 newton.
+De newton is genoemd naar Isaac Newton. Het is een afgeleide eenheid, die zelf uit te drukken is in de basiseenheden.

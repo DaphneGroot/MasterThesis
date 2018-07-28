@@ -1,0 +1,17 @@
+Filter (elektronica).
+In de elektronica is een filter een elektrische schakeling die een gedeelte van het frequentiespectrum van een signaal verzwakt en/of de fase verandert. Een filter kan worden gebruikt om een ongewenst frequentie gebied totaal uit een signaal te verwijderen (bv. ter voorkoming van aliasing) of om een bepaald frequentie gebied licht te verzwakken (bv. de toonregeling op een geluidsversterker). Aangezien een filter altijd informatie verwijdert uit een signaal kan het alleen een bepaald frequentie gebied verzwakken. Een uitzondering hierop is het compleet doorlaatfilter dat niets verzwakt maar alleen de fase van een signaal verandert.
+Analoog filter.
+Nu is voor een (heel) lage frequentie de overdracht gelijk aan 1, het hele signaal staat immers over de condensator. Voor hogere frequenties wordt de invloed van de condensator steeds kleiner, waardoor er een soort van spanningsdeling optreedt waarbij een deel van het signaal over de weerstand zal komen te staan. Dit is dus een laagdoorlaatfilter. Wordt nu het signaal over de weerstand afgenomen, dan zal de bovengenoemde schakeling als een hoogdoorlaatfilter fungeren.
+Digitaal filter.
+Digitale filters maken gebruik van wiskundige formules (algoritmes) en werken alleen op een digitaal signaal. Een eenvoudig voorbeeld is om het signaal te differentiëren. Hierbij wordt per sample het verschil met de volgende sample berekend. Hoge frequenties worden hierbij meer versterkt dan lage. Door in plaats van het verschil het gemiddelde te nemen van twee opeenvolgende samples, worden juist de hoge frequenties verzwakt.
+Hierin is formula_3 de orde van het IIR-filter. IIR is de Engelse afkorting voor 'infinite impulse response' (oneindige impulsresponsie). Als de noemer 1 is, vindt er geen terugkoppeling plaats en wordt er van een FIR-filter gesproken. FIR is de Engelse afkorting voor 'finite impulse response' wat eindige impulsresponsie betekent.
+Laag- en hoogdoorlaatfilter.
+De frequentierespons van de verschillende filtertypen. Op de x-as staat de frequentie en op de y-as de factor waarmee het deel van het spectrum van het bronsignaal vermenigvuldigd moet worden. Het gele gebied is het deel van het signaal dat doorgelaten wordt.
+Banddoorlaat- en sperfilter.
+Een "band" is een ander woord voor frequentiegebied.
+Compleet doorlaatfilter.
+Een compleet doorlaatfilter (Eng. "all pass", AP of APF) laat het gehele frequentie spectrum door. Het verandert alleen de fase van een signaal. Het meest eenvoudige voorbeeld van een compleet doorlaatfilter is de vertraging (een korte echo). Door een vertraagd signaal te mengen met het oorspronkelijke signaal ontstaat een kamfilter.
+Kamfilter.
+Een kamdoorlaatfilter of kamfilter (Eng. "combfilter", CF) laat slechts een aantal naast elkaar liggende banden van het spectrum door. De manier waarop een kamdoorlaatfilter werkt wijkt af van die van alle bovenstaande filtertypen. Bij een kamdoorlaatfilter wordt het signaal vertraagd en bij het onvertraagde signaal toegevoegd. Dit veroorzaakt spectrale kleuring.
+Spanningssturing.
+Van al deze filters worden ook versies gemaakt met een of meer stuurspanningsingangen. Deze stuurspanning bepaalt de afsnijfrequentie. Met name in synthesizers en samplers worden deze spanningsgestuurde filters veel gebruikt om het timbre van de samen te stellen klank te beïnvloeden.

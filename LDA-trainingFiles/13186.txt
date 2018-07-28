@@ -1,0 +1,8 @@
+YAG-laser.
+Een YAG-laser is een type solid-state laser. YAG is een acroniem voor yttrium-aluminium-granaat, een kristal waarop het lasermateriaal gebaseerd is. Dit kristal kan met verschillende scheikundige elementen gedoteerd worden, de lasers worden genoemd naar het gebruikte element. Doteren wil zeggen dat typisch 1% van de yttriumatomen vervangen wordt door een ander atoom, bijvoorbeeld neodymium. YAG is analoog aan Al2O3 (aluminiumoxide, glas) en een goede warmtegeleider.
+Nd:YAG laser.
+Nd:YAG staat voor "neodymium-gedoteerd YAG" (Nd:Y3Al5O12). Toepassingen liggen vooral in de industrie en ook in de oogheelkunde. Nd:YAG is veel warmtebestendiger dan Nd:glas, zodat Nd:YAG hogere vermogens kan leveren.
+Er:YAG laser.
+Er:YAG staat voor "erbium-gedoteerd YAG" (Er:Y3Al5O12). Toepassingen zijn vooral medisch. Er:YAG is minder efficiënt dan Nd:YAG, maar de golflengte wordt beter geabsorbeerd door weefsels in het menselijk lichaam.
+Ho:YAG laser.
+Ho:YAG staat voor "holmium-gedoteerd YAG" (Ho:Y3Al5O12). Toepassingen zijn vooral medisch. Ho:YAG is minder efficiënt dan Nd:YAG, maar de golflengte wordt beter geabsorbeerd door de weefsels in het menselijk lichaam.

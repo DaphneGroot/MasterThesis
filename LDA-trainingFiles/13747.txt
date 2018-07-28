@@ -1,0 +1,17 @@
+Metrum.
+Een metrum of (vers)maat (Grieks: μέτρον, "maat") is een vooral in de muziek en de poëzie gebruikte term voor een combinatie van beklemtoonde en onbeklemtoonde lettergrepen. In de muziek spreekt men van "maat", in de poëzie van "versmaat".
+Poëzie.
+Elk woord van meer dan één lettergreep en elke tekst bevat beklemtoonde en onbeklemtoonde lettergrepen. De beklemtoonde noemt men "heffing", de onbeklemtoonde "daling". Het metrum is het regelmatig afwisselen van heffingen en dalingen. Als dat goed is, komt dat ons aangenaam over. Het kan echter ook overdreven klinken, omdat het Nederlands van zichzelf niet zo metrisch wordt uitgesproken.
+In een "syllabotonisch vers" wordt het metrum bepaald doordat zowel het aantal lettergrepen (syllaben) als het aantal beklemtoonde lettergrepen (heffingen) vastligt. Nederlandse poëzie is doorgaans syllabotonisch. Van "heffingspoëzie" spreekt men wanneer per regel alleen het aantal beklemtoningen is vastgelegd. Een voorbeeld hiervan is de Oudgermaanse poëzie. Bij de laatste vorm kon dus het aantal lettergrepen per regel variëren, terwijl het aantal heffingen aan regels gebonden was. Bij "syllabische poëzie" ligt alleen het aantal lettergrepen per regel vast. Moderne poëzie houdt zich doorgaans niet aan deze vaste regels, en in dat geval spreekt men over het vrije vers.
+Een lettergreep die buiten een metrum valt wordt "extrametrisch" genoemd. Meestal is dit de laatste en onbeklemtoonde lettergreep van een woord of zin.
+Een vaste combinatie van heffingen en dalingen noemt men versvoet of kortweg voet. Men onderscheidt de volgende versvoeten. Heffingen worden aangegeven met een streepje (—), dalingen met een boogje (formula_1).
+Van al deze vormen komen jambe en trochee het meeste voor in de moderne poëzie.
+Antimetrie.
+Een a-metrisch gedicht, dat met opzet onbeholpen aandoet wordt een knittelvers genoemd. Wijkt een gedicht van het metrum af, dan noemen we dat "antimetrie".
+Metri causa.
+"'k Zag twee beren...": de samenvoeging van 'k met Zag tot "kZag" is "metri causa".
+"...Een schaap met wih-hitte voetjes...": de extra lettergreep "hih" is "metri causa". Zie ook elisie.
+Ritme.
+Ritme is overigens niet hetzelfde als metrum. Het metrum heeft betrekking op een vast schema, maar het ritme van een gedicht kan veel vrijer zijn.
+Ook kunnen gedichten met hetzelfde metrum een verschillend ritme kennen.
+In de muziek geldt een soortgelijk onderscheid. Het metrum is de maatsoort, het ritme is de afwisseling van kortere en langere noten binnen deze maatsoort.

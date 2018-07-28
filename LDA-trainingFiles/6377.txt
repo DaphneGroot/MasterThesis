@@ -1,0 +1,4 @@
+Magnetische flux.
+De magnetische flux door een oppervlak is een natuurkundige grootheid waarmee het aantal magnetische veldlijnen dat een oppervlak doorkruist, wordt aangegeven. Magnetische flux, soms ook 'magnetische stroom' genoemd, wordt uitgedrukt in weber of voltseconde.
+Als symbool voor magnetische flux wordt doorgaans de Griekse hoofdletter (phi) gebruikt.
+waarin en de lengtes van de vectoren formula_2 en formula_8 zijn, en de hoek tussen de vectoren.

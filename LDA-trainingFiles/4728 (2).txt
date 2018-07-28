@@ -1,0 +1,11 @@
+Verdelingsvrije statistiek.
+Onder verdelingsvrije statistiek verstaat men een deelgebied van de statistiek dat zich bezighoudt met zogeheten "verdelingsvrije modellen" en "verdelingsvrije toetsen". De aanduiding 'verdelingsvrij' houdt in dat geen veronderstellingen over de onderhavige verdeling gemaakt worden. Bij veel statistische methoden wordt ervan uitgegaan dat de gemeten waarden afkomstig zijn uit een verdeling die op een of meer parameters na bekend is, zoals een normale verdeling met onbekende verwachtingswaarde. Een verdelingsvrije methode maakt zulke veronderstellingen niet.
+Verdelingsvrije toets.
+Een verdelingsvrije toets wordt ook wel een parametervrije toets genoemd, maar die naam is verwarrend. Het is namelijk een methode waar best parameters in mogen voorkomen. Een betere vertaling van het Engelse "non parametric test" zou "niet-parametrische toets" zijn: het is namelijk niet een parametrische toets. In het Nederlands is de officiële aanduiding beduidend accurater: "verdelingsvrije toets".
+Verdelingsvrij model.
+In tegenstelling tot parametrische modellen wordt bij verdelingsvrije modellen niet tevoren de modelstructuur vastgelegd, maar aan de hand van de waarnemingen bepaald. Weliswaar bezitten zulke modellen parameters, maar hun aard en aantal worden niet vooraf vastgelegd.
+Voor- en nadelen.
+Het voordeel van verdelingsvrije methoden is, dat ze breder toepasbaar zijn dan parametrische methoden. Parametrische methoden zijn alleen toepasbaar als men de verdeling van de waargenomen grootheid kent op een of meer parameters na.
+Een nadeel van verdelingsvrije methoden is dat deze minder efficiënt zijn (een lager onderscheidingsvermogen hebben), omdat ze geen gebruik kunnen maken van de informatie van de onderliggende verdeling.
+Kenmerk van verdelingsvrije methoden.
+Kenmerkend voor verdelingsvrije methoden is dat niet de meetwaarden zelf worden gebruikt maar daarvan afgeleide grootheden, zoals de rangnummers. Een voorbeeld is het bepalen van de correlatie tussen paren van gemeten grootheden. Een verdelingsvrije methode is de rangcorrelatietoets van Spearman. Hierbij worden de gemeten waarden omgezet naar rangnummers waarna wordt getoetst of die rangnummers correleren. De feitelijke meetwaarden, en dus ook hun kansverdeling, hebben daarom geen invloed op de uitkomst van de toets.

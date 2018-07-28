@@ -1,0 +1,6 @@
+Boomstructuur.
+Een boomstructuur is een hiërarchische structuur, die onder andere gebruikt wordt om taxonomische kennis mee in te delen. Als hij schematisch wordt getekend doet het aan een boom denken; dit wordt een 'dendrogram' genoemd. Het dendrogram kan ook op zijn kop of op zijn kant staan.
+Een bekend voorbeeld van een boomstructuur is een stamboom.
+De elementen van een boomstructuur worden "knopen" genoemd en zijn logisch verbonden door middel van "takken".
+In de illustratie is 'encyclopedia' (encyclopedie) de wortel, maar ook de ouder van twee kinderen, 'science' (wetenschap) en 'culture' (cultuur). Deze twee kinderen zijn broers/zussen van elkaar. 'Science', 'art' (kunsten) en 'craft' (ambachten) zijn de bladeren.
+Of een wetenschap vrouwelijke of mannelijke relatienamen gebruikt, verschilt per discipline. De informatica gebruikte aanvankelijk mannelijke relatienamen. Het verhaal gaat dat in protest hiertegen vrouwelijke studenten van Noam Chomsky vrouwelijke relatienamen gingen gebruiken voor diens generatieve taalkunde. Hierom worden in de taalkunde vrouwelijke relatienamen gebruikt.

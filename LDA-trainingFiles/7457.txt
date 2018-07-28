@@ -1,0 +1,97 @@
+Grafentheorie.
+De grafentheorie is een tak van wiskunde die de eigenschappen van grafen bestudeert.
+Een graaf bestaat uit een verzameling punten, knopen genoemd, waarvan sommige verbonden zijn door lijnen, de zijden, kanten of takken. Afhankelijk van de toepassing kunnen de lijnen gericht zijn, dan worden ze ook wel pijlen genoemd, men spreekt dan van een gerichte graaf. Ook worden wel gewichten aan de lijnen toegekend door middel van getallen, deze stellen dan bijvoorbeeld de afstand tussen twee punten voor. Een graaf met gewichten noemt men een gewogen graaf.
+Structuren die als grafen weergegeven kunnen worden zijn alomtegenwoordig en veel praktische problemen kunnen als een probleem op een graaf worden gemodelleerd. Grafen worden bijvoorbeeld gebruikt om eindigetoestandsautomaten te modelleren of om een schematische routekaart te maken tussen een aantal plaatsen met de afstanden daartussen. Verschillende soorten grafen spelen in de informatica een rol, niet alleen in de vorm van boomstructuren, maar ook om dataverkeer over netwerken weer te geven. Er kunnen algoritmes worden uitgevoerd om bepaalde eigenschappen van zo'n graaf te berekenen en aan de hand daarvan voorspellingen te doen of beslissingen te nemen over de optimale route voor een datapakket; binnen de informatica is dit dan ook een belangrijk onderwerp.
+Complexe netwerken vormen een vrij recent gebied in het onderzoek rond grafen, dat minder is gericht op de studie van kleine grafen en de eigenschappen van individuele knopen en bogen in deze grafen, maar eerder op de statistische eigenschappen van grootschalige netwerken.
+Definitie.
+Er zijn verschillende definities gangbaar om grafen te definiëren. Hier volgen de definities zoals ze in deze encyclopedie worden gehanteerd.
+Een graaf "G" = ("V, E") is een geordend paar van een verzameling "V" en een verzameling "E" van paren elementen uit "V". De elementen van "V" heten de knopen van de graaf "G" en de elementen van "E" de zijden, kanten of takken van "G". De knopen die een zijde vormen heten de eindpunten van de zijde.
+Normaal wordt ervan uitgegaan dat een zijde twee knopen met elkaar verbindt of eventueel een lus is en bij dezelfde knoop terugkomt.
+Enkelvoudige grafen.
+De enkelvoudige graaf is de meest gebruikte soort graaf. Het is een graaf waarin de zijden altijd tussen twee knopen lopen en waarin niet meer dan één zijde tussen twee knopen voorkomt.
+De enkelvoudige graaf vindt veel toepassing binnen de wiskunde en de informatica. Over deze grafen zijn een groot aantal verschillende stellingen bewezen.
+Componenten en de samenhangende graaf.
+Een graaf, die bestaat uit twee componenten.
+Binnen een enkelvoudige ongerichte graaf is een component een verzameling van knopen van de graaf die onderling zijn verbonden: een component "C" van graaf "G" is formula_14 met
+Een graaf waarin alle punten verbonden zijn en dus één component vormen, heet een samenhangende graaf.
+De matrixvoorstelling van een graaf.
+We kunnen een graaf eenvoudig voorstellen in een matrix, de bogenmatrix. Dit is een vierkante matrix met dimensie "n*n", waarbij "n" het aantal knopen in de graaf is. Het element formula_16 in de bogenmatrix "A" is 1 als er een zijde (boog) bestaat die van "i" naar "j" gaat en 0 als dit niet het geval is.
+Is de bogenmatrix opgesteld, dan kan deze worden gebruikt om af te lezen hoeveel paden er van een knoop naar een andere zijn. Door de bogenmatrix "A" tot de macht "n" te verheffen, kan men in de kolom "s" op rij "t" aflezen hoeveel paden er zijn van lengte "n" van knoop "s" naar knoop "t".
+De boom.
+Een boom met 6 knopen en 5 lijnen.
+Een samenhangende graaf zonder cykels heet een boom. Dit omdat een dergelijke graaf in een tekening vaak op een boom lijkt. Een boom heeft één kant minder dan hij knopen heeft.
+Een boom met verzameling knopen formula_18 heeft formula_19 kanten
+Het bewijs gaat met de methode van de volledige inductie.
+Het is bij algoritmes op bomen vaak handig en ook gebruikelijk om een knoop in de boom aan te wijzen en deze een speciale status binnen de boom te geven, vaak wordt deze knoop gezien als het 'begin' van de boom. Deze knoop wordt dan de wortel van de boom genoemd.
+De veelvuldigheid en populariteit van bomen maakt dat er voor bomen als zodanig vele algoritmen gedefinieerd zijn. Voorbeelden hiervan zijn
+De cykelgraaf.
+De cykelgraaf met "n" knopen formula_20 is de enkelvoudige, samenhangende graaf met "n" knopen, waarbij iedere knoop verbonden is met twee andere. Een dergelijke graaf heeft de vorm van een cirkel en er komen evenveel knopen als zijden in voor. De cykelgraaf met het minste aantal knopen en zijden is de formula_21-graaf.
+Cykelgrafen zijn binnen de informatica zeer bekend als netwerkmodel. Het Token Ring netwerk is hierop gebaseerd. Cykelgrafen dienen ook vaak als model voor lokale zoekalgoritmen.
+De volledige graaf.
+De volledige graaf met "n" knopen formula_22 is de graaf waarin alle punten onderling verbonden zijn.
+Het aantal kanten van formula_22 is formula_25, het "n"-1e driehoeksgetal.
+Een clique of kliek is een deelverzameling punten uit een puntenverzameling "V", zo dat elk punt in de deelverzameling verbonden is met alle andere punten in die verzameling; ze vormen samen met de lijnen waaraan ze incident zijn dus een volledige graaf.
+Euler en Hamilton.
+De Eulergraaf is een speciaal soort graaf die is bedacht door de wiskundige Leonhard Euler toen hij bezig was met het probleem van de zeven bruggen van Koningsbergen. Dit probleem komt neer op de vraag of het mogelijk is in een samenhangende graaf een wandeling te maken waarin alle kanten van de graaf precies één keer voorkomen, een Euler-wandeling, of zelfs een dergelijke wandeling te maken zodat deze begint en eindigt in dezelfde knoop, een Eulercykel.
+Een enkelvoudige samenhangende graaf bevat een Eulercykel dan en slechts dan als de graad van alle knopen even is.
+formula_27
+formula_28
+De voorwaarde voor een Eulerwandeling is iets minder streng.
+Een enkelvoudige samenhangende graaf bevat een Eulerwandeling dan en slechts dan als de graad van alle knopen, eventueel op twee na, even is.
+formula_27
+formula_28
+"G" bevat een Hamiltoncykel als de som van de graden van elk tweetal niet-verbonden knopen samen groter is dan het aantal knopen van de graaf.
+Over het algemeen is het vinden van een Hamiltoncykel in een graaf een NP-volledig probleem, dit in tegenstelling tot de Eulercykel waar het probleem in polynomiale tijd kan worden opgelost dankzij de bovengenoemde regels. Een Hamiltoncykel is een simpel geval van het handelsreizigersprobleem. Bij dit probleem worden ook afstanden aan de verbindingen tussen de knopen of plaatsen toegevoegd en is het de opdracht de kortste rondreis te bepalen.
+De planaire graaf.
+Planaire of vlakke grafen zijn grafen die op een plat vlak kunnen worden getekend zonder daarbij de kanten van de graaf elkaar te laten snijden.
+Dergelijke grafen zijn van belang bij de modellering van zaken als pijpleidingen en printplaten voor elektronica, waar de verbindingen natuurlijk geen kortsluiting mogen maken. Wat dat eerste betreft zijn planaire grafen dan ook bij het grotere publiek bekend in de vorm van puzzeltjes zoals "probeer drie huizen aan te sluiten op de gas-, water- en elektra-bronnen, zonder dat enige van de leidingen elkaar snijden". Dit is in feite de vraag of formula_38 planair is.
+Ook over planaire grafen heeft Leonhard Euler nagedacht, hij vond de stelling van Euler. Deze stelling is gebaseerd op het aantal knopen, kanten en gebieden van een graaf. Een gebied is het deel van het papier waarop de graaf is getekend, of anders het deel van de graaf dat geheel door kanten of door buitenste knopen van de graaf wordt omgeven. Het aantal gebieden hangt ervan af hoe de graaf precies getekend wordt, maar het blijkt dat een bepaalde graaf altijd met een aantal gebieden kan worden getekend dat niet verandert, hoe de graaf ook precies is getekend, behalve als de graaf niet-planair is getekend.
+Stelling van Euler: Zij "G" een samenhangende, planaire graaf met "v" knopen, "e" kanten en "f" gebieden. Dan geldt
+Het bewijs gaat met inductie naar formula_40. Omdat "G" samenhangend is, geldt altijd formula_41.
+Met de stelling van Euler kunnen we laten zien dat een samenhangende graaf alleen planair kan zijn als hij niet al te veel kanten heeft.
+Zij "G" een samenhangende, planaire graaf met "v" knopen en "e" kanten en formula_51. Dan geldt formula_52.
+Met deze informatie in de hand, kunnen we zo narekenen dat bijvoorbeeld formula_30 niet planair is.
+Op een soortgelijke manier als hierboven, kunnen we ook bewijzen voor samenhangende planaire grafen zonder driehoeken (dus het "kleinste" gebied is een vierhoek) dat formula_62. Hiermee is ook het puzzeltje opgelost: formula_38 is niet planair.
+Een opmerkelijke en nuttige stelling is die van Kuratowski: een graaf is planair dan en slechts dan als hij niet formula_30 of formula_38 bevat. Oftewel, alleen die twee grafen zijn in feite niet-planair.
+De bipartiete graaf.
+Een voorbeeld van een bipartiete graaf
+Een bipartiete graaf "G" is een graaf zodanig dat
+oftewel: er is een partitie van "V" zodanig dat alle kanten van "V" tussen de twee deelverzamelingen van knopen lopen en er geen "interne" kanten zijn. Hierbij is het ook toegestaan dat een van beide verzamelingen leeg is, of zelfs allebei, zodat ook een graaf op 0 of 1 knoop bipartiet is.
+Een graaf "G" is bipartiet formula_70 "G" bevat geen oneven cykels
+formula_27
+formula_28
+Er zijn ook "k"-partiete grafen, waarbij de graaf wordt opgesplitst in "k" partities waarvoor er wederom geen lijnen zijn tussen punten in dezelfde partitie. Voor "k"=2 heb je weer de bipartiete graaf.
+De Petersengraaf.
+De volgende graaf staat bekend als de Petersengraaf, gedefinieerd door de Deense wiskundige Petersen.
+Op zich is er niets speciaals mee aan de hand; de Petersengraaf komt echter binnen de grafentheorie vaak voor, als voorbeeld bij bewijzen of als tegenvoorbeeld om stellingen mee te ontkrachten. De Petersengraaf wordt dan vaak gebruikt als deelgraaf van een andere, meer complexe graaf.
+Overigens is de Petersengraaf ook een voorbeeld van een graaf die formula_30 bevat: als we de buitenste "ring" van knopen en de binnenste "ring" samentrekken, vinden we de formula_30-graaf. We kunnen dan ook duidelijk zien dat de Petersengraaf niet planair is.
+Graafoperaties, de 2-graaf en geïnduceerde grafen.
+De rechtse graaf is een geïnduceerde subgraaf op de linker.
+Uitgaande van een graaf "G" (of een aantal verschillende grafen) kunnen we, via allerlei operaties, andere grafen maken.
+oftewel, de graaf op een aantal knopen van "G" en de kanten van "G" die je nog tussen die twee knopen kunt trekken.
+Daarnaast is er de complementgraaf van "G". Dit is
+oftewel de graaf met dezelfde knopen als G, maar alle kanten die juist niet in G zitten.
+Ook kennen we de lijngraaf "L(G)" van "G". Deze graaf is
+oftewel de graaf waarvan de knopen de kanten zijn van "G" en er een kant loopt tussen twee knopen van "L(G)" als de bijbehorende kanten van "G" een knoop gemeen hebben.
+De vereniging van twee disjuncte grafen.
+Voor twee grafen "G" en "H" die geen knopen of kanten gemeen hebben kunnen we ook de vereniging en het cartesisch product definiëren. De vereniging van "G" en "H" is de graaf "G ∪ H" met
+Het cartesisch product van twee grafen.
+Het cartesisch product van "G" en "H" is de graaf formula_96 met
+oftewel de knopen van formula_96 zijn de paren van knopen van "G" en "H" en deze knopen zijn verbonden door kanten als een van de knopen in de twee paren dezelfde zijn en de andere verbonden waren.
+Een bekend voorbeeld van graaf-vermenigvuldiging is de rij van de "machten" van de 2-graaf (d.i. formula_104): dit zijn de "n"-dimensionale kubussen hier rechts.
+Gerichte grafen.
+Een type graaf die naast de enkelvoudige graaf vaak voorkomt, is de gerichte graaf. Formeel is een gerichte graaf een graaf "G" met
+Het verschil met de enkelvoudige graaf is dat de kanten niet langer ongeordende paren zijn, maar juist geordende paren (intuïtief wil dat zeggen: de kanten hebben nu een richting). Merk op dat in de bovenstaande definitie een kant dan ook een geordend paar is en niet een verzameling. Dit wil dan ook zeggen dat een kant ("a,b") niet hetzelfde is als de kant ("b,a").
+Vanwege de richting is het normaal om bij een gerichte graaf de kanten als pijlen te tekenen.
+Veel van de concepten zoals die gedefinieerd zijn voor enkelvoudige grafen, bestaan ook voor gerichte grafen. Bomen, volledige grafen, somgrafen en productgrafen bestaan allemaal. Alleen is de uitwerking soms anders, omdat de richting nu meespeelt. Zo is het bij enkelvoudige grafen zo dat er voor iedere knoop "k" maar één pad is van de wortel naar "k"; bij een gerichte graaf kunnen er meerdere zijn, zonder dat dit een cykel oplevert.
+Gerichte grafen worden vaak toegepast in de modellering van problemen waarbij het niet zinnig is om paden in meer dan één richting te doorlopen. Gebruik je bijvoorbeeld een graaf om aan tijdsplanning te doen voor de bouw van een woning, dan heeft het alleen zin om de bouw van de fundering voor de bouw van de muren plaats te laten vinden en andersom heeft geen zin.
+Enige verschillen ten opzichte van enkelvoudige grafen.
+Een gerichte graaf bevat een Euler-wandeling dan en slechts dan als voor alle knopen in de graaf de in- en uitgraad gelijk zijn. Het bewijs hiervoor is vrijwel hetzelfde als dat voor de enkelvoudige Eulergraaf.
+Een gerichte graaf heet samenhangend als er voor iedere partitie formula_110 een kant loopt van formula_73 naar formula_74 of omgekeerd. Loopt er altijd een dergelijke kant in beide richtingen, dat wil zeggen als er tussen iedere twee knopen een wandeling is in beide richtingen, dan heet de graaf "sterk samenhangend".
+Gelabelde en gewogen grafen.
+Deze functies voegen aan iedere kant,of knoop, in het geval van "g", een element toe uit een of andere verzameling symbolen. Kanten labelen komt meer voor dan de knopen labelen.
+Als de beeld-verzameling een verzameling van getallen is (formula_115 etc.), dan noemen we de labeling ook wel een weging. De graaf heet dan een gewogen graaf. Een gewogen, gerichte graaf wordt ook wel een netwerk genoemd.
+Labeling en met name weging worden gebruikt om aan een graaf speciale betekenissen toe te kennen. Wordt een graaf gebruikt als model voor een wegennet bij routeplanning, dan kan bij een weging bijvoorbeeld gedacht worden aan de lengte van de weg, of de drukte. Optimaliseringsproblemen op grafen gebruiken meestal weging als criterium aan de hand waarvan wordt geoptimaliseerd.
+Het aantal gelabelde bomen op "v" knopen is formula_116
+Hypergrafen.
+Hypergrafen zijn een veralgemening van grafen, in zoverre dat in een hypergraaf een "hyperkant" een willekeurig aantal knopen kan verbinden, gaande van 1 tot het aantal knopen in de graaf.

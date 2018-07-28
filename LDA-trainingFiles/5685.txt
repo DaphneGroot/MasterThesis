@@ -1,0 +1,9 @@
+Molaliteit.
+De molaliteit ("M") is een maat voor de concentratie van een stof. Zij is gedefinieerd als het aantal mol opgeloste stof per kilogram oplosmiddel. De eenheid van molaliteit is de molail of de molal (M). Hierbij geldt: 1 M = 1 mol/kg, een afgeleide eenheid van het SI-stelsel.
+Dikwijls ontstaat er verwarring met de molariteit ([A]), het aantal mol opgeloste stof per liter oplossing'".
+Verband tussen molaliteit en andere concentraties.
+waarbij ρ de massadichtheid van het oplosmiddel voorstelt.
+Bij hogere concentraties moeten we informatie bezitten over de dichtheid van de oplossing zelf om de conversie te kunnen maken, omdat molariteit op het volume van de oplossing (niet: het oplosmiddel) gebaseerd is.
+Het rekenen met de molaliteit in plaats van met de molariteit heeft als voordeel dat de molaliteit niet verandert bij verandering van temperatuur en druk. De molariteit verandert wel, omdat het volume temperatuur- en drukafhankelijk is. Als met de molaliteit gerekend wordt, hoeft met deze verandering geen rekening gehouden te worden. De massa van het oplosmiddel blijft immers constant.
+Massaconcentratie.
+"ρ" is massadichtheid van oplossing, "b" molaliteit, en "M" is molaire massa van oplosmiddel.

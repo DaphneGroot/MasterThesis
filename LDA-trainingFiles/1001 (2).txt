@@ -1,0 +1,11 @@
+Recursie.
+Recursie is het optreden van een constructie "B" als onderdeel van een identieke soort constructie "A". De oorspronkelijke constructie "A" en de aangeroepen constructie "B" verschillen doorgaans in waarde. Recursieve constructies komen enerzijds in de taalkunde voor en anderzijds in de wiskunde, informatica en logica.
+In tegenstelling tot bij recursiviteit zijn bij het Droste-effect de oorspronkelijke en de aangeroepen constructie wel steeds hetzelfde.
+Recursie in de taalkunde.
+Afgezien van de afwijkende woordvolgorde zijn de ingebedde delen volledige zinnen. Het proces van inbedding is recursief omdat het, in theorie, willekeurig vaak kan worden herhaald: "je horloge stuk is" kan worden uitgebreid naar "je horloge is stuk", omdat het is gevallen, "waarna er een auto overheen reed" die....
+Sommige taalkundigen menen dat recursiviteit het belangrijkste element is van de taal van mensen.
+Wiskunde.
+In de wiskunde wordt gebruikgemaakt van recursieve functies, zij worden gegeven door "differentievergelijkingen" of, synoniem, "recurrente betrekkingen". Een bekend voorbeeld is de recursieve definitie van de faculteit van een getal.
+Een andere voorbeeld is de rij van Fibonacci: "f(n)" ="f(n-1)" + "f(n-2)".
+Informatica.
+Overeenkomstig deze definities kunnen de faculteit en de rij van Fibonacci in een computerprogramma recursief worden geïmplementeerd. Recursie is niet in alle programmeertalen mogelijk.

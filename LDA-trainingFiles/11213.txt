@@ -1,0 +1,28 @@
+Boormachine.
+Een boormachine is een machine om – veelal ronde – gaten in materialen te maken. Een ronddraaiende beitel, de boor, werkt materiaal weg waardoor in het materiaal een gat ontstaat.
+Een boormachine kan zo eenvoudig zijn als een handboor of zo gecompliceerd als een aangedreven boormachine, pneumatisch, hydraulisch, elektrisch of door middel van een verbrandingsmotor. Over het algemeen worden spiraalboren gebruikt om de gaten te boren. De spiralen dienen dan voor de afvoer van het verpulverde of verspaande materiaal. Uitzonderingen komen echter ook voor. Zo is een boor om de aardkorst te doorboren meestal voorzien van een driehoekige roterende boorkop waarbij de afvoer van het pulver door het inwendige van de boor plaatsvindt.
+De meeste handboormachines zijn van een klopfunctie voorzien, om efficiënter door baksteen of beton te boren. De boor wordt dan krachtig heen-en-weer bewogen in de lengte van de boor. Door deze 'hamerslag' wordt het materiaal verpulverd, terwijl de roterende beweging deze afvoert. Zulke machines worden nog onderverdeeld in klopboormachines en boorhamers.
+Handboormachines worden vaak multifunctioneel uitgevoerd, zodat ze ook dienst kunnen doen als schroefboormachine, slijpmachine, drilboor enzovoort.
+Aandrijving.
+Voor een handboormachine is dit bijna steeds elektriciteit, ofwel rechtstreeks van het net, ofwel van een herlaadbare accu. De vereiste netspanning (V) wordt dan vermeld.
+Industriële toestellen worden soms pneumatisch aangedreven, of door een brandstofmotor.
+Boorhouder.
+De eerste twee worden meestal gebruikt bij normale (klop)boormachines en accuboormachines. SDS wordt meestal toegepast bij zwaardere boormachines zoals boorhamers.
+Vermogen, opgenomen vermogen.
+Het vermogen (P) dat bij commerciële machines vermeld wordt, is steeds het 'opgenomen vermogen'; dat wil zeggen het vermogen dat verbruikt wordt. Dit is in de eerste plaats belangrijk om vereiste stroom te kunnen berekenen. Om de prestatie van de machines te beoordelen moet men echter kijken naar het afgegeven vermogen.
+Afgegeven vermogen.
+Dit is het vermogen (P) dat de machine kan leveren, en bepaalt in grote mate het prestatievermogen van de machine.
+Toerental.
+Het toerental is de snelheid waarmee de boor draait, en wordt gewoonlijk uitgedrukt in aantal omwentelingen per minuut (tpm of rpm). Dit gegeven is vooral belangrijk voor verspanende bewerkingen, zoals boren in hout, plastiek of metaal. Bij professionele handboormachines is bijna altijd een traploos regelbaar bereik gegeven. Een precieze regeling is vaak moeilijk, maar is nochtans belangrijk voor de levensduur van de boor en de kwaliteit van de bewerking.
+Koppel.
+Het koppel (Nm) is de kracht waarmee de boor ronddraait. Het wordt minder vaak vermeld. Het is zeer belangrijk voor verspanende bewerkingen: een hoger koppel laat toe boren met een grotere diameter te gebruiken, of door harder materiaal te boren. Let wel: het effectief geleverde koppel kan afhankelijk zijn van het toerental. Machines met een hoog koppel geven ook meer kans op kwetsuren als de boor blokkeert, en kunnen beter van een beveiliging zijn voorzien.
+Capaciteit.
+Dit is voor de gebruiker een ruwe indicator welke de maximale boordiameter is, en wordt voor verschillende materialen gegeven (typisch hout, metaal en beton), in mm.
+Slagkracht/Joule.
+De slagkracht wordt enkel vermeld voor boorhamers, en stelt de arbeid (W) voor die de hamerfunctie kan leveren. Een hogere slagkracht zal het boren door steen/beton vlotter doen verlopen. Een eenheid van arbeid is de joule (J).
+Geschiedenis.
+Beitels om gaten in muren te 'boren'
+Boren in hout.
+Een mechanische houtboor bestaat al heel lang. Door een boor of een beitel in een handboor of booromslag te plaatsen, kan door een ronddraaiende beweging een gat geboord worden. De beitels hebben aan het uiteinde een punt, zodat het middelpunt niet verschuift tijdens het boren. Zie ook: Handboor, Booromslag en Houtbewerking.
+Boren in steen.
+In het verleden gebruikte men voor het maken van een gat in de muur, een soort metalen beitel met een verwijderbare hardstalen stift, die op het uiteinde voorzien is van een geslepen driehoekige punt. Door er met een hamer op te slaan, waarbij de beitel tijdens het slaan steeds een weinig wordt gedraaid, kunnen gaten worden gemaakt. De afgebeelde beitels zijn rawlplugbeitels.

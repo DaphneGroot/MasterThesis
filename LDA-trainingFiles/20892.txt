@@ -1,0 +1,5 @@
+IBM DB2.
+DB2 (tot voor kort DB2UDB, DB2 Universal Database) is een databaseproduct van IBM. Het product is beschikbaar voor een groot aantal besturingssystemen, waaronder Unix, Windows, Linux en OS. Daarnaast is DB2 onderdeel van het besturingssysteem 400 van de E-Server iSeries.
+Geschiedenis.
+Het product heeft een lange geschiedenis en was volgens sommigen de eerste database die SQL gebruikte.
+Volgens Michael Stonebraker was het zo dat, toen IBM besloot om SQL de standaard vraagtaal voor hun databases te maken met de aankondiging dat het bij DB2 geleverd zou worden, Oracle de kans greep om aan te kondigen dat het ook SQL ondersteunde.

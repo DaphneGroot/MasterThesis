@@ -1,0 +1,10 @@
+Ontvlambaar.
+Het symbool voor ontvlambare stoffen (GHS-etikettering)
+Het symbool voor ontvlambare stoffen (WMS-etikettering)
+Een stof is (licht)(zeer licht) ontvlambaar als deze een vlampunt heeft op of beneden 55°C.
+Het vlampunt is de laagste temperatuur waarbij een vloeistofdamp of gas met een uitwendige ontstekingsbron kan worden ontstoken tot een zelfonderhoudende verbranding, bij 20,9vol% zuurstof in lucht en een druk van 1013 hPa.
+Zeer licht ontvlambaar: vlampunt lager dan 0°C (K0), zoals aceton.
+Licht ontvlambaar: vlampunt tussen 0°C en 21°C (K1), zoals brandspiritus.
+Ontvlambaar: vlampunt tussen 21° en 55°C (K2), zoals petroleum.
+Stoffen met een vlampunt boven 55°C worden "brandbaar" (K3) genoemd, zoals dieselolie.
+Stoffen met een vlampunt boven 100°C (K4) worden beschouwd als "onbrandbaar" onder normale omstandigheden, zoals teer.

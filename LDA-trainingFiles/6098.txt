@@ -1,0 +1,12 @@
+Wireless Markup Language.
+Wireless Markup Language (WML) is een opmaaktaal speciaal bedoeld voor mobiele telefoons en aanverwante apparaten die gebruikmaken van WAP. WML is gebaseerd op XML.
+<!DOCTYPE wml PUBLIC "-//PHONE.COM//DTD WML 1.1//EN"
+Dit is een voorbeeld van een WML pagina.
+WML-documenten worden opgevraagd van een webserver via een WAP-gateway. De WAP-gateway werkt als een soort proxy tussen de mobiele telefoon en het internet. Als een WML-pagina wordt opgevraagd door de gebruiker wordt deze door de WAP-gateway omgezet in een vorm die verwerkbaar is voor mobiele telefoons, dit proces is verborgen voor de gebruiker.
+Geschiedenis.
+Een schermafbeelding van WMLBrowser in Mozilla Firefox
+WML 1.0 was de eerste versie van WML ontwikkeld door het toenmalige WAP Forum, nu het Open Mobile Alliance (OMA). WML 1.0 was afgeleid van HDML (Handheld Device Markup Language), ontwikkeld door Openwave, toen nog Unwired Planet geheten. WML 1.0 is verder ontwikkeld tot versie 1.3, versie 1.1 is de meeste geïmplementeerde versie bij hedendaagse browsers.
+In Japan werd naast WML 1.x door het bedrijf NTT DoCoMo gewerkt aan een compacte versie van HTML voor mobiele telefoons: Compact HTML, deze versie van HTML werd gebruikt voor de webdienst i-mode. Ondertussen ontwikkelde het W3C een lichte versie van XHTML ook bedoeld voor kleine apparaten zoals pda's en mobiele telefoons XHTML Basic genaamd. NTT DoCoMo en het toenmalige WAP Forum bundelde hun krachten om XHTML Mobile Profile te ontwikkelen, een subset van XHTML 1.1 gebaseerd op XHTML Basic met enkele functies van Compact HTML en WML 1.x.
+Aan XHTML Mobile Profile werden functies toegevoegd die niet voorkwamen in de XHTML modules en die alleen bruikbaar waren voor mobiele telefoons, deze functies kregen de XML-naamruimte:wml. WML 2.0 was geboren als nieuwe opmaaktaal voor mobiele telefoons.
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD WML 2.0//EN"
+Deze pagina is een voorbeeld van een WML 2.0-document

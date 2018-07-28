@@ -1,0 +1,3 @@
+USSD.
+USSD is een techniek in de GSM-telefonie om direct ongestructureerde data naar een telefoon te kunnen versturen. USSD is een afkorting die staat voor Unstructured Supplementary Service Data.
+Een USSD code begint met een * en eindigt met een #. De lengte van een USSD bericht kan tot 182 karakters lang zijn. In tegenstelling tot SMS-berichten, wordt er door een USSD bericht een real-time connectie opgebouwd die open blijft staan totdat de response is ontvangen. Daarmee is USSD meer interactief dan SMS.

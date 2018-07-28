@@ -1,0 +1,8 @@
+Request for Comments.
+RFC-documenten – voluit Request for Comments – zijn documenten die de protocollen en andere aspecten van het internet beschrijven. De RFC-documenten komen tot stand door een discussie- en publicatieproces dat wordt georganiseerd door de RFC Editor. Ze worden uiteindelijk als standaard bekrachtigd door de "Internet Engineering Task Force".
+De RFC-documenten zijn doorzoekbaar op de website van de RFC Editor. Op deze site is ook allerlei informatie te vinden over de totstandkoming van RFC's en Internet-standaarden.
+Geschiedenis.
+De eerste RFC's werden uitgegeven in 1969 in verband met het ARPANET-project, de voorloper van het internet. Omdat elektronische distributie nog in de kinderschoenen stond, werden de eerste RFCs uitgetypt en met de post verstuurd naar de onderzoekers van ARPA.
+De allereerste RFC (RFC 1, getiteld "Host Software") werd op 7 april 1969 gepubliceerd door Steve Crocker van de University of California, Los Angeles. In 2009 werd herdacht dat het veertig jaar geleden is dat deze eerste RFC werd uitgegeven.
+1 april-RFC's.
+Door de jaren heen is het traditie geworden om op 1 april een RFC te publiceren met een humoristisch voorstel. Voorbeelden hiervan zijn RFC 1149 (1 april 1990), die IP-verbindingen per postduif beschrijft en RFC 2324, die een hypertekstprotocol beschrijft om koffiezetapparaten te bedienen. Op 1 april 1998 verscheen RFC 2322, waarin een voorstel werd gedaan om IP-adressen met behulp van wasknijpers toe te wijzen. Ondanks de datum en het onderwerp was dit een methode die op Hacking in Progress in 1997 daadwerkelijk was toegepast.

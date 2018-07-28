@@ -1,0 +1,6 @@
+Tony Hoare.
+Charles Anthony Richard Hoare (Colombo (toenmalig Ceylon), 11 januari 1934) is een Brits informaticus wiens naam altijd verbonden zal blijven aan het door hem uitgevonden sorteeralgoritme quicksort. Hij is "James Martin Professor of Computing" aan de Universiteit van Oxford, met emeritaat. In 2000 werd Hoare geridderd en mag zich sindsdien "Sir Tony Hoare" noemen.
+Hoare is ook bekend van de zogenaamde Hoaretriples. Dit is een notatie S, waarin "P" en "Q" formeel-logische uitdrukkingen zijn, en "S" staat voor een algoritme of computerprogramma. Deze schrijfwijze betekent: Als aanvankelijk "P" waar is, en "S" wordt uitgevoerd, is daarna "Q" waar. Hierop kan logica toegepast worden, en deze wordt gebruikt om correctheid van computerprogramma's te bewijzen.
+In 1985 ontving hij de Faraday Medal.
+In 1998 hield hij in Den Haag de NWO-Huygens lezing; 'The science of computing and the engineering of software'.
+Hij beschouwt zijn invoering van de null-referentie in ALGOL W in 1965 als zijn grootste fout: "I call it my billion-dollar mistake."

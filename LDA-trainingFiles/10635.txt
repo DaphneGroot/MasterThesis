@@ -1,0 +1,55 @@
+Percentiel.
+In de statistiek is een percentiel van een dataset een van de in principe 99 punten die de geordende dataset in 100 delen van gelijke grootte verdelen. Het "k"-de percentiel is dan een getal dat de "k"% kleinere data van de (100−"k")% grotere scheidt. Het 95e percentiel is bijvoorbeeld een getal zodanig dat 95% van de data kleiner is of eraan gelijk en 5% groter of eraan gelijk. Veelal zal een percentiel een van de data zelf zijn, maar in sommige gevallen is het percentiel het gemiddelde van twee opeenvolgende data. Percentielen zijn op soortgelijke wijze ook gedefinieerd voor kansverdelingen.
+Definitie.
+Laat "p" een reëel getal tussen 0 en 1 zijn.
+Gerelateerde termen.
+Percentielen zijn kwantielen die bij een percentage behoren. Percentielen verdelen een dataset in 100 ongeveer gelijke delen. Het 50e percentiel wordt ook de mediaan genoemd. Het 25e, 50e en 75e percentiel worden ook respectievelijk het 1e, 2e en 3e kwartiel genoemd. Decielen zijn de percentielen die bij de percentages 10, 20..., 90 behoren.
+Berekening.
+De bovenstaande definitie leidt niet in alle gevallen tot een eenduidige bepaling van de percentielen. Er worden verschillende berekeningswijzen gehanteerd. Hieronder worden tien verschillende methoden besproken. Een voorbeeld laat zien hoe divers de uitkomsten van de berekeningen kunnen zijn.
+Verschillende softwarepakketten: verschillende percentielen.
+Hoewel de bovenstaande geijkte crf-definitie van het "p"e percentiel een eenduidig bepaalde waarde oplevert, blijken softwarepakketten en rekenmachines, afhankelijk van de specifieke dataset, verschillende waarden voor hetzelfde percentiel te geven. De percentielcalculator op de website (1) biedt maar liefst acht verschillende methoden voor het berekenen van percentielen.
+TI-83 en TI-84: Exclusief de mediaan.
+Iets van de problematiek van praktische percentielberekeningen zien we bij de berekening van kwartielen door de TI-83 en TI-84 rekenmachines, die veel in het middelbaar onderwijs worden gebruikt. Voor de dataset 1, 2, …, 9 geven deze rekenmachines "Q"1 = 2,5 en "Q"3 = 7,5, terwijl volgens de crf-definitie "x"0,25 = 3 en "x"0,75 = 7. Datzelfde verschijnsel treedt op bij alle datasets met "n" = 4"i" + 1.
+Dat probleem is op te lossen door in voorkomende gevallen de kwartielen te berekenen, waarbij de mediaan "inclusief" zowel tot de linkerhelft als de rechterhelft van de dataset wordt gerekend.
+Het instructieboekje van de TI-83 vermeldt dat "Q"1 de mediaan is van de punten tussen "X"min en "Med", en dat "Q"3 de mediaan is van de punten tussen "Med" en "X"max. Bij oneven "n" wordt echter de mediaan niet meegerekend, noch in de linker-, noch in de rechterhelft. Wel worden de kleinste en de grootste waarde in de rij meegerekend. De relatie tussen de geijkte percentielen en "Q"1 en "Q"3 is zwak. Bij bijvoorbeeld de dataset 1, 2, …, 11 vallen drie punten uit de dataset: 3, 6 en 9, die immers medianen van een oneven aantal getallen zijn. Daardoor ligt links van "Q"1 slechts 18,2% van de getallen en niet 25%. We zien dat door bepaalde keuzes percentielpunten (in dit geval kwartielen) anders berekend worden dan volgens de hierboven besproken geijkte crf-methode.
+Referentiepunten.
+In softwarepakketten worden diverse methoden gebruikt om percentielen van niet-geklasseerde data te berekenen. Dat er voor verschillende berekeningen wordt gekozen, heeft te maken met een eigenaardigheid van de crf-definitie. Alle "p"e percentielen, met formula_7 zijn volgens deze definitie formula_8 Voor veel percentages "p" vallen de percentielen dus samen met hetzelfde datapunt. Dat is een gevolg van het discrete karakter van een eindige dataset. Als de dataset een steekproef is uit een continue stochast en een percentiel van de dataset een schatting is van de percentiel van de populatie, dan is dat samenvallen van percentielen ongewenst. Dat is de reden dat percentielen vaak via lineaire interpolatie worden berekend. Feitelijk vervangt men dan de discontinue crf-grafiek door een continue polygoon. Men kan daarbij echter op verschillende manieren te werk gaan, waarbij verschillende methoden ook verschillende waarden voor hetzelfde percentiel kunnen opleveren.
+Om verschillende methoden om percentielen te berekenen te kunnen onderscheiden, gebruiken we een referentiepunt, een getal, zoals "np", dat is afgeleid van "p" en "n". We onderscheiden van het betreffende referentiepunt het gehele deel "k" en de fractie "f", zodat referentiepunt = "k" + "f". Zie ook websites (1) en (2).
+Methode A: "np" = "k" + "f".
+Submethode A1: formula_9 (bovenstaande geijkte crf-methode)
+Submethode A2: formula_10 (variant op geijkte crf-methode, zonder gemiddelde)
+Submethode A3: formula_11 (gewogen gemiddelde)
+Methode B: ("n" + 1)"p" = "k" + "f".
+Submethode B1: formula_11 (PERCENTIEL.EXC in Microsoft Excel 2013)
+Submethode B2: formula_13(gewogen gemiddelde)
+Submethode B3: formula_14 (Excel 2007 en oudere versies)
+Methode C: "np" + ½ = "k" + "f".
+formula_15 (dichtstbijzijnde datapunt, geen lineaire interpolatie)
+Het afronden van deze methode vindt op de gebruikelijke wijze plaats, maar om statistische vertekening te voorkomen, is "afronden op even" hier aan te raden.
+Methode D: ("n" – 1)"p" = "k" + "f".
+formula_16
+Methode E: ("n" – 1)"p" + 1= "k" + "f".
+formula_11 (PERCENTIEL.INC in Microsoft Excel 2013)
+Voorbeeld.
+We zien dat afhankelijk van de berekeningsmethode, voor bovenstaande dataset, het 40e percentiel kan variëren van 8 tot 13. Opmerkelijk is dat methode A3 een mediaan oplevert die niet het middelste datapunt is.
+Microsoft Excel: Inclusieve en exclusieve percentielen.
+De versie 2013 van Excel kent zowel methode B1 als methode E voor het berekenen van percentielpunten. Het verschil tussen de rangnummers van een "exclusief" berekende percentiel en een "inclusief" berekende percentiel is: "#EXC" – "#INC" = 2"p" -1. Het inclusief berekende percentiel ligt daardoor dichter bij de mediaan dan het exclusief berekende percentiel, maar het verschil neemt toe met de afstand tot de mediaan. Hoe groter deze afstand, des te meer ‘trekt’ de mediaan aan het percentiel.
+Nemen we als voorbeeld het percentiel "x"25% van de dataset in het voorbeeld. Het rangnummer van het 1e kwartiel volgens de exclusieve methode (B1) is 3,5 en het bijbehorende 1e kwartiel is dus 4. Het rangnummer van het 1e kwartiel volgens de inclusieve methode (E) is 4 en het bijbehorende 1e kwartiel is 5. De inclusieve kwartielen liggen een half rangnummer dichter bij de mediaan dan de exclusieve kwartielen.
+Waarschuwing.
+Zoals uit het bovenstaande blijkt berekenen softwarepakketten percentielen van niet over klassen verdeelde data met verschillende methoden. Men mag dus niet zeggen dat de percentielwaarde die een pakket produceert ‘het’ percentiel is. De gebruiker van het pakket dient zich bewust te zijn van de methode waarmee de berekening wordt uitgevoerd. Statistische software kan niet blindelings worden gebruikt.
+Percentielen van continue stochasten.
+Als "f"("x") de kansdichtheidsfunctie is van een continue stochast "X" en "F"("x") de bijbehorende verdelingsfunctie, dan kunnen we voor formula_18 het "p"e percentiel "x"p berekenen via de inverse van de verdelingsfunctie: formula_19
+De oppervlakte onder de kansdichtheidsfunctie wordt verdeeld in een linkerdeel met oppervlakte "p" en een rechterdeel met oppervlakte 1 – "p".
+Statistische software en de grafische rekenmachines bevatten rekenroutines voor het berekenen van waarden van de inverse van de verdelingsfunctie van diverse continue stochasten en dus van het "p"e percentiel.
+Voorbeeld.
+Het 40e percentiel van de standaard normale verdeling "N"(0,1) is "x"0,40 = "x"40% =-0,2533.
+Percentielen van discrete stochasten.
+Bij het berekenen van percentielen van discrete stochasten gaan we op dezelfde wijze te werk als bij het berekenen van percentielen van niet-gegroepeerde data. Als "F"("x") de verdelingsfunctie is van de discrete stochast "X", dan volgt uit de definitie van percentiel voor niet-gegroepeerde data: formula_20
+Als "x"k en "x"k+1 twee opeenvolgende waarden zijn van "X", en als formula_21 dan is "x"p = "x"k+1. Als daarentegen formula_22 dan kan elk getal in het interval ["x"k,"x"k+1] het percentiel "x"p zijn. Men zou in dat geval het percentiel gelijk kunnen kiezen aan het midden van het interval: formula_23
+Percentielen van gegroepeerde data.
+formula_28
+Voorbeeld.
+Dit is een voorbeeld dat men kan vinden op website (2). Zeven studenten beoordelen hun leraar op een schaal van 1 tot en met 5. Als de scores 3, 3, 3, 3, 4, 4, 4 zijn, dan is de mediaan van de niet-gegroepeerde data 3; als de scores 3, 3, 3, 4, 4, 4, 4 zijn, dan is de mediaan van de niet-gegroepeerde data 4. Men kan zich afvragen of het verschil tussen deze twee medianen wel realistisch is. Als we daarentegen de scores over twee klassen verdelen vinden we de medianen 3,375 en 3,675. Gezien de twee rijen scores lijken dit ‘eerlijker’ medianen.
+Ook hier zien we dat onze keuze voor een specifieke methode bepalend is voor het antwoord dat we krijgen.
+Externe Links.
+1. http://www.wessa.net/rwasp_percentiles.wasp#output

@@ -1,0 +1,6 @@
+Circuitgeschakeld netwerk.
+Een circuitgeschakeld netwerk is een netwerk waarbij een bepaalde verbinding een vast communicatiekanaal toegewezen krijgt gedurende de gehele overdracht, dit in tegenstelling tot een pakketgeschakeld netwerk.
+"Circuitschakeling" wordt toegepast in de WAN-technologie bij telecommunicatie (ISDN) of bij PSTN (Public Switched Telephone Network).
+Het nadeel is dat ook tijdens de perioden dat geen gegevens overgedragen worden de verbinding bezet blijft.
+Het prototype van een circuitgeschakeld netwerk is het klassieke telefoonsysteem. Zodra iemand belt, wordt een verbinding opgebouwd en zolang het gesprek duurt zijn beide deelnemers "in gesprek".
+Tegenwoordig zijn weinig netwerken nog echt circuitgeschakeld. Ze zijn vervangen door tijdgeschakelde netwerken. Met tijdgeschakelde netwerken kunnen circuitgeschakelde netwerken nagebootst worden, en dit is dan ook het geval bij moderne telecomnetwerken (ATM).

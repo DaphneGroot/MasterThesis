@@ -1,0 +1,5 @@
+Grijs.
+Grijs is de benaming voor elke waarde van lichtsterkte (de hoeveelheid licht van een lichtbron) die het menselijke oog kan waarnemen tussen wit en zwart. Grijs is daarmee in feite geen kleur zoals de andere kleuren uit het spectrum, evenmin als wit en zwart dat zijn. Toch wordt grijs algemeen wel als een echte kleur ervaren.
+In de subtractieve kleurmenging is grijs een mengsel van zwart en wit; in de additieve kleurmenging is het in feite wit licht, maar dan van een lage intensiteit.
+Grijstinten.
+Afbeeldingen in kleur kunnen worden omgezet in grijstinten. Hierbij wordt de lichtsterkte van elk beeldpunt behouden en de kleureninformatie uitgefilterd. Een afbeelding in grijstinten wijkt af van een echt zwart-wit, doordat elke beeldpunt een grijswaarde heeft. Door beeldpunten in puur wit en puur zwart te mengen ontstaat weliswaar een optische grijstintafbeelding, maar een echt zwart-wit is dus beperkt tot slechts twee waarden lichtsterkte, terwijl grijstintenafbeeldingen een oneindig scala aan lichtsterkten kan bevatten.

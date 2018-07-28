@@ -1,0 +1,14 @@
+Japans schrift.
+Oefeningen in kalligrafie, geschreven in Kanji en Kana
+Het Japanse schrift is een verzameling schrijfmethoden waarmee een Japanse tekst geschreven kan worden.
+Schrijfmethoden.
+Daarnaast kent men in Japan Arabische cijfers en het Romaji, Japanse woorden omgezet in het westerse (Latijnse) schrift. Romaji is niet echt een onderdeel uit het schrift, het is een transcriptiemethode.
+Schrijfrichting.
+De schrijfrichting van het Japans is van oudsher van boven naar beneden en van rechts naar links. Japanse boeken worden voor het gevoel van een westerling van achter naar voren gelezen.
+Op computers wordt Japanse tekst horizontaal van links naar rechts geschreven. Hierdoor zijn teksten op Japanse websites vooral horizontaal, maar ook in teksten in drukwerk als kranten, tijdschriften en posters, waarbij horizontale en verticale tekst vaak door elkaar wordt gebruikt.
+Combinatie van schriftsoorten.
+Japans bord dat de richting naar een stembureau aangeeft. Op het bord worden kanji, kana en Arabische cijfers door elkaar gebruikt.
+私はコーヒーを飲みます。("watashi wa koohii wo nomimasu.") = "Ik drink koffie"
+Opvallend hierbij is de combinatie van kanji en hiragana in één enkel woord: 飲みます ("nomimasu" = drinken). Voor zover mogelijk wordt de onveranderlijke stam van het werkwoord met kanji geschreven (飲) en de veranderlijke uitgang met hiragana (みます). Hiragana die gebruikt worden om de uitgangen van een werkwoord of bijvoeglijk naamwoord te schrijven worden "okurigana" (送り仮名) genoemd.
+Furigana.
+Een volwassen Japanner wordt geacht circa 2000 kanji te beheersen, de Japanse overheid heeft een lijst van 1945 karakters voor dagelijks gebruik opgesteld. Er zijn echter nog duizenden andere kanji die in specialistische literatuur gebruikt kunnen worden en waarvan de schrijver niet kan veronderstellen dat zijn lezers weten hoe het uitgesproken dient te worden. Ook bij namen kunnen de kanji nog weleens een afwijkende uitspraak vertonen. Om de lezer hierbij te helpen wordt de uitspraak met kana (meestal hiragana) naast of boven de kanji geschreven. Kana die op deze manier gebruikt worden, worden "furigana" (振り仮名) genoemd.

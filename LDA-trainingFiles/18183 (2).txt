@@ -1,0 +1,7 @@
+Disacharide.
+Disachariden zijn suikers die uit precies twee met elkaar verbonden monosachariden bestaan.
+Disachariden worden als eerste gekarakteriseerd door de identiteit van de twee monomere suikers, en verder door het type binding dat er tussen de twee is gevormd en welke zuurstofatomen van de twee eenheden daarbij betrokken zijn. Deze binding wordt aangeduid met twee cijfers tussen 1 en 6 die aangeven welke twee koolstofatomen met elkaar verbonden zijn. Wanneer het koolstofatoom op positie 1 betrokken is bij de binding zijn er twee configuraties mogelijk: α en β. Bij monosacharides opgelost in water kunnen de α en β configuratie in elkaar overgaan en vormen ze een evenwicht met elkaar, maar wanneer de 1-positie deel is van een glycoside binding is de α of β configuratie gefixeerd.
+Disachariden met een hemiacetaal zijn zogenaamde reducerende suikers: hun reducerend vermogen is groot genoeg om koper in de vorm van Cu2+ tot Cu1+ te reduceren.
+Niet-reducerende suikers zijn stabieler dan reducerende suikers.
+Glucose-fructose.
+Een sacharosemolecuul is een dimeer van glucose en fructose moleculen

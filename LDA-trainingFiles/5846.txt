@@ -1,0 +1,19 @@
+Ether (scheikunde).
+Een ether is een organische verbinding van de algemene vorm R-O-R', waarbij de centrale zuurstof een directe binding heeft met twee koolstofatomen die deel zijn van een alkyl- of arylgroep. De benaming ether wordt in de wandelgangen vaak gebruikt als synoniem voor di-ethylether.
+Alkyl- en arylethers.
+Structuurformule van tetrahydrofuraan, een cyclisch ether.
+De eenvoudigste alkylether is dimethylether (CH3-O-CH3). Di-ethylether is de meest voorkomende en wordt algemeen gebruikt als oplosmiddel. Voorbeelden van arylethers zijn anisol en ethylfenylether. Alkylethers kunnen ook cyclisch zijn, zoals tetrahydrofuraan of etheenoxide.
+Acetalen zijn organische verbindingen waarbij twee etherfuncties op hetzelfde koolstofatoom staan.
+Kroonethers.
+Kroonethers zijn verbindingen met een aantal zuurstofatomen in een cyclische structuur. Hierbij ontstaat door de moleculaire structuur een kooi van zuurstofatomen. Kroonethers worden vaak gebruikt om kationen, zoals kalium, te complexeren.
+Polyethers.
+Polyethers zijn polymeren waarin de functionele groep van een ether (R-O-R') periodiek voorkomt.
+Primaire, secundaire en tertiaire ethers.
+Deze benamingen worden om aan te geven welk type koolstofatoom gebonden is aan het zuurstofatoom. In een primaire ether is die koolstof slechts met een andere koolstof gebonden (bijvoorbeeld di-ethylether), bij een secundaire twee (zoals in di-isopropylether), en bij een tertiaire drie (zoals in methyl-"tert"-butylether).
+Synthese.
+Logischerwijs is deze directe substitutie enkel mogelijk om symmetrische ethers te vormen. Bij mengsels van alcoholen kunnen namelijk verschillende symmetrische en asymmetrische ethers gevormd worden. De scheiding daarvan zou omslachtig zijn. De dehydratiemethode wordt hoofdzakelijk gebruikt om cyclische ethers te bereiden, zoals tetrahydrofuraan (THF).
+Eigenschappen en reactiviteit.
+Ethers zijn zeer stabiel en het zijn zwak polaire oplosmiddelen die in de organische chemie veel worden toegepast. De laagmoleculaire ethers die hiervoor worden gebruikt zijn vaak erg vluchtig en brandbaar. Bovendien kunnen ethers blootgesteld aan de zuurstof van de lucht geleidelijk organische peroxiden vormen. Deze verbindingen zijn zeer reactief (soms zelfs explosief). Doordat de moleculen wat zwaarder zijn hebben de peroxiden een hoger kookpunt dan de overeenkomstige ethers. De hoeveelheid peroxiden wordt relatief steeds groter: er wordt steeds meer gevormd en doordat de ether sneller verdampt wordt de concentratie peroxide in de achterblijvende vloeistof steeds hoger. Dit kan tot zeer gevaarlijke situaties leiden, met name bij destillaties of indampingen. De vorming van peroxiden wordt verder ook versneld door aanwezigheid van metalen en aldehyden.
+Toepassingen.
+Als over ether gesproken wordt, zonder verdere kwalificatie, wordt meestal di-ethylether bedoeld. Dit is een kleurloze, zeer vluchtige en brandbare vloeistof die bij 34,6°C kookt. Het gas dat vrijkomt bij het vervliegen, is zo brandbaar dat de vlam van bijvoorbeeld een waxinelichtje over de tafel naar de ether kan 'overstappen'.
+Aan benzine wordt vaak methyl-"tert"-butylether (MTBE) toegevoegd om de klopvastheid te verhogen.

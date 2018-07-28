@@ -1,0 +1,29 @@
+StarOffice.
+StarOffice (later Oracle Open Office) was een commercieel kantoorsoftwarepakket, uitgebracht door Sun Microsystems en na 2009 door Oracle. Het pakket was voor meerdere platformen beschikbaar.
+Geschiedenis.
+StarOffice werd oorspronkelijk vanaf 1995 uitgebracht en ontwikkeld door het Duitse bedrijf "Star Division" als opvolger van het tekstverwerkingspakket "StarWriter", waarvan de laatste versie (7.0 voor DOS) uit 1994 stamt en de eerste uit 1985 voor de Amstrad CPC.
+Eind 1998 maakte Star Division bekend dat ze StarOffice 5.0 Personal Edition als een gratis download ter beschikking zouden stellen. Het bedrijf deed dit in de hoop tegen januari 2000 minstens 10 miljoen StarOffice-gebruikers bij te winnen.
+Het bedrijf werd in 1999 overgenomen door Sun Microsystems voor een bedrag van $ 73,5 miljoen. Het programma werd vrijwel meteen, nadat het programma geschikt was gemaakt voor Solaris op grote schaal binnen de muren van Sun ingezet.
+Kort daarna werd versie 5.2 van het programma gratis beschikbaar gesteld (gratis te downloaden of te koop op cd-rom tegen geringe prijs).
+StarOffice 5.2 bleef als download gratis verkrijgbaar tot mei 2002, toen StarOffice 6.0 op de markt gebracht werd.
+In 2000 besloot Sun de eigen programma-code beschikbaar te stellen voor "opensource"-ontwikkeling.
+De broncode van StarOffice 6.0 zou als basis dienen voor OpenOffice.org, dat onder de GNU General Public License (GPL) vrijgegeven werd. Volgens Sun was dat op dat moment de grootste bijdrage tot openbronsoftware in de geschiedenis van GPL.
+De beta-versie van StarOffice 6.0 kreeg eind 2001 aandacht in de pers omdat de nieuwe licentievoorwaarden voor Microsoft Office XP gebruikers op zoek zetten naar goedkopere alternatieven.
+Na de overname van Sun door Oracle werd StarOffice 9 vanaf december 2010 uitgebracht als Oracle Open Office en kreeg een cloud versie "Oracle Cloud Office.
+In april 2011 staakte Oracle de ontwikkeling nadat OpenOffice.org aan de Apache Software Foundation gedoneerd was.
+Versiegeschiedenis.
+SO = StarOffice; OOO = Oracle Open Office
+Kosten.
+StarOffice kostte tussen de 50 en 100 euro.
+De broncode van StarOffice 8 is in wezen de code van OpenOffice.org 2.0, met enkele toevoegingen. Daarnaast wordt er professionele ondersteuning gegeven bij StarOffice.
+In augustus 2007 werd StarOffice toegevoegd aan Google Pack, een gratis softwareselectie aangeboden door Google. In november 2008 werd het pakket opnieuw verwijderd.
+Modules.
+De modules zijn in staat tot het inlezen van bestanden die met vele andere programma's zijn gemaakt.
+StarOffice 5.2 bevatte ook e-mail- en kalenderfuncties, maar die werden verwijderd uit latere versies omdat ze minder populair waren.
+Compatibiliteit.
+OpenOffice.org en Oracle Open Office ondersteunen de Microsoft-documentformaten voor rekenbladen, tekstverwerking en presentaties, zodat dergelijke documenten ook gebruikt kunnen worden op Unix en Solaris.
+Beschikbaarheid.
+Oracle Open Office was beschikbaar voor Linux, Solaris (x86/x86_64 en SPARC), Mac, Windows.
+Naast de kantoorsuite StarOffice bestond er ook StarOffice Server, waarmee men 25 verschillende bestandstypes automatisch naar PDF kon omzetten.
+Voor andere platformen zoals Mac OS X en 2 is OpenOffice.org en/of NeoOffice beschikbaar.
+Van StarOffice waren versies beschikbaar in diverse talen, waaronder het Nederlands. Er is ook een speciale versie voor Aziatische talen, met de naam StarSuite. Oracle Open Office vervangt zowel StarOffice als StarSuite.

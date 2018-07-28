@@ -1,0 +1,10 @@
+Magnetostrictie.
+Magnetostrictie is het veranderen van de afmetingen van een materiaal onder invloed van een magnetische ordening. Magnetostrictie is een eigenschap van ferromagnetische materialen, zoals ijzer en kobalt.
+Magnetostrictie lijkt oppervlakkig op de thermische uitzetting, waarbij materialen uitzetten als de temperatuur hoger wordt.
+Het effect is voor het eerst waargenomen door James Joule toen hij in 1842 bezig was met een stuk ijzer.
+Deze eigenschap leidt ertoe dat deze materialen magnetische energie kunnen omzetten in mechanische energie en omgekeerd. Deze eigenschap kan worden gebruikt in actuatoren en sensoren.
+De mate van magnetostrictie wordt uitgedrukt in de magnetostrictie coëfficiënt "L" die gelijk is aan de fractie van de uitzettingslengte bij de magnetische verzadiging ten opzichte van de lengte zonder extern veld.
+De magnetostrictie veroorzaakt het geluid dat door transformatoren kan worden uitgestraald.
+Samenhangende effecten.
+Het omgekeerde van magnetostrictie, het verschijnsel dat de magnetisatie van een materiaal kan veranderen als het onderhevig is aan mechanische vervorming, wordt het Villari-effect genoemd.
+Verder bestaat het Matteuci-effect, het ontstaan van een spiraalvorming magneetveld als het materiaal getordeerd wordt, en het Wiedemann-effect, het draaien van het materiaal als het aan een spiraalvormig veld wordt blootgesteld.

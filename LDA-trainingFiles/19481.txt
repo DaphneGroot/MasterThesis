@@ -1,0 +1,17 @@
+Driehoek (meetkunde).
+Een driehoek is een meetkundige figuur die ontstaat door drie punten die niet op een rechte lijn liggen met elkaar te verbinden. De verbindende lijnstukken heten de zijden van de driehoek. De driehoek met de hoekpunten formula_1 en formula_2 wordt genoteerd als formula_3. Meestal worden voor een willekeurige driehoek de hoekpunten zo gekozen als in de figuur: links het hoekpunt "A", rechts "B" en in de top "C". De hoeken van de driehoek worden meestal overeenkomstig de hoekpunten aangeduid met α, β en γ, en de zijden van de driehoek met de letters "a", "b" en "c", zodat "a" de tegenover "A" liggende zijde is, "b" tegenover "B" ligt en "c" tegenover "C".
+Som van de hoeken.
+De som van de hoeken is 180°
+Pythagoras bewees dat de som van de hoeken van een driehoek steeds 180 graden is, al denkt men dat de ontdekking gedaan werd door een leerling van hem en uit respect aan hem werd toegeschreven.
+Indeling op basis van de zijden.
+Speciale gevallen: als de driehoek twee even lange zijden heeft.
+Ontaarde driehoek.
+Als de drie hoekpunten op één lijn liggen, is er geen sprake van een echte driehoek. Een van de hoeken is dan 180 graden, de andere twee hoeken zijn 0 graden. Omdat het toch zinvol kan zijn over zo'n driehoek te spreken, wordt die driehoek ontaard genoemd.
+Oppervlakte.
+De oppervlakte "O" van een driehoek is gelijk aan het halve product van de lengte van een zijde en de lengte van de hoogtelijn op die zijde. Anders geformuleerd: oppervlakte = basis × halve hoogte.
+Een andere manier om de oppervlakte te berekenen is met de formule van Heron.
+Deze formule kan omgewerkt worden tot;
+3D.
+Driehoeken vormen de basis voor 3D-berekeningen met polygonen.
+Vakwerk.
+Een driehoek met scharnierende hoekpunten is de eenvoudigste statisch bepaalde constructie die met balken kan worden gemaakt (zie Stabiliteitsverband). Driehoeken vormen de basis van zogenaamde vakwerkconstructies, wat goed te zien is in huizen die geconstrueerd zijn op basis van vakwerkbouw. Ook grote staalskeletbouwsels zoals hijskranen maken hiervan gebruik.

@@ -1,0 +1,6 @@
+Constante van Planck.
+In veel gevallen wordt een variant hiervan gebruikt, die soms de constante van Dirac genoemd. Deze wordt geschreven als "ħ" en is genoemd naar de Britse fysicus Paul Dirac. Deze wordt gebruikt om de Planckeenheden te definiëren. Het wordt uitgesproken als 'h-streep' of, in het Engels, als 'h-bar'.
+"ħ" is een kwantum van impulsmoment, waaronder spin. Het impulsmoment van een willekeurig systeem is altijd een geheel veelvoud van deze waarde. "ħ" komt ook voor in de onzekerheidsrelatie van Heisenberg. Dit wordt gebruikt om te beargumenteren dat "ħ" een meer fundamentele eenheid is dan "h", de constante van Planck.
+Voor "h" en "ħ" kunnen de unicodetekens U+8462 en U+8463 gebruikt worden.
+Toekomst.
+Volgens de voorgestelde herdefinitie van de basiseenheden, waaronder ook een herdefinitie van de kilogram, zal de constante van Planck exact 6,626 0690X × 10–34 Js gaan bedragen, met X een of meer nader te bepalen cijfers. De 25e "General Conference on Weights and Measures" van 18-20 november 2014 heeft de beslissing uitgesteld tot de 26e conferentie.

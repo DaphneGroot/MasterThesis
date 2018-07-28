@@ -1,0 +1,4 @@
+Amaya.
+Amaya is een open webbrowser die door het W3C wordt gebruikt als implementatieplatform van nieuwe standaarden. De volgende standaarden worden ondersteund: HTML 4.01, XHTML 1.0, XHTML Basic, XHTML 1.1, HTTP 1.1, MathML 2.0, SVG en CSS 2 (deels).
+Van origine was Amaya bedoeld als HTML- en CSS-editor. De browser vervangt Arena.
+Amaya is onder meer beschikbaar voor Windows, macOS en Linux.

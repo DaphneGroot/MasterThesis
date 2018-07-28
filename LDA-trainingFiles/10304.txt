@@ -1,0 +1,6 @@
+Scandinavisch (schaakopening).
+De Scandinavische opening is een schaakopening die gekenmerkt wordt door de beginzetten 1.e4 d5 waarna bijna altijd 2.exd5 of 2.Pf3 wordt gespeeld. Het Scandinavisch is ingedeeld bij de halfopen spelen en valt onder ECO-code B01.
+De hoofdvariant van het Scandinavisch (1.e4 d5 2.exd5 Dxd5 3.Pc3 Da5) druist in tegen de Gouden regels in de schaakopening: de zwarte dame komt vroeg in het spel en zwart loopt een ontwikkelingsachterstand op. Toch kan zwart met 4.d4 c6 naar een gunstige versie van de Caro-Kann overgaan en deze variant geldt daardoor als bevredigend voor zwart. Vooral Bent Larsen heeft daar propaganda voor gevoerd.
+Blackmar-Diemergambiet.
+Wit kan ook kiezen voor het Blackmar-Diemergambiet.
+1. e4 d5 2.d4! exd4 3. Pc3 Pf6 4. f3

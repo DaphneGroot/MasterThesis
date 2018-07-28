@@ -1,0 +1,4 @@
+Sputnik (webbrowser).
+Sputnik is een webbrowser voor MorphOS ontwikkeld door Marcin Kwiatkowski. Het is gebaseerd op de webbrowser van Nokia S60-apparaten, die op zijn beurt gebaseerd is op WebKit. Sputnik kan overweg met CSS, iets wat voor een MorphOS-browser niet gebruikelijk was. De ontwikkelaars slaagden erin om Sputnik te laten opnemen in MorphOS 2.0.
+Versiegeschiedenis.
+Sputnik is nooit in de stabiele fase uitgebracht, enkel in bètaversies.

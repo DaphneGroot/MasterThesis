@@ -1,0 +1,11 @@
+Personal computer.
+Een personal computer, afgekort als pc, is een computer voor individueel gebruik. De pc wordt gebruikt voor het uitvoeren van diverse taken, zoals administratie, tekstverwerking, toegang tot het internet, programmeren, grafisch werk en computerspellen, met door de gebruiker kant-en-klaar verkregen programma's. Een computer wordt onder meer gebruikt bij werk, onderwijs, school en hobby's.
+Geschiedenis.
+IBM Personal Computer, type 5150 uit 1981
+De naam werd aan het begin van de jaren 80 in de taal opgenomen, toen IBM zich aansloot bij de snel groeiende markt in kleine computers, toen nog vaak microcomputers of homecomputers genoemd. Aanvankelijk was een computer een grote en dure machine die gebruikt werd door grote bedrijven. Individueel gebruik was eventueel mogelijk met timesharing. De trend naar individuele computers was al een aantal jaren gaande met onder andere de Altair 8800 en de Apple II. De naam personal computer ontstond toen IBM zijn eerste kleine computer voor individueel gebruik uitbracht in 1981: de IBM Personal Computer. De gangbare naam van de tegenhanger voor de grote IBM (mainframe)-computers (voor kantoor- en industriële toepassingen) was destijds microcomputer, en IBM had een eigen label nodig. Tussen beide formaten in, bestond nog de tiny, die soms als voorloper van de pc wordt beschouwd.
+Kenmerkend voor de IBM-PC was de modulaire opbouw en de openbaargemaakte hardware-interface. Daardoor konden andere leveranciers ook onderdelen voor de pc aanbieden en later zelfs zogenaamde klonen.
+Onderdelen.
+Explodedview-tekening van een personal computer 1. Beeldscherm 2. Moederbord 3. Processor (CPU) 4. Werkgeheugen (RAM) 5. Uitbreidingskaarten (PCI) 6. Voeding 7. Optische schijf (cd-rom, dvd, blu-ray) 8. Harde schijf 9. Toetsenbord 10. Muis
+Een typische pc-opstelling bestaat uit een systeemkast en randapparatuur, zoals beeldscherm, toetsenbord en muis.
+Draagbare computers.
+Door het toenemend computergebruik kwamen er naast de pc andere modellen computers op de markt. De draagbare laptop werd steeds lichter en krachtiger, zodat die in steeds toenemende mate werd gebruikt. Sinds ongeveer 2010 wordt de nog lichtere tabletcomputer of tablet veel gebruikt.

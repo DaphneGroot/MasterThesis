@@ -1,0 +1,13 @@
+Crocodile (spoorwegen).
+Krokodillen in de sporen 3 en 4 van station Luik-Guillemins.
+In België, Frankrijk, Luxemburg en Nederland is een eenvoudig treinbeïnvloedingssysteem in gebruik, genaamd memor of krokodil (in het Nederlands ook bekend onder de Franse benaming crocodile). Met "memor" wordt eigenlijk de apparatuur in de trein aangeduid en met "krokodil" de stalen constructie in de spoorrails. Het complete systeem kan met een van beide namen of allebei worden aangeduid.
+Dit systeem dateert uit 1930. Bij een sein zit tussen de rails een sleepcontact dat enigszins op een krokodil lijkt, en dus ook zo wordt genoemd. Het kan een positieve of negatieve spanning voeren ten opzichte van de spoorstaven. Metalen borstels onder de trein maken bij het passeren contact met de krokodil en meten of de spanning positief, negatief of nul is.
+Werking.
+Memor is daarmee een vrij beperkt systeem dat eigenlijk alleen de waakzaamheid van de treinbestuurder controleert bij een snelheidsbeperkend sein (behalve groen + matrixcijfer). Memor grijpt niet in bij te hoge snelheden en/of het passeren van een rood sein. Het is dan ook mogelijk om met 160 km/u door rood te rijden.
+Een rood sein heeft geen invloed op de trein omdat er geen spanning staat op de krokodil, daarom reageren treinen niet op rode seinen.
+In 2004 is besloten om krokodillen te plaatsen op de Belgisch-Nederlandse grensbaanvakken Essen – Roosendaal en Wezet (Visé) – Maastricht. In 2010 zijn de krokodillen op deze grensbaanvakken in dienst genomen.
+Tijdelijke krokodillen.
+Bij werkzaamheden aan het spoor worden soms ook tijdelijke krokodillen geplaatst die een signaal doorgeven dat de snelheid verminderd moet worden, dit ter ondersteuning van BTS-signalisatie (tijdelijke borden die een tijdelijk aangepaste snelheid aangeven).
+Proefkrokodillen.
+Op verschillende plaatsen langs het Belgische spoorwegnet staan proefkrokodillen opgesteld, die altijd een positieve spanning voeren.
+De proefkrokodillen zijn iets lager geplaatst, hierdoor zal de treinbestuurder makkelijk een bijna versleten borstel opmerken vermits deze dan geen contact maakt met de krokodil. Bij passage moet de treinbestuurder dus steeds reageren.

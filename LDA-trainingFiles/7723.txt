@@ -1,0 +1,11 @@
+Arbeid (thermodynamica).
+Verbrandingsgassen verrichten arbeid in een motor
+Het begrip arbeid (of werk) "W" heeft in de thermodynamica een aanzienlijke ontwikkeling ondergaan. Arbeid is, zoals warmte, een methode van energieoverdracht en is een maat voor het werk dat gedaan wordt, of de inspanning die door een krachtbron geleverd wordt bij verplaatsing van een volumemassa.
+Definitie.
+De definitie van arbeid "W" is het vectorproduct van een kracht "F" en een weglengte Δ"s", waarover de kracht wordt uitgeoefend.
+Macroscopisch controlevolume.
+De warmte "Q" is hierbij positief indien het systeem warmte van zijn omgeving ontvangt. Hierdoor neemt namelijk de inwendige energie "U" van het systeem toe, aangezien het systeem energie in de vorm van warmte ontvangt. De arbeid "W" is positief indien het systeem arbeid levert aan zijn omgeving. Hierdoor neemt namelijk de inwendige energie "U" van het systeem af, aangezien het systeem deze energie afstaat aan zijn omgeving in de vorm van arbeid.
+Infinitesimaal controlevolume.
+waarin de d een differentiaal beduidt.
+Voor elektrische energie bijvoorbeeld is "x" = "q" (elektrische lading) en "X" = "V" (de elektrische spanning).
+Voor een overgang van warmte naar een vorm van arbeid gelden de beperkingen van de Tweede Hoofdwet, waardoor altijd maar een deel van de warmte in arbeid wordt omgezet en de rest als afvalwarmte afgevoerd moet worden door een vorm van koeling. Voor een overgang van de ene vorm van arbeid in de andere gelden die beperkingen niet. Het is thermodynamisch gesproken in principe mogelijk om dat met 100% rendement te doen, hoewel er in de praktijk meestal wel wat verliezen (naar warmte) plaatsvinden. Dit is meteen de reden waarom deze verdere energietermen allemaal als 'arbeid' gerekend worden.

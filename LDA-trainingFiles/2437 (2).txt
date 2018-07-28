@@ -1,0 +1,8 @@
+GNU-licentie voor vrije documentatie.
+De GNU-licentie voor vrije documentatie (Engels: GNU Free Documentation License (GFDL)) is een licentie die gebruikt wordt om tekstmateriaal onder bepaalde voorwaarden vrij verspreidbaar te maken.
+De GFDL is in de eerste plaats geformuleerd voor de documentatie van vrij verspreidbare computerprogramma's onder de GNU General Public License in het GNU-project. Ook voor andere documenten kan de GFDL worden toegepast. De GNU-licentie voor vrije documentatie is goedgekeurd volgens de "Definitie van Vrije Culturele Werken".
+Toegestaan gebruik.
+Wel dienen bij nieuw of gewijzigd gebruik de voorwaarden en verplichtingen zoals binnen de GFDL zijn beschreven, te worden nageleefd.
+Bij het gebruik van onder GFDL uitgegeven documenten in een ander document zal in het algemeen het resulterende nieuwe document onder GFDL moeten vallen, tenzij er aan strikte regels voldaan is en er sprake is van een aggregaat. Als aggregaat kan bijvoorbeeld een losse katern in een krant fungeren, waarbij de volledige tekst van het katern onder GFDL valt, terwijl dat voor de overige katernen niet het geval hoeft te zijn.
+Nederlandse vertalingen van de GFDL.
+Deze vertaling is enkel ter informatie. Alleen de Engelse versie is formeel geldig.

@@ -1,0 +1,5 @@
+User Datagram Protocol.
+Het User Datagram Protocol (UDP) is een van de basisprotocollen van het internet. Het protocol opereert op hetzelfde niveau als TCP en wordt beschreven in RFC 768.
+UDP is onbetrouwbaar: het protocol biedt geen garantie dat de gegevens daadwerkelijk aankomen, wat bij TCP wel het geval is. Een aantal protocollen dat via UDP werkt, implementeert zelf een verificatiemethode. Hiermee zorgen ze effectief voor een vervanging van de functionaliteit die TCP heeft op dit gebied.
+UDP wordt veel gebruikt bij toepassingen waar het snel overdragen van de gegevens en een korte reactietijd zeer belangrijk is, en het minder erg is dat er gegevens verloren kunnen gaan, zoals bij telefonie, videoconferencing, DNS of het online spelen van actievolle spellen, zoals first person shooters.
+Indien TCP gebruikt zou worden voor dit soort toepassingen, zou een 'hapering' ontstaan totdat een missend pakketje alsnog correct zou zijn ontvangen.

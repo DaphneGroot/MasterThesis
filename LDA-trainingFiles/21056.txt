@@ -1,0 +1,5 @@
+Intel 8086.
+De Intel 8086-processor was zowel de eerste 16-bit processor als de eerste x86-processor en werd uitgebracht in 1978 door Intel.
+Intel bracht korte tijd later een versie van de 8086 uit, de 8088, die intern in 16-bit werkte, maar aan de buitenkant een 8 bits bus had. Deze processor werd door IBM verkozen voor de eerste IBM PC.
+De 8086 is uitgebracht in kloksnelheden van 4,77 (de snelheid in de eerste PC) tot 10 MHz. Veel PC-klonen hadden een optie om de processor tussen de oorspronkelijke 4,77 MHz en 8 MHz te kunnen schakelen. Instructies werden in 4 tot ongeveer 200 klokpulsen uitgevoerd.
+De 8086 had geen FPU, maar Intel leverde wel een externe FPU, de 8087. In veel computers was een voetje aanwezig om een 8087 bij te plaatsen.

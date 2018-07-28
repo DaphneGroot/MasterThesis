@@ -1,0 +1,21 @@
+Massa (natuurkunde).
+Massa is een natuurkundige grootheid die een eigenschap van materie aanduidt. Massa wordt uitgedrukt in kilogram. Massa dient niet te worden verward met "gewicht" dat een maat is voor de aantrekkingskracht op een massa. Massa heeft twee belangrijke gevolgen: traagheid en zwaartekracht.
+Massa en traagheid.
+De traagheid van een massa wordt uitgedrukt in de eerste wet van Newton en beschrijft het verschijnsel dat een massa waarop geen krachten worden uitgeoefend met dezelfde snelheid zal blijven bewegen in een statisch referentiekader. Deze eigenschap wordt meestal uitgedrukt door de formule formula_2. De versnelling ("a") is recht evenredig met de uitgeoefende kracht ("F") en omgekeerd evenredig met de massa. Hoe meer massa, hoe groter de kracht die moet worden uitgeoefend om dezelfde versnelling te bewerkstelligen, of omgekeerd, hoe groter de massa, hoe kleiner de resulterende versnelling bij een gelijke uitgeoefende kracht.
+Massa en zwaartekracht.
+De uitgeoefende kracht is hier recht evenredig met het product van de twee massa's en omgekeerd evenredig aan het kwadraat van de afstand tussen de twee massa's.
+De algemene relativiteitstheorie van Albert Einstein stelt echter dat er geen sprake is van "krachten", maar van een kromming van de tijdruimte, waarbij massa bepaalt hoe de tijdruimte wordt gekromd en de kromming van de tijdruimte bepaalt hoe een massa beweegt.
+Massa en energie.
+De speciale relativiteitstheorie van Einstein stelt dat massa en energie twee verschijningsvormen van hetzelfde fenomeen zijn in zijn beroemde formule
+formula_4
+De betekenis wordt duidelijker als de eenheid van snelheid niet in meter per seconde wordt gegeven, maar in lichtseconde per seconde. Dat heeft tot gevolg dat "c"=1 en dus "c2"=1, zodat deze formule energie en massa aan elkaar gelijkstelt: "E=m". Dit resultaat was baanbrekend omdat massa en energie voordien als twee afzonderlijke grootheden werden beschouwd. Anders gezegd is "c2" hier een omrekeningsfactor die stelt dat een kleine hoeveelheid massa gelijkstaat aan een zeer grote hoeveelheid energie.
+Omdat bij kernreacties als kernsplitsing en kernfusie een (klein) deel van de massa wordt omgezet, lijken deze reacties netto energie op te leveren.
+Massa en gewicht.
+Een satelliet "valt" rond de Aarde
+De termen massa en gewicht worden in het dagelijks spraakgebruik door elkaar gehaald. Er is echter een wezenlijk verschil. Het gewicht van een voorwerp is onder 'aardse' omstandigheden de kracht die de aarde op een voorwerp uitoefent. Gewicht is afhankelijk van de plaats en de hoogte ten opzichte van het aardoppervlak, hoewel de massa onveranderd blijft. Een astronaut met een "massa" van 60kg zal op de aarde een zwaartekracht van (ongeveer) 600 N ondervinden, terwijl dat op de maan maar 70 N is. De massa van de astronaut is echter nog steeds 60 kg.
+Rustmassa en relativistische massa.
+met formula_9 de lorentzfactor.
+met formula_11 de snelheid.
+De energie kan worden onderverdeeld in de rustenergie
+De kracht die nodig is voor een bepaalde versnelling (in de zin van verhoging van de snelheid per tijdseenheid in het vaste inertiaalstelsel) is bij een hoge snelheid extra groot, mede door de speciale formule voor de combinatie van snelheden, waardoor het creëren van een bepaalde relatieve snelheid in het inertiaalstelsel waarin het deeltje op een eerder moment stilstond in mindere mate de snelheid in het vaste inertiaalstelsel verhoogt (dit scheelt bij een infinitesimale extra snelheid een factor formula_16).
+De formules laten zien dat voor een deeltje met rustmassa groter dan nul oneindig veel energie en oneindig veel impuls nodig is om dit tot de lichtsnelheid te versnellen, wat betekent dat dit onmogelijk is.

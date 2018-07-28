@@ -1,0 +1,11 @@
+Wetten van Newton.
+De wetten van Newton vormen samen met de wet van behoud van impuls en van impulsmoment de grondslag van de klassieke mechanica. De drie natuurwetten werden in 1687 door Isaac Newton geformuleerd in zijn boek de "Philosophiae Naturalis Principia Mathematica" (Latijn voor "wiskundige beginselen van de natuurfilosofie") en beschrijven onder meer de beweging en het evenwicht van krachten.
+De eerste wet van Newton: de traagheidswet.
+Als er geen resulterende kracht op een voorwerp inwerkt, kan er geen snelheidsverandering van dat voorwerp optreden. De snelheid zal dus onveranderd blijven: zowel grootte als richting van de snelheid blijven constant. Het voorwerp staat stil (snelheid 0) of beweegt zich met constante snelheid in een bepaalde richting.
+Als er geen (resulterende) kracht is (formula_2), is er ook geen (resulterende) versnelling (formula_3).
+De derde wet van Newton: actie ←→ reactie.
+Derde wet in theorie als animatie. In het echt zouden de balletjes uiteindelijk stoppen door luchtweerstand en energieverliezen in de ophanging.
+Deze wet stelt dat krachten nooit alleen voorkomen, maar steeds in paren.
+NB. Hoewel formula_16 en formula_17 tegengesteld gericht en even groot zijn, heffen zij elkaar niet op, omdat zij op verschillende voorwerpen werken. De krachten treden gelijktijdig op.
+Nieuwe inzichten betreffende de wetten van Newton.
+Erik Verlinde, hoogleraar in de theoretische fysica, heeft de wetten van Newton wiskundig afgeleid met de snaartheorie vanuit inzichten in de kwantummechanica. Dit zou kunnen betekenen, dat de wetten van Newton geen elementaire wetten zijn, maar een effect van dieper gelegen oorzaken.

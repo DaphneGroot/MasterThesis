@@ -1,0 +1,8 @@
+E-teken.
+Het ℮-teken (ook EEG-teken of geschat-symbool (Engels: "Estimated symbol") genoemd) is een teken dat lijkt op een kleine letter e en dat in Europa op voorverpakkingen te vinden is die zijn afgevuld in overeenstemming met de Europese Richtlijn 1976/211/EEG. In Nederland was deze Richtlijn geïmplementeerd in het Hoeveelheidsaanduidingenbesluit en is per 1 januari 2015 vervangen door het "Warenwetbesluit hoeveelheden voorverpakkingen".
+De reikwijdte van het Besluit beperkt zich tot voorverpakkingen met een vooraf bepaalde gedeclareerde hoeveelheid tussen 5 g of ml en 10 kg of l, die zijn afgevuld zonder dat de consument aanwezig was en waarvan de hoeveelheid product niet gewijzigd kan worden zonder de verpakking te openen of beschadigen.
+Het e-teken mag worden gebruikt bij toepassing van een door de Nederlandse Voedsel- en Warenautoriteit erkend bedrijfscontrolesysteem, nadat er metrologisch advies over is uitgebracht door de in het Besluit bedoelde metrologische instantie ().
+Het is verboden een teken dat op het e-teken lijkt of ermee verward kan worden op verpakkingen te gebruiken.
+Het symbool is te vinden in Unicode onder nummer 212E, in HTML onder code &amp;#8494;.
+Controle.
+Keuringsambtenaren van de controleren door middel van een feitelijk onderzoek middels steekproeven van waren uit partijen genomen op het in de bovenstaande tabel aangegeven goedkeur- onderscheidenlijk afkeurcriterium. Consumenten die afwijkingen constateren kunnen daarvan aangifte doen via de website van de of via hun gratis telefoonnummer 0800-0488 (de).

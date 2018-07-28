@@ -1,0 +1,8 @@
+Driehoek van Pascal.
+Animatie van de opbouw van een driehoek van Pascal. Elke coëfficiënt in de driehoek van Pascal is de som van de twee bovenliggende coëfficiënten
+De driehoek van Pascal is een rangschikking van de binomiaalcoëfficiënten formula_1 in rijen voor toenemende "n" beginnend met "n=0" en op elke rij de "n+1" binomiaalcoëfficiënten voor de mogelijke waarden van "k". In de driehoek komt de eigenschap tot uitdrukking dat elke binomiaalcoëfficiënt de som is van de twee bovenliggende. De driehoek is genoemd naar de Franse wiskundige Blaise Pascal (1623 - 1662), die de eerste was die ermee rekende.
+De getallen in de driehoek geven het aantal wegen aan vanaf de top naar de plaats van zo'n getal, waarmee ook de besproken eigenschap verklaard is. Omdat er steeds 2 keuzen zijn om de weg naar onder te vervolgen is de som van de getallen op een rij de overeenkomstige macht van 2.
+De driehoek is combinatorisch van aard en werd door Pascal toegepast in het onderstaande probleem in de kansrekening bij het dobbelen.
+en noemde het getal op het kruispunt van rij i en kolom j: formula_2, zodat
+Pascal ontwikkelde de naar hem genoemde getallendriehoek bij het oplossen van het zgn. "problème des partis", het probleem van de afgebroken partij (spel).
+Pascal noemde zijn ontdekking de "géometrie du hasard" (meetkunde van het toeval). De getallendriehoek als figuur was al eeuwen tevoren bekend bij onder meer enkele Chinese wiskundigen, maar de toepassing ervan in de kansrekening was Pascals ontdekking.

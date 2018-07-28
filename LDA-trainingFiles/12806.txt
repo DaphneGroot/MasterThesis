@@ -1,0 +1,8 @@
+Oneven getal.
+Een oneven of onpaar getal is een natuurlijk getal dat niet even is, dus niet deelbaar is door 2. Dit is de verzameling getallen 1, 3, 5, 7, 9, 11...
+Een verzameling bestaande uit een oneven aantal elementen is "niet" op te splitsen in twee (disjuncte) deelverzamelingen van gelijke grootte.
+Alle priemgetallen, met uitzondering van 2, zijn noodzakelijkerwijs oneven (want anders deelbaar door 2 en dus geen priemgetal).
+De verzameling van de oneven getallen heeft een neutraal element voor de vermenigvuldiging, namelijk het getal 1. De verzameling van de even getallen heeft geen neutraal element voor de vermenigvuldiging.
+De verzameling van de oneven getallen is niet gesloten voor de optelling; sterker nog: het is zelfs het geval dat de som van elk tweetal oneven getallen "niet" oneven is (maar namelijk even); bijvoorbeeld:3 + 9 = 12,1 + 5 = 6,159 + 673 = 832.
+Voor de som van een even en een oneven getal geldt dat het resultaat altijd oneven is; bijvoorbeeld:4 + 7 = 11,28 + 13 = 41,555 + 128 = 683.
+De verzameling van de oneven getallen is gesloten voor de vermenigvuldiging: het product van twee oneven getallen is ook zelf weer oneven; bijvoorbeeld:3 × 7 = 21,5 × 13 = 65,127 × 583 = 74041.

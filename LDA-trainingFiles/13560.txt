@@ -1,0 +1,3 @@
+Deflate.
+Deflate is een techniek om computerbestanden te verkleinen, zodat ze minder schijfruimte innemen. Deflate is een zogenaamd "lossless" (verliesloos) compressie-algoritme dat gebruikmaakt van het LZ77-algoritme en Huffmancodering. Deze codering is opgesteld door Phil Katz voor versie 2 van het programma PKZIP. De specificaties van het algoritme zijn vastgelegd in RFC 1951.
+In tegenstelling tot Lempel Ziv Welch-compressie is 'deflate' vrij van patenten. Hierdoor wordt het naast ZIP, waarvoor het oorspronkelijk bedacht is, ook gebruikt in de gzip-tool en in PNG-afbeeldingen.

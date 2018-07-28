@@ -1,0 +1,2 @@
+Kringloop.
+Een kringloop of "cyclus" is een proces waarbij een aantal stadia elkaar opvolgt, maar uiteindelijk de uitgangstoestand weer wordt bereikt. Schematisch kan een kringloop daarom worden weergegeven door de stadia in een cirkel te tekenen.

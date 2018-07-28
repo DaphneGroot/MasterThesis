@@ -1,0 +1,5 @@
+Falkbeertegengambiet.
+Het Falkbeertegengambiet is in het schaken een variant in de schaakopening koningsgambiet. Het is ingedeeld bij de open spelen.
+De beginzetten van het Falkbeertegengambiet zijn: 1.e4 e5 2.f4 d5; de ECO-code is C31.
+Het is geanalyseerd door de Weense schaker Ernst Falkbeer. Dit is een sterk tegenspel voor zwart in het Koningsgambiet, want het zet het witte centrum onder druk; en het verhindert wit bovendien de f-lijn te openen, waarmee de druk op veld f7 zou ontstaan (wat de opzet is van het koningsgambiet).
+Na 3.d4 gaat de variant over in het Hinrichsengambiet.

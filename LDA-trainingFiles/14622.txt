@@ -1,0 +1,6 @@
+Red Hat.
+Red Hat is een Amerikaanse onderneming die zich sinds 1993 bezighoudt met de distributie en het onderhoud van Linuxdistributies en -systemen. Het is de grootste en bekendste onderneming die zich vrijwel uitsluitend met opensourcesoftware bezighoudt. Het bedrijf heeft in 2010 meer dan 3000 werknemers en 22 locaties wereldwijd, waaronder zijn hoofdkantoor in Raleigh (North Carolina).
+Oprichter Marc Ewing kreeg in zijn jeugd de pet van Cornell's lacrosseteam (rood met witte strepen) van zijn grootvader. Later in "college" noemden mensen voor wie hij allerhande problemen zou oplossen hem "that guy with the red hat". Hij zou die pet verliezen en er tevergeefs naar zoeken. De handleiding van de bètaversie van Red Hat Linux bevat een verzoek naar de lezer om de bewuste rode pet terug te geven, mocht iemand hem vinden.
+In 2003 veranderde het bedrijf van positie en sindsdien specialiseert het zich in de commerciële verdeling van Linuxdistributies voor professionele toepassingen. De software blijft vanzelfsprekend open source, maar het bedrijfsmodel is gebaseerd op ondersteuning van de gebruiker.
+De niet-commerciële distributie werd Fedora genoemd en krijgt wel nog financiële en andere steun van het bedrijf.
+Op 10 april 2006 nam Red Hat voor 420 miljoen dollar JBoss over.

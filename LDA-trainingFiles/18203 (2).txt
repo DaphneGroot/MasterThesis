@@ -1,0 +1,4 @@
+Teller (breuk).
+De teller is het getal boven de streep van een breuk. In is 3 de teller of deeltal.
+De teller "telt" het aantal delen. Als iets in een aantal gelijke stukken is verdeeld, dan geeft de teller 1 aan dat het om een zo'n deel gaat, 2 om twee delen enz.
+Het getal onder de streep (de naam van het deel) heet de noemer of deler.

@@ -1,0 +1,5 @@
+Rechte klimming.
+Rechte klimming (afgekort RK of internationaal: RA; "Right Ascension") is een term in de astronomie, gebruikt om de positie van een hemelobject ten opzichte van de hemelequator (ook wel hemelevenaar genoemd) van de hemel aan te duiden. Voor de positiebepaling van zowel de rechte klimming als de declinatie gebruikt men hemelcoördinaten.
+De RK-coördinaat geeft de positie van het object ten oosten van het stijgende snijpunt van de ecliptica met de hemelevenaar aan. Dit punt wordt het lentepunt genoemd omdat de lente begint als de zon hier passeert, de zon gaat dan van het zuidelijk naar het noordelijk halfrond. De hemelequator ligt in hetzelfde vlak als de evenaar.
+RK-coördinaten worden aangeduid in uren, minuten en seconden, met opklimmende waarden naar het oosten toe, tot en met het punt van 23 uur 59 minuten en 59,9 seconden. Er lijkt geen standaardnotatie voor de rechte klimming te bestaan, zowel 12u34m56,7s, 12 u. 34 min. 56,7 sec. als 12:34:56,7 komen voor, met voor internationaal gebruik nog de letter h voor de uren.
+Een uur in rechte klimming komt overeen met 15 booggraden.

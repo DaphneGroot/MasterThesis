@@ -1,0 +1,4 @@
+Kennisbank Filosofie in Nederland.
+De Kennisbank Filosofie in Nederland (KFN) is een database waarin verschillende soorten gegevens met betrekking tot de Nederlandse filosofie kunnen worden geïntegreerd.
+De database bevat een 35.000 records tellende bibliografie van filosofische publicaties in Nederland en Vlaanderen, van de Middeleeuwen tot nu toe. Hiervan maakt het vierdelige gedrukte naslagwerk Poortmans Bibliografie der Nederlandse Filosofie (1949-1983) deel uit.
+Daarnaast is er een structuur ontworpen voor biografische gegevens, gegevens over filosofische verenigingen, archieven en bibliotheken, onderwijsinstellingen en cursussen. Tijdschriften kunnen over enige tijd op jaargang en aflevering gepresenteerd worden. Bezoekers kunnen ook zelf gegevens aanleveren via de hiertoe bestemde webformulieren.

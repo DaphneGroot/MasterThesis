@@ -1,0 +1,5 @@
+Draadloos netwerk.
+Een draadloos netwerk is een computernetwerk of telefoonnetwerk waarbij de aangesloten apparaten niet via fysieke koperen kabels of glasvezelkabels communiceren, maar via elektromagnetische straling (radiosignalen, licht).
+Hacking.
+Omdat draadloze netwerken geen fysieke verbinding nodig hebben, zijn deze netwerken inherent
+gevoelig voor cracking. Dit wordt in de regel ondervangen door encryptie zoals WEP en zijn opvolgers zoals WPA en WPA2.

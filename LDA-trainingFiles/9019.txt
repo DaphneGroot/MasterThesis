@@ -1,0 +1,6 @@
+Chandrasekhar-limiet.
+De Chandrasekhar-limiet is de massagrens die bepaalt of een instortende ster een witte dwerg wordt of een exotischer object zoals een zwart gat. De Chandrasekhar-limiet is vernoemd naar haar ontdekker Subramanyan Chandrasekhar.
+Sterren waarvan de nucleaire brandstof is "opgebrand" zullen ten gevolge van de zwaartekracht instorten. Wat het gevolg zal zijn van de instorting hangt af van de massa van de overblijvende kern. Als die kleiner is dan de Chandrasekhar-limiet zal de ster eindigen als witte dwerg, als de massa hoger is eindigt de ster als neutronenster, quarkster of zwart gat.
+De waarde van de Chandrasekhar-limiet "MCh" is afhankelijk van de proton-nucleon verhouding in de ster, en bedraagt ongeveer
+waarin "m"P de Planckmassa is, "m"p de massa van het proton en formula_2 de zonnemassa is.
+waarin "z = Z/A" de verhouding voorstelt van het aantal protonen "Z" tot het aantal nucleonen (protonen + neutronen) "A" in de ster. Algemeen geldt volgens de oerknal-nucleosynthese Z = 7, A = 8, dus z = 7/8.

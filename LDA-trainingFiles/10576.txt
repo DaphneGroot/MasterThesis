@@ -1,0 +1,26 @@
+Insertion sort.
+Werking.
+Het begint door de eerste twee elementen uit de set te sorteren. Als deze op hun plaats staan, voegen we het derde element op de juiste plaats toe. Dit doen we totdat we alle elementen op hun plaats hebben gezet.
+Dit is eigenlijk de manier waarop een speler zijn kaarten schikt bij een kaartspel. Vandaar dat deze routine ook de "Cardsort" genoemd wordt.
+De tijdscomplexiteit is O(n²) in de meeste gevallen en in het beste geval, als de waarden al bijna gesorteerd zijn, is de tijdscomplexiteit O(n).
+In C++.
+Een voorbeeld in C++ van insertion sort.
+void insertion_sort(vector<T> &v)
+for (auto i = start; i != end; ++i)
+std::rotate(std::upper_bound(start, i, *i), i, std::next(i));
+In C#.
+Een voorbeeld in Csharp van insertion sort.
+1) Houd je de inhoud bij van dit getal(1)
+2) zolang dat er een getal links(2) van het te sorteren getal(1) staat, controleer je als deze(1) kleiner is
+3) indien Ja, dan verplaats je dit getal(2) naar de plaats waar je te sorteren getal staat (1)
+4) terug stap 2 tot je niet meer kan
+5) waar de index beland is, plaats je het te sorteren getal die op dit moment gesorteerd is.
+In Python.
+for i in range(len(rij)): #Overloop kaart per kaart het ongesorteerd gedeelte
+waarde = rij[i] #Neem kaart i in de rechterhand
+for j in range(0, i): #Vergelijk de kaart met de kaarten in het gesorteerde deel
+if waarde<rij[j]: #Heb je de positie van je kaart gevonden,
+waarde, rij[j] = rij[j], waarde #Verwissel die en loop verder met nieuwe kaart
+rij[i] = waarde #Kaart in rechterhand na overlopen hoort op positie i
+In JavaScript.
+Een voorbeeld in JavaScript van insertion sort.

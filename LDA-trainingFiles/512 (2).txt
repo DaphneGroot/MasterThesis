@@ -1,0 +1,53 @@
+Internationaal Standaard Boeknummer.
+Het ISBN is een unieke identificatiecode die aan vrijwel iedere boekuitgave wordt toegekend, met als doel de transacties in de bedrijfskolom te vergemakkelijken en eenduidig te maken. De afkorting staat voor International Standard Book Number, en die term is in het Nederlands met overeenkomstige spelling overgenomen als Internationaal Standaard Boek Nummer of Internationaal Standaard Boeknummer. In het spraakgebruik wordt vaak de formulering "ISBN nummer" gebezigd, hoewel de logica "ISB-nummer" zou voorschrijven.
+Kenmerken.
+Behalve uitgaven in boekvorm krijgen ook enkele andere informatieproducten (educatieve software, elektronische informatiedragers) een ISBN.
+Opbouw.
+Het ISBN bestaat uit dertien cijfers, opgebouwd uit vijf opeenvolgende groepen.
+Gelegenheidsuitgaven (eenmalige uitgaven van organisaties en particulieren) in het Nederlandse taalgebied kunnen na prefix en registratiegroep een nummer van zeven cijfers krijgen, beginnend met een 9. In dat geval vallen uitgeversaanduiding en titelaanduiding samen.
+Voorbeeld.
+In bibliotheekcatalogi wordt altijd de schrijfwijze met door streepjes gescheiden groepen gehanteerd.
+Handelseenheid en ISBN.
+Het ISBN duidt een handelseenheid oftewel een "uitgave" aan. De Engelse term daarvoor is "format", maar dit moet in dit geval "niet" als "formaat" vertaald worden. Doordat het ISBN verwijst naar een uitgave, heeft het slechts een zeer zijdelingse relatie met een bepaald werk van een bepaalde auteur. Een relatie met het begrip "titel" is al helemaal niet te bepalen, aangezien het woord "titel" in het boekenvak uiteenlopende betekenissen heeft; er zou verwarring ontstaan. Het duidelijkst is een en ander wellicht samen te vatten met de formulering: "Het ISBN geeft een fysiek product aan". Die producten kunnen op talloze punten van elkaar verschillen, en dus elk een eigen ISBN hebben. Een aantal criteria en voorbeelden volgt hieronder. Oudere, tiencijferige ISBN's zijn daarbij veelal omgerekend naar de nieuwe, dertiencijferige vorm.
+Bindvorm.
+Een gebonden uitgave van een werk krijgt een ander ISBN dan de ingenaaide, maar verder identieke versie.
+Editie.
+Indien van een werk een nieuwe editie verschijnt, die veelbetekenend afwijkt van de vorige, verandert het ISBN. Kleinigheden als drukfouten tellen niet als significante afwijking.
+Facsimileherdruk.
+Een uitgever neemt soms een uitgave van een collega over, en het staand zetsel (meestal platen) wordt gebruikt voor een geheel identieke herdruk, maar dan onder andere uitgeversnaam. Zo'n "facsimileherdruk" krijgt een ander ISBN.
+Copublicatie.
+Een copublicatie is één titel in één format, waaraan echter twee of meer uitgevers samenwerken. Aangezien meestal een hunner voor de distributie van het werk zorgdraagt, is het voldoende om aan de uitgave slechts één ISBN toe te kennen: het gaat immers om bedrijfsdoeleinden. Maar toekenning van meerdere nummers is wel toegestaan, en zo kan het gebruik verschillen.
+Coproductie.
+Een coproductie is een titel die door verschillende uitgevers in verschillende talen (nagenoeg) tegelijkertijd wordt uitgebracht. Dit is lonend bij rijk geïllustreerde werken; reisgidsen, atlassen, andere plaatwerken. De kleurendruk vormt immers verreweg de grootste kostenpost; die kosten worden nu internationaal gedeeld, terwijl de relatief geringe tekst goedkoop kan worden vertaald. Bij zulke coproducties hanteert iedere uitgever zijn eigen ISBN. De registratiegroep is immers al per land of taalgebied anders, de uitgeversaanduiding is dat uiteraard ook, evenals de titelaanduiding.
+Paralleluitgave.
+Traditioneel werd in Engelstalige gebieden een boek, tenminste als het om literaire fictie ging, tweemaal uitgegeven. Britse en Amerikaanse uitgevers hadden de wereld als afzetgebied onderling verdeeld, en die verdeling kwam erop neer dat de Britten als hun markt zowel het Verenigd Koninkrijk als het Gemenebest hadden; Amerikaanse uitgevers bedienden de Verenigde Staten en de Filipijnen; de rest van de wereld werd door beide partijen verzorgd. Dientengevolge verscheen er van een boek veelal een uitgave bij een Britse uitgever, maar ook een bij een Amerikaanse. Beide hadden een verschillend ISBN. Als dan ook nog (in de Engelstalige situatie een jaar later), de paperbackuitgave de gebonden versie opvolgde, waren er dus vier uitgaven in omloop, ieder met een eigen ISBN, maar met dezelfde tekst. Vervolgens konden er nog de "mass-market paperbacks" volgen, de versie die wij aanduiden met "pocket", en opnieuw waren er andere ISBN's nodig.
+Deze situatie is de laatste jaren wat gecompliceerder geworden. In de eerste plaats hebben fusies en overnamen ervoor gezorgd dat uitgeefhuizen aan beide zijden van de Atlantische Oceaan actief werden; in plaats van twee ISBN's was er dan één voldoende. In de tweede plaats heeft de opkomst van de "paperback original" ervoor gezorgd dat bepaalde boeken niet meer in gebonden vorm verschenen. Op vele andere uitgaven is de oude situatie echter nog steeds van toepassing.
+Licentie-uitgave.
+Van een populaire titel verschijnt soms bij een andere uitgever een goedkope herdruk. Zo'n uitgave is eenmalig, vaak in serie, en het betekent niet dat de oorspronkelijke uitgeverij haar exploitatierechten op de titel afstaat. Zij verleent slechts toestemming, "licentie", tot een incidentele herdruk. Daarbij wordt soms de oorspronkelijke uitgeversaanduiding in het ISBN gehandhaafd, maar omdat het om een product in andere fysieke vorm gaat, zal de productaanduiding wel verschillen. Soms verandert ook de uitgeversaanduiding.
+Vertaling.
+Aangezien vertalingen in andere taalgebieden, in andere landen en in andere versies verschijnen dan het origineel, krijgen zij alle andere ISBN's. Ook binnen één taalgebied kunnen verschillende vertalingen in omloop zijn, met verschillende ISBN's.
+Seriewerk.
+Sommige werken verschijnen in een gesloten serie; dat wil zeggen dat het aantal delen beperkt is.
+Die delen krijgen doorgaans elk een eigen ISBN, maar als ze niet apart verhandelbaar zijn, is dat niet nodig. Ook als ze dat wel zijn (zoals bij encyclopedieën, waarvan men het abonnement kan beëindigen), is er toch vaak een ISBN dat uitsluitend de gehele serie aanduidt.
+Bij een open serie, die in principe geen laatste deel kent, is het ISBN niet van toepassing; zulke werken krijgen een ISSN.
+Bundeling.
+Een titel kan aanvankelijk apart verschijnen, maar later worden heruitgegeven gebundeld met ander werk. De verandering is dan uiteraard groot; er komt dan ook een nieuw ISBN.
+Titelwijziging.
+Indien een uitgever besluit de titel van een werk te wijzigen, hoort daar een nieuw ISBN bij.
+Distributeur.
+De distributeur van boeken is doorgaans degene die boeken importeert; althans in het Nederlandstalige gebied wordt de distributie van Nederlandstalig werk immers goeddeels verzorgd door het Centraal Boekhuis. Een distributeur-importeur heeft doorgaans geen eigen uitgeversaanduiding nodig; tenzij hij boeken invoert uit gebieden waar geen ISBN in gebruik is.
+On demand publishing.
+Bepaalde werken worden geleverd op bestelling van een afnemer, en in uiterst geringe oplagen, soms slechts één exemplaar. Deze door de afnemer bepaalde uitgave krijgt niet iedere keer een apart ISBN. Doorgaans zal een originele uitgave er al wel een hebben.
+Administratie.
+Beleid en beheer van het ISBN vindt op drie niveaus plaats.
+Overigens is er bij een uitgave geen wettelijke verplichting een ISBN aan te vragen; bij 90–95% van de titels in het Nederlandse taalgebied gebeurt dit echter wel.
+Geschiedenis van het (I)SBN.
+In 1966 werd in het Verenigd Koninkrijk een "Standard Book Number" (SBN) ingevoerd door de boekhandelsketen W.H. Smith. Het kende negen cijfers, verdeeld in de groepen uitgeversaanduiding, titelaanduiding en controlecijfer. In 1970 werd het systeem internationaal overgenomen als "International Standard Book Number", al is in het Verenigd Koninkrijk het negencijferig systeem nog jarenlang gebruikt naast het nieuwe. Het ISBN was tiencijferig gemaakt: er werd een groepscode voor de drie bestaande groepen geplaatst, en voor Engelssprekende landen was die groepscode 0 of 1. Andere landen sloten zich aan. Als hun registratiegroep uit meer dan één cijfer bestond, ging dat ten koste van de erop volgende cijfers; uitgevers- en/of titelaanduiding werden dus korter. Maar aangezien geen enkel taalgebied zoveel uitgaven kende als het Engelse, was dit geen probleem.
+Conversie van ISBN-10 naar ISBN-13; de -2- geeft de Franstalige registratiegroep aan
+Dertig jaar later was daarin verandering gekomen. De tiencijferige ISBN's raakten op en mede om de aansluiting te verstevigen met de internationale EAN-standaard, werd het ISBN uitgebreid tot dertien cijfers. ISBN-10 werd ISBN-13. Die operatie ging op 1 januari 2007 in de praktijk van start, en op 1 januari 2008 moesten alle codes zijn "omgenummerd". Voor deze exercitie bestaat overigens een "converter", waarmee ook het controlegetal kan worden vastgesteld. Voorlopig is aan bestaande nummers alleen het prefix 978 toegevoegd; hun aantal is daarmee gelijk gebleven. Doordat ook het prefix 979 voor de toekomst is gereserveerd, is op termijn het beschikbare aantal ISBN's (vrijwel) verdubbeld (de combinatie wordt gebruikt door het ISMN).
+Openstelling voor publiek.
+In Nederland is de ISBN bank lang besloten geweest. Alleen de boekhandels die waren aangesloten op het Centraal Boekhuis hadden toegang tot de registraties. In 2007 opende de Stichting Auteursdomein een petitieregister en startte zij een procedure voor de Mededingingsautoriteit. In december 2008 heeft het Centraal Boekhuis de ISBN bank opengesteld voor het publiek.
+Berekening van het controlecijfer.
+Het controlecijfer wordt als volgt berekend. Uitgegaan wordt van het ISBN dat aan een uitgave is toegekend, maar dat nog geen controlecijfer heeft. Het heeft dus nog slechts twaalf cijfers.
+Een voordeel van deze berekeningswijze ten opzichte van een eenvoudiger controlecijfer is dat het verwisselen van twee cijfers – een abuis dat makkelijk optreedt – tot een ander controlecijfer leidt, hetgeen de ongeldigheid signaleert.
+Bij de oude, tiencijferige ISB-nummers was de berekeningswijze geheel anders, en ontstond er ook een ander controlecijfer. Van de 9 bekende cijfers van het ISBN werd het eerste met 10 vermenigvuldigd, het tweede met 9, het derde met 8 enzovoorts. Bij de som van de producten werd dan een getal opgeteld, zodanig dat een veelvoud van 11 ontstond. Dit toegevoegde getal werd als controlecijfer genomen; het kon uiteraard 0 zijn, namelijk als de bedoelde productsom reeds een veelvoud van 11 "was". Als het controlecijfer 10 was, werd in plaats van een cijfer een X op de laatste positie gezet.

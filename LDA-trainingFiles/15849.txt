@@ -1,0 +1,30 @@
+Tritium.
+Tritium (symbool T of 3H) is een isotoop van waterstof met in de atoomkern een proton en twee neutronen, in plaats van alleen maar een proton (bij protium). De atoommassa bedraagt 3,016 u. Tritium is bij standaardtemperatuur en -druk een gas, net als "gewone" waterstof, protium.
+Tritium is radioactief (vervalt middels bètaverval naar helium-3) met een halveringstijd van ongeveer 12,26 jaar. De laag-energetische elektronen (bètastralen) van tritium dringen niet door de menselijke huid heen. Het is alleen gevaarlijk als het in grote hoeveelheden wordt opgenomen. De lage energie van de straling maakt het ook moeilijk deze te detecteren.
+Verval.
+De vervalenergie bedraagt 18,6 keV. Het elektron heeft een gemiddelde kinetische energie van 5,7 keV. Het haast niet detecteerbare elektron-antineutrino gaat ervandoor met de resterende energie. De geringe energie van de bètastraling wordt toegepast met gelabelde verbindingen bij "liquid scintillation counting".
+Productie.
+Tritium komt in de natuur voor door de interactie van energierijke neutronen in kosmische straling met stikstof in de atmosfeer.
+14N + n → 12C + 3H
+Het ontstaat in kernreactoren met zwaar water zoals de CANDU-reactor: 2,5 kg/a in "Ontario Power Generation".
+Het ontstaat ook in kernreactoren als 6Li-kernen aan een neutronenbron worden blootgesteld. Dit gebeurt bijvoorbeeld als lithium aan het koelwater wordt toegevoegd om de pH te regelen. Voor productie van tritium voor gebruik in waterstofbommen worden staven met lithium in een kernreactor ingebracht, bijvoorbeeld in Savannah River Site.
+6Li + n → 4He + 3H
+3He + n → 1H + 3H
+Ook bij de kernramp van Fukushima is 2,45 g tritium vrijgekomen.
+Chemische eigenschappen.
+De chemische eigenschappen van tritium zijn nagenoeg gelijk aan die van waterstof. Door de, ten opzichte van waterstof, driemaal zo grote atoommassa zijn de fysische eigenschappen van veel tritiumverbindingen echter meetbaar verschillend.
+Toepassingen.
+Het wordt wel gebruikt in waterstofbommen en in experimentele installaties voor kernfusie omdat het relatief makkelijk kernfusie ondergaat. Het vindt ook toepassing in lichtgevende stoffen (bv. horlogewijzers en vluchtwegsignalering), waarbij natuurlijk de stralingshygiëne bepaalde eisen aan de verwerkingstechniek stelt.
+Toepassingen zijn verder veelal in militair materiaal. Dit vooral als lichtbron voor het richten van wapens, tactical devices, in militaire horloges (zoals Traser en Luminox) en tegenwoordig ook in sleutelhangers, lichtgevende buisjes (bètalights) en zaklampjes zonder batterij.
+Meting van tritium wordt ook gebruikt om de ouderdom van magma, de ouderdom van wijn en de waterinhoud van het menselijk lichaam te meten.
+Kernfusie.
+Deze reactie is de grote kandidaat voor energieopwekking in fusiereactoren.
+Geschiedenis.
+Ernest Rutherford maakte samen met Mark Oliphant en Paul Harteck in 1934 voor het eerst tritium door twee deuterium-kernen op elkaar te doen botsen.
+2H + 2H → 3H + 1H
+Tegelijk vormde de concurrerende reactie helium-3
+2H + 2H → 3He + n
+Rutherford kon het tritium niet volledig scheiden van het deuterium. Luis Alvarez slaagde daar in 1937 wel in door gebruik van een cyclotron. Alvarez leidde ook af dat tritium radioactief moest zijn en 3He niet, wat juist bleek.
+Willard Libby ontdekte dat tritium kon worden gebruikt om de ouderdom van waterlagen vast te stellen, wat bijvoorbeeld toepassingen heeft bij wijnjaren en grondwatermonsters. De techniek is analoog aan koolstofdatering. Atmosferische kernproeven veroorzaakten in de jaren '60 van de 20e eeuw een duidelijke piek in de hoeveelheid tritium in de atmosfeer.
+Wettelijk toegestane activiteit in drinkwater.
+De wettelijke regels voor toegestane concentraties van tritium in drinkwater wisselen.

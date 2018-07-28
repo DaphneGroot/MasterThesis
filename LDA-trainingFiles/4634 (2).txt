@@ -1,0 +1,25 @@
+Microsoft Word.
+Voorbeelden van met WordArt gemaakte teksten
+Microsoft Word, of meestal alleen Word, is een van de meest gebruikte tekstverwerkers ter wereld. Het is gemaakt door Microsoft.
+Microsoft Word werkt op Windows en macOS. Met behulp van Wine werken versies pre-2013 ook op Linux.
+Er zijn verschillende commerciële, gratis en vrije alternatieven beschikbaar, zoals LibreOffice, OpenOffice.org en AbiWord. Tot in het begin van de jaren jaren 90 was WordPerfect de meest gebruikte tekstverwerker, maar toen voor de pc het DOS-besturingssysteem door Windows werd vervangen, werd Word de algemeen gebruikte tekstverwerker. Word is in veel talen beschikbaar.
+Geschiedenis.
+Versie 1.0 van Word kwam uit in 1991.
+Tot aan versie 2002 werd het programma alleen Word genoemd. In 2003 bracht Microsoft het pakket Microsoft Office op de markt. Om duidelijk te maken dat Word het onderdeel is van een suite, die ook op andere besturingssystemen kan worden gebruikt, wordt het sindsdien Microsoft Word genoemd.
+In 2014 werd de broncode van versie 1.1a vrijgegeven.
+Kenmerken.
+Word biedt de gebruiker uitgebreide ondersteuning bij het maken van bijvoorbeeld brieven en rapporten. Ingebouwd in Word zijn een spellingcontrole, tekstopmaakfaciliteiten zoals tabellen, WordArt en vele andere opties. Het is mogelijk documenten van andere Office-pakketten in te sluiten en het kan macros gebruiken: Visual Basic for Applications VBA.
+Veel bewerkingen kunnen door sneltoetsen in Word worden opgegeven. Dit zijn toetsencombinaties of functietoetsen die snel toegang geven tot functies die anders door een menu moeten worden opgegeven.
+Microsoft Word is zoals veel andere moderne Windows-applicaties relatief makkelijk te automatiseren middels het Component Object Model COM. Door een klein computerprogramma te schrijven in bijvoorbeeld Object Pascal of Visual Basic, is het mogelijk om bijvoorbeeld een brief te laten typen door MS Word vanuit die applicatie met gebruikmaking van alle opmaakfaciliteiten van MS Word. Vereiste is wel, dat de juiste versie van het MS Office-pakket moet zijn geïnstalleerd.
+Bestandsformaten.
+Omdat Word zoveel wordt gebruikt, proberen de andere producenten van tekstverwerkers om in elk geval documenten te kunnen lezen die in Word zijn gemaakt, en vaak probeert men ook om documenten in het Word-formaat op te kunnen slaan. Het formaat is echter tot en met versie 2003 niet goed gedocumenteerd. In versie 2007 wordt gebruikgemaakt van een nieuw bestandsformaat, dat in tegenstelling tot eerdere versies wel duidelijk is omschreven.
+Om tekst aan te leveren bij een bedrijf, zoals bij een krant, wordt soms gevraagd om dat als Word-document aan te leveren. Het programma WordPad, dat vanaf Windows 95 al bij Windows zit, kan omgaan met tekst zonder stuurcommando's erin, met Word 6.0 en RTF-bestanden. Een RTF-bestand is met Word te openen en kan tekst, afbeeldingen en beperkte opmaak bevatten. Standaard worden bestanden in Word als.doc opgeslagen en in nieuwere versies van Word als.docx.
+WordArt.
+WordArt is een opmaaksysteem in Microsoft Office Word. Het systeem laat gebruikers korte teksten in een verzameling vooraf bepaalde stijlen opmaken. De complexiteit van de in WordArt beschikbare lettertypen is dermate groot dat een duidelijk verschil bestaat tussen WordArt en reguliere lettertypen in Word. Het aantal mogelijke variaties is alleen beperkt.
+WordArt is ook te gebruiken in onder meer PowerPoint en Excel.
+Technisch tekenen in Microsoft Word.
+Hoewel Microsoft Word niet een echt grafisch programma is, biedt het voor de niet-professionele tekenaar die een technische tekening wil maken voldoende mogelijkheden. Word als tekstverwerker wordt door heel veel mensen gebruikt, maar de tekenmogelijkheden blijven meestal ongebruikt. Toch zijn die mogelijkheden er, en het is gratis als men al MS Word heeft. Als voorbeeld de bijgaande schets van een motorkeerkoppeling, in MS Word gemaakt. Combinaties van tekeningen, teksten en afbeeldingen zijn zeer goed mogelijk. Het programma is zeer geschikt voor het samenstellen van geïllustreerde cursusboeken of voor het illustreren van tijdschriftartikelen.
+Formule-editor.
+Het is met MathType mogelijk in een Word-bestand wiskundige formules in te voeren. MathType is een betaald computerprogramma, dat apart moet worden gedownload.
+Easter egg.
+Microsoft Word heeft ook een easter egg. Door "=rand()" in te voeren en daarna enter te geven, komt er een tekst over tekstopmaak te staan. Door middel van deze functie kan Word een proeftekst genereren. Door twee getallen tussen de haakjes te plaatsen, worden een "x" aantal alinea's met een "y" aantal zinnen gegenereerd, bijvoorbeeld: "=rand(10,5)". Hetzelfde kan gedaan worden voor een willekeurig gegenereerde lorem-ipsumtekst, door middel van bijvoorbeeld "=lorem(7,12)".

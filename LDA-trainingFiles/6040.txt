@@ -1,0 +1,8 @@
+Sed (software).
+Sed is een acroniem van Stream EDitor. Het is een computerprogramma dat behoort tot de standaardset van applicaties onder Unix en Linux (en varianten). Ook voor andere besturingssystemen bestaan er ports van dit programma.
+Sed is niet bedoeld als interactieve editor -hoewel het, met enige moeite, wel als zodanig zou kunnen worden gebruikt- maar wordt meestal, op de unix-manier, gebruikt in pipe-structuren.
+In het geval van sed betekent dit: lees uitvoer van een ander commando of van een bestand, bewerk dit volgens een aantal regels (het sed-script) en stuur de uitvoer naar een ander programma of naar een bestand.
+sed maakt gebruik van een simpele en krachtige commando-set en kent een eenvoudige branch- en variabelen-structuur. Desondanks is de taal Turing-compleet.
+Sed maakt gebruik van zeer uitgebreide en krachtige reguliere expressies.
+Commando's.
+"addr" is een regelnummer of een reguliere expressie

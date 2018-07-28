@@ -1,0 +1,46 @@
+Synchrotronstraling.
+Synchrotronstraling is de straling die vrijkomt in het middenvlak ("equatoriale" vlak) van een synchrotron.
+De fotonen worden uitgestraald in de bewegingsrichting van de elementaire deeltjes (meestal elektronen) in het synchrotron, en komen langs de raaklijn ("tangentieel") aan de ring naar buiten. Volgens de wetten van Maxwell moeten elektrisch geladen deeltjes die afgebogen worden, elektromagnetische golven uitzenden.
+Aanvankelijk werd synchrotronstraling gezien als een uitsluitend parasitair effect, dat het moeilijk maakt om deeltjes tot bij de lichtsnelheid te versnellen omdat energie verloren gaat als straling. Later werden speciaal synchrotrons gebouwd om dit effect te gebruiken als bron van deze felle straling met een breed spectrum en die verder gepulst en gepolariseerd is. Een toepassing is de structuurbepaling van kristallen - bijvoorbeeld van eiwitten - met röntgenstraling.
+Synchrotronstraling treedt behalve in synchrotrons ook op in sterke magneetvelden in het heelal, bijvoorbeeld bij de zon, de Krabnevel, gamma-ray bursts en in de stralingsgordel van Jupiter, waar het radiostraling produceert.
+Synchrotronstraling is ook het principe van de vrije-elektronenlaser ("free electron laser").
+Voordelen.
+Oorspronkelijk bouwde men synchrotrons om deeltjes te versnellen. De synchrotronstraling zag men als een lastig (en gevaarlijk) bijproduct, dat tot energieverlies leidde. Maar de afgelopen decennia is deze straling een belangrijke reden geworden om een synchrotron te bouwen en draaiende te houden.
+Vooral in het vacuüm ultraviolet en voor röntgenstralen waarvoor geen andere sterke bronnen bestaan is de synchrotronstraling zeer gewild.
+Men noemt deze straling "polychromatisch" (veelkleurig) omdat zij vele verschillende golflengten bevat. Met behulp van een monochromator kan een golflengte worden uitgekozen voor een experiment.
+Het Franse synchrotron Soleil met twee versnellers voor de injectie van elektronen aan de binnenzijde en bundelpijpen aan de buitenzijde. Negen magneten en acht bundelpijpen en -stations in de ring zijn aangegeven. Soleil ligt bij Gif-sur-Yvette ten zuidwesten van Parijs en produceert elektronen met een energie van 2,75 GeV. Klik om te vergroten.
+Geschiedenis.
+Synchrotronstraling werd in 1944 voorspeld door de Russen Dmitri Iwanenko en Isaak Pomeranchuk en, onafhankelijk van hen, de Amerikaan Julian Schwinger. Ze werd voor het eerst waargenomen in 1946 bij het 70 MeV-elektronensynchrotron van het research-centrum van General Electric in Schenectady (NY) en beschreven in 1947 door de Amerikanen Frank Elder, Anatole Gurewitsch, Robert Langmuir en Herb Pollock.
+Berekening.
+Het stralingsspectrum van synchrotronstraling heeft een middenpunt bij de zogenaamde kritische golflengte
+De helft van het vermogen zit in straling met kleinere golflengte dan deze kritische golflengte, de andere helft er dus boven.
+Het vermogen P dat in synchrotronstraling van elektronen of protonen opgaat is
+Voor de kromtestraal R geldt bij benadering
+Röntgentoepassingen.
+De synchrotronstraling van een derde generatie synchrotron zoals het ESRF in Grenoble is circa 10.000 keer intenser dan de beste röntgenbuis. Bovendien is de straal bijzonder parallel. Met een goede monochromator is het mogelijk de gewenste golflengte van de röntgenstraling vrijelijk te kiezen.
+Diffractie.
+Een 2D poederpatroon van een kristal ontstaan door diffractie van röntgenstraling uit een synchrotron
+Een synchrotron beam line leent zich heel goed voor diffractie experimenten aan moeilijke monsters, zoals grote eiwitten en zeer kleine eenkristallen waar de hoge intensiteit het mogelijk maakt om veel meer reflecties te meten, en poeders waar de parallelle bundel de resolutie sterk verbetert tegenover andere röntgenbronnen.
+De verschuiving van het diffractie patroon van zwavel bij opwarmen
+Expansie en compressie.
+Door de hoge intensiteit van de synchrotronstraling is het mogelijk patronen in korte tijd op te nemen. (In extreme gevallen is het zelfs mogelijk 30 patronen per seconde op te nemen.) Daardoor wordt het mogelijk "veranderingen" in het patroon te bestuderen, bijvoorbeeld wanneer het poeder verhit wordt of onder druk gezet. De uitzetting van het kristalrooster met de temperatuur zorgt voor verschuivingen in de diffractiepieken. De uitzettingscoëfficiënt(en) (of de compressibiliteit(en)) zijn daardoor vrij eenvoudig te meten. De figuur laat zien, hoe bij verwarming de diffractiepiek naar kleinere hoeken verschuift. Zoals verwacht zet het kristal uit.
+Kinetiek.
+Een andere toepassing is bestudering van de kinetiek van faseovergangen.
+Anomale en resonantie effecten.
+Omdat men de golflengte van de gebruikte synchrotronstraling kan "kiezen" is het vrij eenvoudig gebruik te maken van de anomale en resonantie-effecten die optreden wanneer de golflengte dicht bij een absorptiekant van een bepaald element ligt. Normaal is de strooiing vrijwel volledig "elastisch" maar vlak bij een absorptiekant treden fase-verschillen op tussen de inkomende en de gestrooide straling. Dit betekent dat alle atomen van het gekozen element nu anders tot de totale strooiing bijdragen. Ze lichten als het ware een beetje op. Vergelijking met een andere golflengte maakt het dan mogelijk de structuur beter te bestuderen.
+Met deze techniek kan men zelfs zien of het onderzochte atoom wel precies bolvormig is. Als de buitenste elektronenschil ervan niet helemaal gevuld is en bijvoorbeeld een magnetisch moment draagt komt dat in het strooiingspatroon tot uitdrukking. Voordat deze techniek ontwikkeld werd, kon de magnetische structuur alleen met neutronendiffractie bestudeerd worden.
+Inelastische strooiing.
+Een klein deel van de straling wordt inelastisch verstrooid. In tegenstelling tot de elastische strooiing waartoe men zich meestal beperkt "verandert" daarbij de golflengte een klein beetje. Het is moeilijk om de geringe fotonen met deze veranderde golflengte uit de grote massa onveranderde fotonen te filteren. Maar omdat synchrotrons zo ontzettend veel intensiteit produceren is zelfs dit mogelijk. De informatie die men zo verkrijgt heeft betrekking op de trillingswijzen van het kristal (de fononen). Voor de ontwikkeling van deze techniek kon dit soort onderzoek alleen met neutronen gedaan worden.
+Lijst van synchrotronlichtbronnen.
+Synchrotronstraling wordt voor onderzoek geproduceerd in tientallen speciale versnellers verspreid over de gehele wereld.
+Synchrotronstraling in het heelal.
+Hoogenergetische straal ("jet") van het elliptische sterrenstelsel M87. Foto van de Hubble Space Telescope. Het blauwe licht rechtsonder is synchrotronstraling.
+Synchrotronstraling wordt ook opgewekt door sterrenkundige objecten, waar relativistische elektronen in spiralen bewegen en daardoor van snelheid veranderen vanwege magnetische velden.
+Geschiedenis.
+Synchrotronstraling werd in de sterrenkunde het eerst gevonden in 1956 door de Brit Geoffrey Burbidge in de "jet" die uit het elliptische melkwegstelsel M87 komt. Deze straling in het heelal was voorspeld door Iosif Shklovskii in 1953, en nog eerder door Hannes Alfvén en Nicolai Herlofson in 1950.
+Mogelijk zijn zeer zware zwarte gaten verantwoordelijk door de synchrotronstraling, omdat zij zowel ionen in een magneetveld kunnen versnellen door hun sterke zwaartekracht als kunnen zorgen voor het relativistische straaleffect ("relativistic beaming").
+Pulsar wind nevels.
+De Krabnevel dankt zijn blauwe gloed aan synchrotronstraling.
+Pulsar wind nevels (plerions), met de Krabnevel en bijbehorende pulsar als voorbeeld, produceren ook synchrotronstraling.
+Gepulste gammastraling werd onlangs waargenomen afkomstig van de Krabpulsar met energieën tot boven 25 GeV, waarschijnlijk dankzij synchrotronstraling van elektronen die gevangenzitten in het sterke magnetische veld rond de pulsar.
+De polarisatie in de zichtbare en andere elektromagnetische straling zoals de gammastraling uit de Krabnevel bij energieën van 0,1 tot 1,0 MeV maakt aannemelijk dat het om synchrotronstraling gaat.

@@ -1,0 +1,8 @@
+Lijst van HTML-kleuren.
+Hieronder staat een lijst van kleuren. De kleuren zijn in een aantal kleurgroepen ingedeeld, enkele zijn bij twee kleurgroepen ingedeeld.
+Voor representatie op een computerscherm worden de kleuren uit rood, groen en blauw samengesteld. De drie waarden kunnen lopen van 0 tot 255, of hexadecimaal van 00 tot FF. Een volledige kleur kan worden aangeduid als bijvoorbeeld [124,252,0], wat overeenkomt met hexadecimaal 7CFC00 (grasgroen). Deze aanduidingen treft men aan in tekenprogramma's. Een moderne videokaart kan op deze wijze 16.777.216 verschillende kleuren weergeven.
+HTML.
+Deze namen zijn in onderstaande tabel vet weergegeven. Voor alle andere kleuren dient bij voorkeur de hexadecimale waarde gebruikt te worden.
+Overzicht van kleuren die een HTML-naam hebben.
+In de tabel worden de kleuren getoond in de kolommen HTML-naam en daarnaast RGB. Deze kleuren zouden aan elkaar gelijk moeten zijn. Zijn ze ongelijk, dan wordt de HTML-naam door uw browser anders geïnterpreteerd.
+Enkele kleuren zijn meerdere keren vermeld. Dat is gedaan omdat niet duidelijk is in welke kleurgroep ze moeten worden ingedeeld.

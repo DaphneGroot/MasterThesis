@@ -1,0 +1,44 @@
+Visual Basic.
+Visual Basic (VB) is de naam van een reeks programmeeromgevingen, later programmeertalen, uitgebracht door Microsoft. Het doel van Visual Basic is de ondersteuning van het bouwen van grafische applicaties op een visuele manier, dat wil zeggen, zo veel mogelijk via directe grafische manipulatie van elementen in plaats van het expliciet invoeren van programmacode.
+Geschiedenis en versies.
+Visual Basic is in de loop van zijn geschiedenis sterk van karakter veranderd; de gebruikte programmeertaal heeft zo sterke wijzigingen ondergaan dat de huidige taal van een volkomen ander soort is dan de oorspronkelijke.
+Voorgangers.
+Al sinds de opkomst van de pc ondersteunde Microsoft het hobbymatig programmeren daarvan in de programmeertaal BASIC. Voor de IBM-PC had Microsoft daarvoor de QuickBASIC-compiler met bijbehorende ontwikkelomgeving BASIC Professional Development System.
+Door het succes van Microsoft Windows was het een logische stap om ook daarvoor het programmeren in BASIC te gaan ondersteunen.
+Visual BASIC 1.0 (for Windows 3.x) (mei 1992).
+Besloten werd om hiervoor het principe van het visueel programmeren te gebruiken, een principe dat, evenals de principes van Windows zelf, uiteindelijk zijn grondslag vindt in het Smalltalk-project van Xerox PARC. Visual BASIC 1.0 was de eerste ontwikkelomgeving van Microsoft die deze werkwijze ondersteunde.
+Visual BASIC 1.0 for DOS (september 1992).
+Ook QuickBASIC en zijn ontwikkelomgeving werden voor het visueel programmeren geschikt gemaakt. Het resultaat, Visual BASIC for DOS'", was qua programmeertaal niet 100% uitwisselbaar met de Windows-versie.
+Visual BASIC 2.0 (november 1992).
+Verbeteringen volgden in versie 2.0, waarin onder meer het aanmaken van formulieren (venstertjes) vanuit de programmacode mogelijk werd.
+Visual BASIC 3.0 (zomer 1993).
+De volgende release had twee versies (Standard en Professional) en ondersteuning voor een database engine (Microsoft Jet 1.0).
+Visual BASIC 4.0 (augustus 1995).
+Naast de 16-bits-versie voor Windows 3.x was er van versie 4.0 ook een 32-bits-versie voor Windows 95.
+Visual BASIC 5.0 (februari 1997).
+Versie 5.0 werd alleen uitgebracht voor 32-bits, maar met ondersteuning van conversie heen en terug tussen 4.0 en 5.0. Het ondersteunde het schrijven van zelf gedefinieerde klassen, zowel voor interface-elementen ("custom user controls") als niet-GUI-elementen.
+Hiermee had VB ook als programmeertaal de belangrijkste kenmerken van objectoriëntatie, maar niet in dezelfde mate als bijvoorbeeld Object Pascal of C++.
+Visual BASIC 6.0 (mei 1998).
+Een van de vernieuwingen in versie 6.0 was de ondersteuning van webapplicaties.
+De code die men schrijft voor Visual Basic 1.0 t/m 6.0 wordt gecompileerd tot een uitvoerbaar bestand dat vervolgens zelfstandig gedraaid wordt onder Windows.
+Deze maakt gebruik van de "runtime", een aparte DLL die alle ondersteuning voor Visual Basic bevat die tijdens uitvoering nodig is; voor versie 6 is dat MSVBVM60.dll. Deze is vrij verkrijgbaar als download op microsoft.com, en wordt vanaf Windows 98 meegeleverd.
+Private Sub Form_Load()
+enmAntwoord = MsgBox("Wilt u dit programma afsluiten?", vbQuestion Or vbYesNo, "Hello World")
+Visual Basic for Applications (VBA).
+Visual Basic is ook ingevoerd als scripttaal, aanvankelijk in Microsoft Excel, later in alle Microsoft Office-applicaties. Deze scripttaal heet "Visual Basic for Applications" en is qua taal en ondersteunde GUI-elementen grotendeels uitwisselbaar met Visual Basic 6. Het belangrijkste praktische verschil is dat de vervaardigde code niet wordt uitgevoerd als een zelfstandige applicatie, maar binnen een draaiende Office-applicatie.
+VBScript.
+Ook het scripten van dynamische webpagina's in ASP is mogelijk in Visual Basic; de daarvoor ontwikkelde variant heet "VBScript". VBScript-code draait dus niet als zelfstandig programma of in een Office-applicatie, maar draait in een webserver en/of in de webbrowser tijdens het afhandelen van een paginaverzoek.
+Visual Basic.NET (sinds 2002).
+Visual Basic 7.0 en latere versies hebben een grote oppervlakkige gelijkenis met de zojuist genoemde eerdere Visual Basic's, maar zijn op een totaal nieuwe ondergrond gebaseerd: het.NET-framework. Hiermee wordt Visual Basic een door en door objectgeoriënteerde taal, zeer vergelijkbaar met of Java. Daarnaast verandert het karakter van de naam Visual Basic enigszins: die slaat nu specifiek op de programmeertaal, omdat de ondersteunende softwarebibliotheken en de runtime-ondersteuning ook worden gebruikt door alle andere.NET-talen, zoals. Ook heeft de taal een openbare specificatie.
+Zoals de runtime van Visual Basic 6 is ook de.NET-runtime (beter bekend als het.NET-framework) vrij verkrijgbaar als download op microsoft.com, en wordt daarnaast meegeleverd met automatische Windows-updates en Windows Vista.
+Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+Dim voorbeeldzin As String = "Hello World"
+Dim antwoord As Microsoft.VisualBasic.MsgBoxResult = MsgBoxResult.No
+antwoord = MessageBox.Show("Programma sluiten?", "Hello World", MessageBoxButtons.YesNo)
+Visual Basic 8 is een aanpassing van versie 7 aan de innovaties in.NET 2.0, voornamelijk generics.
+Visual Basic 9 introduceert LINQ, een in de programmeertaal ingebouwde vorm van SQL die een uniforme omgang mogelijk maakt van relationele data, onafhankelijk van hun representatie (bijvoorbeeld in tabellen in een relationele database, in XML-documenten, of in collectie-objecten in het geheugen). Dit is een stap in de richting van dynamisch getypeerde, functionele programmeertalen zoals JavaScript en Lisp.
+Visual Basic 10 gaat verder op dezelfde weg en ondersteunt bijvoorbeeld dynamisch getypeerde objecten en een groter repertoire aan anonieme functies (lambda-expressies).
+Vergelijkbare talen.
+Visual Basic is oorspronkelijk gebaseerd op de programmeertaal BASIC. Tot versie 5 lijken Visual Basic-programma's soms ook nog op BASIC, met regelnummers en GOTO-sprongen. Het procedurele paradigma, met subroutines en functies die elkaar aanroepen of als event handler fungeren, wordt steeds sterker, en ook de object-oriëntatie, met klassen, het aanmaken en opruimen van objecten, en overerving. Visual Basic.NET heeft geen enkele gelijkenis met het oorspronkelijke BASIC, maar lijkt op talen als (waar het direct door automatische decompilatie in kan worden omgezet of uit worden gegenereerd) en Java of Object Pascal.
+Systemen vergelijkbaar met Visual Basic 6 of eerder.
+Een aantal softwarepakketten kan Visual Basic (6 en eerder) gedeeltelijk interpreteren. Ze zijn niet broncodecompatibel, maar de gelijkaardigheid van de ontwikkelomgevingen staat het toe de Visual Basic-expertise snel toe te passen.

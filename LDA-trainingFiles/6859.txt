@@ -1,0 +1,35 @@
+Vorst (weer).
+Vorst is het weersverschijnsel dat optreedt wanneer water bevriest.
+Definities.
+Vorst treedt volgens de definitie uit de meteorologie op als de temperatuur op een hoogte van anderhalve meter boven de grond onder het vriespunt komt.
+Daalt de temperatuur op 10 centimeter hoogte onder het vriespunt dan noemen de weerkundigen dat vorst aan de grond of nachtvorst. Om de mate van de vorst aan te geven worden voor vorst op de waarnemingshoogte van anderhalve meter bovendien aanduidingen gegeven als lichte, matige of strenge vorst.
+Voorspelling.
+Hoe hard het gaat vriezen is tevoren soms moeilijk precies aan te geven. Onder een heldere hemel kan de temperatuur heel snel dalen en kunnen verspreid over een gebied grote verschillen optreden. Als er bovendien sneeuw ligt zal het onder een onbewolkte hemel door afkoeling in het algemeen nog sterker afkoelen. Wanneer blijkt dat het meer afkoelt dan zich tevoren liet aanzien dan worden de verwachtingen voor de minimumtemperatuur op het laatste moment aangepast.
+Een dag waarop het vriest (minimumtemperatuur onder nul) wordt een vorstdag genoemd. Blijft de temperatuur het hele etmaal onder nul (ook maximumtemperatuur onder het vriespunt) dan is dat een ijsdag. Bij een temperatuur tussen -2 en +2 °C heet het in de volksmond dat de temperatuur "rond het vriespunt" ligt.
+Vorsttermen.
+Gemeten in een weerhut op anderhalve meter hoogte.
+Nederland.
+IJschotsen aan het strand van Katwijk aan Zee, 1898
+In een "normale" winter loopt het aantal vorstdagen in Nederland uiteen van 23 in Vlissingen tot 46 in Eelde. Dit heeft overigens niet alleen te maken met het verschil tussen Zuid en Noord, maar ook met het feit dat Vlissingen dichter bij de zee ligt dan Eelde en dus meer een zeeklimaat heeft.
+Recente koude winters in Nederland met veel vorstdagen.
+De winter van 1995/1996 was de laatste zeer koude winter van de 20e eeuw. In deze winter vroor het vooral in de noordelijke helft van het land op bijzonder veel dagen: de aantallen liepen uiteen van 55 in Vlissingen tot 77 vorstdagen op diverse plaatsen in het oosten en noordoosten. Opmerkelijk aan de winter van 1995/1996 was vooral de langdurige kou, waardoor het aantal vorstdagen tussen november 1995 en april 1996 in Twente opliep tot 121 en in Eelde tot 119, een nieuw record. Bovendien lag de gemiddelde temperatuur van de winter als geheel in heel Nederland zelf (iets) onder het vriespunt, iets wat sinds 1979 niet meer was voorgekomen. In de barre winter van 1963 leverde dezelfde periode in Eelde 108 vorstdagen op.
+De winter van 1996/1997 kende weliswaar ook een zeer koude periode van eind december tot halverwege januari, waarin zelfs de tot nu toe laatste Elfstedentocht werd verreden, maar deze winter was over het geheel genomen toch minder koud dan die van 1995/1996. De winter van 2000/2001 telde in De Bilt 40 vorstdagen, wat vrijwel normaal is. Het voor- en naseizoen met de maanden november, maart en april meegerekend kwam het aantal uit op 53 vorstdagen. De koudste winter van de 21e eeuw was in Nederland tot nu toe die van 2009/2010, met in de Bilt een gemiddelde temperatuur van 1,1 °C, tegenover respectievelijk 3,3 °C normaal. Deze winter telde 95 Hellmannpunten in de Bilt, Nieuw Beerta haalde 162.
+Laagste temperatuur werd in de 20e eeuw in Nederland gemeten te Winterswijk -27,4 °C op 27 januari 1942.
+Het verschil in temperatuur in Nederland (tussen Noord en Zuid) was op 6 januari 2009 het grootst in de gemeten geschiedenis. Om 23.00 uur vroor het 20,4 graden in Ell bij Weert, terwijl het op Vlieland 1 graad boven nul was.
+Het vorstgetal van IJnsen.
+Er bestaan verschillende methoden om de Nederlandse winters te karakteriseren. Een bekend karaktergetal is het koudegetal (K) van Hellmann. Dit is de som van alle negatieve etmaalgemiddelden van de temperatuur in de maanden november t/m maart van een bepaald weerstation; het teken wordt positief genomen. Door weeramateurs wordt in plaats hiervan ook wel een benadering gebruikt met behulp van de dagelijkse maximum- en minimumtemperatuur (Tx en Tn). Negatieve uitkomsten van (Tx+Tn)/2 leveren in dit geval een bijdrage aan het karaktergetal. Beide methoden hebben het bezwaar dat dagen met een positieve uitkomst geen bijdrage kunnen leveren, ook al heeft het in zo'n etmaal toch (flink) gevroren. In De Bilt bedraagt het "vorstverlies" bij de methode Hellmann gemiddeld 24% (1902-2010). Een veel betere benadering van de werkelijk voorgekomen vorst is de negatieve temperatuursom Ko. Een vrijwel volmaakte bepaling hiervan is de som van de negatieve uurwaarden (Kz) van de temperatuur. Om naar de etmaalbasis te herleiden moet Kz door 24 worden gedeeld: Ko=Kz/24. Tegenwoordig kunnen de negatieve uurwaarden van de temperatuur vrij worden gedownload van de site van het KNMI.
+V = v²/363 + 2y/3 + 10z/9
+Het aantal vorstdagen (v) is bij benadering normaal verdeeld en in de formule gekwadrateerd om te bewerkstelligen dat de verdelingen van de drie variabelen globaal van dezelfde vorm zijn (rechtszijdig scheef). Deze formule geldt expliciet voor De Bilt omdat de frequentieverdelingen van de drie variabelen van dat weerstation er aan ten grondslag liggen. Toepassing van deze formule op andere plaatsen leidt daarom tot zinloze resultaten. Als verwachtingswaarde (een soort gemiddelde) heeft het vorstgetal een geldigheid voor een gebied dat ten minste geheel Nederland beslaat. Door die eigenschap zijn de vorstgetallen en de daarvan afgeleide indices geschikt om winters in te schatten uit historische bronnen, zoals oude kronieken e.d., welke meestal niet afkomstig zijn van één bepaalde locatie.
+Indeling van de vorstgetallen (V) in categorieën (indices Cv),
+benamingen en vaststelling van de frequenties (f, 1707-1990) alsmede de vorstgetallen van de 10 strengste en zachtste winters (resp. A en B) vanaf 1707 en de vorstgetallen vanaf 2001 (De Bilt)
+Cv V Benaming f A B Vorstgetallen v.a. 2001
+1789 86.5 2007 0.9 2001 8.6 2011 25.4
+1 <3.3 extreem zacht 1.0 1830 85.3 2014 1.2 2002 8.5 2012 20.0
+2 3.3- 5.7 zeer zacht 3.8 1963 81.9 1989 2.0 2003 17.0 2013 23.6
+3 5.8- 9.7 zacht 11.1 1823 80.7 1990 3.0 2004 7.8 2014 1.2
+4 9.8-16.6 vrij zacht 21.0 1947 78.1 1863 3.5 2005 12.4 2015 6.8
+5 16.7-28.4 normaal 26.2 1784 77.5 2000 3.6 2006 14.0 2016 3.6
+6 28.5-44.3 koud 21.0 1709 77.2 2016 3.6 2007 0.9 2017 10.8
+7 44.4-73.0 streng 11.1 1942 76.6 1737 4.0 2008 6.2
+8 73.1-82.0 zeer streng 3.8 1845 76.1 1846 4.0 2009 16.2
+9 >82.0 extreem streng 1.0 1763 75.2 1884 4.0 2010 29.4

@@ -1,0 +1,5 @@
+Parts per trillion.
+De Engelse afkorting ppt staat voor parts per trillion ofwel "delen per biljoen" ofwel per 1.000.000.000.000. "Trillion" komt hier overeen met een biljoen (zie ook Korte en lange schaalverdeling.)
+Een ppt is daarmee duizend maal zo weinig als een ppb en een miljoen keer zo weinig als een ppm.
+Hoewel een concentratie van 1 ppt inderdaad erg laag is, zijn er technieken in de analytische chemie die resultaten opleveren op de ppt-schaal.
+De term wordt een enkele keer ook als afkorting voor parts per thousand of "delen per duizend" gebruikt. Dit is 1 miljard keer zo veel als "delen per biljoen". Het gebruik leidt dus ook mogelijk tot verwarring en vereist soms toch een duidelijkere omschrijving.

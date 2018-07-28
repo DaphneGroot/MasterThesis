@@ -1,0 +1,4 @@
+Gesloten spel.
+Een gesloten spel is in het schaken een bepaald type schaakopening, dat valt onder de damepionopeningen. Het gaat hier om een schaakpartij die de witspeler met de zet 1.d2-d4 opent, waarna de zwartspeler met 1... d7-d5 antwoordt, dus 1.d2-d4 d7-d5.
+In de korte notatie worden deze eerste zetten: 1.d4 d5
+Binnen de gesloten spelen, is er een groot aantal gambieten bekend; zie hiervoor: gambieten in gesloten spelen.

@@ -1,0 +1,26 @@
+Schaakcomputer.
+CM Diamond, een schaakcomputer gemaakt in Oost-Duitsland
+Een schaakcomputer is een gespecialiseerde computer om tegen te schaken.
+Tegenwoordig wordt steeds meer gebruikgemaakt van schaaksoftware op een gewone personal computer. Daarbij kan wel een speciaal elektronisch schaakbord aan de computer worden gekoppeld om de zetten in te voeren.
+Constructie.
+Een schaakcomputer ziet er vaak uit als een dik schaakbord met wat knopjes en leds aan de zijkanten.
+In het schaakbord zitten sensoren, zodat de computer weet welke zet de menselijke speler heeft uitgevoerd.
+Doet de computer een zet, dan wordt de zet op de leds getoond, waarna de menselijke speler de zet kan uitvoeren.
+Sommige computers hebben een robotarm en kunnen zelf de stukken verplaatsen.
+Ontwikkeling.
+De eerste schaakcomputers voor thuisgebruik verschenen eind jaren 70 in de winkels. Ze waren relatief klein, met een behuizing van plastic of metaal. Door het kleine speelbord waren ook de bijbehorende schaakstukken aan de kleine kant en was het vrij lastig om zetten uit te voeren.
+Een bekende fabrikant van het eerste uur was het Amerikaanse Fidelity. Deze bracht zijn producten uit onder de naam Chess Challenger. De introductieprijzen lagen rond de 700 gulden.
+De speelsterkte van de eerste apparaten was laag, in de buurt van de 1000 tot 1200 Elo. Bovendien beheersten veel modellen niet alle 'moeilijke' schaakregels, zoals de rokade, "en passant slaan" en minorpromotie. Veel clubschakers namen hierdoor schaakcomputers en computerschaak in het algemeen niet serieus. Dat duurde jaren voort, tot ver in de tijd dat het spelniveau van de computers was gestegen tot boven dat van de meeste clubschakers.
+Toch werden vanaf het begin behoorlijk wat schaakcomputers verkocht. Huisschakers vonden het een leuk tijdverdrijf om te kunnen schaken tegen een apparaat. De groeiende markt lokte meer fabrikanten, en de concurrentie zorgde voor een steeds toenemende kwaliteit van de schaakcomputers.
+Glorietijd.
+In de tweede helft van de jaren 80 beleefde de schaakcomputer zijn hoogtijdagen. Marktleider was de firma Scysis, later genaamd Saitek uit Hongkong, die zijn producten afzette via de gewone detailhandel.
+De topproducten werden echter geleverd door de Duitse onderneming Hegener & Glaser, met als merknaam Mephisto. De Mephisto-computers kostten duizenden guldens per stuk en werden verkocht via gespecialiseerde winkels. Het waren prachtige apparaten, met een groot houten schaakbord, mooie stukken, en met ingebouwde schaak- en openingsboekmodules. Ieder jaar werden weer nieuwe modules uitgebracht, die ook weer grif van de hand gingen. Het succes van Mephisto duurde tot begin jaren 90.
+Afnemende populariteit.
+De opkomst van de personal computer en vooral de komst van goede en zeer sterke schaakprogramma's voor de PC, zoals "Fritz", "Genius", "REBEL" en "HIARCS", luidden rond 1991 het einde in van de populariteit van de "dedicated" schaakcomputer. Schakers raakten gewend aan het spelen van een partij schaak op een beeldscherm. Bovendien boden de pc-programma's veel meer mogelijkheden op het gebied van opslag, analyse en verzenden van partijen. De verkoop van schaakcomputers kelderde dramatisch. De firma Hegener & Glaser redde het uiteindelijk financieel zelfs niet en moest zich laten overnemen door Saitek.
+Nadien zijn incidenteel nog wel pogingen gedaan om de pure schaakcomputer nieuw leven in te blazen, maar zonder veel succes. De programma's voor de pc waren een veel te sterke concurrent geworden.
+Actuele marktsituatie.
+Toch heeft Saitek, die zich nu grotendeels toelegt op de PC-gaming wereld, nog steeds een aantal schaakcomputers in zijn assortiment. Het gaat daarbij om goedkope apparaten van maximaal 100 euro per stuk. De huidige schaakcomputers lijken wat specificaties betreft veel op de vroegere, maar ze hebben een moderner uiterlijk.
+Wereldkampioenschappen.
+Sinds 1980 werden elk jaar de WMCCC (Micro Schaakcomputer Wereldkampioenschappen) gehouden om te bepalen welke schaakcomputer de sterkste ter wereld was. Vanaf 1990 werd hierbij gebruikgemaakt van PC's.
+Mens versus Machine.
+De schaakcomputer Deep Blue was de eerste schaakcomputer die een tweekamp tegen de regerend wereldkampioen gespeeld onder reguliere tijdcontrole winnend afsloot. In 1996 versloeg de machine Garri Kasparov met 4-2-voorsprong en sloot hierbij één partij met winst af.

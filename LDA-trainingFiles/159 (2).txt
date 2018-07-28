@@ -1,0 +1,66 @@
+Bubblesort.
+Bubblesort, soms ook exchange sort of sinking sort genoemd, is een simpel sorteeralgoritme. Het wordt vaak gebruikt als illustratie van een algoritme. Het is een simpel en inefficiënt algoritme, vaak gekozen ter illustratie omdat het simpel en gemakkelijk uit te leggen is.
+Werking.
+Een voorbeeld van bubble sort. Startend vanaf het begin van de rij, vergelijk ieder aan elkaar grenzend tweetal getallen, verwissel ze als het linker getal groter is dan het rechter en schuif dan één positie door. Na het afwerken van de hele rij is er bij de volgende herhaling één element minder om te sorteren omdat het laatste getal dan zeker het hoogste is.
+We zien de grotere elementen als het ware als luchtbellen naar boven drijven. Aan deze metafoor ontleent het algoritme zijn naam.
+Bubblesort is, met een grootteorde formula_1, vrij inefficiënt. De efficiëntste soorteeralgoritmes (zoals bijvoorbeeld mergesort) hebben een complexiteitsgraad van formula_2
+Als je voor elke keer dat je door de lijst loopt bijhoudt hoeveel verwisselingen worden gemaakt, is het mogelijk om vroegtijdig te stoppen zodra er geen verwisselingen meer nodig zijn. Dit kan in praktische zin een verbetering opleveren ten opzichte van de theoretische looptijd van het bubblesortalgoritme.
+Implementatie in Visual Basic 6.
+Private Sub Form_Click()
+Do While i < 4 And v = True
+Do While j <= 4 - i
+If arr(j) > arr(j + 1) Then
+For i = 1 To 4
+Implementatie in PHP.
+$Count = count ($Arr) - 1;
+for ($i = 0; ($i < $Count) && ($v == True); $i++)
+print_r ($Arr);
+Efficiënte implementatie in PHP.
+$arr = array(4, 4, 3, 2, 4, 5, 88, 3, 8448, 43, 2, 0, 480, 334, 1, 0);
+echo("\nIt took ". $iterations. " iterations to sort the array.\n\n");
+print_r($arr);
+Implementatie in Java.
+for (j = 0; j < invoer.length; j++)
+Implementatie in C.
+"Invoer" is de te sorteren array, "lengte" is het aantal elementen in de array.
+for (j = 0; j < lengte; j++)
+Implementatie in MATLAB.
+"x" is de te sorteren array.
+Implementatie in C# (Csharp).
+for (int I = T.Length -1; I >= 1; I--)
+Iteratieve implementatie.
+De te sorteren rij wordt ingegeven als parameter.
+(Update) Door middel van een offset kunnen we de snelheid van het iteratieve algoritme verhogen.
+De lengte van de volgende iteratie wordt namelijk ingekort. Dit komt zowel het ruimtegebruik alsook het tijdsgebruik van de processor ten goede
+We weten namelijk dat na elke iteratie over de lijst, het achterste element mag verwijderd worden.
+Twee for-lussen gebruiken is ook mogelijk, zoals uitvoerig geïllustreerd in de andere programmeertalen.
+rij[i], rij[i+1] = rij[i+1], rij[i] #swap
+if not verwisseld: #Beïndig lus als alles op de correcte plaats staat
+Iteratief voorbeeld.
+Hier sorteren we een willekeurig rij van woorden, met telkens de vermelding welke twee opeenvolgende woorden worden verwisseld (i.e. swap).
+['doek', 'groen', 'ezel', 'fiets', 'appel', 'boom', 'citroen']
+['doek', 'ezel', 'fiets', 'appel', 'boom', 'citroen', 'groen']
+['doek', 'ezel', 'appel', 'boom', 'citroen', 'fiets', 'groen']
+['doek', 'appel', 'boom', 'citroen', 'ezel', 'fiets', 'groen']
+['appel', 'boom', 'citroen', 'doek', 'ezel', 'fiets', 'groen']
+Iteratief voorbeeld met offset.
+['doek', 'groen', 'ezel', 'fiets', 'appel', 'boom', 'citroen']
+['doek', 'ezel', 'fiets', 'appel', 'boom', 'citroen']
+> return.
+['appel', 'boom', 'citroen', 'doek', 'ezel', 'fiets', 'groen']
+Recursieve implementatie.
+Bubblesort heeft de interessante eigenschap dat bij elke stap de grootste waarde uit het ongesorteerde deel naar achter 'bubbelt'.
+Het 'naar achter bubbelen' wordt afgehandeld door de functie bubUp. Het bubbelen wordt veroorzaakt door de swap (het verwisselen van twee elementen).
+rij[:1] geeft ons een lijst met enkel het eerste element.
+rij[1:] geeft ons een lijst met alle daaropvolgende elementen. Op deze laatste voeren we recursief weer bubUp uit. Zo verkleinen we stelselmatig onze rij, tot er slechts een element in onze rij zit, namelijk het grootste.
+De functie bub laat, via bubUp, de grootste naar achter bubbelen, popt deze laatste (grootste) van de rij af en gaat verder met de rij zonder dat laatste element, totdat er slechts één element in de rij zit, namelijk het kleinste element uit de oorspronkelijke rij.
+rij = bubUp(rij) #Laat de grootste naar achter bubbelen (en sorteer ietwat)
+laatste = [rij.pop()] #Verwijder de grootste
+rij[0], rij[1] = rij[1], rij[0] #Verwissel de eerste met de tweede
+Recursief voorbeeld.
+De output van bovenstaande code op een willekeurige rij.
+['citroen', 'boom', 'ezel', 'appel', 'doek', 'fiets', 'groen'] pop(['groen'])
+['boom', 'citroen', 'appel', 'doek', 'ezel', 'fiets'] pop(['fiets'])
+['boom', 'appel', 'citroen', 'doek', 'ezel'] pop(['ezel'])
+['appel', 'boom', 'citroen', 'doek', 'ezel', 'fiets']
+['appel', 'boom', 'citroen', 'doek', 'ezel', 'fiets', 'groen']

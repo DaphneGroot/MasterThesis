@@ -1,0 +1,5 @@
+Planetaire Nevel Spectrograaf.
+De PNS is bevestigd aan de William Herschel-telescoop.
+De Planetaire Nevel Spectrograaf (PNS) is een instrument waarmee planetaire nevels in elliptische sterrenstelsels worden ontdekt. De PNS is bevestigd aan de William Herschel-telescoop te La Palma en is gebouwd door een consortium van Australië, Italië, Nederland en het Verenigd Koninkrijk.
+Dankzij hun helderheid kunnen planetaire nevels gebruikt worden voor de bepaling van afstanden tot ver verwijderde sterrenstelsels. Ook is uit de snelheid waarmee de nevels om het centrum van de sterrenstelsels draaien de massa van de stelsels te berekenen wat weer inzicht geeft in de aanwezigheid van donkere materie.
+Door de hoge efficiëntie van het instrument kunnen in één nacht 150 planetaire nevels waargenomen worden in een sterrenstelsel op de afstand van de Virgocluster (54 miljoen lichtjaar). De radiële snelheden van de planetaire nevels kunnen gemeten worden met een nauwkeurigheid van 20 km/s. Het principe steunt op het feit dat er twee beelden genomen worden met 180° dispersie. Als de twee beelden op elkaar gelegd worden kan de radiële snelheid rechtstreeks afgelezen worden.

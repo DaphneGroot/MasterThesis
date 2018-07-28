@@ -1,0 +1,4 @@
+Cardware.
+Cardware is een vorm van software waarbij de auteur als tegenprestatie voor gebruik een ansichtkaart wenst te ontvangen.
+Omdat er geen financiële vergoeding tegenover staat is het freeware, het auteursrecht berust bij de auteur.
+Gebruik van cardware komt voornamelijk voor bij via het internet verspreide software. Dit zijn over het algemeen de lichtere applicaties, CGI-modules, PHP-classes en dergelijke. Het adres waar de auteur de kaart wenst te ontvangen is veelal vermeld in een van de brondocumenten van de software.

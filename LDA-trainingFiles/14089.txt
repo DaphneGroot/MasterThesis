@@ -1,0 +1,3 @@
+Roze ruis.
+Spectrum van roze ruis op een logaritmische schaal
+Roze ruis of 1/f ruis is een bijzonder geval van gekleurde ruis waarbij in het frequentiespectrum de gemiddelde amplitude voor ieder octaaf, decade (of ander interval) gelijk is. Dit soort ruis nemen wij dus als 'recht' waar. Het vermogensdichtheidspectrum is evenredig met f -1 ofwel 1/f. Roze ruis wordt daarom ook wel 1/f-ruis genoemd.

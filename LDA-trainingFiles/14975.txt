@@ -1,0 +1,11 @@
+Project.
+Artistieke afbeelding van een project. Elk project heeft een tijd (zandloper), begin (start), en eind (finish) component.
+Een project is een, in de tijd en middelen begrensde, activiteit om iets te creëren. Het onderscheidt zich door zijn eenmalige karakter van een programma of proces. Een project wordt meestal in samenwerking met verschillende mensen en organisaties uitgevoerd. Het project wordt meestal vastgelegd in een projectplan en geregeld door projectmanagement.
+Algemeen.
+Een project wordt geleid door een projectleider (ook wel "projectmanager" genoemd). Vaak worden mensen en materialen door verschillende organisatieonderdelen ter beschikking gesteld.
+Er zijn verschillende methoden voor projectmanagement in gebruik voor de beheersing van projecten. Een voorbeeld hiervan is de hierboven genoemde PRINCE2 of specifiek voor een bouwproject de GOTIK-methode.
+Projectfasen.
+Algemeen wordt een project opgedeeld in een "vooronderzoek", een opstart-, een realisatie- en een eindfase. Nadat het project gerealiseerd is wordt ook wel de evaluatiefase uitgevoerd.
+Prince 2 kent ten minste 2 projectfasen: een initiatiefase en een of meer uitvoeringsfasen. Welke procesfasen gebruikt worden is afhankelijk van de Bedrijfstak, de soort en de grootte van het project. Vaak wordt er gewerkt met genormeerde processtappen. In PRINCE2, een projectmanagementmethode voor een project in een gecontroleerde projectomgeving, wordt uitgebreid hierop ingegaan. Onderstaand een opsomming van een mogelijk aantal projectfasen. Deze opsomming is louter illustratief.
+Opstarten van een project.
+Als dit allemaal klaar en goedgekeurd is kan de volgende fase gestart worden.

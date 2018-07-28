@@ -1,0 +1,5 @@
+Bruto nationaal product.
+Bruto Nationaal Product gecorrigeerd naar koopkracht per inwoner, in euro's 2003
+Het bruto nationaal product (bnp) is de totale toegevoegde waarde van alle goederen en diensten die in een bepaalde periode (meestal een jaar) door een bepaald land wordt geproduceerd: het bruto binnenlands product plus de door de staatsburgers in het buitenland verdiende primaire inkomens minus de door buitenlanders in het betreffende land verdiende primaire inkomens. Samengevat betekent 'binnenlands' hier verdiend/geproduceerd binnen de landsgrenzen en 'nationaal' verdiend/geproduceerd door de staatsburgers van een land.
+Het bnp per hoofd van de bevolking is een maat voor de welvaart van een land.
+Met de invoering van nieuwe internationale richtlijnen is het begrip bruto nationaal product (bnp) vervangen door het bruto nationaal inkomen (bni). Deze richtlijnen betreffen het "System of National Accounts 1993" (SNA 1993; UN, EU, IMF, OECD, World Bank), paragraaf 7.16 & 7.17 en het "European System of National and Regional Accounts 1995" (ESA 1995; Eurostat), paragraaf 8,94.

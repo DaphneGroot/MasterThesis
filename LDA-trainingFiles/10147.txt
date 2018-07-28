@@ -1,0 +1,6 @@
+Grondwaterhydrologie.
+Grondwaterhydrologie, ook wel hydrogeologie en geohydrologie genoemd, is een deelvakgebied van de hydrologie. Het behandelt de stroming van water in de ondergrond.
+Freatisch grondwater is grondwater dat boven op een eerste slecht doorlatende bodemlaag (bijvoorbeeld klei) staat, in relatief goed doorlatende grond. Het eerste grondwater dat men tegenkomt wanneer men gaat graven, is freatisch. In zandgronden met klei- en leemlenzen kan echter sprake zijn van een schijngrondwaterspiegel boven het freatisch grondwater.
+De doorlatendheid van de bodem wordt uitgedrukt in de "k-waarde" (in meters per dag). In horizontale en verticale richting respectievelijk als kh en kv.
+Als grondwater in diepere pakketten een hogere hydrostatische druk (stijghoogte) heeft dan het freatisch grondwater spreken we van arthesisch grondwater.
+Verontreinigingen kunnen diepere pakketten meestal slecht bereiken, waardoor de kwaliteit vaak zeer goed is. Drinkwaterbedrijven in Noord- en Oost-Nederland kunnen grondwater onttrekken aan het eerste, tweede of nog diepere watervoerende lagen.

@@ -1,0 +1,62 @@
+Polynoom.
+De figuur van y = x2 - x - 2.
+waarin formula_3 een natuurlijk getal is en waarbij de coëfficiënt formula_4 van de hoogste macht van formula_1 ongelijk aan 0 is.
+De bovengenoemde uitdrukking waarin alle coëfficiënten gelijk zijn aan 0, die dus gelijk is aan 0, heet de "nulpolynoom".
+De getallen formula_6 heten de coëfficiënten van de polynoom en het getal formula_3 heet de graad van de polynoom.
+Polynomiale functies, d.w.z. polynomen opgevat als functie, vormen een belangrijke klasse van functies met veel toepassingen in andere wetenschappen zoals natuurkunde en economie. Het zijn relatief eenvoudige gladde functies, wat wil zeggen dat zij continu en willekeurig vaak differentieerbaar zijn. Zij worden onder meer gebruikt als benadering voor ingewikkelder functies.
+Coëfficiënten.
+Voorbeelden van oneindige verzamelingen waaruit men de coëfficiënten kan kiezen zijn de natuurlijke getallen, gehele getallen, de rationale getallen, de reële getallen en complexe getallen. We spreken dan van polynomen "over" formula_8, formula_9, formula_10, formula_11 of formula_12. Wanneer de coëfficiënten van een polynoom formula_13 uit een van deze verzamelingen worden gekozen en de variable formula_1 uit formula_12, heet formula_13 een holomorfe functie.
+Het is ook mogelijk de coëfficiënten en de variabele uit een eindig lichaam of veld te kiezen, genoteerd met formula_17 of., het aantal elementen in het eindig lichaam, is een priemgetal of de macht van een priemgetal.
+Voor het domein van polynomen wordt in het algemeen de verzameling van de reële getallen formula_11 of de complexe getallen formula_12 genomen. Voor berekeningen in de algebra is het meestal niet nodig aan te geven, over welk domein een polynoom is gedefinieerd. De verzamelingen polynomen die bij de verschillende soorten coëfficiënten horen, vormt steeds een ring. Een ring van polynomen heet een veeltermring.
+De coëfficiënten van een polynoom formula_13 zijn de symmetrische functies van die polynoom formula_13, uitgedrukt in de nulpunten van formula_13.
+Definities.
+De verzameling van alle polynomen wordt genoteerd met formula_23. De verzameling van alle polynomen van graad formula_24, samen met de nulpolynoom, wordt genoteerd met formula_25. Beide verzamelingen vormen een reële vectorruimte. De coëfficiënten kunnen als coördinaten optreden. De basisvectoren zijn dan de machten van formula_1. De ruimte formula_27 is formula_3-dimensionaal.
+De constante functie ongelijk aan 0 is een polynoom van de graad 0. Polynomen van de graad 1 heten lineair, en van de graad 2 kwadratisch. De lineaire polynomen, dat zijn de eerstegraadspolynomen, vormen functies met als grafiek een rechte lijn, de tweedegraadspolynomen vormen functies met parabolen als grafiek.
+Wordt de polynoom formula_29 gelijkgesteld aan 0, dan ontstaat de vergelijking formula_30. De graad van de vergelijking is de graad van de polynoom. Een tweedegraadsvergelijking heet ook vierkantsvergelijking. Derdegraadsvergelijkingen, vierdegraadsvergelijkingen, vijfdegraadsvergelijkingen en zesdegraadsvergelijkingen hebben genoeg speciale eigenschappen om ze apart te bestuderen.
+Een polynoom is dus een uitdrukking waarin slechts twee basisbewerkingen van de rekenkunde een eindig aantal keren voorkomen: dat zijn de optelling en de vermenigvuldiging, of een uitdrukking die op die manier kan worden herschreven. Men onderscheidt reële polynomen, waarin alleen reële getallen als coëfficiënt voorkomen, en complexe polynomen, met complexe coëfficiënten.
+De getallen formula_34 staan bekend als de nulpunten van de polynoom, of als wortels van de bijbehorende algebraïsche vergelijking. Men noemt het aantal keren dat de betrokken factor in de ontbinding voorkomt de multipliciteit van het nulpunt, en het aantal nulpunten van een veelterm is, als we elk nulpunt even vaak meetellen als zijn multipliciteit, dus gelijk aan de graad.
+Voor reële polynomen geldt net als voor complexe polynomen dat zij formula_3 complexe nulpunten hebben. Iedere reële polynoom van oneven graad heeft ten minste één reëel nulpunt en de niet-reële, de complexe nulpunten komen steeds in complex toegevoegde paren voor. Er is geen algoritme dat voor willekeurige polynomen van een graad groter dan 4 de nulpunten met de wortels uit getallen kan schrijven.
+Een breuk van twee polynomen heet een rationale functie.
+Criterium van Eisenstein.
+Het criterium van Eisenstein geeft er een voldoende voorwaarde voor, dat een polynoom met gehele coëfficienten irreducibel is. Een polynoom die aan het criterium voldoet, is irreducibel over de rationale getallen, en daarmee ook over de gehele getallen.
+Nulpunten van een polynoom.
+waarin de formula_37 de nulpunten zijn van de polynoom.
+Hierin is elke formula_40 een constante die de formula_41-de graads coëfficiënt wordt genoemd. De graad van de polynoom, dit is de grootste waarde van formula_41 waarvoor geldt dat formula_43, wordt ook de graad van de vergelijking genoemd.
+Een speciaal geval vormen de polynomen met gehele coëfficiënten. Een nulpunt van zo'n polynoom wordt een algebraïsch getal genoemd. Een getal dat niet algebraïsch is, maar wel reëel, heet een transcendent getal.
+Voorbeeld.
+De drie nulpunten van formula_46 zijn formula_47 en formula_48.
+Differentiëren.
+Differentiëren van een polynoom verlaagt de graad van de polynoom met 1. Bijvoorbeeld differentiëren van formula_49 van de graad 3 geeft de afgeleide polynoom formula_50 van de graad 2.
+Volgens de stelling van Marden zijn de nulpunten van de afgeleide van een derdegraads polynoom in formula_51, waarvan de nulpunten niet op één lijn liggen, gelijk aan de brandpunten van Steiners ingeschreven ellips van de driehoek die door die nulpunten wordt gevormd. De coëfficiënten van het polynoom mogen hierin complex worden genomen.
+Deling van polynomen.
+waarin de polynoom formula_59 de quotiëntpolynoom is.
+De daadwerkelijke deling van een polynoom door een andere polynoom van lagere, of eventueel gelijke graad, kan door staartdelen.
+Als formula_3 de graad van formula_29 is en formula_62 de graad van formula_63, geldt dat de graad van formula_64 gelijk is aan formula_65 en de graad van formula_66 ten hoogste gelijk is aan formula_67. In het geval dat formula_68, gaat de de deling precies op, en is formula_29 het product van formula_64 en formula_63. Voor de graden geldt formula_72, met formula_41 de graad van formula_64.
+Voorbeeld.
+Dus is formula_75.
+Factor- en reststelling.
+Dit resultaat heet de "reststelling voor polynomen". Op deze reststelling zijn in het tientallige stelsel de negenproef en de elfproef gebaseerd.
+De elfproef berust op het feit dat in het tientallig stelsel 10 modulo 11 congruent is met -1. Dit wordt gebruikt om aan te tonen dat modulo 11 het getal 4532 congruent is met 0, en dus deelbaar is door 11. Immers formula_89 is een factor van formula_90, want
+Hornerschema.
+Het Hornerschema is een algoritme om efficiënt een veelterm in een punt "x"0 te evalueren of om een polynoom snel te delen door een lineaire polynoom.
+Karakteristieke polynoom.
+Het is mogelijk voor de variabele een matrix te substitueren. Bij iedere matrix formula_93 hoort een karakteristieke polynoom formula_13. Substitutie van de matrix formula_93 in formula_13 levert de nulmatrix op: formula_97.
+De karakteristieke polynoom formula_98 van een vierkante formula_99-matrix formula_93 is
+De nulpunten van de karakteristieke polynoom zijn de eigenwaarden van de matrix. Dit vindt toepassingen in de sterkteleer, de kwantummechanica, trillingen, de akoestiek enz.
+Domein van de coëfficiënten.
+Een polynoom is volledig bepaald door z'n coëfficiënten. Als het niet om de corresponderende functie gaat, is niet aan de orde welke waarden formula_1 kan aannemen; de polynomen corresponderen een-op-een met eindige rijen getallen (de coëfficiënten). Dan bestaat de rol van de variabele formula_1 er slechts in de notatie als som van gewogen machten van formula_1 mogelijk te maken, en zo op natuurlijke wijze de regels voor het optellen en vermenigvuldigen van de polynomen in te voeren. Vooral voor het vermenigvuldigen is deze notatie handig, men hoeft niet een speciale regel voor het vermenigvuldigen van eindige rijen getallen toe te passen.
+Er zijn ook polynomen met andere coëfficiënten dan reële getallen, of met coëfficiënten die beperkt zijn tot een deel van de reële getallen. Als de verzameling waaruit de coëfficiënten worden gekozen een commutatieve ring is, vormen de polynomen ook een commutatieve ring.
+Bij een gegeven commutatieve ring kan men de coëfficiënten kiezen uit een deelring (eventueel de ring zelf) en als domein van de polynomiale functies een deelverzameling van de ring (eventueel weer de ring zelf) nemen. De afbeelding die aan een polynoom de bijbehorende polynomiale functie toevoegt, is dan lineair. De afbeelding is dan en slechts dan injectief, als "alleen" de polynoom die identiek nul is, een functie oplevert die de nulfunctie is (een functie die bij ieder argument uit het domein de waarde 0 oplevert). Dit is "niet" het geval als het domein van de polynomiale functies eindig is en een deelverzameling van de deelring, men kan dan eenvoudig een polynoom construeren die niet identiek nul is, maar waarbij wel de erdoor vastgelegde functie bij elk argument nul oplevert (nulfunctie). Er zijn dan bij een polynomiale functie (wat trouwens iedere functie dan is) oneindig veel corresponderende polynomen.
+Dit onderstreept de verschillen tussen een polynoom als uitdrukking en een polynoom als functie. Let wel, als het domein een oneindige verzameling is, is er wel een een-op-een correspondentie tussen de uitdrukkingen en de functies.
+Polynoom versus polynomiale functie.
+Een voorbeeld van het onderscheid tussen polynoom en bijbehorende polynomiale functie is het volgende. Beschouw polynomen met coëfficiënten uit het eindige lichaam formula_107, dit is de verzameling formula_108 waarbij optellen en vermenigvuldigen plaatsvindt modulo 5.
+Zowel formula_109 als formula_110 zijn polynomen over formula_107. Het zijn duidelijk twee verschillende polynomen. Als (polynomiale) functies met als domein en bereik formula_107 zijn ze echter aan elkaar identiek, want voor iedere formula_1 uit formula_108 geldt, rekenend modulo 5, dat formula_115.
+Twee van elkaar verschillende polynomen kunnen dus eenzelfde bijbehorende polynomiale functie hebben.
+Veeltermen in meer variabelen.
+waarin slechts eindig veel coëfficiënten ongelijk aan 0 zijn. De hoogste voorkomende macht formula_119 heet de graad van de variabele formula_120. Het getal formula_121 heet de graad van de term formula_122. Het maximum van de graden van de afzonderlijke termen heet de graad van de polynoom.
+Curiosum.
+Eerder hadden Martin Davies, Joeri Matijasevitsj, Hilary Putnam en Julia Robinson het bestaan bewezen van een dergelijke veelterm. Dit is opmerkelijk omdat polynomen over de natuurlijke getallen die "slechts" priemgetallen als waarden aannemen, de graad nul moeten hebben (een constante).
+De veelterm levert alleen een positieve uitkomst, als alle termen vanaf de tweede in de tweede factor gelijk zijn aan 0. De uitkomst is dan gelijk aan de eerste factor formula_143. Voor deze veelterm is bewezen dat alle termen vanaf de tweede "alleen" gelijk zijn aan 0 voor waarden van formula_41 waarvoor formula_143 een priemgetal is, en dat alle priemgetallen worden voortgebracht door deze polynoom.
+Toepassingen.
+Polynomen worden veel toegepast in algoritmen, onder andere in Savitsky-Golay filters.
+Polynomen met complexe coëfficiënten komen bijvoorbeeld voor bij de oplossing van differentiaalvergelijkingen door fouriertransformatie of laplacetransformatie. Dit heeft praktische toepassingen in de elektrotechniek, regeltechniek, communicatietechniek en de kwantummechanica.

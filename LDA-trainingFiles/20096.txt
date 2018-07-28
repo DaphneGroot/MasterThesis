@@ -1,0 +1,12 @@
+Uploaden.
+Uploaden is computerjargon voor het verzenden van bestanden of andere gegevens van de ene computer naar de andere computer, waarbij het initiatief van de verzendende computer uitgaat. De verzender heet client, de ontvanger heet server. Wil men gegevens van een lokale computer voor het internet, bijvoorbeeld Wikipedia, toegankelijk maken, dan geschiedt dat met een upload, maar het verzenden van e-mail met SMTP is ook een upload.
+Ook het overzetten van bestanden vanaf externe gegevensbronnen zoals een cd-rom of een digitale camera naar de (eigen) computer, kan worden aangeduid als uploaden. Daarbij wordt de conventie gehanteerd dat men het over uploaden heeft als er sprake is van gegevensoverdracht van een "klein" medium (bijvoorbeeld een cd-rom) naar een "groot" medium (bijvoorbeeld de computer). Voor downloaden geldt dan het omgekeerde.
+Uploaden vanuit een browser.
+Voor het uploaden van bestanden vanuit een formulier in een webbrowser (via HTTP) is door W3C een standaard encoding geformuleerd: form-data. Deze encoding maakt het mogelijk dat één of meerdere bestanden samen met andere formelementen in één request naar de server worden gestuurd. Op de server kan het opgestuurde request worden ontleed in de oorspronkelijke gegevens en bestanden.
+In de begintijd van het wereldwijd web was het uploaden van een bestand vanuit de browser niet mogelijk. Voor Internet Explorer versie 3 moest een speciale add-on worden geïnstalleerd om dit mogelijk te maken. Netscape ondersteunt file-upload vanaf versie 3. Vanaf 1997 is file-upload standaard in browsers ingebouwd.
+Uploaden met FTP.
+Een bestand uploaden kan ook via FTP. Daarvoor is een FTP-client (om het bestand te versturen) en een FTP-server (om het bestand te ontvangen) nodig.
+Uploaden versus downloaden.
+Het omgekeerde proces: bestanden van een server naar de client overzetten of kopiëren noemt men "downloaden".
+Het resultaat van zowel uploaden als downloaden is dat er een bestand van de ene computer naar een andere wordt gekopieerd. De termen "uploaden" en "downloaden" worden toegepast vanuit het perspectief van de client. Het programma dat de activiteit start is de client, het programma dat de activiteit toestaat (of eventueel weigert bijvoorbeeld als er een foutieve login wordt gebruikt) is de server.
+P2P-programma's als Kazaa zijn zowel client (bij downloaden naar de lokale computer) als server (aanbieder van bestanden ter download). Dan is dus de client aan het uploaden en downloaden.

@@ -1,0 +1,10 @@
+Elektronenvangst.
+Elektronenvangst is een radioactiefvervalproces dat een variant is op β+ verval. In plaats van een elektron uit te zenden wordt er een elektron, meestal uit de binnenste elektronenschil, van het atoom opgenomen in de kern.
+Proces.
+Bij elektronenvangst wordt een elektron, meestal afkomstig uit de K- of L-schil, door een proton opgenomen. Daarbij wordt het proton (met het opgenomen elektron) omgezet in een neutron en een neutrino. Het massagetal blijft daarbij gelijk, maar het atoomnummer wordt met één verlaagd. Elektronenvangst treedt op bij isotopen waarbij te veel protonen aanwezig zijn in de kern, en er te weinig energie is om een positron uit te zenden. Het komt echter ook wel voor bij isotopen waarbij positron-verval wel optreedt.
+Als de atoommassa van het ouderatoom en het dochteratoom minder dan 0,001097 u verschilt (overeenkomend met 1,022 MeV aan energie) dan levert verval te weinig energie op om een positron te maken. Er kan dan alleen elektronenvangst optreden. Voorbeeld: rubidium-83 zal enkel en alleen via elektronenvangst vervallen tot krypton-83; het massaverschil tussen de atomen is namelijk 0,000974 u, wat overeenkomt met 0,907 MeV.
+Het opgenomen elektron laat een gat achter in de K- of L-schil. Dit gat wordt opgevuld door een elektron uit een hogere schil, onder uitzending van röntgenstraling. Het is aan deze röntgenstraling dat verval via elektronenvangst te detecteren is.
+Andere benamingen.
+In sommige boeken wordt dit proces ook wel K-vangst genoemd, omdat het elektron dat ingevangen wordt meestal uit de K-schil afkomstig is. In de Engelstalige literatuur wordt vaak de afkorting EC (van "Electron Capture") gebruikt als symbool voor elektronenvangst; in de Duitstalige wereld wordt ook wel de Griekse letter ε (voor "Epsilonzerfall") als symbool gebruikt.
+Voorbeelden.
+formula_1

@@ -1,0 +1,24 @@
+Analoog-digitaalomzetter.
+Een analoog-digitaalomzetter of AD-converter (ADC) zet een analoog signaal, bijvoorbeeld een spraaksignaal, om in een digitaal signaal.
+Een AD-converter is de tegenhanger van de DA-converter. Deze zet digitale signalen om in een analoog signaal.
+Een multiplex AD-converter met stereo in vier kanalen
+Principe.
+Een analoog signaal is per definitie een signaal dat continu in tijd en in amplitude is (de resolutie is oneindig). Wanneer een analoog signaal digitaal gemaakt wordt betekent dit dat het signaal in tijd en in amplitude gediscretiseerd moet worden. Een discreet (digitaal) signaal is de tegenhanger van een continu signaal, een signaal dat alle mogelijke waarden aan kan nemen. Om het signaal digitaal te maken zal er dus met vaste tussenpozen (bemonsteringsfrequentie) een monster genomen moeten worden waarna dit monster gediscretiseerd wordt. Om de zoveel tijd wordt er dus een "sample" genomen dat opgeslagen wordt als een digitaal getal. Dit digitale getal is eindig in resolutie (discreet) en kan dus niet zoals een analoog getal alle waarden voorstellen.
+Ter illustratie een korte uitleg hoe het signaal door de AD-converter "loopt". Als eerste bewerking wordt een laagdoorlaatfilter ingezet om aliasing tegen te gaan. Vervolgens neemt de ADC op regelmatige tijdstippen een signaalmonster (sample); dit houdt in dat op een bepaald moment wordt gekeken wat de exacte signaalwaarde is. Bij spraaktelefonie wordt in de meeste systemen 8000 keer per seconde een signaalmonster genomen (de bemonsteringsfrequentie is 8 kHz) waarmee de maximaal verwerkbare frequentie 4000 Hz wordt (volgens het Nyquist criterium).
+Ieder monster wordt dan een getal dat uit meerdere bits bestaat. Het aantal bits bepaalt hoe nauwkeurig het signaal gereproduceerd wordt. Door deze omzetting naar bits wordt elk signaalmonster gekwantiseerd in amplitude; kwantiseren is het afronden naar een zekere waarde, afkomstig uit een eindig waardebereik. Analoge signalen kunnen immers een oneindig aantal waarden aannemen. Doordat per monster het waardebereik waarnaar wordt afgerond eindig is, is er per monster een eindig aantal symbolen (bijvoorbeeld bits) voldoende om de afgeronde waarde te representeren.
+Kwantisatie leidt tot een vervorming van het signaal. Het verschil tussen het originele signaal en het gekwantiseerde signaal wordt wel kwantisatieruis genoemd. Hoe fijner de kwantisatie, des te hoger het aantal benodigde bits om het gekwantiseerde signaal vast te leggen, des te lager de kwantisatieruis. Bij audio-cd's worden 16 bits per monster gebruikt, waardoor kwantisatieruis bij gemiddeld signaalniveau doorgaans niet hoorbaar is.
+Na bemonsteren en kwantiseren is het signaal digitaal geworden.
+Voorbeeld: bij een spraaksignaal wordt vaak gewerkt met een bemonsteringsfrequentie van 8 kHz en met 256 mogelijke niveaus per signaalwaarde. Om 1 signaalniveau aan te duiden zijn 8 bits voldoende. Op deze manier wordt een spraaksignaal omgezet naar een digitaal signaal van formula_1 bits per seconde.
+Implementatie.
+De implementatie van een 2-bits AD-omzetter wordt hieronder toegelicht.
+Bemonstering.
+Voor de bemonstering wordt gebruikgemaakt van een zogenaamde "sample-en-holdschakeling", die op vastgestelde tijden een monster (sample) van het analoge signaal neemt. De sample-en-holdschakeling kan gezien worden als een schakelaar die periodiek open- en dichtgaat gevolgd door een condensator. De condensator vervult de functie van geheugenelement.
+Kwantisatie.
+In een laddernetwerk wordt de waarde van dit monster vergeleken met een aantal vastgestelde niveaus. Dit is de kwantisatie. In deze fase treedt een afrondingsfout op, de kwantiseringsruis.
+Deze niveaus worden samen met het bemonsterde signaal elk aan een verschilversterker toegevoegd. De uitgang van een verschilversterker verandert van polariteit, zodra een van de ingangen groter wordt dan de andere ingang.
+Codering.
+Het sluitstuk van de omzetter is een logische schakeling die aan elk van de vaste niveaus een code van binaire cijfers toekent. Dit is de codering.
+Kwaliteit.
+Maatgevend voor de kwaliteit van de omzetting is het aantal samples per seconde en het aantal bits per sample. Kwaliteitsverbetering kan dus bereikt worden door een snellere sample-en-holdschakeling en een uitgebreider laddernetwerk met meer niveaus.
+Elke bit extra per sample betekent een verdubbeling van het benodigde aantal weerstanden en het aantal extra bits het verschil aan versterkers.
+Ten slotte is de tolerantie van de weerstanden ook belangrijk. Grote verschillen in de weerstandswaarde zullen tot fouten leiden.

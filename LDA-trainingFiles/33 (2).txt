@@ -1,0 +1,9 @@
+AWK.
+AWK is een scripttaal op het besturingssysteem Unix, bedoeld voor het automatisch verwerken van tekstbestanden. AWK werd eind jaren zeventig ontwikkeld door Alfred Aho, Peter Weinberger en Brian Kernighan. AWK is een shellcommando en wordt vaak samen met bijvoorbeeld sed gebruikt.
+Kenmerken.
+De taal wordt gekenmerkt door een syntaxis die veel weg heeft van C. Er zijn verschillende varianten ontstaan met nieuwe functionaliteiten en mogelijkheden waaronder nawk ("new awk"), mawk en gawk ("GNU awk").
+De taal is regelgeörienteerd: standaard worden van de input alle regels een voor een onderworpen aan patroonherkenning (via een reguliere expressie) en bij een treffer wordt een na het patroon aangegeven actie uitgevoerd. Dit maakt de taal zeer geschikt om filters te ontwerpen voor bestanden die in regels zijn ingedeeld, waarvoor vaak maar 1 regeltje code nodig is. Door toevoegingen kan de taal echter voor veel meer dingen worden gebruikt.
+Beschikbaarheid.
+AWK wordt tegenwoordig bij elke Unixvariant geleverd, inclusief alle Linuxdistributies. Ook voor Windows zijn AWK-varianten beschikbaar. AWK wordt nog steeds door veel computerspecialisten gebruikt om snel kleine programma's te schrijven voor specifieke tekstgerelateerde taken.
+Inspiratie.
+Larry Wall werd door AWK geïnspireerd bij het ontwerpen van de programmeertaal Perl.

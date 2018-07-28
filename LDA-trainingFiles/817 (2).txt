@@ -1,0 +1,19 @@
+Objectief (optica).
+Gesegmenteerde spiegel van de telescoop Keck-2.
+Een objectief is het onderdeel van een optisch instrument, zoals een fototoestel, een microscoop of een telescoop, dat dient om een object af te beelden. Het objectief wordt op het te bekijken of te fotograferen object gericht. Het ontstane beeld kan op verschillende wijzen verder worden verwerkt. In een camera wordt het beeld rechtstreeks opgenomen op een lichtgevoelige film of plaat, of op een elektronische beeldsensor. In een telescoop, een microscoop en vergelijkbare instrumenten wordt het beeld door een oculair bekeken.
+De term "objectief" is ontleend aan het feit dat het objectief het waar te nemen voorwerp ("object") afbeeldt.
+Het objectief "kan" uit één lens bestaan (zoals bij de ouderwetse „boxcamera’s” van vroeger), maar omvat meestal meerdere lenzen. Samen corrigeren deze de afbeeldingsfouten die enkelvoudige lenzen hebben. Bij spiegeltelescopen bestaat het objectief uit een spiegel.
+Een objectief heeft een bepaalde (in geval van een zoomobjectief een instelbare) brandpuntsafstand. Voor meer informatie over beeldvorming en brandpuntsafstand, zie het artikel Lens (optica).
+Toepassingen.
+Afhankelijk van de toepassing kunnen aan een objectief bijzondere eisen worden gesteld.
+Fotografie.
+Een fotografisch objectief moet op zeer verschillende afstanden kunnen scherpstellen. Welk bereik dat is, hangt weer af van de details: voor telefotografie hoeft men niet al te dichtbij te kunnen scherpstellen. En voor macrofotografie is scherpstellen op grote afstand niet nodig. Door met deze dingen rekening te houden, kan het ontwerp voor een kleiner scherpstelbereik worden geoptimaliseerd, waardoor het objectief minder duur kan worden.
+Met uitzondering van macrofotografie geldt in het algemeen dat de voorwerpsafstand varieert van oneindig tot enkele malen de brandpuntsafstand.
+Projectoren.
+Bij projectoren moet het objectief worden aangepast aan de gewenste projectieafstand. Hoe groter die afstand, des te groter is ook het oppervlak waarover het geprojecteerde licht wordt verdeeld, en des te zwakker wordt het beeld. Het objectief moet dus niet alleen de juiste brandpuntsafstand hebben, maar ook de juiste lichtsterkte.
+Telescopen.
+In telescopen worden zeer lichtsterke lenzen en/of spiegels gebruikt. Dit vanwege de lichtzwakte van de te bestuderen objecten aan de hemel. Kenmerkend is verder dat de voorwerpsafstand altijd oneindig is. Zeker voor wetenschappelijke toepassingen wordt meestal met camera’s gewerkt in plaats van met oculairs. Dit vooral vanwege de mogelijkheid van langere belichtingstijden, maar uiteraard ook om foto’s te kunnen vastleggen voor wetenschappelijke publicatie.
+Verrekijkers.
+Verrekijkers zijn eigenlijk mini-telescopen. Ze worden ook gebruikt op afstanden (veel) minder dan oneindig en hebben dus een veel ruimer scherpstelbereik nodig.
+Microscopen.
+Bij microscopen is de beeldafstand gewoonlijk groter dan de voorwerpsafstand. Immers de vergrotingsverhouding is de verhouding tussen deze beide afstanden, en die verhouding moet uiteraard > 1 zijn. In die zin zou men microscopie kunnen vergelijken met een extreme vorm van macrofotografie

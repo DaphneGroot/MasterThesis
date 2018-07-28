@@ -1,0 +1,7 @@
+Ingang (elektronica).
+De ingang(en) van een elektrisch of elektronisch toestel geeft de nodige aansluitmogelijkheid en zorgt voor de aanpassing van de signalen.
+Aansluiting.
+De aansluiting kan een vaste verbinding zijn of via stekkers en pluggen. Meestal zijn ze bepaald door normen. De aard en kwaliteit van de verbinding zijn afhankelijk van het ingangssignaal en de ontwikkeling van de techniek.
+Aanpassing.
+De te verwerken signalen zullen meestal omgezet worden en aangepast naar grootte, impedantie, frequentie of analoog/digitaal (AD of DA). Een ingang kan ook zorgen voor beveiliging van het toestel. Het kan zelfs een virtuele beveiliging zijn zoals bij aansluiting op het internet.
+Ingangen kunnen ook aangesloten zijn op een digitale data-bus (voorbeeld: de I2C-bus)

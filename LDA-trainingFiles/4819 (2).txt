@@ -1,0 +1,4 @@
+Nulde wet van de thermodynamica.
+De nulde wet van de thermodynamica, ook wel nulde hoofdwet genoemd, is een basisprincipe uit de thermodynamica, dat stelt dat als A in thermisch evenwicht is met B, en B met C, A ook in thermisch evenwicht is met C. De wet stelt dus dat het thermisch evenwicht tussen verschillende systemen een transitieve relatie is. Het vormt een equivalentierelatie. Op basis hiervan is het zinvol om van het begrip temperatuur te spreken.
+Het belang van dit principe werd ingezien na de expliciete formulering van de eerste, tweede en derde wet, waarna het schertsend de nulde plaats kreeg toebedeeld.
+Een andere formulering is te stellen dat de temperatuur een toestandsfunctie is.

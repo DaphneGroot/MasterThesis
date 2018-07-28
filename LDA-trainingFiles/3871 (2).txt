@@ -1,0 +1,11 @@
+Grammatica.
+De spraakkunst, spraakleer of grammatica is binnen de theoretische taalkunde de benaming voor de studie, beschrijving en verklaring voor alles wat met de systematiek van een natuurlijke taal of kunsttaal te maken heeft.
+Algemeen.
+De structuur van de woorden en de zinnen van een taal worden gedefinieerd aan de hand van grammaticale regels. Er wordt daarbij onderscheid gemaakt tussen de descriptieve grammatica, de prescriptieve grammatica en de schoolgrammatica. Die laatste wordt gebruikt om mensen de taal als tweede taal aan te leren.
+Daarnaast is een grammatica een beschrijving van de systematiek van een specifieke taal. Dit kan een volledig formeel-wiskundige beschrijving zijn, een in de taal zelf of andere taal opgeschreven beschrijving, of een combinatie hiervan. Ook een (studie)werk waarin de grammatica van een taal wordt beschreven wordt zelf een grammatica genoemd.
+Grammaticale ontleding.
+Grammaticale ontleding of analyse is de taalkundige discipline die de woorden en zinsdelen binnen een zin onderscheidt (redekundige ontleding) en deze benoemt op woordniveau (taalkundige benoeming).
+Soorten zinnen.
+Niet alleen woorden, maar ook deelzinnen kunnen een functie binnen de (complete) zin vervullen (hoofd- en bijzinnen).
+Metatalen.
+Behalve bij de studie van "gewone" talen worden de begrippen spraakkunst, syntaxis en semantiek ook gebruikt voor formele en computertalen. Om de spraakkunst van een taal (zowel natuurlijke als computertalen) formeel te beschrijven zijn metatalen ontwikkeld. Een voorbeeld hiervan is de Backus-Naur-vorm (BNF). In de taalkunde is ook hier het werk van Chomsky baanbrekend geweest.

@@ -1,0 +1,11 @@
+Hertz (eenheid).
+De hertz (symbool: Hz, geen meervoud) is de SI-eenheid van frequentie. De hertz wordt gebruikt bij periodieke (zich herhalende) verschijnselen. 1 Hz komt daarbij overeen met een periode van 1 seconde. Zou iemand regelmatig, eenmaal per seconde op een tafel tikken, dan heeft dat tikken een frequentie van 1 Hz. Tikt de persoon sneller, bijvoorbeeld tweemaal per seconde (de periode is dan 0,5 s), dan bedraagt de frequentie 2 Hz.
+Drie knipperlichten met verschillende frequentie. De frequentie neemt toe van 0,5 Hz naar 2 Hz
+In SI-basiseenheden uitgedrukt komt de Hz overeen met s−1.
+De hertz wordt vaak gecombineerd met een van de officiële SI-prefixen tot bijvoorbeeld kilohertz (1 kHz = 103 Hz), megahertz (1 MHz = 106 Hz) of gigahertz (1 GHz = 109 Hz).
+Naamgeving.
+De frequentie-eenheid is genoemd naar de Duitse natuurkundige Heinrich Hertz, die belangrijke bijdragen leverde op het gebied van elektromagnetisme.
+De naam "hertz" werd aangenomen door de CGPM ("Conférence générale des poids et mesures") in 1960. Tot die tijd werd frequentie gewoonlijk uitgedrukt in trillingen per seconde, in het Engels: "cycles per second" (cps), met onder meer veelvouden "kilocycles" (kc) en "megacycles" (Mc). Deze eenheden zijn in de jaren zeventig van de twintigste eeuw steeds meer vervangen door de hertz, hoewel de cps in Angelsaksische landen nog vaak gehanteerd wordt.
+Formulenotering.
+In natuurkundige formules wordt de frequentie vaak niet uitgedrukt in hertz, maar in een meer toepasselijke eenheid als radialen per seconde. Men spreekt dan over hoeksnelheid of hoekfrequentie. Eén radiaal per seconde komt overeen met 2pi (wiskunde) maal de trillingsfrequentie in Hz. Het symbool in dat soort formules is (omega).
+In plaats van frequentie (in hertz) wordt bij de bespreking van golfverschijnselen meestal de golflengte gehanteerd. De relatie is  =  × , waarbij de frequentie in hertz is, (van "velocitas") de voortplantingssnelheid in meter per seconde en de golflengte in meter.

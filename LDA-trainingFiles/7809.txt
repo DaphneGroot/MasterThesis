@@ -1,0 +1,3 @@
+Neutronendiffractie.
+Neutronendiffractie is een techniek uit de kristallografie, soortgelijk aan röntgendiffractie, om de atomaire structuur van vaste stoffen te bepalen. Als te diffracteren golven worden neutronen gebruikt: neutronenstraling in plaats van röntgenstraling.
+Als neutronenbron in een neutronendiffractie-experiment kan een speciale kernreactor worden gebruikt: bij kernsplijting komen veel neutronen vrij. Een andere bron van neutronen is een zogenaamde "spallation source": hierbij worden versnelde protonen geschoten op een zwaar materiaal waarin veel neutronen zitten; daarbij "verdampen" de neutronen als het ware uit het materiaal.

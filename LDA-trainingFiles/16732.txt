@@ -1,0 +1,15 @@
+Priemtweeling.
+Priemtweelingen zijn priemgetallen die voorkomen in de vorm en, waarbij zowel als een priemgetal zijn. Voorbeelden hiervan zijn 3 en 5, 5 en 7, en 17 en 19.
+Vermoeden.
+Men vermoedt dat er oneindig veel priemtweelingen zijn. Hier is echter (nog) geen bewijs voor. Wel heeft de Chinese wiskundige Yitang Zhang inmiddels aangetoond dat er een getal "d" kleiner dan 70 miljoen moet zijn, waarvoor geldt dat er oneindig veel paren priemgetallen zijn van de vorm "p" en "p+d". Inmiddels is aangetoond dat er een dergelijk getal "d" moet zijn kleiner of gelijk aan 246.
+Criterium.
+De getallen "p" en "p"+2 zijn beide priemgetallen dan en slechts dan als deelbaar is door "p" zowel als "p"+2. Dit criterium is niet eenvoudig te gebruiken doordat faculteiten al gauw enorm groot zijn.
+Constante van Brun.
+Ook al weet men niet of er oneindig veel priemtweelingen zijn, wel weet men dat de som
+Het getal "B"2 wordt de constante van Brun genoemd.
+Grootst bekende priemtweelingen.
+De toen grootste priemtweeling werd gevonden op 25 juli 2009, dit door de gebruikers van een project met de naam PrimeGrid. Het heeft 100 355 cijfers
+Momenteel zoekt PrimeGrid niet meer actief naar priemtweelingen.
+Trivia.
+Priemdrielingen, d.w.z. drie opeenvolgende priemgetallen met alleen even getallen er tussen, laat staan priem-vierlingen, bestaan niet (met uitzondering van de reeks 3-5-7). Een willekeurige reeks van drie opeenvolgende oneven getallen zal immers altijd één (maar ook nooit meer dan één) veelvoud van 3 bevatten. Een priemtweeling wordt (met uitzondering van de tweeling 3-5) zodoende altijd voorafgegaan en gevolgd door een oneven getal dat door 3 deelbaar is.
+De som van de twee getallen van een priemtweeling is (met uitzondering van de tweeling 3-5) altijd deelbaar door 12; immers uit de eigenschappen van de reeks veelvouden van 3 volgt dat behalve het voorafgaande en het volgende oneven getal ook het getal tussen de twee priemtweelinggetallen een veelvoud van 3 is, en tevens een even getal, dus altijd deelbaar moet zijn door 6. De som is twee maal dit gemiddelde, dus deelbaar door 12.

@@ -1,0 +1,4 @@
+Staartrecursie.
+Een staartrecursie (Engels: "tail recursion") is een programmeerconcept in de informatica.
+Bij een procedure spreekt men over staartrecursie indien de recursieve oproep de laatste instructie is. Elke procedure die aan deze voorwaarde voldoet kan gemakkelijk worden omgevormd tot een niet-recursieve procedure, met een equivalente iteratie. Dit is mogelijk, omdat het niet nodig is om de lokale context van de procedure op te slaan (zodat deze zou kunnen worden hersteld bij het terugkeren naar de oproeper). Zelfs het terugkeeradres hoeft niet te worden bijgehouden omdat de procedure toch eindigt na het uitvoeren van de recursieve instructie.
+Sommige compilers optimaliseren een geval van staartrecursie door niet voor iedere recursieve oproep een nieuw stackframe te alloceren, maar de oude opnieuw te gebruiken. Dit leidt tot minder vertraging en minder kans op een stack-overflow.

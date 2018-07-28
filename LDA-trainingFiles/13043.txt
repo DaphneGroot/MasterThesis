@@ -1,0 +1,12 @@
+Mozilla Thunderbird.
+Mozilla Thunderbird, of kortweg Thunderbird'", is een opensource-e-mailclient ontwikkeld door het Mozilla-project. Net als de webbrowser Mozilla Firefox heeft Thunderbird als doel een snel, functioneel en krachtig programma te zijn, zonder een overmaat aan toeters en bellen. Om die reden werd het programma, net als Firefox, in 2004 afgesplitst van het Mozilla-pakket (nu SeaMonkey) waarmee de broncode gedeeld werd. Mozilla Thunderbird is in 2007 sinds versie 1.0 reeds 44 miljoen keer binnengehaald.
+Thunderbird is gratis te verkrijgen voor Windows, Linux, SkyOS en Mac. Mozilla Thunderbird is beschikbaar in 52 verschillende talen, waaronder Nederlands en Fries.
+Begin juli 2012 liet Mozilla weten niet verder te gaan ontwikkelen voor Thunderbird. Vanaf die datum levert de firma enkel "Extended Support Releases", met veiligheids- en onderhoudsupdates.
+Extensies.
+Voor diegenen die extra functionaliteit wensen, zijn er extensies ("add-ons") verkrijgbaar. Zo kan je met behulp van de extensie Enigmail het encryptie-systeem Pretty Good Privacy (PGP) integreren in Thunderbird. Een andere extensie is Lightning, waarmee de agenda-functies van het project Mozilla Calendar in Thunderbird worden geïntegreerd.
+Versie 14.
+Versie 14 werd uitgebracht op 17 juli 2012.
+Versie 24.
+Versie 24 werd uitgebracht op 17 september 2013.
+Versie 38.
+Versie 38.0.1 werd uitgebracht op 11 juni 2015.

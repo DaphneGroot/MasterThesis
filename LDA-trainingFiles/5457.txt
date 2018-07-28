@@ -1,0 +1,4 @@
+Frederick Brooks.
+Frederiks (Fred) P. Brooks, Jr. (Durham (North Carolina), 19 april 1931) is een Amerikaanse softwareontwikkelaar. Hij vooral bekend van zijn medewerking aan de ontwikkeling van het 360. Hij kreeg hiervoor, samen met Bob Evans en Erich Bloch de National Medal of Technology in 1985.
+Later heeft hij een boek geschreven, "The Mythical Man-Month", over projectmanagement van softwareontwikkeling. Hij put hierin onder meer uit zijn ervaringen met het uit de hand lopen van de ontwikkeling van 360, het besturingssysteem voor System/360.
+In 1999 ontving hij de Turing Award.

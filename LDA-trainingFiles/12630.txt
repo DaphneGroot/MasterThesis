@@ -1,0 +1,33 @@
+Kantelbaktrein.
+De kantelbaktrein is een trein met een techniek, waardoor de wagenbakken in richting van de middelpuntzoekende kracht gekanteld worden. Hierdoor kan de trein met hogere snelheden dan normaal door krappe bogen rijden.
+Duitse ICE-T kantelbaktrein in een bocht. De voorste drie bakken zijn al door de bocht en dus niet meer gekanteld, de achterste bakken zijn in verschillende mate gekanteld.
+Techniek.
+De kantelbaktechnologie maakt het treinen mogelijk om in een bocht meer naar binnen te hellen dan de verkanting van de rails. Daardoor gaat de trein de centrifugale kracht op de reizigers tegen waardoor de trein aanmerkelijk sneller door bochten kan rijden. Door de kantelbaktechnologie wordt de maximale snelheid op bochtige trajecten hoger, en de reistijd verkort. Zo heeft de inzet van Baureihe 612 op het baanvak Chemnitz Hbf - Leipzig Hbf de reistijd met 25 minuten verkort (van 85 naar 59 minuten).
+De kantelbaktechnologie kan onderverdeeld worden in actieve en passieve vorm. Bij de passieve kantelbaktechniek is de cabine zodanig opgehangen dat er een virtueel draaipunt in de lengterichting ontstaat dat boven het zwaartepunt van de cabine ligt, waardoor de trein vanzelf gaat hellen. Bij de actieve kantelbaktechniek meten sensoren de zijdelingse krachten waarmee hydraulische cilinders aangestuurd worden om de trein te kantelen.
+Een kantelbaktrein heeft als nadeel dat de reizigers een verhoogd risico op zeeziekte (of wagenziekte) hebben. Een onderzoeksteam heeft onderzocht dat een deel van de reizigers zich misselijk voelt doordat vanuit het gezichtspunt van de reiziger de horizon beweegt.
+Geschiedenis.
+Hoewel Franz Kruckenberg in Duitsland al in 1928 een trein met een passief kantelbaksysteem ontwierp, is de kantelbak pas succesvol geworden in Italië met de invoering van de Pendolino en in Spanje met de Talgo Pendular.
+Kantelbaktreinen in Europa.
+Alle genoemde treinen zijn treinen met een actieve kantelbakinrichting, tenzij anders vermeld.
+Duitsland.
+DB Fernverkehr heeft een aantal ICE's met kantelbakinstallatie aangeschaft voor lange trajecten waar geen hogesnelheidslijn is. Er is zowel een elektrische variant, ICE-T, als een dieselvariant, ICE-TD. De ICE-TD's rijden op de verbindingen van Duitsland naar Denemarken en hebben eerder ook binnen Duitsland gereden, maar kwamen daar toen door technische problemen aan de kant te staan. Op sommige lijnen zijn deze treinstellen toen tijdelijk vervangen geweest door treinstellen BR 612, die beduidend minder comfort hebben dan de ICE's. Deze BR 612-treinstellen zijn tijdelijk in de ICE-kleurstelling gespoten.
+Frankrijk.
+De SNCF (Franse spoorwegen) hebben nog geen treinen met kantelbakinrichting. Wel zijn er proeven geweest met een TGV met kantelbakinstallatie, maar dit heeft nog niet geleid tot reguliere inzet.
+Italië.
+In Italië rijden veel kantelbaktreinen voor lange afstanden, die daar Pendolino worden genoemd. De treinen rijden onder de merknaam Eurostar Italia, evenals de Italiaanse hogesnelheidstrein ETR.500. Ook reden er tot 13 december 2009 Pendolino's naar Zwitserland en Duitsland onder de naam Cisalpino.
+In diverse landen rijden van de Pendolino afgeleide treinen: Finland, Portugal, Slovenië, Spanje en Tsjechië.
+Kroatië.
+In Kroatië werden 8 treinen van het type "Regio Swinger" van de Deutsche Bahn overgenomen en als serie 7123 ingezet op het traject Zagreb - Split.
+Portugal.
+In Portugal wordt de van de Italiaanse Pendelino afgeleide Alfa Pendular ingezet op de trajecten Lissabon- Braga en Lissabon - Faro.
+Spanje.
+In Spanje rijden, naast de eerder genoemde Pendolino's, veel in Spanje gebouwde Talgo-treinen met een passieve kantelbakinstallatie (Talgo Pendular). Deze worden ook ingezet in internationale treinen naar Frankrijk en Zwitserland. Talgo's rijden ook in Duitsland, Kazachstan en de VS. Ten slotte hebben de Spaanse spoorwegen (RENFE) in 2004 een type dieseltreinstel met kantelbaktechniek gekocht voor regionale lijnen.
+Scandinavië.
+In Zweden rijdt de succesvolle X2000 kantelbaktrein, die ook aan China verkocht is. Deze treinen rijden ook naar Denemarken en Noorwegen.
+De Noorse spoorwegen hebben ook eigen kantelbaktreinen voor de lange afstanden gekocht ("BM73"), die rijden onder de namen Signatur en Agenda. Soortgelijke treinen worden door een private exploitant ingezet tussen Oslo en de luchthaven. Deze typen treinen werden echter geplaagd door technische storingen.
+Voor de lijn naar het noorden van het land, Nordlandsbana, werden Talent-treinen gekocht met kantelbakinrichting. De Talent is een light train die vooral geschikt is voor korte afstanden. Voor de enorme afstanden in Noorwegen is deze trein voorzien van een comfortabeler interieur dan gebruikelijk. Desondanks heeft de inzet van deze treinen geleid tot een terugval in het aantal passagiers op de lijn.
+In Finland worden treinen ingezet die zijn afgeleid van de Italiaanse Pendolino.
+Verenigd Koninkrijk.
+In de jaren zeventig en tachtig heeft British Rail al geëxperimenteerd met de weinig succesvolle Advanced Passenger Train (APT).
+Zwitserland.
+De SBB (Zwitserse staatsspoorwegen) hebben, ter gelegenheid van 125 jaar Zwitserse spoorwegen, in 1972 de Swiss Express op de rails gebracht. Dit betrof een trein met losse rijtuigen die voorzien waren van een kantelbak. Omdat de Swiss Express getrokken werd door locomotieven zonder kantelbak was de tijdwinst minimaal en de serie productie uit 1975, de EW III is dan ook niet voorzien van een kantelbak inrichting. Het idee is in 1993 weer opgepakt met de ontwikkeling van een eigen type kantelbaktreinstel, de ICN ("Intercity Neigezug"). In 1998 werd het eerste treinstel geleverd. Nadat enkele technische problemen werden verholpen werd het aantal bestelde treinen verhoogd.

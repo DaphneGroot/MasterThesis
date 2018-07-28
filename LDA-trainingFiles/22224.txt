@@ -1,0 +1,11 @@
+Project Gutenberg.
+Project Gutenberg is een digitale bibliotheek van zogenaamde e-books of elektronische boeken.
+Toelichting.
+Michael Stern Hart en Gregory Newby tijdens de HOPE conferentie in 2006
+Michael Hart startte in 1971 met dit project genoemd naar Johannes Gutenberg, die algemeen geldt als uitvinder van de boekdrukkunst met losse letters.
+De meeste door Project Gutenberg gepubliceerde teksten vallen in het publiek domein in de Verenigde Staten. Ofwel omdat ze nooit onder het auteursrecht vielen, ofwel omdat het auteursrecht verlopen is. Enkele teksten vallen nog onder auteursrecht, maar zijn beschikbaar gesteld door de auteurs. Typische kandidaten voor Project Gutenberg zijn belangrijke of succesvolle boeken waarvan het auteursrecht inmiddels verlopen is, zoals veel oude filosofische teksten, maar b.v. ook de Sherlock Holmes-verhalen van Arthur Conan Doyle of de Tarzan-verhalen van Edgar Rice Burroughs. Er zijn diverse readers (leesprogramma's) op het internet te vinden waarmee men de teksten op een plezierige manier op het computerscherm kan lezen.
+Hoewel het merendeel van de teksten Engelstalig is, zijn er ook veel werken in andere talen te vinden op Project Gutenberg, waaronder het Nederlands.
+Een vergelijkbaar Nederlandstalig project was het Project Laurens Jz Coster, (genoemd naar degene die eeuwenlang in Nederland gold als uitvinder van de boekdrukkunst). Na beëindiging in 2001 is dit project opgevolgd door de Digitale Bibliotheek voor de Nederlandse Letteren. In Scandinavië is er het Project Runeberg.
+Voorbeelden.
+Sinds enige tijd zijn er ook muziekwerken en gesproken woord te vinden. Het standaard formaat is nog steeds 'platte tekst' (ASCII), maar ook HTML en PDF winnen terrein, vooral als er afbeeldingen bij de tekst horen.
+De werkzaamheden worden voornamelijk door vrijwilligers verricht die teksten scannen en door OCR in tekst omzetten. Hun voornaamste werk is echter de tekst op fouten controleren, waarbij een heel leger zogenaamde 'proofreaders' wordt ingezet om dagelijks duizenden pagina's van oude boeken door te worstelen en te corrigeren.

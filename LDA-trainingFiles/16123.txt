@@ -1,0 +1,12 @@
+Rangtelwoord.
+Een rangtelwoord (ook: "ordinale", mv: "ordinalia") is een woord (telwoord) dat een rangvolgorde in een rij weergeeft.
+Schrijfwijze.
+Over de schrijfwijze van een rangtelwoord met een cijfer bestaat geen eenduidigheid. Het advies van de Nederlandse Taalunie is de schrijfwijze als cijfer met een "e" erachter of het systeem met "ste" en "de" achter het cijfer, zij het dat het wisselen van systeem in dezelfde tekst afgeraden wordt. Koppeltekens en apostrofs zijn niet gewenst.
+Volgens de Taalunie is het toepassen van superscripts onwenselijk.
+Bepaald en onbepaald.
+Rangtelwoorden kunnen worden onderverdeeld in bepaalde rangtelwoorden (het aantal is exact bekend) en onbepaald rangtelwoorden (het exacte aantal is onbekend).
+Van het bepaalde hoofdtelwoord "beide" kan geen rangtelwoord worden gemaakt. Van de onbepaalde rangtelwoorden "middelste" en "laatste" bestaat geen hoofdtelwoord.
+Breuken.
+Bij breukgetallen worden hoofdtelwoorden gecombineerd met rangtelwoorden.
+Rangnummer.
+Het rangnummer van een element van een rij is 1 voor het eerste element, 2 voor het tweede, enz.

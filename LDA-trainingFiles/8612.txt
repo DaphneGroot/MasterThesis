@@ -1,0 +1,3 @@
+Getal van Nusselt.
+Het getal van Nusselt is een dimensieloos getal. Het vertegenwoordigt de dimensieloze temperatuurgradiënt aan het oppervlak bij convectie. Het is dus een maat voor de hoeveelheid warmte die getransporteerd wordt door het oppervlak.
+Het getal is genoemd naar Wilhelm Nußelt (1882-1957) een Duitse professor op het gebied van massa- en warmtetransport.

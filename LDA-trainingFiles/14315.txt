@@ -1,0 +1,5 @@
+Solid oxyde fuel cell.
+Een solid oxide fuel cell (SOFC) is een brandstofcel werkend met een vast oxide (keramiek) als elektrolyt. Het ionentransport vindt plaats met behulp van oxide-ionen, de katalysator voor de ionisatie van het waterstof bestaat uit nikkel met yttrium-gedoteerde zirkoniumoxide.
+Een solid oxide electrolyser cell (SOEC) is een solid oxide fuel cell in regeneratieve modus voor de elektrolyse van water met een vast oxide of keramisch elektrolyt voor de productie van waterstofgas.
+De Finse motorfabrikant Wartsila is bezig met de ontwikkeling van een SOFC brandstofcel voor maritiem gebruik.
+Een SOFC kan ook toegepast worden in een zogenaamde combined heat hydrogen power applicatie (CHHP). Bij zo'n systeem wordt tegelijkertijd warmte, waterstof en elektriciteit geproduceerd uit koolwaterstoffen zoals bijvoorbeeld aardgas.

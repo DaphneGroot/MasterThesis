@@ -1,0 +1,6 @@
+Metaaldraaibank.
+Een metaaldraaibank is een machine waarmee metalen of kunststoffen werkstukken worden gedraaid/gemaakt. De draaibank bestaat uit een gietijzeren gestel of geraamte.
+Door een elektromotor wordt via een v-snaar de klauwplaat, welke op de hoofdas wordt bevestigd, aangedreven.
+De draaibank bestaat verder uit een support waarin de beitels voor het draaiwerk worden vastgezet. Dit beitelsupport kan zowel handmatig als automatisch over een zwaluwstaartbed worden voortbewogen. Aan het andere uiteinde van de draaibank zit de "losse kop" waarin een vast of meedraaiend center kan worden geplaatst. Ook een boorkop of een boor met grotere diameter kunnen hier worden vastgeklemd.
+Op een metaaldraaibank kan behalve in- en uitwendig draaiwerk ook schroefdraad "gesneden" worden. Door verschillende tandwielverhoudingen te gebruiken kunnen diverse soorten schroefdraad worden gesneden. De meest voorkomende schroefdraad hier op het Europese vasteland is de Metrische draad.
+Er is ook Engelse (schroef)draad, "Whitworth" <WW> genoemd, waarvan de spoed (hier het aantal gangen per inch) en de tophoek de voornaamste verschilpunten tussen de WW en de Metrische schroefdraad zijn.

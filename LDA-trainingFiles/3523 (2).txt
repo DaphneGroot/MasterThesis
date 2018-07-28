@@ -1,0 +1,3 @@
+Soortelijke massa van gassen.
+Gassen bij 0 °C en 1 bar (behalve indien anders aangegeven).
+De massadichtheid van een ideaal gas wordt beschreven door de Wet van Boyle-Gay-Lussac. Bij deze temperatuur en druk zijn veel van de gassen in de onderstaande tabel nog goed met dit model te beschrijven. De dichtheid is voor zulke gassen een simpele functie van het (gemiddelde) molecuulgewicht.

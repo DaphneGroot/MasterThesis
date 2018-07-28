@@ -1,0 +1,5 @@
+JScript.
+JScript is een door Microsoft gemaakte scripttaal, gebaseerd op ECMAScript. Door deze basis lijkt JScript erg veel op JavaScript.
+Omdat JScript geïmplementeerd is als een Windows Script-"engine", kan JScript in verschillende applicaties worden gebruikt, zolang deze maar Windows Script ondersteunen.
+Voorbeelden van applicaties die gebruikmaken van "Windows Script" zijn ASP en Internet Explorer. Het voordeel dat het gebruik van "Windows Script" als tussenlaag heeft is dat iedere applicatie die "Windows Script" implementeert direct ook alle andere talen ondersteunt die deze scripttaal kunnen uitvoeren (zoals VBScript en Perl). Functies kunnen hierdoor - theoretisch gezien - taalonafhankelijk worden geïmplementeerd.
+De nieuwste versie van JScript is JScript.NET, maar deze wordt nog niet ondersteund door Microsofts eigen webbrowser Internet Explorer.

@@ -1,0 +1,7 @@
+Groupware.
+Groupware (ook wel Group support systems of collaborative software genoemd) is een categorie van software die erop gericht is met een groep van gebruikers een gezamenlijk eindresultaat te bereiken. Een wiki is hiervan een perfect voorbeeld, maar denk ook aan softwarepakketten voor gezamenlijke brainstormsessies of, in ruimere zin, e-mailsystemen en gezamenlijke kalenders.
+Laudon en Laudon (1998; p. 325) gebruiken als definitie: “software die de significantie van groepen binnen kantoren erkent door het aanbieden van functies en diensten die de samenwerkende activiteiten van werkgroepen bevorderen.”
+Kennis delen vormt de basis voor het gebruik van deze software. Daarnaast vormt groupware een belangrijk communicatiemiddel en kan deze software (virtuele) samenwerkingsprocessen ondersteunen. Deze aspecten maken groupware tot een onmisbaar middel voor grote, verspreide organisaties om optimaal samen te werken.
+Enkele van de meest gebruikte commerciële groupwarepakketten zijn Lotus Notes en Microsoft Outlook.
+Een gratis groupwarepakket is de online werkomgeving van Google, Google Docs. Deze maakt het mogelijk om met meerdere gebruikers in real-time aan eenzelfde document, presentatie of tekening te werken. Om Google Docs te gebruiken is alleen een browser nodig.
+De software kan ook zijn opgenomen in kantoorsoftwarepakketten.

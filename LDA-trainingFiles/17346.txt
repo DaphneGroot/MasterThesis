@@ -1,0 +1,2 @@
+ISO 3166.
+De ISO-norm ISO 3166 geeft codes voor alle landen, grondgebieden of belangrijke geografische gebieden (bijvoorbeeld "Antarctica"), kortweg "landen" genoemd.

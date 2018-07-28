@@ -1,0 +1,12 @@
+Entropie (informatietheorie).
+Entropie is de maat voor informatiedichtheid in een reeks gebeurtenissen. Informatie ontstaat als een gebeurtenis plaatsvindt waarvan vooraf onzeker was of deze daadwerkelijk zou gebeuren. In de informatietheorie wordt dit inzicht verder wiskundig uitgewerkt.
+De gemiddelde (eigenlijk: verwachte) hoeveelheid informatie bij een nog plaats te vinden gebeurtenis of een nog uit te voeren (kans)experiment, is gedefinieerd als de verwachtingswaarde, zoals gedefinieerd in de kansrekening, van de hoeveelheid zelfinformatie die deze gebeurtenis zal opleveren.
+Definitie.
+Stel dat formula_1 de mogelijke uitkomsten zijn bij een experiment formula_2. De kans van optreden van de uitkomst formula_3 is formula_4. Een dergelijk experiment wordt beschreven door de discrete verdeling bepaald door de kansen formula_4, of ook door een discrete stochastische variabele formula_6 met deze kansverdeling. De uitkomst formula_3 bevat een hoeveelheid zelfinformatie formula_8
+De "entropie" formula_9 van het experiment, of van de kansverdeling, of ook van formula_6 is de verwachte hoeveelheid informatie.
+Als niet de binaire logaritme maar de natuurlijke logaritme gebruikt wordt, heet de eenheid waarin de entropie gemeten wordt de nat; wordt de Briggse logaritme gebruikt, dus met grondtal 10, dan heet de eenheid de ban.
+Voorbeeld.
+Het alfabet bevat zes klinkers (a, e, i, o, u, y) en twintig medeklinkers. Bij een experiment schrijft iemand een geheel willekeurige letter op een papiertje, en wordt er vervolgens vastgesteld of het een klinker dan wel een medeklinker is. De gemiddelde hoeveelheid informatie die beschikbaar komt bij dit experiment is dan
+Dit is een voorbeeld van een experiment met twee mogelijke uitkomsten. Het blijkt dat de gemiddelde hoeveelheid informatie bij uitvoering van het experiment minder dan 1 bit bedraagt. In het algemeen is het bewijsbaar dat uitvoeren van een experiment dat N mogelijke uitkomsten heeft nooit meer dan een gemiddelde informatie van log2(N) bit kan opleveren. En deze waarde voor de gemiddelde informatie wordt bereikt als elke uitkomst een even grote kans 1/N heeft.
+Relatie met thermodynamica.
+Het begrip entropie is bekender in de thermodynamica dan in de informatietheorie, maar de definitie ervan in de informatietheorie heeft veel overeenkomsten. Het werk van Boltzmann en Gibbs aan statistische thermodynamica inspireerde Shannon om het begrip in de informatietheorie te gebruiken.

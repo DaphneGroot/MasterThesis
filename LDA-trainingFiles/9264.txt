@@ -1,0 +1,21 @@
+Paardenkracht.
+De paardenkracht (Nederlands symbool pk en vaak zo uitgesproken) is een oude eenheid van arbeidsvermogen, waarvan het gebruik sinds 1978 – bij de invoering van het SI-stelsel – wettelijk niet meer is toegestaan. De naam paardenkracht is verwarrend, want het is geen eenheid van kracht maar van vermogen. De Engelse naam horsepower (symbool HP) geeft die verwarring niet.
+De paardenkracht heeft, in tegenstelling tot andere eenheden, geen internationaal overeengekomen symbool.
+Bij de komst van de stoommachine - die het paard moest vervangen - sprak het vanzelf dat men het vermogen vergeleek met het vermogen van een paard. Een paardenkracht was dan ook het arbeidsvermogen dat een gemiddeld paard langdurig kon leveren, bijvoorbeeld voor het aandrijven van een rosmolen.
+Huidige definities.
+De volgende definities worden wereldwijd gebruikt.
+Metrische horsepower.
+Rond de eeuwwisseling van de 19e en de 20e eeuw werd in advertenties de cilinderinhoud van voertuigen niet vermeld, alleen het motorvermogen was belangrijk
+De Schotse uitvinder James Watt definieerde de paardenkracht rond 1770 als 33 000 foot-pounds per minute. Dit is het vermogen van een trekpaard om 150 kilogram in een minuut 30 meter op te hijsen. Dus
+Deze waarde is gelijk aan wat later in Engeland "metric horsepower" werd genoemd.
+1 pk komt dus overeen met ongeveer 0,7355 kW, en 1 kW met ongeveer 1,3596 pk.
+Het vermogen van stoommachines en later ook dat van motoren werd vroeger in pk uitgedrukt. Maar de pk is tegenwoordig vervangen door de SI-eenheid kW (kilowatt), hoewel men in advertenties voor auto's en in het algemeen de term nog steeds gebruikt.
+Internationaal.
+Een Nederlandse paardenkracht (pk) is exact gelijk aan de Duitse "Pferdestärke" ("PS") en de Franse "cheval-vapeur" ("cv"), terwijl de Engelse "horse power" (hp) iets groter is: 1 horse-power = 1 HP = 550 ft.lbf/s ~ 745,7 watt met andere basiseenheden (1 ft = 1 foot = 0,3048 m en 1 lb = 1 pound = 0,4536 kg. "lbf" is de zwaartekracht op 1 pound. In Engeland werd dus een iets andere definitie toegepast.
+Verschillende manieren van meten.
+Oude Nederlandse motoren hebben nog al eens een vermogen dat wordt aangegeven in E.P.K.
+De opgave van het vermogen wordt door bedrijven meestal zo gunstig mogelijk voorgesteld. Soms sprak men ook wel van verkoop-pk. Het vermogen van auto's en motorfietsen werd ook in pk uitgedrukt, maar de opgegeven getallen konden dus misleidend zijn. Als men het vermogen direct aan de krukas meet, zal het vermogen hoger uitvallen dan als men het aan de wielen meet of als motoren worden ontdaan van de hulpapparatuur, zoals de dynamo, versnellingsbak, hydraulische pompen en andere zaken die extra door de motor worden aangedreven. Daarnaast kan de motor op een zeer gunstige manier zijn afgesteld, waardoor men het hoogste vermogen meet.
+Fiscale pk.
+In België is de fiscale pk een middel tot belastingheffing. Deze eenheid wordt niet berekend op het werkelijk vermogen van de wagen, maar wel op de cilinderinhoud. Samen met het werkelijk vermogen bepaalt ze de hoogte van de verkeersbelasting.
+Cheval fiscal.
+De paardenkracht moet niet worden verward met de CV ("cheval fiscal"), een eenheid die door de Franse fiscus wordt gebruikt om het vermogen van een voertuig aan te duiden en die in Nederland vooral bekend is uit de naam van de 2CV. Het vermogen in "chevaux fiscaux" wordt berekend met formula_3. Hierin is "C" de uitstoot aan CO2 en "P" het vermogen in kW.

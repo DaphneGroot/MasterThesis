@@ -1,0 +1,2 @@
+Drukknopkiezen.
+Drukknopkiezen op een telefoontoestel is ontstaan door DTMF (toonkiezen), een internationaal geaccepteerde standaard voor het genereren van frequenties binnen het hoorbare frequentieveld. Iedere toets op het telefoontoestel is gekoppeld aan een vaste toon die is samengesteld uit twee frequenties. Door deze standaardisering is ook de mogelijkheid ontstaan om het alfabet te koppelen aan de toetsen op het telefoontoestel. Voor dove mensen is dit een uitkomst.

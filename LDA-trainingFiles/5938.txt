@@ -1,0 +1,19 @@
+Read-only memory.
+Een read-only memory (Engels: "alleen leesbaar geheugen") of ROM is een geheugenopslagmedium in computers en andere elektronische apparaten. In het ROM van pc's wordt meestal de firmware bewaard. De naam "ROM-geheugen" wordt ook vaak gebruikt maar is eigenlijk een pleonasme, aangezien de M al voor "memory" (= geheugen) staat.
+Een read-only memory wordt gebruikt wanneer een apparaat, ook als het uitstaat, een programma moet bewaren (normaal geheugen RAM verliest zijn inhoud wanneer er geen spanning meer is), of wanneer het nooit of slechts zelden nodig is om het programma te wijzigen. ROM is, in tegenstelling tot wat sommige mensen denken, zeker niet sneller dan RAM; daarom werd op oude pc's het ROM door de computer snel in RAM gekopieerd alvorens het te gebruiken. Dit proces heette "ROM shadowing".
+Het ROM is relatief traag, en kon na 2003 nauwelijks kleiner, goedkoper en sneller worden (het zou zijn inhoud langzaam verliezen als het nog kleiner gemaakt werd).
+De naam ROM wordt veelal exclusief voor het masker-ROM gebruikt. Bij deze oervorm worden de data tijdens het fabricageproces in de chip aangebracht. Dit gebeurt door delen van de chip selectief weg te laten.
+ROM.
+Het oudste soort ROM is 'mask programmed'. Dit wordt in de chipfabriek van gegevens voorzien. Een dergelijk ROM is dan ook alleen op bestelling leverbaar, en bovendien alleen in grote aantallen. Desondanks was een dergelijk ROM zeer bruikbaar voor fabrikanten van elektronische apparatuur, waarin een vast computerprogramma moest worden ingebouwd.
+PROM.
+Daarna kwam het PROM, Programmable ROM. Dit wordt 'leeg' verkocht. Met een speciaal apparaat, een PROM-programmer of (e)prommer, kunnen er gegevens in een PROM worden geschreven. Achteraf wissen is niet meer mogelijk.
+EPROM.
+De volgende stap is het opmerkelijke EPROM, Erasable PROM. Dit heeft een kwartsglazen venstertje in de behuizing. Door het EPROM een paar minuten aan ultraviolet licht bloot te stellen, wordt de inhoud gewist. Daarna kan het geheugen met een EPROM-programmer opnieuw geprogrammeerd worden. Daardoor is een EPROM bijzonder geschikt om software te testen die later in een ROM of PROM zal worden gezet.
+Wordt een EPROM definitief geprogrammeerd, dat wil zeggen zonder de intentie de inhoud weer te wissen, dan plakt men over het venstertje een etiket met de naam en het versienummer van de software.
+Sommige PROM's zijn in werkelijkheid EPROM's, maar met een gesloten behuizing, zodat wissen praktisch gezien niet meer mogelijk is.
+EEPROM.
+Daarna verscheen het EEPROM. Dit wordt gewist en beschreven door bepaalde elektrische spanningen. Hierdoor is het mogelijk de inhoud te wijzigen terwijl het EEPROM in de computer blijft zitten. Een vorm van EEPROM-geheugen is flashgeheugen.
+RAM.
+Een geheugen dat bedoeld is om veelvuldig beschreven te worden, heet RAM. Dit staat voor "random-access memory". De naam is verwarrend, want een ROM is ook random-access: de gegevens kunnen, in tegenstelling tot de gegevens op een magneetband, in willekeurige volgorde gelezen worden.
+Er is weleens voorgesteld dat de benaming RAM moet worden vervangen door RWM, of dat RAM de afkorting is voor "Read And Write Memory", wat dan een backroniem is.
+De inhoud van een RAM gaat meestal verloren als de voedingsspanning wegvalt.

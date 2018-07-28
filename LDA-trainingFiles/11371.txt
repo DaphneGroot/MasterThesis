@@ -1,0 +1,25 @@
+Basis (lineaire algebra).
+In de lineaire algebra is een basis van een vectorruimte een verzameling van lineair onafhankelijke vectoren die de vectorruimte voortbrengen. Een element uit een basis wordt basisvector genoemd. Voor een gegeven basis is iedere vector uit de vectorruimte een eenduidige eindige lineaire combinatie van de basisvectoren. De coëfficiënten van deze lineaire combinatie heten de coördinaten van de vector ten opzichte van de gegeven basis. Intuïtief beschouwd is een basis een zo klein mogelijke verzameling vectoren die de hele vectorruimte voortbrengen. Een vectorruimte heeft in het algemeen meerdere bases. Ter onderscheiding van andere typen basis (die overigens meestal alleen bij oneindigdimensionale vecrorruimten verschillen), wordt de hier gedefinieerde basis ook Hamelbasis (naar Georg Hamel) genoemd.
+Eindigdimensionale geval.
+De getallen formula_8 heten de "coördinaten" van de vector "v" ten opzichte van de basis formula_1.
+Als er een eindige basis als boven bestaat, kan worden bewezen dat elke basis van de vectorruimte uit hetzelfde aantal vectoren bestaat. Dit aantal is dus op te vatten als een eigenschap van de vectorruimte en wordt de dimensie genoemd. Zo'n vectorruimte heet eindigdimensionaal.
+Als de dimensie van een vectorruimte "n" is, bevat elk voortbrengend deel ten minste "n" vectoren en een vrij deel ten hoogste "n" vectoren. Bevat een voortbrengend deel of een vrij deel precies "n" vectoren, dan vormen deze een basis van die vectorruimte.
+Algemene geval.
+De algemene definitie geldt voor een basis formula_10 die ofwel uit een eindig ofwel een oneindig aantal vectoren bestaat.
+Onder de veronderstelling van de geldigheid van het keuzeaxioma heeft iedere vectorruimte een basis. Elke basis heeft dezelfde kardinaliteit. Een vectorruimte heet oneindigdimensionaal als formula_10 uit oneindig veel vectoren bestaat.
+Hamelbasis.
+In het geval van een oneindigdimensionale vectorruimte wordt een basis zoals hierboven gedefinieerd wel als hamelbasis aangeduid. Dit ter onderscheiding van anders gedefinieerde bases.
+Een (hamel)basis van een oneindigdimensionale banachruimte is overaftelbaar.
+Schauderbasis.
+In sommige soorten oneindigdimensionale vectorruimten, met name banachruimten, wordt ook een ander type basis, schauderbasis genaamd, gedefinieerd. Een schauderbasis bestaat uit een (mogelijk oneindige) rij vectoren zodanig dat iedere vector een unieke norm-convergente reeksontwikkeling heeft ten opzichte van die rij. Voor eindige dimensie vallen de begrippen hamelbasis en schauderbasis samen.
+Moduul.
+Men kan het begrip basis volkomen analoog definiëren voor een moduul over een commutatieve ring, maar niet ieder moduul heeft een basis.
+Voorbeelden.
+De vectoren (1,0) en (0,1) vormen een basis voor formula_22, de zogenaamde basis van eenheidsvectoren. Deze basis is een orthonormale basis. Ook de vectoren (1,3) en (2,3) vormen een basis, zoals trouwens elk tweetal lineair onafhankelijke vectoren.
+is een basis voor de vectorruimte
+Orthogonaliteit.
+Voor vectorruimten over het scalairenlichaam formula_26 of formula_27 bestaat de notie van een inproduct. Men noemt twee vectoren die verschillend zijn van de nulvector, orthogonaal of loodrecht als hun inproduct nul is. Een eenheidsvector is een vector waarvan het inproduct met zichzelf 1 bedraagt.
+Een orthogonale basis is een basis waarvan de vectoren onderling loodrecht zijn. Een orthonormale basis is een orthogonale basis die uit eenheidsvectoren bestaat. In een eindigdimensionale vectorruimte met een scalair product kan men uit een gewone basis een orthonormale basis distilleren met behulp van het GS-procedé. Dit procedé blijft geldig in een oneindigdimensionale separabele Hilbertruimte om een Schauderbasis orthonormaal te maken.
+Geordende basis.
+Een basis op zich is een verzameling vectoren, zonder ordening. In veel gevallen is het gewenst de beschikking te hebben over een "geordende basis", zodat gesproken kan worden van bijvoorbeeld de eerste of de tweede basisvector. Dan liggen ook de coördinaten ten opzichte van die basis vast als een rij getallen. Een geordende basis is een rij vectoren die een basis vormen. Ze wordt voor eindige dimensies genoteerd als
+met index-verzameling formula_32 worden gebruikt, die ook geschikt zijn voor niet-eindige dimensies.

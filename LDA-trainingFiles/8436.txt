@@ -1,0 +1,9 @@
+Topleveldomein.
+Deel van de topleveldomeinen in West-Afrika. Complete wereldkaart
+Een topleveldomein of TLD (letterlijk "hoogste-niveaudomein") is het meest rechtse gedeelte in een internetdomeinnaam. Het wordt door de ICANN onder andere toegekend aan onafhankelijke landen. Er wordt ook wel extensie of internetextensie gebruikt, maar dat is een verwarrende term omdat domeinnamen van rechts naar links uitgebreid worden en het woord extensie "uitbreiding" impliceert, en er ook bestandsextensies zijn.
+De meeste Belgische sites hebben.be als laatste deel van hun domeinnaam, terwijl dat bij Surinaamse domeinen.sr is en Nederlandse websites hebben.nl. Dit type TLD bestaat uit 2 letters en is ontleend aan ISO 3166-1.
+Door een beslissing van ICANN in 2011 wordt het mogelijk om een eigen, generiek TLD aan te vragen en de domeinnamen daarop zelf te verdelen. Het new gTLD-programma is gestart begin 2012. De bedoeling is dat tegen eind 2013 de eerste van honderden nieuwe domeinextensies beschikbaar komen voor registratie. Voorbeelden hiervan zijn.vlaanderen.brussels.frl (Friesland) of.amsterdam. Het Nederlandse Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) heeft bij ICANN gTLD.overheidnl aangevraagd. Het heeft de voor- en nadelen daarvan laten onderzoeken; de conclusie van de verkenning was dat het al met al niet beter of slechter is dan het gebruik van.nl, waaronder.overheid.nl. Ook de Nederlandse politie heeft een gTLD aangevraagd en.politie is sinds 23 juni 2016 in de lucht.
+Generieke TLD's.
+Generieke TLD's behoren niet aan één bepaald land toe, maar kunnen verschillende categorieën websites bedienen. Zie de navigatie onder de bronvermelding.
+Nationale TLD's.
+Zie hiervoor de lijst van topleveldomeinen op het internet. Zie ook de navigatie onder de bronvermelding.

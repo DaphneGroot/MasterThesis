@@ -1,0 +1,17 @@
+Mayakalender.
+De Mayakalender bestaat uit een stelsel van tijdrekeningen die gezamenlijk iedere dag vanaf het begin van de huidige kringloop (11 augustus 3114 v.Chr. in de gregoriaanse kalender) van een eenduidig kenmerk voorzien.
+Belangrijkste kringlopen.
+Daarnaast werden de kringlopen van de maan en de planeten (vooral Venus) bijgehouden.
+Belangrijke kalenders.
+De drie belangrijkste kalenders die de Maya gebruikten waren de lange telling voor historische doeleinden, de Haab als burgerlijke kalender en de Tzolkin als religieuze kalender. Alle drie de kalenders telden de dagen als in serie op elkaar volgend, zonder feitelijke synchronisatie met de Zon of Maan. Door dit puur op het tellen van dagen gebaseerde systeem is vooral de lange telling wel vergelijkbaar met moderne tellingen zoals de Juliaanse dag, of de datumtelling in computersystemen. Ook "modern" lijkt het feit dat elke telling begint bij nul en niet bij 1 zoals in de meeste andere kalendersystemen.
+Lange telling.
+De lange cyclus bestaat uit een hiërarchie van cycli zoals in bovenstaande tabel. Elke cyclus bestaat uit 20 kortere cycli, behalve de tun, die met zijn 18 x 20 dagen elk jaar vijf dagen uit de pas loopt met het zonnejaar.
+Volgens het Mayageloof zou de wereld na elke pictun-cyclus van ongeveer 7885 jaren vernietigd en opnieuw gecreëerd worden. De huidige cyclus eindigt op 12 oktober 4772 volgens de gregoriaanse kalender.
+Opnieuw vergelijkbaar met moderne notaties (bijvoorbeeld met een IP-adres).
+Haab.
+Voor burgerlijke zaken gebruikten de Maya de Haab-kalender die het jaar verdeelde in 18 naamgegeven periodes van twintig dagen ("veintenas") elk, gevolgd door vijf Uayeb-dagen, die niet werden beschouwd als deel van een of andere periode. De dagen hebben een dagnummer van 0 tot 19 of van 0 tot 4 voor de Uayeb-dagen. Deze kalender gebruikt geen jaartelling, en op basis van een geschreven datum kan men dus niet afleiden in welk jaar de gebeurtenis plaatsvond. De cyclus van 365 dagen komt beter overeen met een zonnejaar, maar kent geen systeem van schrikkeljaren, zodat ook hiermee de seizoenen elke vier jaar een dag opschoven.
+Tzolkin-kalender.
+De religieuze Tzolkin-kalender was samengesteld uit twintig naamgegeven periodes van dertien dagen. Elke opeenvolgende dag wordt het dagnummer verhoogd met 1, maar ook de naam van de periode wordt die van de "volgende" periode. (In onze tijd zou dat iets betekenen als een opeenvolging van bv. 3 februari, 4 maart, 5 april enz.). Na 260 dagen herhaalt de kalender zich. Ook deze cycli krijgen net zomin als in de Haabkalender een jaarnummer.
+De Maya's specifieerden data vaak door gebruik te maken zowel van de Haab- als van de Tzolkin-kalender. Op deze manier herhaalt een datum zich pas na 52 jaar.
+Eschatologie.
+De einddatum van het vorige baktun (het dertiende) volgens de lange telling wordt weergegeven als 13.0.0.0.0, meestal omgezet naar de gregoriaanse datum 21 december 2012. Sommige mensen zagen hierin het einde van de wereld; zie 2012-fenomeen.

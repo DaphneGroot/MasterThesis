@@ -1,0 +1,5 @@
+Verdampingswarmte.
+Verdampingswarmte van benzeen, aceton, methanol en water in functie van de temperatuur
+De verdampingswarmte (ook soortelijke verdampingswarmte) is de hoeveelheid warmte die nodig is om een massa-eenheid stof van een gecondenseerde toestand (vast, vloeibaar) in een gas om te zetten. Meestal wordt hier de verdampingsenthalpie mee bedoeld, dat wil zeggen dat men uitgaat van standaardomstandigheden. Ze wordt uitgedrukt in kJ/mol of kJ/kg; niet tot SI behorende eenheden zijn kcal/mol of kcal/kg, Btu/lb enz. Het symbool voor verdampingsenthalpie is formula_1.
+De condensatiewarmte of condensatie-enthalpie van een stof is numeriek exact gelijk aan de verdampingswarmte, maar heeft een tegengesteld teken. Verdampingsenthalpie is positief (de stof neemt warmte op), en condensatiewarmte is negatief (de stof geeft warmte af).
+De verdampingswarmte van water bedraagt 2256 kJ/kg bij standaardomstandigheden. Vergeleken met het verwarmen van water kost het verdampen veel energie, meer dan 500 maal zoveel als om het één K te verwarmen (soortelijke warmte is 4,19 kJ/kg.K), dus meer dan vijfmaal zoveel als om het van smelt- tot kooktemperatuur te verwarmen.

@@ -1,0 +1,31 @@
+Bernoulligetal.
+De eerste Bernoulli-getallen gegeven door de Riemann-zèta-functie.
+Bernoulli-getallen spelen een belangrijke rol in de getaltheorie en hoewel zij gemakkelijk te berekenen zijn, is er geen eenvoudige beschrijving van deze getallen. Ze komen voor in Taylorreeksontwikkelingen van de tangens en de hyperbolische tangens-functies en in de formule van Euler-Maclaurin. Ook zijn ze nauw verbonden met de waarden voor de Riemann-zèta-functie voor negatieve gehele getallen.
+Vroege geschiedenis.
+Een pagina uit Seki Kowa's "Katsuyo Sampo" (1712), waar binomiale coëfficiënten en Bernoulli-getallen worden getabelleerd
+De Bernoulli-getallen zijn geworteld in de vroege geschiedenis van de berekening van sommen van geheeltallige machten, een onderwerp dat al sinds de oudheid de interesse heeft van wiskundigen.
+Methoden om de som van de eerste "n" positieve gehele getallen, kwadraten en kubussen te berekenen waren weliswaar bekend, maar men kende nog geen echte 'formules', alleen beschrijvingen in woorden, te vergelijken met een recept uit een kookboek. Onder de grote wiskundigen uit de oudheid, die zich met deze problemen bezighielden, waren de Oud-Griekse wiskundigen Pythagoras, ca. 572-497 v.Chr. en Archimedes, 287-212 v.Chr., de Indiër Aryabhata, 476 n.Chr., en Abu Ali al-Hasan ibn al-Hasan ibn al-Haytham in Egypte, 965-1039.
+Tijdens de late zestiende- en vroege zeventiende eeuw boekten wiskundigen aanzienlijke vooruitgang. In het westen speelden de Engelsman Thomas Harriot, 1560-1621, de Duitser Johann Faulhaber, 1580-1635, de Fransman Pierre de Fermat, 1601-1665, en zijn collega Blaise Pascal, 1623-1662, allen een belangrijke rol.
+Thomas Harriot lijkt de eerste te zijn geweest die bij formules voor het afleiden en schrijven van formules voor sommen van machten gebruik maakte van symbolische notatie, maar zijn berekeningen gingen niet verder dan tot de vierde macht. in zijn boek uit 1631, "Academia Algebrae", gaf Johann Faulhaber formules voor sommen tot de 17e macht, veel hoger dan iemand vóór hem, maar ook hij gaf geen algemene formule.
+Bernoulli.
+“Met de hulp van deze tabel kostte het mij minder dan een kwartiertje om te vinden dat de som van de tiende machten van de eerste 1000 getallen gelijk is aan
+Bernoulli's resultaat werd in 1713 postuum gepubliceerd in "Ars Conjectandi". Onafhankelijk daarvan, en mogelijk eerder, zijn de Bernoulli-getallen ook door de Japanse wiskundige Seki Kowa ontdekt. Ook zijn resultaten werden postuum, in dit geval in 1712, gepubliceerd. In tegenstelling tot Bernoulli maakte Seki Kowa voor zijn methode echter geen gebruik van een formulevorm.
+Bernoulli's formule voor de sommen van machten is de meest bruikbare en veralgemeenbare formulering tot nu toe. De coëfficiënten in de formule van Bernoulli worden nu Bernoulli-getallen genoemd, dit in navolging van de 18e-eeuwse wiskundige Abraham de Moivre.
+Bernoulli in verhouding tot Faulhaber.
+De formule van Bernoulli wordt soms ook wel de formule van Faulhaber genoemd, dit naar Johann Faulhaber die weliswaar opmerkelijke manieren vond om de som van machten te berekenen, maar die nooit de formule van Bernoulli heeft opgesteld. Om de formule van Faulhaber de formule van Bernoulli te noemen, doet onrecht aan Bernoulli en verbergt tegelijkertijd het genie van Faulhaber aangezien de formule Faulhaber op zich efficiënter is dan de formule van Bernoulli. Volgens Knuth werd een strikt bewijs van de formule van Faulhaber voor het eerst in 1834 gepubliceerd door Carl Jacobi.
+“Faulhaber heeft de Bernoulli-getallen nooit ontdekt; dat wil zeggen dat hij zich nooit heeft gerealiseerd dat een enkele reeks van constanten "B"0, "B"1, "B"2... zou kunnen voorzien in de eenvorm
+voor alle sommen van machten. Hij heeft bijvoorbeeld nooit het feit genoemd dat bijna de helft van de coëfficiënten nul bleek te zijn, nadat hij zijn formules voor formula_5 voor polynomen in "N" had geconverteerd naar polynomen in "n".
+Reconstructie van de 'Summae Potestatum'.
+De Bernoulli-getallen werden door Jakob Bernoulli in 1713 geïntroduceerd in zijn postuum uitgegeven boek "Ars conjectandi". De belangrijkste formule kan men terugvinden in de tweede helft van de overeenkomstige facsimile. De constante coëfficiënten, door Bernoulli aangeduid als "A", "B", "C" en "D", komen in de notatie die nu gebruikelijk is overeen met "A" = "B"2, "B" = "B"4, "C" = "B"6, "D" = "B"8. In de uitdrukking "c"·"c"-1·"c"-2·"c"-3 worden de kleine puntjes als groeperingssymbolen gebruikt, niet als de tekens voor vermenigvuldiging.
+In feite suggereert deze formule dwingend om "B"1 = ½ te zetten, wanneer men van de zogenaamde 'archaïsche' opsomming, die alleen de even-indices 2, 4 gebruikt... overschakelt naar de moderne vorm. Meest opvallend in deze context is het feit dat de vallende faculteit formula_8 voor "k" = 0 een waarde heeft van
+Eerste computeralgoritme.
+In een aantekening uit 1842 van Ada Byron wordt een algoritme beschreven om Bernoulli-getallen door een computer te genereren.
+Definitie.
+Hierin is formula_12 een binomiaalcoëfficiënt.
+Berekening.
+Het blijkt dat voor formula_16 en oneven formula_17.
+Bernoulli-getallen komen voor in de Taylorreeks-ontwikkeling van de tangens en hyperbolische tangensfuncties, in de formule van Euler-Maclaurin en in de Riemann-zèta-functie.
+Stelling van von Staudt-Clausen.
+Deze stelling, door Karl von Staudt en Thomas Clausen onafhankelijk van elkaar in 1840 geformuleerd, zegt dat voor elke "n" > 0,
+een geheel getal is. De som gaat over alle priemgetallen "p" waarvoor geldt dat "p" − 1 een deler is van 2"n".
+Een gevolg hiervan is dat de noemer van "B2n" gelijk is aan het product van alle priemgetallen "p" waarvoor geldt dat "p" − 1 een deler is van 2"n".

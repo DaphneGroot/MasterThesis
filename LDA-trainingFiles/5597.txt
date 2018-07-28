@@ -1,0 +1,24 @@
+Chemische kinetiek.
+De chemische kinetiek of kinetica is een onderwerp van de fysische chemie, waarin men zich bezighoudt met de beschrijving van de snelheid waarmee een chemische reactie voortgang heeft.
+De onderliggende vraag is daarbij op moleculair niveau welke reactiemechanismen beschikbaar zijn.
+Zeker niet alle chemische reacties zijn goed beschreven wat hun kinetiek betreft, hoewel er natuurlijk reacties zijn waarvan een goed begrip van de kinetiek erg wenselijk is, bijvoorbeeld als zij de basis voor een productieproces zijn.
+De best beschreven en begrepen reacties zijn homogene reacties van relatief verdunde systemen, bijvoorbeeld reacties in de gasfase of in verdunde oplossingen. Daarnaast zijn er ook heterogene reacties, bijvoorbeeld reacties die aan een oppervlak plaatsvinden. In dat geval speelt ook het beschikbare oppervlak (bijvoorbeeld het specifieke oppervlak van de drager van de katalysator) een grote rol.
+Reactiesnelheid definitie.
+Reacties met een reactiemechanisme dat ingewikkelder is, worden in een aantal opeenvolgende stappen opgedeeld zoals in het geval van de Michaelis-Mentenkinetiek.
+Reactiesnelheid meten.
+In het algemeen kan iedere fysische grootheid gemeten worden zo lang er maar een bekend (bij voorkeur lineair) verband is met de hoeveelheid van een van de aan de reactie deelnemende componenten.
+Snelheidwetten en reactieorde.
+In eenvoudige gevallen is er een simpel verband tussen de reactiesnelheid en de concentraties van de reagentia.
+Voorbeeld.
+In de praktijk is de waarde van de snelheidsconstante k een reactie zoals in dit voorbeeld beschreven wordt groot. De reactiesnelheid is daarom "zeer hoog" en erg moeilijk te meten. De reactiesnelheidsconstante kpe moet daarom zo klein mogelijk gemaakt worden om de reactie te vertragen. Dat kan door de concentratie zilverionen zo laag mogelijk te kiezen. De concentratie chloride-ionen moet echter een orde van grootte lager zijn. Het wordt in dat geval lastig om de snel dalende concentratie chloride-ionen nog te kunnen meten over een tijdsdomein dat slechts een fractie van een seconde bedraagt.
+Algemene regels.
+De constante k heet de snelheidconstante van de reactie. De exponenten ρ en σ zijn in de simpelste gevallen eenvoudige gehele getallen, die dan de orde van de reactie genoemd worden. Bijvoorbeeld als ρ en σ beide 1 zijn, is de onderste reactie in zijn geheel een tweede orde reactie. Deze reactie is dan eerste orde in R "en" ook eerste orde in S. De exponenten hoeven "niet" gelijk te zijn aan de stoechiometrische coëfficiënten p en r.
+In het algemeen kunnen er in de uitdrukking voor Rt meerde termen met elk hun eigen exponent voorkomen, soms ook met meerdere termen in de teller en in de noemer van een breuk. In dat geval spreekt men van een complexe snelheidswet.
+Integratie van snelheidswetten.
+Omdat Rt de wiskundige vorm van een afgeleide van een concentratie naar de tijd heeft, is een snelheidswet een differentiaalvergelijking. In eenvoudige gevallen valt deze vergelijking op te lossen door middel van integratie. Voor het geval van een reactie die eerste orde in alleen R is, leidt dat tot een exponentieel verloop van de concentratie die gekenmerkt wordt door een halveringstijd zoals die ook uit het radioactief verval bekend is.
+Gebruik van initiële snelheden.
+Voor snelheidswetten van grotere complexiteit is het beter de wet in zijn differentiële vorm te gebruiken en een studie te maken van de initiële snelheid, dat wil zeggen: de snelheid zoals die is op het moment dat de reagentia gemengd worden. Wanneer men de beginconcentratie varieert in een serie experimenten kan de differentiële wet als zodanig op de beginsnelheid toegepast worden.
+Invloed van temperatuur.
+Hier is A de pre-exponentiële factor en Ea de "activeringsenergie".
+De geldigheid van de Arrheniuswet houdt in dat de snelheid van een reactie meestal exponentieel toeneemt met de temperatuur. Dit is de achterliggende reden voor het feit dat systemen die een exotherme reactie kunnen ondergaan vaak een vlampunt of een ontstekingstemperatuur hebben. Immers, als de reactie eenmaal op gang is, zorgt de ontwikkelde warmte voor een versnelling van de reactie die weer meer hitte produceert, enzovoort.
+Het belang van katalysatoren ligt daarin dat zij een verandering in het reactiemechanisme teweegbrengen waardoor een pad ontstaat met een lagere activeringsenergie.

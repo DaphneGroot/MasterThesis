@@ -1,0 +1,7 @@
+Kwadraat.
+Elk kwadraat kan grafisch altijd als een vierkant worden weergegeven.
+Het kwadraat (van Latijn: "quadratus", vierkant) van een getal is een andere benaming voor de tweede macht van een getal. Het kwadraat wordt verkregen door het getal met zichzelf te vermenigvuldigen.
+Het verband met het begrip vierkant wordt duidelijk als men bedenkt dat de oppervlakte van een vierkant gelijk is aan het kwadraat van de lengte van de zijden.
+De inverse van het kwadraat van niet-negatieve getallen is de vierkantswortel.
+Som van opvolgende oneven getallen.
+codice_1

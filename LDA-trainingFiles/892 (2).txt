@@ -1,0 +1,8 @@
+Pascal (eenheid).
+De pascal (symbool Pa) is de SI-eenheid voor druk. De pascal is gedefinieerd als de druk die een kracht van 1 newton uitoefent op 1 vierkante meter. De eenheid is vernoemd naar Blaise Pascal.
+De luchtdruk wordt tegenwoordig vaak aangeduid in hectopascal (symbool hPa, 100 pascal), een eenheid die precies gelijk is aan de niet-SI-eenheid millibar. Praktisch heeft men het dus over een atmosferische druk van 1013 hPa, wat de 'normale' luchtdruk op zeeniveau is en overeenkomt met 1013 mbar.
+Voorbeelden.
+De druk die 1 m³ water (op Aarde) uitoefent op een oppervlak van 1 m² is 9810 Pa.
+Namelijk: 1 m³ water heeft een massa van 1000 kg (zoet water bij 4 graden Celsius). Met een valversnelling van 9,81 m/s² oefent het water dus een kracht uit van 9810 N.
+Pascalseconde.
+Van de pascal is de pascalseconde (symbool: Pa·s) afgeleid als eenheid voor de coëfficiënt van inwendige wrijving (dynamische viscositeit). De dynamische viscositeit van een laminair stromende vloeistof bedraagt 1 Pa·s, als in de vloeistof tussen twee parallelle lagen, op 1 m afstand van elkaar, een schuifspanning van 1 Pa heerst bij een snelheidsverschil van 1 m/s tussen de twee vloeistoflagen.

@@ -1,0 +1,14 @@
+Dampdruk.
+Weergave van de dampdruk van verschillende stoffen
+Dampdruk (ook wel dampspanning) is de druk die de damp van een stof op de wanden van een gesloten ruimte uitoefent.
+Wanneer een gecondenseerde fase - bijvoorbeeld een vloeistof of een kristallijne vaste stof - in een gesloten ruimte met een groter volume dan het eigen volume tot evenwicht gebracht wordt, gaat een deel van de gecondenseerde fase over in damp.
+De damp oefent een druk uit op de wanden van de gesloten ruimte. Deze druk is sterk afhankelijk van de temperatuur en de vluchtigheid van de (vloei)stof en wordt de dampdruk genoemd. Bij voldoende hoge temperatuur zal de dampdruk één atmosfeer bedragen. Deze temperatuur wordt bij vloeistoffen het normaal kookpunt genoemd omdat bij deze temperatuur het verdampingsproces niet langer alleen maar aan het oppervlak plaatsvindt maar ook in staat is overal in de vloeistof dampbellen te vormen.
+Bij groot-moleculaire vaste stoffen en complexe stoffen zoals natuurlijke materialen - bijvoorbeeld hout of wol - zal de dampdruk echter over het algemeen nooit de waarde van één atmosfeer bereiken voordat de stof door de warmte gaat ontleden.
+In het geval van mengsels is de dampdruk bij een bepaalde temperatuur over het algemeen de som van de dampdrukken van de samenstellende stoffen van het mengsel.
+formula_1, met formula_2 de standaard dampdruk van component i.
+Aansluitend op het hierboven beschrevene: stel je een afgesloten vat voor dat geheel leeg is (vacuüm dus). Doe dit vat nu halfvol met vloeibaar water. Als nu het vat verwarmd wordt tot 100 °C dan zal de druk in het vat 1 atmosfeer zijn. Bij kamertemperatuur (20 °C) zal de druk in het vat nog maar 0,023 atmosfeer zijn. Bij 200 °C zal de druk in het vat daarentegen 15,3 atmosfeer zijn.
+In de 18e eeuw was al bedacht dat gas (of damp) onder hoge druk met behulp van zuigers en een krukas mechanische arbeid zou kunnen verrichten. De vraag was op dat moment alleen hoe aan gas op hoge druk te komen (eerdere ideeën gingen uit naar het gebruiken van buskruit, als het ware een vroege versie van de verbrandingsmotor). Water verwarmen is veel eenvoudiger en de ontdekking dat de dampspanning van water zo snel oploopt met de temperatuur leidde tot de uitvinding van de stoommachine.
+Trivia.
+Dampspanning van vloeistoffen en vaste stoffen worden opgegeven in millibar (mbar), de
+temperatuur waarbij deze druk heerst is meestal erbij vermeld in de literatuur.
+De dampspanning van stoffen met een kookpunt hoger dan 350 °C wordt doorgaans niet vermeld omdat bij deze stoffen de verdamping doorgaans verwaarloosbaar is.

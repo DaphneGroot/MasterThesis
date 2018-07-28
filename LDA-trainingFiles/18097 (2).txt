@@ -1,0 +1,14 @@
+Grid computing.
+Grid computing is het aan elkaar koppelen van computers om ze zo samen te laten werken. Door verschillende computers allerlei kleine taken te geven kunnen grotere berekeningen opgelost worden dan tot nu toe mogelijk was.
+Computers zijn steeds sneller geworden, en de computers zoals die in de 21e eeuw gemaakt worden doen bij normaal gebruik het grootste gedeelte van de tijd niets. Ze staan klaar om iets te doen wanneer de gebruiker daar klaar voor is. Gelijktijdig is er een enorme hoeveelheid rekenwerk die niet gedaan wordt omdat de middelen er niet voor zijn.
+Gridcomputers.
+Gridcomputers zijn computers die in een netwerk met elkaar verbonden zijn en zo elkaar ‘kennen’. In een grid kunnen computers van allerlei architecturen samenwerken; het kunnen zowel desktop computers als supercomputers zijn.
+Middleware.
+De Globus Toolkit is de de facto standaard voor Grid-middleware; deze toolkit heeft als doel om tot een open standaard te komen en tevens ruimte te bieden aan commerciële ontwikkelingen.
+Middleware die beschikbaar is als één pakket is het open standaard gebaseerde gLite.
+Voor Desktop Grids, zoals SETI en AlmereGrid, worden zowel open standaard gebaseerde Grid-middleware waaronder BOINC en Xtremweb, alsook commerciële Grid-middleware gebruikt.
+De ontwikkeling van Grid-middleware standaarden gebeurt onder regie van het Global Grid Forum (GGF). In juni 2006 is het GGF opgegaan in de nieuwe standaard organisatie Open Grid Forum (OGF).
+Evolutie van het computergebruik.
+Volgens analisten is GRID computing een volgende stap in de evolutie van het computergebruik.
+Voorbeelden.
+Een bekend voorbeeld van Grid computing is het SETI@HOME-project, waarbij thuisgebruikers de capaciteiten van hun machines ter beschikking konden stellen aan het zoeken naar buitenaards leven. Wanneer de computer niet gebruikt werd, startte de computer een soort screensaver die op de achtergrond allerlei berekeningen uitvoerde. Binnen andere projecten kunnen gebruikers hun pc bijvoorbeeld ter beschikking stellen aan kankeronderzoek.

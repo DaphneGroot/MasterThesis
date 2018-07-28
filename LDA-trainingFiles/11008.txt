@@ -1,0 +1,4 @@
+Scalable Vector Graphics.
+Scalable Vector Graphics (afkorting: SVG) is een op XML gebaseerd bestandsformaat voor statische en dynamische vectorafbeeldingen. Het is een open standaard van het W3C.
+Webbrowsers.
+Ook MediaWiki ondersteunt SVG, maar vooralsnog via een speciale constructie: afbeeldingen worden als SVG geüpload, maar als PNG aan de gebruikers getoond.

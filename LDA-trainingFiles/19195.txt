@@ -1,0 +1,7 @@
+Icoon (symbool).
+Een icoon staat in het dagelijks spraakgebruik voor een representatief symbool. Meer specifieke betekenissen gelden binnen de semiotiek (vorm die overeenkomt met zijn betekenis) en de computerwereld (grafisch symbool ter herkenning van een bestandstype).
+Semiotiek.
+In de semiotiek is een icoon een teken dat in zijn vorm overeenkomt met zijn betekenis, datgene waarnaar het in de werkelijkheid verwijst.
+Computer.
+In de computerwereld is een icoon een grafisch symbool dat in een grafische gebruiksomgeving (GUI) aan een bestand wordt gekoppeld waardoor snel het bestandstype kan worden herkend, zoals een applicatie of een document. Binnen enkele jaren groeiden de aanvankelijk eenvoudige symbolen uit tot grotere en kleurrijke afbeeldingen, met naast hun oorspronkelijk refererende ook een decoratieve functie, waarmee de gebruiker in staat wordt gesteld tot het persoonlijker maken van zijn digitale werkomgeving. In dezelfde betekenis wordt ook de term pictogram gebruikt. Een voorbeeld van een icoonset is Nuvola.
+Het icoon waarmee in browsers een webpagina kan worden gebookmarkt is een zogeheten favicon.

@@ -1,0 +1,3 @@
+Smeltwarmte.
+De smeltwarmte is de hoeveelheid warmte die nodig is om een bepaalde hoeveelheid stof (meestal een mol) van een kristallijne vaste stof in een vloeistof te doen overgaan. In het algemeen wordt hiermee bedoeld de molaire smeltenthalpie. Deze grootheid wordt meestal uitgedrukt in joule per mol (J/mol).
+Een goede manier om smeltwarmtes te meten is de differentiële scanningcalorimetrie DSC.

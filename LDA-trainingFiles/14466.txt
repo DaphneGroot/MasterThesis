@@ -1,0 +1,28 @@
+Stoom.
+Stoom is een aggregatietoestand van water. Vaak wordt de naam stoom gegeven aan een nevel van water: kleine zichtbare druppeltjes water boven bijvoorbeeld een fluitketel. Echte stoom (waterdamp) is echter onzichtbaar.
+Soorten stoom.
+Er zijn drie soorten stoom: natte, verzadigde en oververhitte stoom.
+Natte stoom.
+Natte stoom is stoom waarin kleine waterdeeltjes zweven. Door deze waterdeeltjes is het soortelijk gewicht gestegen. Indien natte stoom verhit wordt, dan zullen allereerst deze waterdeeltjes verdampen. Bij voldoende verwarming wordt de stoom dan droog verzadigd.
+Verzadigde stoom.
+Verzadigde stoom is stoom die condenseert bij verlaging van temperatuur (zie dauwpunt). Hierbij bevat de lucht de maximale hoeveelheid stoom. Deze stoom is ongeschikt voor het aandrijven van een stoomturbine, maar voldoet prima voor het aandrijven van een stoommachine of voor de overdracht van warmte. Er wordt dan wel gebruikgemaakt van verzadigde stoom die bij hogere druk is gegenereerd.
+Oververhitte stoom.
+Om oververhitte stoom te maken moet er extra warmte aan de stoom worden toegevoegd. In een fluitketel kan dat niet omdat daar alleen het water wordt verwarmd. De ontsnappende stoom blijft op het dauwpunt. In een stoomketel gebeurt hetzelfde, maar de geproduceerde stoom kan vervolgens door een oververhitter worden geleid. De verzadigde stoom stijgt in temperatuur en wordt dan oververhitte stoom genoemd. Bij verlies van warmte zal deze stoom afkoelen zonder dat er minuscule waterdruppeltjes ontstaan die de rotors zouden kunnen beschadigen.
+Productie.
+Stoom kan op verschillende manieren geproduceerd worden. De meest bekende vorm is het verwarmen van water met behulp van kolen of gas. Kleine installaties worden vaak met aardgas gestookt, zeer grote installaties zoals de Hemwegcentrale bij Amsterdam zijn kolengestookt. Soms zijn er afvalgassen die gebruikt kunnen worden, de NUON centrales in IJmuiden stoken bijvoorbeeld de restgassen van Tata Steel die vrijkomen tijdens de productie van cokes en ruwijzer en het raffineren van ruwijzer tot staal.
+Het verbranden van huisvuil wordt een milieuvriendelijke manier genoemd om stoom te produceren. Stoom wordt voor de productie van elektriciteit door een stoomturbine geleid, de restwarmte kan worden gebruikt voor stadsverwarming.
+Aandrijving.
+Stoom kan voor vele doeleinden worden gebruikt. In stoom-zuigermachines en in stoomturbines wordt stoom gebruikt om druk en warmte in mechanische energie om te zetten. Bij de allereerste stoom-zuigermachines werd de zuiger in beweging gebracht door stoom in de cilinder te laten condenseren, waardoor onderdruk ontstond. Latere zuigermachines werkten op stoom met overdruk. Bij stoomturbines wordt stoom langs turbineschoepen geblazen. Daarbij is "oververhitte stoom" nodig.
+Verwarming.
+Stoom kan ook voor verwarmingdoeleinden worden gebruikt. Hiervoor wordt "verzadigde stoom" gebruikt omdat deze in vergelijking met oververhitte stoom een veel hogere warmteoverdrachtscoëfficiënt heeft en bovendien de condensatiewarmte veel hoger is dan de soortelijke warmte van stoom. Deze wijze van warmtetransport wordt bijvoorbeeld benut bij het koken van groente, indien de groente slechts met weinig water op het vuur wordt gezet: stoom condenseert op het zich boven de vloeistof bevindende product, waardoor efficiënt warmte wordt overgedragen.
+Een methode van warmte uitwisselen is tracing of door middel van een warmtewisselaar.
+Als een liter water tot stoom wordt verwarmd, wordt het volume ca. 1600 keer zo groot. Dus als 1600 liter stoom condenseert naar water vindt er een volumeverkleining van 1600 keer plaats. Met deze methode wordt in de procesindustrie vaak een vacuüm gemaakt.
+Door stoom door een ejecteur te laten stromen kan een vloeistof opgezogen worden door het grote drukverschil.
+Gevaren.
+Stoom is onder normale atmosferische omstandigheden per definitie heet. Bij aanraking loopt het menselijk lichaam, of bijna elk ander levend organisme kans om blijvend letsel op te lopen of zelfs te overlijden. Bij inademing worden de longblaasjes verschroeid waardoor de longfunctie ernstig belemmerd wordt.
+Stoomexplosie.
+Indien water met een heet voorwerp in contact komt kan een stoomexplosie plaatsvinden. Zo ontstaan stoomexplosies als water in aanraking komt met lava of in ijzergieterijen en andere locaties waar met hoge temperaturen gewerkt wordt. Dit effect was debet aan menige ontploffing van stoomketels in het verleden. Met mogelijk desastreuze gevolgen.
+Een ander soort stoomexplosie is een soort BLEVE waarbij kokend water in een drukvat opgesloten is. Zodra er een gat in het drukvat ontstaat daalt de druk zeer snel waardoor het kook-proces verhevigt wat uiteindelijk een explosie veroorzaakt.
+Overdruk-explosie.
+Een stoomketel onder hoge druk bevat een niet te veronachtzamen hoeveelheid energie. In Rotterdam is in 1911 een stoomsleepboot midden op de Maas ontploft. Op beide oevers werd daardoor schade aangericht. Stoomketels moeten periodiek gekeurd worden om dit soort incidenten te voorkomen.
+De kernramp van Tsjernobyl is ook (mede) veroorzaakt door stoom. Tijdens een experiment ontstonden stoombelletjes waardoor het proces snel uit de hand liep. Uiteindelijk is het reactorvat geëxplodeerd als gevolg van de stoomdruk.

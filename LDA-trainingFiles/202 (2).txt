@@ -1,0 +1,16 @@
+Software.
+Software of programmatuur is een gangbaar woord voor computerprogramma's. Naast toepassingen voor de mainframes, pc's en spelcomputers, bevatten ook apparaten als televisies, telefoons, telefooncentrales, auto's en machines sinds de jaren zeventig steeds vaker software.
+Software kan worden ingedeeld naar toepassingsgebied of gebruikersgroep.
+Het begrip "software" komt uit het Engels, en is de tegenhanger van hardware (apparatuur), waarmee alle "tastbare" apparatuur wordt bedoeld.
+Het onderscheid tussen hardware en software bestond al voordat de computer bestond, al worden de termen in die zin niet vaak gebruikt. Een radiotoestel is hardware, het radioprogramma is software. Een grammofoon is hardware, de grammofoonplaat bevat software. Dit illustreert dat de hardware onbruikbaar is zonder software.
+Kantoorsoftware.
+Kantoorsoftware draait meestal op een computer. Bekende toepassingen zijn Microsoft Office en LibreOffice. Er kan ook een CAD-systeem in een kantoorpakket zitten.
+Systeemsoftware.
+Systeemsoftware wordt ook wel een besturingssysteem genoemd, met als bekende voorbeelden Windows, Macintosh en Unix. Dit zijn alle programma's die nodig zijn voor het functioneren van het systeem, bijvoorbeeld programma's om bestanden te kopiëren ("cp" of "copy"), te verwijderen ("rm" of "del"), mappen aan te maken en de inhoud van een bestandssysteem zichtbaar te maken ("ls" of "dir"). Typische onderdelen zijn BIOS, "device drivers" en "interrupt service routines". Deze laag wordt ook wel "low level software" genoemd.
+Hardwareplatform.
+De ontwikkeling van software is naarmate die dichter bij de hardware staat, nauwer verweven met het platform waarop het werkt. Op het allerlaagste niveau dient de ontwikkelaar van dit soort software op de hoogte te zijn van de werking van de hardware, terwijl het op het hoogste niveau vaak mogelijk is software zo te schrijven dat die op een groot aantal verschillende platforms kan worden gebruikt, door handig gebruik te maken van verschillende abstractielagen. Goede voorbeelden hiervan zijn Qt en de POSIX-standaard.
+Realtimesoftware.
+Realtimesoftware geldt als een speciaal geval, waarin niet alleen het uiteindelijke resultaat, maar ook scherpe tijdsrestricties gelden. Voor alle software is van enig belang hoe snel de resultaten beschikbaar komen; in een tekstverwerker een paar minuten moeten wachten om naar een volgende pagina te bladeren, zou niet aanvaardbaar zijn. Zakelijke en administratieve software, alsook simulatie van wiskundige modellen worden echter niet als realtime beschouwd. Er is geen directe relatie met processen buiten het softwaresysteem. Over het algemeen wordt een onderscheid gemaakt tussen
+Hoewel vele realtimetoepassingen eveneens "embedded" zijn, zijn de twee begrippen geenszins equivalent.
+Ingebouwde software.
+Ingebouwde oftewel embedded software is software die is ingebouwd in apparaten, zoals auto's, (antiblokkeersysteem) thermostaten, televisies, camera's, mobiele telefoons, "Active Suspension", navigatiesystemen, dataloggers, gps-cliënten, remote sensors en satellieten.

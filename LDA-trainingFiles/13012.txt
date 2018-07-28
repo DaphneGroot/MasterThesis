@@ -1,0 +1,13 @@
+Boride.
+Boriden zijn verbindingen van het element boor met een minder elektronegatief element (meestal een metaal). De bindingen in boriden zijn over het algemeen covalent. Boriden hebben vaak interessante keramische eigenschappen.
+Monoboriden XB.
+Een voorbeeld van een monoboride is dat van ijzer met een oxidatietoestand van +III: ijzermonoboride (FeB). In deze verbinding vormen de booratomen een zigzag-keten.
+Diboriden XnB2.
+Magnesiumdiboride MgB2 heeft een structuur waarin de booratomen gerangschikt zijn is hexagonale lagen zoals de koolstofatomen in grafiet. De structuur is ook Iso-elektronisch met de koolstoflagen in deze verbinding: in de verbinding MgB2 heeft elk booratoom vier elektronen in zijn valentieschil, drie van zichzelf en één van de twee elektronen van magnesium. Net als bij koolstof worden drie van de vier elektronen gebruikt om σ-bindingen tussen de booratomen te realiseren, het vierde elektron komt in een moleculaire π-orbitaal terecht.
+Tetraboriden XnB4.
+Cerium-, thorium- en uraniumtetraboride CeB4, ThB4, UB4 hebben dezelfde structuur. Een aantal van de booratomen vormen een octaëder, de rest is omringd door een trigonaal prisma van metaalatomen. Daarmee heeft de structuur kenmerken van zowel de diboride als de hexaboridestructuur.
+Hexaboriden XnB6.
+Een aantal aardalkalimetaal-elementen en de meeste lanthaniden vormen hexaboriden: Ca3B6, Sr3B6, Ba3B6, Y2B6, Ce2B6, Pr2B6, Nd3B6, Sm3B6, Gd3B6, Er3B6.
+Lanthaanhexaboride (LaB6) wordt gebruikt in poederdiffractie als standaard voor de lijnbreedte.
+Eigenschappen.
+Boriden zijn in het algemeen bijzonder harde materialen die goed tegen hoge temperaturen bestand zijn. De meeste hebben metallische eigenschappen, en zijn dus goede halfgeleiders waardoor ze vaak gebruikt worden in actief-elektronische componenten.

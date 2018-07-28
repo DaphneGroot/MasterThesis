@@ -1,0 +1,48 @@
+Positiestelsel.
+Een positiestelsel is een talstelsel waarin een getal voorgesteld wordt door een rij symbolen, meestal cijfers, waarvan de positie op basis van een gekozen grondtal de bijdrage aan het getal bepaalt.
+In andere talstelsels dan het positiestelsel bestaan er verschillende tekens voor kleine en grote waarden. Romeinse cijfers zijn het bekendste voorbeeld. De ervaring heeft geleerd dat het positiestelsel in alle opzichten handiger is.
+Het gebruikelijke talstelsel heeft 10 als grondtal. Men twijfelt er niet aan dat dit talstelsel ontstaan is doordat mensen op hun vingers telden. In dit stelsel heeft een getal als 1234 dan de betekenis: 1×1000 + 2×100 + 3×10 + 4×1. De positie van een cijfer bepaalt de bijdrage in machten van het grondtal 10 aan het getal.
+Een getal als som van termen.
+waarin de coëfficiënten formula_2 natuurlijke getallen zijn kleiner dan het grondtal.
+De coëfficiënten formula_4 vormen in volgorde de cijfers van het getal. Het meest linkse cijfer formula_5 is de coëfficiënt van de hoogste macht van het grondtal, en daarmee het "meest significante cijfer". Het meest rechtse cijfer formula_6 is de coëfficiënt van de eenheden (de 0-de macht van het grondtal), en daarmee in dit geval het "minst significante cijfer".
+Voorbeeld.
+3 x 7 x 7 x 7 = 3 x 343 = 1029
+4 x 7 x 7 = 4 x 49 = 196
+1 x 7 = 1 x 7 = 7
+2 = 2 x 1 = 2
+7 | 3 4 1 2
+waarin de tweede rij ontstaat door vermenigvuldiging van het grondtal 7 met het resultaat in de derde rij van de vorige kolom, dat de som is van eerste en tweede rij.
+1234 = 176 x 7 + 2
+176 = 25 x 7 + 1
+25 = 3 x 7 + 4
+3 = 0 x 7 + 3
+De resten vormen van onder naar boven de cijfers van het gezochte getal.
+Benamingen.
+Het hexadecimale stelsel en het octale stelsel worden door informatici soms toegepast als verkorte notatie voor het binaire stelsel (zie verderop, bij Gecombineerde talstelsels).
+Verder bestaan er gemengde talstelsels, waarin de verschillende cijfers verschillende grondtallen hebben.
+Notatie.
+Het is natuurlijk belangrijk te weten welk stelsel gebruikt is om een getal te noteren. Het gebruikte stelsel wordt soms aangegeven door het grondtal als subscript te vermelden; bijvoorbeeld 31127, dus een getal in het 7-tallig stelsel. Dat subscript wordt geacht altijd decimaal te zijn.
+In programmeertalen, waarin vaak binaire, octale en hexadecimale getallen worden gebruikt, gebruikt men verschillende notaties om het talstelsel aan te duiden, bijvoorbeeld een letter (X of H) voor of na een hexadecimaal getal. Een hexadecimaal getal wordt genoteerd met de cijfer 0 t/m 9 en de symbolen A, B, C, D, E en F. Die tekens stellen in die context cijfers voor, hexadecimale cijfers, maar worden door de compiler als letters herkend. Omdat in programmeertalen een getal steeds met een echt cijfer moet beginnen, wordt zo nodig een nul aan het begin toegevoegd. Ook komt het voor dat de nul aan het begin voldoende is om aan te geven dat het getal octaal of hexadecimaal is.
+Niet-gehele getallen.
+Niet-gehele getallen worden weergegeven met cijfers achter de komma. De cijfers achter de komma hebben betrekking op negatieve exponenten, zie het decimale voorbeeld hieronder. Bij een getal tussen 0 en 1 wordt meestal vóór de komma een 0 geplaatst, bijvoorbeeld "0,25". Dit is echter bij getalinvoer in een rekenmachine of computer en plaatsing van het getal in een computerprogramma meestal niet nodig, men kan ook de kortere notatie ",25" gebruiken.
+Decimale getallen.
+In dit decimale telwerk (bijvoorbeeld een kilometerteller) heeft elk wieltje tien posities. Draait een wieltje van 9 naar 0, dan draait het volgende wieltje een stap verder.
+In een hexadecimaal telwerk draait een wieltje een stap verder als het voorgaande wieltje van F naar 0 draait.
+Het bekendste talstelsel is het decimale stelsel dat in het dagelijkse leven door vrijwel iedereen gebruikt wordt.
+Computer.
+Bij het opslaan van getallen in een computergeheugen wordt ook het positiestelsel gebruikt, zij het dat het daar gaat om de logische positie, niet zozeer de fysieke positie.
+Vrijwel alle hedendaagse digitale computers werken intern met het binaire stelsel, dat wil zeggen met voor elke positie twee mogelijkheden. Een gegeven in de computer is daarom voor te stellen als een rij nullen en enen, dus als een getal uit het binaire talstelsel. Voor mensen is dat een bijzonder onoverzichtelijk talstelsel, door de enorme lengte van de rij enen en nullen.
+Een cijfer in het binaire stelsel heet een bit, wat een afkorting is van "binary digit". (In het Engels betekent het echter ook "beetje", wat in dit geval een aardige bijkomstigheid is.)
+Voor een beter overzicht verdelen informatici de rij bits in groepjes van drie of vier. Een binair getal als 011010111001 ziet er dan uit als 011.010.111.001 of 0110.1011.1001, waardoor gemakkelijk de overeenkomstige notatie in het octale resp. hexadecimale stelsel gevonden kan worden. Daartoe vervangt men ieder groepje door het overeenkomstige cijfer. Heeft men groepjes van vier gemaakt, dan ontstaat het hexadecimale stelsel en zijn er 16 verschillende cijfers nodig. De tien gebruikelijke cijfers worden daarvoor uitgebreid met de letters A t/m F. In deze context zijn dat dus geen letters meer, maar cijfers. Heeft men groepjes van drie gemaakt, dan ontstaat het octale stelsel en heeft men aan de cijfers van 0 t/m 7 voldoende. Het hierboven genoemde binaire getal ziet er octaal uit als 3271 en hexadecimaal als 6B9. Deze voorstellingen zijn voor mensen veel overzichtelijker, en sluiten goed aan bij het binaire talstelsel.
+Merk op dat we het woord 'cijfer' zoals we dat in het dagelijks spraakgebruik gewend zijn, hier een uitbreiding heeft ondergaan. Een teken dat gebruikt wordt om een getal te representeren, is een cijfer. In een hexadecimaal getal worden de tekens A t/m F dus ook cijfers genoemd.
+Rekenen in een talstelsel.
+Bij het rekenonderwijs wordt gebruikgemaakt van het cijferen (in kolommen zetten)
+Een ingewikkelde optelling wordt op zo'n manier vereenvoudigd tot een aantal basisoptellingen. De gedachtesprong hierbij is het "een onthouden" wanneer een basisoptelling boven het grondtal (hier 10) uitkomt.
+De manier van opschrijven in kolommen die hierbij gebruikt wordt is prima geschikt om een getal te ontleden. Zo wordt 123 ontleed in 3×100, 2×101 en 1×102. Hierbij wordt 10 gebruikt, omdat het getal een decimaal getal is. Voor andere talstelsels wordt het bijbehorende grondtal gebruikt.
+Negatief grondtal.
+Een talstelsel kan zelfs een negatief grondtal hebben. Dit levert een zeer "springerig" patroon in de 'opeenvolgende' waarden.
+Niet-geheel grondtal.
+In dit stelsel gebruiken we de cijfers 0 tot en met 12, het grootste gehele getal dat kleiner is dan het grondtal. De "|" scheidt hier de cijfers om verwarring te voorkomen bij cijfers die groter zijn dan 9.
+De voorstelling van een getal in een niet-geheeltallig stelsel kan een eindig of oneindig aantal cijfers hebben. Eenzelfde getal kan in een gegeven talstelsel op meerdere manieren geschreven worden: in het "φ"-tallig stelsel bijvoorbeeld kan het getal formula_11 geschreven worden als formula_12 of als formula_13 (vanwege de identiteit formula_14).
+Alternatief voor een grondtal (en machten daarvan).
+Een ander ongebruikelijk stelsel is het faculteitssysteem. Dit is een gemengd talstelsel.

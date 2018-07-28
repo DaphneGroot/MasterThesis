@@ -1,0 +1,27 @@
+Gammastraling.
+Alfastraling (bovenste figuur) wordt al tegengehouden door een stukje papier. Voor bètastraling is al iets dikkers nodig (bijvoorbeeld plexiglas) en gammastraling gaat zelfs door heel dikke materialen.
+Gammastraling (γ-straling) is onzichtbare elektromagnetische straling met een hogere energie dan ultraviolet licht en röntgenstraling. Het ioniserende vermogen daarentegen is lager dan dat van alfastraling. Alfastraling heeft een hogere ioniserende energie, maar dat zorgt er weer voor dat de straling minder doordringend is doordat onderweg alle moleculen geïoniseerd worden.
+In bepaalde kernen zitten de nucleonen als het ware ongelukkig geschikt. Door de γ-straling of hoog energetische elektromagnetische straling met een snelheid van 300.000 km/s uit te zenden gaan de nucleonen zich herschikken tot een meer stabiele vorm. In tegenstelling tot bij alfa- en bètastraling worden hierbij geen deeltjes uitgezonden en treedt er geen transmutatie op. De onstabiele kernen worden aangeduid door een m naast het massagetal te plaatsen.
+De atmosfeer absorbeert gammastraling uit de ruimte. Waarnemingen hiervan vinden plaats vanuit satellieten.
+Frequentie en energie.
+De energie per foton wordt vaak uitgedrukt in elektronvolt. Deze is evenredig met de frequentie. Bij een frequentie van 2,4 × 1020 Hz (240 EHz) is die 1 MeV. Gammastraling is alle elektromagnetische straling vanaf ongeveer 0,2 MeV (daaronder ligt de categorie van Röntgenstraling). Gammastraling door radioactief verval blijft onder de 10 MeV, maar in de astronomie wordt ook gammastraling met een hogere energie waargenomen.
+Overgangen tussen energieniveaus in atoomkernen.
+Een atoomkern in een hoge aangeslagen toestand kan op vele verschillende manieren vervallen naar zijn grondniveau langs tussengelegen niveaus. Elke stap kan gammastraling opleveren.
+Excitatie door snelle nucleonen.
+Nucleonen met een energie van omstreeks 10 MeV kunnen atoomkernen aanslaan (exciteren)
+naar hogere energieniveaus. Deze vervallen onder uitzending van een lijnspectrum van gammastraling. De tabel is ontleend aan Hillier (1986) naar gegevens van Ramaty, Kozbovsky en Lingenfelter (Astrophysical Journal, Supplement Series 40, 487, 1979)
+Vangst van een neutron.
+Eerst wordt een vrij neutron gevormd, bijvoorbeeld door de reactie
+Ontmoet dit vrije neutron een waterstofkern, dan volgt
+Radioactief verval.
+Gammastraling ontstaat vaak door radioactief verval van atoomkernen.
+In zuiver gammaverval verliest de atoomkern alleen energie in de vorm van een foton. Atoomnummer en massagetal blijven gelijk.
+Vaak blijft een isotoop, ontstaan door een andere kernreactie, achter in een aangeslagen toestand. Deze isotopen worden meestal weergegeven met een symbool 'm' (van metastabiel) achter het massagetal. Bij veel andere soorten van radioactief verval wordt naast andere straling ook een gammafoton uitgezonden.
+Vernietiging van deeltjes door hun antideeltjes.
+Een voorbeeld is de annihilatie van een positron en een elektron volgens de vergelijking
+Verval van elementaire deeltjes.
+Er zijn ook andere reacties van pionen die gammastraling opleveren.
+Toepassing.
+Gammastraling wordt onder meer toegepast in de medische fysica.
+Verder lezen.
+Hillier R., Gamma-ray astronomy, Clarendon Press, Oxford, 1984, 1986

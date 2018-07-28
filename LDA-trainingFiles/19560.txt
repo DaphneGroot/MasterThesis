@@ -1,0 +1,24 @@
+Creative Commons.
+Creative Commons (CC) is een oorspronkelijk Amerikaans project voor het bevorderen van open inhoud. Het wil het mogelijk maken om creatieve werken vrijer beschikbaar te stellen dan bij traditioneel auteursrecht of copyright mogelijk is, zodat die werken bijvoorbeeld makkelijker gekopieerd en verspreid kunnen worden of dat anderen er verder aan kunnen werken. Creative Commons biedt verschillende vrije licenties aan die copyrighthouders kunnen gebruiken om bij het verspreiden van informatie problemen te voorkomen die door de huidige auteursrechtwetgeving kunnen optreden.
+Het initiatief werd in 2001 opgericht door onder anderen Lawrence Lessig, een pleitbezorger voor een soepeler systeem van auteursrecht. Creative Commons heeft internationaal partners om de licenties te vertalen van het Engels en van het Amerikaanse recht naar andere talen en andere rechtssystemen.
+Creative Commons kenmerkt haar licenties doordat ze heeft gezorgd dat de licenties begrijpelijk zijn zowel voor de mens (de Commons Deed) als voor machines (de metadata) en dat de licenties afdwingbaar zijn voor de rechtbank (de juridische code, de daadwerkelijke licentie).
+Kenmerken.
+De volgende vier kenmerken worden gebruikt in combinaties en vormen de verschillende Creative Commons-licenties.
+Naamsvermelding.
+"Attribution" of "Naamsvermelding" (BY) houdt in dat het kopiëren, distribueren, vertonen en uitvoeren van het werk en afgeleide werken is toegestaan op voorwaarde van het vermelden van de oorspronkelijke auteur.
+Niet-commercieel.
+"Non-commercial" of "Niet-commercieel" (NC) betekent dat het kopiëren, distribueren, vertonen en uitvoeren van het werk en afgeleide werken mag voor niet-commerciële doeleinden.
+Geen Afgeleide werken.
+"No Derivative Works" of "Geen afgeleide werken" (ND): het kopiëren, distribueren, vertonen en uitvoeren van het werk is toegestaan, maar niet het veranderen van het werk
+Gelijk delen.
+"Share Alike" of "Gelijk delen" (SA): het distribueren van afgeleide werken is alleen toegestaan onder een identieke licentie, zie ook copyleft.
+Er zijn verschillende CC-licenties, die genoemd worden naar welke van de hierboven genoemde punten ze bevatten. Versie 4.0 is de meest recente versie.
+CC0.
+Naast de verschillende CC-licenties bestaat er ook CC0. CC0 is bedoeld voor eigenaren van auteursrechten om werk vrij te geven aan het publiek domein, waarbij bepaalde juridische systemen het effectief verbieden om de rechten van een eigenaar over te dragen, zelfs als de auteur dit wenst. Ook CC0 is goedgekeurd voor vrije culturele werken volgens de Definitie van Vrije Culturele Werken.
+PDM.
+Ten slotte biedt Creative Commons ook een manier aan om werken te markeren waarvan het auteursrecht verlopen is. De "Public Domain Mark" (PDM) is net als CC0 geen licentie, maar het is ook geen vrijwaring. PDM is bedoeld voor werken die al publiek domein zijn.
+Ported en unported.
+De versies voorafgaand aan versie 3.0 waren gebaseerd op de Amerikaanse wetgeving en werden aangeduid met "generic" (generiek) omdat de licenties niet specifiek waren toegepast op een bepaalde jurisdictie of wetgeving. Dit had tot gevolg dat de licenties in verschillende wetgevingen op verschillende manieren geïnterpreteerd konden worden. Daarom besloot men om aangepaste (Engels: "ported") licenties uit te brengen die specifiek op een bepaalde jurisdictie waren toegespitst. Daarbij werd de aanduiding "generic" van de algemene licentie gewijzigd in "unported" (niet aangepast), omdat deze beter de verschillen aangeeft. In December 2013 heeft Creative Commons de 4.0 versie van de licenties uitgegeven. Nog meer dan in de eerdere versies zijn deze gebaseerd op het taalgebruik van internationale verdragen. Hiermee is een universele licentie gecreëerd die niet meer geport hoeft te worden. Vertalingen van de 4.0 licentie zijn daarom taalkundig in plaats van juridisch.
+Creative Commons Nederland, een samenwerkingsverband tussen het Instituut voor Informatierecht (IViR), "Waag Society" en "Kennisland" verzorgen de Nederlandse versies van de Creative Commons-licenties. Creative Commons Nederland heeft de 4.0 versies de licenties linguïstisch vertaald. Met de licenties kunnen Nederlandse schrijvers, fotografen, filmmakers, musici en andere contentproducenten hun werk vrij voor het publiek beschikbaar maken. De Nederlandse versies van de licenties zijn te vinden via de website van Creative Commons Nederland.
+Toepassingen.
+Er zijn verschillende projecten die een Creative Commons-licentie gebruiken, waaronder Wikipedia en Wikibooks. Daarnaast bestaat er op Wikimedia Commons de mogelijkheid om media, zoals afbeeldingen, onder een vrije variant van de Creative Commons-licentie op alle Wikimedia-projecten te uploaden. De Wikimedia Foundation gebruikt de licentie CC BY-SA 3.0.

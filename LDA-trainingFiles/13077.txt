@@ -1,0 +1,12 @@
+Schakelaar.
+Een schakelaar is in elektrische zin een 'poort' tussen geleidende delen, die de elektrische stroom kan doorlaten ('gesloten') of onderbreken ('open'). Het vormt onderdeel van een schakeling, vaak als bedieningspunt. De bekendste is de lichtschakelaar in huis waarmee een lamp 'aan' of 'uit' gedaan kan worden.
+Op schakelaars is doorgaans de nominale stroomsterkte en spanning aangegeven. De eigenlijke schakelinrichting wordt meestal door een kap afgesloten. Het materiaal, waaruit de schakelaars zijn vervaardigd, dient goed isolerend, onbrandbaar en niet- hygroscopisch (vochtaantrekkend) te zijn. Bovendien mag het bij verwarming niet week worden.
+In elektronische apparatuur worden vooral digitale schakelaars toegepast. Bijvoorbeeld: de processor van een computer bevat miljoenen digitale schakelaars (transistors). Hiermee worden vervolgens signalen verwerkt, waarbij het maken van een verbinding een logische '1' vertegenwoordigt (bij een lichtschakelaar 'aan') en het verbreken van een verbinding een logische '0' (bij een lichtschakelaar 'uit').
+De complexe relatie van schakelaars in een schakeling kan geanalyseerd worden door middel van booleaanse algebra.
+Mechanische schakelaars vertonen een verschijnsel dat denderen heet – het kortstondig meerdere malen achtereen maken en verbreken van het contact – en in digitale schakelingen hinderlijk kan zijn.
+Uitvoeringen.
+Schakelaars worden onderscheiden naargelang bediening of functie, of de combinatie ervan.
+Symbolen.
+In een installatietekening worden symbolen gebruikt die links in onderstaande afbeeldingen staan. De functie van de schakelaars blijkt in het midden van de afbeeldingen. Deze tekenwijze wordt doorgaans toegepast bij een stroomkring- of bedradingschema.
+Rechts is de constructie met een vierstandendraaischakelaar, zoals men die in oudere woningen (tot 1950) nog wel aantreft.
+De ronde wals kan steeds 90 graden verdraaid worden.

@@ -1,0 +1,7 @@
+Celsius.
+Celsius is een temperatuurschaal vernoemd naar de Zweedse astronoom Anders Celsius (1701-1744), die deze schaal voor het eerst voorstelde in 1742.
+Het bereik hiertussen wordt verdeeld in 100 gelijke delen. Oorspronkelijk had Celsius voor ogen dat het vriespunt van water bij 100° zou liggen en het kookpunt bij 0°. Anderen (mogelijk Carolus Linnaeus, Daniel Ekström of Martin Stromer) zagen dat liever omgekeerd.
+Omdat zowel het vriespunt van water als het kookpunt afhankelijk is van de heersende luchtdruk, ontstond op termijn behoefte aan een betere definitie. Dit leidde tot een specificatie waarbij het tripelpunt van water per definitie bij ligt. Het verschil tussen twee graden bleef even groot als voorheen.
+SI-stelsel.
+Formeel is afgesproken dat temperaturen in de SI-eenheid kelvin worden uitgedrukt. In bepaalde gevallen, bijvoorbeeld bij het aangeven van de buitentemperatuur in een weerbericht, worden echter graden Celsius gebruikt, enerzijds uit gewoonte en anderzijds omdat met behulp van deze eenheid de temperatuur in handzamere getallen kan worden uitgedrukt. In vijf landen, waaronder de Verenigde Staten, wordt de Fahrenheitschaal nog officieel gebruikt.
+Een temperatuur"verschil" van één graad Celsius is even groot als een verschil van één kelvin. komt door bovenstaande definitie overeen met. Een temperatuur in kelvin wordt naar graden Celsius omgerekend door er 273,15 van af te trekken.

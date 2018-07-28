@@ -1,0 +1,22 @@
+Peroxide.
+Een peroxide is een chemische verbinding, die verschillende vormen kan aannemen.
+Organische chemie.
+Een organisch peroxide is een verbinding waarin tussen delen van het skelet het peroxidefragment –O–O– zit. Benzoylperoxide is een bekend voorbeeld van een organisch peroxide. Deze verbindingen zijn relatief onstabiel en kunnen eenvoudig splitsen tussen de twee zuurstofatomen. Ze vormen daarbij twee vrije radicalen. De splitsing kan versneld worden door verhoogde temperatuur of bestraling met licht.
+Veel organische peroxiden worden om die reden gebruikt als initiator van radicalaire polymerisatiereacties, onder meer van ethyleen, propyleen, styreen of acrylaten.
+De reactiviteit van organische peroxiden wordt gewoonlijk uitgedrukt door een halveringstijd t1/2 bij verschillende temperaturen. Voor di-"tert"-butylperoxide in chloorbenzeen bijvoorbeeld is de halveringstijd bij 121°C 10 uur en bij 141°C 1 uur.
+Vele organische peroxiden moeten onder temperatuurcontrole, soms in diepvriescellen, bewaard worden, omdat ze reeds in de verpakking een zelfversnellende ontleding kunnen ondergaan. Voor zeer onstabiele peroxiden kan dit aanleiding geven tot een explosie. De laagste temperatuur waarbij een peroxide in zijn verpakking zelfversnellend ontleedt noemt men de SADT (Self-Accelerating Decomposition Temperature). De SADT van di-isopropylperoxydicarbonaat bijvoorbeeld is 5°C, en deze stof moet bij -15°C opgeslagen worden. De SADT van di-"tert"-butylperoxide is 80°C; deze stof is veel minder onstabiel en kan bij maximaal 40°C opgeslagen worden.
+Daarnaast zijn peroxiden in de organische chemie berucht vanwege hun ontstaan in di-ethylether, vooral als de verbinding een tijdje bewaard wordt. Het kookpunt van het peroxide is hoger dan van ether, dus tijdens verdampen, indampen of destillatie wordt de concentratie etherperoxide steeds hoger. Het risico op een spontane reactie (explosie) wordt snel groter.
+Anorganische chemie.
+Een anorganisch peroxide is een chemische stof waarin zuurstof als het (O–O)2−-ion voorkomt, in plaats van het meestal voorkomende O2−-ion.
+Het peroxide-ion bevat twee elektronen meer dan de zuurstofmolecule. De structuur van een peroxide verkrijgt men door in de moleculaire orbitaal-theorie de twee π*-antibindingsorbitalen volledig te maken. Men kan hieruit afleiden dat de bindingskracht van dit ion kleiner is dan bij de zuurstofmolecule. Bovendien is de bindingslengte groter: 130 pm bij Li2O2 tot 147 pm bij BaO2. Het ion is diamagnetisch.
+Types.
+Meestal bevat de verbinding daarnaast een alkali- of een aardalkalimetaal: men heeft ionische peroxide-ionen verkregen voor de alkalimetalen, calcium, strontium en barium.
+Men heeft ook peroxiden verkregen voor een aantal andere elektropositieve metalen zoals magnesium, de lanthaniden en het uranyl-ion. Deze vertonen dan een intermediair karakter, tussen een ionisch en een covalent karakter.
+Peroxiden van metalen zoals zink, cadmium en kwik zijn in hoofdzaak covalent.
+Ook van ammoniak is een peroxide bekend: ammoniumperoxide (NH4)2O2.
+Een peroxidebinding kan ook voorkomen is complexe oxo-anionen, bijvoorbeeld in S2O82−. Dit ion bestaat uit twee tetraëdrische SO4-eenheden, verbonden door een O–O-binding. Het ion wordt meestal persulfaat genoemd, soms ook peroxodisulfaat.
+Eigenschappen.
+Het peroxide-ion bevat een enkele binding tussen de twee zuurstofatomen: (O–O)2− en heeft dezelfde elektronische structuur als het fluormolecuul F2. Het is een zeer krachtig oxideermiddel en hierdoor tamelijk onstabiel. Ionische peroxiden reageren met water of verdunde zuren tot waterstofperoxide. Alle organische verbindingen worden, zelfs bij gewone temperatuur, omgezet tot carbonaten. Natriumperoxide is een krachtige oxidator van metalen, zoals ijzer.
+De oxiden, peroxiden en superoxiden zijn nauw aan elkaar verwant. Ze vormen een keten van zuurstofionen met steeds hoger (minder negatief) oxidatiegetal. De oxiderende eigenschappen worden echter steeds sterker.
+Gebruik.
+Bariumperoxide wordt gebruikt in de pyrotechniek en in lichtspoorammunitie.

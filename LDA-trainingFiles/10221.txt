@@ -1,0 +1,30 @@
+Staartdeling.
+Een staartdeling waarbij 116331 wordt gedeeld door 17
+Een staartdeling is een algoritme om (op papier) een deling uit te voeren. Bij de aanvankelijke opzet ging het daarbij om de deling van een (meestal groot) (natuurlijk) getal door een kleiner getal. Omdat de deling niet hoeft "op te gaan" kan daarbij een rest ontstaan. Het principe kan echter ook voor andere delingen gebruikt worden. Een staartdeling maakt gebruik van de eigenschappen van een positiestelsel. Ze kan met hetzelfde gemak worden gebruikt in het decimale stelsel als in bijvoorbeeld het octale of binaire stelsel.
+In het Nederlandse basisonderwijs worden naast de staartdeling ook andere algoritmes gebruikt om het delen aan te leren, volgens het realistisch rekenen. Die gaan veel duidelijker uit van herhaald optellen, maar missen de heldere structuur van de staartdeling.
+Nederland.
+In het voorbeeld wordt 135 (het deeltal) gedeeld door 11 (de deler). Er wordt gebruikgemaakt van de eigenschappen van de decimale voorstelling. Eerst wordt geprobeerd het 100-tal (= 1) door 11 te delen. Omdat 1 kleiner is dan 11, gaat dat niet. Vervolgens wordt gekeken naar de 13 tientallen. Die kunnen door 11 gedeeld worden. Dat gaat 1 keer. Die 1, die staat voor 1 tiental, wordt aan de rechterkant opgeschreven. Vervolgens wordt de "rest" berekend, oftewel: hoeveel tientallen blijven er over?
+Er zijn nog 2 tientallen over, die samen met de 5 eenheden (het volgende cijfer uit het deeltal) 25 eenheden vormen. Deze 25 eenheden worden gedeeld door het deeltal 11. Dat gaat 2 keer, en die 2 wordt rechts naast de 1 op de plaats van de eenheden opgeschreven.
+Er blijft een rest 3 over. Het resultaat is: 135 = 12 × 11 + 3.
+Staartdeling in het Nederlandse onderwijs.
+Sinds de invoering van het realistisch rekenen wordt op veel scholen de klassieke staartdeling niet meer geleerd aan de kinderen, maar wordt de zogenaamde "hapmethode" aangeleerd. Hierbij wordt geschat hoe vaak de deler in het te delen getal past. Omdat dit een andere manier van delen is, kunnen ouders hun kinderen thuis minder goed helpen bij het leren delen. Zij hebben immers vroeger de klassieke staartdeling geleerd op de basisschool.
+Toch zijn de overeenkomsten met de klassieke staartdeling groter dan de verschillen. Het grote verschil is dat bij de hapmethode een algoritme wordt uitgevoerd, gebaseerd op de distributieve eigenschap van de vermenigvuldiging. Het is onbekend of leerlingen hier feitelijk behoefte aan hebben. De hapmethode leidt tot een minder efficiënte schrijfwijze (zeker in het begin). Een enkele keer leidt de flexibiliteit van de moderne staartdeling tot een efficiëntere berekening (bijvoorbeeld bij 3650: 37).
+Sinds 2010 is er een kentering gaande in het Nederlandse rekenonderwijs. Waar de klassieke staartdeling eerst bijna geheel was verdwenen, wordt deze nu weer aangeboden in veel rekenmethodes, zoals "Reken Zeker" en "De wereld in getallen". De staartdeling kan gerekend worden tot de kenmerken van het functioneel rekenen. De hapmethode wordt gerekend tot het realistisch rekenen.
+Voorbeeld.
+Deze methode kan geïillustreerd worden met het bovenstaande voorbeeld. Gevraagd wordt 135: 11. Er moeten dus berekend worden hoe vaak 11 van 135 kan worden afgetrokken. Het is gemakkelijk in te zien dat in ieder geval 10 keer 11, dus 110, afgetrokken kan worden. Er blijft 135-110=25 over. Weer is gemakkelijk in te zien dat 2 keer 11, dus 22, afgetrokken kan worden. Het aantal keer dat de deler 11 in het deeltal 135 past is dus 10+2=12. En de rest is 25-22=3.
+De flexibiliteit van hapmethode zit daarin dat men, als men niet zeker weet of 11 wel 10 keer van 135 kan worden afgetrokken, eerst eens 9 keer kan proberen; dan blijft als rest 36. Het valt niet moeilijk in te zien dat er nu nog maar 3 keer 11 afgetrokken kan. Het aantal keer dat de deler 11 in het deeltal 135 past is dus 9+3=12. En de rest is 36-33=3.
+Ook met de hapmethode is het mogelijk een nauwkeuriger antwoord te vinden met behulp van decimale breuken. 3 moet nog door 11 gedeeld worden. Een eerste poging levert bijvoorbeeld 0,2×11=2,2 op. Er blijft 3-2,2=0,8 over. Deze procedure kan naar believen worden herhaald.
+Bij grotere berekeningen is het wenselijk een eenduidige notatie te gebruiken. Links staan twee stappen uit de berekening. Rechts de meest efficiënte schrijfwijze. Deze is vrijwel identiek aan de klassieke staartdeling in het bovenstaande voorbeeld, die direct tot het juiste resultaat leidt.
+135: 11 = 135: 11 = 12 135: 11 = 12
+110: 11 = 10 110: 11 = 10 110
+Toepassing op veeltermen.
+x-1 / x3 + x \ x2 + x + 2 + 2/(x-1)
+(x3 + x) - (x3 - x2) = x3 + x - x3 + x2 = x2 + x
+(x2 + x) - (x2 - x) = x2 + x - x2 + x = 2x
+(2x) - (2x - 2) = 2x - 2x + 2 = 2
+Microprocessor.
+Behalve door mensen wordt het staartdelingsalgoritme ook door computers gebruikt. In een microprocessor wordt een deelinstructie op een wijze uitgevoerd die behoorlijk dicht bij de wijze zit waarop wij mensen deze uitvoeren.
+Eenvoudige processoren, zoals de MOS 6502 hebben geen deelinstructie. Om op computers met dit soort processoren te kunnen delen, wordt het staartdeelalgoritme in de programmatuur opgenomen.
+In de Pentium werd een variant op het staartdelingsalgoritme toegepast; in plaats van aan de rechterkant (het antwoord dus) alleen positieve cijfers te schrijven kon de Pentium daar ook negatieve cijfers zetten. Hierdoor kon de Pentium een snellere methode gebruiken om het juiste cijfer te bepalen.
+De methode met negatieve cijfers geeft echter niet altijd het goede antwoord. Met behulp van een tabel bepaalde de Pentium in welke gevallen toegestaan was met negatieve getallen te werken.
+Ergens tussen ontwerpkamers en fabriek ontstond echter een foutje in de betreffende tabel. Dit leidde tot de beruchte FDIV-bug, hetgeen Intel veel gezichtsverlies opleverde en haar noodzaakte tot een dure terugroepactie.

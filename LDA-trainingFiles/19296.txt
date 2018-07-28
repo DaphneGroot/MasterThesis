@@ -1,0 +1,12 @@
+Schermafbeelding.
+Een schermafbeelding, schermafdruk, screenshot, of screendump is een statische afbeelding (een "foto") van wat er op een bepaald moment zichtbaar is op (een deel van) een beeldscherm. Een screencap ("screen capture") is een opgenomen stukje video (bijvoorbeeld uit een film of tv-programma), om iets hieruit naar voren te halen.
+Windows.
+In Windows kan een schermafbeelding in het klembord geplaatst worden door op de Print Screen-toets op het toetsenbord te drukken. Door op Alt + Print Screen te drukken wordt er enkel een schermafbeelding in het klembord geplaatst van het actieve venster. De afbeelding die in het klembord zit kan geplakt worden in een programma (zoals Paint of een tekstverwerker) en vervolgens worden bewerkt en/of opgeslagen.
+In recente versies van Windows kan men het "Knipprogramma" gebruiken om screenshots te maken.
+Mac OS X.
+Schermafbeeldingen worden onder Mac OS X direct opgeslagen, op het bureaublad. In Panther (Mac OS X 10.3) als PDF-bestand; vanaf Tiger (Mac OS X 10.4) worden ze als PNG-bestand opgeslagen.
+Om de afdruk in het klembord te plaatsen, moet ook de Ctrl-toets ingedrukt worden bij de bovengenoemde toetscombinaties.
+Andere mogelijkheden.
+Er is een zeer grote variëteit aan programma's om schermafbeeldingen te nemen onder verschillende besturingssystemen.
+Onder Linux kunnen er programma's zoals KSnapshot (van KDE), de Screen-Shooter-applet van GNOME en Import gebruikt worden.
+Tekenprogramma's zoals GIMP of ImageMagick hebben vaak ook een mogelijkheid om schermafbeeldingen te nemen.

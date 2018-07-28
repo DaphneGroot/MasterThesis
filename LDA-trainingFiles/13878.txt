@@ -1,0 +1,22 @@
+Derde rail.
+Derde rail is een methode om een spoorlijn, metrolijn of tramlijn te elektrificeren. De derde rail wordt vrijwel altijd met gelijkspanning gevoed. De meest voorkomende spanning is 750 volt.
+Derde rail langs de zijkant van het spoor.
+Dit type wordt vooral bij spoorlijnen in Zuid-Engeland, door Merseyrail en bij metro's gebruikt.
+Bij de Parijse en Londense metro en de vier kleinprofiellijnen van de Berlijnse metro wordt de stroom afgenomen aan de bovenkant. De voedingsrail is uiterlijk vrijwel niet te onderscheiden van de rails waarover de wielen lopen. Naast het veiligheidsrisico zijn sneeuw en ijs op de rails zeer hinderlijk voor de stroomafname. In Zuidoost-Engeland rijden er speciale treinen bij sneeuwval om de stroomrails schoon te houden.
+Bij nieuwere systemen wordt de stroom om veiligheidsredenen met een sleepschoen aan de onderkant afgenomen. Onder meer de Amsterdamse, de Brusselse en de Rotterdamse metro zijn zo uitgerust. Zie hieronder, Elektrocutiegevaar.
+Derde en vierde rail.
+In Londen en in Milaan wordt ook een vierde rail gebruikt die tussen de spoorstaven ligt. Met zo'n aparte retourstroomleiding kan zwerfstroomcorrosie vermeden worden.
+Bij metro's op luchtbanden, zoals bij de metro van Lyon, is aan beide kanten een opstaande rail aangebracht. Deze rails worden niet alleen gebruikt voor de stroomtoevoer, maar ook voor de geleiding van de voertuigen.
+Derde rail tussen de rails.
+Dit type werd vroeger veel gebruikt bij Franse stadstrams. Bij het tramnet van Bordeaux wordt een verbeterde versie van dit systeem opnieuw gebruikt onder de naam Alimentation par le sol (APS). Bij APS is de derde middenrail verdeeld in verschillende segmenten die alleen onder spanning staan als er een tram overheen rijdt.
+Bij bepaalde systemen met voertuigen op luchtbanden, zoals een TVR, VAL of people mover, dient de derde rail niet alleen als stroomvoorziening, maar ook ter geleiding van de voertuigen.
+Modeltreinen.
+Bij de modeltreinen van Märklin en Trix Express bevindt zich tussen de rails een bijzondere vorm van een derde rail. Hierbij is de derde rail onder de spoorstaaf bevestigd en steken aan de bovenzijde van de rails in het midden puntjes uit waarbij een speciale langwerpige sleepschoen onder de locomotief de stroom afneemt.
+Derde rail boven het spoor.
+Onder meer de metro van Madrid en de metro van Barcelona worden van bovenaf gevoed. Er is echter geen slappe draad maar een starre staaf, een mengvorm dus van bovenleiding en derde rail. Doordat de staaf onbeweeglijk is, is een minder hoge tunnel nodig. Ook de Wuppertaler Schwebebahn wordt van bovenaf gevoed.
+Voor- en nadelen van derde rail ten opzichte van de bovenleiding.
+Het tweede nadeel maakt een derde rail onmogelijk voor interlokale spoorwegen en hogesnelheidslijnen, waarbij de hoge snelheid een hoge voedingsspanning vereist.
+Elektrocutiegevaar.
+Een spoor- of metrolijn is omheind en niet toegankelijk voor publiek, dus wat dat betreft is het elektrocutiegevaar niet bijzonder groot. Overwegen (die meestal zeldzaam zijn) vormen een extra gevaar: hoewel de derde rail daar onderbroken wordt, is het natuurlijk mogelijk bij een overweg langs het spoor te komen. Bij perrons ligt de derde rail meestal aan de kant die van het perron afgekeerd is, maar desondanks is het gevaar niet denkbeeldig voor een onvoorzichtige reiziger die van het perron valt.
+Bij moderne systemen wordt het gevaar verder verminderd doordat de rail zich bevindt in een isolerende koker die de vorm heeft van een omgekeerde U, waarbij de stroom wordt afgenomen aan de onderkant van de derde rail.
+Deze U-vormige rail is alleen gevaarlijk als men er van onder een hand insteekt, maar desondanks is de regel dat reizigers pas uit een defecte trein mogen stappen als de derde rail uitgeschakeld is.

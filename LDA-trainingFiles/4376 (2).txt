@@ -1,0 +1,8 @@
+Formule van Euler.
+Daarbij is "e" het grondtal van de natuurlijke logaritme, formula_2 de imaginaire eenheid, en zijn cos en sin respectievelijk de goniometrische functies cosinus en sinus met het argument in radialen. De formule geldt ook voor complexe waarden van formula_3.
+Bewijs.
+Er zijn verschillende methodes om de formule van Euler te bewijzen.
+Analytische methode.
+Hieruit volgt dat formula_14 en dus zien we dat inderdaad formula_15.
+Taylorreeks.
+De gelijkheid kan men ook bewijzen door aan te tonen dat de taylorreeksen van beide uitdrukkingen hetzelfde zijn.

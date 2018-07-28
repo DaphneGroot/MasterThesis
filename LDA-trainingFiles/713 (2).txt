@@ -1,0 +1,7 @@
+Megabyte.
+Een megabyte, afgekort MB, is gelijk aan 1000 kilobytes ofwel 1.000.000 bytes. Een byte bestaat in deze context uit 8 bits.
+Er wordt nog steeds veel gerekend met 1 MB = 1024 kB, waarbij 1 kB = 1024 B. Eén megabyte is dan 1.048.576 B (220 B). Dit gebruik wordt ontraden sinds er een nieuwe standaard is voor binaire voorvoegsels (zie Veelvouden van bytes). Nu heet 220 B een mebibyte, afgekort "MiB".
+Omdat er veel gerekend wordt met 1 MB = 1.048.576 B, bestaat er nog steeds verwarring.
+Over het algemeen geven fabrikanten van opslagmedia de capaciteit op in (decimale) mega- of gigabytes. Een flashgeheugenkaartje van 256 MB heeft daardoor eigenlijk 'maar' een capaciteit van 244 MiB. Historisch gezien worden de capaciteiten van RAM-geheugens wel als (binaire) MiB's aangegeven. Duizend megabytes zijn gelijk aan een gigabyte.
+Een floppy disk van 1,44 MB heeft een capaciteit om 1.474.560 bytes aan data op te slaan. MB staat in deze context voor 1.000 keer 1.024 bytes.
+Het DNA in het menselijk genoom bestaat uit ongeveer 800 MB aan informatie. Het onderscheidend deel hierin dat een persoon van een andere persoon onderscheidt, kan samengevat worden tot ongeveer 4 MB.

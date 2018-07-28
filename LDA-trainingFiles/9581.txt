@@ -1,0 +1,4 @@
+Pwd (Unix).
+Het pwd commando (print working directory) geeft op de Unix-familie van besturingssystemen de naam van de huidige werkdirectory weer. Omdat dit commando veel gebruikt wordt, is het net zoals cd vaak ingebouwd in shells, zoals in de Bourne shell en Bash.
+Gebruik in programma's.
+Functionaliteit zoals geboden door pwd kan in een programma gebruikt worden door middel van de POSIX C functies getcwd() en/of getwd().

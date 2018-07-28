@@ -1,0 +1,8 @@
+Lemma (naslagwerk).
+Een lemma (meervoud "lemma's" of "lemmata") of trefwoord is het woord waarop een begrip in bijvoorbeeld een woordenboek of een encyclopedie kan worden opgezocht. Een overzicht van lemma's vindt men in de index of het register achterin. Bij een lemma staan soms verwijzingen naar diverse pagina's: op al deze pagina's wordt het lemma genoemd. Bij elektronisch zoeken tikt men het lemma in het zoekvak.
+Een lemma is meestal het eerste, vaak vetgedrukte woord van het artikel in woordenboek of encyclopedie. Om een begrip op te zoeken, moet het lemma waaronder het beschreven wordt, bekend zijn. Zo treft men het voltooid deelwoord "gezocht" aan onder het lemma "zoeken", de infinitief van het desbetreffende werkwoord. Vandaar dat lemma met "trefwoord" wordt aangeduid.
+Een lemma begint met een inleiding waarin een korte samenvatting van de daarna volgende tekst wordt weergegeven. In de tekst kan men meerdere hyperlinks treffen die leiden naar een lemma over het gelinkte woord.
+Artikel.
+Het woord "lemma" wordt vaak ook gebruikt om een compleet artikel over een onderwerp in een woordenboek of encyclopedie aan te duiden.
+Herkomst.
+Het woord is uit het klassieke Grieks via het middeleeuws Latijn in het Nederlands terechtgekomen. Het Griekse meervoud is "lemmata".

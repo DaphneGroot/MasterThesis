@@ -1,0 +1,11 @@
+MAC-waarde.
+De MAC-waarde is de Maximaal Aanvaarde Concentratie van een (schadelijke) stof (oorspronkelijk Engels: "Maximum Allowable Concentration", nu bekend als "Threshold Limit Value" - TLV).
+De eenheid die gehanteerd wordt voor gassen is ppm, "parts per million"; voor vaste stoffen (fijn stof) is de eenheid mg/m3.
+De MAC-waarde geldt voor een gezonde volwassen man; vrouwen en mensen met een verlaagde weerstand zijn niet in de overweging meegenomen. De tendens lijkt te zijn dat meer onderzoek naar een stof tot resultaat heeft dat de MAC-waarde daalt. Voor dampvormige anesthetica wordt ook een MAC-waarde anesthetica gedefinieerd.
+In Nederland zijn per 1 januari 2007 bestuurlijke MAC's vervallen en een deel van de oude (wettelijke) MAC's zijn in het nieuwe stelsel Wettelijke Grenswaarden opgenomen. Het oude grenswaardenstelsel bevatte zo'n 1000 wettelijke en bestuurlijke MAC-waarden. Het nieuwe grenswaardenstelsel omvat ruim 100 wettelijke grenswaarden en ruim 40 wettelijke grenswaarden voor kankerverwekkende stoffen.
+Vaststellen MAC-waarden.
+Aangezien de MAC-waarde wordt opgesteld na een beleidsmatige overweging is het ook mogelijk dat nationale wetgeving een eigen lijst met grenswaarden opstelt.
+Soorten MAC-waarden.
+Verder wordt er soms aangegeven met (H) achter de waarde dat de stof ook via de huid het lichaam kan betreden.
+Voor kortdurende blootstellingen kan ook een MAC-15 aangegeven worden waarbij de periode 15 minuten bedraagt in plaats van de normale werkdag van 8 uur.
+MAC-waarden zijn binnenlucht normen. Voor de buitenlucht gelden MIC-waarden (maximale immissie concentratie), die meestal worden berekend door de MAC-C waarde te delen door een veiligheidsfactor (meestal 100)

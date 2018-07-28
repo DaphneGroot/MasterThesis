@@ -1,0 +1,5 @@
+Kilobyte.
+In praktijk werkte dit verwarrend en bedoelde men met 1 kB vaak 1024 bytes.
+De oude notatie wordt ontraden sinds er een nieuwe standaard is voor binaire voorvoegsels (zie: "veelvouden van bytes"). Deze standaard wordt echter nog niet veel toegepast.
+Let op: het is nog steeds van belang voor de "B" een hoofdletter te gebruiken: een kleine letter "b" staat namelijk voor "bit" en niet voor "byte".
+1024 B heet nu een "kibibyte", afgekort "KiB". 1000 kB heet een megabyte, 1024 KiB heet een mebibyte.

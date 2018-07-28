@@ -1,0 +1,8 @@
+Abelse groep.
+Een abelse groep, ook wel commutatieve groep genoemd, is een groep die voldoet aan de additionele eis dat het product van twee elementen niet afhangt van de volgorde waarin de groepsbewerking wordt uitgevoerd (het axioma van commutativiteit). Abelse groepen zijn genoemd naar de Noorse wiskundige Niels Henrik Abel. Abelse groepen veralgemenen de rekenkunde van de optelling van de gehele getallen.
+Het concept van een abelse groep is een van de eerste concepten die men tegenkomt in de abstracte algebra. Modules en vectorruimtes kunnen als verfijningen van abelse groepen worden gezien. De theorie van de abelse groepen is in het algemeen eenvoudiger dan die van de niet-abelse groepen. Eindige abelse groepen worden goed begrepen. De theorie van de oneindige abelse groepen is echter een gebied waarnaar ook nu nog veel onderzoek wordt verricht.
+De cyclische groepen.
+Deze groepen sommen dus alle cyclische groepen op. Merk op dat de directe som van twee cyclische groepen cyclisch kán maar niet hoéft te zijn. Zo is de som van formula_17 en formula_18 een cyclische groep van orde 6, terwijl de som van formula_17 met formula_17 de abelse, niet-cyclische Viergroep van Klein is.
+De eindig voortgebrachte abelse groepen.
+Een algemenere klasse van abelse groepen is die van de eindig voortgebrachte abelse groepen (e.v. abelse groepen), de abelse groepen die door eindig veel elementen (de generatoren) worden voortgebracht.
+Net zoals in het geval van de cyclische groepen zijn er dus aftelbaar veel e.v. abelse groepen, zijn ze alle gekend en hebben ze een relatief eenvoudige structuur.

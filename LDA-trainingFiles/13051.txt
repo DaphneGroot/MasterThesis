@@ -1,0 +1,23 @@
+Geheel getal.
+Symbool om de verzameling gehele getallen aan te geven
+De gehele getallen zijn alle getallen in de rij
+die voortgezet wordt door er steeds 1 bij te tellen of er 1 af te trekken. De gehele getallen omvatten de natuurlijke getallen, dus de getallen waarmee geteld wordt, en de tegengestelden daarvan, de negatieve gehele getallen.
+Een geheel getal heet 'geheel' omdat het zonder fractionele of decimale componenten kan worden geschreven. De getallen 21, 4 en -121 zijn bijvoorbeeld gehele getallen, terwijl 9,75, 5½ en formula_1 geen gehele getallen zijn. De verzameling gehele getallen is een deelverzameling van de reële getallen, en wordt meestal voorgesteld door een vet gedrukte Z of het symbool formula_2 (Unicode U+2124), wat voor "Zahlen" (het Duitse woord voor "getallen") staat.
+Het gedeelte van de wiskunde dat zich bezighoudt met de studie naar de eigenschappen van de gehele getallen noemt men de getaltheorie.
+Formele definitie.
+De gehele getallen kunnen formeel worden gedefinieerd als equivalentieklassen van paren natuurlijke getallen.
+Integer.
+Voor de representatie van gehele getallen in de computer maakt men gebruik van het datatype integer. Het is echter belangrijk daarbij op te merken dat deze twee niet hetzelfde zijn. Het datatype integer is een eindige verzameling, terwijl de gehele getallen een oneindige verzameling vormen.
+Algebraïsche eigenschappen.
+De verzameling gehele getallen is gesloten onder optellen, aftrekken en vermenigvuldigen: elke optelling, aftrekking of vermenigvuldiging van twee gehele getallen levert opnieuw een geheel getal. De verzameling is niet gesloten onder de bewerking delen: niet elke deling van twee gehele getallen levert opnieuw een geheel getal op (bijvoorbeeld 1/2, zie rationaal getal).
+Ordening.
+De elementen van formula_3 hebben een bepaalde volgorde, maar geen onder- of bovengrens. Strikter geformuleerd: de verzameling formula_3 wordt totaal geordend door de relatie "<" (kleiner dan) en bevat in die ordening zowel oneindig stijgende als oneindig dalende ketens.
+In bovenstaande stelling heet het getal formula_11 het quotiënt en formula_12 de rest van de deling van formula_17 door formula_9.
+Als in bovenstaande stelling "r=0", is de breuk "a/b=q", en dus geheel. Als "r" verschillend is van 0, is de breuk "a/b" een niet-geheel rationaal getal, met een geheel deel "q" en een gebroken of fractioneel deel "r/b".
+Kardinaliteit.
+Op deze manier worden de gehele getallen een-op-een afgebeeld op de natuurlijke getallen (zonder 0) door de bijectie formula_23 met
+De bijectie formula_25 met
+beeldt de gehele getallen af op alle natuurlijke getallen, dus inclusief 0.
+Door de definitie van kardinale gelijkheid hebben de twee verzamelingen een gelijke kardinaliteit.
+Verwante onderwerpen.
+De Gauss-gehele getallen en de Eisenstein-gehele getallen zijn twee verschillende uitbreidingen van de gehele getallen naar de complexe getallen.

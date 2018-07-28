@@ -1,0 +1,2 @@
+DICT.
+DICT is een netwerkprotocol voor woordenboeken, gecreëerd door de DICT Development Group. Het wordt beschreven in RFC-2229.Voorbeeld van een woordenboek in DICT. Het doel is het Webster-protocol te overtreffen in mogelijkheden en om clients de mogelijkheid te geven meerdere woordenboeken tegelijkertijd te raadplegen.

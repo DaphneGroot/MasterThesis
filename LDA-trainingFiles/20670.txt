@@ -1,0 +1,6 @@
+Debian Free Software Guidelines.
+De Debian Free Software Guidelines (DFSG) zijn een verzameling richtlijnen die het Debianproject gebruikt om te bepalen of een softwarelicentie wel een licentie voor vrije software is, hetgeen op zijn beurt wordt gebruikt om te bepalen of een stuk software kan worden toegevoegd aan het "main" (hoofd)gedeelte van de distributie van Debian.
+De richtlijnen maken als een soort bijlage deel uit van het "Debian Social Contract", dat begint met een aantal beloften van de Debian-ontwikkelaars aan de vrije-softwaregemeenschap.
+Voorbeelden van licenties die voldoen zijn de GPL, de BSD-licentie, en de Artistic License.
+De Open Source Definition werd afgeleid van de DFSG.
+De feitelijke interpretators van de DFSG zijn de leden van de "legal group" van Debian, de abonnees van de mailinglijst "debian-legal". Het "ftpmaster"-team van Debian neemt de uiteindelijke beslissingen in welke sectie (free of non-free) een nieuw geüpload pakket wordt geplaatst, maar heeft de neiging te overleggen met de debian-legal-lijst in controversiële gevallen.

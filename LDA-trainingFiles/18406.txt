@@ -1,0 +1,6 @@
+XPath.
+XPath (XML Path taal of XML Path Language) is een querytaal voor het adresseren van onderdelen van XML-documenten. Het is een compacte taal die niet in XML-syntaxis is opgesteld.
+Oorspronkelijk gemotiveerd door de wens om een gemeenschappelijke syntaxis en model te ontwikkelen voor XPointer en XSL, is XPath snel door XML-ontwikkelaars geaccepteerd als een soort kleine querytaal.
+Met XPath kan men heel specifieke informatie opvragen uit XML-documenten, zoals de informatie in de bladeren van de boomstructuur, maar ook deelpaden kunnen worden bevraagd.
+De notatie van XPath is compact, en geschikt om uitgedrukt te worden in XML-attributen. Een typisch XPath-expressie is een "Location Path", dat bestaat uit een string van elementen of attributen, gescheiden door forward slashes ("/"), wat veel weg heeft van een pad in een bestandssysteem. XPath ondersteunt ook ingebouwde functies, filters, toegang tot gebonden variabelen, en axis specifiers.
+Onder de functies die XPath ondersteunt, zijn stringfuncties, boolean functies en numerieke functies.

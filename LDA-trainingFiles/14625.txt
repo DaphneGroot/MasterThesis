@@ -1,0 +1,8 @@
+Linspire.
+Linspire (voorheen Lindows) was een commerciële Linuxdistributie, dat een alternatief probeerde te zijn voor Windows. Het werd op de markt gebracht door het in San Diego gevestigde "Lindows.com", een Amerikaans bedrijf dat in 2001 werd opgericht door Michael Robertson.
+Doel en Linux.
+Lindows oorspronkelijke doel was om een Linuxdistributie te maken die volledig transparant zou zijn met Windowsapplicaties. Van dit oorspronkelijk doel stapten ze echter af. In plaats hiervan stelden ze het doel om Windowsgebruikers op een vertrouwde manier over te laten stappen naar Linux.
+In de GNU/Linux wereld werd Lindows niet door iedereen met open armen ontvangen. Door sommigen omdat het een commerciële distributie was, met veel niet-vrije software, maar vooral omdat Lindowsgebruikers standaard met rootprivileges draaiden. Dit laatste wordt gezien als een onveilige situatie en niet conform de veiligheidseisen van Linux.
+Conflict met Microsoft.
+Overigens wordt Lindows al sinds september 2003 geleverd op sommige harde schijven van het Amerikaanse Seagate en zelfs sinds juni 2002 op enkele pc's van het Amerikaanse Wal-Mart.
+Op 15 december 2004 bood Linspire aan om alle pc's van de Nederlandse overheid te voorzien van Linspire, voor een bedrag van 5,9 miljoen euro. Microsoft had Windows voor dezelfde pc's aangeboden voor 147 miljoen euro.

@@ -1,0 +1,13 @@
+Meetkundig gemiddelde.
+Het meetkundig gemiddelde of geometrisch gemiddelde van "n" getallen wordt verkregen door de getallen met elkaar te vermenigvuldigen en vervolgens van het product de n-de-machtswortel te nemen. Het meetkundig gemiddelde wordt ook wel "geometrisch gemiddelde" genoemd. Voor "n"=2 gebruikt men ook de synoniemen "middelevenredige" of "middenevenredige."
+In formule: het meetkundig gemiddelde van "a1", "a2"..., "an" is formula_1 of formula_2.
+Voorbeeld.
+Dit betekent dat een jaarlijkse koersstijging van 3,91% gedurende drie jaar dezelfde eindkoers zou hebben opgeleverd.
+Negatieve getallen.
+Functiegrafiek van het meetkundig gemiddelde van twee veranderlijken. Als de twee veranderlijken verschillend teken hebben, is het gemiddelde niet gedefinieerd als reëel getal.
+Omdat in de definitie een worteltrekking voorkomt, moet men voorzichtig zijn met negatieve getallen. Zo is het meetkundig gemiddelde van twee reële getallen slechts goed gedefinieerd (en een positief reëel getal) als beide getallen hetzelfde teken hebben. In praktische toepassingen wordt het meetkundig gemiddelde bijna uitsluitend voor positieve getallen berekend.
+Voor positieve getallen is het meetkundig gemiddelde nooit groter dan het rekenkundig gemiddelde (strikt kleiner tenzij alle getallen gelijk zijn). Dit kan worden aangetoond door de ongelijkheid van Jensen toe te passen op de convexe functie formula_4 Het meetkundig gemiddelde van positieve getallen ligt tussen het kleinste en het grootste getal van de collectie.
+Meetkundige constructie.
+Meetkundige constructie voor het meetkundig gemiddelde van twee positieve getallen
+Het meetkundig gemiddelde ontleent zijn naam aan de volgende meetkundige constructie voor het gemiddelde van twee positieve getallen "a" en "b". Teken op eenzelfde rechte "R" twee aansluitende lijnstukken met lengten "a" respectievelijk "b" die elkaar ontmoeten in een punt "O." Teken de cirkel die de som van beide lijnstukken als diameter heeft. Laat de loodlijn op de rechte "R" vanaf het punt "O" op "R", de cirkelomtrek snijden in een punt "P." Dan is de lengte van het lijnstuk ["OP"] het meetkundig gemiddelde van "a" en "b." De straal van de cirkel is overigens het rekenkundig gemiddelde van "a" en "b;" hieruit blijkt grafisch dat het meetkundig gemiddelde van twee getallen niet groter is dan het rekenkundig gemiddelde.
+Een andere meetkundige interpretatie van het meetkundig gemiddelde formula_10 is: het is de zijde van het vierkant waarvan de oppervlakte gelijk is aan die van de rechthoek met zijden formula_11 en formula_12.

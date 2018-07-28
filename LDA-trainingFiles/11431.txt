@@ -1,0 +1,4 @@
+Aangenomen damegambiet.
+Het aangenomen damegambiet is bij schaken een opening die een van de voortzettingen is van het damegambiet. Het damegambiet is een opening die wordt gekenmerkt door de zetten 1.d4 d5 2.c4 en die is ingedeeld bij de gesloten spelen. Hierna heeft zwart de keuze tussen het aannemen van het gambiet met 2...dc4 of het weigeren ervan door een andere zet te spelen, waarna het geweigerd damegambiet ontstaat. Het aangenomen damegambiet heeft de ECO-code D20.
+Varianten.
+In de meeste gesloten spelen wordt de zet 2.c4 gespeeld. Deze opening wordt al in de 16e eeuw door Luis Ramírez de Lucena genoemd, maar werd tot de dertiger jaren van de 20e eeuw weinig gespeeld. Pas daarna is dit gambiet in het repertoire van grootmeesters opgenomen.

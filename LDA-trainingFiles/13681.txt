@@ -1,0 +1,5 @@
+Effectieve waarde.
+In de elektrotechniek verstaat men onder de effectieve waarde van een zuivere (dat wil zeggen, met gemiddelde waarde 0) periodieke wisselstroom of -spanning, de waarde van een constante stroom of spanning die in een weerstand gemiddeld hetzelfde elektrisch vermogen ontwikkelt als het oorspronkelijke signaal.
+De effectieve waarde formula_6 ontwikkelt een vermogen formula_7, met
+Daarom wordt de effectieve waarde vaak aangeduid als RMS, de Engelse afkorting voor root-mean-square oftewel kwadratisch gemiddelde.
+Een sinusvormig signaal heeft dus een effectieve waarde die gelijk is aan formula_10 van de maximale amplitude, de zogenaamde piekwaarde. Een zaagtand en een driehoekssignaal hebben een effectieve waarde die gelijk is aan formula_11 van de maximale amplitude. De effectieve waarde wordt gebruikt als men een effectief gemiddelde wil weten zonder nadere informatie te hoeven geven over frequentie en/of golfvorm van de spanning.

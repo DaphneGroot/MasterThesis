@@ -1,0 +1,5 @@
+Ghulamgambiet.
+Het Ghulamgambiet is een schaakopening, een variant van het aangenomen koningsgambiet.
+De openingszetten zijn: 1.e4 e5 2.f4 ef 3.Pf3 g5 4.Lc4 g4 5.d4 gf 6.Df3.
+De ECO-code van deze variant is C37.
+Het gambiet is geanalyseerd door de Indische schaker Ghulam Kassim die omstreeks 1800 leefde.

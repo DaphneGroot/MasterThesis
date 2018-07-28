@@ -1,0 +1,37 @@
+T-toets.
+Een t-toets is een parametrische statistische toets die onder andere gebruikt kan worden om na te gaan of het (populatie-)gemiddelde van een normaal verdeelde grootheid afwijkt van een bepaalde waarde, dan wel of er een verschil is tussen de gemiddelden van twee groepen in de populatie. Met behulp van een t-toets kan men dan een overschrijdingskans of een betrouwbaarheidsinterval bepalen.
+Ontstaansgeschiedenis.
+De "t-toets" (en de bijbehorende t-verdeling) is ontwikkeld door William Sealy Gosset die werkte onder het pseudoniem Student. De toets wordt daarom ook regelmatig als "Students t-toets" aangeduid. Gosset was werkzaam voor de Guinness brouwerij, waar hij de kwaliteit van het gebrouwen bier in de gaten hield. Hij publiceerde zijn resultaten in 1908 in het statistische tijdschrift Biometrika. Zijn werkgever eiste dat hij dat onder een pseudoniem deed, omdat het gebruik van statistische methoden als 'bedrijfsgeheim' gezien werd.
+Basisidee.
+Het basisidee van de t-toets is het volgende: Om na te gaan of van een normale verdeling met standaardafwijking σ de verwachtingswaarde μ een bepaalde waarde μ0 heeft, neemt men een steekproef van omvang n uit die verdeling en berekent men het steekproefgemiddelde formula_1. Onder de nulhypothese is dit gemiddelde ook normaal verdeeld met verwachting μ0 en standaardafwijking σ/√n. Het gestandaardiseerde steekproefgemiddelde
+is onder de nulhypothese standaardnormaal verdeeld, zodat eenvoudig nagegaan kan worden of een steekproefuitkomst significant is.
+Het gevolg is dat de toetsingsgrootheid "T" onder de nulhypothese niet meer standaardnormaal verdeeld, maar een t-verdeling heeft, die wat breder is dan de standaardnormale.
+Voorwaarden.
+Een t-toets kan gebruikt worden als aan bepaalde voorwaarden is voldaan. Bij de t-toets voor één steekproef moet gelden dat de betrokken steekproef een aselecte steekproef is uit een normale verdeling, met eventueel onbekende variantie.
+In het geval van twee steekproeven dienen beide steekproeven uit een normale verdeling te komen. De twee steekproeven moeten óf onafhankelijk van elkaar zijn, óf zogenaamd gepaard zijn. In het geval van twee onafhankelijke steekproeven dienen bij toepassing van de standaard t-toets de beide populaties dezelfde variantie te hebben. Wanneer beide populaties een verschillende variantie
+hebben, kan een aangepaste t-toets gebruikt worden. Het geval van gepaarde waarnemingen komt neer op een t-toets voor de enkele steekproef van de verschillen.
+Schendingen van deze assumpties hebben gevolgen voor de robuustheid en het onderscheidend vermogen van de t-toets. Met behulp van een F-toets kan getoetst worden of de varianties in beide groepen significant van elkaar verschillen. De normaliteit van de populaties kan getoetst worden met behulp van de Kolmogorov-Smirnovtoets.
+Als aan de voorwaarden van de centrale limietstelling voldaan is, kan de t-toets benaderend toegepast worden voor grote steekproeven. De voor de berekening van de toetsingsgrootheid benodigde steekproefgemiddelden zijn dan immers bij benadering normaal verdeeld.
+Definitie.
+waarin formula_7 het steekproefgemiddelde is en formula_8 de steekproefstandaardafwijking.
+Onder de nulhypothese heeft formula_9 een t-verdeling met "n"-1 vrijheidsgraden.
+De t-toets voor één groep kan men toepassen op een enkele steekproef, waarbij men toetst of het populatiegemiddelde afwijkt van een bepaalde waarde. Men past de t-toets in deze vorm ook toe op de verschilscores van twee afhankelijke groepen, als deze verschillen een aselecte steekproef vormen die voldoet aan de genoemde voorwaarden.
+Voorbeeld 1.
+We verwerpen de nulhypothese voor te kleine waarden van T. Om na te gaan of de gevonden waarde t te klein is, zijn er twee benaderingen mogelijk.
+Aangezien t < tα,ν, dient de nulhypothese verworpen te worden. We concluderen dat de kuipjes systematisch te weinig margarine bevatten.
+Bij de tweede methode berekenen we de (linker) overschrijdingskans "p" van t en verwerpen de nulhypothese als p ≤ α.
+Uit een tabel van de t-verdeling met "n"-1 = 24 vrijheidsgraden lezen we af dat "p" kleiner is dan 5%. De nulhypothese dient dus verworpen te worden en we concluderen dat de kuipjes systematisch te weinig margarine bevatten. De waarde van "p" kan met statistische software of programma's als Office Excel berekend worden en is ongeveer 0,00072.
+Voorbeeld 2.
+Is een afslankproduct wel effectief zoals de fabrikant beweert? Om dat na te gaan volgen we formula_27 proefpersonen en wegen elk voor ze aan de kuur beginnen en erna. In de onderstaande tabel staan de resultaten.
+We verwerpen de nulhypothese voor te grote waarden van formula_9. Om na te gaan of de gevonden waarde formula_37 te groot is bepalen we de (rechter) overschrijdingskans van formula_37. Uit een tabel van de t-verdeling met formula_39 vrijheidsgraden lezen we af dat de p-waarde van deze uitkomst formula_37 kleiner is dan 1%.
+Ook in dit voorbeeld wordt de nulhypothese verworpen (op 5% niveau) en nemen we aan dat het middel effectief is of dat er een placebo-effect is.
+Definitie bij onafhankelijke steekproeven.
+die het gewogen gemiddelde is van de beide afzonderlijke steekproefvarianties formula_52 en formula_53.
+Onder de nulhypothese heeft formula_9 een t-verdeling met n+m-2 vrijheidsgraden. Afhankelijk van het gekozen alternatief verwerpt men de nulhypothese eenzijdig dan wel tweezijdig.
+Er is bij deze definitie aangenomen dat beide populatievarianties aan elkaar gelijk zijn. Wanneer dit niet het geval is, moet er een aangepaste t-toets uitgevoerd worden.
+Voorbeeld 3.
+Zijn vrouwen van 40 jaar gemiddeld zwaarder dan vrouwen van 30 jaar? Om dat na te gaan nemen we een aselecte steekproef van "n"=10 vrouwen van 30 en een aselecte steekproef van "m"=15 vrouwen van 40. onafhankelijk van de eerste steekproef. Elke vrouw wordt gewogen. In de onderstaande tabel staan de resultaten.
+We verwerpen de nulhypothese voor te kleine waarden van T. Om na te gaan of de gevonden waarde t te klein is, bepalen we de (linker) overschrijdingskans van t. Uit een tabel van de t-verdeling met "n+m"–2 = 23 vrijheidsgraden lezen we de p-waarde van deze uitkomst af.
+Deze overschrijdingskans is te groot om reden te geven tot verwerping van de nulhypothese. Weliswaar waren de vrouwen van 40 in de steekproef gemiddeld 4 kg zwaarder dan de vrouwen van 30, maar dit verschil is niet significant gezien de spreiding binnen de groepen.
+Software.
+De t-toets is een van de meest gebruikte toetsen in de statistiek, en zit daarom in de meeste statistische en data-verwerkingsprogramma's. Zo kan men in de statistische programmeertaal R de t-toets uitvoeren met behulp van de functie "t.test". In Python is de t-toets beschikbaar in de SciPy bibliotheek. In de rekenbladen van Microsoft Excel en OpenOffice Calc is er de functie "ttoets" resp. "T.TOETS" of "T.TEST". In Matlab wordt gebruikgemaakt van het commando "ttest" voor de t-toets en "ttest2" voor twee onafhankelijke steekproeven. Een veelgebruikt programma voor dergelijke statistische toetsen is SPSS.

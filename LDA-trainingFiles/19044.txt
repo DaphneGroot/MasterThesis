@@ -1,0 +1,13 @@
+Covalente binding.
+Een covalente binding of atoombinding is een binding tussen atomen waarin de atomen een of meer gemeenschappelijke elektronenparen hebben. Niet-metalen gaan met elkaar covalente bindingen aan. Met deze vorm van binding worden moleculen of een samengesteld ion opgebouwd. Als vuistregel kan worden gesteld dat een covalente binding optreedt als het verschil van elektronegatieve waarden ΔEN volgens de definitie van Linus Pauling kleiner is dan 1,6 à 1,7.
+De normale covalente binding.
+De covalente binding tussen twee identieke atomen is apolair, ΔEN = 0. Een voorbeeld hiervan is zuurstof O2. De covalente binding tussen niet-identieke atomen is polair. De sterkte van de polariteit hangt af van het verschil in elektronegativiteit tussen beide atomen. Atoombindingen met ΔEN waarden kleiner dan 0,4 hebben in de meeste gevallen een apolair karakter. Atoombindingen met ΔEN waarden tussen 0,4 en 1,7 zijn in de meeste gevallen polair. Een voorbeeld hiervan is de sterk polaire O-H-binding met ΔEN = 1,4 die men in water en alcoholen aantreft.
+Bij de vorming van een covalente binding komt energie vrij, de bindingsenthalpie.
+De datieve covalente binding.
+Er bestaat naast de normale covalente binding ook de datieve covalente binding of donor-acceptorbinding, waar een van de twee bindingspartners beide bindingselektronen levert. Dit is bijvoorbeeld het geval bij het hexacyanoferraation Fe(CN)63-. Een dergelijke binding wordt soms voorgesteld door middel van een pijltje gericht van de donor naar de acceptor.
+Bij de semi-polaire datieve covalente binding stelt het minst elektronegatief atoom een elektronenpaar gemeenschappelijk met een meer elektronegatief atoom, zoals bijvoorbeeld in stikstofpentoxide N2O5 en waterstofchloriet. Hierdoor stijgt het oxidatiegetal van de donor met twee eenheden.
+Bij de coördinatief datieve covalente binding wordt ook een elektronenpaar uit één atoom gemeenschappelijk gesteld, maar is het het meest elektronegatief atoom dat dit doet. De acceptor is meestal een proton of een metaalion. In het oxoniumion en het ammoniumion komt een dergelijke binding voor.
+Types.
+In waterstofcyanide komt een enkelvoudige binding tussen H en C en een drievoudige binding tussen C en N voor.
+De bindingsenergie neemt toe naarmate er meer bindingen tussen twee atomen zijn.
+In de organische chemie worden dubbele bindingen bijvoorbeeld aangetroffen in alkenen en een drievoudige bindingen in alkynen.

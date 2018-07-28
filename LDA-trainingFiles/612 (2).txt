@@ -1,0 +1,11 @@
+Koningswater.
+Koningswater of "aqua regia" is de triviale naam voor het 3:1-mengsel van geconcentreerd zoutzuur en geconcentreerd salpeterzuur. Het wordt zo genoemd omdat goud, de koning der metalen, en ook andere edelmetalen erin oplossen.
+Hierdoor is koningswater in staat om veel edele metalen, zoals goud en platina, te oxideren en in oplossing te doen gaan. De reactie met goud levert een oplossing van het tetrachloroauraat-anion (AuCl4-).
+Werking.
+De vrije goudionenconcentratie is daardoor steeds erg klein, waardoor de effectieve potentiaal van goud daalt. Een tweede punt wordt gevormd door het feit dat de E°-waarde van de salpeterzuurreactie geldt bij standaarddruk (ongeveer 1000 mBar) van het gevormde stikstofdioxide. De druk is in de praktijk veel lager, waardoor de effectieve potentiaal van de salpeterzuurreactie stijgt.
+Het is noodzakelijk dat het zoutzuur en salpeterzuur in hetzelfde mengsel zitten: ze versterken elkaars effect. De deelstappen zouden afzonderlijk nooit opgaan.
+De verschillende deelstappen zijn evenwichten. Een zeer lage concentratie Au3+-ionen is al voldoende om de verdere oxidatiereactie te blokkeren. Door de complexvorming wordt de effectieve Au3+-concentratie verlaagd tot beneden die waarbij de oxidatie van het metaal goud stopt. Er wordt opnieuw goud geoxideerd, dat vervolgens door de chloride-ionen weer gecomplexeerd wordt.
+Er zijn enkele metalen die niet in koningswater oplossen: titanium, zirkonium, niobium, ruthenium, hafnium, tantaal en wolfraam. Dit komt omdat zij op hun metaaloppervlak een passiverende laag vormen die verdere oxidatie van het metaal verhindert.
+Toepassingen.
+Koningswater kan gebruikt worden als elektrolyt om een metalen voorwerp te vergulden door middel van elektrolyse, door aan de anode een plaatje goud te nemen, en aan de kathode het te vergulden voorwerp. Het wordt in het laboratorium ook ingezet om organische resten uit laboratoriumglaswerk te verwijderen of in de analytische scheikunde om slecht oplosbare componenten te ontsluiten. Het wordt verder door edelsmeden veel gebruikt.
+In 1940 verborg George de Hevesy twee gouden Nobelmedailles voor de nazi's door ze op te lossen in aqua regia. Na de oorlog liet hij het goud terug neerslaan en zond het naar de Nobelstichting, die er nieuwe medailles van liet slaan voor Max von Laue en James Franck (de originele bezitters).

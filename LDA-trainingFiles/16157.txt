@@ -1,0 +1,10 @@
+Snijpunt.
+Een snijpunt van twee krommen is in de meetkunde een punt dat op beide krommen ligt. Het is het punt waar de krommen elkaar "snijden". Ook meer dan twee krommen kunnen een gemeenschappelijk snijpunt hebben.
+Twee rechte lijnen in een plat vlak snijden elkaar in de euclidische meetkunde precies eenmaal of helemaal niet. In het laatste geval spreekt men over "evenwijdige lijnen". Er zijn niet-euclidische ruimten waarin twee lijnen elkaar meer dan eens kunnen snijden.
+Twee willekeurig gekozen lijnen in een driedimensionale ruimte snijden elkaar over het algemeen niet.
+Voorbeeld.
+Deze heeft twee oplossingen: formula_9 en formula_10.
+Invullen van deze x-waarden in een van de vergelijkingen levert de beide bijbehorende y-waarden:formula_11 en formula_12.
+Het punt formula_13 is het eerder genoemde snijpunt P; het punt formula_14 is het tweede snijpunt.
+Buiten de wiskunde.
+Buiten de wiskunde wordt "snijpunt" wel figuurlijk gebruikt om aan te duiden waar twee toepassingsgebieden, bijvoorbeeld de kunst, elkaar raken of iets gemeenschappelijk hebben.

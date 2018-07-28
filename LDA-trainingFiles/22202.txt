@@ -1,0 +1,5 @@
+F-centrum.
+Een F-Centrum is de anionische leegte in een kristal welke gevuld is door één of meer elektronen (de hoeveelheid hangt af van de negatieve lading van het ontbrekende ion). De naam is afkomstig van het Duitse "Farbzentrum".
+Het elektron heeft verschillende energieniveaus. Het kan licht absorberen en daardoor in aangeslagen toestand raken. Dit proces bepaalt de kleur van het kristal. Het absorptiespectrum van zo'n kristal is een spectrum van brede lijnen, waarvan de positie afhangt van de grootte en de vorm van de anion-holte die ter beschikking staat van het elektron.
+Een F-centrum komt erg dicht bij een van de eenvoudigste kwantummechanische voorbeelden die vaak wordt doorgerekend, het zogenaamde deeltje in een doosje.
+Een zout waarin een elektron een anionpositie bekleedt wordt ook wel "elektride" genoemd.

@@ -1,0 +1,22 @@
+Treindetectie.
+Onder treindetectie vallen technieken om een trein zichtbaar te maken voor de spoorbeveiliging (treinbeïnvloeding en automatische overwegen).
+Het spoor is opgedeeld in z.g. secties, op de vrije baan worden in de regel meerdere secties samengevoegd tot een blok. Elke sectie heeft zijn eigen detectiecircuit. Als dit bezet gemeld wordt, zal het bewuste blok bezet worden gemeld en gaat het toeleidende sein rood tonen.
+Spoorstroomloop.
+De as van de trein sluit de beide spoorstaven kort, waardoor het relais in rust valt en het blok bezet wordt gemeld.
+Laagfrequente spoorstroomloop.
+De oudste en nog steeds meest gebruikte vorm van treindetectie in Nederland is de laagfrequente spoorstroomloop, opgebouwd rondom een z.g. B2 Vane-relais. In essentie bestaat de spoorstroomloop uit een voeding, die via de spoorstaven is aangesloten op het relais.
+Tussen beide spoorstaven is hierdoor een spanning die in rusttoestand (geen trein aanwezig) het relais ophoudt. De assen en de wielen van een trein veroorzaken een kortsluiting waardoor het relais afvalt en de spoorsectie bezet gemeld wordt. Bij een stroomstoring of een spoorstaafbreuk zal het relais eveneens afvallen, zodat het systeem altijd naar de veilige kant werkt (fail-safe).
+De laagfrequente spoorstroomloop wordt ook gebruikt ten behoeve van ATB Eerste Generatie (ATB EG). Door de stroom van de spoorstroomloop in verschillende frequenties te laten pulseren, kunnen seinbeeld en daarmee de maximaal toegestane snelheid doorgegeven worden aan de machinist van de trein.
+Slecht detecteerbaar materieel.
+Lichte treinen en/of materieel met schijfremmen worden slechter gedecteerd omdat de spoorstaven door het slechtere contact tussen de wielen de rails niet goed worden kortgesloten. De treinen worden niet altijd goed gedetecteerd en de ATB EG werkt bij deze treinen ook minder goed omdat dat eveneens via de spoorstroomloop gaat. Het grootste gevaar treedt op bij overwegen, omdat de spoorbomen te laat kunnen sluiten.
+Daarom wordt op spoorlijnen met licht materieel en/of materieel met schijfremmen vaak een andere detectie geïnstalleerd. Officieel spreekt men bij dit soort materieel van "voertuigen zonder de zekerheid van juiste spoordetectie".
+Elektrisch materieel heeft eigenlijk nooit last van slechte detectie omdat de elektrische trein een onderdeel is van de tractiestroomkring (in Nederland met een spanning van 1500 volt) waardoor de stroomgeleiding en dus het wiel-railcontact veel beter is. De SM '90 (Railhopper), het elektrisch aangedreven broertje van de DM '90, had dan ook geen detectieproblemen.
+ProRail en het Ministerie van Verkeer en Waterstaat hebben besloten dat lightrailvoertuigen (ook met elektrische tractie) altijd gezien moeten worden als slecht detecteerbaar materieel (ongeacht of dat daadwerkelijk zo is).
+Prikspanningspoorstroomloop (PSSSL).
+Op de spoorstroomloop wordt een hogere spanning gezet, zodat de trein de spoorstaven makkelijker kortsluit. PSSSL wordt voornamelijk gebruikt bij stations. Het systeem is te herkennen aan kleine witte kastjes bij het spoor. PSSSL wordt ook vaak gebruikt om de spoorstroomloop op roestige sporen te verbeteren (bijvoorbeeld emplacementen).
+Pedalen.
+Een passerende trein drukt de spoorstaaf iets in waardoor een schakelaar wordt ingedrukt. Pedalen worden toegepast op de regionale lijnen in Limburg, Groningen en Friesland en de spoorlijn Arnhem-Winterswijk.
+Detectielus.
+Detectielussen voor treindetectie zijn vergelijkbaar met de detectielussen bij verkeerslichten en worden toegepast bij tram, metro en light-rail.
+ETCS Level 3.
+Bij ETCS Level 3 worden de treinen niet gedetecteerd, maar wordt de treinpositie bepaald met behulp van een GSM-R-verbinding. Via de GSM-R verbinding geeft de trein de eigen positie en 'de veilige achterkant' van de trein door naar de beveiligingsapparatuur. De beveiligingsapparatuur zal alleen een maximale rijtoestemming geven aan de opvolgende trein, tot de veilige achterkant van de voorafgaande trein. De dure baangebonden detectiesystemen zijn hierbij niet meer nodig. Daarentegen moet het op een of andere manier mogelijk zijn om te bepalen wat de veilige achterkant van de trein is, ook bij lange goederentreinen waarbij nog geen elektronische voorzieningen getroffen zijn. De techniek moet nog verfijnd worden, aangezien het wegvallen van de GSM-R radioverbinding tot uitdagingen in de locatiebepaling van een gestrande trein (de trein met uitgevallen radioverbinding) kan leiden.

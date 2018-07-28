@@ -1,0 +1,4 @@
+Magnetische inclinatie.
+Het geomagnetisch dipoolveld staat met zijn as 11,3° gekanteld ten opzichte van de aardas.
+De magnetische inclinatie "i" is de hoek die de totale intensiteit "T" of magnetische fluxdichtheid ten opzichte van het vlak van de ware horizon maakt. Deze hoek varieert van evenwijdig aan het aardoppervlak aan de magnetische evenaar tot haaks op de magnetische polen. Plaatsen met gelijke inclinatie worden verbonden door isoclinen, waarbij de magnetische evenaar acline wordt genoemd als lijn waar de inclinatie 0° is.
+De inclinatie mag niet verward worden met de "magnetische declinatie" die een zijdelingse afwijking veroorzaakt.

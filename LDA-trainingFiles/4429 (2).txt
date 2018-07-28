@@ -1,0 +1,9 @@
+Fahrenheit.
+Thermometer met de temperatuur in Fahrenheit op de buitenrand en die in Celsius daarbinnen
+Fahrenheit is een temperatuurschaal, bedacht door Gabriel Fahrenheit. De graad Fahrenheit is geen SI-eenheid.
+Volgens een artikel dat Fahrenheit zelf schreef in 1724, is zijn schaal gebaseerd op drie referentiepunten. Het nulpunt werd verkregen door de thermometer in een mengsel van ijs, water en ammoniumchloride (een zout) te plaatsen. Dit was in die tijd een veel gebruikte methode om een lage temperatuur te krijgen. Het tweede referentiepunt, 32 °F, vond hij door de thermometer in zuiver water te plaatsen waarop ijsvorming plaatsvond (het vriespunt van water). Het derde en laatste referentiepunt, 96 °F, werd bepaald door de lichaamstemperatuur van een gezond persoon, gemeten in de mond of onder de oksel.
+Op die manier bedroeg het verschil tussen het smeltpunt van ijs (32 °F) en de lichaamstemperatuur (96 °F) 64 graden, wat hem toeliet zijn schaal op zijn instrumenten aan te brengen door het interval 6 keer in tweeën te delen. Water kookt op 212 °F.
+Fahrenheit kwam met zijn schaalverdeling in 1724, eerder dus dan Anders Celsius, die in 1742 de temperatuurverdeling in graden Celsius definieerde. Fahrenheit baseerde zijn temperatuurschaal op eerder werk van Ole Christensen Rømer, die in 1701 de Rømer-schaal ontwikkelde.
+In vijf landen, waaronder de Verenigde Staten, wordt de Fahrenheitschaal nog officieel gebruikt. Daarnaast wordt deze eenheid officieus ook nog wel gebruikt door de oudere generatie mensen in het Verenigd Koninkrijk, Australië, Zuid-Afrika, Canada, Ierland, India en Jamaica, omdat deze schaal vroeger ook in deze landen in gebruik was. In andere landen wordt de temperatuur in graden Celsius uitgedrukt.
+Conversie tussen temperatuurschalen.
+Uit bovenstaande kan men afleiden dat −40°F = −40°C.

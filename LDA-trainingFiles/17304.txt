@@ -1,0 +1,3 @@
+Hinrichsengambiet.
+Bij het schaken is het Hinrichsengambiet een variant in de schaakopening koningsgambiet.
+De beginzetten zijn 1.e4 e5 2.f4 d5 3.d4. Na de zet 2..d5 heet de variant het Falkbeertegengambiet, met als ECO-code C31. Na het antwoord van wit, 3.d4, gaat het over in het Hinrichsengambiet.

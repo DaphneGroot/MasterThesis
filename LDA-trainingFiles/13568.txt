@@ -1,0 +1,4 @@
+Compressie-algoritme.
+Compressie-algoritmen zijn algoritmen die gebruikt worden voor datacompressie. Ze zijn te verdelen in verliesvrije ("lossless") en niet-verliesvrije ("lossy") algoritmen.
+Uit een met een verliesvrij algoritme gecomprimeerd bestand kan het originele bestand weer identiek gedecomprimeerd ('geëxpandeerd') worden; er gaat daarbij niets aan informatie verloren. Voorbeelden hiervan zijn LZW-compressie en Deflate.
+In tegenstelling tot een algoritme zonder kwaliteitsverlies, gooit een algoritme met verlies informatie weg. De informatie die bij compressie met verlies wordt weggegooid, is idealiter niet zichtbaar (bij plaatjes: JPEG) of hoorbaar (bij muziek: MP3, ogg). Vaak geldt echter: hoe groter de compressie, hoe meer kwaliteitsverlies. Maar ook: hoe beter het algoritme, hoe groter de compressie kan zijn met hetzelfde verlies aan kwaliteit.

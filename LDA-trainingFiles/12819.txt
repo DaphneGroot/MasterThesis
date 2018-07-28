@@ -1,0 +1,5 @@
+Kwaliteit (schaken).
+De kwaliteit is in het schaakspel het verschil in waarde tussen een toren en een licht stuk (een loper of paard). De kleine kwaliteit is het verschil tussen twee lichte stukken en een toren.
+Normaal gesproken is een toren duidelijk sterker dan een loper of een paard, en zijn twee lichte stukken iets sterker dan een toren. Dit kan in sommige stellingen anders liggen.
+Een kwaliteit kan onder andere verloren gaan door een vork, een penning of een familieschaak.
+Een kwaliteitsoffer is niet ongewoon, als men ter compensatie een of twee pionnen, aanval en/of een positioneel voordeel verkrijgt.

@@ -1,0 +1,3 @@
+IrDA.
+Bekend van de afstandsbediening van de tv, zien we de infrarode verbinding (IrDA) ook bij de pc's. Vooral draagbare pc's (laptops) worden vaak met infrarode poorten uitgerust. Het grote voordeel van een infrarode verbinding is dat er geen kabel nodig is. Twee apparaten hoeven elkaar alleen maar te 'zien' om te kunnen communiceren. Maar wat een voordeel is, kan ook een nadeel zijn; soms kan de verbinding wegvallen omdat er een argeloze hand of een boek tussen de apparaten wordt geschoven.
+De infrarode poort is gebaseerd op een standaard die is vastgesteld door de Infrared Data Association (IrDA), een groep van meer dan 150 bedrijven.

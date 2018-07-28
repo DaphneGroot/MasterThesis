@@ -1,0 +1,2 @@
+Wet van Hopkinson.
+Waar de wet van Ohm vaak uiterst nauwkeurige voorspellingen kan doen, is dit bij de magnetische tegenhanger niet zo. Waar elektrische stroom vrijwel uitsluitend door geleiders plaatsvindt, hebben veel stoffen zoals lucht en allerlei elektrische isolatoren een sterk van nul afwijkende magnetische weerstand. Magnetische circuits zijn daarmee veel moeilijker te construeren.

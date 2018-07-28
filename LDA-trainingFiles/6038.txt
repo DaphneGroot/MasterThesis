@@ -1,0 +1,5 @@
+Dennis Ritchie.
+Ken Thompson & Dennis Ritchie (rechts)
+Dennis MacAlistair Ritchie (Bronxville (New York), 9 september 1941 – Berkeley Heights, 12 oktober 2011) was een Amerikaans informaticus en programmeur. Hij was samen met Brian Kernighan een van de grondleggers van de programmeertaal C. In 1983 kreeg hij de Turing Award. In 1999 ontving hij net als Ken Thompson de National Medal of Technology 1998 uit handen van president Bill Clinton.
+Ritchie begon in 1967 zijn werkzame leven bij het Bell Labs Computing Sciences Research Center, en werkte ten tijde van zijn pensionering in 2007 als hoofd van de Lucent Technologies System Software Research afdeling. Behalve één van de grondleggers van C was hij rond 1969 samen met Ken Thompson één van de belangrijkste grondleggers van UNIX.
+Hij woonde in Murray Hill, waar ook het hoofdkwartier van Bell Labs was gevestigd, en overleed op 70-jarige leeftijd na een lang ziekbed.

@@ -1,0 +1,63 @@
+Algol-60.
+Algol-60 is een programmeertaal die nog steeds van belang is door haar invloed op latere programmeertalen. Na een eerste versie uit 1958 verscheen de definitieve versie in 1960. De naam "Algol" is een afkorting voor "Algorithmic Language".
+Geschiedenis.
+Algol is voortgekomen uit de wens om een machine-onafhankelijke programmeertaal te maken die zo veel mogelijk moest lijken op gebruikelijke wiskundige notatie. Algol was evenals de toen al bestaande programmeertaal Fortran bestemd voor wetenschappelijke doeleinden. In tegenstelling tot de in dezelfde tijd actieve ontwikkelaars van de programmeertaal COBOL hadden de ontwerpers van Algol geen speciale voorzieningen voor de bewerking van bestanden of het werken met niet-numerieke gegevens of grote geldbedragen.
+De eerste versie, Algol-58 werd in 1958 ontworpen. Deze programmeertaal was meer een verzameling van goede ideeën, maar was nooit bedoeld als volledig afgemaakt product. In 1960 kwam Algol-60 uit, als resultaat van werk van John Backus, Peter Naur en Edsger Dijkstra. De Amerikaanse beroepsvereniging ACM besloot dat deze taal de standaardtaal zou worden voor het weergeven van algoritmes in haar blad "Communications of the ACM". Desondanks is Algol-60 in Noord-Amerika nooit zo populair geworden als in Europa, mogelijk omdat men daar al gewend was aan het gebruik van Fortran.
+Algol-60 is gespecificeerd in het Revised Report on the Algorithmic Language Algol 60 met een gedefinieerde grammatica, het Backus-Naur-formalisme zodat het mogelijk werd om op een formele manier vast te stellen of een programma syntactisch correct was. De implementatie van de taal was van later zorg. In korte tijd werd echter een flink aantal compilers voor de primitieve machines uit die tijd, zoals de X1, geschreven. Daarbij moesten natuurlijk beperkingen worden vastgelegd, bijvoorbeeld met betrekking tot de lengte van namen of de omvang en nauwkeurigheid van getallen, die in het revised report niet gedefinieerd zijn. Er is nog steeds een compiler voor de PC beschikbaar, maar hierin gelden een aantal uitbreidingen en beperkingen op de oorspronkelijke versie, waardoor deze niet alle specifieke eigenschappen van Algol-60 kan laten zien.
+Kenmerken van Algol-60.
+Deze beschrijving is bedoeld voor mensen die een nieuwere programmeertaal, zoals Pascal, C, Java of Visual Basic, kennen. Het is geen volledige beschrijving van of inleidende cursus in Algol-60.
+Vorm van het programma.
+Een Algol-60 programma is een reeks van symbolen. Veel van die symbolen zijn tekens die op de meeste toetsenborden te vinden zijn. De sleutelwoorden worden in het Algol-60-report aangeduid als een vetgedrukt woord, zoals begin en if. Deze woorden gelden als een enkel symbool en moeten bij de compilatie als zodanig herkend worden. Andere lastige tekens zijn 10, dat wordt gebruikt in een zwevendekommagetal, en de tekens ‘ en ’ die het begin en einde van een string aangeven.
+Wordt Algol-60 op een computer geïmplementeerd, dan zijn er verschillende manieren om deze symbolen weer te geven. Zo is er een implementatie waarbij alle sleutelwoorden tussen aanhalingstekens worden gezet: 'BEGIN' 'IF'. Hierdoor verschillen ze van de identifiers BEGIN en IF. Het typewerk wordt er echter door bemoeilijkt.
+Er is ook een implementatie van Algol-60 die de dubbele punt en de puntkomma niet kent en in plaats daarvan.. en., gebruikt. Inderdaad kan dat zonder dat er een syntactisch conflict ontstaat.
+Structuur van het programma.
+Een noviteit in Algol-60 is de blokstructuur en sindsdien wordt iedere taal met een blokstructuur, zoals C en Pascal een taal met een Algolstructuur genoemd. De blokstructuur houdt in dat een aantal statements gegroepeerd kan worden door ze tussen de symbolen begin en end te zetten. Zo'n groep is zelf weer een statement en heet een compound-statement of (als er declaraties in voorkomen) een blok.
+Dynamische arraydeclaratie.
+for i:=1 step 1 until n do
+Datatypen.
+De standaardvorm van Algol-60 kent geen variabele strings, karakters, records en door de programmeur gedefinieerde datatypen. Het is echter wel mogelijk strings in de uitvoer op te nemen. Latere implementaties van Algol kennen het type char.
+Een boolean kan alleen true of false zijn.
+<real>::= <integer>.<integer> | <real>10<integer> | <integer>10<integer>
+Hieruit blijkt dat er aan weerszijden van de decimale punt minstens één cijfer moet staan.
+Arrays bevatten data van één type. Het aantal dimensies is in principe onbeperkt. De onder- en bovengrens worden apart opgegeven. Dit zijn positieve of negatieve gehele getallen, waarvan de waarde bekend moet zijn op het moment van de declaratie.
+Blokstructuur.
+Variabelen die aan het begin van het programma worden gedeclareerd heten globaal: zij kunnen overal in het programma gebruikt worden. Na iedere begin kunnen opnieuw variabelen gedeclareerd worden. Deze noemen we lokaal. Zij kunnen alleen in het blok zelf, met inbegrip van de binnenblokken daarvan, gebruikt worden, tenzij er in een binnenblok weer een idenitifier met dezelfde naam is gedeclareerd. Een globale array heeft altijd vaste grenzen. Een lokale array kan variabele grenzen hebben. Behalve gewone lokale variabelen kunnen ook own-variabelen worden gedeclareerd. Deze krijgen hun oude waarde bij een nieuwe aanroep van het blok. De own-variabele is lastig in het gebruik doordat hij niet automatisch een beginwaarde krijgt en een own-array met variabele grenzen is moeilijk te implementeren. De blokstructuur is in nieuwere talen alleen voor procedures blijven bestaan. Als een programma wordt opgedeeld in blokken met aparte variabelen, kan het immers beter in procedures worden opgedeeld.
+Opdrachten.
+codice_1
+Opmerkelijk is dat in een expressie een if-then-else kan voorkomen. Als voorbeeld geven we twee manieren om het grootste van twee getallen te berekenen. In het eerste geval wordt de if-statement opdracht gebruikt, in het tweede de assignment met if-then-else.
+if a>b then max:=a else max:=b
+max:= if a>b then a else b;
+In het tweede geval is de else-clausule verplicht.
+Voorbeeld.
+Het volgende programma gebruikt beide vormen om een aantal getallen, afgesloten met 0, in te lezen en op het scherm te tonen. Aangezien de waarde van de for-variabele bij het verlaten van de lus volgens de definitie ongedefinieerd is, wordt het aantal ingelezen getallen apart bijgehouden.
+begin comment gebruik van for statement;
+comment Het aantal gelezen getallen wordt in n bijgehouden;
+for i:=1 step 1 until n do
+Het goto-statement was in de tijd waarin Algol-60 ontworpen werd de meest gebruikte opdracht om de loop van het programma te besturen. Totdat Edsger Dijkstra in 1968 zijn beroemde ingezonden brief "Goto statement considered harmful" in de Communications of the ACM publiceerde vond men het gebruik van goto dan ook even gewoon als het opsteken van een pijp in een zaal vol collega’s. Behalve de gewone label kent Algol-60 ook de switch, een van tevoren met labels gevuld array. Tegenwoordig wordt het gebruik van goto in iedere Algol-achtige taal afgekeurd.
+Procedures en functies.
+Dit programma is vaak gebruikt om de superioriteit van Algol-60 boven programmeertalen zonder recursie zoals Fortran en Cobol aan te tonen.
+Op enkele punten wijkt de procedure in Algol-60 werkelijk af van de procedure in latere programmeertalen. Behalve numerieke en logische variabelen kunnen ook procedures als parameter dienen en voor de formele parameters wordt naast de call-by-value niet de call-by-reference maar de call-by-name gebruikt waardoor Jensen device kan worden toegepast.
+De merkwaardige manier waarop de returnwaarde van de functie wordt opgegeven, door een assignment naar de naam van de procedure, is overgenomen uit Fortran.
+Een compleet programma.
+Als voorbeeld volgt hier een programma waarin het gemiddelde en de standaarddeviatie van een van tevoren opgegeven aantal in te voeren getallen wordt berekend. In 1965 was dat een nuttig programma voor studenten omdat er nog geen spreadsheets bestonden waarmee ze de berekening met een formule als STDEVP(A1:A10) konden uitvoeren. Uiteraard is het aantal een geheel getal en zijn de in te voeren getallen, het gemiddelde en de standaarddeviatie reële getallen. Verder specificeren we dat de standaarddeviatie berekend wordt met de formule formula_1. Deze mag niet worden vereenvoudigd tot
+formula_2
+omdat dat een te onnauwkeurig resultaat geeft als de afwijkingen
+van het gemiddelde relatief klein zijn. Dit betekent dat de ingelezen variabelen in een array opgeslagen moeten worden. In Algol-60 kan een array worden gedeclareerd die precies plaats biedt aan het aantal in te lezen getallen. Bij het beperkte geheugen van de computers uit 1960
+was dat een zeer nuttige functie.
+begin comment De variabelen worden pas in het binnenblok
+gedeclareerd want ze zijn niet eerder nodig;
+comment Tijdens het inlezen wordt het gemiddelde berekend.
+voor de som wordt de variabele gem gebruikt;
+for i:=1 step 1 until n do
+comment Voor de berekeningn van de standaarddeviatie
+for i:=1 step 1 until n do
+Op een DOS-scherm zien input en output er als volgt uit
+Gebruik.
+Algol-60 werd onder andere gedoceerd aan de Technische Hogeschool Eindhoven waar een van de grondleggers van Algol-60, Edsger Dijkstra, de eerste hoogleraar informatica was. Aanvankelijk werd hiervoor de X8 gebruikt, waarvoor Dijkstra en zijn medewerkers zelf een besturingssysteem en een algolcompiler schreven. Later werd een Burroughs computer aangeschaft, vandaar dat de implementatie van Algol-60 op het Burroughs mainframe BEATHE werd genoemd, "Burroughs Extended Algol TH Eindhoven". Ook op de TH Delft, de TH Twente en verschillende universiteiten (waaronder die van Leiden) was Algol-60 de taal waarin studenten hun eerste programmeerlessen kregen.
+De BEATHE compiler was een variant van de standaard Burroughs Extended ALGOL compiler. Symbolen in BEA zijn herkenbaar voor de compiler als gereserveerde symbolen ('reserved words'). Het woord INTEGER is onderdeel van de syntaxis en mag niet door de programmeur worden gebruikt. In BEATHE worden deze gereserveerde symbolen tussen apostrophes geplaatst.
+De declaratie 'INTEGER' INTEGER; is in BEATHE volstrekt legaal en eenduidig, in BEA levert het een syntaxisfout op. Overigens is het gebruik van apostrophes om symbolen te markeren eerder gebruikt in SATHE, een tamelijk zuivere Algol-60 implementatie.
+BEATHE kende ook de types STRING en COMPLEX. Het type COMPLEX was voor veel gebruikers doorslaggevend om een programma in BEATHE the schrijven. Het typen van apostrophes werd op de koop toegenomen. Vergeet niet dat in de tijd dat BEATHE werd gebruikt de meeste programma's op ponskaarten werden ingetypt.
+BEATHE werd uitgefaseerd nadat BEA types COMPLEX en STRING had overgenomen.
+Opvolgers.
+Uit Algol-60 zijn een groot aantal talen voorgekomen. Tot de Algol-familie behoren onder andere
+Bovendien hebben programmeertalen als Fortran, Basic en COBOL veel elementen uit Algol-60 overgenomen

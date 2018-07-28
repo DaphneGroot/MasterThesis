@@ -1,0 +1,52 @@
+Vector (wiskunde).
+Een vector (Latijn: drager) is in de wiskunde een element van een vectorruimte, en daarmee een weinig specifiek begrip. Vectorruimten zijn echter generalisaties van onze gewone driedimensionale ruimte, waarin punten voorgesteld worden door hun drie coördinaten formula_1 en formula_2. Zulke punten, opgevat als pijlen van de oorsprong tot het punt formula_3, waren de eerste die vector genoemd werden, een term ingevoerd door William Rowan Hamilton in 1837. Zo'n pijl stelt in de meetkunde en de natuurkunde een grootheid voor die zowel grootte als richting heeft (en eventueel een "zin" afhankelijk van de gehanteerde definitie), zoals verplaatsing, snelheid, versnelling, kracht, e.d. Alleen de nulvector heeft geen richting.
+Soms spreekt men ook over "gebonden vectoren". Een gebonden vector heeft niet enkel een grootte en een richting, maar ook een aangrijpingspunt. Het aangrijpingspunt is het punt waarin de vector "vertrekt". Vectoren zonder aangrijpingspunt worden in dit verband "vrije vectoren" genoemd. Gebonden vectoren vormen eigenlijk een vectorveld, een afbeelding van een ruimte in een vectorruimte. Aan elk punt van de betrokken ruimte (het aangrijpingspunt) wordt een vector toegevoegd. Deze vector is dus gebonden aan z'n aangrijpingspunt.
+Voorstelling van een vector.
+Om vectoren te onderscheiden van scalaire grootheden, noteert men vectoren wel met een vetgedrukte letter, bijvoorbeeld formula_4 of als letter met een pijltje erboven, zoals formula_5. Dit is echter slechts een kwestie van notatie en heeft op zichzelf geen enkele betekenis. In deze notatieconventie wordt de grootte van de vector (formula_6 of formula_7) dan aangegeven door een gewone formula_8.
+Men tekent een vector als een pijl, beginnend in z'n aangrijpingspunt (bij vrije vectoren plaatst men het beginpunt veelal in de oorsprong).
+De vector formula_4 wordt dan ook geschreven als formula_10. Als de vector formula_4 op de tekening een gebonden vector is, is formula_12 het aangrijpingspunt van formula_4.
+De afbeelding stelt een vector in een tweedimensionale ruimte voor. Men kan ook vectoren in ruimtes met andere dimensies beschouwen.
+Merk op dat men een (vrije) vector op verschillende manieren kan tekenen. Wanneer men op eenzelfde afbeelding verschillende malen dezelfde vector tekent, heeft men verschillende, evenwijdige pijltjes van gelijke lengte die in dezelfde richting wijzen.
+Twee vectoren zijn gelijk als ze dezelfde grootte en richting hebben. Voor gebonden vectoren komt hier nog de eis bij dat ze hetzelfde aangrijpingspunt moeten hebben. Hierdoor ligt de grafische voorstelling van een gebonden vector volledig vast: men kan niet op één afbeelding twee keer (op een verschillende plaats) dezelfde gebonden vector tekenen. De vectoren formula_4 en formula_15 op de volgende afbeelding zijn gelijk als het gaat om vrije vectoren, maar verschillend als het gaat om gebonden vectoren, aangezien ze een verschillend aangrijpingspunt hebben.
+Hieronder gaat het verder over vrije vectoren.
+Vectoren in de gewone driedimensionale ruimte.
+Een vector in de gewone driedimensionale ruimte (de driedimensionale euclidische ruimte, de klassieke natuurkundige ruimte) kan, na een keuze van een basis, gerepresenteerd worden door formula_16 "componenten". Laat de vectoren formula_17, formula_18 en formula_19 een basis van de ruimte vormen. Dan kan (per definitie van basis) elke vector formula_4 geschreven worden als een lineaire combinatie van formula_17, formula_18 en formula_19. Dit wil zeggen dat er getallen formula_24, formula_25 en formula_26 zijn zodat formula_27. De vectoren formula_28, formula_29 en formula_30heten de componenten van de vector formula_4. De getallen formula_24, formula_25 en formula_26 noemt men de coördinaten of "kentallen" van formula_4 ten opzichte van de basis formula_36 De volgorde van formula_24, formula_25 en formula_26 is belangrijk. Indien het duidelijk is over welke basis het gaat, vermeldt men vaak de basis niet.
+Men kan verschillende bewerkingen uitvoeren met vectoren.
+In de reële driedimensionale coördinatenruimte formula_43 is de standaardbasis formula_44 met de basisvectoren formula_45. Meetkundig worden ze weergegeven door onderling loodrechte vectoren van eenheidslengte. Men kan hierin lengtes en hoeken definiëren (zie onder) die overeenkomen met de meetkundige begrippen, met als resultaat een driedimensionale euclidische ruimte. Omgekeerd kan men uitgaand van een driedimensionale euclidische ruimte, met gegeven begrippen "lengte" en "loodrecht", drie onderling loodrechte vectoren formula_46, formula_47 en formula_48 van eenheidslengte als basisvectoren kiezen, zodat een vector beschreven kan worden met zijn drie coördinaten.
+In beide gevallen is het resultaat een cartesisch coördinatenstelsel met de basisvectoren formula_45, waarin een vector formula_4 wordt geschreven als formula_51. In de onderstaande deelparagrafen wordt hiervan gebruikgemaakt.
+De richting van formula_52 noemt men de x-as, van formula_53 de y-as en van formula_54 de z-as. Men noemt de standaardbasis ook wel formula_55. Soms wordt ook de notatie formula_56 gebruikt: formula_57 wijst volgens de x-as, formula_58 volgens de y-as en formula_59 volgens de z-as; alle drie hebben ze de lengte 1.
+Gelijkheid.
+Van twee vectoren zegt men dat deze gelijk zijn als ze dezelfde grootte en richting hebben. Sommige mensen, onder andere in Vlaanderen, verstaan onder richting de stand van de lijn waarop de vector getekend wordt. Wat in het ene spraakgebruik een tegengestelde richting wordt genoemd, is in het andere dezelfde richting, maar tegengestelde zin.
+Equivalent is: van twee vectoren zegt men dat deze gelijk zijn als ze dezelfde coördinaten hebben. Twee vectoren
+zijn dus gelijk dan en slechts dan als
+Optellen van vectoren.
+Om formula_63 te construeren, tekent men formula_5 en formula_65 zo, dat de pijltjes die deze vectoren voorstellen in hetzelfde punt vertrekken. Daarna maakt men een parallellogram, zoals op de tekening. Wanneer men dan een pijltje tekent dat begint in hetzelfde punt waar formula_5 en formula_65 beginnen, en dat gaat naar de overliggende hoek van het parallellogram, bekomt men een voorstelling van formula_63.
+Deze manier is ook toepasbaar bij meerdere vectoren.
+De verschilvector van de vectoren a en b
+Verschil van vectoren.
+Het verschil formula_76 van de vectoren formula_4 en formula_15 is gedefinieerd als formula_79, waarin formula_80 de tegengestelde vector van formula_15 is, dat wil zeggen de vector met dezelfde grootte als formula_15, maar met tegengestelde richting (zie het voorbeeld van de scalaire vermenigvuldiging).
+Vermenigvuldiging van een vector met een scalair.
+Scalaire vermenigvuldiging mag niet verward worden met het scalair product (zie verder).
+Hierbij is formula_95 gelijk aan formula_96. Als formula_41 ten opzichte van een bepaalde basis, zal, ten opzichte van diezelfde basis, formula_98.
+Norm van een vector.
+De "lengte", "grootte" of "norm" van de vector formula_4 wordt aangeduid door formula_100 of, minder gebruikelijk, met formula_6. De norm van een vector dient niet te worden verward met de absolute waarde (een scalaire "norm").
+wat een gevolg is van de stelling van Pythagoras aangezien de basisvectoren
+formula_104 orthogonale eenheidsvectoren zijn.
+Inwendig product.
+waarin formula_112 en formula_113.
+Als minstens een van beide vectoren de nulvector is, is het inwendig product nul en de hoek onbepaald.
+Kruisproduct.
+Voor twee vectoren formula_5 en formula_65 in de gewone drie-dimensionale euclidische vectorruimte bestaat ook het kruisproduct (ook wel vectorproduct, "uitproduct", "uitwendig product" of "vectorieel product" genoemd)
+Het kruisproduct is een vector loodrecht op beide vectoren met een grootte gelijk aan de oppervlakte van het parallellogram gevormd door de beide vectoren, en de richting (of zin) volgens de kurkentrekkerregel (ook rechterhandregel genoemd).
+Eenheidsvector.
+De normalisering van een vector formula_4 in een eenheidsvector formula_126
+Een "eenheidsvector" is een vector met een norm gelijk aan 1. Eenheidsvectoren worden vooral gebruikt om een richting aan te geven. Een vector met willekeurige norm ongelijk aan 0 kan worden gedeeld door zijn norm om zo een eenheidsvector te creëren. Dit proces staat bekend als het "normaliseren" van een vector. Een eenheidsvector wordt wel aangeduid met een dakje, zoals in formula_126 of ook door formula_128.
+Nulvector.
+De nulvector is de vector met lengte nul. In de driedimensionale euclidische ruimte is het de vector met alle coördinaten gelijk aan 0, dus de vector (0,0,0). De nulvector wordt algemeen aangeduid met formula_132, met 0, of ook gewoon met 0. In tegenstelling tot enige andere vector, heeft de nulvector geen richting en kan niet worden genormaliseerd (dat wil zeggen dat er geen eenheidsvector is, die een veelvoud is van de nulvector). De som van de nulvector en enige vector formula_4 is formula_4 zelf, dat wil zeggen dat formula_135.
+Vectoren in de natuurkunde.
+In de natuurkunde wordt onderscheid gemaakt tussen "scalaire grootheden" en "vectoriële grootheden". Het verschil is dat een scalaire grootheid geen richting heeft, en een vectoriële grootheid wel. Voorbeelden van scalaire grootheden uit de natuurkunde zijn: massa, volume, temperatuur, traagheidsmoment, elektrische potentiaal, zwaartekrachtspotentiaal.
+Bij de meeste vectoren in de natuurkunde is de grootte (norm, zie boven) niet een getal, maar uit te drukken als een getal met een eenheid.
+Vectorruimten in het algemeen.
+In de context van de lineaire algebra is een vector een element van een vectorruimte.
+Boven is het geval van de driedimensionale euclidische ruimte behandeld. De tweedimensionale euclidische ruimte gaat analoog, behalve dat er geen kruisproduct is.
+Bij een vectorruimte over een eindig veld (Be) of over het lichaam (Nederlandse term; in België: veld) van de complexe getallen hebben vectoren geen grootte en richting. Het is ook moeilijk om van deze vectoren een tekening te maken.

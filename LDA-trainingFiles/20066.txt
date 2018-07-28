@@ -1,0 +1,25 @@
+USB-stick.
+Een USB-stick (ook wel: geheugenstick, USB-staaf, memorystick of insteekgeheugen) is een extern opslagmedium voor de computer dat door middel van een USB-poort aangesloten kan worden. In de stick zit flashgeheugen, dat voor de opslag zorgt.
+Een USB-stick wordt ook wel USB-pen, datastick of flash-drive genoemd. Het woord "memorystick" wordt ook wel gebruikt, maar kan verwarrend zijn: Memory Stick (met hoofdletters en los gespeld) is een merknaam voor een opslagmedium van Sony dat niets met USB te maken heeft.
+De USB-stick kan direct in de USB-aansluiting op een computer of USB-hub worden gestoken waardoor bestanden van en naar dit medium kunnen worden gekopieerd of verplaatst. De USB-stick heeft geen interne energiebron en krijgt zijn stroom van de hostcomputer via de USB-aansluiting.
+Werking.
+De afbeelding hieronder toont het binnenste van een USB-stick. Bij de meeste is wel een led aanwezig. Een schakelaar voor schrijfbeveiliging ontbreekt vaak.
+Opslagcapaciteit.
+De eerste USB-stick verscheen eind 2000 op de markt en had een capaciteit van 8 MB. In de loop van de tijd werd de hoogst beschikbare capaciteit steeds verdubbeld (16 MB, 32 MB, 64 MB, 128 MB, 256 MB, 512 MB, 1 GB, 2 GB, 4 GB, 8 GB, 16 GB, 32 GB, 64 GB, 128 GB, 256 GB) en bereikte in januari 2013 een capaciteit van 512 GB. Niet veel later was er ook een 1 TB-model. De prijzen variëren van zo'n 5 euro voor een 16GB-model tot 1500 euro voor het 1TB-model. Een ander belangrijk technisch aspect van de USB-stick is de lees- en schrijfsnelheid. De leessnelheid is voor de meeste sticks anderhalf tot twee keer zo groot als de schrijfsnelheid. De eerste sticks haalden een leessnelheid van zo'n 100 kilobyte per seconde. De huidige (2017) sticks variëren in leessnelheid van 6 megabyte tot 300 megabyte per seconde voor de varianten met USB 3-aansluiting.
+De Kingston Ultimate GT biedt anno 2017 2 TB opslagcapaciteit voor ongeveer 1600 euro.
+Programma's.
+Ook is het mogelijk om applicaties te draaien vanaf een USB-stick. Dat kan - onder Windows - ook op een wijze die geen sporen achterlaat in het register.
+Op deze wijze laat je op andermans computer geen persoonlijke gegevens achter.
+Veelal zijn de betreffende applicaties gratis. Een deel ervan wordt aangeboden via het U3-platform.
+Een programma op een USB-stick kan automatisch opstarten, zodra de USB-stick in de computer geplaatst wordt. Dit is een veiligheidsrisico, omdat een virus van op een USB-stick zich op die manier snel kan verspreiden.
+Schijfindeling.
+De eerste USB-sticks hadden vaak geen partitie (zoals diskettes geen partitie hebben). De formattering was vaak FAT16. Tegenwoordig (in 2008) wordt de USB-stick net zoals een harde schijf ingedeeld met een partitie en de formattering FAT32. Het voordeel van FAT32 is dat deze door verschillende besturingssystemen te lezen en te schrijven is. Het NTFS-systeem is uitgebreider dan FAT32, maar Windows XP laat het niet altijd toe om een kleine USB-stick als NTFS te formatteren en het is niet altijd schrijfbaar voor Apple- en Linux-computers. Tegenwoordig zijn er wel programma's van derden die het mogelijk maken om onder niet-Windowscomputers ook met NTFS te kunnen werken, maar deze zijn dan niet zo snel als met FAT32. Een voorbeeld hiervan is NTFS-3G.
+Veiligheid.
+Doordat een USB-stick klein is, kan deze gemakkelijk zoekraken. De vinder zou dan alle gegevens kunnen lezen. Daarom zijn er verschillende manieren om de opgeslagen data te beveiligen. Zie ook het artikel databeveiliging.
+In augustus 2014 ontdekten onderzoekers dat de controller chip van USB-apparatuur gevoelig is voor herprogrammeren, met name door het eventueel installeren van malware. Deze malware, die niet is te detecteren met standaard antivirussoftware, zou controle over de computer kunnen overnemen, of de gebruiker bespioneren.
+Duurzaamheid.
+Een USB-stick van goede kwaliteit, die niet vaak wordt gebruikt, zal lang meegaan. Als een USB-stick zeer veel wordt gebruikt dan kan er een defect optreden omdat het Flash-geheugen bijvoorbeeld na 10.000 of 100.000 keer schrijven onbetrouwbaar wordt.
+Mp3-speler.
+Een USB-stick kan gecombineerd worden met een mp3- en/of WMA-speler. Hiervoor is wel een batterij nodig. Ook een radio en spraakopname kan toegevoegd zijn.
+Invloed.
+Door zijn geringe omvang, grotere opslagcapaciteit, gebruiksgemak, betrouwbaarheid en dalende prijzen heeft de USB-stick de diskette, de herschrijfbare cd, en andere draagbare opslagmedia grotendeels vervangen. Doordat geluidsapparatuur van recente datum vaak in staat is om MP3-bestanden van een USB-stick te lezen en af te spelen is ook het cassettebandje bijna geheel verdrongen door de USB-stick.

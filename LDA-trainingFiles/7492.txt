@@ -1,0 +1,31 @@
+Wortel (wiskunde).
+In de wiskunde wordt met de term wortel zowel de wortel van een vergelijking aangeduid, alsook de wortel uit een getal, een rekenkundige bewerking van een getal.
+Wortel van een vergelijking.
+Een wortel van een wiskundige vergelijking is een waarde voor de onbekende zodat de vergelijking een gelijkheid wordt. Een andere veelgebruikte term hiervoor is oplossing. Het woord wortel wordt ook gebruikt voor een vierkantswortel.
+Volgens de hoofdstelling van de algebra heeft een algebraïsche vergelijking van de "n"-de graad "n" wortels in de complexe getallen. Zo heeft de vergelijking x2 − 25 = 0 de wortels +5 en −5. Wel kunnen sommige van die "n" wortels meervoudig zijn. Zo lijkt de vergelijking x3+x2 − x − 1 = 0 slechts de wortels +1 en −1 te hebben, maar de vergelijking kan geschreven worden als (x+1)(x+1)(x−1) = 0, waaruit blijkt dat de wortel −1 gezien kan worden als twee wortels met dezelfde waarde.
+De wortels van de vergelijking z4 + 16 = 0 zijn (1+i)√2, (−1+i)√2, −(1+i)√2 en (1−i)√2.
+De wortels van een tweedegraadsvergelijking kunnen worden bepaald met de wortelformule of in sommige gevallen met de som-product-methode.
+Vierkantswortel.
+De wortel (volledige naam: positieve vierkantswortel) uit een positief getal formula_1 is het positieve getal waarvan het kwadraat gelijk is aan het getal formula_1. Het symbool hiervoor is √. Het proces om een wortel te berekenen heet "worteltrekken". Worteltrekken is een rekenkundige bewerking van de derde orde. Als formula_3 een positieve vierkanswortel is uit het getal formula_1, is het kwadraat van formula_5 ook gelijk aan formula_1. Daarom heet formula_5 de negatieve vierkantswortel uit formula_1. 0 is de enige (vierkants)wortel uit 0.
+Hogere-machtswortels.
+Als generalisatie is er ook het begrip "n"e-machtswortel uit een getal.
+Een "n"e-machtswortel uit een getal a is een getal w zodat wn = a.
+Als n even is spreekt men van een "evenmachtswortel", is n oneven dan spreekt men van een "onevenmachtswortel". Positieve reële getallen hebben twee tegengestelde evenmachtswortels en juist één positieve onevenmachtswortel. Negatieve reële getallen hebben geen (reële) evenmachtswortel en juist één onevenmachtswortel welke negatief is.
+Voorbeelden.
+De positieve tweedemachts- of vierkantswortel van 25 is 5, want 5 > 0 en 52 = 25, dit wordt genoteerd als formula_11.
+De negatieve tweedemachts- of vierkantswortel van 25 is -5, want -5 < 0 en (-5)2 = 25, dit wordt genoteerd als formula_12.
+De positieve 4e-machtswortel van 16 is 2, want 2 > 0 en 24 = 16. Dit wordt genoteerd als formula_13.
+De 3e-machtswortel van -8 is -2, want (-2)3 = -8. Dit wordt genoteerd als formula_14.
+Breuken als exponent.
+Wortelvormen kunnen genoteerd worden door middel van gebroken exponenten op voorwaarde dat het grondtal a positief is.
+Wortelvrij maken van de noemer van een breuk.
+Om wortelvormen weg te werken uit de noemer van een breuk, kunnen volgende formules nuttig zijn.
+Complexe wortels.
+Met behulp van de opvatting van worteltrekken als machtsverheffen kunnen ook wortels uit complexe getallen gedefinieerd worden.
+Neemt men echter de hoofdwaarde van de logaritme, dan is de wortel niet dubbelzinnig bepaald.
+Hierin stelt log de hoofdwaarde van de logaritme voor. Omdat niet noodzakelijk geldt dat log("a") + log("b") = log("ab"), is de genoemde eigenschap niet geldig voor willekeurige complexe getallen.
+waarbij "k" een willekeurig geheel getal voorstelt en "l" een willekeurige wortel van −1 is, zodanig dat formula_37. Er hoeft dus niet langer te gelden dat formula_38. Meer bepaald geldt nu: formula_39.
+Verband tussen wortels en nulpunten.
+Met een nulpunt van een functie "f" bedoelt men een wortel van de vergelijking "f"("x") = 0.
+Herkomst √-teken.
+Leonhard Euler dacht dat het teken ontstaan was uit de r van "radix" (wortel). Later wees Duits onderzoek uit dat het wortelteken in Duitse handschriften rond 1500 is afgeleid uit een punt met een haal omhoog. Het teken verscheen het eerst in druk voor een vierkantswortel in 1525 in "Die Coss" van de Duitse wiskundige Christoph Rudolff, waar ook de tekens '+' en '−' in druk opdoken.

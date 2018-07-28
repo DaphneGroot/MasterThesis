@@ -1,0 +1,7 @@
+Erlang (eenheid).
+De erlang is een (dimensieloze) eenheid voor de omvang van het telefoonverkeer.
+Als internationale eenheid van telefoonverkeer werd in 1946 door het CCITT de erlang (E) aangenomen. Het was aan de hand van het wetenschappelijk werk in verband met verkeerstheorie van de Deense wiskundige Agner Erlang dat men tot de definitie kwam. Het aantal erlang geeft de hoeveelheid telefoonverkeer.
+Een gemiddeld gesprek kan op 2 minuten gesteld worden wat, bij één gesprek per uur, 0,033 E is.
+Een analoge telefoonlijn kan maximaal één erlang verwerken, ze wordt dan 100 % gebruikt.
+De erlang wordt veel gebruikt om te bepalen of een telefooncentrale een te grote of te kleine capaciteit heeft (interne en externe oproepen).
+Er wordt gesteld dat het niet slagen van 1 oproep op elke 20, ofwel 5%, voor de meeste toepassingen aanvaardbaar is.

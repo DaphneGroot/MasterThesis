@@ -1,0 +1,31 @@
+Continue functie (analyse).
+In de wiskunde wordt een functie continu genoemd als van originelen die bij elkaar in de buurt liggen, ook de beelden bij elkaar in de buurt liggen. Continue afbeeldingen zijn onderwerp van studie in bijvoorbeeld de analyse en de topologie.
+Veel 'bekende' functies op de reële getallen, zoals "x" formula_1 "xt" voor "t" ≥ 0, de e-macht, sinus en cosinus, zijn continu. Ook zijn de som, het verschil en het product van twee continue functies weer continu. Er bestaan verschillende definities van het begrip continuïteit. De bekendste is de zogenaamde 'epsilon-delta'-definitie, die de bovenstaande populaire formulering precisieert.
+Analyse.
+Een functie formula_2 heet "continu in het punt a", als er voor elke ε > 0 een δ > 0 is, zodanig dat voor alle punten "x" in "A" waarvoor formula_3, die dus bij "a" in de buurt liggen, geldt dat formula_4, wat inhoudt dat ook de beelden bij elkaar in de buurt liggen.
+Een equivalente definitie is dat een functie formula_5 continu is in een punt formula_6 als formula_7.
+De functie formula_5 heet "continu" als deze continu is in iedere "a" in het domein van formula_5.
+Meetkunde.
+Als "X" en "Y" metrische ruimten zijn met metriek formula_10 respectievelijk formula_11 en "x" is een punt in "X", dan heet een functie "f":"X"  → "Y" continu in "x" als er voor elke ε > 0 een δ > 0 is, zodanig dat het volgende geldt: als "x' " een punt van "X" is met formula_12, dan is formula_13. Dit kan op een formelere manier ook opgeschreven worden als
+Een functie heet "continu op X", of kortweg "continu", als hij continu is in elk punt van "X".
+Topologie.
+In de topologie wordt een afbeelding "f": "X" → "Y" tussen twee topologische ruimten "X" en "Y" continu genoemd als voor elke open verzameling "U" van "Y" het volledig origineel formula_15 van "U" onder "f" open is in "X". Er kan aangetoond worden dat voor metrische ruimten (die altijd ook topologische ruimten zijn) deze twee begrippen van continuïteit equivalent zijn.
+Voorbeelden.
+De blauwe en de rode krommen zijn continu, de groene niet (er zijn sprongpunten).
+In de onderstaande figuur staan de afgeleiden van bovenstaande krommen voor zover deze bestaan. Van de rode kromme is de afgeleide in het middengedeelte gelijk aan 0.
+Merk op dat, hoewel de rode kromme continu was, zijn eerste afgeleide "niet continu" is, er zijn twee sprongpunten in de afgeleide: punten waar de richtingscoëfficiënt "in de kromme" (zie bovenste figuur) verandert.
+Intuïtie.
+Deze functie maakt duidelijk een sprong in 1 maar is continu. Dit is te verklaren doordat 1 niet in het domein van de functie ligt.
+Uniforme continuïteit.
+Een functie formula_2 is uniform continu indien voor elke ε > 0 er een δ > 0 bestaat zodat voor elke formula_19 geldt dat uit formula_3 volgt dat formula_21.
+Deze is continu maar niet uniform continu.
+Stuksgewijze continuïteit.
+Als er een partitie bestaat waarvoor "f" uniform continu is in elk interval, dan is "f" stuksgewijze continu.
+Dit houdt niet noodzakelijk in dat "f" in die randpunten van de deelintervallen gedefinieerd is.
+Wegens de definitie van uniforme continuïteit kun je besluiten dat "f" uitbreidbaar is in de randpunten van de deelintervallen.
+Een stuksgewijze continue functie kun je zien als een aaneenschakeling van continue functies in een gesloten interval.
+In voorbeeld 1 hierboven is de groene functie een stuksgewijs continue functie.
+Eigenschappen van continue functies.
+Bij de bewijzen van de volgende eigenschappen van continue functies is de stelling van de kleinste bovengrens nodig.
+Bewijs voor continuïteit in geval van differentieerbaarheid.
+dus is formula_5 continu in formula_6.

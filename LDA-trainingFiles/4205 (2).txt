@@ -1,0 +1,9 @@
+Gammacamera.
+Twee gammacamera's in de e-cam Duet.
+Een gammacamera is een detectieapparaat voor gammastralen waarbij ook de plaats, waar het gammafoton de detector raakt, wordt geregistreerd. Gammacamera's worden gebruikt in de nucleaire geneeskunde.
+Werking.
+Een gammacamera bestaat uit een groot plat scintillatiekristal van b.v. natriumjodide, dat zichtbaar licht-fotonen uitzendt wanneer het door een gammafoton wordt getroffen. Deze worden door PMT's (photo multiplier tubes) achter het kristal gedetecteerd en versterkt; uit de rangschikking van de waarnemende PMT's wordt de positie van het treffende gammafoton afgeleid.
+Omdat gammastralen niet optisch kunnen worden afgebogen moet er een andere manier worden gebruikt om te zorgen dat alleen gammastralen, die het detectoroppervlak loodrecht treffen, worden gedetecteerd. Dit gebeurt door een collimator van lood, een fijnmazig rooster van loodfolie lijkend op een honingraat, bestaande uit rechte kanaaltjes omgeven door een dunne laag lood, dat voor het kristal is bevestigd.
+Stralen die de collimator onder een schuine hoek treffen worden tegengehouden door het lood; stralen die onder een bijna loodrechte hoek treffen kunnen erdoorheen en worden gedetecteerd. Door de waargenomen events te plotten krijgt men een "2-dimensionale afbeelding" van de voor de camera geplaatste bron.
+Door de camera om de bron heen te laten draaien is het ook mogelijk een "3-dimensionaal beeld" van de bron te berekenen. Door de gebruikte techniek en de plaatsonnauwkeurigheid van de detectiemethode hebben dergelijke beelden slechts een beperkt oplossend vermogen, circa 1 cm.
+Een gammacamera is groot en zwaar: vele tientallen kilo's. Het lood en het uit een stuk bestaande natriumjodidekristal beperken de maximale grootte.

@@ -1,0 +1,3 @@
+Extensible Messaging and Presence Protocol.
+Extensible Messaging and Presence Protocol (XMPP), voorheen "Jabber" geheten, is een open en op XML gebaseerd netwerkprotocol voor "instant messaging" en "presence notification". Het wordt op dit moment gebruikt op duizenden XMPPservers op het internet en door miljoenen mensen wereldwijd. Het protocol wordt ook gebruikt door Google Talk en Google Wave.
+De XML-streamingtechnologie zag in 1998 het levenslicht onder de naam Jabber. De specificaties zijn publiek beschikbaar waardoor vele implementaties open-source zijn. De basis van Jabber werd in 2004 door het Internet Engineering Task Force (IETF) goedgekeurd als Extensible Messaging and Presence Protocol (XMPP).

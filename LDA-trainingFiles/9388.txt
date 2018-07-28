@@ -1,0 +1,14 @@
+Inductie (elektriciteit).
+Inductie is het natuurkundige verschijnsel dat over een geleider een elektrische spanning wordt opgewekt als de geleider zich bevindt in een veranderend magnetisch veld, of als een geleider beweegt in een magnetisch veld. Inductie is het belangrijkste principe waarop transformatoren en generatoren gebaseerd zijn.
+Het woord 'inductie' werd vroeger ook gebruikt voor de magnetische fluxdichtheid.
+Ontdekking.
+In het algemeen wordt de ontdekking van inductie toegeschreven aan Michael Faraday, die in het jaar 1831 de werking van een elektromagneet („een stroom wekt een magneetveld op”) probeerde om te keren („een magneetveld wekt een stroom op”). Mogelijk is het werk van Michael Faraday gebaseerd op werk van Francesco Zantedeschi uit 1829. Ongeveer tussen 1830 en 1832 deed de Amerikaan Joseph Henry een soortgelijke ontdekking maar publiceerde hierover pas veel later.
+Formules.
+De inductiespanning "U" (in volt) is evenredig met de variatie in de sterkte van het magnetisch veld, de magnetische flux, "Φ" (in weber) gedurende een bepaalde tijd "t" (in seconde). N is het aantal windingen van de spoel.
+Deze formule heet ook Wet van Lenz.
+Een speciaal geval is de volgende formule, die gebruikt wordt om met een magnetische stromingsmeter de stroomsnelheid van een elektrisch geleidende vloeistof of suspensie te meten.
+De inductiespanning "U" op een bepaald moment is evenredig met de grootte van de magnetische fluxdichtheid "B" (in tesla), evenredig met de lengte van de geleider in het magnetische veld "l" (in meter) en evenredig met de snelheid "v" van de geleider ten opzichte van het magnetische veld.
+Zelfinductie.
+Er treedt ook inductie op bij een geleidende component waarbij een verandering van stroom optreedt. Dat komt doordat om de component heen zich een veranderend magnetisch veld bevindt dat veroorzaakt wordt door die veranderende stroom zelf. Deze inductie uit zich als een spanning die de oorzaak van de verandering van de stroom tegenwerkt: men spreekt dan van een zelfinductie.
+waarbij "L" de zelfinductie is (in henry), "I" de stroom en formula_4 staat voor de afgeleide naar de tijd.
+In de elektrotechniek wordt een spoel gebruikt als een zelfinductie nodig is; een spoel bestaat uit meerdere windingen waardoor dezelfde stroom loopt en welke dezelfde magnetische flux omvatten. De zelfinductie van een spoel is evenredig met het kwadraat van het aantal windingen.

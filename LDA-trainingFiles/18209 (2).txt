@@ -1,0 +1,15 @@
+Repeterende breuk.
+Een repeterende breuk, ook repeterende decimale breuk of periodieke (decimale) breuk, is een breuk die niet als een echte decimale breuk te schrijven is. De naam slaat op het feit dat in de fractie (het deel achter de komma) steeds dezelfde rij van cijfer(s) voorkomt, zich herhaalt. Deze rij cijfers heet het repeterende (of periodieke) gedeelte.
+Een andere schrijfwijze is die waarbij men laat zien wat het repeterende gedeelte is. Dit doet men door een streep te zetten door het eerste cijfer van het repeterende gedeelte en door het laatste.
+Als gewone breuk.
+Een repeterende breuk kan op de volgende manier als een gewone breuk (teller, breukstreep, noemer) geschreven worden.
+Bestaat het repeterende deel uit meer dan 1, zeg 6 cijfers, dan trekken we "x" af van 1 000 000 "x", zodat weer het repeterende deel wegvalt.
+vb: 0,123123123... wordt (repeterend deel is "123"; drie cijfers, dus delen door 999)
+Is er ook nog een vast deel, dan moet er wat omgerekend worden.
+Als limiet.
+De optredende reeksen zijn meetkundige reeksen, waarvan een gesloten uitdrukking berekend kan worden die weer de oorspronkelijke breuk oplevert.
+Repeterende negens.
+Een bijzonder geval vormen repeterende breuken met een repeterende 9. Een dergelijke breuk laat ook een niet-repeterende schijfwijze toe. Een repeterende breuk die eindigt op /9/ kan geschreven worden als een gewone breuk die eindigt op een cijfer dat 1 hoger is dan het niet-repeterende deel.
+De repeterende breuk kan ook opgevat worden als een meetkundige reeks, dat wil zeggen als de som van een meetkundige rij.
+Lengte van het repeterende gedeelte.
+Het aantal cijfers in het repeterende gedeelte hangt enkel af van de noemer van de breuk. Stel de noemer is "q", en ggd("q", 10) = 1, dan wordt de lengte van het repeterend gedeelte gegeven door de kleinste exponent "x" waarvoor 10x mod q = 1.

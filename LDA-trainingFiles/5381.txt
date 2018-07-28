@@ -1,0 +1,2 @@
+Small-angle neutron scattering.
+Small-angle neutron scattering (meestal afgekort tot SANS) ofwel neutronenverstrooiing onder kleine hoeken is de techniek die nauw verwant is aan "small-angle X-ray scattering" (een vorm van röntgendiffractie), maar maakt gebruik van neutronen in plaats van fotonen in het röntgenbereik.

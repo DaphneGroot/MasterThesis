@@ -1,0 +1,17 @@
+Laplacetransformatie.
+De laplacetransformatie, genoemd naar Pierre-Simon Laplace, is een wiskundige techniek die wordt gebruikt voor het oplossen van lineaire integraal- en differentiaalvergelijkingen. In de elektrotechniek en regeltechniek is de laplacetransformatie een zeer nuttig gereedschap bij het doorrekenen van in- en uitschakelverschijnselen, oftewel niet-stationaire verschijnselen. De laplacetransformatie is een belangrijk voorbeeld van een integraaltransformatie.
+Definitie.
+Omdat "f" in veel toepassingen een functie van de tijd is, wordt "f" wel de "tijdfunctie" genoemd. De laplacegetransformeerde "F" heet wel de "beeldfunctie".
+Notatie.
+om duidelijk te kunnen aangeven welke functie "f" bedoeld wordt.
+Causale functies.
+De integratie wordt soms ook gerekend vanaf formula_4 in plaats van 0. Er wordt dan stilzwijgend aangenomen dat "f"("t") = 0 voor "t" < 0 ("f" is causaal).
+Men noemt een functie formula_5 causaal als geldt dat formula_6 voor formula_7. formula_5 kan dan worden opgevat als een tijdsafhankelijke respons op een excitatie-functie die ook gelijk is aan nul voor formula_7.
+Convergentie.
+De laplacegetransformeerde is niet altijd convergent (en dus gedefinieerd): de laplacegetransformeerde van "f"("t") bestaat voor een bepaalde waarde van het complexe getal "s" als bovenstaande integraal convergeert voor deze waarde. Als de integraal convergeert voor een reëel getal "σ", convergeert hij voor alle complexe getallen "s" met formula_13. Het kleinste reële getal "σ" zodat de integraal convergeert voor alle "s" met formula_13 (indien dit bestaat) heet de convergentieabscis.
+Inverse.
+De inverse laplacetransformatie kan via een complexe integraal gevonden worden.
+Vaak echter wordt de laplacegetransformeerde geschreven als een lineaire combinatie van laplacegetransformeerden van bekende functies. De oorspronkelijke functie is dan dezelfde lineaire combinatie van de betrokken bekende functies.
+Verband met differentiaalvergelijkingen.
+hierbij is "H"("s") de "overdrachtsfunctie". Aangezien "x" een bekende functie is, is ook zijn laplacegetransformeerde bekend, en daarmee ook de getransformeerde van "y", "Y"("s"). We berekenen de inverse van "Y"("s"), en vinden de gezochte oplossing "y"("t").
+met als beginvoorwaarde: formula_65.

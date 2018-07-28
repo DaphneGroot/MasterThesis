@@ -1,0 +1,19 @@
+Verkeerslichtbeïnvloeding.
+Verkeerslichtbeïnvloeding is het beïnvloeden van de werking van verkeerslichten door bussen en trams om zo kruispunten sneller te kunnen oversteken, waardoor de doorstroming van het openbaar vervoer verbetert, en daardoor de stiptheid. In 1980 bleek bij een onderzoek naar de reistijdvariatie bij Haagse stadstrams 91% van de afwijkingen te kunnen worden verklaard door de variatie in verkeerslichtoponthoud.
+Tegenwoordig maken voertuigen van hulpdiensten, zoals brandweer en ambulance, ook gebruik van de mogelijkheid van verkeerslichtbeïnvloeding.
+OV-licht.
+Een busverkeerslicht in de nieuwbouwwijk Leidsche Rijn in Utrecht
+De beïnvloeding betreft zowel de gewone verkeerslichten, als speciale lichten die enkel voor het OV gelden.
+Nederland.
+Ook de hulpdiensten zoals brandweer, politie en ambulance maken gebruik van VETAG.
+Niet zozeer om voorrang af te dwingen: men maakt daarvoor immers gebruik van geluidssignalen en lichtsignalen, maar om bijvoorbeeld een slagboom voor een bustunnel of bussluis te openen.
+De hulpdienstvoertuigen kunnen tegenwoordig ook met behulp van KAR zich aanmelden bij een VRI en krijgen groen, zodat zij veilig een kruising kunnen passeren en de aanrijtijden kunnen verkorten.
+VETAG en VECOM.
+Vetag staat voor "Vehicle Tagging" en is een van de oudste vormen van verkeerslichtbeïnvloeding. In het wegdek worden inductielussen aangebracht. Bussen en trams met een transponder zenden het door de bestuurder ingestelde lijnnummer door via de inductielus, zodat het verkeerslicht voor de bus of tram op 'groen' kan gaan. Bij de meeste Vetag-lussen zijn OV-lichten geplaatst.
+Vecom is een verbetering van Vetag en betekent "Vehicle Communication". Hiermee is niet alleen contact van het voertuig naar de verkeersregelinstallatie, maar ook andersom mogelijk.
+KAR.
+KAR staat voor "Korteafstandsradio" en beïnvloedt verkeerslichten met een radiosignaal. Het voordeel is dat er in het wegdek geen dure en breukgevoelige detectielussen meer nodig zijn. Ook bij Sabimos wordt de KAR-functionaliteit toegepast. sinds 2005 heeft KAR zich ontwikkeld tot een landelijke standaard en wordt het op veel plaatsen in Nederland toegepast voor het openbaar vervoer en de hulpdiensten. KAR werkt op de frequentie 429,8500 MHz, in FM-modulatie. De data wordt verstuurd door middel van packets.
+Sabimos.
+Sabimos (afkorting van Satellite Based Information and Management Operating System) is een integraal systeem voor reisinformatie en verkeerslichtbeïnvloeding in Twente.
+Sonem2000.
+In 2003 werd in de gemeente Ede een experiment gedaan met de beïnvloeding van verkeerslichten met behulp van het geluid van de sirenes van voertuigen van hulpdiensten. Hierbij wordt geen transponder in het voertuig gemonteerd, maar alleen een detector in de verkeersregelinstallatie. Deze detector moet de sirene herkennen, maar na een jaar testen bleek dit niet goed genoeg te werken: in de VS, waar Sonem2000 ontwikkeld is, worden sirenes met een grotere amplitude (volume) gebruikt. Het systeem kon daarom de sirenes slecht van het omgevingsgeluid onderscheiden, waardoor er onterechte ingrepen plaatsvonden.

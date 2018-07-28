@@ -1,0 +1,3 @@
+Middleware.
+Middleware omvat de systeemsoftware die de informatie-uitwisseling regelt tussen de cliënt-software en de software die de bedrijfsgegevens beheert. Vaak gaat het om gedistribueerde systemen en meerdere platformen. Het bouwen van middleware vraagt om diepgaande kennis van de problemen van communicatie, synchronisatie en distributie. Er steken verschillende concepten achter middleware-oplossingen.
+De middleware zorgt ervoor dat toepassingen ontwikkeld kunnen worden voor verschillende platformen en dezelfde manier van gegevenstoegang kunnen gebruiken onafhankelijk van waar deze gegevens zich bevinden.

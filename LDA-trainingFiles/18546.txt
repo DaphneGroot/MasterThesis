@@ -1,0 +1,5 @@
+SIBO.
+SIBO is een algemene aanduiding voor de oudere zakcomputers (of PDA's) van het merk Psion. De naam SIBO heeft zowel betrekking op het 16-bits besturingssysteem als op de bijbehorende hardware-architectuur die voorkomt op apparaten vóór de Psion Series 5.
+Op de Psion Series 5 en oudere modellen wordt een 32-bits besturingssysteem gebruikt dat EPOC wordt genoemd. Sinds de oprichting van het Symbian-consortium wordt voor de voorkeur gegeven aan naam Symbian voor dit besturingssysteem.
+- Psion Series 3, 3a, 3c, 3mx en Siena zakcomputers
+- HC, Workabout en WorkaboutMX industriële computers

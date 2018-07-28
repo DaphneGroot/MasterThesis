@@ -1,0 +1,35 @@
+Bijectie.
+In de wiskunde is een bijectie of bijectieve afbeelding een afbeelding die zowel injectief als surjectief is, en dus alle elementen van twee verzamelingen in een-op-eencorrespondentie aan elkaar koppelt. Bijectief wil dus zeggen (zie plaatje rechts) dat elk element uit verzameling gekoppeld is aan een element uit verzameling en dat omgekeerd ook elk element van verzameling gekoppeld is aan een element uit verzameling.
+Een bijectie van de verzameling op de verzameling heeft een inverse functie uit naar. Als en eindige verzamelingen zijn, dan betekent het bestaan van een bijectie dat beide verzameling hetzelfde aantal elementen hebben. Voor oneindige verzamelingen is het beeld ingewikkelder; het leidt tot het concept van een kardinaalgetal, een manier om te onderscheiden tussen de verschillende grootten van oneindige verzamelingen.
+Een bijectieve functie van een verzameling op zichzelf wordt ook wel een "permutatie" genoemd.
+Bijectieve functies zijn essentieel voor veel deelgebieden binnen de wiskunde, waaronder de definities van isomorfisme, homeomorfisme, diffeomorfisme en permutatiegroep.
+De term bijectieve afbeelding werd geïntroduceerd door Bourbaki.
+Definitie.
+Indien aan eigenschappen (1) en (2) wordt voldaan betekent dat een bijectie een functie is met domein "X". Het is gebruikelijker om eigenschappen (1) en (2) in één eigenschap te combineren: elk element van "X" wordt aan precies één element van "Y" gekoppeld. Van functies die aan eigenschap (3) voldoen wordt gezegd dat zij "op-en-naar "Y" zijn; zij worden surjecties (of surjectieve functies) genoemd. Van functies die aan eigenschap (4) voldoen, wordt gezegd dat ze "een-op-eenfuncties" zijn; zij worden injecties (of injectieve functies) genoemd. In deze terminologie is een bijectie een functie, die zowel een surjectie als een injectie is; of, met andere woorden, een bijectie is een functie die zowel "een-op-een" als "op-en-naar" is.
+Gelijkmachtigheid.
+In de verzamelingenleer worden twee verzamelingen gelijkmachtig of equipotent genoemd als er een bijectie tussen de verzamelingen bestaat. Zo worden de verzamelingen formula_1 en formula_2 gelijkmachtig genoemd, omdat de afbeelding formula_3 met formula_4, bijectief is.
+Voor eindige verzamelingen is het begrip gelijkmachtig dus precies hetzelfde als "evenveel elementen". Voor oneindige verzamelingen echter wordt het begrip "evenveel elementen" vaag, maar gelijkmachtig of equipotent niet. Cantor was de eerste die verzamelingen op deze manier met elkaar vergeleek.
+Dit is een bijectie want elk natuurlijk getal heeft een eenduidig beeld, en elk geheel getal wordt precies één keer bereikt.
+Ook de verzameling van rationale getallen formula_8 is gelijkmachtig met deze twee.
+De verzameling van reële getallen formula_9 is echter niet gelijkmachtig met de drie vorige, maar dan wel met formula_10 voor elke gehele waarde van n groter dan 0.
+Voorbeeld 1.
+formula_11
+formula_12
+formula_13
+formula_14
+formula_15
+formula_16
+Deze f is een bijectie: 1 wordt aan -7 gekoppeld, 2 aan 3 en 3 aan 10. Geen enkel element uit B blijft over, en geen enkel element uit B wordt aan 2 elementen uit A gekoppeld.
+Voorbeeld 2.
+formula_17
+formula_18
+formula_13
+formula_20
+formula_21
+Tegenvoorbeeld 1.
+Dit is geen bijectie, enerzijds omdat -7 niet gekoppeld wordt en dus is ze niet surjectief, en anderzijds omdat 3 aan zowel 1 als 2 gekoppeld wordt, is ze niet injectief. Een bijectie is zowel injectief als surjectief, hieruit volgt dat f niet bijectief is.
+Tegenvoorbeeld 2.
+f(x) = formula_22
+Dit is geen bijectie. Het is wel zo dat elk element van B gekoppeld wordt aan een element van A, maar sommige elementen van B worden aan twee verschillende elementen van A gekoppeld. Zo is bijvoorbeeld f(-1)=1, maar ook f(1)=1.
+Tegenvoorbeeld 3.
+Dit is geen bijectie. Niet alle elementen uit B worden namelijk gekoppeld aan een element uit A, zoals bijvoorbeeld 0. Het is wel zo, dat de elementen uit B die gekoppeld worden aan een element van A, ook maar aan precies 1 element van A gekoppeld worden.

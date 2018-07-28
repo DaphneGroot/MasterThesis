@@ -1,0 +1,11 @@
+Wortelformule.
+Met behulp van de wortelformule of abc-formule kunnen de oplossingen van een kwadratische of vierkantsvergelijking worden gevonden. De oplossingen worden ook de wortels van de vergelijking genoemd. Het zijn de nulpunten van de betrokken tweedegraadsveelterm.
+Gebruik.
+In geval 2 ("D"=0) vallen de oplossingen samen tot de enige oplossing
+In geval 3 is er geen reële wortel. Binnen de complexe getallen zijn er wel twee wortels die met de wortelformule bepaald kunnen worden.
+Complexe oplossingen.
+Als de discriminant negatief is, zijn er geen reële oplossingen. Met complexe getallen worden de twee uitkomsten, die er toch zijn, geschreven als
+Deze twee complexe oplossingen zijn elkaars complex geconjugeerde.
+Alternatieve vorm.
+Een alternatieve vorm voor het schrijven van de oplossing is
+Deze alternatieve vorm geeft, in het geval dat "b"2 veel groter is dan 4"ac", op een rekenmachine of computer accuratere numerieke benaderingen dan de gewone vorm.

@@ -1,0 +1,6 @@
+Becquerel (eenheid).
+De becquerel is de SI-eenheid voor radioactiviteit, wordt aangegeven met Bq en beschrijft het aantal atoomkernen dat per seconde radioactief vervalt. De eenheid is genoemd naar Antoine Henri Becquerel.
+Definitie.
+1 becquerel is gelijk aan 1 radioactief verval per seconde.
+Verschil met de hertz.
+De dimensie van de becquerel is gelijk aan de hertz, 1 s−1, maar terwijl de laatste een periodieke verhouding beschrijft, dat wil zeggen een constant aantal pulsen die elkaar in gelijke tijdsintervallen opvolgen, is de becquerel een stochastisch gemiddelde waarde over een tijdsspanne.

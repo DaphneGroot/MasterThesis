@@ -1,0 +1,7 @@
+Getwist paar.
+Getwist paar (in Nederlandstalige technische boeken: dubbeldraad) is een veel voorkomende tweeaderige kabel waarbij de aders rond elkaar zijn gewonden. De bedoeling is elektromagnetische interferentie ("overspraak") te vermijden. In Vlaanderen spreekt men ook van getorst paar.
+De werking van een getwist paar berust op het principe dat een dergelijke kabel in een (homogeen) elektromagnetisch stoorveld gemiddeld geen lusoppervlakte heeft en het stoorveld dus geen stoorspanning kan induceren. De inductiespanning die in één lus wordt opgewekt wordt tegengewerkt door die van de volgende halve winding, waar de aders precies andersom liggen. Ook wordt het signaal vaak differentieel verstuurd, zodat ook capacitieve storing geëlimineerd wordt.
+Het aantal windingen per meter maakt deel uit van de specificaties van een type kabel. Hoe groter het aantal windingen, hoe minder men last heeft van overspraak.
+Meer aders.
+Een probleem kan dan ontstaan wanneer er meerdere kabels naast elkaar worden gelegd. Het kan goed zijn kabels van een verschillend merk te gebruiken, zodat de twistlengte waarschijnlijk verschilt.
+Een telefoonkabel voor een groter aantal aansluitingen bevat meerdere van de hierboven, onder Telefoonkabel, genoemde viertallen, gezamenlijk binnen één mantel. In dat geval mag men voor elk viertal een andere twistlengte verwachten.

@@ -1,0 +1,10 @@
+Seismogram.
+Een seismogram is de registratie van de bodemtrillingen op een bepaald punt op de aarde. De trillingsbewegingen worden geregistreerd in drie dimensies: verticaal, horizontaal in Noord-Zuid richting, horizontaal in Oost-West richting.
+Met een seismogram worden aardbevingen geregistreerd, maar ook worden explosies in de aarde waargenomen, bijvoorbeeld ondergrondse kernproeven. De seismograaf versterkt de beweging van de aarde zeer sterk. Zo kunnen met het seismogram aardbevingen zichtbaar gemaakt worden die op een heel andere plaats op de wereld plaatsvinden, en die daar ter plaatse door een mens niet voelbaar zijn.
+Het opgenomen trillingssignaal werd vroeger afgebeeld op een rol papier. Tegenwoordig worden de signalen digitaal opgeslagen.
+Seismometer.
+Een seismogram wordt gemaakt door een meetinstrument, seismograaf genoemd. De eerste seismograaf die in drie richtingen de trillingen kon registreren werd in 1893 ontworpen door de Engelse seismoloog John Milne
+Seismogrammen in Nederland.
+Het KNMI registreert de bodembeweging op een aantal plekken in Nederland. Iedere plek is uitgerust met seismische meetapparatuur en dit wordt een seismisch station genoemd.
+Seismisch onderzoek.
+Voor het opsporen van aardgas en aardolie is kennis van de ligging van de lagen binnen de aardkorst nodig. Die kennis kan worden verkregen door seismisch onderzoek (seismiek). Door een ontploffing onder de grond wordt de aarde in trilling gebracht. De trillingen worden weerkaatst tegen de verschillende aardlagen. Elk scheidingsvlak tussen twee steenlagen veroorzaakt een echo. De teruggekaatste trillingen worden geregistreerd op een seismogram, waarmee een geoloog kan voorspellen welke lagen geschikt zijn om olie of gas te bevatten. Maar men kan het pas zeker weten na het uitvoeren van een proefboring.

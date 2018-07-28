@@ -1,0 +1,9 @@
+Omtrek.
+De omtrek van een vlakke (tweedimensionale) figuur is de totale lengte van de buitenzijde. Simpel gezegd is het de afstand die je aflegt als over de rand rondom de figuur loopt. Ook de rand zelf wordt wel "omtrek" genoemd. Het woord omtrek duidt op de beweging om de figuur en is waarschijnlijk afkomstig van Simon Stevin. Synoniem is het Griekse woord "perimeter" dat letterlijk "omheen meten" betekent.
+Belang.
+Omtrek en oppervlakte spelen een belangrijke rol bij het beschrijven van vlakke figuren. De omtrek van een tuin bepaalt hoe lang het hek is dat je eromheen kunt zetten. De oppervlakte bepaalt bijvoorbeeld hoeveel mest je nodig hebt.
+Meten en berekenen.
+De omtrek van een willekeurige figuur kan worden gemeten door een touw over de rand om de figuur te spannen of leggen. Wanneer van een willekeurige figuur de vorm bekend is kan de omtrek worden berekend door integratie met behulp van booglengte. Het bepalen van de omtrek van een realistisch gedetailleerd figuur is niet eenvoudig omdat de rand precies moet worden gevolgd. Het is zelfs vrij eenvoudig een figuur te definiëren waarvan de omtrek oneindig lang is.
+Voorbeelden.
+De omtrek van een veelhoek is de som van de lengtes van de zijden. Voor een driehoek met zijden a, b en c is de omtrek a+b+c. Voor een rechthoek is de omtrek 2*(lengte+breedte). Voor een regelmatige veelhoek met n zijden van lengte a is de omtrek n*a.
+De omtrek van een cirkel is π maal de diameter ofwel 2π maal de straal (formula_1). Dit is een belangrijke eigenschap want de verhouding tussen de omtrek en de diameter definieert het getal pi. De cirkel is overigens de figuur die men krijgt door de oppervlakte zo groot mogelijk te maken terwijl de omtrek constant blijft.

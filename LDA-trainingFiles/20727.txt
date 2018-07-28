@@ -1,0 +1,14 @@
+Saros-cyclus.
+De Saros-cyclus beschrijft de regelmaat van zowel zons- als maansverduisteringen.
+Berekening.
+223 synodische maanden duren vrijwel exact even lang als 18 jaar. Om de achttien jaar nemen zon, maan en aarde vrijwel dezelfde posities ten opzichte van elkaar in, en dat betekent op zijn beurt weer dat zons- en maansverduisteringen zich om de achttien jaar herhalen. Deze periode van achttien jaar, preciezer 6585,3 dagen (= 18 jaar + 10 of 11 dagen [afhankelijk van of er vier of vijf schrikkeljaren in deze periode zitten] + 8 uur), heet Saros.
+Als de verhouding tussen de duur van jaar en maand exact gelijk zou zijn aan de ideale verhouding 223/18, zouden de verduisteringen zich onbeperkt herhalen. Maar omdat de werkelijke jaar/maand-verhouding iets van die ideale verhouding afwijkt, treden er kleine verschuivingen op, waardoor de reeks verduisteringen uiteindelijk afbreekt. Bovendien verandert de baan van de maan voortdurend. De Saros-periode van 18 jaar is in dit laatste opzicht relatief zeer gunstig, omdat de twee overheersende effecten, een periodieke verandering in de excentriciteit van de maanbaan (periode bijna 6 jaar) en een draaiing van het baanvlak van de maan (periode ruim 18 jaar), na verloop van 18 jaar een geheel aantal cycli hebben doorgemaakt en dus weer tot hun waarde van 18 jaar eerder zijn teruggekeerd.
+Een reeks bij elkaar horende verduisteringen heet een Saros-cyclus en beslaat een tijdvak van 1226 tot 1550 jaar. In dit tijdvak vindt 69 tot 87 keer een eclips plaats, waarvan 40 tot 60 centraal zijn (dat wil zeggen - totaal of ringvormig, óf ringvormig totaal).
+De "+ 8 uur" van de saros zorgt ervoor dat steeds na driemaal de sarosperiode de zons- en maansverduisteringen weer te zien zijn op dezelfde plaats op aarde als 3 x 18 jaar = 54 jaar geleden. Zo was in februari 1961 in Nederland een bijna totale zonsverduistering te zien en op 20 maart 2015 (= 1961 + 54) was ná driemaal de sarosperiode de zonsverduistering uit dezelfde saros-reeks wéér bijna totaal te zien, ook wéér in Nederland (3 x 11 dagen is één maand later).
+De saros was al aan de Babyloniërs bekend, met name als een beschrijving van maansverduisteringen, maar hij kan ook zonsverduisteringen voorspellen. In Griekenland ontdekten Meton en Euctemon de Saros in 432 v.Chr.
+Heden.
+Deze reeksen zijn allemaal actief in het jaar 2016 en zullen dat allemaal blijven tot minstens in het jaar 2054.
+Toekomst.
+Deze reeksen zullen allemaal nog starten in het 3e millennium.
+Verre toekomst.
+Deze reeksen zullen allemaal starten in het 4e millennium of nog later.

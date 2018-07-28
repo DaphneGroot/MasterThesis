@@ -1,0 +1,27 @@
+Lorentztransformatie.
+De lorentztransformatie, genoemd naar zijn ontdekker, de Nederlandse natuurkundige Hendrik Antoon Lorentz, vormt de basis van de speciale relativiteitstheorie. Deze theorie werd geponeerd om de tegenstrijdigheden tussen de theorieën van elektromagnetisme en klassieke mechanica uit de wereld te helpen.
+Definitie.
+Als tijdcoördinaat kiezen we formula_1, de afstand die het licht in vacuüm aflegt in de tijd t.
+Lorentzinvariantie wordt gedefinieerd als het gelijk blijven van formula_2.
+Een lorentztransformatie is dan een coördinatentransformatie van de minkowski-ruimte met lorentzinvariantie die de oorsprong (0,0,0,0) in zichzelf overvoert, en de oriëntatie van de tijd langs een wereldlijn niet omdraait.
+Formules.
+Als rotaties van de ruimte buiten beschouwing worden gelaten is een lorentztransformatie een transformatie in verband met de overgang naar een ander inertiaalstelsel, waarvan de oorsprong met een constante snelheid beweegt ten opzichte van het eerste, maar waarbij de richtingen in de ruimte van de ruimteassen in beide stelsels gelijk zijn. Ter verdere vereenvoudiging nemen we aan dat deze snelheid van S' ten opzichte van S in de "x"-richting is.
+Natuurkundig is formula_8, met "c" de lichtsnelheid.
+Lorentzinvariantie.
+Door eenvoudige berekening is de genoemde lorentzinvariantie te controleren. Verder geldt dat als elke oplossing voor een bewegingsvergelijking een oplossing van diezelfde vergelijking blijft na lorentztransformatie, dat deze vergelijking een lorentzinvariant is. Alle fundamentele vergelijkingen in de natuurkunde zijn lorentzinvariant, inclusief de maxwellvergelijkingen van het elektromagnetisme. Dat wil zeggen dat dezelfde vergelijkingen kunnen worden gebruikt om de natuurkunde te beschrijven vanuit elk willekeurig standpunt, eenparig bewegend of niet.
+Contractie.
+Een van de eigenschappen van de tijdruimte die uit de lorentztransformatie volgt is de "lorentzcontractie": het feit dat wanneer iets een snelheid heeft die dicht bij de lichtsnelheid ligt, de afgelegde weg korter lijkt dan voor iemand die stilstaat. Dit effect wordt onder andere gebruikt in een "undulator" op een synchrotron.
+Lorentzcontractie wordt ook wel "Lorentz-FitzGeraldcontractie" genoemd, aangezien de Ierse natuurkundige George Francis FitzGerald onafhankelijk van Lorentz dezelfde contractie had voorgesteld.
+Geschiedenis.
+Lorentz ontdekte in 1900 dat de later naar hem vernoemde transformatie de Maxwellvergelijkingen onveranderd laat (maar de Duitse natuurkundige Woldemar Voigt vond ze al eerder). Albert Einstein ontwikkelde later de speciale relativiteitstheorie, die hierop gebaseerd is.
+De lorentz-groep.
+De lorentztransformaties (de coördinatentransformaties van de minkowski-ruimtetijd met lorentzinvariantie die de oorsprong (0,0,0,0) in zichzelf overvoeren, dus inclusief rotaties en alle richtingen van "v") vormen de zogenaamde lorentz-groep.
+Deze vormt daarmee het alternatief voor de verzameling van galileitransformaties uit de klassieke mechanica die de oorsprong (0,0,0,0) in zichzelf overvoeren (dus de ruimtelijke oorsprong in zichzelf overvoeren en de absolute tijd niet veranderen), die ook een groep vormt.
+Eén ruimtedimensie.
+Hierbij zijn x en t in het laboratoriumstelsel S, x' en t' in het waarnemer stelsels S' dat met een snelheid 'v' beweegt ten opzichte van S en formula_16, formula_17, formula_18 en formula_19 nog te bepalen functies van die snelheid.
+Hiermee is de lorentztransformatie in één dimensie afgeleid, dat wil zeggen voor de plaats-coördinaat in de richting van 'v'. Om aan te tonen dat alleen een lineaire transformatie mogelijk is, of om de transformatie van richtingen loodrecht op 'v' (hier y en z) af te leiden, heeft men een iets uitgebreidere analyse nodig.
+Twee of drie ruimtedimensies.
+In veel afleidingen van de lorentztransformatie, wordt de transformatie van 'y' en 'z' (de coördinaten loodrecht op de beweging van de waarnemer) afgedaan als triviaal omdat zij in ieder stelsel dezelfde waarde hebben.
+Inderdaad is het voldoende om te controleren dat de lichtsnelheid bij een gegeven transformatie invariant is (bijvoorbeeld met snelheidstransformatie) om deze te kunnen gebruiken in de relativiteitstheorie.
+Toch is het de vraag of de transformaties waarbij y en z niet transformeren de enige mogelijkheid zijn. Om dit enigszins te onderzoeken kan men een lichtstraal beschouwen die in stelsel S wordt uitgezonden vanaf de ruimtetijd-oorsprong, in een willekeurige richting. Zo'n lichtstraal kan op tijd t = t1 de positie x = x1, y = y1 bereiken, waarbij
+De gegeven tijd klopt dus ook in stelsel S' met de afstand. Bij een derde ruimtedimensie wordt formula_39 alleen maar vervangen door formula_40, waarmee eenvoudig is te zien dat het dan ook klopt. Hiermee is geenszins bewezen dat de gegeven lorentztransformatie de enige mogelijke is, maar wel dat het waarschijnlijk is dat alleen transformaties waarbij voor de y- en z-as geen contractie optreedt mogelijk zijn.

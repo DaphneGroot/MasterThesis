@@ -1,0 +1,14 @@
+Negatief grondtal.
+Een positiestelsel kan een negatief grondtal hebben. Deze talstelsels zijn voor het eerst beschreven door Vittorio Grunwald in zijn werk "Giornale di Matematiche di Battaglini" uit 1885. Naderhand zijn negatieve talselsels herontdekt door A. J. Kempner in 1936 en Z. Pawlak and A. Wakulicz in 1959.
+Met een negatief talstelsel is het mogelijk positieve en negatieve getallen te laten zien zonder een minteken te gebruiken.
+0 = 0 = 0 × (-2)0 = 0
+1 = 1 = 1 × (-2)0 = 1
+10 = -2 = 1 × (-2)1 + 0 × (-2)0 = -2 + 0
+11 = -1 = 1 × (-2)1 + 1 × (-2)0 = -2 + 1
+100 = 4 = 1 × (-2)2 + 0 × (-2)1 + 0 × (-2)0 = 4 + 0 + 0
+101 = 5 = 1 × (-2)2 + 0 × (-2)1 + 1 × (-2)0 = 4 + 0 + 1
+110 = 2 = 1 × (-2)2 + 1 × (-2)1 + 0 × (-2)0 = 4 - 2 + 0
+111 = 3 = 1 × (-2)2 + 1 × (-2)1 + 1 × (-2)0 = 4 - 2 + 1
+Dit werkt niet alleen met -2, maar met elk negatief geheel getal dat geen -1 is.
+Opmerkelijk is dat de lijn door de x-as gaat bij de positieve vorm van iedere macht van het grondtal. Bij grondtal -2 snijdt de lijn op 2, 4, 8, 16, 32... Bij grondtal -10 gebeurt dat bij 10, 100, 1000...
+Mogelijke toepassingen van dit soort getallen zijn te vinden in de cryptografie en bij systemen waar alleen cijfers gebruikt kunnen worden (zonder tekens als de -).

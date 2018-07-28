@@ -1,0 +1,2 @@
+Open Content License.
+De Open Content License (OPL) is een licentie voor open content, waaronder teksten en ander materiaal onder voorwaarden vrij verder verspreid kunnen worden. De OPL en de GFDL zijn niet compatibel. Reden hiervoor is dat beide licenties vereisen dat verdere verspreiding en bewerking alleen onder dezelfde licentie mogelijk is (zie ook copyleft).

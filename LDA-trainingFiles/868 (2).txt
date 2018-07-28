@@ -1,0 +1,18 @@
+Protocol.
+Een protocol is een gedragsovereenkomst, meestal in de vorm van een aantal uit te voeren stappen. Er bestaan verschillende typen protocollen, zoals communicatieprotocollen, computerprotocollen, wetenschappelijke protocollen, ceremoniële protocollen, ethische protocollen en verdragsprotocollen.
+Communicatieprotocol.
+Binnen de telecommunicatie is een communicatieprotocol een set van regels en afspraken voor de representatie van data, signalering, authenticatie en foutdetectie, nodig voor het verzenden van informatie over een communicatiemedium. De communicatieprotocollen voor digitale computernetwerken hebben vele eigenschappen bedoeld om er voor te zorgen dat er betrouwbare data-uitwisseling kan plaatsvinden over een onbetrouwbaar communicatiekanaal of medium. Een communicatieprotocol is eigenlijk het volgen van bepaalde regels, zodat een systeem goed kan communiceren en daardoor informatie uit kan wisselen. Deze regels worden in een norm of standaard vastgelegd.
+Een communicatieprotocol voor netwerkcomponenten wordt een netwerkprotocol genoemd.
+Computerprotocol.
+Een computerprotocol bevat regels en afspraken die men vastlegt zodat computers vlot met elkaar kunnen communiceren (zie Communicatieprotocollen).
+Wetenschapsprotocol.
+Wetenschapsprotocollen beschrijven welke stappen gevolgd moeten worden om tot hetzelfde resultaat te komen. Bijvoorbeeld in de chemie, wanneer je welke stoffen moet toevoegen voor een polymerase-kettingreactie.
+Gedragsprotocol.
+Biologisch protocol, waarbij gebruikgemaakt wordt van een ethogram. Aan de hand van het ethogram wordt gedurende 6 minuten hetzelfde dier geobserveerd als waarvan het ethogram is gemaakt. In het ethogram kun je dan invullen welke gedragshandelingen het dier wanneer uitvoert.
+Wanneer er nu in het ethogram gekeken wordt wat BL betekent, zal (afhankelijk van de maker) worden gelezen: blaffen; BL; de hond blaft. Zo kun je zien waarom een dier, waarschijnlijk een hond, blaft.
+Ceremonieel protocol.
+Aan een vorstelijk hof zijn er geschreven en ongeschreven regels die vaststellen wat er gezegd, gedaan en gedragen wordt. Deze gedragsregels worden het ceremonieel protocol of hofceremonieel genoemd.
+Ethisch protocol.
+Van Dale woordenboek zegt: Praktische filosofie die zich bezighoudt met wat goed en kwaad is. En voegt daar nog o.a. de woorden moraalfilosofie en zedenleer aan toe. Volgens het etymologisch woordenboek van het Nederlands gaat het woord ethiek uiteindelijk terug naar het Oud-Griekse ethikós (betreffende het karakter, zedelijk)..
+Verdragsprotocol.
+Bijlagen bij een verdrag, die het verdrag op onderdelen inhoudelijk regelen. Voorbeeld: Protocol 20 bij de Herziene Rijnvaartakte, de Akte van Mannheim, regelt: Definitieve wijzigingen van het Reglement Onderzoek schepen op de Rijn (artt. 23.03, eerste lid, 23.09, onderdeel 1.1, onder g en h). Een protocol is dus een deel van een verdrag.

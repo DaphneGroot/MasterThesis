@@ -1,0 +1,4 @@
+Internet Assigned Numbers Authority.
+De Internet Assigned Numbers Authority (IANA, letterlijk "Internet Toegewezen Nummers Instantie") is een organisatie die het beheer voert over een aantal standaardnummeringen die in gebruik zijn op het internet. Hierbij valt vooral te denken aan standaardpoorten voor verschillende protocollen. Daarnaast is de IANA-beheerder van informatie over topleveldomeinen. Voorbeelden van topleveldomeinen zijn.com.org en.biz.
+Het uitdelen van de IP-adressen zelf wordt niet gedaan door IANA, maar door een RIR (Regional Internet Registry).
+In het verleden werd de functie van IANA vervuld door de internetpionier Jon Postel totdat deze overleed in 1998.

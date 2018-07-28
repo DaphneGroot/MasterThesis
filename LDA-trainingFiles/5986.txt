@@ -1,0 +1,10 @@
+Relationele database.
+Een relationele database is een database die is opgebouwd volgens een relationeel model.
+De gegevens worden opgeslagen in tabellen waarin de rijen de soortgelijke groepen informatie, de "records" vormen, en de kolommen de informatie die voor elk "record" moet worden opgeslagen. Verschillende tabellen kunnen met elkaar worden verbonden door een kolom toe te voegen waarin een verwijzing naar een record in een andere tabel wordt opgenomen.
+Een relationele database kan worden opgeslagen, geraadpleegd en gewijzigd middels een "relationeel database management systeem", RDBMS. Er zijn meerdere systemen verkrijgbaar. Vele daarvan kunnen in de gestandaardiseerde taal SQL worden geraadpleegd, verwerkt en bewerkt.
+Wanneer de gegevens in een relationele database goed gestructureerd zijn, wordt duplicatie van gegevens tot een minimum beperkt en fouten in de gegevensverwerking worden voorkomen.
+Programma's die veel gegevens moeten verwerken, gebruiken hier vaak een relationele database voor.
+Voorbeeld.
+Dit schema heeft twee tabellen. De kolom "KlantID" (in de tabel Facturen) is een verwijzing naar de Klant in de tabel "Klanten" met hetzelfde ID. Wanneer informatie wordt opgevraagd welke klant bij factuur 2 hoort, wordt de informatie voor KlantID 1 in de tabel "Klanten" opgezocht. Op deze manier kan een verandering in klant-details (naam, achternaam) beperkt blijven tot één plaats, namelijk in de Klanten-tabel. Dit verschijnsel heet databasenormalisatie. Het ontwerpen van zulke tabellen heet normaliseren. Een database kan in verschillende mate genormaliseerd zijn.
+Geschiedenis.
+De grondlegger van het relationeel model was Ted Codd. Hij publiceerde in 1970 een baanbrekend artikel, waarbij hij begrippen uit de relationele algebra toepaste op het probleem van het opslaan van grote hoeveelheden gegevens. Dit was het begin van een ontwikkeling in de databasewereld die binnen enkele jaren zorgde voor de definitie van het relationeel databasemodel.

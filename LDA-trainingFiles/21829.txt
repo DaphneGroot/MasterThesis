@@ -1,0 +1,25 @@
+ABC-vermoeden.
+Het abc-vermoeden is een vermoeden (dat wil zeggen een uitspraak waarvan men vermoedt, maar niet heeft bewezen, dat zij waar is) uit de getaltheorie. Het vermoeden werd geformuleerd door Joseph Oesterlé en David Masser in 1985.
+In augustus 2012 presenteerde de Japanse wiskundige Shinichi Mochizuki van de Universiteit van Kioto een bewijs van het vermoeden, dat sindsdien door collegawiskundigen wordt gecontroleerd op zijn correctheid. Het bewijs wordt zeer serieus genomen vanwege de goede staat van dienst van Mochizuki.
+Definities.
+Het drietal positieve gehele getallen formula_1 heet een "abc-drietal", als formula_2 en formula_3 relatief priem zijn en formula_4.
+Daarin is formula_8 het radicaal van formula_9, d.w.z. het product van alle verschillende priemgetallen in de ontbinding van formula_9.
+Een gevolg is dat formula_11
+Het abc-vermoeden.
+Voor elke formula_13 zijn er slechts eindig veel getallen formula_2 en formula_3 zodanig dat formula_16.
+Toelichting plus implicaties.
+Let wel dat we moeten stellen dat ggd(a, b) = 1 anders kunnen we elke a, b en c uit een drietal met 2 vermenigvuldigen, en wordt c twee keer zo groot zonder dat het radicaal toeneemt, en kunnen we dus drietallen construeren met willekeurig grote kwaliteit.
+Het abc-vermoeden is voorlopig slechts een vermoeden, zolang het gepresenteerde bewijs niet is geverifieerd.
+Er bestaat een rijtje van records, waarbij de grootst bekende waarde van formula_5 bepalend is. Momenteel (mei 2013) is het record
+Dat het abc-vermoeden een sterke uitspraak is, kan bijvoorbeeld worden gezien doordat het zeer eenvoudig de laatste stelling van Fermat bewijst. Stel dat bewezen zou worden dat er geen getallen "a" en "b" zijn met formula_20. Dan zou dat voor getallen "a", "b" en "c" met
+betekenen dat het drietal formula_22 een abc-drietal is, en dus dat
+Het zou dus betekenen dat oplossingen van Fermat alleen mogelijk zijn voor formula_24. Voor formula_24 is de laatste stelling van Fermat echter al sinds 1825 bewezen, dus volgt hieruit dat de laatste stelling van Fermat waar is.
+Groot aantal abc-drietallen met alle dezelfde "b".
+Voor iedere formula_9 is er een formula_3 die in formula_9 abc-drietallen te vinden is, dus met formula_30, waarbij de drietallen tevens voldoen aan formula_31.
+Neem namelijk formula_32 met formula_33 zodanig dat formula_34 en neem voor de getallen formula_2 de volgende rij van formula_9 getallen: formula_37.
+De getallen formula_41 zijn
+Het radicaal formula_44 is dus maximaal formula_45 voor deze formula_9 drietallen, waardoor formula_47.
+Andere definitie van kwaliteit.
+Naast de standaarddefinitie van kwaliteit is het ook mogelijk om te kijken naar het product van a, b en c, in plaats van alleen naar c.
+Getallen "a", "b" en "c=a+b" met een hoge waarde voor formula_49 worden Szpiro-drietallen genoemd.
+De grootste gevonden kwaliteit formula_49 van een Szpiro-drietal is 4,41901, voor

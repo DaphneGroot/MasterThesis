@@ -1,0 +1,9 @@
+Personalisatie (informatica).
+Personalisatie omvat een geheel van methoden en technieken om gebruikers informatie aan te bieden, die voor hen op maat gegenereerd wordt.
+Voorbeeld.
+Met een goed personalisatie-algoritme kan deze personen informatie op maat aangeboden worden. Hierbij moet dan o.a. gekeken kunnen worden naar de webgeschiedenis van de betreffende personen, hetgeen als een privacyschending gezien kan worden.
+Toepassingen.
+Veel portaalsites maken gebruik van personalisatie. Ook zoekmachines onderzoeken personalisatie als mogelijk interessante techniek.
+Een andere bekende toepassing is die van "collaborative filtering" binnen de electronic commerce, waarbij gebruikers aanbevelingen krijgen op basis van hun koopgedrag.
+Problemen.
+Uiteraard kent personalisatie momenteel ook nog problemen en bezwaren. De implementatie van de algoritmes is verre van uitgekristalliseerd. Daarnaast zijn er nog ethische bezwaren over het vastleggen van een gebruikersgeschiedenis (privacy). Ook zijn er nog problemen met het interpreteren van profielen. Immers, historici gaan ook op vakantie...

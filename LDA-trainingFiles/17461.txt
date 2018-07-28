@@ -1,0 +1,9 @@
+Free Software Foundation.
+De Free Software Foundation of FSF is een door Richard Stallman op 4 oktober 1985 opgerichte non-profitorganisatie die zich toewijdt aan de productie en promotie van vrije software (vrij zoals in "vrijheid"), ondersteuning van de vrijesoftwarebeweging en het GNU-project. De FSF is gevestigd in de Commonwealth of Massachusetts.
+Conform de doelstellingen werkt de FSF alleen met vrije software
+volgens de The Free Software Definition.
+Geschiedenis.
+Vanaf de oprichting tot het midden van de jaren negentig werden de FSF-fondsen hoofdzakelijk gebruikt voor vergoedingen aan softwareontwikkelaars voor het schrijven van vrije software, nu die taak gedaan wordt door vrijwilligers en bedrijven en hebben de FSF-werknemers en -vrijwilligers hun aandacht gericht op wettelijke en structurele problemen met betrekking tot de vrijesoftwarebeweging (free software movement) en de vrijesoftwaregemeenschap (free software community).
+25 november 2002 werd het "FSF Associate Membership program" opgezet.
+Projecten.
+Een van de projecten van de Free Software Foundation is de Free Software Directory, een overzicht van vrije software.

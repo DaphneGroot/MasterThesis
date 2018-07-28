@@ -1,0 +1,4 @@
+Super high frequency.
+Met Super High Frequency of SHF worden frequenties in het radiospectrum aangeduid tussen 3 en 30 GHz. De radiogolven hebben een golflengte van 10 tot 100 millimeter en worden daarom ook wel centimetergolf genoemd. De SHF-band wordt met name gebruikt voor straalverbindingen en satellietverkeer. Bij omroepsatellieten bijvoorbeeld is de frequentie van de uplink 14 GHz en van de downlink 12 GHz.
+Voor transport van deze hoge frequenties wordt soms gebruikgemaakt van coax-kabel, maar vanwege de hoge verliezen bij coax ook van golfpijpen. Als antenne kan, afhankelijk van de toepassing en de frequentie, een schotelantenne of een rasterantenne dienstdoen.
+Sinds 2009 zijn ook draadloze lokale netwerken op basis van 802.11n (wifi) in deze band te vinden, en wel rond de 5 GHz. Deze band wordt gebruikt als aanvulling van de zeer drukke en storingsgevoelige 2,4 GHz-band die tevens in de oudere standaarden 802.11b en 802.11g gebruikt wordt.

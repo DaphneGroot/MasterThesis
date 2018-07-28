@@ -1,0 +1,5 @@
+Pneumatiek.
+Pneumatiek is de studie van samengeperste gassen (in de praktijk meestal lucht), de daarmee mogelijke schakeltechnieken (ventielen) en de studie van door lucht aangedreven apparaten zoals pompen en cilinders. Pneumatiek valt onder het vakgebied werktuigbouwkunde.
+Historie.
+Pneumatiek werd vroeger veel toegepast in de regeltechniek onder meer voor de uitvoering van PID-regelaars. Tegenwoordig wordt pneumatiek nog veel gebruikt in klepstandsstellers om kleppen in een productieproces te besturen.
+Daarnaast wordt het op grote schaal toegepast in de machinebouw, waarbij pneumatische cilinders lineaire en roterende bewegingen verzorgen, zoals in industriële verplaatsingssystemen zoals lopende banden. De grote voordelen van deze aandrijftechniek zijn de lage aanschafkosten, de betrouwbaarheid en de eenvoudige aansturing.

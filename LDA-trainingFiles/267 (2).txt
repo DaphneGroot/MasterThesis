@@ -1,0 +1,45 @@
+Dopplereffect.
+De frequentie en de golflengte verandert voor de waarnemer door het dopplereffect. Links verdichten de golven zich, maar rechts is hun tussenruimte vergroot.
+Een lichtbron lijkt roder of blauwer afhankelijk van het snelheidsverschil tussen bron en waarnemer.
+Het dopplereffect is de waargenomen verandering van frequentie van geluid, licht of andere golfverschijnselen, door een snelheidsverschil tussen de zender en de ontvanger.
+Ontdekking.
+Het effect werd genoemd naar de Oostenrijkse natuurkundige Christian Doppler, die in 1842 dit verschijnsel voor zowel licht- als geluidsgolven beschreef (Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels). In 1845 werd het experimenteel getoetst door de Nederlandse meteoroloog Christophorus Buys Ballot. Hij deed dat door een groep hoornisten bij Utrecht in een open spoorwagon met hoge snelheid langs een groep waarnemers te laten rijden.
+Tegenwoordig is een proefopstelling niet meer nodig om het dopplereffect bij geluid te constateren. Wie auto’s snel voorbij hoort rijden, merkt dat de toonhoogte van het geluid van de auto's daalt op het moment dat ze voorbijrijden. Met de sirene van een politie- of brandweerauto is het effect nog duidelijker, doordat die sirene een vaste toonhoogte heeft.
+Op een kort moment hoort de waarnemer de oorspronkelijke toonhoogte, namelijk op het moment dat de geluidsbron het dichtstbij is.
+Door een medium.
+Eén bewegende bron (oranje) volgt zijn eigen golven, de andere (groen) rijdt er bij vandaan. Een stilstaande microfoon registreert het geluid.
+Een bron van golven beweegt naar links. De golflengte is links van de bron kleiner dan rechts. Voor de frequentie geldt het omgekeerde.
+Het dopplereffect ontstaat doordat de bron (of de ontvanger) van de golven beweegt ten opzichte van het medium.
+Voor golven die door een medium voortgeplant worden, zoals geluidsgolven, gelden de onderstaande formules. Steeds wordt het medium in rust gedacht. Mocht het medium ook bewegen, zoals in een gasstroom, dan worden de snelheden relatief ten opzichte van het medium opgevat.
+Het dopplereffect is te begrijpen door te bedenken dat de bron een reeks van "golfjes" produceert met frequentie formula_1. De golven bewegen met een snelheid (formula_2) die bepaald wordt door het medium. Wanneer de bron een volgende golf produceert is hij zelf een stukje bewogen in de richting van de vorige golf. Hoe hoger de snelheid van de bron, hoe korter de afstand tussen de twee opeenvolgende golven (golflengte).
+Ook de tijd tussen twee golven in het medium (periode) wordt korter. Immers, als de bron de tweede golf produceert is hij niet meer op dezelfde plek als toen hij de eerste golf produceerde. De eerste golf had zelf ook enige tijd nodig om deze plek te bereiken. Aangezien de periode afneemt, neemt de frequentie toe met toenemende snelheid van de bron.
+Door het dopplereffect veranderen golflengte en frequentie. Alleen de snelheid van de golf verandert niet. Immers, als de golf de bron verlaten heeft, heeft hij alleen nog met het medium te maken.
+Als de waarnemer zich in de baan van de golfbron bevindt, is de frequentie bij nadering vast verhoogd en na passeren vast verlaagd. In de praktijk zal de waarnemer zich vaak naast de baan van de bron bevinden. De relatieve snelheid van de bron zal dan van een aanvankelijk langzaam veranderende waarde, in de buurt van de waarnemer van een positieve waarde door 0 naar een negatieve waarde gaan. Bij een geluidsbron hoort de waarnemer een aanvankelijk verhoogde en langzaam dalende toon die bij passeren tot de werkelijke toonhoogte afneemt en vervolgens daalt naar een verlaagde waarde.
+We merken nog op dat wanneer een geluidsbron op de waarnemer toekomt met een snelheid die de geluidssnelheid nadert, de noemer in bovenstaande formule naar 0 gaat. De golffronten hopen zich op: er ontstaat een geluidsbarrière.
+Hierin dienen de snelheden positief gerekend te worden in de richting van het andere object en negatief in de tegenovergestelde richting.
+Licht en andere elektromagnetische golven.
+Omdat elektromagnetische golven zoals licht zich weliswaar in een medium kunnen voortplanten (en ook in vacuüm), maar niet door het medium worden voortgeplant, is het dopplereffect voor deze golven ingewikkelder.
+Zolang de snelheid veel lager is dan de snelheid van het licht, zijn de bovenstaande formules een goede benadering.
+Maar een correcte beschrijving is alleen mogelijk met behulp van de speciale relativiteitstheorie.
+Voor v «c is dit inderdaad gelijk aan de formules erboven: de relatieve afwijking van de echte frequentie is ongeveer het tegengestelde van de onderlinge radiale snelheid in verhouding tot de lichtsnelheid.
+Toepassingen.
+Het dopplereffect wordt algemeen toegepast om snelheden te meten. Hierbij kan alleen de snelheidscomponent van of naar de waarnemer bepaald worden (radiële snelheid). Voor deze component geldt
+met "v"b de snelheid van de golfbron, en formula_25 de hoek tussen de snelheidsrichting (vector) en de gezichtlijn van bron naar waarnemer.
+Als bewegende gassen licht uitstralen of absorberen, wordt hun spectraallijn beïnvloed door het dopplereffect: de zogenaamde dopplerverbreding van de spectraallijn treedt op.
+Sterrenkunde.
+Rood- en blauwverschuiving bij een lichtbron die naar rechts beweegt.
+Roodverschuiving van absorptielijnen in het optisch spectrum van een supercluster van verre sterrenstelsels (rechts), vergeleken met dezelfde lijnen in het zonnespectrum (links).
+In de astronomie is het door het dopplereffect mogelijk nauwkeurig vast te stellen of een hemellichaam zich naar ons toe of van ons af beweegt. Hiervoor is natuurlijk nodig dat men weet wat de oorspronkelijke golflengte van het licht is, maar dat is eenvoudig, omdat het licht steeds spectraallijnen bevat waarvan de golflengte bekend is. Wanneer een ster zich van de waarnemer af beweegt wordt waargenomen dat de kleur naar het rood verschoven is (zogenoemde roodverschuiving); omgekeerd, wanneer de ster zich naar de waarnemer toe beweegt wordt een kleur- of spectraalverschuiving naar het blauw toe waargenomen.
+Het is dankzij deze waarnemingen dat men weet dat het heelal uitdijt: de sterrenstelsels vluchten van elkaar weg.
+Deze waarnemingen zijn zeer nauwkeurig, ongeacht de afstand tot het hemellichaam. Het is bij grotere afstanden daarentegen vrijwel onmogelijk te constateren of een hemellichaam een beweging uitvoert loodrecht op de kijkrichting, en de astronomische afstandsmeting is ook bijzonder onnauwkeurig.
+Het Dopplereffect is niet alleen van toepassing op golven, maar op ieder waargenomen periodiek proces, bijvoorbeeld het om elkaar heen draaien van de componenten van een dubbelster: als de dubbelster met bijvoorbeeld 30 km/s in onze richting komt en een omlooptijd heeft van 100 jaar lijkt die omlooptijd 4 dagen korter.
+Verkeer.
+Door het dopplereffect kan de politie de snelheid van voertuigen meten. Er wordt een radarstraal op het voertuig gericht. Uit de golflengteverschil tussen de uitgezonden en de teruggekaatste straal blijkt de snelheid.
+Geneeskunde.
+In de geneeskunde vindt het akoestische dopplereffect een toepassing bij onderzoek naar de snelheid van het bloed in de aderen, dat met ultrasoon geluid kan worden gemeten.
+Militair.
+Onderzeeboten gebruiken het dopplereffect in passieve en actieve Sonar-systemen. De nabijheidsbuis/nabijheidsontsteking (proximity fuse) die een projectiel bij zijn doel laat ontploffen, werkt ook met het dopplereffect.
+Stromingsleer.
+Om de stroomsnelheid van gassen (wind) en vloeistoffen te meten, worden laserdopplersystemen gebruikt waarbij laserlicht verstrooid wordt aan deeltjes in de stroming. Een voorbeeld is de laserdoppleranemometer voor windmeting.
+Radio en radar.
+In het radiospectrum wordt het dopplereffect gebruikt bij GPS-systemen en in radarsystemen. Dit laatste noemt men dopplerradar. Dit systeem wordt onder meer gebruikt voor het detecteren van neerslag, en in de radar- of lasersnelheidscontrole door de politie.

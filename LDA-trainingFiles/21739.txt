@@ -1,0 +1,3 @@
+Sodipodi.
+Sodipodi is een vrije software vectorillustratieprogramma voor Linux en Windows. Het gebruikt het W3C SVG vectorformaat. Het is uitgegeven onder de GNU General Public License.
+De ontwikkeling van het programma is vrijwel stopgezet, maar een fork van Sodipodi in 2003, genaamd Inkscape wordt nog steeds volop ontwikkeld. De laatste versie van Sodipodi stamt uit februari 2004.

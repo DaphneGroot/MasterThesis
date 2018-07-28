@@ -1,0 +1,5 @@
+Gadu-Gadu.
+Gadu-Gadu (vertaald: "babbel-babbel") is een chatprogramma en -netwerk dat vooral veel gebruikt wordt in Polen en door in het buitenland wonende Polen. Het heeft meer dan 15 miljoen geregistreerde accounts. De websites van GG Network hadden in januari 2011 een bereik van 6 miljoen gebruikers in Polen en de applicatie 6,9 miljoen.
+Functies.
+De officiële versie ondersteunt instant messaging (met meer dan 150 smileys), offline berichten, dataoverdracht, webcam en VoIP. Het programma kan gebruikt worden in het Engels en in het Pools.
+Er bestaat een XMPP-transport voor dit netwerk waardoor men via XMPP op het netwerk kan. Ondanks het eigen protocol, bestaan diverse onofficiële plugins zodat andere netwerken ook bereikt kunnen worden. Communicatie met Gadu-Gadu is mogelijk via Miranda IM, Adium, Kopete, Pidgin en het chatprogramma van Tlen.

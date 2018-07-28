@@ -1,0 +1,12 @@
+Piëzo-elektrisch effect.
+Een piëzoelektrische schijf genereert een spanning wanneer ze wordt vervormd, sterk overdreven
+Het piëzo-elektrisch effect is het verschijnsel dat kristallen van bepaalde materialen onder invloed van druk, bijvoorbeeld door buiging, een elektrische spanning produceren en andersom: er zijn materialen die vervormen als er een elektrische spanning op wordt aangelegd. Het woord "piëzo" is afgeleid van het Griekse woord "piezein", wat drukken betekent.
+Mechanisme.
+In een piëzo-elektrisch kristal zijn de positieve en negatieve elektrische ladingen gescheiden. Door een vervorming van het kristal wordt de symmetrie van de eenheidscel verbroken, en door de asymmetrie wordt een elektrische spanning gegenereerd. Afhankelijk van de toegevoerde mechanische energie kan de spanning die hierbij wordt opgewekt variëren van millivolts, door geluidstrillingen bij microfoons en pick-upelementen, tot vele duizenden volts bij gasaanstekers. In het laatste geval wordt een soort hamertje onder veerspanning op het kristal geslagen.
+Ook het omgekeerde effect kan worden waargenomen: wanneer een elektrische spanning in de juiste richting op een piëzo-elektrisch kristal wordt aangelegd, worden de ladingen in de eenheidscel verschillend beïnvloed, waardoor een vervorming wordt geïnduceerd. Ook dit effect kan heel sterk zijn: de ontwikkelde kracht is enorm, maar de uiteindelijke verplaatsing is normaal slechts enkele nanometers.
+Geschiedenis.
+Het aan piëzo-elektriciteit gerelateerde pyro-elektrisch effect was al in het begin van de 18e eeuw bekend. Op basis hiervan voorspelden de broers Pierre en Jacques Curie het piëzo-elektrisch effect in 1880 en ze demonstreerden het met eenvoudige middelen. Ze toonden het effect aan in toermalijn, kwarts, topaas, rietsuiker en kaliumnatriumtartraat. Kwarts en het tartraat vertoonden de sterkste effecten.
+In 1881 voorspelde Gabriel Lippmann op basis van de thermodynamica het omgekeerde effect. De broers Curie konden het bestaan daarvan snel bevestigen.
+Andere stoffen.
+Buiten de al genoemde stoffen zijn er vele andere die piëzo-elektriciteit vertonen, waaronder analoge structuren van kwarts en keramische stoffen met de perovskietstructuur. Ook polymeren als rubber, wol, haar, hout, en zijde vertonen een zekere mate van piëzo-elektriciteit. Het polymeer polyfluoretheen geeft een effect dat zelfs veel groter is dan dat van kwarts.
+Een piëzo-elektrisch kristal is vaak gebaseerd op barium-, lood- of magnesiumverbindingen.

@@ -1,0 +1,4 @@
+Microgolfspectroscopie.
+Rotatiespectrum van CF3I tussen 7 en 18 GHz.
+Microgolfspectroscopie is een techniek uit de scheikunde die bedoeld is om rotatie-vrijheid en rotatie-energie van moleculen in de gasfase te kunnen bestuderen.
+Bij de techniek wordt gekeken naar het absorptiespectrum van het monster in het gebied van de microgolven, ongeveer tussen 6 en 40 gigahertz. De energie van deze microgolven correspondeert met overgangen tussen de rotatie-energieën van moleculen, die daardoor kunnen worden geïdentificeerd. Bij verdere analyse van het spectrum kunnen onder andere de traagheidsmomenten worden bepaald. Deze gegevens kunnen informatie leveren over de molecuulstructuur, en daaruit weer bijdragen tot het vaststellen of verifiëren van parameters voor een "krachtveld" zoals dat wordt gebruikt in de moleculaire mechanica of moleculaire dynamica.

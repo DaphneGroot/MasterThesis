@@ -1,0 +1,4 @@
+Idle time.
+Idle time is beschikbare kracht van een processor die niet gebruikt wordt.
+Zo benut de processor van een personal computer tijdens bijvoorbeeld het enkel tonen van deze pagina, of als u een tekst intypt, niet zijn volledige rekenkracht. Deze rekenkracht wordt meestal dus gewoon niet benut, maar zou aangewend kunnen worden voor taken in de achtergrond, zoals een distributed computing project.
+Daar tegenover staat dat moderne processoren hun energieverbruik kunnen verlagen als ze niets te doen hebben en daarmee de stroomrekening en de warmteontwikkeling kunnen beperken.

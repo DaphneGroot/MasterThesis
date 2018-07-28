@@ -1,0 +1,5 @@
+Fermion.
+De elementaire fermionen staan gegroepeerd in de eerste drie kolommen
+Een fermion (vernoemd naar Enrico Fermi) is een deeltje dat zich kenmerkt door een halftallige spin (s=1/2, s=3/2, s=5/2...). Dit in tegenstelling tot bosonen, die altijd een heeltallige spin bezitten. Elk subatomair deeltje van het standaardmodel valt in te delen in één van deze twee soorten.
+Elementaire fermionen (dat zijn fermionen die zelf niet meer uit andere subatomaire deeltjes bestaan, dus elementaire deeltjes) zijn zelf verder onder te verdelen in leptonen (bijvoorbeeld elektron, muon) en quarks (de elementaire bouwstenen van hadronen). Omdat fermionen een halftallige spin bezitten, voldoen ze aan het uitsluitingsprincipe van Pauli, wat wil zeggen dat twee fermionen niet precies dezelfde kwantumgetallen kunnen hebben. Dit principe zorgt voor onder andere de stabiliteit van elektronenschillen. Meer algemeen voldoen fermionen aan de Fermi-Diracverdeling.
+Elementaire fermionen zijn de bouwstenen van materie. Elementaire bosonen brengen krachten over tussen de elementaire fermionen.

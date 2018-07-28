@@ -1,0 +1,3 @@
+Soortelijke massa van vaste stoffen.
+Dichtheid van vaste stoffen in kg/dm3 (of g/cm3) bij kamertemperatuur (20°C), tenzij anders vermeld.
+Hout gemiddeld luchtdroog (12 – 18% vocht)

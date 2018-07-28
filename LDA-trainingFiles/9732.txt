@@ -1,0 +1,4 @@
+Newsreader (Usenet).
+Een newsreader is een computerprogramma waarmee men gebruik kan maken van de nieuwsgroepen die op Usenet aangeboden worden. Newsreader wordt tegenwoordig ook wel "nieuwslezer" genoemd. Een newsreader kan zijn opgenomen in een internet suite.
+Algemeen.
+Lezers kunnen zich met behulp van deze newsreader op een nieuwsgroep 'abonneren', waarna ze over het algemeen zowel de berichten in de nieuwsgroep kunnen lezen als nieuwe berichten kunnen verzenden (dit heet posten).

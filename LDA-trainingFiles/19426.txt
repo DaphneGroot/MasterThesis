@@ -1,0 +1,13 @@
+Sample.
+Het woord sample komt uit het Engels en betekent meestal voorbeeldexemplaar (proeve) of monster. Als zodanig wordt de term gebruikt in de statistiek, bij digitale signaalbemonstering en in de context van [digitale muziekinstrumenten. In sommige vakgebieden wordt de term gebruikt voor fragmenten of testresultaten die een groter geheel omvatten, bijvoorbeeld door musici en ecologen.
+Signaalbemonstering.
+In digitale signaalbemonstering is een sample de momentane waarde van het betrokken signaal: een signaalmonster genomen op één tijdstip. Door bemonstering (sampling) van het signaal op opeenvolgende (vaak equidistante) tijdstippen, ontstaat een digitaal signaal.
+De bemonsteringsfrequentie geeft aan, hoeveel van deze samples per seconde worden genomen. Bij de compact disc is dit 44,1 kHz, dat wil zeggen 44.100 monsters per seconde. Hogere samplefrequenties zijn in professionele en hoogkwalitatieve toepassingen gebruikelijk, zoals 48 kHz, 96 kHz, 192 kHz (dvd-audio) en zelfs 2,8 MHz (DSD-super audio).
+Een sample wordt gekwantiseerd en daarbij gecodeerd met een bepaald aantal bits. Veelgebruikte aantallen bits per sample zijn 8 (PCM), 16, 24 of 32 bits.
+Muziek.
+In de context van digitale muziekinstrumenten betekent het woord "sample" een fragment gedigitaliseerde muziek (zie bijvoorbeeld Amen break). Het fragment is langer dan een signaalmonster bij digitalisatie, zoals hiervoor gedefinieerd, en het beschrijft een karakteristiek stukje geluid. Samples worden gebruikt in diverse digitale muziekinstrumenten zoals samplers en romplers. Vaak wordt de sample gebruikt voor een loop.
+In de hiphop en R&B is het gebruik van samples een veelvoorkomend verschijnsel, men "leent" een stukje muziek van een ander nummer en mixt dat in de eigen opname. Als voorbeeld het nummer "Hot stuff (let's dance)" van Craig David, dat samples bevat van David Bowies "Let's dance".
+Natuurwetenschap.
+In de natuurwetenschap spreekt men ook van een sample als dit een monster betreft waar onderzoek mee gedaan kan worden.
+Ecologie.
+In de ecologie is het gebruikelijk om de term "sample" te gebruiken voor een "steekproef", "monster", "telling" of "opname", terwijl een "steekproef" in de oorspronkelijke betekenis bestaat uit een aantal "samples". Het gebruik van de term wijkt hier dus af van de betekenis in andere wetenschappen.

@@ -1,0 +1,7 @@
+Klassiek damegambiet.
+Het klassiek Damegambiet is in de opening van een schaakpartij een variant binnen het aangenomen damegambiet, die weer onder te verdelen is in klassiek met 6...a6 en klassiek met 6...e6
+Uitleg.
+De beginzetten zijn: 1.d4 d5 2.c4 dc 3.Pf3 Pf6 4.e3 a6 Eco-code D 27 en het gambiet is ingedeeld bij de gesloten spelen.
+Uitleg.
+De beginzetten zijn 1.d4 d5 2.c4 dc 3.Pf3 Pf6 4.e3 e6 code D 26 en het gambiet is ingedeeld bij de gesloten spelen.
+In de zestiende eeuw schreef de portugees Pedro Damiano al dat wit bij dit gambiet het beste uit de bus kwam, een conclusie die later door o.a. François Philidor, Wilhelm Steinitz en Aleksandr Aljechin onderschreven werd.

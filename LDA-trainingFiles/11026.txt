@@ -1,0 +1,7 @@
+ISO 3166-1.
+De ISO 3166-1'"-norm is het eerste deel van ISO 3166 en legt alle landen van de wereld vast met unieke tweeletterige landcodes ("alpha-2"), drieletterige landcodes ("alpha-3") en driecijferige landcodes ("numeric-3").
+De tweede kolom (twee letters) wordt ook gebruikt als internet-topleveldomein — met uitzondering van de code van het Verenigd Koninkrijk, waar als top-level UK gebruikt wordt in plaats van GB, en de Verenigde Staten, waar voornamelijk.COM.NET.ORG.GOV.INT en.MIL worden gebruikt in plaats van US. Ook wordt de tweeletterige landcode gebruikt als basis voor de ISO 3166-2)-code.
+De driecijferige landcodes blijven altijd persistent over een bepaald geografisch gebied. Wanneer landen opsplitsen of samenvoegen, worden er nieuwe numerieke codes uitgegeven, terwijl de twee- en drieletterige codes voor (delen van) dat land hergebruikt worden. Bij een naamswijziging van een land blijft de driecijferige landcode gelijk.
+Landcodes mogen niet verward worden met taalcodes volgens ISO 639. Zo is 'be' de taalcode voor Belarussisch (Wit-Russisch) maar tevens de landcode voor België. Daarom wordt aanbevolen de ISO 3166-landcodes in hoofdletters te schrijven en de ISO 639-taalcodes in onderkast (kleine letters). Op het Internet is het echter gangbaar om landelijke topleveldomeinen met kleine letters te schrijven.
+ISO-landcodes.
+De code wordt gebruikt door de Europese Commissie, het IMF en SWIFT, CLDR en andere organisaties als tijdelijke landcode voor Kosovo.

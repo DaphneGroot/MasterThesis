@@ -1,0 +1,87 @@
+Python (programmeertaal).
+Python is een programmeertaal die begin jaren 90 ontworpen en ontwikkeld werd door Guido van Rossum, destijds verbonden aan het Centrum voor Wiskunde en Informatica (daarvoor Mathematisch Centrum) in Amsterdam. De taal is mede gebaseerd op inzichten van professor Lambert Meertens die een op BASIC gebaseerde taal genaamd ABC had ontworpen, maar dan met allerlei zeer geavanceerde datastructuren. Inmiddels wordt de taal doorontwikkeld door een enthousiaste groep, geleid door Van Rossum. Deze groep wordt ondersteund door vrijwilligers op het internet. De ontwikkeling van Python wordt geleid door de Python Software Foundation. Python is vrije software.
+Python heeft zijn naam te danken aan het favoriete televisieprogramma van Guido van Rossum, Monty Python's Flying Circus.
+Syntaxis.
+Python is ontwikkeld met het oog op leesbare code. Hieruit vloeit haar "zuivere" stijl voort. Met weinig woorden kan men veel zeggen. Dit uit zich op verschillende manieren. Structuur wordt aangebracht door indentatie, of regelinspringing in plaats van bijvoorbeeld accolades uit C-achtige talen. Statements (vergelijkbaar met zinnen uit gewone taal) worden simpelweg beëindigd door het eind van de regel. Variabelen krijgen geen typedeclaratie. Python maakt gebruik van duck-typing. Een uitgebreide voorstelling van de syntaxis staat hieronder.
+Indentatie.
+Python gebruikt als een van de weinige talen de mate van 'inspringing' van de regel, ook wel: indentatie genoemd, als indicatie van gelaagdheid van de verschillende onderdelen van het programma. Dit is iets wat Jaap van Ganswijk, de ontwerper van JPL en UHL al sinds het begin van de jaren tachtig voorstaat, maar dat ook anderen wel geopperd hebben. Andere talen verschillen hierin door het gebruik van aparte statements, zoals bijvoorbeeld: 'begin' en 'end' (bij Pascal), of accolades " (bij C) om een blokstructuur aan te duiden.
+Door deze inspringing en een aantal andere elementen kan de structuur van de taal worden vergeleken met de structuur van de pseudoprogrammeertaal die in veel gevallen wordt gebruikt in de literatuur om algoritmen uit te leggen.
+Duck-typing.
+Python implementeert het zogenaamde duck-typing. Dit houdt in dat het type van een variabele en het type van een argument van bijvoorbeeld een functie niet gedefinieerd hoeft te worden. Bij compilatie vindt (dus) ook geen typecontrole plaats. Runtime wordt slechts gecontroleerd of de methoden et cetera die worden gebruikt voor het betreffende object gedefinieerd zijn. Als dat niet zo is, volgt een foutmelding.
+EAFP.
+Een veel voorkomende wijze van programmeren in Python is het zogenaamde EAFP (Easier to Ask for Forgiveness than Permission) systeem. Hierbij wordt een functie of methode gestart zonder eerst te controleren of deze wel goed werkt, en vervolgens een foutmelding gegeven en afgevangen als dat niet het geval is. In de meeste andere programmeertalen is dit hetzij onmogelijk, hetzij wordt het als slechte programmeerstijl beschouwd. Die gebruiken wat in Python LBYL (Look Before You Leap) programmeerstijl heet: eerst de argumenten van een functie bekijken om te zien of de functie goed gaat, en slechts starten als dat het geval is.
+Uitvoering.
+Een Python-programma wordt geschreven in een of meerdere tekstbestanden met de extensie.py. Om een Python-programma uit te voeren dient men, in het geval van CPython, de Python-interpreter aan te roepen, gevolgd door de naam van het bestand, waarin het begin van het programma wordt gecodeerd.
+Interpreter.
+De CPython-interpreter zet de Python-programmacode niet meteen om in machine-instructies, maar compileert naar een tussenvorm, bytecode genoemd. Deze wordt opgeslagen in de vorm van een.pyc-bestand (met de c van "compiled", gecompileerd). De bytecode is onafhankelijk van het besturingssysteem - ze kan verhuisd worden naar een ander besturingssysteem. De volgende stap is het uitvoeren van de bytecode door de Python virtual machine. Deze zet de bytecode om in machinetaal (instructies voor de processor). De eerste stap is enkel nodig wanneer de interpreter geen up-to-date.pyc-compilatie vindt. De tussenstap vindt plaats omdat bytecode geoptimaliseerd is om sneller te worden omgezet in machine-instructies. Daarnaast zorgt de virtual machine voor de garbage collection.
+Omdat Python een zogenaamde interpreter is, zijn programma's geschreven in Python langzamer dan programma's geschreven in een taal met een compiler, zoals C. Pythonprogramma's zijn ook langzamer door de garbage collection.
+Garbage collection.
+Net als in veel andere moderne scripttalen wordt in Python geheugenruimte automatisch gereserveerd voor nieuwe variabelen of variabelen die groeien, en weer vrijgegeven als er geen referenties meer zijn aan die variabelen ("garbage collection"). Op deze manier wordt de programmeur een hoop werk bespaard dat hij in sommige talen (zoals C) wel moet doen.
+Standalone executables.
+Het is ook mogelijk Python te gebruiken zonder de Python-interpreter en library's te installeren. Een voorbeeld van een tool hiervoor is Py2exe.
+Bibliotheken.
+Python wordt geleverd met een uitgebreide bibliotheek om van alles en nog wat standaard te kunnen bewerken. Het is erg eenvoudig om in Python herbruikbare code te schrijven. Doordat veel van de bibliotheken die mensen schrijven gratis aan anderen ter beschikking wordt gesteld, groeien de mogelijkheden van de bibliotheek voortdurend. Python wordt zo tot een programmeertaal die voor razendsnel ontwikkelen van een nieuwe applicatie kan worden gebruikt, zonder dat de daarbij geproduceerde code onleesbaar wordt.
+Vertoning van uitvoer.
+In Python maakt het overigens niet uit of de af te drukken string tussen enkele of dubbele aanhalingstekens wordt gezet, als het maar consequent gebeurt.
+print("'s morgens zeg ik", ':', ' "hallo!"')
+» 's morgens zeg ik: "hallo!"
+Commentaar.
+Om tekstcommentaar te plaatsen in een script, dat niet uitgevoerd mag worden kan het codice_4-teken worden gebruikt. Voor commentaar met meerdere regels, wordt een blok met drie dubbele aanhalingstekens gebruikt.
+Variabelen en feedback.
+Variabelen zijn containers die een waarde toegewezen krijgen of hebben gekregen. Variabelen kunnen worden gemanipuleerd, gebruikt of getoond. In Python hoeft de variabele niet van tevoren te worden gedeclareerd. Om de invoer van een gebruiker op te kunnen vragen, wordt de codice_5-functie gebruikt. De invoer wordt vervolgens in een variabele gestopt.
+hoogte = hoogte * 2 # hoogte *= 2 mag ook
+naam = input("Wat is uw naam?")
+print("Hallo " + naam + "!")
+Expressies.
+Expressies worden met de standaard vergelijkingsoperatoren bepaald, en heeft als uitkomst de waarden codice_6 of codice_7. Om een valse overeenkomst te testen, wordt een uitroepteken gebruikt.
+Booleaanse operatoren.
+Bij een expressie kunnen de booleaanse operatoren codice_8 en codice_9 worden gebruikt.
+print(hoog < laag or laag == 3) # Test of een van de expressies waar is
+print(hoog < laag and laag == 3) # Test of beide expressies waar zijn
+Beslissingen.
+Beslissingen worden genomen met een codice_10-statement, aan de hand van een expressie. Deze kunnen worden aangevuld met een codice_11-statement en codice_12-statements.
+print("Welkom bij Let's make a deal. Kies een deur.")
+deur = int(input("Geef een keuze op:"))
+print("Achter de deur zit een koffer met een miljoen euro. Jij wint!")
+print("Achter de deur bevindt zich een pakezel waarmee je terug naar huis kan gaan. Jij verliest!")
+» Achter de deur zit een koffer met een miljoen euro. Jij wint!
+Datastructuren.
+De meestvoorkomende datastructuur in Python is de list. Deze bestaat uit een index van verschillende soorten eenheden. Het eerste indexgetal is hierbij altijd een nul.
+Repetitie.
+Python heeft twee lusconstructies om een statement herhaaldelijk uit te voeren, namelijk de codice_13-lus en de codice_14-lus.
+codice_15-statement.
+De codice_14-lus is gemaakt om datastructuren af te lopen. Hij verschilt van de meeste andere codice_14-lussen uit programmeertalen en is het best te vergelijken met de codice_18-lus uit PHP).
+kleuren = ["rood", "geel", "blauw", "zwart", "oranje", "paars", "groen"]
+hoeveelheid = 0 # Deze variabele wordt gemanipuleerd in de for-lus, dus moet hij hier vooraf worden gedeclareerd
+print("In mijn doos met kleurpotloden zitten " + str(hoeveelheid) + " potloden.")
+» In mijn doos met kleurpotloden zitten 7 potloden.
+kleuren = ["rood", "geel", "blauw", "zwart", "oranje", "paars", "groen"]
+print("Mijn doos met kleurpotloden bevat een", end=" ")
+if kleur == kleuren[-1]: # Vergelijking met laatste element uit lijst
+elif kleur == kleuren[-2]: # Vergelijking met een-na-laatste element uit lijst
+» Mijn doos met kleurpotloden bevat een rood, geel, blauw, zwart, oranje, paars en groen potlood.
+codice_19-statement.
+» Ik kan tot vijf tellen!
+Bij codice_14- en codice_13-statements kan de codice_23-functie worden gebruikt.
+for getal in range(1, 6): # Laatste getal wordt niet meegeteld
+Functies.
+Functies worden gemaakt met het codice_24-statement, met of zonder argumenten.
+Implementaties en versies.
+De standaardimplementatie van Python is geschreven in C. Vandaar wordt ze ook soms CPython genoemd.
+CPython.
+De eerste implementatie van Python is geschreven in C. Dit is de meestgebruikte versie. Ze is beschikbaar via de officiële Python-website, en staat voorgeïnstalleerd op de meeste distributies en versies van Linux en Mac OS.
+Van deze distributie bestaan twee veelgebruikte versies: 2 en 3. Vermits versie 3 een aantal veranderingen inhoudt die niet compatibel zijn met versie 2, is versie 3 niet zo maar een vervanging van versie 2. Om een Python-programma te runnen is het belangrijk te weten welke versie van Python het gebruikt.
+Jython.
+De J staat hier voor de programmeertaal Java. Deze Python versie wordt uitgevoerd aan de hand van de Java Runtime Environment. Dit is een programmeerplatform waar verschillende talen (niet enkel Java) systeemonafhankelijk kunnen op uitgevoerd worden.
+IronPython.
+Ook.NET heeft haar eigen versie van Python..NET is de tegenhanger van de Java Runtime Environment gecreëerd door Microsoft en biedt programmeurs een platform om Windows-applicaties te schrijven.
+PyPy.
+Deze implementatie van Python is geschreven in RPython (een Python-variant) en focust op snelheid. De naam verwijst naar haar implementatietaal: de extensie van een Python-bestand is:.py.
+Uses cases van Python.
+Python is een programmeertaal met een enorme waaier aan bibliotheken en kan in zo goed als elk programmeerdomein gebruikt worden. Voor sommige specifieke use cases staat Python echter bekend.
+OS Scripting.
+Python is een scripttaal gebruikt voor het uitvoeren van taken op een besturingssysteem. Voordelen van Python voor deze use case zijn haar scriptachtige syntaxis, de tools die de Python-taal en standaardbibliotheek aanbiedt voor zulke taken en dat Python min of meer systeemonafhankelijk werkt. Dit laatste wil zeggen dat dezelfde Pythoncode op verschillende besturingssystemen kan gebruikt worden.
+Wiskunde en wetenschap.
+Python is ook bekend als programmeertaal voor wiskundige en wetenschappelijke programma's. NumPy en SciPy zijn krachtige bibliotheken voor wiskundige en wetenschappelijke berekeningen.
+Web.
+Python kan ook gebruikt worden om webapplicaties te ontwikkelen. Hiervoor bestaan allerlei webapplicatie-frameworks, zoals Django, en servertechnologieën, zoals mod python. Men heeft ook een standaard gedefinieerd, genaamd Web Server Gateway Interface (WSGI), voor de communicatie tussen webservers en webapplicatie-frameworks. Op deze manier kunnen portable webapplicaties en frameworks geschreven worden in Python.

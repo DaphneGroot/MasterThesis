@@ -1,0 +1,37 @@
+Regressie-analyse.
+Hierin stelt formula_4 de storingsterm voor, die onafhankelijk is van formula_2 (dat wil zeggen dat men aanneemt dat de volledige variatie te wijten is aan een fout in formula_1).
+De functie formula_7 is in de relatie onbekend, maar voor toepassing van regressie-analyse behoort deze wel tot een bepaalde klasse die met een beperkt aantal parameters beschreven kan worden. Het paar formula_8 wordt wel aangeduid als onafhankelijke en afhankelijke variabele of als verklarende en te verklaren variabele; ook wordt wel gesproken van voorspeller en responsvariabele, of predictor en criteriumvariabele.
+Voorbeeld.
+Afhankelijk van omstandigheden als wegdek, verkeerssituatie, weersomstandigheden e.d., zal het benzineverbruik bij eenzelfde snelheid toch nog variaties vertonen, die weergegeven worden als storingsterm formula_4. Met de gegevens verkregen uit een aantal testritten (steekproef) zal men door middel van regressie-analyse de parameters schatten.
+Lineaire regressie.
+Er is sprake van lineaire regressie als de bovengenoemde functie formula_7 een lineaire functie is van de verklarende variabelen.
+Eenvoudig.
+De rekenkundige uitwerking van bovenstaande punten volgt hieronder.
+Rekenkundige benadering.
+Meestal wordt de storingsterm formula_4 normaal verdeeld verondersteld met verwachting 0 en standaardafwijking σ.
+waarin formula_4 nu standaardnormaal verdeeld is.
+Met methoden uit de schattingstheorie worden de parameters van deze lineaire relatie geschat.
+Omdat een schatting gebaseerd is op het resultaat van een steekproef, kan het analyseren van enkelvoudige lineaire regressie opgevat worden als het bepalen van de best passende lijn door de gegeven meetpunten. Wat "best passen" betekent is natuurlijk afhankelijk van het gehanteerde criterium. Een zo'n criterium is het "kleinste-kwadratencriterium". Daarvoor wordt de kleinste-kwadratenmethode gebruikt. Van lijn formula_23 worden de coëfficiënten formula_24 en formula_25 zodanig berekend dat de som van de kwadraten van alle afwijkingen formula_26 van het meetpunt ten opzichte van de lijn (zie figuur) minimaal is.
+Theorie.
+waarin de formula_32 onderling onafhankelijk zijn en alle N(0,1)-verdeeld.
+Herhalingen.
+waarin de formula_46 weer onderling onafhankelijk zijn en alle N(0,1)-verdeeld.
+In de formules voor de schattingen formula_24 en formula_25 voor resp. formula_36 en formula_37 moet nu overal de bij formula_52 horende y-waarde vervangen worden door het gemiddelde
+van die groep. Een schatting van formula_40 is;
+De laatste term daarin is de kwadratensom ten gevolge van de regressie. De middelste term meet de afwijkingen van de groepsgemiddelden ten opzichte van de geschatte regressielijn, en is daarmee een maat voor het goed passen van het model.
+Meervoudige lineaire regressie.
+met formula_4 weer N(0,1)-verdeeld.
+Ook hier worden met de kleinste-kwadratenmethode de parameters formula_60 geschat. De analyse verloopt geheel analoog aan het enkelvoudige geval. Het is alleen rekentechnisch ingewikkelder.
+Theorie.
+waarin de formula_32 onderling onafhankelijk zijn en alle N(0,1)-verdeeld.
+Het is overzichtelijker deze relaties met vectoren te noteren, waardoor ze in gedaante sterk vereenvoudigen.
+Voorbeeld.
+Om de lineaire uitzettingscoëfficiënt van aluminium te bepalen, meet een fysicus de lengte van een aluminium staaf bij 4 verschillende temperaturen. Het resultaat staat hiernaast.
+waarin de meetfout en de overige storingen zijn samengevat in formula_83.
+De parameter formula_36 is de lengte bij 0 graden; de parameter formula_37 staat in directe relatie met de gezochte uitzettingscoëfficiënt.
+Variantieanalyse.
+Vanwege de overeenkomstige analysemethodiek is het mogelijk een variantie-analyse op te vatten als een regressie-analyse. Als voorbeeld nemen we het ANOVA-model met één factor.
+waarin de formula_99 onderling onafhankelijk zijn en alle N(0,1)-verdeeld.
+waarin het de vorm heeft van een regressiemodel zonder intercept.
+Gesegmenteerde regressie.
+In sommige gevallen lijkt het verband tussen de variabelen stuksgewijs lineair, als een op een of meer plaatsen gebroken rechte. Het bereik van de verklarende variabele wordt dan verdeeld in segmenten, waarna een lineaire regressie per segment wordt uitgevoerd. De opdeling in segmenten kan daarbij ook onderdeel zijn van de statistische analyse.

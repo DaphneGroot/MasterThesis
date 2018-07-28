@@ -1,0 +1,86 @@
+European Train Control System.
+Een ETCS-bedieningsscherm waarop de machinist kan aflezen hoe snel de trein mag rijden
+Het European Train Control System (ETCS) is een belangrijk onderdeel van het European Rail Traffic Management System (ERTMS), een Europees project om de beveiliging van het spoor te standaardiseren en te verbeteren.
+Het ETCS bestaat uit baanapparatuur en de treinapparatuur. De ETCS-baanapparatuur "vertaalt" de betekenissen van spoorwegseinen naar ERTMS-rijtoestemmingen. Belangrijke onderdelen van deze rijtoestemmingen zijn de maximum snelheid en de maximaal nog af te leggen afstand.
+De ETCS-treinapparatuur toont ERTMS-de rijtoestemmingen via een beeldscherm in de cabine of stuurpost aan de machinist of treinbestuurder. De ETCS-computer in de trein bewaakt of die maximumsnelheid of de toegestane afstand niet wordt overschreden. Als dat gebeurt zet de ETCS-computer altijd tijdig een noodremming in.
+De werking van het ETCS.
+Het ETCS is verantwoordelijk voor functies die belangrijk zijn voor de veiligheid van de trein, maar ook voor de afwikkeling van het spoorverkeer.
+ERTMS-rijtoestemmingen.
+De baanapparatuur van het ETCS geeft rijtoestemmingen van de rijwegbeveiliging (de stations- en blokbeveiligingen) door aan de trein. Seinen langs de baan spelen daarbij geen rol. ETCS-rijtoestemmingen worden doorgegeven via GSM-R. Het doorgeven van rijtoestemmingen via GSM-R kan continu, dus op elke plaats en op elk tijdstip, onafhankelijk van de positie van de trein. Speciaal voor GSM-R is een aantal GSM-kanalen gereserveerd, zodat de communicatie voor het railverkeer niet verstoord kan worden door overbelasting van publieke GSM-kanalen. ETCS-transponders ofwel eurobalises kunnen ook ingezet worden om rijtoestemmingen door te geven. In dit geval worden rijtoestemmingen niet continue doorgegeven, maar alleen op de momenten dat de treinantenne over een eurobalise beweegt. Eurobalises hebben daarnaast een functie voor de positiebepaling van de trein.
+Seingeving.
+De ETCS-rijtoestemming geeft informatie over de afstand die de trein nog mag afleggen en de maximumsnelheid die daarbij geldt. Waar dat nodig is past de ETCS-computer in de trein die maximumsnelheid aan, bijvoorbeeld voor bogen, voor wissels, bij nadering van het einde van de rijtoestemming, of bij nadering van een punt vanaf waar een lagere maximumsnelheid geldt. De rijtoestemming kan onderweg steeds aangevuld of verlengd worden, zodat treinen op veilige afstand na elkaar over het spoor kunnen blijven rijden.Als een trein het einde van de rijtoestemming nadert neemt de berekende maximumsnelheid af, tot uiteindelijk 0 km/h aan het einde van de rijtoestemming, want de trein mag nooit verder rijden dan het eindpunt van de rijtoestemming. Op deze wijze ontstaat een remcurve, eigenlijk een reeks van afnemende maximumsnelheden. De berekende remcurve is altijd aangepast aan de trein, omdat de ETCS-computer rekening houdt met het remvermogen en het gewicht van de trein. Bij dezelfde snelheid zal een lange, zware goederentrein veel eerder moeten beginnen met remmen dan een lichte passagierstrein. Deze 'seingeving op maat' vergroot de capaciteit van het spoor.
+De berekende maximumsnelheid wordt aan de machinist of treinbestuurder getoond via een scherm, de driver machine interface. Het tonen van de rijtoestemming in de cabine ofwel stuurpost noemt men cabineseingeving of stuurpostsignalisatie. De driver machine interface is, net als de ETCS-computer, een onderdeel van de ETCS-treinapparatuur. De driver machine interface geeft de maximumsnelheid die de ETCS-computer berekent aan met een band rond de snelheidsklok. De naald geeft de snelheid van de trein aan, zowel analoog (met de naald) als digitaal (het getal in de as van de naald). De gebogen balk aan de buitenkant van de klok geeft aan hoe snel de trein mag rijden. Zo geeft de snelheidsklok meer informatie dan een sein langs de spoorbaan.
+Treinbeïnvloeding.
+Er zijn veel systemen voor treinbeïnvloeding. Op basis van hun werking en functie kunnen ze in een aantal groepen van treinbeïnvloedingssystemen worden ingedeeld. De treinbeïnvloedingsfunctie van het ETCS is in te delen bij systemen voor afstandbegrenzing.
+Positiemeldingen.
+De positie van de trein is belangrijke informatie voor de verkeersleiding van het treinverkeer. Wanneer een trein is voorzien van GSM-R-Dataradio meldt deze zijn positie periodiek, bijvoorbeeld elke zes seconden en na het passeren van specifieke punten. Het ETCS maakt daarmee een betere (bij)sturing van het treinverkeer mogelijk.
+Wanneer de treinapparatuur in staat is met zekerheid vast te stellen dat de trein nog compleet is kan uit de positie van de voorzijde van de trein en de lengte van de trein de spoorbezetting met zekerheid worden afgeleid. In iedere ETCS-positiemelding wordt expliciet aangegeven of de treinintegriteit of -compleetheid is vastgesteld. Als uit de positiemeldingen blijkt dat de treinintegriteit is gegarandeerd is apparatuur voor treindetectie in de spoorbaan, inclusief de bijbehorende kostbare bekabeling, voor een groot deel overbodig.
+Rijtoestemming.
+De rijtoestemming is een centraal begrip binnen het ERTMS/ETCS. De rijtoestemming bevat informatie over de spoorbaan en geeft aan hoe ver de machinist of treinbestuurder nog mag rijden. De rijtoestemming ontstaat in een seinhuis of verkeersleidingspost en wordt in een aantal stappen doorgegeven aan de machinist. In een boordcomputer in de trein wordt uit de informatie over de spoorbaan en de kenmerken van de trein berekend wat de maximumsnelheid is en hoe lang de remweg bij een bepaalde snelheid is. Deze informatie wordt zichtbaar gemaakt op de driver machine interface (DMI).
+Bij spoorwegbeveiligingssystemen die niet aan de ERTMS-standaard voldoen wordt de rijtoestemming gewoonlijk met spoorwegseinen gegeven.
+De verkeersleiding.
+Een rijtoestemming ontstaat als een computerapparatuur of de treindienstleider een rijweg instelt. Een rijweg is de route die een trein over rails en eventuele wissels aflegt. Deze rijweg wordt door de rijwegbeveiliging aan de hand van strikte veiligheidsregels beoordeeld. Als de rijweg veilig is, legt de interlockingsysteem de rijweg vast, legt waar nodig wissels om en produceert een rijtoestemming die correspondeert met de rijweg.
+In de figuur hiernaast is een spoorwegdiagram opgenomen zoals die gebruikt zou kunnen worden in een verkeersleidingspost. Het samenstel van het rode en groene deel van het schematische spooremplacement correspondeert met een ingestelde rijweg. Het rode deel is het deel waar de trein op rijdt, het groene deel is vergrendeld en beveiligd voor een veilige weg van de trein over het spoor. De rijtoestemming van de trein strekt tot het einde van het groene deel.
+Snelheidsprofielen.
+Omdat de maximumsnelheid op een baanvak kan variëren worden maximumsnelheden ook wel snelheidsprofielen genoemd, in het Engels speed profiles. De zwart gestreepte lijnen in de figuur hiernaast zijn voorbeelden van snelheidsprofielen.
+Meest restrictieve snelheidsprofiel.
+De treinapparatuur bewaakt de maximum toegelaten snelheid van de trein zelf. Daarnaast vergelijkt de treinapparatuur dit maximum met de maximumsnelheden die samenhangen met de eigenschappen van de spoorbaan. Als spoorgerelateerde maxima per treintype variëren gaat de treinapparatuur natuurlijk uit van het maximum dat geldt voor de eigen trein. Door voor elk deel van het traject steeds de laagste maximumsnelheid te kiezen berekent de treinapparatuur op simpele wijze het meest restrictieve snelheidsprofiel.
+In de figuur geeft de dikke grijze lijn aan wat het meest restrictieve snelheidsprofiel is.
+Dynamisch snelheidsprofiel.
+Het meest restrictieve snelheidsprofiel houdt nog geen rekening met de lengte en de remweg van de trein. Daarom berekent de ERTMS-treinapparatuur continu en binnen strikte veiligheidsmarges hoe snel de trein mag rijden en vanaf welk punt de trein snelheid moet gaan verminderen. Als een trein het einde van de rijtoestemming nadert neemt de berekende maximumsnelheid af, tot uiteindelijk 0 km/h aan het einde van de rijtoestemming. Dit is het dynamische snelheidsprofiel. Bij het berekenen van het dynamische snelheidsprofiel wordt onder andere, naast veiligheidsmarges, rekening gehouden met het remvermogen van de trein en hellingen in de spoorbaan. Een verhoging van de maximumsnelheid geldt pas als de trein het gebied waarvoor een lagere maximumsnelheid geldt in zijn geheel is gepasseerd. In de figuur is het dynamische snelheidsprofiel oranje aangegeven.
+De treinapparatuur berekent meerdere dynamische snelheidsprofielen. Er is bijvoorbeeld een dynamisch snelheidsprofiel voor vooraankondigingen van remopdrachten, voor de remopdrachten zelf, voor waarschuwingen als remopdrachten niet of onvoldoende worden opgevolgd, en er is een dynamisch snelheidsprofiel voor het starten van remingrepen waarbij de trein tot stilstand wordt gebracht. Dit laatste dynamische snelheidsprofiel is het meest steil.
+Driver machine interface.
+Bestand:ERTMS DMI360.svg|miniatuur|rechtop=1.8|alt=Een afbeelding van een driver machine interface (ETCS-bedienscherm)|De driver machine interface (DMI) Links op het scherm is een klok zichtbaar met snelheidsinformatie. De grijze balk rond de snelheidsklok geeft aan dat de trein 140 km/h mag rijden en de naald geeft aan dat de trein 138 km/h rijdt. Rechts daarvan staat de planningsinformatie. De lichtblauwe figuur geeft aan dat de trein op dit moment nog bijna 8 km mag rijden. De versmalling in de lichtblauwe figuur toont dat de trein over ruim een kilometer een lagere snelheid bereikt moet hebben. De horizontale gele streep geeft aan dat de trein daarom over ongeveer 600 meter moet gaan remmen. Onderaan het scherm staan links enkele berichten en rechts is de positie van de trein en de tijd zichtbaar. Beweeg met de muis over de tekening voor meer informatie.
+poly 163 43 166 52 175 50 171 25 107 53 73 97 57 138 57 190 74 242 124 286 130 273 88 235 66 163 78 111 117 63 163 43 Snelheidsklok. Band, geeft maximumsnelheid aan
+poly 182 139 168 156 173 183 194 191 215 181 220 164 214 145 195 137 184 81 172 58 172 135 Snelheidsklok. Naald, geeft rijsnelheid aan
+rect 55 16 333 271 Snelheidsklok
+rect 294 273 323 304 Aanvullende rij-informatie. ETCS in full supervision modus
+rect 1 316 53 339 Aanvullende rij-informatie. ERTMS niveau 2 actief
+rect 1 271 333 365 Aanvullende rij-informatie
+rect 290 367 332 413 Berichten. Scrolknop naar boven (is niet actief)
+rect 290 417 332 463 Berichten. Scrolknop naar onder (is actief)
+rect 1 366 53 389 Berichten. Symbool radioverbinding OK
+rect 1 365 333 464 Berichten. Tekstberichten
+rect 553 17 565 29 Planning. Planningsinformatie verbergen en treingegevens zichtbaar maken
+rect 345 17 363 29 Planning. Afgebeeld vooruitzicht halveren. Minimaal 1 km
+rect 345 279 363 314 Planning. Afgebeeld vooruitzicht verdubbelen. Maximaal 32 km
+rect 404 282 418 291 Planning. Aankondiging opdracht tyfoon bedienen
+rect 378 129 394 145 Planning. Aankondiging opdracht stroomafnemer neer
+rect 403 110 419 126 Planning. Aankondiging opdracht stroomafnemer op
+rect 335 16 447 314 Planning. Aankondigingen
+rect 447 16 470 314 Planning. Hellingen, aangegeven in promillages
+rect 481 198 574 202 Planning. Aankondiging eerstvolgende remopdracht
+rect 473 152 489 163 Planning. Aankondiging verlaging maximumsnelheid
+rect 473 110 489 121 Planning. Aankondiging verhoging maximumsnelheid
+rect 473 94 489 105 Planning. Aankondiging verhoging maximumsnelheid
+rect 473 52 489 63 Planning. Aankondiging verlaging maximumsnelheid
+rect 473 41 489 52 Planning. Aankondiging einde rijtoestemming
+rect 480 16 579 314 Planning. Globale maximumsnelheden
+rect 399 417 515 463 Positie
+rect 519 417 578 463 Tijd
+rect 582 17 640 263 DMI-menu
+Het ETCS-bedienscherm wordt de driver machine interface (DMI) genoemd. De DMI toont veel informatie. De seingeving is zichtbaar in de snelheidsklok, en de informatie over de treinbeïnvloeding is daarmee geïntegreerd. Maar de DMI kent ook een planningsdeel met informatie over het spoor voor de trein, zoals de helling, plaatsen waar de maximumsnelheid wijzigt en andere bijzonderheden. Deze planningsinformatie kan tot 32 kilometer vooruitkijken. Met die informatie kan de machinist of treinbestuurder vroegtijdig anticiperen op de situatie op het spoor.
+De driver machine interface (DMI) kent een touch-screenversie en een versie met knoppen eromheen. Hier is de touch screen-versie afgebeeld. Het scherm bevat vijf delen. Naast de snelheidsklok en het plannningsdeel is er direct onder de snelheidsklok ruimte voor aanvullende rij-informatie en daaronder tekstberichten. Onder het planningsdeel is er nog ruimte voor het weergeven van de tijd en de positie op het spoor. Bij de touch-screenversie staan alle bedieningsknoppen op het scherm, waarvan de belangrijkste rechts op het scherm in een hoofdmenu zijn ondergebracht.
+Snelheidsklok.
+De snelheidsklok heeft een forse plaats links boven in de driver machine interface. De betekenissen van de kleuren van de naald en de band rond de snelheidsklok zijn hiervoor beschreven onder de kopjes Seingeving en Treinbeïnvloeding.
+Aanvullende rij-informatie.
+Direct onder de snelheidsklok is ruimte voor aanvullende rij-informatie, aankondigingen en opdrachten. De gele hoorn betekent dat de machinist of treinbestuurder de tyfoon moet bedienen. Iets meer naar rechts is met een symbool aangegeven in welke modus het ERTMS staat. Een oog in een vierkant geeft aan dat de ETCS-treinapparatuur in de modus "full supervision" staat; dat is standaardmodus van de ETCS-treinapparatuur.
+Iets lager is ruimte voor aanvullende rij-informatie en voor aankondigingen, bijvoorbeeld de aankondiging van de nadering van het begin of het einde van het traject dat met ERTMS is beveiligd.
+Planning.
+De planning staat rechtsboven op het scherm. Het planningsdeel toont informatie over het traject juist voor de trein. Deze informatie is schematisch op schaal weergegeven. Van onderaf gezien de schaal tussen de eerste en tweede horizontale lijn lineair, en daar boven logaritmisch. De afstand waarmee vooruit gekeken kan worden kan de machinist of treinbestuurder aanpassen van één tot tweeëndertig kilometer. In de afbeelding hiernaast wordt informatie over de komende acht kilometer getoond. Deze informatie sluit aan de figuur boven met de spoorsituatie en de snelheidsprofielen (na het kopje Rijtoestemming).
+Linksonder in de planning is te zien dat de tyfoon bediend moet worden, wat ook al is aangegeven bij de informatie onder de snelheidsklok. Iets verder naar boven te zien dat de stroomafnemers neergelaten moeten worden, even verder mogen ze weer omhoog.
+De verticale balk geeft aan of de spoorlijn stijgt, daalt of vlak loopt. De lichte delen geven de vlakke delen aan en de stijgende delen inclusief stijgingspromillages aan, de donkere delen dalende delen inclusief dalingspromillage. De in breedte variërende lichtblauwe balk rechts daarvan geeft globale informatie over de toegelaten snelheden. Hoe breder de balk, hoe sneller gereden mag worden. Te zien is dat op het hoogste deel van de baan een snelheidsbeperking geldt.
+De gele streep geeft aan vanaf waar geremd moet worden, in deze afbeelding over een kleine 600 meter. De driehoekjes in de lichtblauwe balk met de punt naar beneden markeren de plaatsen vanaf waar een lagere maximumsnelheid geldt. In deze afbeelding wordt over ruim een kilometer een maximumsnelheid van 100 km/h van kracht. De driehoekjes met de punt naar boven markeren vanaf welke plaatsen de snelheid verhoogd mag worden. De getallen erachter geven de maximumsnelheid aan die vanaf die plaats geldt, in km/h. De bovenste driehoek met de snelheid 0 km/h geeft aan dat de trein op die plaats stil moet staan. De breedte van het lichtblauwe vlak geeft een indicatie de naderende verminderingen van de maximumsnelheid.
+Positie en tijd.
+Rechtsonder op het scherm is ruimte voor de positie van de trein, die wordt aangegeven in baankilometers. Ook de tijd is zichtbaar.
+Menu.
+Helemaal rechts is het menu van de DMI zichtbaar. Via de knop 'Data view' kan de machinist of treinbestuurder gegevens van de trein en van hemzelf, zoals zijn dienstnummer, invoeren.
+ETCS-modi.
+De ETCS-treinapparatuur kent meerdere modi. Naast de standaardmodus “FS” (full supervision) zijn er modi voor het rangeren en voor 'rijden op zicht', wat bijvoorbeeld wordt toegepast als de seingeving hapert of als treinen buiten een rangeeremplacement gekoppeld moeten worden. Ook zijn er modi voor fout- en opstartsituaties. De DMI (driver machine interface) laat de ETCS-modus zien met een symbool rechtsonder de snelheidsklok.
+Baanapparatuur en treinapparatuur.
+Het ETCS bestaat uit baanapparatuur en treinapparatuur.
+Baanapparatuur.
+De baanapparatuur van ETCS geeft rijtoestemmingen van de blok- en stationsbeveiligingen door aan de treinen.
+Onderstaande tabel bevat een overzicht van de baanapparatuur.
+Treinapparatuur.
+ETCS-treinapparatuur is voor ERTMS niveaus 1 en 2 vrijwel gelijk. ERTMS niveau 3 kent extra apparatuur. Voor treinen met ERTMS niveau 2 en 3 is naast ETCS-apparatuur ook GSM-R-apparatuur verplicht. Onderstaande tabel bevat een overzicht van de ETCS-treinapparatuur.

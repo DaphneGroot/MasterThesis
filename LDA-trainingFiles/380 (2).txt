@@ -1,0 +1,7 @@
+Grafisch programma.
+Grafische programma's zijn computerprogramma's waarmee men beelden kan creëren of bewerken.
+Onderverdeling.
+Ze zijn onder te verdelen in vectorprogramma's en paintprogramma's. De eerste categorie behandelt afbeeldingen als een meetkundige beschrijving van die afbeelding, de tweede behandelt afbeeldingen als een verzameling gekleurde punten (pixels) in een meerdimensionaal vlak. Beide methoden hebben hun voor- en nadelen en beide methoden worden steeds vaker binnen dezelfde computerprogramma's toegepast, zodat de verschillen tussen de categorieën vervagen.
+Paintprogramma's komen traditioneel voor in drie vormen, te weten programma's voor het creëren van afbeeldingen met een muis of tekenpen, voor het bewerken van afbeeldingen en voor het creëren van afbeeldingen aan de hand van een programmatische beschrijving van rasterafbeeldingen.
+Paginaopmaakprogramma's.
+Programma's voor het opmaken (samenstellen) van pagina's, met tekst en illustraties, tot een compleet grafisch geheel. De output van deze programma's wordt gegenereerd in PostScript, een systeemonafhankelijke en resolutie-onafhankelijke paginabeschrijvingstaal. Met een RIP (Raster Image Processor) wordt PostScript omgezet naar een serie printinstructies voor een laserprinter, een fotozetter of een (offset)plaatbelichter.

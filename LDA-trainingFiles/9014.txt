@@ -1,0 +1,27 @@
+Akropolis van Athene.
+De Akropolis van Athene is de 156 meter hoge tafelberg in de Griekse hoofdstad, oorspronkelijk door een vruchtbare vlakte omringd, op veilige en toch niet verre afstand van zee gelegen, die zich bij uitstek leende tot een nederzetting. Door de ligging is de Akropolis (Oudgrieks: ἡ Ἀκρόπολις τῶν Ἀθηνῶν, "hē Akrópolis tôn Atʰēnôn"; Grieks; η Ακρόπολη της Αθήνας, "i Akrópoli tis Athínas") van kilometers ver te zien voor wie Athene nadert. Akropolis is een samenvoeging van ('akros', 'hoogste deel van') en ('polis', 'stad').
+Hoewel er sporen van nóg oudere bewoningsvormen zijn gevonden, valt toch de eerste belangrijke periode in de Myceense tijd, tussen 2000 en 1200 v.Chr. Evenals in Mycene zelf was de koningsburcht hier de kern van de burcht: uit de 13e eeuw v.Chr. stamt de 6m dikke ommuring van zware blokken steen. Van deze zogenaamde "Pelasgische muur" is nog een stuk te zien, rechts voorbij de Propyleeën.
+De Akropolis bleef de religieuze kern van de stad, ook toen de bevolking zich in de benedenstad ging vestigen en de stad zich begon uit te breiden. De beschermgodin Athena had er haar belangrijkste heiligdom, de Oude Athenatempel, gebouwd in de 6e eeuw v.Chr. De tiran Pisistratus liet de pracht van de Akropolis nog verhogen met allerlei bouwwerken en wijgeschenken.
+In 480 v.Chr., kort voor de slag bij Salamis, werd het hele plateau vernield door de Perzen. Na de oorlog begon men onmiddellijk aan de wederopbouw onder Kimon II. In het "gerecycleerde" puin, waarmee het terras na de verwoesting van het gehele complex werd genivelleerd en uitgebreid, zijn tal van sculptuurfragmenten van vóór 480 v.Chr. ontdekt (nu te bewonderen in het Akropolismuseum). De wederopbouw van de tempels geschiedde op initiatief en onder leiding van Perikles, bijgestaan door de beeldhouwer Phidias als artistiek adviseur. Financieel werd de uitvoering mogelijk gemaakt door het overbrengen van de kas van de Delische Bond van Delos naar Athene in 454 v.Chr. Sindsdien was de Akropolis uitsluitend een religieus centrum: het grootse concept maakte de Akropolis tot nationaal heiligdom: zijn militaire en politieke functie behoorde voorgoed tot het verleden.
+Plattegrond.
+poly 332 198 447 158 468 217 352 254 Parthenon
+poly 305 130 374 115 385 146 314 167 Oude Athenatempel
+poly 346 116 389 108 375 71 334 82 Erechtheion
+poly 248 137 266 160 252 168 243 151 Standbeeld van Athena Promachos
+poly 104 164 193 115 225 200 158 224 Propyleeën
+poly 132 223 152 226 150 257 136 255 Tempel van Nikè
+poly 168 256 193 261 188 278 166 277 Eleusinion
+poly 191 213 258 199 245 259 185 246 Heiligdom van Artemis Brauronia
+poly 248 260 315 276 321 245 255 231 Chalkotheke
+poly 322 78 337 97 343 111 310 122 304 108 Pandroseion
+poly 258 81 281 73 288 96 266 102 Arrephorion
+poly 402 102 428 100 435 120 408 127 Altaar van Athena Polias
+poly 462 120 500 96 540 96 533 136 506 146 464 149 Heiligdom van Zeus Polieus
+poly 574 155 641 184 628 212 564 183 Heiligdom van Pandion
+poly 26 384 56 336 88 314 129 313 160 337 174 370 175 399 139 416 72 417 25 402 Odeion van Herodes Atticus
+poly 182 381 462 384 460 419 179 415 Stoa van Eumenes
+poly 395 325 469 309 478 356 406 372 Asklepieion
+poly 484 397 492 356 516 323 555 297 596 293 642 300 670 311 650 345 683 389 540 457 Dionysustheater
+poly 655 343 738 276 807 356 722 425 Odeion van Perikles
+poly 564 460 678 414 684 442 627 505 586 515 Tempel van Dionysos
+poly 300 32 332 42 323 67 296 64 Aglaureion

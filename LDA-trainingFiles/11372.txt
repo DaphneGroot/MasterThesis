@@ -1,0 +1,8 @@
+Orthonormale basis.
+Anders geformuleerd: formula_7 (de Kronecker-delta).
+In deze relaties wordt met formula_8 het inwendig product aangeduid.
+Voorbeelden.
+De vectoren vormen een orthonormale basis van de 3D-ruimte
+Eigenschappen.
+De Gram-Schmidtmethode geeft een directe methode om een willekeurige basis om te vormen tot een orthonormale basis.
+De kolommen (en rijen) van een "n"-dimensionale, orthogonale transformatie vormen een orthonormale basis van vectoren voor formula_14.

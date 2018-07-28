@@ -1,0 +1,3 @@
+Lijst van pausen naar rangnummer.
+Dit is een lijst van pausen naar rangnummer.
+T - Pagina naar tegenpaus met deze naam.

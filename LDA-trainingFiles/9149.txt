@@ -1,0 +1,5 @@
+Warmtestraling.
+Warmtestraling is elektromagnetische straling die een object uitzendt als gevolg van de temperatuur van het object.
+Er zijn algemene formules voor de warmtestraling van een geïdealiseerd object: de zwarte straler. De belangrijkste is de wet van Planck. Diverse andere formules kunnen daaruit worden afgeleid.
+Warmteverlies in woningen.
+Warmtestraling is, samen met conductie en convectie, een manier waarop warmte uit een gebouw ontsnapt. Warmteverlies door straling speelt vooral een rol in spouwmuren, ramen en bij de overgang van de binnenmuur naar de binnenomgeving. Daarom worden in spouwmuren en ramen speciale lagen (met een kleine emissiecoëfficiënt) toegepast.

@@ -1,0 +1,40 @@
+Dobbelsteen.
+Een dobbelsteen (ook wel: "teerling") is in de gebruikelijke uitvoering een kubusvormig voorwerp met op elk van de zijden een van de ogenaantallen 1 tot en met 6. Het woord dobbelsteen verwijst naar het oude spel dobbelen. Door werpen van de dobbelsteen zal een van de zijden min of meer toevallig boven komen. Het aantal ogen op deze zijde wordt als uitkomst van de worp beschouwd. De dobbelsteen fungeert daarmee als toevalsgenerator die met gelijke kansen van 1/6 de getallen 1 t/m 6 voortbrengt.
+Tegenwoordig zijn er ook dobbelstenen met andere aantallen genummerde zijden; dit zijn meestal regelmatige veelvlakken of daarop gebaseerde lichamen. Ook zijn er varianten van de kubusvormige dobbelsteen met andere afbeeldingen op de zijden, afhankelijk van de gewenste toepassing.
+Een dobbelsteen behoort zo gevormd te zijn dat elke zijde een even grote kans heeft om "boven" te komen liggen. Zo'n dobbelsteen heet 'zuiver'. In werkelijkheid zal elke dobbelsteen wel wat onregelmatigheden hebben, zodat een zuivere dobbelsteen niet bestaat.
+Een moderne dobbelsteen heeft afgeronde hoeken en zijden, waardoor de dobbelsteen beter rolt en het minder voorspelbaar is hoe de dobbelsteen tot rust zal komen.
+De vorm van een dobbelsteen moet zodanig zijn dat ieder vlak dezelfde kans heeft om boven te komen. Dit is niet bij elk aantal vlakken even makkelijk te verwezenlijken.
+Soorten dobbelstenen.
+De meest gebruikte dobbelsteen is kubusvormig en heeft op de zes zijden de ogenaantallen 1 t/m 6, bij uitzondering als cijfers gegeven. Er bestaan ook dobbelstenen met vier (1-4), acht (1-8), tien (0-9, 1-10 of 00-90, de laatste om te combineren met een andere decimale dobbelsteen, zie volgende alinea), twaalf (1-12), zestien (1-16), twintig (1-20 of soms twee keer 0-9), dertig (1-30 of soms drie keer 0-9) of honderd zijden (1-100, of tien keer 0-9). Deze laatste heet een Zocchihedron en wordt hoofdzakelijk gebruikt bij role playing games.
+In plaats van een dobbelsteen met honderd vlakken gebruikt men meestal twee tientallige dobbelstenen, een met de cijfers 0-9 (of 1-10) en een met 00-90. De waarden worden opgeteld. Elk totaal is dan even waarschijnlijk, wat niet het geval is als men de waarden van twee gewone dobbelstenen optelt, zoals in veel spelletjes gebeurt.
+Een decimale (dus tienzijdige) dobbelsteen is handig bij kansrekening. Sommige decimale dobbelstenen hebben de vorm van een regelmatig twaalfvlak, waarbij twee overliggende zijden niet vlak zijn afgewerkt, zodat de dobbelsteen daar niet tot rust zal komen. Er zijn ook decimale dobbelstenen met 20 vlakken, waarbij ieder cijfer twee keer voorkomt.
+Er bestaan zelfs 2- en 3-zijdige dobbelstenen. Een munt dient vaak als tweezijdige dobbelsteen.
+Bij de gebruikelijke zestallige dobbelsteen tonen de vlakken haast nooit cijfers, maar een aantal punten, ogen genoemd, volgens een vast patroon gerangschikt. De afwijkende dobbelstenen hebben meestal niet de traditionele ogen, maar cijfers.
+Een manier om snel het type dobbelsteen te benoemen is d"n" (of D"n"), waarbij 'd' staat voor 'dobbelsteen' en "n" voor het aantal zijden van de dobbelsteen. Zo wordt een normale, gangbare "zeszijdige dobbelsteen" afgekort tot "d6", een "achtzijdige dobbelsteen" tot "d8", enzovoorts.
+Indien er geen d2 voorhanden is, kan men ook een d6 gebruiken en afspreken dat 1 tot en met 3 voor 1 staat en 4 tot en met 6 voor 2, maar eenvoudiger is het om een muntstuk te nemen en kop of munt te gooien.
+Als d3 kan men ook een d6 gebruiken, de getallen 1 en 2 kunnen dan als 1 gezien worden, de getallen 3 en 4 als 2 en de getallen 5 en 6 als 3.
+Tegenwoordig worden de zijden van een d6 ook wel bedrukt met 2 maal een 1, 2 maal een 2 en 2 maal een 3 om zo een d3 te simuleren.
+Voor het simuleren van een d4 of d5 met een beschikbare d6, is er eigenlijk maar een mogelijkheid: wordt er een 6 (of 5) gegooid, dan is die worp ongeldig en moet er nog eens gegooid worden.
+Indeling van de vlakken.
+Rijtje dobbelstenen voor een spiegel, de indeling van de zes vlakken is bij alle zeszijdige dobbelstenen identiek
+Bij de traditionele zeszijdige dobbelsteen is de som van de waarden die tegenover elkaar liggen altijd 7, dus de 1 tegenover de 6, de 2 tegenover de 5, de 3 tegenover de 4. Leg je de dobbelsteen neer met de 1 boven en de 2 naar je toe, dan zit de 3 rechts en de 4 links. Dat betekent dat de indeling der ogen op alle normale zeszijdige dobbelstenen identiek is.
+Het is echter mogelijk dat de 2, 3 en 6 een kwartslag gedraaid zijn.
+Ook bij de meeste dobbelstenen met meer zijden is het vaak zo dat de som van tegenoverliggende getallen een waarde hebben van het aantal zijden plus 1.
+Twee dobbelstenen.
+Bij veel spelletjes wordt er met twee dobbelstenen gegooid. Niet ieder ogenaantal is dan even waarschijnlijk. De waarschijnlijkste worp is 7, want die kan op zes manieren (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) gerealiseerd worden.
+Uitvoering.
+Een dobbelsteen is meestal gemaakt uit hard materiaal, tegenwoordig van plastic maar vroeger vaak van bot of steen. Een standaard dobbelsteen is ongeveer 1 tot 4 cm³ groot; de meestgebruikte uitvoeringen hebben ribben van 10 tot 16 mm. Daarnaast bestaan er nog allerlei minidobbelsteentjes, voor reisspelletjes en diverse formaten en vormen 'fun'-dobbelstenen.
+Dobbelstenen zonder ogen of cijfers.
+Pokerdobbelstenen zijn ook zesvlakkig, net als gewone dobbelstenen, maar zijn voorzien van speelkaart-afbeeldingen: negen, tien, boer, dame, heer en aas.
+Deze dobbelstenen worden gebruikt bij chapeau.
+Bij woordspellen, zoals Boggle, wordt gebruikgemaakt van dobbelstenen met letters. Na het werpen moeten dan woorden gevormd worden met de letters die bovenop liggen.
+In het spel Warhammer wordt er voor artillerie ook gebruikgemaakt van twee afwijkende dobbelstenen, één met de waarden: 2, 4, 6, 8, 10, MISFIRE, en één met aan twee (tegenoverliggende) zijden het woord 'Hit' en op alle andere zijden een pijltje. Dit zijn, in tegenstelling tot andere dobbelstenen, dobbelstenen die aan de regels van het spel Warhammer gebonden zijn.
+In het kleuterspel Kleurentorentjes wordt een dobbelsteen gebruikt zonder ogen maar met een kleur aan elke kant.
+Scoredobbelstenen.
+Een scoredobbelsteen is niet bedoeld om mee te werpen en in een toevallige stand te komen. Dit is dus eigenlijk geen dobbelsteen. De steen wordt neergelegd met een bepaalde waarde boven. De opeenvolgende waarden liggen vaak naast elkaar, zodat snel de volgende waarde gevonden kan worden.
+Bij Backgammon wordt een dobbelsteen gebruikt met de cijfers 2, 4, 8, 16, 32, 64. Een verdubbeling van de score wordt aangegeven door de steen met een bepaalde zijde boven te leggen.
+Gebruik van dobbelstenen.
+Een dobbelsteen wordt meestal gebruikt om een (gecontroleerd) toevalselement te introduceren in spellen, met name dobbelspelen, gezelschapsspellen en rollenspellen. Met een valse (onzuivere) dobbelsteen worden gokspelen soms gemanipuleerd.
+Dobbelstenen worden aldus op twee manieren gebruikt
+Spellen.
+In veel bordspellen worden een of meer dobbelstenen gebruikt (meestal zeszijdige). Er bestaan veel spelletjes die alleen met (zeszijdige) dobbelstenen worden gespeeld, onder andere veel kroegspelletjes. Zie Dobbelspel.

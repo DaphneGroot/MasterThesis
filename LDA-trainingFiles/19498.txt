@@ -1,0 +1,3 @@
+Letterwoord.
+Een Letterwoord is een combinatie van letters of nummers om een fonetisch woord te maken.
+Deze worden vaak fout begrepen voor een Acroniem, Rebus of Initiaalwoord.

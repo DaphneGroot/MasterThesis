@@ -1,0 +1,12 @@
+Dipool.
+Een dipool (van het Grieks "di" = twee en "pólos" = as, spil, pool) is een object met twee polen, twee uiteinden met tegengestelde polariteit. Dit in tegenstelling tot een monopool ("monos", een). De term wordt voornamelijk gebruikt voor elektrische dipolen en magnetische dipolen.
+Magnetische dipolen.
+In feite is elke magneet een dipool, met een noord- en een zuidpool; magnetische monopolen bestaan niet.
+Elektrische dipolen.
+Een watermolecule is een permanente elektrische dipool (dipoolmoment 1.85 D). De elektronen van de waterstofatomen in water worden sterk aangetrokken door het zuurstofatoom en bevinden zich dichter bij het zuurtofatoom dan bij de waterstofatomen. Dit heeft tot gevolg dat het watermolecuul een relatief sterke negatieve lading heeft in het midden (rode kleur) en een positieve lading aan de uiteinden (blauwe kleur).
+Naast elektrische monopolen (geladen objecten), zijn er ook elektrische dipolen: objecten die weliswaar neutraal zijn wat de elektrische lading betreft, maar gepolariseerd doordat de zwaartepunten van de positieve en negatieve lading niet samenvallen.
+Een molecule is een (elektrische) dipool wanneer de zwaartepunten van de positieve en de negatieve lading niet samenvallen. Doordat deze (als geheel ongeladen) polaire moleculen een positieve en een negatieve pool bezitten, kunnen zij in elektrostatische wisselwerking treden met naburige polaire moleculen. Het watermolecuul is daarvan een voorbeeld.
+Naast permanente dipolen bestaan ook geïnduceerde dipolen, die ontstaan door de invloed van een uitwendig elektrisch veld of een naburig ion. De karakteristieke grootheid van een dipool is het dipoolmoment en wordt uitgedrukt in Debye (afkorting D).
+Antenne.
+Het ontvangen van een radiogolf met een dipoolantenne
+De term 'dipool' wordt daarnaast gebruikt voor zogenaamde dipoolantennes (eigenlijk een "halve dipool"): een staafvormige antenne opgesteld met het ene eind in het brandpunt van de spiegel van bijvoorbeeld een radiotelescoop.

@@ -1,0 +1,30 @@
+Permutatie.
+Een permutatie van een eindige verzameling (van bijvoorbeeld voorwerpen of getallen) is een rangschikking ervan, dat wil zeggen een manier om de voorwerpen of getallen in volgorde te plaatsen. Men kan een permutatie verkrijgen door te kiezen welke men als eerste neemt, vervolgens welke van de overige men als tweede neemt, enzovoort tot alle gekozen zijn. Uitgaande van een bepaalde beginvolgorde vat men een permutatie ook wel op als een herschikking van de voorwerpen of getallen.
+Het begrip kan ook worden gedefinieerd voor een oneindige verzameling. De algemene definitie hangt niet af van een ordening van de verzameling.
+Formele definitie.
+Een permutatie is een bijectie tussen een verzameling en zichzelf.
+Voorbeelden.
+De "identieke permutatie" correspondeert met het "niet" veranderen van de volgorde; wiskundig: de bijectie die ieder element op zichzelf afbeeldt.
+Een "(paar)verwisseling" is een permutatie die slechts van de identieke permutatie afwijkt in twee elementen (die elkaars plaats innemen).
+Eenvoudig voorbeeld met 4 knikkers; een rode, gele, groene en blauwe. Er zijn verschillende volgordes mogelijk, bijvoorbeeld "rood, geel, groen, blauw" of "rood, groen, geel, blauw". Er zijn in dit geval 4! = 4 x 3 x 2 x 1 = 24 mogelijkheden.
+Een "cyclische permutatie" houdt in dat men met een willekeurig voorwerp begint, en vervolgens steeds de volgende neemt, en na de laatste de eerste neemt, en vervolgens weer steeds de volgende neemt tot men ze allemaal gehad heeft. Voorbeeld: de volgorde (1, 2, 3, 4, 5) wordt (3, 4, 5, 1, 2).
+Notatie.
+Uitgaande van de standaardvolgorde (1, 2, 3, 4, 5) kan het laatste voorbeeld kortweg genoteerd worden als (3, 4, 5, 1, 2). Een andere mogelijkheid is de cykelnotatie, in dit geval (1 3 5 2 4), zonder komma's.
+Gebruik.
+Een permutatie wordt onder andere toegepast in de telecommunicatie om informatie te spreiden over tijd en/of frequentie zodat foutcorrectiecodes, die slecht kunnen omgaan met opeenvolgende fouten, beter werken. Zo'n permutatie wordt gespecificeerd door een permutatieformule.
+Verder zijn permutaties belangrijk in kansrekening, statistiek en combinatoriek.
+Aantal mogelijke permutaties.
+Het aantal mogelijke permutaties van "n" verschillende elementen wordt genoteerd als "n!" (lees: n faculteit).
+kan "n!" berekend worden voor een willekeurig aantal elementen "n". Hoewel het niet voor de hand ligt om over het aantal permutaties van 0 elementen te spreken, is het een afspraak dat
+Soms wordt ook een variatie als permutatie aangeduid.
+Permutatiegroep.
+Twee permutaties formula_4 en formula_5 op een verzameling formula_6 kunnen worden "samengesteld". De samenstelling formula_7 is opnieuw een permutatie, en wel op een zodanige manier dat de bewerking "formula_8" van de collectie formula_9 van alle permutaties van formula_6 een groep maakt. In het bijzonder noteert men formula_11 voor de groep van alle permutaties van de verzameling formula_12. Als formula_6 minstens drie elementen bevat, is deze groep niet abels.
+Een permutatiegroep is een deelgroep van de groep van alle permutaties op een gegeven verzameling. Elke groep formula_14 is isomorf met een permutatiegroep op de verzameling formula_14. Associeer daartoe het groepselement formula_16 met de permutatie formula_17 die ieder element formula_18 afbeeldt op het groepselement formula_19
+Even en oneven permutaties.
+Elke permutatie van een eindige verzameling kan geschreven worden als een samenstelling van een eindig aantal verwisselingen. Deze schrijfwijze is niet uniek, maar de "pariteit" van het aantal verwisselingen is wel onveranderlijk. Een "even" permutatie is een samenstelling van een even aantal verwisselingen, een "oneven" permutatie is een samenstelling van een oneven aantal verwisselingen. De identieke permutatie is even, elke verwisseling is oneven. Een even permutatie geeft men het "teken" +1 en een oneven permutatie het teken -1.
+De "alternerende groep op formula_20 elementen", genoteerd formula_21, is de deelgroep van formula_11 die bestaat uit de even permutaties.
+Alternerende permutaties.
+In de gepermuteerde rij wordt dus het eerste getal gevolgd door een groter getal, dat dan gevolgd wordt door een kleiner getal, dat weer door een groter enzovoort. Elk getal op een oneven plaats in de rij staat tussen twee getallen die groter zijn en elk getal op een even plaats staat tussen twee getallen die kleiner zijn.
+Alternerende permutaties moet men niet verwarren met de alternerende groep.
+Dit is tevens de eerste kolom in de bovenstaande tabel: het aantal alternerende up-down-permutaties van "n" getallen is gelijk aan het aantal alternerende up-down-permutaties van "n"+1 getallen die beginnen met 1 (of het aantal down-up-permutaties van "n"+2 getallen die beginnen met 2).
+Deze permutaties werden in de negentiende eeuw bestudeerd door de Franse wiskundige Désiré André.

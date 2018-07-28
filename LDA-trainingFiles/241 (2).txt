@@ -1,0 +1,6 @@
+Definitie.
+Een definitie is een samenvattende omschrijving van de kenmerken van een begrip, zodat het niet met een ander verward kan worden.
+Een goede definitie is niet circulair: zij bevat geen termen die synoniem zijn met het te omschrijven begrip. Zo mag "verwarming" niet worden gedefinieerd als iets dat verwarmt.
+Definities spelen een belangrijke rol in vrijwel alle wetenschappelijke disciplines, zeker in de wiskunde.
+In de taalkunde wordt het te definiëren begrip het "definiendum" (mv.: "definienda") genoemd, de beschrijving zelf heet het "definiens" (mv.: "definientia"). Een globale definitie kan vaak met een kort definiens toe, maar is minder specifiek dan een exacte.
+Er wordt ook nog onderscheid gemaakt tussen een gewone definitie en een stipulatieve definitie. Bij een stipulatieve definitie gebruikt men de gewone definitie maar past hem aan, aan de specifieke situatie. Dit kan bijvoorbeeld zo: "In dit onderzoek" zien wij 'werkdruk' als...".

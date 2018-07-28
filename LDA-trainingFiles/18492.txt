@@ -1,0 +1,15 @@
+Hanyu pinyin.
+Hanyu pinyin (;), ook wel eenvoudig pinyin () genoemd, is een systeem van transliteratie om de officiële taal van China, het Standaardmandarijn, in Latijnse letters weer te geven.
+Hanyu pinyin werd in de jaren vijftig van de 20e eeuw door de Volksrepubliek China zelf ontwikkeld, in tegenstelling tot andere systemen om de Chinese taal in Latijnse letters weer te geven, zoals Wade-Giles of Yale. De leider van het project was Zhou Youguang.
+"Hanyu pinyin" betekent in het Chinees letterlijk "Chinese-taal-transcriptie".
+Pinyin werd in 1958 goedgekeurd als transcriptiesysteem door de regering van de Volksrepubliek China en in 1979 officieel in gebruik genomen. Het verving het Wade-Gilessysteem.
+Sindsdien is het pinyin erkend door de regering van Singapore, de American Library Association en veel internationale instituten als "het" transcriptiesysteem voor het Mandarijn. In 1982 aanvaardde de Internationale Organisatie voor Standaardisatie (ISO) pinyin als de standaard om het moderne Chinees in Latijnse letters weer te geven; de standaard werd in 1991 herzien. In de vakliteratuur werd een tijdlang een combinatie van verschillende transcriptiesystemen toegepast: werken die handelden over de periode vóór het begin van de Volksrepubliek gebruikten doorgaans Wade-Giles, werken van daarna het Hanyu pinyin. Tegenwoordig wordt het pinyin vrijwel overal gebruikt, en komt men Wade-Giles enkel nog tegen in oudere werken.
+Weergave van de tonen in het pinyin.
+Grafisch verloop van de vier tonen
+Het Mandarijn is een toontaal en de tonen worden in het pīnyīn aangegeven met een diakritisch teken op de klinkers; de 5e toon echter krijgt geen diakritisch teken.
+De tonen worden ook vaak aangegeven met cijfers, daar het typen van een diakritisch teken soms nogal tijdrovend is. Het cijfer komt dan overeen met de toon. Nog vaker worden de toontekens gewoon weggelaten, wat ambiguïteit in de hand werkt (tenzij men het karakter toevoegt).
+Invoeren van pinyin.
+Er bestaan programma's waarmee men pinyin kan invoeren in de computer of waarmee men Chinese karakters kan omzetten naar pinyin.
+Voorbeeld.
+De toontekens worden normaliter enkel gebruikt in lesboeken voor het Mandarijn en in buitenlandse teksten om de uitspraak van een karakter aan te geven. Maar deze tekens zijn essentieel voor een correcte uitspraak van de lettergrepen in het Mandarijn, zoals men goed kan zien in het volgende klassieke voorbeeld waarin de uitspraak van vijf verschillende karakters enkel verschilt in toon.
+Een aantal eenvoudige zinnetjes om het gebruik van pinyin met de twee verschillende toonnotaties te demonstreren.

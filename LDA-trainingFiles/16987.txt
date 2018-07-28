@@ -1,0 +1,11 @@
+Rosentretergambiet.
+Het Rosentretergambiet is de naam van een tweetal verschillende gambieten in het schaken. Adolf Rosentreter, die de gambieten bestudeerde, was een Duitse schaker die leefde van 1844 tot 1920.
+Het Rosentretergambiet in de Italiaanse opening.
+Het Rosentretergambiet is een variant in de Italiaanse opening en het is ingedeeld bij de open spelen.
+De zetten zijn 1.e4 e5 2.Pf3 Pc6 3.Lc4 Lc5 4.d4.
+De opening valt onder ECO-code C50, Italiaanse opening.
+Het Rosentretergambiet in het aangenomen koningsgambiet.
+In het aangenomen koningsgambiet is ook een Rosentretergambiet te vinden, ook ingedeeld bij de open spelen.
+De zetten zijn: 1.e4 e5 2.f4 ef 3.Pf3 g5 4.d4.
+Het gambiet valt onder ECO-code C37.
+De Deen Søren Anton Sørensen heeft later dit gambiet nog verder geanalyseerd met de zetten 4...g4 5.Pe5.

@@ -1,0 +1,11 @@
+Binominale nomenclatuur.
+De binominale nomenclatuur (bi-nominaal - twee namen) wordt in de zoölogische nomenclatuur gebruikt. Het is gedefinieerd als het nomenclatuursysteem waarin voor soorten, maar niet voor taxa in enige andere rang, formele wetenschappelijke namen gebruikt worden die samengesteld zijn uit twee namen. Zo'n combinatie van twee namen heet een "binomen".
+Principe.
+Het "Principle of Binominal Nomenclature" is een belangrijk principe in de zoölogische nomenclatuur en houdt in
+De soortnaam.
+In de zoölogische nomenclatuur is de soortnaam ("specific name") iets geheel anders dan de naam van de soort ("name of a species" oftewel "species name"). De soortnaam is het tweede deel van het binomen, terwijl de naam van de soort het hele binomen is.
+Hetzelfde geldt voor de ondersoortnaam ("subspecific name"), die iets geheel anders is dan de naam van de ondersoort ("name of a subspecies" oftewel "subspecies name"). De ondersoortnaam is het derde deel van het trinomen, de naam van de ondersoort het hele trinomen.
+De auteurscitatie wordt tussen haakjes geplaatst bij plaatsing in een ander genus, bijvoorbeeld "Panthera leo"
+En dit zou ook gelden als de kat beschouwd werd als ondersoort van welke willekeurige soort in het genus "Felis" dan ook. Sommige zoölogen vinden dat de soortnaam de belangrijke naam is, en dat de naam van het genus een kwestie van taxonomie is, niet van nomenclatuur.
+Code.
+De naamgeving voor dieren wordt geregeld in de "ICZN", een wetboek voor zoölogische nomenclatuur. Dit is één van de nomenclatuur Codes. Binominale nomenclatuur (twee namen) moet niet verward worden met binomiale nomenclatuur (twee termen). Binomiale nomenclatuur is de algemene term voor het principe dat gebruikt wordt bij de naamgeving van alle levende organismes: binominale nomenclatuur is een vorm van binomiale nomenclatuur, maar het omgekeerde is niet het geval.

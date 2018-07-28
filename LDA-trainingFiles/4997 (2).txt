@@ -1,0 +1,34 @@
+Standaardkompas.
+Het magnetisch standaardkompas van het weerschip "France I" met weekijzeren compensatiebollen, de D-correctoren
+Het geomagnetisch dipoolveld staat met zijn as 11,3° gekanteld ten opzichte van de aardas
+William Thomson met het door hem ontwikkelde Thomson-peiltoestel leunend op een standaardkompas.
+Een standaardkompas is een magnetisch kompas in een speciale uitvoering voor gebruik op een schip, waarbij het dient als referentierichting om koersen en peilingen vast te leggen voor navigatiedoeleinden. Het is uitgerust met vloeistofdemping en permanente en weekijzeren compensatiemiddelen.
+Het standaardkompas is over het algemeen een secundair kompas, als reserve voor het primaire kompas. Dit primaire kompas is veelal het gyrokompas, soms ook moderne kompassen als de ringlasergyrokompassen en de fibre optic gyrokompassen. Deze maken gebruik van het Sagnac-effect, waarbij twee lichtstralen tegen elkaar indraaien. Fluxgate-kompassen worden wel gebruikt op jachten.
+Beschrijving.
+Het belangrijkste element van een scheepskompas is de sensor. Deze ringmagneet is gemaakt van een legering van ijzer, aluminium, kobalt, nikkel en tin en is onderdeel van de kompasroos. Deze rust op de kompaspen en bestaat verder uit een drijver die ervoor zorgt dat de drukracht van de roos minimaal is, de roos waarop de graadverdeling staat en de kompasdop die een zeer harde gepolijste synthetische edelsteen is om de draaiingswrijving met de kompaspen te minimaliseren.
+Dit geheel is opgehangen in de met vloeistof gevulde kompasketel die aan de bovenzijde is afgesloten door het dekglas, waarop een centerdop is aangebracht om het peiltoestel te centreren. De kompasketel heeft een zeilstreep die de langsscheepse richting van het kompas aangeeft. De kompasketel is cardanisch opgehangen in het nachthuis dat daarnaast de diverse compensatiemiddelen herbergt.
+Het kompas wordt over het algemeen op het schavotje boven de brug geplaatst, zo ver mogelijk van het scheepsstaal. Via een periscoop of afstandskompas is het kompas af te lezen op de brug.
+Variatie.
+Doordat de magnetische polen niet op de geografische polen liggen, wijst de veldrichting van het aardmagnetisch veld niet overal naar het ware noorden. Dit hoekverschil tussen de magnetische meridiaan en de geografische meridiaan is de variatie en is niet constant, aangezien de magnetische polen zich verplaatsen. Hoewel deze verandering klein is, kan deze voor de navigatie niet verwaarloosd worden. In een zeekaart kan de variatie voor dat bepaalde gebied worden gevonden met de jaarlijkse verandering. De variatie kan variëren van 0° tot 180°, afhankelijk van de locatie.
+Totale intensiteit.
+Een magnetisch kompas maakt gebruik van het aardmagnetisch veld waarvan de richting ongeveer overeenkomt met die van het ware noorden. De totale intensiteit "T" of magnetische fluxdichtheid van het magnetisch veld wordt uitgedrukt in tesla. Deze varieert in grootte, afhankelijk van lokale omstandigheden — zoals de aanwezigheid van ijzererts — en astronomische invloeden zoals zonnevlammen. Ook de richting van T ten opzichte van het vlak van de ware horizon — de inclinatie "i" — varieert van evenwijdig aan het aardoppervlak aan de magnetische evenaar tot haaks op de magnetische polen. Plaatsen met gelijke inclinatie worden verbonden door isoclinen, waarbij de magnetische evenaar acline wordt genoemd als lijn waar de inclinatie 0° is.
+Horizontale en verticale intensiteit.
+Plaatsen met gelijke horizontale intensiteit worden verbonden door isodynamen. Op de polen is "H" nul en op breedten groter dan 70° is deze al zo klein dat een magnetisch kompas niet bruikbaar meer is.
+Scheepsassenstelsel.
+terwijl "Z" overeenkomt met de verticale intensiteit "V".
+Fouten.
+Een standaardkompas ondervindt de nodige storingen die tot een fout in de aanwijzing leiden. Het kompas zelf ondervindt wrijving tijdens het draaien. Dit is de wrijving tussen kompaspen en kompasdop en de viskeuze weerstand die de kompasroos ondervindt in de dempingsvloeistof. Hierdoor ontstaat een kleine afwijking of deviatie die afhankelijk is van de draairichting van het kompas. Bij langdurig en snel draaien, zal de roos enige vertraging ondervinden. Ook het slingeren van het schip veroorzaakt een fout, de slingerdeviatie.
+Remanent scheepsmagnetisme.
+Hieruit blijkt dat de fout afhankelijk is van "H" en "i", dus de plaats op de aarde, de magnetische koers "MK" en de helling "h". Bij rechtliggend schip is deze laatste nul en vervalt het tweede deel van de formule.
+Deviatie.
+Een methode om de deviatie vast te stellen is mogelijk bij kleinere schepen door deze 360° rond een kompaspaal te trekken, waarbij de kompassteller regelmatig een hem bekend punt peilt. Deze afwijking wordt deels gecompenseerd en het overblijvende deel wordt in een deviatietabel opgenomen. Op zee kan de deviatie zelf gemeten worden door het nemen van een azimut. Hierbij wordt een hemellichaam dat zich dicht op de kim bevindt gepeild. Met de nautische almanak is uit te rekenen wat de peiling moet zijn, en het verschil tussen de twee waarden is de miswijzing. De variatie is uit de kaart te halen: het verschil tussen miswijzing en variatie is de deviatie.
+P-magneten.
+De langsscheepse P-component van het permanent scheepsmagnetisme wordt gecompenseerd met de permanente P-magneten die langsscheeps en horizontaal in het nachthuis worden geplaatst. De deviatie die door de P-component wordt veroorzaakt, is het grootst op de koersrichtingen oost en west en de compensatie zal daarom op deze koersen moeten worden uitgevoerd.
+Q-magneten.
+Om de dwarscheepse Q-component te compenseren, worden één of meerdere permanente Q-magneten dwarscheeps horizontaal in het nachthuis geplaatst, recht onder de kompaspen. Deze compensatie wordt op de koersrichtingen noord en zuid uitgevoerd, omdat deze component hier het grootst is.
+Flindersstaaf.
+Om de langsscheepse B2-coëfficiënt van het transiënt scheepsmagnetisme te compenseren wordt een zogeheten flindersstaaf verticaal in het vlak van kiel en stevens geplaatst, waarbij de bovenkant zich op gelijke hoogte moet bevinden als de ringmagneet. Ook deze compensatie vindt plaats op de koersrichtingen oost en west. Om B1 en B2 afzonderlijk te bepalen, moet men de metingen verrichten op verschillende breedtes. Bij schepen met een vaargebied dat zich op ongeveer gelijke breedte bevindt, zal de B-coëfficiënt in zijn geheel gecompenseerd worden met de P-magneten.
+D-correctoren.
+De D-coëfficiënt wordt gecompenseerd met een of twee weekijzeren bollen die dwarsscheeps worden geplaatst. Deze compensatie wordt uitgevoerd op de hoofdtussenstreken 045°, 135°, 225° en 315°.
+Hellingsmagneet.
+Coëfficiënt J wordt gecompenseerd met een verticale permanente magneet onder het kompas. Compensatie is slecht goed mogelijk voor één breedte en de resterende deviatie is het grootst op de koersrichtingen noord en oost.

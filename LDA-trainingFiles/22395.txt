@@ -1,0 +1,13 @@
+Cursor.
+Tekstcursor.
+De tekstcursor is meestal een horizontaal knipperend streepje op de plaats waar het eerstvolgende getypte teken komt. Ook andere vormen komen voor: een blokje of een verticaal streepje vóór het volgende teken.
+Muiscursor.
+De muiscursor heeft standaard de vorm van een pijltje. De cursor kan echter andere vormen aannemen, bijvoorbeeld een zandloper als je moet wachten omdat er gegevens verwerkt worden, of een handje als je de cursor over een koppeling beweegt. Bij tekstverwerking verandert de cursor in een verticale lijn.
+Bij sommige besturingssystemen verdwijnt de muisaanwijzer (het pijltje) als in een tekstveld iets wordt ingetypt.
+Variaties.
+Sinds de jaren 90 zijn er voor Windows-gebruikers bestanden te downloaden waaruit de pc-gebruiker kan kiezen om de cursor een ander uiterlijk te geven.
+Vanaf 2004 is het bij sommige Linuxdistributies mogelijk om voor de cursor een PNG-bestand te kiezen.
+Cursor in een database.
+De term cursor wordt ook gebruikt om een deelverzameling rijen aan te geven, die met een SQL-statement uit een database zijn geselecteerd. Deze cursor gedraagt zich min of meer als een zelfstandige tabel, die bijvoorbeeld sequentieel kan worden verwerkt.
+Cursor bij een datacontainer.
+Een cursor is een iterator waarvan de doorlooplogica in de container opgeslagen ligt.

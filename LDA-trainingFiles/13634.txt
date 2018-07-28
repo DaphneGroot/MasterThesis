@@ -1,0 +1,14 @@
+Gyrobus.
+Een Gyrobus uit 1955, het enige overgebleven exemplaar
+Het interieur, met in het midden het vliegwiel
+De gyrobus is een elektrisch aangedreven autobus die vanaf de jaren 40 is ontwikkeld door de Zwitserse firma Oerlikon. De eerste Gyrobus werd in 1950 gedemonstreerd. De naam komt van het Griekse woord "gyros" (γύρος) dat schijf of draaitol betekent.
+Werking.
+De elektrische energie van de gyrobus is niet afkomstig van een bovenleiding zoals bij de trolleybus maar van een generator die wordt aangedreven door een 1500 kilo zwaar vliegwiel in de bus. Bij de haltes langs de route klapt de Gyrobus een uit drie stangen bestaande stroomafnemer omhoog om krachtstroom (driefase wisselstroom) af te nemen voor een elektromotor die het vliegwiel op snelheid brengt - tot zo'n 3000 omwentelingen per minuut. Nadat de stroomafnemer is ingetrokken fungeert de elektromotor als generator, aangedreven door het vliegwiel. De hiermee opgewekte elektriciteit drijft een tweede elektromotor aan die zich achter in de bus bevindt. Deze elektromotor verzorgt de aandrijving van de bus. Remenergie wordt (gedeeltelijk) gebruikt om het vliegwiel weer op toeren te brengen (regeneratief remmen). Het vliegwiel draait in een gasdichte behuizing onder in de bus, gevuld met waterstof op onderdruk om energieverlies door wrijving te beperken.
+Voordelen.
+De Gyrobus stoot geen uitlaatgassen uit, en is dus een zero-emissions vehicle, maakt weinig lawaai, is flexibeler dan een tram doordat hij geen rails nodig heeft en er hoeft geen bovenleiding voor te worden aangelegd zoals bij een trolleybus.
+Nadelen.
+De constructie, een 1500 kilo zwaar vliegwiel in een gasdichte behuizing, plus de generator, voegt bijna drieduizend kilo toe aan het totaalgewicht van de bus, met een hoge asdruk als gevolg. Het vliegwiel ging als een gyroscoop werken, waardoor de bus slecht een bocht kon nemen. Ook lag het stroomverbruik hoog (bijna 3 kilowattuur), terwijl een tram meer passagiers kon vervoeren bij een lager verbruik.
+Het belangrijkste probleem was echter dat de bus niet altijd op tijd het volgende oplaadpunt haalde en dan stil kwam te staan.
+Exploitatie.
+In Zwitserland werden 27 gyrobussen van 1953 tot 1960 ingezet tussen Yverdon-les-Bains en Grandson, een afstand van 4 kilometer. In Belgisch-Kongo waren in de hoofdstad Leopoldstad 12 stuks in gebruik (volgens sommige bronnen 17 stuks).
+Bij de NMVB in België hebben tussen 1956 en 1959 drie gyrobussen proefgereden op de lijn Gent Zuid - Merelbeke Molenhoek. Een hiervan, de G3, is gerestaureerd. Deze laatste overgebleven gyrobus ter wereld staat thans in het Vlaams Tram- en Autobusmuseum in Antwerpen.

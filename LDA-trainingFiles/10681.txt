@@ -1,0 +1,10 @@
+Motregen.
+Motregen is een neerslagsoort in de vorm van regen waarbij de waterdruppels een kleinere diameter hebben dan 0,5 mm. Hierdoor vallen de druppels langzaam naar beneden. Motsneeuw is de sneeuwvariant.
+Deze vorm van neerslag valt vaak uit stratusbewolking direct achter een warmtefront of uit stratocumulus wolken waarbij de regendruppels direct uit botsingen van waterdruppeltjes ontstaan. De wolken heten nu nimbostratuswolken (nimbus = regen bevattend).
+Ook bij dichte tot zeer dichte mist kan motregen voorkomen wanneer de toegenomen wind onderling botsingen veroorzaakt tussen de kleinere mistdruppeltjes. Deze groeien vervolgens aan waardoor lichte motregen kan optreden. In de winter kan dit ook motsneeuw zijn.
+Onderkoelde motregen valt wanneer de druppeltjes een temperatuur beneden nul hebben en bevriezen zodra deze het aardoppervlak of een voorwerp raken. Zodoende ontstaat een dun laagje helder ijs, ijzel genaamd.
+Motregen is nauwelijks en vaak niet duidelijk op een neerslagradar te zien, omdat de diameter van de motregendruppels te klein is voor de radarpulsen in de golflengte waarin deze uitgezonden worden. Wanneer er sprake is van zware motregen (liever: dichte motregen), zijn dikwijls radarecho´s met een kleine intensiteit zichtbaar.
+Dat motregen langzamer naar beneden valt is niet tegenstrijdig aan de wetten van Newton, die aangeven dat de materie van gelijke vorm en soortelijk gewicht dezelfde valsnelheid heeft. Hierbij wordt er namelijk van uitgegaan dat materie dezelfde luchtweerstand heeft en dat er geen luchtwervelingen zijn.
+Symbolen.
+WMO (SYNOP): 50 t/m 57 (58 t/m 59 = motregen gemengd met regen)
+ICAO (METAR/SPECI/TAF): DZ (licht: -DZ matig: DZ zwaar: +DZ)

@@ -1,0 +1,6 @@
+Portfolio-analyse.
+De portfolio-analyse wordt in de marketing gebruikt bij beslissingen over investeringen in product-marktcombinaties (het portfolio) waarin de organisatie actief is. Ook uitgaven voor onderzoek en ontwikkeling kunnen als investeringen in een portfolio worden gezien. Een portfolioanalyse geeft inzicht in de mate van aantrekkelijkheid: hoe groot is de bijdrage van de product-marktcombinatie aan de continuïteit van de organisatie (bedrijf, non-profitinstelling). Het doel is een mix van product-marktcombinaties die op korte en op langere termijn in balans is. De portfolio-analyse ondersteunt beslissingen die hiervoor genomen moeten worden.
+Verschillende product-marktcombinaties worden in een matrix weergegeven, met op de ene as de verschillende (deel-)markten waarop de organisatie actief is, en op de andere as de producten die de organisatie biedt. Elk van de vakken van de matrix vormen een combinatie van een product met een (deel-)markt.
+Voor elke combinatie wordt de marktpositie ingevuld: de verwachte cashflow van de product-marktcombinatie voor de organisatie.
+Een organisatie zal een goede mix van product-marktcombinaties moeten hebben, zowel producten in opkomst, als producten die geld opleveren (zogenaamde "cashcows").
+Er bestaan verschillende portfoliomodellen; de BCG-matrix en de McKinsey-matrix zijn de bekendste.

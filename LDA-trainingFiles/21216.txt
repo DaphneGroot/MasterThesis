@@ -1,0 +1,2 @@
+Distributed Folding.
+Distributed Folding was een distributed computing project dat zich als doel heeft gesteld om via het vouwen van eiwitten erachter te komen wat er mis gaat bij verschillende ziekten. Het project is gestopt op 5 oktober 2004.

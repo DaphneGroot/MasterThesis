@@ -1,0 +1,14 @@
+Interval (wiskunde).
+In de wiskunde is in een verzameling waarop een totale ordening is gedefinieerd, een interval een deelverzameling waar geen tussenliggende elementen ontbreken. Als de hele verzameling "uit één stuk" is, zou men kunnen zeggen dat een interval een deelverzameling is die ook uit één stuk is. De eigenlijke intervallen bestaan uit alle getallen die zich tussen twee gegeven getallen, de "eindpunten", bevinden, waarbij elk eindpunt al dan niet meegerekend wordt. Oneigenlijke intervallen zijn deelverzamelingen die slechts aan één zijde begrensd zijn door een eindpunt. Verder is er nog de hele verzameling, die volgens de genoemde definitie ook een interval is.
+Notatie.
+Bij een zogenaamd gesloten interval doen de eindpunten mee,
+bijvoorbeeld: formula_1.
+Bij een open interval doen de eindpunten niet mee,
+bijvoorbeeld: formula_2.
+Verder kan een interval (links of rechts) half open zijn.
+Opmerking.
+Zoals wel vaker in de wiskunde zijn er meer definities in zwang voor eenzelfde begrip.
+Zo staat voor vele wiskundigen interval voor wat hiervoor "open interval" wordt genoemd, en staat een segment voor wat hiervoor "gesloten eindig interval" wordt genoemd.
+Terminologie in toepassingen.
+Een tijdsinterval (interval van tijdstippen / momenten) wordt ook wel een periode, tijdvak of tijdperk genoemd. Een groep personen gedefinieerd in termen van een interval wordt wel een cohort genoemd, bijvoorbeeld een geboortecohort en een leeftijdscohort.
+De punten op een lijn met de coördinaat in een interval vormen een lijnstuk; bij een spoorweg spreekt men van een baanvak.

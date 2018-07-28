@@ -1,0 +1,31 @@
+PostScript.
+PostScript is een paginabeschrijvingstaal, Engels: page description language of PDL, oftewel een programmeertaal om tekst en afbeeldingen te beschrijven. PostScript is in de jaren 80 door Adobe ontwikkeld. Toen werd afdrukken nog meestal met matrixprinters of met plotters gemaakt, PostScript moest voor beide geschikt zijn. Laserprinters combineren de mogelijkheden van de matrixprinter en de plotter, een PostScript-bestand zou in principe door iedere laserprinter hetzelfde moeten worden geprint.
+Tegenwoordig wordt PDF veel meer gebruikt dan PostScript. PCL van Hewlett Packard is een tegenhanger van PostScript.
+PostScript-bestanden hebben meestal de extensie ps. PostScript-bestanden zijn vaak aanzienlijk groter dan PDF-bestanden, omdat in PDF afbeeldingen beter worden gecomprimeerd. Aan de andere kant is PostScript een volwaardige programmeertaal, waarin het mogelijk is om een herhaling te specificeren, terwijl PDF dat niet kan. Bijvoorbeeld 1000 keer een afbeelding genereren kan in PostScript met een herhaling, in PDF moet de afbeelding 1000 keer worden opgenomen.
+Ook kunnen PostScript-bestanden naar PDF worden omgezet. Met een gratis 'PostScript-driver' is het mogelijk om vanuit ieder programma naar een PostScript-bestand te "printen".
+De taal.
+De uitvoering van PostScript gebeurt door de RIP, de Raster Image Processor, meestal een vast onderdeel van de printer. Er bestaan ook RIP's, die als programma op een afzonderlijke computer draaien. Dat is het geval bij Ghostview, een programma waarmee de ps-bestanden kunnen worden bekeken.
+PostScript is, net als Forth een stack-georiënteerde taal. Dat wil zeggen dat alle argumenten van een operand stack komen en alle resultaten weer op dezelfde operand-stack terug worden geplaatst. Deze indeling maakt PostScript erg flexibel en erg snel. De taal gebruikt postfixnotatie. Dit gebruik van de stack heeft als voordeel dat de interpreter zeer eenvoudig, dus snel kan zijn. Er bestaan printers die een ingebouwde PostScript-module hebben en zelf programma's kunnen uitvoeren en het resultaat afdrukken.
+Variabelen worden opgeslagen in een dictionary, of dict, wat in feite niet veel meer is dan een associatieve array, waarin literals, letterlijk op te vatten woorden) de keys vormen. Deze dicts zijn ook weer georganiseerd in een stack, de dictstack, die van boven naar onder worden doorzocht.
+Voor wie er niet aan gewend is kan het lastig zijn om op deze manier te programmeren. Dit komt voornamelijk omdat de plaatsing van operanden niet erg intuïtief is en er geen enkele vorm van controle mogelijk is voor wat betreft procedure-aanroepen.
+PostScript-versies.
+De functionaliteit van PostScript is tweemaal uitgebreid. De nieuwe versies zijn op een enkele uitzondering na compatibel met de oudere.
+De eerste versie PostScript verscheen in 1984.
+PostScript Level 2 verscheen in 1991. Het is een volledig compatibele uitbreiding, die sneller en betrouwbaarder werkt dan Level 1. Toegevoegd werd bijvoorbeeld ondersteuning voor ingebedde JPEG-afbeeldingen. Enkele functies werden toegevoegd met het oog op interactief gebruik met Display PostScript.
+Deze versie kwam uit in 1997. De naam werd PostScript 3. De nadruk bij deze uitbreiding lag op een nieuw kleurenmodel, DeviceN, dat moet garanderen dat kleuren met de hoogst mogelijke nauwkeurigheid op alle apparatuur worden weergegeven. Verder zijn Hexachrome- en Duplex-ondersteuning toegevoegd voor de In-RIP-Separation. Behalve voor copypage is PostScript 3 compatibel met Level 1 en 2.
+Afbeeldingen EPS.
+In plaats van hele pagina's of documenten kan PostScript ook worden gebruikt als afbeeldingsformaat, net zoals JPEG of PNG. We spreken dan van Encapsulated PostScript, de bestandsextensie is eps.
+Document Structure Conventions.
+De Document Structuring Conventions DSC is een standaard voor PostScript, die de structuur van een bestand beschrijven in commentaarregels. Commentaar begint met "%" en DSC begint met "%%".
+Er is geen betrouwbare manier om van tevoren te bepalen hoeveel pagina's een document bevat, hoe groot een bepaalde pagina is of hoe je naar een bepaalde pagina moet springen. Dit wordt veroorzaakt doordat PostScript een Turing-volledige programmeertaal is. De toevoeging van structuur en het toegankelijk maken daarvan met DSC-commentaarregels helpt andere programma's of printers om de pagina's in een andere volgorde te zetten, of uit te vinden hoe groot een pagina is. Bijvoorbeeld om een PostScript-bestand als illustratie in een ander document te gebruiken. Dergelijke programma's worden document manager genoemd.
+Enkele DSC-beschrijvingen hebben een tweede functie, nl. het aangeven aan document managers, dat een lettertype of andere PostScript-programmatuur, resources, moet worden toegevoegd.
+DSC is de basis van encapsulated PostScript EPS, waarvoor, naast het vereist zijn van DSC, nog meer restricties gelden.
+Een voorbeeld van een PostScript-programma.
+20 scalefont % lettergrootte instellen op 20 punten
+setfont % en instellen als het te gebruiken lettertype
+50 50 moveto % (50, 50) instellen als startpositie op de pagina voor het afdrukken van tekst
+(Hallo Wereld!) show % en daar de tekst neerzetten
+showpage % en de pagina afdrukken / weergeven
+Dit programma schrijft „Hallo Wereld!“ in de linkeronderhoek van een pagina.
+Een voorbeeld van DSC.
+%%Creator: dvips(k) 5.95a Copyright 2005 Radical Eye Software

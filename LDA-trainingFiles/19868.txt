@@ -1,0 +1,4 @@
+IRIX.
+IRIX is het Unix-besturingssysteem van het Amerikaanse bedrijf Silicon Graphics, Inc dat in 1982 werd opgericht. IRIX wordt vaak ingezet bij het verwerken van digitale media voor professionele doeleinden. Het bestandssysteem XFS is voor IRIX ontwikkeld door hetzelfde bedrijf.
+Versies.
+"IRIX 6.5" is SGI's vijfde generatie van IRIX. Het voldoet aan vele standaarden, waaronder POSIX, UNIX 95 en UNIX System V Release 4. De laatste versie van IRIX is versie 6.5.30, uitgebracht op 16 augustus 2006. Deze versie werd ondersteund tot december 2013.

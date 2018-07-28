@@ -1,0 +1,5 @@
+BootP.
+Bootstrap Protocol (BOOTP) is een onderdeel van de IP-suite dat wordt gebruikt om hosts op een computernetwerk automatisch van een IP-adres en aanverwante informatie te voorzien. De standaard wordt gedefinieerd in RFC 951 uit 1985.
+Bootp gebruikt UDP-verkeer over poorten 67 en 68 om informatie te achterhalen over het eigen IP-adres en de gateway. Daarnaast kan een bootfile gespecificeerd worden waardoor schijfloze werkstations hun opstartprocedure kunnen doorlopen. De bootfile wordt doorgaans opgehaald middels TFTP. Binnen het pakket is ook ruimte om informatie te verschaffen over bijvoorbeeld het subnet masker en DNS-server adressen.
+In tegenstelling tot het nieuwere DHCP kent BOOTP IP-adressen niet dynamisch toe. Het MAC-adres van de client wordt opgezocht in een tabel op de server.
+Een andere manier om computers te "bootstrappen" is RARP.

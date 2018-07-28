@@ -1,0 +1,22 @@
+Vacuüm.
+Een vacuüm is een ruimte zonder materie en zonder druk. In dagelijks taalgebruik hanteert men ook wel de term luchtledig, omdat de afwezigheid van lucht een sterk verlaagde druk veroorzaakt. In een theoretisch perfect vacuüm bedraagt de druk 0 pascal (Pa).
+Absoluut vacuüm.
+Uit de kwantumveldentheorie volgt dat een absoluut vacuüm, in de zin van een ruimte zonder deeltjes, theoretisch niet kan bestaan. Het vacuüm, dat wordt gedefinieerd als de toestand met de laagste energie, bevat een veelheid aan virtuele deeltjes, die onder meer verantwoordelijk zijn voor het Casimir-effect en het Higgs-veld.
+Aarde.
+Op aarde oefent de atmosfeer op zeeniveau een druk uit van 1 atmosfeer, 1 bar, of rond de 101.000 Pa (± 101 kPa).
+Buiten de dampkring.
+Buiten de dampkring is het vacuüm veel beter dan ieder vacuüm dat op aarde gerealiseerd kan worden. Wetenschappelijke proeven waarvoor een hoog vacuüm nodig is, worden dan ook aan boord van satellieten uitgevoerd. In de interstellaire ruimte is het vacuüm nog beter. Zelfs dat haalt het niet bij wat er heerst in de intergalactische ruimte, tussen de sterrenstelsels.
+Vacuümwaarden.
+De atmosferische druk is ongeveer 101,325 kPa of 1 Atm (met variaties die gebruikt worden bij weersvoorspellingen, en afname met hoogte).
+Opm: De laatste 3 waarden zijn met een redelijke nauwkeurigheid, maar zeker niet absoluut. De laatste waarde is een berekende benadering door andere verschijnselen dan een vacuümmeter verkregen.
+Technisch vacuüm maken.
+Een perfect vacuüm is alleen theoretisch mogelijk. Een technisch gemaakt vacuüm zal nooit perfect of absoluut zijn.
+Indeling.
+Vacuüm maakt men met vacuümpompen door een gedeeltelijk vacuüm creëren met het verplaatsen van lucht. Op aarde is hiervoor een vat nodig. Door lucht uit een afgesloten vat te pompen (het vat vacuüm te maken), vermindert de druk in het vat. Hoe meer lucht uit het vat gepompt wordt, hoe lager de druk. De druk in het vat, die lager is dan buiten het vat, heet een onderdruk. Nadert de druk tot nul dan is er sprake van een maximaal vacuüm of vrijwel luchtledig. De capaciteit van de pomp speelt hierbij een grote rol: de minimaal te behalen einddruk wordt bepaald door het evenwicht tussen wandontgassing en pompcapaciteit.
+Water- en andere moleculen die aan de wand hechten en gassen die in de wand gediffundeerd zijn zullen vrijkomen. Die continue gasstroom beïnvloedt de kwaliteit van het vacuüm negatief.
+Geschiedenis van de vacuümtechniek.
+Aristoteles heeft beweerd dat een luchtledig niet kon bestaan omdat het bestaan ervan een logische tegenstrijdigheid zou inhouden (horror vacui). Het was Torricelli die met zijn experimenten met buizen gevuld met kwik aantoonde dat dat niet waar was. Daarmee begaf Torricelli zich op glad ijs, omdat de kerk in zijn dagen iedere afwijking van de norm der Ouden met argusogen bekeek.
+Uit het onderzoek van Torricelli bleek inderdaad dat zich in de ruimte boven een kwikkolom geen lucht bevond. Dit heet het "vacuüm van Torricelli". Dit is echter geen perfect vacuüm doordat het kwik zelf ook een dampspanning heeft doordat de kwikatomen verdampen. De druk is dus niet volledig nul.
+Vrije weglengte.
+Bij atmosferische druk staan de moleculen van een gas dichter bij elkaar dan bij een luchtdruk die het maximale vacuüm benadert. De gasmoleculen bewegen met hoge snelheid en botsen tegen elkaar. Bij verminderde luchtdruk wordt de vrije weglengte, de afstand die een molecuul gemiddeld af kan leggen alvorens een volgende botsing te ondergaan, groter en zullen de moleculen dus minder vaak botsen.
+Het door middel van een vacuüm vergroten van de vrije weglengte van de moleculen heeft veel toepassingen: computer- en televisiescherm, oscilloscoop, massaspectrometer, elektronenmicroscoop, deeltjesversneller, het opdampen (bijvoorbeeld van een cd), fabricage van geïntegreerde schakelingen, testen van kunstmanen.

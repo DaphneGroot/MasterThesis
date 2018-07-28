@@ -1,0 +1,9 @@
+Waterkracht.
+Waterkracht is energie die wordt ontleend aan water, hetzij door gebruik te maken van een hoogteverschil hetzij door gebruik te maken van de stroomsnelheid van water. Men spreekt ook van "witte steenkool". Met het "witte" doelde men vooral op de kleur van het schuimende water en op het schone karakter van dit type energie.
+Tegenwoordig wordt vrijwel alle waterkracht omgezet in elektriciteit in waterkrachtcentrales, in het verleden werd de opgewekte mechanische energie ook wel meteen gebruikt, bijvoorbeeld om water op te pompen met een watermolen.
+Achtergrond.
+Het gebruik van waterkracht is al eeuwen oud. Reeds in het Oude Egypte en Mesopotamië werd waterkracht gebruikt voor irrigatie. In India en het Romeinse Rijk kende men reeds systemen om molens en wielen aan te drijven met waterkracht. In China werden sinds de Handynastie watermolens op grote schaal toegepast, bijvoorbeeld voor het delven van erts.
+Tegenwoordig kent men waterkracht vooral van waterkrachtcentrales, waarin stroom wordt opgewekt. Dit principe werd voor het eerst toegepast in 1886 door Westinghouse en Stanley. Een stuwdam kan smelt- en regenwater opvangen in een kunstmatig meer. Een waterkrachtcentrale met stuwdam levert vooral bij grote hoogteverschillen (Noorwegen, Zwitserland, Oostenrijk, Frankrijk) veel vermogen. Een riviercentrale heeft geen waterreserve om de schommelingen in het debiet op te vangen.
+Bij een pompcentrale of spaarbekkencentrale wordt water in de daluren opgepompt naar hoger gelegen bekkens. Tijdens de piekuren stroomt het water terug en drijft de turbines aan. Op deze manier kan men elektriciteitscentrales die bij voorkeur op constant vermogen draaien (met name kolencentrales en kerncentrales) economisch beter benutten.
+Berekeningen.
+Waterkracht kan worden uitgedrukt als het beschikbare vermogen, ofwel energie per tijdseenheid. In grote reservoirs is het vermogen doorgaans een functie van de stijghoogte en de stroomsnelheid.

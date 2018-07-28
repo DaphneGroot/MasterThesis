@@ -1,0 +1,18 @@
+Smartphone.
+Een van de eerste smartphones (1996)
+Een van de eerste Windows Phones (2010)
+Een smartphone is een mobiele telefoon die uitgebreidere computermogelijkheden biedt. Een smartphone kan ook beschouwd worden als een handcomputer of pda die tegelijk ook een telefoon is. In 2013 werden er meer dan één miljard smartphones verkocht.
+Kenmerken.
+Veel mobiele telefoons bieden de mogelijkheid om adressen en afspraken op te slaan, mobiel internet (e-mailen, op internet surfen en chatten), muziek te beluisteren en filmpjes te bekijken, maar een smartphone biedt vaak nog iets meer. Ze kunnen bijvoorbeeld een ingebouwde gps-ontvanger hebben, de mogelijkheid hebben om te synchroniseren met Microsoft Outlook of Lotus Notes, en/of de mogelijkheid om verbinding te maken met bedrijfsnetwerken.
+Besturingssysteem.
+Googles Android en Apples iOS waren in 2013 samen goed voor 93,8 procent van de verkochte mobiele toestellen. Android is marktleider, met meer dan 75% van alle verkochte toestellen.
+Bediening.
+Smartphones worden vaak bediend via een aanraakscherm (touchscreen). Een doorsnee smartphone heeft een scherm van tussen de 3 en 5 inch (groter dan 5,5" wordt een tablet of phablet genoemd). Soms wordt er ook gebruikgemaakt van een pennetje en/of een toetsenbordje met voor iedere gewone letter een aparte toets. In tegenstelling tot vaste keyboards kan er op een touchscreen ook al slepend getypt worden met een vinger (swipen). Voor het invoeren van bijzondere karakters is er een speciale procedure. De "é" en "ë" kunnen bijvoorbeeld soms geselecteerd worden uit een menu dat verschijnt als de "e" extra lang ingedrukt wordt gehouden. Ook komt bediening via de stem steeds vaker voor. Met stemherkenningssoftware is het mogelijk woorden te dicteren en de telefoon opdrachten te laten uitvoeren. Bij sommige smartphones is ook al bediening met de ogen mogelijk, hoewel deze techniek nog in de kinderschoenen staat.
+Gewicht en afmetingen.
+Het gewicht van een smartphone is meestal tussen de 100 en 200 gram, terwijl een mobiele telefoon vaak wat minder dan 100 gram weegt. Een netbook is zwaarder met een gewicht tussen de 600 en 1500 gram. Door verbeterde technieken is het mogelijk om de telefoon stukken smaller te maken rond het scherm, alsmede de dikte. Een smartphone heeft gemiddeld een dikte van tussen de 7 en 12 millimeter, terwijl er ook al smartphones van rond de 6,5 millimeter zijn.
+Applicaties.
+Op een smartphone is het ook mogelijk om uitgebreide programma's te draaien. Er kunnen bijvoorbeeld spellen voor gemaakt worden die intensief gebruikmaken van 3D. Een traditionele mobiele telefoon is ook in staat om J2ME-programma's te draaien, maar die programma's hebben vaak minder functionaliteit door het beperktere werkgeheugen. Er zijn vele programma's beschikbaar om de smartphone aan eigen wensen aan te passen. Deze programma's worden apps genoemd. Vaak kunnen deze "apps" gedownload worden in een applicatiewinkel, waar deze zowel gratis als betaald kunnen zijn. Door de steeds geavanceerder wordende technologie kunnen deze apps ook op tablets worden gedraaid.
+Bellen.
+Bellen kan geheel via GSM, geheel via het datanetwerk (VoIP), of via het datanetwerk met een verbinding tussen de VoIP-provider en de opgeroepen persoon via GSM.
+Camera's.
+Een smartphone heeft vaak zowel aan de achterkant als aan de voorkant een camera (de laatste, de frontcamera, voor o.a. het maken van een selfie).

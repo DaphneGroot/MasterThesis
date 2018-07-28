@@ -1,0 +1,65 @@
+Oplossen van vergelijkingen.
+Het oplossen van vergelijkingen is een term uit de wiskunde die aangeeft hoe de waarde(n) van onbekenden bepaald worden uit een of meer vergelijkingen. Een vergelijking bestaat daarbij uit twee wiskundige uitdrukkingen die aan elkaar gelijkgesteld zijn.
+Oplossen van algebraïsche vergelijkingen.
+Algebraïsche vergelijkingen heten oplosbaar door middel van worteltrekking als het mogelijk is de oplossingen van deze vergelijkingen te berekenen door uitsluitend gebruik te maken van optellen, aftrekken, vermenigvuldigen, delen en worteltrekken. Voor de vergelijkingen van graad een tot vier bestaan er inderdaad dergelijke oplossingsmethodes. Voor vergelijkingen van graad vijf of hoger bestaan zulke algemene oplossingsmethodes niet. Wel kunnen benaderingsmethodes gebruikt worden, of kunnen er speciale methodes gebruikt worden, die op zijn minst in sommige gevallen resultaat opleveren.
+Oplossingsmethode per type algebraïsche vergelijking.
+Dat we weten dat iedere polynoomvergelijking van de "n"-de graad "n" complexe wortels heeft, geeft nog geen expliciete uitdrukking voor die wortels.
+Voor "n" = 1 is de oplossing eenvoudig: de polynoomvergelijking "ax + b" = 0 met ("a" ≠ 0) heeft de wortel −"b/a".
+Voor "n" = 2 wisten Arabische geleerden uit de Middeleeuwen al dat de polynoom "ax2 + bx + c" ("a" ≠ 0) met reële coëfficiënten (een kwadratische functie) geen, een of twee reële nulpunten heeft al naargelang de discriminant formula_1 negatief, 0 of positief is. In het algemene, complexe geval hebben de twee nulpunten de waarden
+Voor "n" = 3 en "n" = 4 bestaan sinds de Renaissance gelijkaardige, zij het wat ingewikkelder, expliciete oplossingsmethoden, zie bijvoorbeeld de derdegraadsvergelijking. Lange tijd bleven wiskundigen zich het hoofd breken over de algemene oplossingsmethode van de vijfdegraadsvergelijking, totdat Niels Henrik Abel bewees dat een dergelijke oplossingsmethode niet bestaat. Moderne bewijzen van de stelling van Abel worden meestal gegeven aan de hand van de Galoistheorie.
+Toepassingen en het oplossen van lineaire vergelijkingen.
+Gegeven is: formula_3. Bereken het snijpunt A met de x-as.
+Deze manier van oplossen wordt ook wel de "balansmethode" genoemd. De waarde voor en achter het is-teken moet in balans blijven. Anders gezegd: er moet dezelfde berekening op worden toegepast.
+Twee lineaire vergelijkingen met twee onbekenden.
+In de wiskunde gebruiken we vergelijkingen bijvoorbeeld om een kromme in een tweedimensionaal coördinatensysteem vast te leggen.
+Voor het vastleggen van een "lijn" in een 2-dimensionaal systeem wordt een "lineaire" vergelijking gebruikt. Om het snijpunt van 2 lijnen te berekenen moet de oplossing worden gezocht van twee lineaire vergelijkingen met twee onbekenden. Elk van beide lijnen wordt namelijk gerepresenteerd door een lineaire betrekking tussen de coördinaten x en y. Het snijpunt van de beide lijnen heeft coördinaten x en y die aan beide vergelijkingen voldoen.
+Met uitzondering van evenwijdige lijnen, hebben twee rechte lijnen altijd een snijpunt. Als we het snijpunt willen weten, kunnen we de grafiek tekenen, maar dat kost erg veel tijd en veel papier als het snijpunt erg "ver" ligt. Om het snijpunt te vinden is het handiger de twee lineaire vergelijkingen op te lossen.
+Voorbeeld.
+Het punt formula_18 is dus het gezochte snijpunt.
+Derdegraadsvergelijking.
+Het oplossen van de derde- en vierdegraadsvergelijkingen gaat met behulp van de symmetrische functies van een polynoom. Voor derdegraadsvergelijkingen leidt dit tot de formule van Cardano.
+Irrationale vergelijkingen oplossen over het lichaam/veld van de reële getallen.
+Een irrationale vergelijking is een vergelijking waarin de onbekende onder een wortelteken voorkomt.
+Zo zijn formula_19 en formula_20 irrationale vergelijkingen, terwijl de vergelijking formula_21 dat niet is.
+Gelijkwaardige vergelijkingen en kwadrateren.
+Twee vergelijkingen heten gelijkwaardig als ze dezelfde oplossingenverzameling hebben. Zo zijn de vergelijkingen formula_22 en formula_23 gelijkwaardig. Die gelijkwaardigheid wordt aangeduid met het symbool " formula_24 ". Dus formula_25.
+Als beide leden van een vergelijking gekwadrateerd worden, krijgt men een nieuwe vergelijking die heel dikwijls niet gelijkwaardig is met de oorspronkelijke. De vergelijkingen formula_26 en formula_27 zijn niet gelijkwaardig. Elke oplossing van de eerste is ook oplossing van de tweede, maar niet omgekeerd. Dit wordt symbolisch weergegeven door de uitdrukking formula_28. De "gekwadrateerde" vergelijking heeft de oplossingen van de oorspronkelijke vergelijking, maar over het algemeen heeft die vergelijking er nog andere.
+Een vergelijking wordt veelal opgelost door achtereenvolgens de vergelijking te vervangen door gelijkwaardige vergelijkingen tot de oplossing voor de hand ligt.
+Voorbeeld 1.
+Los op: formula_29
+Om de vergelijking op te lossen moeten de wortelvormen weggewerkt worden. Als beide leden gekwadrateerd worden is er al een wortelvorm minder maar de nieuwe vergelijking kan meer oplossingen hebben dan de oorspronkelijke. Dit probleem kan vermeden worden door voorwaarden in de vorm van ongelijkheden aan de berekeningen toe te voegen, bv. formula_30. Een andere methode is de nu volgende. De voorwaarden worden weggelaten maar we onthouden dat we uiteindelijk waarden voor x kunnen vinden die geen oplossing zijn van de gegeven vergelijking. Men noemt dit parasitaire oplossingen. Het is voldoende alle gevonden oplossingen te testen in de gegeven vergelijking om de parasitaire oplossingen van de echte oplossingen te scheiden.
+Nogmaals beide leden kwadrateren en dan uitwerken. Er komt
+De oplossingen van die laatste vergelijking zijn formula_35 en formula_36. Deze oplossingen worden nu getest in de gegeven vergelijking. Alleen formula_35 is de enige oplossing van de oorspronkelijke vergelijking, de waarde 86 is een parasitaire oplossing en moet geschrapt worden.
+Voorbeeld 2.
+Los op: formula_38
+Voorbeeld 3.
+Los op: formula_44
+Na uitwerken en vereenvoudigen vindt men x = 5. Het is niet omdat dit de enige oplossing van die laatste vergelijking is,
+dat dit geen parasitaire oplossing kan zijn. Dus we toetsen 5 aan de gegeven vergelijking en zien dat het een echte oplossing is
+Goniometrische vergelijkingen.
+Een goniometrische vergelijking is een vergelijking waarbij een onbekende deel uitmaakt van het argument van een of meer goniometrische functies.
+Strategie.
+We starten met vier basisvaststellingen. Daarna wordt aangetoond dat heel veel goniometrische
+vergelijkingen opgelost kunnen worden door ze te herleiden tot een van deze basisvormen.
+Vergelijkingen die rechtstreeks tot de basisvormen kunnen herleid worden.
+Met elke waarde van "k" correspondeert een oplossing van de vergelijking.
+Maar formula_70 bestaat niet voor formula_71 !
+Dus de opgegeven vergelijking heeft geen oplossingen!
+Een hulponbekende gebruiken.
+Sommige vergelijkingen kunnen door middel van een substitutie herleid worden tot een algebraïsche vergelijking. Nadat de algebraïsche vergelijking is opgelost, kan men veel gemakkelijker de oplossingen van de goniometrische vergelijking vinden.
+Stel formula_73
+en dit kan gemakkelijk tot de basisvorm
+Soms kan een vergelijking eerst aangepast worden, zodat ze pas na een paar stappen tot een algebraïsche vergelijking te herleiden is.
+Stel nu formula_79.
+Ontbinden in factoren.
+Als men erin slaagt een op nul herleide vergelijking te ontbinden in factoren, valt de vergelijking uiteen in eenvoudiger vergelijkingen.
+Homogene vergelijkingen.
+We beschouwen vergelijkingen die homogeen zijn in sin(u) en cos(u).
+De eerste factor geeft formula_83
+Deze vergelijking kan verder opgelost worden met een hulponbekende formula_86
+Vergelijkingen van de vorm a·sin(u) + b·cos(u) = c.
+Voorbeeld: formula_87
+Stel formula_88.
+Er komt dan een algebraïsche vergelijking in t die verder kan opgelost worden.
+Andere vergelijkingen.
+Sommige vergelijkingen kunnen opgelost worden door verschillende besproken methodes op een gepaste manier te combineren. Bovendien moeten dikwijls omvormingen toegepast worden gebruik makend van gepaste goniometrische formules. Het is begrijpelijk dat ervaring en inzicht hierbij een grote rol spelen.

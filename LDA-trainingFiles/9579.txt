@@ -1,0 +1,3 @@
+Mkdir.
+mkdir ("make dir'"ectory") is een commando onder Unix en zijn varianten om een nieuwe directory aan te maken. Het is vergelijkbaar met het identieke commando onder DOS (onder DOS kan mkdir ook worden afgekort tot md).
+Er is ook een systeemaanroep mkdir() in de POSIX C-bibliotheek "sys/stat.h".

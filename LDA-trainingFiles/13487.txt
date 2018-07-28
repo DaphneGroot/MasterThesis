@@ -1,0 +1,9 @@
+JAR.
+JAR, dat staat voor Java ARchive, is het standaard datacompressie- en archiefformaat voor bestanden uit de programmeertaal Java. Het is ook een woordgrapje omdat een "jar" in het Engels een "kan" is. Een "jar" met "java" is dus een "kan" met "koffie".
+In plaats van JAR wordt bij distributie van J2EE-webmodules vaak de extensie WAR (Web ARchief), gebruikt. Deze speciale versie van het JAR-bestand kan worden losgelaten in een applicatieserver en wordt daarna vanzelf geïnstalleerd. Een ander J2EE-bestandsformaat is EAR, Enterprise ARchive. Een EAR-bestand kan bestaan uit meerdere WAR-bestanden, aangevuld met EJBs.
+Het is ook mogelijk om een digitale handtekening toe te voegen aan een JAR-bestand, zodat de gebruiker er zeker van kan zijn dat het programma niet aangepast is door derden.
+Structuur.
+Een JAR-bestand is qua structuur hetzelfde als een zipbestand, maar heeft daarbinnen een directorystructuur met een vast gedefinieerde indeling. Doordat een JAR-bestand ook een zipbestand is kunnen programma's die dit formaat kunnen weergeven ook worden gebruikt voor het weergeven van de inhoud van een JAR-bestand.
+Naast de Java-class- (klasse-)bestanden bevat het een extra bestand genaamd "META-INF/MANIFEST.MF", waarin wordt aangegeven hoe het JAR-archief gebruikt gaat worden.
+Maken en gebruiken.
+Deze bestanden kunnen gemaakt worden met het commando "jar", dat onderdeel is van de Java Development Kit (JDK). Maar ook normale ZIP-programma's kunnen gebruikt worden om JAR-bestanden aan te maken.

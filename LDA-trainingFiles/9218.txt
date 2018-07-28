@@ -1,0 +1,11 @@
+Topologische ruimte.
+Vier voorbeelden en twee niet-voorbeelden van topologieën op de drie-punten-verzameling. Het voorbeeld linksonder is geen topologie, omdat de vereniging (2,3) van (2) en (3) ontbreekt; het voorbeeld rechtsonder is geen topologie, omdat de doorsnede van en ontbreekt.
+Een topologische ruimte is een verzameling met een zodanige structuur dat er continue afbeeldingen (functies) op kunnen worden gedefinieerd. De tak van de wiskunde die zich bezighoudt met topologische ruimten en continue afbeeldingen daartussen, is de topologie.
+Definitie.
+Een dergelijke collectie open verzamelingen wordt een "topologie" op "X" genoemd. Het koppel formula_3 wordt dan een "topologische ruimte" genoemd. Een gesloten verzameling is een verzameling waarvan het complement open is.
+Basis.
+Een basis voor een topologische ruimte is een collectie open verzamelingen van formula_7 met de eigenschap dat iedere andere open verzameling van formula_7 geschreven kan worden als een vereniging van elementen van de basis. Topologische ruimten zijn eenvoudiger te bestuderen als ze beschikken over een basis met een beperkt aantal elementen (bijvoorbeeld aftelbaar), zelfs als de collectie van "alle" open verzamelingen veel groter is.
+De metrische ruimte formula_13 (met de gewone Euclidische afstandsfunctie) heeft overaftelbaar veel open verzamelingen, maar er bestaan aftelbare basissen - bijvoorbeeld: de open bollen met rationale straal en rationale coördinaten van het middelpunt.
+Categorieën van topologische ruimten.
+Men kan ruimten ook indelen naargelang van het bestaan van bases met een "klein" aantal open verzamelingen: de aftelbaarheidsaxioma's
+Andere eigenschappen die een ruimte 'hanteerbaarder' maken zijn: compactheid en separabiliteit.

@@ -1,0 +1,16 @@
+Amine.
+Met een amine kan in de chemie zowel een "atoomgroep" als een "stof" bedoeld worden.
+Atoomgroep.
+Dit wordt genoteerd als "alkyl(a)-alkyl(b)-alkyl(c)"-amine (tertiair amine), analoog wordt secundair amine genoteerd als "alkyl(a)-alkyl(b)"-amine en primair amine als "alkyl"-amine.
+Er wordt ook gesproken over eenwaardige (1 aminofunctie, bijvoorbeeld 2-butylamine), tweewaardige (2 aminofuncties op 2 verschillende C-atomen, bijvoorbeeld diaminoethaan) en driewaardige aminen (3 aminofuncties op 3 verschillende C-atomen, bijvoorbeeld 1,2,3-triaminopropaan).
+Net als bij de alkanolen zijn diamines met de aminogroepen aan hetzelfde koolstofatoom meestal niet stabiel.
+Stof.
+Een organische chemische verbinding met een aminogroep wordt ook amine genoemd.
+Ruimtelijke structuur.
+Aminen lijken in structuur op ammoniak, NH3. De omringing van het stikstofatoom is niet vlak, maar het stikstofatoom vormt een driehoekige piramide. Dit heeft te maken met het feit dat stikstof een vrij elektronenpaar draagt, dat relatief meer ruimte inneemt dan de waterstoffen. Hierdoor treedt er sp3-hybridisatie op, wat de piramidale vorm verklaart. Het vrij elektronenpaar op stikstof kan in de meeste gevallen doorklappen, de zogenaamde stikstofinversie.
+Ammoniak-achtig.
+Niet alleen de structuur van aminen lijkt op ammoniak. Ook de eigenschappen van aminen en ammoniak zijn vergelijkbaar. Net als ammoniak kunnen Amine-verbindingen waterstofbruggen doneren, en accepteren. Ze zijn ook basisch: ze kunnen, net als ammoniak, een extra H+ kation opnemen en daarmee samen een positief geladen groep vormen. Zo'n geladen groep kan alleen nog sterke waterstofbruggen doneren, niet meer accepteren.
+Geur.
+Aminen hebben een sterke, onaangename geur (ammoniak, rotte vis).
+Voorbeelden.
+De eenvoudigste amine is methylamine. De eenvoudigste aromatische amine is aniline. Aniline wordt gebruikt bij de productie van kleurstoffen en geneesmiddelen.

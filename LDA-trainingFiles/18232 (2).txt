@@ -1,0 +1,14 @@
+Intron.
+Schematische weergave van de introns en exons van een gen op een chromosoom
+Een intron (van Engels: intervening region'") is een stukje DNA dat zich bevindt in een gen maar dat niet wordt gebruikt om het eiwit te coderen. De delen van het gen die wel in het uiteindelijke mRNA terechtkomen, worden exons genoemd.
+De situatie is enigszins te vergelijken met een boek waar tussen de leesbare tekst door opeens enkele regels staan die uit willekeurige letters bestaan. Deze willekeurige letters zullen in het uiteindelijke "boek" ertussenuit gehaald worden, waardoor een verhaal zal ontstaan dat volledig leesbaar is.
+Introns worden verwijderd uit pre-mRNA moleculen door splicing.
+Vereenvoudigde weergave van de splicing waarbij introns uit het pre-mRNA molecuul verwijderd worden en de exons in het uiteindelijke mRNA overblijven.
+Voor het maken van een eiwit wordt eerst het hele gen door transcriptie overgeschreven, waarbij een pre-mRNA molecuul ontstaat, waarin zowel de introns als de exons aanwezig zijn. Van dit pre-mRNA molecuul wordt door een proces dat splicing heet het uiteindelijke mRNA molecuul gemaakt. Tijdens de splicing knippen speciale eiwitten de introns uit het pre-mRNA molecuul. Zij herkennen deze aan speciale stukjes code die het begin en einde van een exon aangeven, deze locaties worden splice sites ("split plekken") genoemd. De stukken van het gen die in het uiteindelijke mRNA molecuul overblijven worden exons genoemd.
+Het voorkomen van introns in diverse organismen.
+Niet alle organismen hebben introns tussen de exons van hun genen. Introns komen hoofdzakelijk voor in eukaryote organismen (organismen waarvan de cellen een celkern hebben). Het aantal en de lengte van de introns is ook sterk afhankelijk van het organisme. Zo heeft de kogelvis ("Takifugu rubripes") weinig intron-DNA. Zoogdieren en bedektzadigen hebben daarentegen talrijke introns, die vaak veel langer zijn dan de naastgelegen exons.
+Ontdekker.
+Voor de ontdekking dat een gen kan bestaan uit introns en exons kregen Richard J. Roberts, en Phillip A. Sharp in 1993 de Nobelprijs voor de Fysiologie of Geneeskunde.
+Functies.
+Soms beïnvloeden (delen van) introns de hoeveelheid eiwit die uiteindelijk van een gen afgeschreven wordt.
+In de wetenschappelijke wereld wordt veel gespeculeerd over verdere mogelijke functies van introns. Volgens de evolutietheorie zou het ongunstig zijn voor het organisme om grote delen van het DNA bij elke celdeling opnieuw te vermenigvuldigen (wat tijd en DNA-bouwstenen kost), als deze geen enkele functie zouden hebben. Aangezien de primitiefste organismen weinig introns hebben, en de hoogst ontwikkelde (waaronder de mens) de meeste, pleit dit ervoor dat introns een belangrijke functie moeten hebben, anders zouden ze niet ontstaan zijn en in stand gebleven zijn.

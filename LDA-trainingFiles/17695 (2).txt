@@ -1,0 +1,7 @@
+Ongelijkheid (wiskunde).
+Een ongelijkheid is in de wiskunde een relatie die iets zegt over de relatieve grootte van twee wiskundige objecten. Ongelijkheden berusten op de relatie "kleiner dan", genoteerd als "<", die aangeeft dat wat links van het ongelijkteken staat kleiner is dan wat rechts staat.
+Definitie.
+Van twee reële getallen a en b zeggen we dat a kleiner is dan b, genoteerd als "a < b", als er een positief getal c is, zodat a + c = b.
+Notatie.
+Binnen de verzameling van de reële getallen kunnen we bijvoorbeeld stellen dat formula_1 of formula_2. Deze ongelijkheden drukken uit dat a groter is dan 2, resp. b kleiner is dan c. De relaties < en > worden strikt genoemd, in tegenstelling tot formula_3 en formula_4 (kleiner resp. groter of gelijk aan).
+Ongelijkheden worden theoretisch vaak gebruikt om een boven- of ondergrens te bepalen voor grootheden, die niet eenvoudig berekenbaar zijn. Belangrijkste voorbeelden uit de maattheorie zijn de driehoeksongelijkheid, ongelijkheid van Cauchy-Schwarz, en ongelijkheid van Hölder, in de statistiek de ongelijkheden van Markov, Chebyshev en Cramér-Rao. In de praktijk komen ongelijkheden vrijwel altijd voor om voorwaarden op te leggen aan bepaalde onbekenden bij het oplossen van een systeem vergelijkingen.

@@ -1,0 +1,6 @@
+Millimeter.
+Een millimeter (0,001 meter), symbool mm, is een uit het SI-stelsel afgeleide lengtemaat met de grootte van een duizendste deel van een meter.
+"milli" is afgeleid van het Latijnse woord voor "duizend".
+De millimeter is de gebruikelijke eenheid om afmetingen op een technische tekening aan te geven.
+Regen.
+Daarnaast wordt de millimeter ook vaak gebruikt om een hoeveelheid regen op een oppervlak aan te geven, onafhankelijk van de grootte van dat oppervlak: een millimeter regen is een liter regen op elke vierkante meter (1 l/m² = 1 dm³/m² = 1 000 000 mm³ / 1 000 000 mm² = 1 mm³/mm² = 1 mm).

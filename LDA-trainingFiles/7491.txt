@@ -1,0 +1,7 @@
+Nulpunt.
+Een polynoom, met een nulpunt voor "x" = - 4, en een nulpunt voor "x" = 1
+Een nulpunt of nulwaarde van een functie (of afbeelding) is een element van het definitiegebied van de functie waarvoor de functiewaarde gelijk is aan nul. Dus "x" is een nulpunt van de functie "f", als "f(x)=0". Een functie kan geen, een, een eindig aantal of oneindig veel nulpunten hebben.
+Een nulpunt van een functie formula_1 is een snij- of raakpunt van de grafiek van de functie met de x-as.
+Veel praktische problemen in de wiskunde kunnen herleid worden tot het zoeken van een of meer nulpunten van een functie. Daartoe zijn technieken ontwikkeld, die uiteenlopen van potlood en papier tot numerieke benaderingen door een computerprogramma. Voorbeelden van dergelijke algoritmes zijn de methode van Newton-Raphson, de halveringsmethode en regula falsi.
+Meetschaal.
+Met het nulpunt van een meetschaal wordt het punt op de schaal aangegeven waar de schaal de waarde nul aanwijst. Niet alle meetschalen hebben een nulpunt. Als een schaal een betekenisvol nulpunt heeft, wordt dit een ratioschaal genoemd.

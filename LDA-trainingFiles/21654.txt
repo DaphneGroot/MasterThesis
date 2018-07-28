@@ -1,0 +1,4 @@
+Toon (geluid).
+Een toon is een voor het menselijk oor waarneembaar geluid met een vaste frequentie, toonhoogte genoemd, en een vaste klanksamenstelling, bepaald door de naast de grondtoon in de toon aanwezige boventonen.
+Een toon heeft een hoogte, die wordt gekenmerkt door het aantal trillingen per seconde, uitgedrukt in hertz (Hz).
+Een toon met een twee keer zo grote frequentie als een andere, dus een octaaf hoger, is daarvan de eerste boventoon, en klinkt voor ons gehoor daarom zeer nauw verwant daarmee.

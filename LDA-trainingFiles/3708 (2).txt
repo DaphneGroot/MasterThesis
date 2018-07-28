@@ -1,0 +1,9 @@
+Dynamisch testen.
+Bij nieuw ontwikkelde computerprogrammatuur is er aanvankelijk sprake van een testfase waarbij gekeken wordt of het programma aankan waar het voor bedoeld is. Daar zijn verschillende methoden voor.
+Voor een dynamische expliciete test wordt een aantal testgevallen opgesteld met de daarbij behorende verwachte uitkomsten. Nadat deze testgevallen zijn geaccordeerd worden deze in het te testen systeem ingevoerd. Voor het opzetten van een dergelijk testgeval kan gebruikgemaakt worden van al dan niet geformaliseerde testspecificatietechnieken.
+Dit invoeren kan op verschillende manieren plaatsvinden, afhankelijk van de omgeving en het type systeem. Zo zullen in systemen met een user interface zoals een Graphical User Interface (GUI), de waarden en acties via het scherm worden ingevoerd (syntactische test), terwijl bij een systeem zonder user interface gebruikgemaakt zal moeten worden van hulpmiddelen zoals stubs en drivers of gespecialiseerde testbanken.
+In alle gevallen geldt dat bij een dynamische expliciete test de testgevallen in het systeem worden ingevoerd en de verwachte resultaten in een rapport worden vastgelegd.
+Voor diverse dynamische tests kunnen hulpmiddelen worden gebruikt om de tests te automatiseren. Denk hierbij aan Capture & Playback tools voor uitvoeren van functionele tests op systemen met een user interface.
+Dynamische impliciete tests.
+Naast een dynamische expliciete test bestaan er ook dynamische impliciete tests. Dit betreft het vinden van fouten in de software, zonder dat daar specifieke testgevallen voor gemaakt zijn. De fouten worden gedurende een andere expliciete test gevonden.
+Naast de dynamische tests bestaan er ook Statisch testen.

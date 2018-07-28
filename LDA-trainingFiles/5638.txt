@@ -1,0 +1,6 @@
+Geluidsetiket.
+Het geluidsetiket is een etiket waarop fabrikanten het geluidsvermogen van gereedschap moeten vermelden.
+Het etiket is verplicht sinds 3 januari 2002. Door de fabrikanten van zo'n 60 soorten gereedschap wordt op het etiket vermeld hoeveel geluid het gereedschap maakt wanneer het wordt gebruikt.
+Het etiket is in de hele Europese Unie ingevoerd en informeert kopers en gebruikers over het geluid dat gereedschap maakt. Het doel is dat kopers van nieuwe apparaten hun keus mede laten afhangen van het geluid dat het gereedschap maakt.
+Op het etiket staat het LWA vermeld, het geluidsvermogensniveau. Er is een verband tussen dit vermogensniveau en de geluidsdruk LpA in dB(A): LpA = LWA - 8 - 20 x log d.
+Gereedschap met een geluidsvermogen van 100 dB(A) veroorzaakt op 10 meter afstand een geluidsdruk van 70 dB(A). Bij elke verdubbeling van de afstand neemt de geluidsdruk ongeveer 5 dB af. Dus op 20 meter afstand is de geluidsdruk 65 dB(A), op 40 meter afstand 60 dB(A). Voor het schatten van de geluidsdruk door een lawaaiiger stuk gereedschap, bijvoorbeeld van 104 dB(A), kan het verschil eenvoudigweg opgeteld worden bij deze voorbeelden.

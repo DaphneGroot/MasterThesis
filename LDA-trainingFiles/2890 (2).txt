@@ -1,0 +1,5 @@
+Massagetal.
+Het verband tussen massagetal, atoomnummer en aantal neutronen in de kern, met stabiele isotopen van de elementen waterstof (H) tot en met koolstof (C).
+Het massagetal van een atoom is de som van het aantal protonen en neutronen in de atoomkern. Het aantal protonen in een atoom is gelijk aan het atoomnummer. Het aantal neutronen in de kern van een atoomsoort kan verschillen. Twee atomen van dezelfde elementsoort met een verschillende massa worden isotopen genoemd. Het massagetal wordt als een superscript voor het symbool genoteerd, bijvoorbeeld 206Pb. Ook de notatie Pb-206 is geoorloofd.
+De (relatieve) atoommassa van een element is een gewogen gemiddelde over de massagetallen van de isotopen. De weging is gestoeld op de relatieve aanwezigheid van de isotopen in de vrije natuur. Zo is de atoommassa van chloor 35,453 omdat chloor in de natuur voorkomt als ongeveer 75% 35Cl en 25% 37Cl.
+Het massagetal van een gedefinieerde isotoop is niet gelijk aan de atoommassa van dat isotoop of aan de (relatieve) atoommassa van het element. (Aanvulling benodigd.)

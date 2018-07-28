@@ -1,0 +1,23 @@
+Chemische binding.
+Een chemische binding is een aantrekkende kracht tussen twee of meer atomen, ionen of moleculen. Chemische binding houdt de deeltjes in moleculen en in vloeistoffen en vaste stoffen bij elkaar.
+Verschillende types.
+De aard van de stof en de types bindingen in die stof hangen sterk met elkaar samen.
+Intramoleculaire bindingen.
+De bindingen die hieronder bij de intermoleculaire bindingen worden genoemd, spelen bij bepaalde soorten verbindingen ook binnen moleculen en belangrijke rol.
+Intermoleculaire bindingen.
+Gekristalliseerde vaste moleculaire stoffen hebben een kristalrooster dat molecuulrooster wordt genoemd.
+Zouten.
+Zouten zijn opgebouwd uit positief en negatief geladen ionen die samen een ionrooster vormen. De aantrekkingskracht tussen deze tegengesteld geladen deeltjes wordt de ionbinding genoemd.
+Zouten zoals bijvoorbeeld natriumsulfaat hebben een samengesteld ion. Binnen het samengesteld ion binden de atomen elkaar door middel van een covalente binding.
+Hydraten zijn zouten met kristalwater, bijvoorbeeld het gewone kopersulfaat, CuSO4 · 5 H2O. In een hydraat zijn met name de positieve ionen gehydrateerd, dat wil zeggen, omringd door watermoleculen. De aantrekking tussen de ionen en de watermoleculen wordt aangeduid als ion-dipoolkrachten. Een in water opgelost zout is in ionen uit elkaar gevallen. Deze ionen zijn ook gehydrateerd, de ion-dipoolkrachten komen dus ook in zoutoplossingen in water voor.
+Metalen.
+De aantrekkingskracht tussen de deeltjes in metalen wordt een metaalbinding genoemd. Een metaalrooster is opgebouwd uit metaalatomen en -ionen. Tussen die metaalionen bewegen valentie-elektronen min of meer vrij. De aantrekking tussen de metaalionen en die valentie-elektronen is sterker dan de afstoting tussen de metaalionen onderling waardoor het metaalrooster intact blijft.
+Ruimtelijke structuur.
+De ionen van zouten en de atomen van een metaal stapelen zich meestal als een dichtste stapeling (hdp, kvg); bij een moleculaire stof is een groot aantal stapelingen mogelijk, zie VSEPR-theorie.
+Bindingssterkte.
+Bindingssterkte is direct gerelateerd aan de verandering van enthalpie bij verbreking van een binding. Hoe meer warmte nodig is voor het verbreken van een binding, des te groter is de enthalpietoename en dus ook de bindingssterkte.
+Enthalpieveranderingen zijn te vinden in tabellen die zijn ingedeeld op basis van de soort binding.
+Intramoleculair.
+Bij vorming van een covalente binding komt er warmte vrij, de bindingsenthalpie is daardoor altijd negatief.
+Bindingssterkte bij metalen.
+De smelttemperatuur geeft een kwalitatieve indicatie over de bindingssterkte: hoe hoger de smelttemperatuur des te sterker de binding.

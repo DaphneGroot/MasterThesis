@@ -1,0 +1,12 @@
+Eclipse (software).
+Eclipse is een opensourceframework van de Eclipse Foundation voor software-ontwikkelomgevingen. De bekendste toepassing is het gebruik als IDE voor de programmeertaal Java. Het product wordt echter ook steeds meer aangewend voor het bouwen van applicaties boven op het Eclipseplatform (Rich Client Platform).
+De eerste versie van Eclipse, Eclipse 1.0, verscheen op 7 november 2001.
+Plug-ins.
+Eclipse heeft een open structuur en bestaat, behalve uit een kleine kern, volledig uit plug-ins. Hierdoor is het mogelijk de functionaliteit uit te breiden door nieuwe plug-ins te installeren. Door dit systeem kan men in Eclipse niet alleen in Java ontwikkelen, maar onder meer ook in C-talen, Perl, PHP, SQL en Scala. Bovendien zijn er plug-ins voor opmaaktalen zoals LaTeX. Sommige plug-ins worden door makers gratis aangeboden, anderen commercialiseren hun plug-ins.
+Eclipse wordt actief ondersteund door IBM, dat zijn eigen producten zoals "WebSphere Studio Site Developer", "WebSphere Studio Application Developer", "WebSphere Studio Enterprise Developer", "Lotus Notes" vanaf 8.0 en "WebSphere Development Studio Client for iSeries" bouwt rondom de Eclipsecode.
+Ook Zend Technologies, de ontwikkelaars van PHP, zijn bezig met het integreren van hun IDE (Zend Studio) als plug-in voor Eclipse.
+Ook Adobe, ontwikkelaar van diverse toepassingen en technologieën, maakt steeds meer gebruik van Eclipse. Zo zijn Flex Builder en Coldfusion Builder op Eclipse gebaseerd.
+De naam "Eclipse" (verduistering, maar met als duidelijke connotatie 'zonsverduistering') is opmerkelijk, omdat de Javawereld gedomineerd wordt door concurrent Oracle, voorheen Sun (zon). Eclipse is een poging om het concurrerende product NetBeans van Sun in de schaduw te stellen.
+Eclipse is geschreven in Java met behulp van de Standard Widget Toolkit.
+Uitgaven.
+Sinds 2006 wordt er ieder jaar, rond juni, een nieuwe versie uitgegeven van het Eclipse-platform en de meeste plug-ins; de zogenaamde Simultaneous Release. Iedere versie heeft een naam, die veelal iets met astronomie te maken heeft.

@@ -1,0 +1,5 @@
+Telerail.
+ATB bedieningsapparaat ("boven") Telerail bedieningsapparaat ("onder")
+Telerail was een radiografisch communicatiesysteem op vrijwel alle treinen in Nederland. Via telerail kon de treindienstleider contact opnemen met de machinist en omgekeerd. Tevens kunnen machinisten onderling communiceren. Oorspronkelijk was ook de verkeersleiding en de centrale meldkamer van de Spoorwegpolitie via telerail bereikbaar.
+Op 1-1-2007 is telerail vervangen door GSM-R.
+De telerailfrequenties bevonden zich tussen de 457 en 468 megahertz

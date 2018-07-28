@@ -1,0 +1,12 @@
+Gebruikersomgeving.
+Interactie tussen mens en computer via een aanraakscherm
+Dashboard en stuur van een auto
+Een gebruikersomgeving of gebruikersinterface, van het Engelse "user interface" (UI), ook wel mens-machine-interface of "man-machine interface" (MMI) of "human-machine interface" (HMI), is de interface (intermediair) tussen een computer (of andere machine) en de mens die de computer gebruikt. De gebruikersinterface maakt interactie tussen mens en machine mogelijk.
+Computers.
+De gebruikersomgeving is het totaal van alle delen van de hardware en software van een computer die gebruikt worden om de computer en de gebruiker te laten communiceren. Via de gebruikersinterface kunnen door de gebruiker gegevens worden ingevoerd met behulp van bijvoorbeeld een toetsenbord, muis of microfoon. Ook kan de computer gegevens en informatie tonen, bijvoorbeeld via een beeldscherm.
+Auto's.
+Bij een auto bestaat de gebruikersomgeving onder andere uit de pedalen, het stuur, het dashboardinstrumentarium, de handrem en de versnellingspook. De gebruikersomgeving van een automobilist omvat vaak ook een routenavigatiesysteem.
+Industriële systemen.
+In industriële systemen wordt een gebruikersomgeving meestal een HMI-systeem genoemd, wat een afkorting van "human-machine interface" is. Een HMI-systeem bestaat vaak uit een aanraakscherm met ingebouwde processor, geheugen en communicatiekaarten. De interface vergemakkelijkt het zichtbaar maken van gegevens voor de menselijke operator (visualisatie), het beïnvloeden van deze systemen (sturing) en het weergeven van alarmen. Voor de interface wordt vaak "Supervisory control and data acquisition" (SCADA)-software gebruikt.
+Via de gebruikersomgeving kan de bediener ("operator") de machine of delen ervan aan- of uitschakelen of snelheden veranderen. Naast besturen kan de operator ook van eventuele alarmen op de hoogte worden gebracht. Dit gebeurt als een te volgen systeem of parameter, ondanks de automatische regelingen, buiten zijn gedefinieerde toegestane ruimte komt. De "operator" kan dan via de gebruikersinterface ingrijpen om het proces te stabiliseren en te regelen.
+Een gebruikersomgeving van een industrieel systeem bevat meestal ook een trendingmodule. Hiermee wordt de historie van bepaalde variabelen bijgehouden en in een grafiek weergegeven. Hierdoor kan een "operator" het proces beter in de gaten houden en na een storing beter terug zoeken wat er mis is gegaan.

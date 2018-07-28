@@ -1,0 +1,9 @@
+Open kringproces.
+Als elke toestandsverandering van een kringproces in een gesloten systeem plaatsvindt, dan geldt voor deze toestandsverandering telkens de Eerste Hoofdwet voor gesloten systemen.
+formula_1
+Voor het hele kringproces geldt verder dat alle kringprocessen opgeteld worden.
+formula_2
+Eerder werd al gezegd dat begin en eindtoestand gelijk moeten zijn in een kringproces. Omdat het een gesloten systeem betreft, zijn de inwendige energie van begin- en eindtoestand gelijk.
+formula_3
+formula_4
+Dus de totale warmteoverdracht is gelijk aan de arbeid. Als beide termen negatief zijn spreken we van een negatief kringproces. Als beide termen positief zijn, van een positief kringproces.

@@ -1,0 +1,3 @@
+Berkeley Software Distribution.
+Berkeley Software Distribution (BSD) is een afgeleide van Unix van de Universiteit van Californië - Berkeley die in de jaren 1970 werd verspreid. De naam wordt ook gebruikt voor de moderne afgeleiden van deze distributie.
+Op dit moment bestaan er 4 hoofdvarianten die onder de BSD-licentie worden ontwikkeld: FreeBSD, OpenBSD, NetBSD en PC-BSD. De BSD-kern van het Apples macOS besturingssysteem, Darwin, is beschikbaar als een volledig functionele open source besturingssysteem voor x86 en PPC computers. De Aqua / Quartz grafische systeem en vele andere propriëtaire aspecten van Mac OS X blijven echter closed-source. Verschillende Darwin-ontwikkelaars zijn ook FreeBSD committers, en vice versa.

@@ -1,0 +1,11 @@
+Codomein.
+Afbeelding van een functie (f) van X (links) op Y (rechts). De kleinere mosterdgele ovaal in Y is het bereik van "f". Y is het codomein van "f".
+In de wiskunde is het codomein, of doel'", van een functie formula_1" de verzameling "formula_2".
+In tegenstelling tot het bereik, dat een "gevolg" is van de definitie van een functie, maakt het codomein deel uit van de "definitie" van een functie. Het bereik is een deelverzameling van het codomein en hangt af (dat wil zeggen is een gevolg van) van de definitie van het domein, het codomein en de grafiek van de functie
+Het "domein" van formula_3 is de verzameling formula_4.
+Voorbeelden.
+Het codomein van formula_3 is formula_9, maar het zal duidelijk zijn dat formula_3 niets afbeeldt op de negatieve getallen.
+Het bereik van formula_3 is dus de verzameling formula_12, dat wil zeggen het interval formula_13, waar dus
+Het blijkt dat formula_26 geen betekenis heeft. Laten we aannemen dat we niet weten wat het bereik van formula_3 is, we weten alleen dat het formula_9 kan zijn. Maar dan zijn we in de problemen omdat de wortel niet is gedefinieerd voor negatieve getallen. Nu hebben we een mogelijke tegenstrijdigheid omdat de functie formula_21, wanneer deze wordt samengesteld op de functie formula_3, misschien een argument krijgt dat deze functie "niet aankan."
+Deze onduidelijkheid moet worden weggenomen. Een functie-compositie vereist daarom per definitie dat het "codomein" van de functie aan de rechterkant van de samenstelling hetzelfde moet zijn als het domein van de functie aan de linkerkant van de samenstelling. Let op: het gaat hier om het codomein en uitdrukkelijk niet om het bereik van de functie. Het bereik is een gevolg van een functie en is op het niveau van functie-compositie per definitie onbepaald.
+Het codomein beïnvloedt de vraag of een functie surjectief is. In ons voorbeeld is "formula_33" een surjectie, terwijl formula_3 dat niet is. Het codomein heeft geen invloed op het feit of een functie al dan niet injectief is.

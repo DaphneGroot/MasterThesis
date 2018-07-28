@@ -1,0 +1,18 @@
+Kardinaliteit.
+In de verzamelingenleer, een deelgebied van de wiskunde, is de kardinaliteit van een verzameling de veralgemening van het "aantal elementen in een verzameling", die ook van toepassing is voor oneindige verzamelingen. Een verzameling is eindig, aftelbaar oneindig, of overaftelbaar. De kardinaliteit van een eindige verzameling is gewoon het aantal elementen. Alle aftelbaar oneindige verzamelingen hebben dezelfde kardinaliteit. Er bestaan overaftelbare verzamelingen van verschillende kardinaliteit.
+De kardinaliteit van een verzameling "A" wordt aangeduid met |"A"|, met een verticale streep aan elke kant; dit is dezelfde notatie als die voor absolute waarde. De betekenis is afhankelijk van de context. Soms wordt ook wel de notatie #"A" gebruikt.
+Er zijn twee manieren om het begrip kardinaliteit te benaderen — in de ene benadering vergelijkt men verzamelingen rechtstreeks door gebruik te maken van bijecties en injecties, in de andere maakt men gebruik van kardinaalgetallen.
+Twee verzamelingen hebben dezelfde kardinaliteit als ze een-op-een op elkaar kunnen worden afgebeeld, dat wil zeggen dat we aan elk element van de ene verzameling één en niet meer dan één element van de andere verzameling toevoegen, en vice versa (zie ook bijectieve functies). Deze verzamelingen worden dan "gelijkmachtig" of "equipotent" genoemd.
+Kardinaalgetallen.
+De kardinaliteiten van de oneindige verzamelingen worden aangeduid door
+Voor elke ordinaal "α", is formula_9 het kleinste kardinaalgetal groter dan formula_10.
+Eindige verzameling.
+Van een eindige verzameling is de kardinaliteit het aantal elementen in de verzameling; ook omgekeerd geldt: als de kardinaliteit van een verzameling een natuurlijk getal is, is die verzameling eindig. En twee eindige verzamelingen hebben dezelfde kardinaliteit als ze hetzelfde aantal elementen hebben.
+Oneindige verzameling.
+Een oneindige verzameling heeft altijd een hogere kardinaliteit dan een eindige (dat wil zeggen, we kunnen elk element van de eindige verzameling op één element van de oneindige verzameling afbeelden, maar omgekeerd kan dat niet). De laagste oneindige kardinaliteit is die van de natuurlijke getallen; deze kardinaliteit wordt formula_11 (alef-nul) genoemd. Verzamelingen met deze kardinaliteit heten aftelbaar oneindig. Het diagonaalbewijs van Cantor toont aan dat er ook hogere kardinaliteiten bestaan; deze worden ook met een alef-getal aangegeven: formula_12.
+Kardinaliteit van het continuüm.
+Een van Cantors belangrijkste resultaten was dat het kardinaliteit van het continuüm (c of formula_13) groter is dan de kardinaliteit van de natuurlijke getallen (formula_11); dat wil zeggen dat er meer reële getallen formula_15 dan natuurlijke getallen formula_1 bestaan. Cantor toonde aan dat
+De continuümhypothese stelt dat er geen kardinaalgetal bestaat tussen de kardinaliteit van de reële getallen en de kardinaliteit van de natuurlijke getallen, dat wil zeggen
+De continuümhypothese kan binnen de algemeen aanvaarde Zermelo-Fraenkel-verzamelingenleer, tenminste indien deze axiomatische verzamelingenleer consistent is, noch worden bewezen noch worden verworpen.
+Informatica.
+In de informatica slaat kardinaliteit doorgaans op relaties tussen tabellen of associaties tussen klassen/objecten. Dan is dit het aantal keer dat een relatie/associatie voor kan/mag komen. Dit kan bijvoorbeeld zijn: 0 of meer, 1 of meer, 1, 2, 100, 1 tot 20.

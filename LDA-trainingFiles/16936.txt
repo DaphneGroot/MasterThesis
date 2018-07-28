@@ -1,0 +1,5 @@
+Fromgambiet.
+Het Fromgambiet is in het schaken een gambiet in de Birdopening. Het gambiet is ingedeeld bij de flankspelen.
+De beginzet van de Birdopening is 1. f4. Het Fromgambiet ontstaat na zwarts tegenzet 1....e5. Als wit het gambiet aanneemt, 2. fe5 volgt daarop meestal 2....d6. 3. ed6 Ld6, en zwart staat voor in ontwikkeling. Wit hoeft het gambiet niet aan te nemen, en kan ook antwoorden met 2. e4, waarop het spel overgaat in het koningsgambiet.
+De ECO-code van de Birdopening is A02.
+Dit pionoffer werd in 1862 door de Deense grootmeester Martin From geanalyseerd. From offert hierbij de e-pion, en als wit het gambiet aanneemt, wordt de d-pion opgespeeld om tot een snelle aanval op de onbeschermde witte koningsvleugel te komen. De correctheid van dit offer wordt echter in twijfel getrokken; met goed spel kan wit zijn koningsstelling afdoende beschermen en een pion voorblijven.

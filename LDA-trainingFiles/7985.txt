@@ -1,0 +1,17 @@
+Osmose.
+Osmose is een proces op basis van diffusie waarbij een vloeistof, waarin stoffen zijn opgelost, door een zogenaamd halfdoorlatend membraan (een semipermeabele wand) stroomt, dat wel de vloeistof doorlaat maar niet de opgeloste stoffen.
+Werking.
+De stromingsrichting van water bij osmose is van een hoge naar een lage concentratie water, zoals bij elk diffusieproces. Let hierbij op "concentratie water", als het gaat om 2 bakken water waarin stoffen opgelost zitten zal er water door de semipermeabele wand gaan naar de kant met de hogere concentratie van die stof totdat de vrije energieverdeling van het water aan beide kanten in evenwicht is.
+Als voorbeeld nemen we twee bakken met daartussen een semipermeabele wand.
+Aan elke kant 1 liter water, bij de ene kant is de "osmotische waarde" 25% en aan de ander kant 75%.
+In deze situatie diffundeert water in beide richtingen door de membraan, maar omdat er aan de ene zijde een hogere concentratie water is dan aan de andere zijde, zal meer water van de 25%-kant naar de 75%-kant diffunderen dan andersom. Hierdoor stijgt de hoeveelheid water aan 75%-kant en daalt de waterconcentratie aan de 25%-kant. De hoeveelheid water die nu diffundeert van 25 naar 75 neemt af en de hoeveelheid water die diffundeert van 75 naar 25 neemt toe. Hierdoor zal op den duur een evenwicht ontstaan waarin geen netto waterverplaatsing bestaat.
+Omdat het waterniveau aan de 75-kant stijgt en aan de 25-kant daalt zal in de evenwichtssituatie de concentratie aan beide zijden niet gelijk worden. Van dit principe wordt in combinatie met het tegenstroomprincipe gebruikgemaakt in de lis van Henle in de nieren om een zo geconcentreerd mogelijke oplossing (=urine) te krijgen.
+De verhouding in het begin is in de ene bak 1/4 stof en 3/4 water (totaal 1l) en in de ander bak 3/4 stof en 1/4 water (totaal 1l).
+Door het drukverschil gaat water zich verplaatsen.
+Dan wordt aan de 25-kant het totaal < 1l en in de andere kant het totaal > 1l. Dit levert een drukverschil op waardoor de concentratie aan beide zijden niet gelijk kan worden.
+Osmotische waarde.
+De osmotische waarde is gelijk aan de druk die de opgeloste deeltjes zouden uitoefenen als ze zich als een gas in de lege ruimte zouden bevinden in die concentratie. Hieruit volgt dat de "osmotische waarde" slechts een functie is van "het aantal" opgeloste moleculen of ionen en "niet" van hun identiteit of grootte. Omdat oplossingen van veel stoffen sterk geconcentreerd kunnen zijn, kan de "osmotische waarde" (uitgedrukt in bar) zeer groot worden. De "osmotische waarde" van zeewater bijvoorbeeld is ongeveer 30 bar (30*105Pa).
+Biologische processen.
+Osmose is een belangrijk proces in de levende natuur, omdat celmembranen semipermeabel (halfdoorlatend) zijn. Water kan wel vrij in en uit de cel vloeien, maar opgeloste zouten, proteïnen en andere stoffen, kunnen dat niet. Veel biologische processen zijn erop gericht om deze scheiding tot stand te brengen en in stand te houden. Bovendien is de stevigheid van kruidachtige planten grotendeels op osmose (en op turgordruk) gebaseerd. Als buiten de cel een lagere "osmotische waarde" heerst dan in de cel gaat water de cel in en omdat de celwand uitzetting voorkomt verkrijgt de cel stevigheid (vandaar dat planten gaan hangen als ze niet voldoende water krijgen).
+Omgekeerde osmose.
+Osmose kan ook in omgekeerde richting plaatsvinden door druk uit te oefenen op de vloeistof. Het membraan functioneert dan als een filter.

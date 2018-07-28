@@ -1,0 +1,6 @@
+Radiaal (wiskunde).
+Uitleg over de radiaal in relatie tot een cirkel.
+De radiaal is de SI-eenheid voor hoek. Eén radiaal is gedefinieerd als de grootte van een middelpuntshoek van een cirkel waarvan de lengte van de boog gelijk is aan de lengte van de straal (radius). Een hoek van bijvoorbeeld 1,7 rad staat dus op een boog waarin 1,7 maal de straal van de cirkel past.
+De radiaal is de coherente afgeleide eenheid m·m−1, een dimensieloze grootheid. In berekeningen kan men het symbool "rad" weglaten of vervangen door 1.
+Uit de formule voor de omtrek van een cirkel volgt dat een volledige cirkel overeenkomt met 2"π" ofwel τ (ongeveer 6,283185) radialen.
+Aan de hand van deze eenheid kan eenvoudig de booglengte berekend worden.

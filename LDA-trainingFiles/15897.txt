@@ -1,0 +1,13 @@
+Hub (hardware).
+Links een hub, rechts een switch. Gegevens die naar een hub worden gezonden, worden over het hele netwerk verspreid. Zenden twee apparaten tegelijk, dan ontstaat er een collision.
+Een hub is net als een switch een apparaat in de infrastructuur van een netwerk.
+Het Engelse woord 'hub' betekent 'naaf'. Men kan hierbij denken aan de naaf in een fietswiel, het middelpunt van de spaken. In een computernetwerk is een hub het middelpunt van de aangesloten computers.
+In tegenstelling tot een switch is een hub een 'dom' apparaat (laag 1 van het OSI-model, of bitniveau) en stuurt een binnengekomen datapakketje simpelweg door naar alle poorten op het netwerk. Dit is meteen ook het nadeel van de hub, omdat op deze manier al het netwerkverkeer op alle aangesloten segmenten komt. Het is vergelijkbaar met een zaal vol mensen, van wie er maar één tegelijk aan het woord mag zijn, ook al fluistert hij tegen zijn buurman.
+De regel is dat een computer pas begint met zenden op het moment dat het netwerk vrij is. Het kan gebeuren dat twee computers tegelijk beginnen. In dat geval is er sprake van een 'collision' ofwel botsing van datapakketjes.
+De naam hub wordt ook gebruikt voor de kastjes die gebruikt worden om meerdere USB-apparaten op een enkele poort aan te sluiten. Dit is eigenlijk een verdeelkastje, aangezien niet alle aansluitingen gelijkwaardig zijn. Treedt een botsing op, dan is het gebruikelijk dat beide computers direct stoppen met zenden, en het na een willekeurige tijd (een paar milliseconden) opnieuw proberen. Meestal is dan de ene computer iets eerder dan de andere, en de andere moet dan wachten tot het netwerk weer vrij is. Het spreekt vanzelf dat de algehele snelheid van het netwerk hierdoor vermindert.
+Bevat een netwerk meer dan één hub, dan verandert dat niets aan de zaak. Als twee computers op dezelfde hub aangesloten zijn, dan wordt hun onderlinge verkeer toch doorgestuurd naar de andere hubs, zodat het verkeer op die andere hubs ook gehinderd wordt.
+Bovendien kan iedereen die een directe kabelverbinding heeft met de hub alle netwerkverkeer bekijken, ook het verkeer dat niet voor hen bestemd is. Hier kan eventueel misbruik van worden gemaakt door hackers.
+Hedendaags worden hubs niet meer in nieuw opgebouwde netwerken gebruikt, aangezien het prijsverschil met een goedkope switch bijna niks is.
+Verschillen tussen switch en hub.
+Een switch is vergelijkbaar met een hub. Het grote verschil is dat een switch kijkt naar welke poort de data verzonden moeten worden en dus niet als de hub de data over alle poorten tegelijk verstuurt.
+Dit zorgt voor een snelheidswinst en maakt het ook moeilijker om de data van andere gebruikers af te tappen.

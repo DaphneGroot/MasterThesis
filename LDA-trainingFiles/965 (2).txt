@@ -1,0 +1,12 @@
+Pictogram.
+Pictogrammen van de US National Park Service
+Een pictogram is een symbool of afbeelding dat de plaats inneemt van een tekst. Het gebruik ervan wordt daarom ook beeldtaal genoemd.
+Algemeen.
+Pictogram komt uit het Latijn. Picto komt van 'pictus' of in het Nederlands: 'geschilderd'. Gram komt van 'gramma' ofwel 'letter'.
+Een voordeel is dat deze beeldtaal meer universeel is, te begrijpen voor mensen uit verschillende taalgebieden. Pictogrammen worden veel toegepast op treinstations, vliegvelden, bouwplaatsen, productiehallen, werkplaatsen, op machines en zo meer. Ook verkeersborden zijn een soort pictogrammen.
+Een ander voordeel kan zijn een grotere overzichtelijkheid. Pictogrammen (ook iconen geheten) worden daarom ook veel toegepast op computerschermen.
+Het Chinese schrift bevat een klein percentage pictogrammen, die men niet mag verwarren met 'ideogrammen'.
+Pictogram in unicode.
+Unicode is een internationale standaard voor de identificatie van grafische tekens en symbolen, vergelijkbaar met de ASCII-tabel. De standaard voorziet alle tekens en symbolen ('karakters') van alle geschreven talen van een nummer.
+NEN-EN-ISO 7010.
+Veiligheidspictogrammen – die bijvoorbeeld veel in een industriële omgeving gebruikt worden – zijn beschreven in de norm NEN-EN-ISO 7010.

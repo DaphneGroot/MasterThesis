@@ -1,0 +1,27 @@
+Volledige inductie.
+Volledige inductie kan worden geïllustreerd aan de hand van het domino-effect.
+In de wiskunde is volledige inductie een methode om te bewijzen dat een uitspraak geldig is voor alle natuurlijke getallen.
+Omdat er oneindig veel natuurlijke getallen zijn, kan een dergelijk bewijs niet voor elk getal afzonderlijk worden geleverd. Volledige inductie houdt in dat het bewijs wordt geleverd voor het getal 0 en dat wordt bewezen dat als de uitspraak geldig is voor enig natuurlijk getal, de uitspraak ook geldig is voor de opvolger van dit getal. Zonder dat voor ieder natuurlijk getal de uitspraak afzonderlijk is bewezen, kan men nu concluderen dat ze voor elk natuurlijk getal "n" geldig is. Uit de geldigheid voor 0 volgt immers de geldigheid voor 1 en uit de geldigheid voor 1 volgt die voor 2, enzovoort. Zo volgt de geldigheid voor ieder getal formula_1.
+Men vergelijkt de methode soms met het domino-effect. Elke steen die omvalt laat z'n opvolger omvallen. Valt de eerste steen om, dan zullen dus alle stenen omvallen.
+Het is niet nodig dat het inductiebegin bij het getal 0 ligt. Soms neemt men het begin bij 1, maar ook kan het begin bij een groter getal liggen, omdat de uitspraak niet geldig is voor kleinere getallen. Daarom wordt in de definitie het inductiebegin bij een willekeurig getal formula_2 gelegd.
+De onderstaande behandeling van de volledige inductie is te danken aan Giuseppe Peano.
+Definities.
+Voor het bewijs dat een uitspraak formula_3 geldig is voor alle natuurlijke getallen formula_4, kan eerst bewezen worden dat de uitspraak geldig is voor formula_5, dus dat formula_6 geldig is. Deze eerste stap heet het 'inductiebegin'. De volgende stap is, dat uit de veronderstelling dat de uitspraak waar is voor een getal formula_4, dus dat formula_3 geldig is, de uitspraak ook waar is voor het volgende getal, dus dat formula_9 geldig is. De gekozen veronderstelling is de 'inductieveronderstelling' of inductiehypothese, de redenering naar het volgende getal heet de 'inductiestap'. Een dergelijk bewijs heet een bewijs met volledige inductie, of met verwijzing naar het getal formula_1, volledige inductie naar formula_1.
+Bewijsschema.
+Soms blijkt het nodig, of handig, als inductieveronderstelling de juistheid van alle uitspraken tot en met de index "n" te veronderstellen. Dit bewijsschema heet sterke inductie en levert een gelijkwaardige vorm van volledige inductie op.
+Beide zijn een vorm van een bewijs met volledige inductie.
+Voorbeeld 1.
+Het bewijs met volledige inductie naar formula_1 gaat als volgt.
+waarmee, met gebruik van de inductieveronderstelling, de geldigheid voor "n+1" is aangetoond.
+Er is een eenvoudiger bewijs, zonder gebruikmaking van inductie; zie hier.
+Voorbeeld 2.
+Ieder positief geheel getal formula_1 is door een priemgetal te delen.
+Het bewijs gaat met volledige inductie naar formula_1 volgens de tweede vorm van het bewijsschema.
+Voorbeeld 3.
+Een deel van de stelling van Zeckendorf wordt ook bewezen met de tweede vorm van het bewijsschema. Deze stelling zegt dat alle Fibonacci-getallen op een unieke manier de som zijn van een aantal niet opeenvolgende Fibonacci-getallen.
+Voorbeeld 4.
+Om te bewijzen dat de methode van Laplace om een determinant te berekenen dezelfde uitkomst geeft als de methode van Leibniz, wordt de bewijsmethode van inductie gebruikt. Omdat de methode van Laplace recursief is en het bewijs deze recursieve stappen ook teruggaat, is het bewijs een bewijs met inductie.
+Voorbeeld 5.
+De determinant van Vandermonde formula_45 van de orde formula_1 is als volgt gedefinieerd
+Het aantal variabelen formula_48 in deze determinant is formula_1.
+Het bewijs hiervan gaat met volledige inductie naar formula_1.

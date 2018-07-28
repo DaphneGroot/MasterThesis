@@ -1,0 +1,29 @@
+Lineaire transformatie.
+In de lineaire algebra, een deelgebied van de wiskunde, is een lineaire transformatie een lineaire afbeelding van een vectorruimte naar zichzelf.
+Als een lineaire transformatie bijectief is, is de inverse ook een lineaire transformatie.
+Matrix van een lineaire transformatie.
+waarin formula_24. De matrix formula_11 die de transformatie formula_10 representeert, heeft dus als kolommen de coördinaten van de beelden van de basisvectoren.
+Voorbeeld.
+De lineaire transformatie formula_10 van de vectorruimte formula_28 beeldt de basisvectoren (1,0) en (0,1) af op de vectoren (3,2) en (5,4). Daarmee is formula_10 geheel vastgelegd. De matrix van formula_10 is dan
+Dus is formula_34.
+Determinant, rang en nulruimte.
+Een lineaire transformatie kan bijectief zijn. De determinant van de matrix van de transformatie is dan verschillend van 0 en de matrix heeft volle rang, wat onder andere inhoudt dat de kolommen onderling onafhankelijk zijn.
+Als de transformatie niet inverteerbaar is, is de determinant van de matrix gelijk aan 0. De rang van de matrix is dan kleiner dan de dimensie van de ruimte, dus zijn de kolommen niet onderling onafhankelijk. De beelden van de basisvectoren brengen dan een deelruimte voort van geringere dimensie. Er is een deelruimte, de nulruimte of kern van de transformatie, die op de nulvector wordt afgebeeld.
+De identiteit.
+Ieder punt wordt op zichzelf afgebeeld.
+Som van twee lineaire transformaties.
+Als formula_50 en formula_51 lineaire transformaties zijn van een vectorruimte formula_2, is hun som formula_53, die gedefinieerd is door
+ook een lineaire transformatie van formula_2.
+Product van een lineaire transformatie met een reëel getal.
+Als formula_50 een lineaire transformatie is van een vectorruimte formula_2 en formula_67 een reëel getal, dan is het scalaire product formula_68, dat gedefinieerd is door
+ook een lineaire transformatie van formula_2.
+Samenstelling van lineaire transformaties.
+Als formula_50 en formula_51 lineaire transformaties zijn van een vectorruimte formula_2, dan hun samenstelling formula_82, die gedefinieerd is door
+ook een lineaire transformatie van formula_2.
+Eigenwaarden en eigenvectoren van een lineaire transformatie.
+Onder de bijectieve transformaties van een lineaire ruimte formula_2 zijn er die een deelruimte formula_95 op zichzelf afbeelden. Als formula_96 eendimensionaal is, heet elke vector formula_97 een eigenvector van de transformatie. De eigenvector formula_98 wordt afgebeeld op een veelvoud formula_99 van formula_98. De factor formula_101 heet eigenwaarde van de transformatie.
+Lineaire permutaties.
+Als een lineaire transformatie t van een vectorruimte V een basis van V transformeert in een basis van V,
+dan spreekt men van een lineaire permutatie van V. Onder invloed van t worden verschillende vectoren afgebeeld op verschillende vectoren en lineair onafhankelijke vectoren op lineair onafhankelijke vectoren.
+De verzameling van alle lineaire permutaties van V vormen een groep, de algemene lineaire groep van een vectorruimte V. Gewoonlijk wordt die groep genoteerd als GL(V).
+De matrix A van een lineaire permutatie is regulier en de kern bestaat enkel uit de nulvector.

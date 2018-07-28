@@ -1,0 +1,4 @@
+Dode hoek (zeilen).
+Dode hoek is een zeilterm waarmee de richtingen aangeduid worden die niet bezeilbaar zijn. De dode hoek beslaat een hoek van ongeveer 45° aan weerszijden van de windrichting.
+Bij koersen binnen de dode hoek is de tegendruk van de wind op de zeilen zo groot dat de boot zich niet meer voorwaarts beweegt. De zeilen kunnen zelfs gaan killen of helemaal klapperen. Je koers is dan in de wind.
+De dode hoek (van totaal ongeveer 90°) wordt groter wanneer de windkracht afneemt. Ook de constructie van boot en tuigage heeft invloed op de grootte van de dode hoek. Dwarsgetuigde schepen halen zelfs een hoek van 45° ten opzichte van de wind niet, terwijl scherpe jachten een hoek van minder dan 45° kunnen halen.

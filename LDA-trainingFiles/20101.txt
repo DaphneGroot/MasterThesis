@@ -1,0 +1,20 @@
+Elektriciteitswetten van Kirchhoff.
+De elektriciteitswetten van Kirchhof zijn een tweetal wetten in de natuurkunde. Een wet uit de thermodynamica is ook vernoemd naar Kirchhof: de stralingswet van Kirchhoff.
+Elektriciteitsleer.
+In de elektriciteitsleer wordt onder de wetten van Kirchhoff een tweetal veelgebruikte regels verstaan die voortkomen uit de principes van behoud van energie en lading in elektrische kringen. De wetten zijn vernoemd naar de natuurkundige Gustav Robert Kirchhoff. Deze twee regels werden voor het eerst in 1845 beschreven en kunnen worden afgeleid uit de Maxwellvergelijkingen. Deze wetten spelen een belangrijke rol in de elektrotechniek – met name in de netwerkanalyse.
+Som van stromen in een knooppunt is nul.
+"i"1 + "i"4 = "i"2 + "i"3
+De eerste wet van Kirchhoff, "stroomwet van Kirchhoff".
+Uit het principe van behoud van elektrische lading volgt de eerste wet van Kirchhoff, ook wel de "Stroomwet van Kirchhoff" genoemd.
+Het knooppunt kan stroom noch opslaan noch afgeven.
+Som van spanningen in een gesloten lus is nul.
+"v"1 + "v"2 + "v"3 - "v"4 = 0
+De tweede wet van Kirchhoff, "spanningswet van Kirchhoff".
+Uit het principe van behoud van energie volgt de tweede wet van Kirchhoff, ook wel de "Spanningswet van Kirchhoff" genoemd.
+Tekenconventie: Beschouwen we zoals in de nevenstaande figuur een gesloten stroomkring of lus "abcda" waarin drie weerstanden R1, R2 en R3 in serie met een spanningsbron v4 zijn opgenomen. Deze lus mag deel uitmaken van een groter netwerk met bijkomende lussen (zoals met de tweede lus gevormd door R3 en R5) dan geldt de volgende conventie voor het teken van de potentiaalverschillen: Men kiest arbitrair een bepaalde richting bij rondgang in de lus (bijvoorbeeld rechtsom). Als men voor de gekozen richting in de lus gaat van een hogere potentiaal naar een lagere dan is het potentiaalverschil positief te rekenen, als men gaat van een lagere potentiaal naar een hogere dan is het potentiaalverschil negatief. Met deze conventie zijn alle potentiaalverschillen over de weerstanden positief en die over de spanningsbron negatief. Had men voor de andere richting, dus linksom, gekozen dan zijn de potentiaalverschillen over de weerstanden negatief en die over de spanningsbron positief.
+Potentiaalverschil in een rechte geleider met weerstand
+De tweede wet van Kirchhoff kan veralgemeend worden voor een willekeurige lus waarin geen veranderlijke magnetische velden optreden. In de weerstanden en de spanningsbronnen moet immers altijd een stationair elektrisch vectorveld E heersen (dit is het veld na voorbijgang van alle overgangsverschijnselen) dat de ladingsdragers in beweging houdt (elektronen in vaste stoffen of ionen in elektrolyten). De arbeid d"Á" die nodig is om een eenheidslading over dit veld te verplaatsen over een afstand dl is gelijk aan
+Deze arbeid is ook gelijk aan het kleine potentiaalverschil d"V" dat tussen twee punten gescheiden door de afstand dl ontstaat. Immers men heeft steeds E=-grad "V" en voor een rechte lijn tussen die twee punten wordt dit
+Integratie tussen de punten "a" en "b" geeft
+Vertrekt men van een punt "a" in een willekeurige lus en maakt men een rondgang in een bepaalde richting om uiteindelijk terug uit te komen bij het punt "a" dan bekomt men
+De kringintegraal van de stationaire veldsterkte in een willekeurige lus is dus evenals de kringintegraal van een eventueel elektrisch veld buiten het materiaal van de lus gelijk aan nul. Dit is de algemene en integrale uitdrukking van de tweede wet van Kirchhoff. Daarmee is ook bewezen dat het stationaire elektrisch vectorveld conservatief is.

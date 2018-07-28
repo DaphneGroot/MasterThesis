@@ -1,0 +1,27 @@
+Enthalpie.
+Enthalpie ("H") is een grootheid uit de thermodynamica, een toestandsfunctie die afgeleid kan worden uit de inwendige energie "U" of "E" door daaraan een term "druk" maal "volume" ("pV") toe te voegen. De enthalpie is zo gedefinieerd dat het enthalpieverschil tussen twee toestanden bij constante druk gelijk is aan de totale opgenomen of afgestane hoeveelheid warmte. Het is daarom dat de enthalpie in de scheikunde een veel gebruikte grootheid is, omdat veel reacties relatief eenvoudig zijn uit te voeren bij (ongeveer) gelijkblijvende druk en temperatuur.
+Processen bij (vrijwel) constante druk treden veel op bij atmosferische verschijnselen.
+Daarmee is er ook een verband tussen de warmtecapaciteit bij constante druk "C'p" en de enthalpie "H".
+In principe zou men dus de enthalpie van een systeem (een stof bijvoorbeeld) kunnen berekenen als warmtecapaciteiten vanaf 0 K (het absolute nulpunt) bekend waren. De waarde van de enthalpie bij 0 K is echter "niet gedefinieerd". Dat wil zeggen dat de absolute waarde van H nooit bekend is. Men kan slechts spreken van een goed gedefinieerd "verschil" ΔH dat gekoppeld is aan een bepaald "proces" (bijvoorbeeld het verwarmen vanaf 0 K).
+Reactie-enthalpie.
+De reactie-enthalpie ΔrH van een chemische reactie is de verandering in de enthalpie van een systeem waarin een chemische reactie bij constante druk plaatsvindt. Dat komt overeen met de warmte die bij zo'n reactie vrij komt of juist moet worden toegevoegd, indien ook de temperatuur constant wordt gehouden.
+De standaard reactie-enthalpie is de reactie-enthalpie bij een druk van 1 bar en 25 °C (101 325 Pa en 298,15 K).
+Omdat enthalpie een toestandsfunctie is, is de reactie-enthalpie van een reactie onafhankelijk van de weg waarlangs die reactie verloopt (de wet van Hess).
+Reactie (3) heeft hetzelfde effect als reactie (1) gevolgd door reactie (2). Dat betekent dat de reactie-enthalpie van reactie (3) gelijk is aan de som van de reactie-enthalpie van reacties (1) en (2).
+Volledige verbranding.
+Een bijzonder geval van reactie-enthalpie is de verbrandingswarmte Δ"c'H". Dit is een reactie met zuurstof waarin alleen CO2, H2O en metaaloxiden in hun hoogste oxidatietoestand gevormd worden (dus geen CO of C).
+Verbrandingswarmtes worden meestal gemeten in een bomcalorimeter.
+Vormingsenthalpie.
+De vormingsenthalpie Δ"f'H" van een chemische verbinding is de reactie-enthalpie van een reactie waarbij 1 mol van die verbinding wordt gevormd uit de zuivere elementen.
+De standaard vormingsenthalpie Δ"f'H"o van een chemische verbinding (vaak kortweg "de enthalpie van de verbinding" genoemd) is de vormingsenthalpie van die verbinding bij een druk van 1 bar en de "desbetreffende" temperatuur. (Meestal wordt de grootheid als een functie van temperatuur getabelleerd).
+De thermodynamische standaard conditie..o is dus "niet" altijd 25 °C. Als een enkele waarde gegeven wordt, bedoelt men echter meestal wel 25 °C.
+De waarde van de enthalpie voor een element in zijn stabielste toestand is per definitie gelijk aan nul.
+De standaardvormingsenthalpie van heel veel verbindingen is gepubliceerd in tabellenboeken.
+Met die gegevens kan men de standaard reactie-enthalpie van een willekeurige reactie berekenen, mits men de standaard vormingsenthalpieën van de verbruikte en gevormde verbindingen kent.
+Excess enthalpie.
+Wanneer twee niet reagerende vloeistoffen of gassen worden gemengd dan kan hierbij warmte vrijkomen of worden opgenomen uit de omgeving.
+Ligt het enthalpieniveau van het mengsel na de menging lager dan ervoor, dan is er warmte afgegeven aan de omgeving; de excess enthalpie is dan dus negatief: Hex<0.
+Een voorbeeld is het mengen van pure methanol en puur water.
+Ligt het enthalpieniveau van het mengsel na de menging hoger dan ervoor, dan is er warmte opgenomen uit de omgeving; de excess enthalpie is dan dus positief: Hex</sup»0.
+Een voorbeeld is het mengen van pure acetonitril en puur water.
+formula_7

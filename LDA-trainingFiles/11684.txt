@@ -1,0 +1,13 @@
+Freeciv.
+Freeciv is een turn-based strategy computerspel, geïnspireerd op de commerciële Civilization-spelen. Het is vrije software die valt onder de GNU General Public License en ontwikkeld is door mensen over de hele wereld.
+Overzicht.
+De spelers nemen de rol op zich van een nationale leider in het jaar 4000 v.Chr. en moeten hun volk door de eeuwen leiden.
+Ze bouwen steden en wegen, cultiveren het land en ontwikkelen de steden.
+Met het verstrijken van de tijd worden steeds meer nieuwe technologieën ontdekt, die de constructie van nieuwe soorten gebouwen en manschappen (meestal militair) mogelijk maken.
+Spelers kunnen samenwerken of elkaar bestrijden.
+Het spel eindigt als een van de spelers alle andere volkeren heeft vernietigd, als een speler een ruimteschip maakt voor kolonisatie van de ruimte of als een vooraf bepaald doel is bereikt. Op dat moment wint de speler met het meeste punten. Punten worden verkregen door als eerste het gestelde doel te bereiken, door een heel groot volk of economisch, cultureel of wetenschappelijk vergevorderd volk te besturen.
+De computerspelers overweldigen beginnende spelers met gemak, maar zijn voor veteranen geen partij. Hun sterkteniveau is instelbaar.
+Techniek.
+Het spel is geschreven in C als client-server-applicatie. Op de server wordt het spel gespeeld; elke speler maakt er met een eigen client verbinding mee. De client verzorgt de grafische interface; er zijn clients voor GTK+, SDL, Win32 en Xaw. Een licht aangepaste versie van Freeciv, kan gespeeld worden in een webbrowser.
+De regels en onderdelen van het spel kunnen worden aangepast door instellingen tijdens het spelen, door configuratiebestanden, en door scripts in Lua. Client en server communiceren via een speciaal Freeciv-netwerkprotocol.
+Vanuit de Freeciv-client kan direct een spel gestart worden; onder water wordt dan op dezelfde computer een Freeciv-server opgestart en ermee verbonden. Ook dan is er dus een netwerkverbinding tussen client en server. Hierdoor zien sommige anti-virusprogramma's Freeciv aan voor malware.

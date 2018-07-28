@@ -1,0 +1,22 @@
+Paradox (logica).
+Een paradox is een ogenschijnlijk tegenstrijdige situatie, die lijkt in te gaan tegen ons gevoel voor logica, onze verwachting of onze intuïtie. Ogenschijnlijk, omdat de vermeende tegenstrijdigheid veelal berust op een denkfout of een verkeerde redenering. Het is ook mogelijk dat de paradox een uitspraak is die verschillende semantische niveaus bevat.
+Paradox van Epimenides.
+Als we deze uitspraak letterlijk interpreteren, dan is het inderdaad zo dat de uitspraak, die immers gedaan is door een Kretenzer, zichzelf tegenspreekt: de uitspraak zegt van zichzelf dat hij niet waar is, en kan dus niet waar zijn.
+De uitspraak "Alle Kretenzers liegen" kan onwaar zijn (en dus een leugen) als we aannemen dat Kretenzers soms liegen, echter in dit geval liegen ze dus niet "altijd".
+"Manhattan distance"-paradox.
+Een voorbeeld van een geometrische paradox is de ontkenning van de stelling van Pythagoras: formula_1. Lijn formula_2 kan ruwweg benaderd worden door lijnen formula_3.
+De som van formula_4 en formula_5 is gelijk aan formula_6. Lijnstuk formula_4 en formula_5 kunnen eveneens grof benaderd worden door formula_9 (overigens ook gelijk aan formula_6). En deze benadering is opnieuw te verfijnen tot formula_11 (ook gelijk aan formula_6). Dit proces kan worden herhaald tot in het oneindige en hoewel deze oneindig fijne benadering op de lijn c valt is de som van de lengtes van de deellijnen nog steeds gelijk aan formula_6. Daaruit zou men kunnen concluderen: formula_14 en dat is in
+tegenspraak met de stelling van Pythagoras.
+De paradox berust op de verkeerde veronderstelling dat in het beschreven limietproces de lengte mee convergeert. Weliswaar convergeert de traplijn naar de hypothenusa, maar de totale lengte van de traplijn wordt niet kleiner.
+Op het oog is de zeer fijne traplijn vrijwel gelijk aan de schuine lijn, waarna de trapjes verwaarloosd kunnen worden omdat je ze toch niet meer ziet. Het verwaarlozen van de extra lengte is echter foutief, dit heeft niets te maken met het al of niet zichtbaar zijn van die lengte.
+In de Engelstalige literatuur wordt dit de "Manhattan distance"-paradox genoemd, naar het rechthoekige stratenplan van Manhattan.
+De semantische paradox.
+Wanneer de betekenis van een of meer woorden binnen een zin verandert, is er sprake van een semantische paradox. De belangrijkste tekst van het taoïsme, de Tao Te Ching, staat vol met dit soort paradoxen. Logisch taalkundig gezien staat er een tegenspraak, maar na lang nadenken kan men achter de bedoeling van de schrijver komen. Het lijkt erop dat de schrijver een wijsheid verhuld heeft in een paradox, teneinde de lezer aan het denken te zetten.
+In hoofdstuk 37 van de Tao Te Ching staat bijvoorbeeld: "Tao is eeuwig nietdoende en toch is er niets dat het niet doet." Met andere woorden, Tao doet niets en toch alles. De betekenis van het woord nietdoen is in deze zin veranderd. In de eerste betekenis wordt geduid op het niet gehecht zijn aan de resultaten van de actie die men onderneemt, en in de tweede betekenis wordt aangeduid dat men wel alles aanpakt wat men als taak of (levens)opdracht dient te volbrengen. Het 'doende zijnde niet doen' ("wu wei wu"). Men kan in deze paradoxen doordringen door de hele context, de filosofie of de cultuur waarin deze paradoxen geschreven zijn, te bestuderen.
+Paradoxen: theorie versus praktijk.
+Paradoxen lijken vaak weinig nut te hebben, maar duiden soms op zwakke punten in redeneringen.
+Verder komen in de praktijk wel aan paradoxen verwante situaties voor.
+Een paradox als "Deze stelling is niet waar" wordt in teruggekoppelde systemen gebruikt, zonder welke bijvoorbeeld procestechnologie niet zou kunnen bestaan.
+In dit proces is de uitkomst B afhankelijk van A maar ook
+Goed gedimensioneerd leidt dit echter tot een stabiel systeem in plaats van een tegenstrijdigheid. Echter, als instabiel systeem kan dit proces ook gebruikt worden als oscillator.
+Ook stellingen uit de Logica, de grondslagen van de wiskunde en de theoretische informatica vertonen overeenkomsten met paradoxen. Voorbeelden hiervan zijn de Onvolledigheidsstellingen van Gödel en het beslissingsprobleem.

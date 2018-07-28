@@ -1,0 +1,8 @@
+Trapezium.
+Een trapezium of trapezoïde is in de meetkunde een (meestal convex veronderstelde) vierhoek waarvan minstens twee tegenoverliggende zijden evenwijdig zijn. De kortste evenwijdige zijde wordt kleine basis genoemd, de langste evenwijdige zijde grote basis. De afstand tussen kleine en grote basis is de hoogte. Wanneer beide paren tegenoverliggende zijden evenwijdig zijn, is de figuur een parallellogram.
+Oppervlakte.
+De oppervlakteberekening voor een trapezium wordt ook gebruikt om, met de trapeziumregel, integralen numeriek te benaderen.
+Gelijkbenig trapezium.
+Als de niet evenwijdige zijden van een trapezium even lang zijn, maar niet evenwijdig zijn, heet het trapezium "gelijkbenig". De hoeken die de niet evenwijdige zijden maken met de evenwijdige zijden, zijn dan gelijk. Een gelijkbenig trapezium is een koordenvierhoek met een paar evenwijdige zijden.
+Rechthoekig trapezium.
+Een trapezium heet "rechthoekig" als er een rechte hoek in voorkomt.

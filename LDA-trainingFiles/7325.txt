@@ -1,0 +1,19 @@
+Kolmogorov-Smirnovtoets.
+De kolmogorov-smirnovtoets is een statistische toets gebaseerd op een maat voor het verschil in twee verdelingen. In de vorm voor één steekproef, is het een aanpassingstoets, waarmee onderzocht wordt of de verdeling waaruit de steekproef getrokken is, afwijkt van een bekende verdeling zoals de normale verdeling, de uniforme verdeling, de poissonverdeling, de exponentiële verdeling, e.d. In de vorm voor twee steekproeven wordt nagegaan of de verdelingen waaruit de steekproeven afkomstig zijn, van elkaar verschillen.
+De toetsingsgrootheid is in het geval van één steekproef de grootste afstand tussen de empirische verdelingsfunctie en de verdelingsfunctie van de in het geding zijnde bekende verdeling, en in het geval van twee steekproeven de grootste afstand tussen de beide empirische verdelingsfuncties.
+De kolmogorov-smirnovtoets is parametervrij omdat ervoor geen aannamen voor parameters in de steekproef worden gedaan.
+De vorm voor twee steekproeven is een zeer geschikte parametervrije toets om na te gaan of twee steekproeven uit dezelfde verdeling afkomstig zijn, aangezien de toets gevoelig is voor zowel verschillen in plaats als in vorm van de verdelingen.
+Voor één steekproef.
+Zij formula_1 een aselecte steekproef uit een verdeling met onbekende verdelingsfunctie formula_2 en formula_3 een bekende verdelingsfunctie. De Kolmogorov-Smirnovtoets voor het toetsen van de nulhypothese
+waarin formula_7 de empirische verdelingsfunctie is.
+in verdeling. Daarin is formula_9 de Brownse brug.
+Als formula_3 continu is, convergeert formula_11 onder de nulhypothese naar de kolmogorovverdeling (zie onder), die niet afhankelijk is van formula_3.
+Voor twee steekproeven.
+Zij formula_1 en formula_14 aselecte steekproeven uit verdelingen met onbekende verdelingsfuncties formula_15 resp. formula_16. De kolmogorov-smirnovtoets voor het toetsen van de nulhypothese
+waarin formula_20 en formula_21 de empirische verdelingsfuncties van de beide steekproeven zijn.
+De verdeling van deze toetsingsgrootheid hangt onder de nulhypothese niet af van de veronderstelde verdeling mits deze continu is.
+De kolmogorov-smirnovtoetsen vergelijken de experimenteel gevonden empirische verdelingsfunctie met de veronderstelde verdelingsfunctie of de beide empirische verdelingsfuncties onderling, door als toetsingsgrootheid een bepaalde afstandsmaat tussen beide te berekenen. De stelling van Glivenko–Cantelli garandeert dat de toetsingsgrootheid onder de nulhypothese bijna zeker naar 0 convergeert. De nulhypothese wordt verworpen voor (te) grote waarden van de toetsingsgrootheid.
+Kolmogorovverdeling.
+De "kolmogorovverdeling" is de verdeling van de stochastische variabele
+waarin "B"("t") de Brownse brug is. De verdelingsfunctie van "K" wordt gegeven door
+Zowel de toetsingsgrootheid van de kolmogorov–smirnovtoets als de asymptotische verdeling daarvan onder de nulhypothese zijn gepubliceerd door Kolmogorov. Een tabel van de verdeling is gepubliceerd door Nikolai Vasilyevich Smirnov. Voor de verdeling van de toetsingsgrootheid onder de nulhypothese voor eindige steekproefomvang bestaan er recurrente betrekkingen.

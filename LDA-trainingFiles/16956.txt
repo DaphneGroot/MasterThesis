@@ -1,0 +1,18 @@
+Hiragana.
+Hiragana (平仮名, letterlijk 'ordinaire kana') is een van de drie schrifttypen die tezamen het Japans schrift vormen. Het is een fonetisch schrift bestaande uit 46 basiskarakters, enkele geaccentueerde karakters en een aantal combinatiekarakters. Hiragana is vrij eenvoudig te leren. Alle Japanse woorden kunnen in hiragana worden geschreven en hiragana is het eerste schrift dat kinderen in Japan wordt geleerd.
+Een teken in hiragana geeft een mora weer, een medeklinker gevolgd door een klinker; bijvoorbeeld 'na', een klinker apart, zoals 'e', of het karakter ん dat in het Nederlands klinkt als 'n' of 'm'. Dit karakter wordt de 'syllabische n' genoemd.
+In de dagelijkse praktijk worden in het Japans kanji-tekens gebruikt (Chinese tekens), tezamen met hiragana voor verbuigingen en vervoegingen (onder andere naamvallen), voor verbindingswoorden en voor woorden waarvoor geen kanji beschikbaar is.
+Voor het translitereren van buitenlandse woorden wordt katakana gebruikt.
+Omdat vrijwel alle Japanners hiragana kunnen lezen, kan het ook worden gebruikt voor karakters die normaal gesproken in kanji zouden worden geschreven, maar waarvoor de schrijver het kanji-teken niet kent. In een Japanse krant is het percentage kanji-tekens vrij groot: hierdoor kunnen Chinezen, die alleen de kanji-tekens kennen, de artikelen in grote lijnen begrijpen. Voor eenvoudigere teksten wordt het percentage hiragana steeds groter en teksten voor jongere kinderen worden helemaal in hiragana genoteerd.
+Zelfs voor mensen die geen Chinees of Japans kunnen lezen, kan de aanwezigheid van hiragana eenvoudig worden gebruikt om een stuk tekst als Japans te herkennen (en te onderscheiden van Chinees).
+Hepburn-romanisatie van het hiragana-schrift.
+Hieronder staat een overzicht van de hiragana schrifttekens met de transliteratie volgens het Hepburnsysteem.
+"Opmerking: Als er Japanse tekens op de computer zijn geïnstalleerd, kunnen de volgende tabellen met hiragana worden bekeken, samen met hun Hepburn-romanisatie".
+Bijna niet meer gebruikte tekens zijn in het rood weergegeven.
+Het Japans heeft ook tweeklanken (diftongen). Deze worden in deze notatie weergegeven als ō ā ii ei en ū. De standaard hiragana notaties voor deze tweeklanken zijn echter, ou, aa, ii, ei en uu (bijvoorbeeld せんせい (sensei)).
+Pennenstreekvolgorde en schrijfrichting.
+De volgende tabel toont de schrijfmethodiek van elk hiraganakarakter. De nummers en pijlen geven respectievelijk de pennenstreekvolgorde en -richting aan.
+Geschiedenis.
+De oorsprong van het hiragana ligt in fonetische Chinese karakters. Deze vroege hiragana werd niet door iedereen erkend: veel mannen gebruikten kanji, omdat ze dat als de schrift van hoger opgeleiden zagen. Hiragana werd voornamelijk door vrouwen gebruikt, vooral omdat vrouwen geen toegang hadden tot de hogere opleidingen. Veel literatuur die door vrouwen werd geschreven, werd genoteerd in uitsluitend hiragana, waardoor het in het Japans ook wel de bijnaam "onnade" (letterlijk "vrouwenhand") had.
+Pas later won hiragana aan populariteit ten koste van katakana, dat nu bijna alleen nog voor dierennamen en de transliteratie van buitenlandse woorden gebruikt wordt.
+In het jaar 1900 werden de karakters voor gebruik in scholen definitief vastgesteld. Twee nauwelijks meer gebruikte hiragana- en katakanatekens werden kort na de Tweede Wereldoorlog afgeschaft. Beide schriftsoorten hebben daarom tegenwoordig nog maar 48 basiskarakters, hoewel de benaming van deze tekensets nog steeds "Gojūon" (50 klanken) luidt ["hiragana no gojūon" en "katakana no gojūon"].

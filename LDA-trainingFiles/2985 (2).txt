@@ -1,0 +1,7 @@
+Schaal van Pauling.
+De schaal van Pauling is een veel gebruikte methode om de scheikundige elementen naar hun elektronegativiteit te ordenen.
+De schaal is door chemicus en nobelprijswinnaar Linus Pauling in 1932 ontwikkeld.
+Elektronegativiteit is de mate waarin een atoom de neiging heeft om de bindingselektronen in een chemische binding aan te trekken.
+De waarden zijn niet op basis van een bepaalde formule berekend, of uit een exacte meting afkomstig, maar meer een pragmatische rangschikking.
+Pauling kende aan het meest elektronegatieve element, fluor, de waarde 4,0 toe, en gaf francium, het minst elektronegatieve element, waarde 0,7. Alle andere elementen scoren een waarde tussen beide extremen. De elementen in de tweede rij van het periodiek systeem kregen afgeronde waarden.
+De elektronegativiteit is het hoogste is de rechterbovenhoek van het systeem en het laagst in de linkeronderhoek. Daartussen verloopt de waarde geleidelijk, maar er is een 'eiland' van relatief hoge waarden bij de zware edelmetalen.

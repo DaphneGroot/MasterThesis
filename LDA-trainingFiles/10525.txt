@@ -1,0 +1,2 @@
+Kwalitatief kenmerk.
+In de statistiek is een kwalitatief kenmerk een kenmerk dat niet in een getal is uit te drukken. Voorbeelden van kwalitatieve kenmerken zijn kleuren, geuren, rangordes en dergelijke. Onderscheid kan worden gemaakt tussen schikbare (ordinale) en niet-rangschikbare (nominale) kwalitatieve kenmerken. Geuren zijn bijvoorbeeld niet rangschikbaar, maar loonschalen wel.

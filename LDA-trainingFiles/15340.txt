@@ -1,0 +1,35 @@
+Spoorwegsein.
+Armsein bij seinpost in Engeland, beide waren in 2003 nog in gebruik.
+Een spoorwegsein geeft de machinist of treinbestuurder van een trein opdrachten, toestemmingen en informatie. Seinen hebben de vorm van een wit of gekleurd licht, een bord, een beweegbare arm, lichten aan de voor- of achterzijde van een trein, geluidssignalen, gebaren, enzovoorts.
+Met het woord "sein" wordt de seininstallatie zelf bedoeld.
+Het "seinbeeld" is het beeld dat het sein laat zien.
+Een "seinstelsel" beschrijft de betekenissen van seinbeelden en de wijze waarop ze samenhangen.
+Seinen die langs de spoorbaan staan worden "baanseinen", "vaste seinen" en "laterale seinen" genoemd.
+"Cabineseinen" zijn seinen die in de treincabine zichtbaar worden gemaakt; men spreekt wel van "cabineseingeving", "cabinesignalering" of "stuurpostsginalisatie". Op lijnen waar volledig op cabineseinen wordt gereden zijn lichtseinen langs de baan bijna niet meer te vinden.
+Een aanwijzing wordt niet als sein gezien.
+Lichtseinen.
+De betekenissen van seinen lopen per seinstelsel of land uiteen. In de Verenigde Staten betekent groen bijvoorbeeld niet dat het sein voorbij gereden mag worden, maar alleen dat het spoor vrij is. De machinist mag alleen rijden met uitdrukkelijke toestemming van de treindienstleider, die in dat land dispatcher wordt genoemd. In de Europese landen geeft groen óók toestemming om te rijden en is een aparte toestemming van de treindienstleider niet nodig. De exacte betekenis van geel en rood verschilt ook per land, en de betekenis kan wijzigen door borden of extra lichten.
+Lichtseinen kunnen veel informatie geven, bijvoorbeeld of het veilig is door te rijden, én hoe snel gereden kan worden, én wat de stand van het volgende sein zal zijn. Om zoveel informatie door te kunnen geven tonen lichtseinen vaak meerdere lichten tegelijk.
+Het Nederlandse seinstelsel.
+De getallen op de snelheidsborden en bij seinen geven aan wat de maximale snelheid is waarmee mag worden gereden. De snelheid wordt aangegeven in tientallen km/h. Het getal 4 betekent dus 40 km/h. Snelheidsbeperkingen die door een lichtsein worden aangegeven gaan altijd boven snelheidsborden.
+Afbeeldingen en betekenissen van Nederlandse lichtseinen staan in de tabel hieronder.
+Er zijn meer spoorwegseinen. Alle spoorwegseinen zijn te vinden in bijlage 4 van de Regeling spoorverkeer..
+Het Belgische seinstelsel.
+Het Belgische seinstelsel maakt een duidelijk onderscheid tussen links en rechts rijden. Links rijden wordt "regime normaalspoor" genoemd, rechts rijden wordt "regime tegenspoor" genoemd. Een andere bijzonderheid van het Belgische seinstelsel is het onderscheid tussen "grote beweging" en "kleine beweging". Een kleine (trein)beweging heeft overeenkomsten met een rangeerbeweging, maar kan ook buiten een rangeeremplacement plaatsvinden.
+Afbeeldingen en betekenissen van Belgische lichtseinen staan in de tabel hieronder.
+Cabineseingeving.
+Als seinen in de cabine zichtbaar gemaakt worden spreekt men van cabineseingeving. Als cabineseinen en baanseinen gecombineerd worden bestaan er regels welke seinen gelden. Dit kan per situatie en zelfs per seinbeeld verschillen. Cabineseinen worden soms getoond in een apart scherm of via een apart kastje. Cabineseingeving kan ook gecombineerd worden met de snelheidsmeter.
+Treinbeïnvloedingssystemen bieden in veel gevallen een cabinesein. Het cabinesein van een treinbeïnvloedingssysteem kan eveneens zichtbaar zijn in een apart kastje of scherm, of een combinatie vormen met de snelheidsmeter.
+Voorbeelden van cabineseingeving met geïntegreerde treinbeïnvloeding.
+Voorbeelden van cabineseingeving met geïntegreerde treinbeïnvloeding zijn het Duitse Linienförmige Zugbeeinflussung (LZB) en het Franse Transmission Voie-Machine (TVM). De Duitse respectievelijk Franse hogesnelheidstreinen zijn met deze systemen uitgerust, voor zover deze lijnen niet al met European Rail Traffic Management System (ERTMS) zijn uitgerust. Maar bijvoorbeeld ook de Rotterdamse metro is met LZB uitgerust.
+Sommige typen treinbeïnvloedingssystemen met cabineseingeving zijn gebaseerd op standaarden, waardoor het mogelijk is trein in te zetten met apparatuur van verschillende leveranciers. Dat leidt weer tot een grotere markt en een breder gebruik van het standaardsysteem. Het meest aansprekende voorbeeld hiervan is het Europese ERTMS. Eveneens gestandaardiseerd, maar niet in die mate dat treinen met apparatuur van verschillende leveranciers op hetzelfde spoor kunnen rijden, zijn het Amerikaanse Positive Train Control (PTC) en het Communications-Based Train Control (CBTC), wat bijvoorbeeld bij de Amsterdamse metro wordt geïnstalleerd.
+ERTMS/ETCS-cabineseingeving.
+Het ERTMS/ETCS-cabinesein is een bedienscherm dat wordt aangeduid als driver machine interface (DMI). Het is ofwel een aanraakscherm, ofwel er zijn knoppen rond het scherm geplaatst. In het linkerbovendeel van de DMI, ofwel het ETCS-bedienscherm, wordt de snelheidsklok getoond met een forse wijzer en een band rond een deel van de snelheidsklok. Dit is de snelheidsinformatie. De wijzer toont de snelheid van de trein, zowel digitaal als analoog. De band geeft aan wat de maximumsnelheid is. De wijzer kan van kleur veranderen; deze kleuren hebben dezelfde functie als de gekleurde lichten van seinen langs de baan, maar deze kleuren zijn anders dan die van de seinen langs de baan. De band rond de snelheidsklok kan ook van kleur veranderen, ook voor een gedeelte. De band rond de snelheidsklok geeft daarmee aanvullende informatie. De kleur van wijzer hangt samen met een ETCS-status. De betekenissen van deze statussen en bijbehorende kleuren staan in de tabel hieronder.
+Hieronder enkele voorbeelden van de snelheidsinformatie van de driver machine interface (DMI), ofwel ETCS-bedienscherm. Op de afbeeldingen hieronder staat niet de hele DMI, maar het linkerbovendeel, waar de DMI de snelheidsinformatie toont. De snelheidsinformatie geeft aan hoe snel de trein rijdt, hoe snel de trein mag rijden, en of de snelheid verminderd moet worden en zo ja tot welke snelheid.
+Armseinen.
+Een armsein is een mechanisch spoorwegsein. Het bestaat uit een paal met een beweegbare arm. Deze arm wordt elektrisch of met trekdraden bediend. De arm geeft de stand van het sein aan. De betekenis van de stand van de arm verschilt per land en per seintype. Armseinen tonen ook een gekleurd licht, zodat machinist of treinbestuurder armseinen ook bij duisternis kunnen waarnemen. Deze lichten zijn in het algemeen zwak en bij daglicht niet goed zichtbaar.
+In België en Nederland zijn armseinen (vrijwel) overal verdwenen. Het laatste armsein in Nederland was tot 2006 in gebruik op Utrecht Goederenemplacement. Armseinen zijn nu alleen nog te zien bij spoorwegmusea en museumspoorlijnen.
+Front- en sluitseinen.
+De lichten op de voor- en achterzijde van een trein worden respectievelijk front- en sluitsein genoemd. Sluitseinen kunnen ook de vorm van bordjes hebben.
+Treinlengteborden.
+Treinlengteborden zijn zichtbaar op of nabij perrons.

@@ -1,0 +1,31 @@
+Voyager 1.
+Baan van Voyager 1 en 2.
+Voyager 1 is een onbemande ruimtesonde die op 5 september 1977, kort na de lancering van Voyager 2, vanaf Cape Canaveral door middel van een Titan III-raket gelanceerd werd. Met een afstand tot de zon van 125 AE (18,7 miljard kilometer) heeft Voyager I in augustus 2013 het zonnestelsel verlaten en, als eerste door mensen vervaardigd object, de interstellaire ruimte bereikt. In juli 2016 bevond de Voyager 1 zich op een afstand van 20,2 miljard kilometer van de Aarde.
+Missie.
+Halverwege de jaren 60 van de twintigste eeuw dacht men bij NASA na over een "Grand Tour" om de buitenste planeten van het zonnestelsel te bestuderen. De Grand Tour zou gebruikmaken van een gunstige uitlijning van Jupiter, Saturnus, Uranus, Neptunus en Pluto eind jaren 70 die maar eens in de 175 jaar voorkomt. Bezuinigingen resulteerden in 1972 echter in een vroegtijdig einde van de "Grand Tour". Veel elementen van de plannen werden niettemin toegepast bij het Voyagerprogramma.
+Oorspronkelijk was Voyager 1 als "Mariner 11" van het Marinerprogramma gepland. Onder druk van bezuinigingen werd de missie echter versimpeld tot een flyby van Jupiter en Saturnus en "Mariner Jupiter-Saturn" genoemd. Later werd de naam gewijzigd in Voyager, omdat de sonde wel erg begon af te wijken van voorgaande Mariner missies.
+Ontwerp.
+Voyager 1 is ontworpen door het Jet Propulsion Laboratory. De sonde bevat 16 hydrazine thrusters, drie gyroscopen en referentie-instrumenten om de antenne op de Aarde gericht te houden. Tezamen met back-upinstrumenten en acht extra thrusters, vormen deze het Attitude and Articulation Control Subsystem (AACS). Daarnaast zijn er 11 wetenschappelijke instrumenten aan boord voor het bestuderen van onder andere planeten.
+Communicatiesysteem.
+Het communicatiesysteem van Voyager 1 is ontworpen om tot buiten het zonnestelsel te worden gebruikt. Het systeem bestaat uit een schotelantenne met een diameter van 3,7 meter. Via de antenne kunnen radiosignalen worden ontvangen van en verstuurd naar de drie Deep Space Network stations op Aarde.
+Wanneer Voyager 1 niet direct met de Aarde kan communiceren worden de data opgeslagen op een digitale bandrecorder met een capaciteit van 69,63 kilobyte. In 2013 doet een signaal van Voyager 1 er 17 uur over om de Aarde te bereiken.
+Energievoorziening.
+Voor de energievoorziening heeft Voyager 1 drie thermo-elektrische radio-isotopengeneratoren aan boord. Elke generator bevat 24 bollen van plutonium(IV)oxide, verrijkt met de isotoop plutonium-238. Ten tijde van de lancering leverden de generatoren samen 470 Watt. Doordat de brandstof een halveringstijd van 87,7 jaar heeft neemt het vermogen continu af. Tegen 2025 zal geen enkel instrument meer stroom krijgen.
+Boodschap.
+Voyager 1 heeft een gouden grammofoonplaat bij zich, de Voyager Golden Record, bedoeld als boodschap aan buitenaardse beschavingen. Hierop staan tekeningen en geluiden afkomstig van de aarde. Verder bevat de plaat symbolen die dienen als handleiding om hem te kunnen afspelen. De inhoud van deze plaat is samengesteld door een commissie onder leiding van Carl Sagan.
+Lancering.
+Voyager 1 werd op 5 september 1977 vanaf lanceerplatform 41 van Cape Canaveral met een Titan IIIE raket gelanceerd. Voyager 2 was twee weken eerder, op 20 augustus, gelanceerd. Hoewel Voyager 1 later was gelanceerd bereikte hij zowel Jupiter als Saturnus als eerste, omdat hij een kortere route volgde.
+Jupiter.
+Voyager 1 bereikte als eerste van de twee en fotografeerde die planeet van januari tot april 1979. De twee Voyager-ruimtesondes deden enkele interessante ontdekkingen over Jupiter en zijn manen, onder meer de ontdekking van het bestaan van zwavelvulkanen op de maan Io, die nog niet door voorgaande ruimtevaartuigen was verkend.
+Saturnus.
+Voyager 1 ging verder en vloog in november 1980 langs Saturnus. Hij bestudeerde de planeet en zijn maan Titan en detecteerde complexe structuren in de ringen van Saturnus.
+Verlaten van de heliosfeer.
+In 1990 stuurde Voyager 1 de eerste foto's, genomen buiten ons zonnestelsel, door naar de Aarde. Op de foto's staan zes planeten, waaronder de Aarde, van een afstand van zes miljard kilometer.
+Dit zijn ook de laatste foto's van de ruimtesonde voordat de camera definitief werd uitgeschakeld.
+Op 17 februari 1998 bereikte Voyager 1 een afstand van 69 AE van de Zon. Daarmee nam hij de plaats van Pioneer 10 over als verst van de Aarde verwijderde door de mens gemaakte object.
+Op 12 augustus 2006 overschreed Voyager 1 de grens van 100 AE.
+Interstellair medium.
+In 2010 bereikte de Voyager 1 een nieuw gebied op de overgang van ons zonnestelsel naar de interstellaire ruimte (eind 2011 door NASA bevestigd). Nog in 2010 werd vanaf 113 AE het stagnatiegebied door Voyager 1 bevestigd. De snelheid van de zonnewind loopt daar terug naar nul, het magnetisch veld verdubbelt, en het aantal elektronen dat met hoge energie van buiten het zonnestelsel komt, neemt met een factor 100 toe.
+In juni 2012 werd bekend dat de Voyager 1 een toename van kosmische straling heeft gemeten, hetgeen aangaf dat Voyager 1 in de buurt van de heliopauze was aangekomen. In augustus 2012 verliet de Voyager 1 het zonnestelsel, als eerste satelliet in de geschiedenis, en bereikte de interstellaire ruimte. Dit nieuws werd pas op 12 september 2013 definitief door NASA bevestigd, omdat de grens van het zonnestelsel niet eenduidig is.
+Afstand tot de zon.
+Doordat de Aarde om de Zon draait loopt de afstand tot de Voyagers een deel van het jaar terug. De afstand tot de Zon neemt wel continu toe. Op de website van de NASA is te zien hoe ver de Voyagers 1 en 2 van de zon verwijderd zijn en hoelang het licht van de zon er over doet om de Voyagers te bereiken. In oktober 2013 was de Voyager 1 al 125,8 AE (1,88 × 1010 km) van onze zon verwijderd, ofwel 0,002 lichtjaar. Ter vergelijking: de dichtstbijzijnde ster - afgezien van de Zon - is 266.877 AE ofwel 4,22 lichtjaar verwijderd van de Aarde. De snelheid ten opzichte van de Zon bedraagt op dit moment 17,07 km/s of 61.452 kilometer per uur, ofwel 3,6 AE per jaar. Het dataverkeer tussen Aarde en de Voyagers heeft te maken met vertraging ter grootte van de duur van een retourtje Aarde-Voyager-Aarde ("roundtrip delay time"). In 2014 bedroeg de vertraging al ongeveer 36 uur.

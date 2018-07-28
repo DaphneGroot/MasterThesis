@@ -1,0 +1,2 @@
+XNU.
+XNU is de kernel van Mac OS X, het besturingssysteem van Apple voor Macs. XNU is een hybride kernel die bestaat uit: "Mach 3.0 microkernel" en de "4.4BSD system services". Het is een opensourceproject. XNU is een acroniem voor "X is Not Unix". XNU wordt ook gebruikt in iOS en kan daarnaast gebruikt worden op een aantal ARM-platformen.

@@ -1,0 +1,10 @@
+VRML.
+Voorbeeld van een huiskamer gemaakt met VRML.
+Virtual Reality Modeling Language (VRML) is een markup-taal waarin driedimensionale objecten kunnen worden beschreven, speciaal ontworpen voor het wereldwijde web. Door middel van een VRML-browserplug-in kan het object dan van alle kanten worden bekeken, geroteerd, in- en uitgezoomd worden enzovoort. Dit maakt het mogelijk driedimensionale scènes via het internet te presenteren zonder dat hier extreem veel gegevens voor moeten worden verstuurd. VRML heeft een opvolger, X3D, die bedoeld is om VRML te vervangen.
+Bestandsformaat.
+VRML is een tekstbestand waarin vertices en hoeken voor een 3D-polygoon worden opgeslagen. Ook vlakkleuren, texturen, transparantie en dergelijke kunnen worden opgeslagen. Het is ook mogelijk URL's te gebruiken, waardoor het mogelijk is op een object te klikken waarna bijvoorbeeld een nieuw VRML-object ingeladen wordt.
+Animaties, geluiden, belichting en dergelijke kunnen door middel van "events" zoals timers. Het is zelfs mogelijk om code geschreven in Java of JavaScript toe te voegen.
+Vele 3D-modelleerprogramma's hebben de mogelijkheid om objecten en scènes als VRML op te slaan.
+VRML-bestanden worden vaak "werelden" genoemd en hebben daarom de.wrl-extensie (bijvoorbeeld huis.wrl). VRML-bestanden die met gzip gecomprimeerd zijn krijgen de extensie.wrz. Gecomprimeerde VRML-bestanden zijn enkele malen kleiner en kosten dus minder tijd om over bijvoorbeeld het Internet te transporteren.
+Bol.
+Uitleg: Na de header (kopregel) die het bestandstype aangeeft (VRML versie 2) volgt een "Transform" die een of meer objecten een bepaalde plaats en oriëntatie geeft, in dit geval de oorsprong (x, y en z 0.0). De betreffende objecten staan in een lijst "children", in dit geval één "Shape" met een bepaalde geometrie (een bol met straal 1) en bepaald uiterlijk (een materiaal met een blauwe kleur).

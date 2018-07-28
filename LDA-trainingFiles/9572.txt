@@ -1,0 +1,4 @@
+RNA-virus.
+Een RNA-virus is een virus waarvan het erfelijk materiaal uit RNA bestaat; dit in tegenstelling tot een DNA-virus (en de meeste organismen).
+De afkorting ss staat voor "single strand", een enkele RNA-streng, vergelijkbaar met mRNA zoals dat in de cellen van alle organismen voorkomt. De (+) geeft aan dat het RNA direct leesbaar is voor ribosomen en de (-) dat er eerst een matrijs (positieve kopie) moet worden gemaakt.
+De afkorting ds staat voor "double strand", een dubbele RNA-streng. Dit is buiten de groep van RNA-virussen verder zeer zeldzaam bij organismen.

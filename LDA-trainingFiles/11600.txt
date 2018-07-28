@@ -1,0 +1,6 @@
+Harmonisch gemiddelde.
+Voorbeeld.
+De gemiddelde snelheid van twee ritten over dezelfde afstand, gereden met verschillende maar constante snelheid, is het harmonisch gemiddelde van de beide snelheden. Als de heenreis wordt gereden met 100 km/u en de terugreis met 120 km/u, is de gemiddelde snelheid van de totale rit het harmonisch gemiddelde van de twee snelheden, 109 km/u. Als in plaats van de lengte, de "tijdsduur" van de ritten gelijk is, dient men het rekenkundig gemiddelde te gebruiken.
+Toepassing.
+In de verkeerskunde wordt het harmonische gemiddelde van snelheden (berekend uit de gemeten passeersnelheden van voertuigen op een wegdoorsnede) gebruikt in verkeersafwikkelingsberekeningen.
+Als In de elektrotechniek elk van parallel geschakelde weerstanden vervangen wordt door het harmonisch gemiddelde van die weerstanden, is de vervangingsweerstand hetzelfde. Analoog geldt dit voor het geleidingsvermogen van in serie geschakelde weerstanden.

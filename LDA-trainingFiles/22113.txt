@@ -1,0 +1,11 @@
+Methode Condorcet.
+De Condorcet-methode is een manier om verkiezingen te houden. De Condorcet-winnaar van een verkiezing is de kandidaat die, wanneer om de beurt met elke andere kandidaat vergeleken, wordt verkozen boven de andere kandidaat. Een Condorcet-winnaar zal niet altijd bestaan (zie paradox van Condorcet) hetgeen betekent dat een alternatieve winnaar moet worden gekozen.
+Elk stemsysteem dat de Condorcet-winnaar kiest wanneer die bestaat heet een Condorcet-methode, naar de bedenker, de 18e-eeuwse wiskundige en filosoof Condorcet, al lijkt de methode al bedacht te zijn in de 13e eeuw door Ramon Llull.
+Procedures.
+Elke stemmer zet de kandidaten in zijn voorkeursvolgorde. Voor elk paar van kandidaten wordt er bepaald hoeveel kiezers de ene kandidaat boven de andere verkiezen (een niet op het lijstje vermelde kandidaat wordt beschouwd als minder gewenst). Als er een kandidaat is die wordt verkozen boven elke andere kandidaat wordt die uitgeroepen tot winnaar.
+Geschillen oplossen.
+Het feit dat Condorcet zelf al het debat begon over welke specifieke Condorcet-methode gepromoot moet worden, maakt de term "Condorcet's methode" ambigu.
+Een voorbeeld.
+In deze verkiezingen is Nashville de winnaar. Bij andere systemen zou Memphis de verkiezing hebben kunnen winnen doordat er meer mensen zijn. Nashville won echter meteen elke gesimuleerde paarsgewijze verkiezing. Merk op dat Knoxville in dit voorbeeld zou winnen wanneer er gebruik werd gemaakt van "Instant Runoff Voting".
+Condorcet vergeleken met "Instant Runoff".
+Er zijn redelijke argumenten om het Condorcet-criterium te beschouwen als een vereiste van een stemsysteem: als er een Condorcet-winnaar is, zou deze als de (enige) winnaar moeten worden gekozen door het systeem. Vanuit dit standpunt is "Instant Runoff" niet zo goed als het Condorcet-schema, omdat er omstandigheden kunnen voorkomen waarin het systeem niet de Condorcet-winnaar verkiest.

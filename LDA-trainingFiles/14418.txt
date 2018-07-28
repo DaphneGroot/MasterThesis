@@ -1,0 +1,21 @@
+Kwint.
+Een kwint (van Latijn: "quintus", de vijfde) is in de muziektheorie het interval in een diatonische toonladder tussen een eerste toon en de daarboven liggende vijfde. Een kwint omvat vier toonafstanden. Het interval tussen bijvoorbeeld de tonen c en g is dus een kwint. Men zegt dat de g een kwint boven de c ligt. Daarnaast wordt ook de toon die in een diatonische toonladder op de vijfde toontrap ligt, de kwint genoemd. Zo is de g de kwint in de toonladder van c. Ook wordt de tweeklank die bestaat uit twee tonen die een kwint uit elkaar liggen, als kwint aangeduid. De tweeklank c-g is een kwint, of de tonen c en g vormen een kwint.
+In vroegere tijden werd de kwint aangeduid als "diapente", van het Oudgriekse διά (dia) πέντε (pente), "door (of met) vijf".
+Varianten.
+Van een kwint komen de volgende varianten voor: reine kwint, verminderde kwint en overmatige kwint.
+Reine kwint.
+De meest voorkomende variant is de reine kwint. Daarvan zijn ook de beide andere varianten afgeleid. In de reeks natuurtonen is het octaaf de eerste boventoon en ligt de tweede boventoon een reine kwint hoger dan dit octaaf, met een frequentieverhouding 3:2. De reine kwint is daarmee zeer verwant met dit octaaf, en op het octaaf na het meest consonant met de grondtoon.
+Hiervan afgeleid wordt elke kwint rein genoemd met een toonafstand van 3 hele en 1 halve toon.
+Verminderde kwint.
+Als de hogere toon van een reine kwint chromatisch met een halve toon verlaagd wordt, heet het interval een verminderde kwint. De toonafstand in een verminderde kwint bedraagt dus 2 hele en 2 halve tonen.
+De verminderde kwint is wat toonafstand betreft te vergelijken met een interval dat bestaat uit 3 hele tonen en daarom tritonus genoemd wordt, een van mogelijkheden voor een overmatige kwart. Een verminderde kwint wordt daarom ook wel als tritonus opgevat, hoewel dat strikt genomen niet juist is: het is de gelijkvormige omkering ervan. De verminderde kwint is het enige interval dat bij omkering (in een overmatige kwart dus) dezelfde intervalgrootte behoudt. Een verminderde kwint lost krimpend op in een terts (voorbeeld: c-ges lost op in de majeurterts des-f of de mineurterts des-fes). De overmatige kwart daarentegen lost spreidend op in een sext (voorbeeld: c-fis lost op in de mineursext b-g of de majeursext bes-g). Harmonisch gezien hebben de verminderde kwint en overmatige kwart dus verschillende eigenschappen.
+Overmatige kwint.
+Als de hogere toon van een reine kwint chromatisch met een halve toon verhoogd wordt, heet het interval een overmatige kwint. De toonafstand in een overmatige kwint bedraagt dus 4 hele tonen of 2 hele plus een halve plus een anderhalve toon.
+Enharmonisch is de overmatige kwint gelijk aan een kleine sext.
+Stemming.
+De kwint heeft in de reine stemming een frequentieverhouding van 3:2, wat ongeveer overeenkomt met 702 cents. In de gelijkzwevende stemming is de kwint echter 700 cents. Na het octaaf, dat de eerste boventoon vormt, en daarom het meest verwant klinkt met de grondtoon, is de reine kwint de een octaaf lager klinkende tweede boventoon, en daarom ook zeer verwant met de grondtoon.
+In de reine stemming zijn alle kwinten tussen stamtonen rein, behalve het interval B - F, dat een verminderde kwint is.
+In de stemming van Pythagoras is de kwint natuurrein.
+De opvolgende snaren op een viool, altviool of cello worden normaal gestemd in reine kwinten, waarbij het wel uitmaakt met wat voor instrumenten men samenspeelt. Zo zal men bij samenspel met de piano de kwinten iets krapper stemmen, dan in bijvoorbeeld een strijkkwartet, omdat de piano de getempereerde stemming hanteert.
+Orgelregister.
+Op veel orgels is een speciaal kwintregister aanwezig, waarbij de grondtoon vergezeld gaat van een hoger gelegen kwint. Dit register is meestal prestantachtig geïntoneerd, met een formula_1 of formula_2 voetmaat. Dit kwintregister wordt veel gebruikt als vulstem. Dit register komt ook voor onder de oude naam " Quint" of in varianten als "Qvinte".

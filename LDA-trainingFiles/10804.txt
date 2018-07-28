@@ -1,0 +1,6 @@
+Schaakdatabase.
+Een schaakdatabase is een databank waarin gegevens over gespeelde schaakpartijen worden opgeslagen. Door verschillende organisaties en personen in de schaakwereld worden dergelijke databases opgebouwd en onderhouden. Deze worden als commercieel product op cd-rom uitgebracht, of via internet verspreid.
+Deze gegevens kunnen over de gehele verzameling worden bepaald, maar ook kan worden bepaald hoe zij zich in de loop der tijd hebben ontwikkeld.
+Het onderling uitwisselen en aanvullen van de databases wordt gehinderd door commerciële belangen, andere uitgangspunten met betrekking tot het collectiebeleid en het databankenrecht.
+De vulling van de databases wordt in de praktijk beperkt door de beschikbaarheid van gespeelde partijen, en de mate waarin partijnotaties gedigitaliseerd zijn. Bij de gesloten internationale toernooien op topniveau is het tegenwoordig vanzelfsprekend dat de gespeelde partijen in digitale vorm via internet verspreid worden. Maar bij open toernooien met een regionaal karakter en bij amateurtoernooien worden de partijnotaties veelal niet systematisch verzameld, gedigitaliseerd en verspreid.
+Men dient er bij het interpreteren van de statistieken rekening mee te houden dat de cijfers in feite meer zeggen over de specifieke database waaraan ze ontleend zijn, dan over de mogelijke zetten.

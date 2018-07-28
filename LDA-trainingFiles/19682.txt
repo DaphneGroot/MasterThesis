@@ -1,0 +1,12 @@
+PostgreSQL.
+PostgreSQL is een vrije relationele-databaseserver, uitgegeven onder de PostgreSQL licence, gelijkwaardig aan de flexibele BSD-licentie. Het biedt een alternatief voor zowel opensource-databasemanagementsystemen, zoals MariaDB en Firebird, als voor propriëtaire systemen, zoals Oracle, Oracle MySQL, Sybase, DB2 en Microsoft SQL Server. PostgreSQL wordt niet beheerd of gecontroleerd door één enkel bedrijf, maar steunt op een wereldwijde gemeenschap van ontwikkelaars en bedrijven.
+PostgreSQL wordt officieel uitgesproken als "post-gress-Q-L" (poost-kress-Q-L), maar veel gebruikers korten het af tot "postgres".
+Geschiedenis.
+PostgreSQL is afgeleid van Postgres, dat weer afstamde van Ingres; beide projecten werden geleid door Michael Stonebraker. Het Postgres-project liep van 1986 tot 1993, waarna het in 1994 onder de naam Postgres95 voortgezet werd door twee andere softwareontwikkelaars. In 1996 werd het project hernoemd naar PostgreSQL.
+Versies.
+Versie 9.1 wordt niet langer onderhouden.
+De aanduiding voor de PostgreSQL-hoofdversie ("major release") bestaat uit 2 nummers, gescheiden door een punt, bijvoorbeeld 8.4 of 9.1 of 9.3. Dit zijn verschillende releases met verschillende features. Onderhoudsreleases ("minor release") worden aangeduid door een extra punt en nummer, bijvoorbeeld 8.4.19 of 9.1.11. of 9.3.2. Idealiter zou men voor enige hoofdversie slechts de hoogste onderhouds-release moeten gebruiken.
+Vanaf versie 10.0 (te verwachten in het najaar van 2017) zal het versienummeringssysteem bestaan uit 2 nummerdelen: <hoofdversie>.<onderhoudsrelease>.
+Techniek.
+Postgres was van oorsprong een onderzoeksobject, en de huidige databaseserver heeft daardoor nog altijd functionaliteiten die niet door alle databaseservers worden gedeeld.
+Een gebruiker kan in PostgreSQL zelf gegevenstypes definiëren en procedures in verschillende talen toevoegen. De talen waarin procedures kunnen worden geschreven zijn onder andere: PL/SQL, pgSQL, PL/Tcl, PL/Perl, en PL/Python (PL=Procedural Language; zie verder "Server Programming" in de officiële documentatie). PL/pgSQL is enigszins verwant aan Oracles SQL. PostgreSQL was een van de eerste databaseservers met MVCC, een systeem waarbij gegevens bij toegang niet vergrendeld (gelockt) worden maar een tijdstip krijgen opgestempeld.

@@ -1,0 +1,9 @@
+Schijf (wiskunde).
+Een schijf is in de meetkunde een verzameling van alle punten binnen (of ook op) een cirkel, het is een regio in een vlak die door een cirkel wordt begrensd.
+Van een schijf zegt men dat deze "open" of "gesloten" is naargelang de cirkel al of niet deel uitmaakt van de schijf (en dus al of niet de begrenzing van de schijf vormt).
+In Cartesiaanse coördinaten wordt een open schijf met centrum formula_1 en radius "R" beschreven door de formule
+terwijl de gesloten schijf met hetzelfde centrum en dezelfde straal worden gegeven door
+"Open schijven" spelen een rol in de definitie van de natuurlijke topologie van het vlak. Een deelverzameling van formula_4 heet open als deze geschreven kan worden als een vereniging van open schijven, of gelijkwaardig, als rond ieder punt van die deelverzameling een open schijfje bestaat dat volledig binnen de deelverzameling valt.
+Bovenstaande definitie kan veralgemeend worden tot een willekeurige metrische ruimte met afstandsfunctie (metriek) formula_5, maar in die context spreekt men gewoonlijk over een bal. De "gesloten schijf" resp. "gesloten bal" verkrijgen we door de strikte ongelijkheid formula_6
+De oppervlakte van een gesloten of open schijf met radius "R" is π"R"2 (zie π). In de "bal" wordt de schijf veralgemeend naar metrische ruimten. Soms gebruikt men het woord "schijf" waar men een "bal" bedoelt.
+In de theoretische natuurkunde is een schijf een star lichaam dat in staat is deel te nemen in botsingen in een twee-dimensionaal gas. Meestal wordt de schijf als star beschouwd, opdat de botsingen als elastisch kunnen worden behandeld.

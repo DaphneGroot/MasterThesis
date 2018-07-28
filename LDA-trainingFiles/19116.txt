@@ -1,0 +1,35 @@
+Lorentzkracht.
+De lorentzkracht is bekend als de kracht van een magnetisch veld op een bewegende lading.
+"De lorentzkracht is de kracht die op een lading wordt uitgeoefend door een elektromagnetisch veld"."
+De elektrische kracht kan een geladen deeltje versnellen (en dus ook vertragen). De magnetische kracht kan alleen de richting van de beweging van het deeltje veranderen, niet de grootte.
+De lorentzkracht is vernoemd naar de Nederlandse natuurkundige Hendrik Lorentz.
+Vooral de magnetische kracht is bijzonder omdat de grootte afhangt van de snelheid van het deeltje en omdat de richting loodrecht staat op die van het magnetisch veld. Het bestaan kan worden verklaard met behulp van relativistisch elektromagnetisme. Omdat elektrische stroom veroorzaakt wordt door bewegende lading, werkt de lorentzkracht ook op geleiders in (elektro)magnetische velden.
+Formulering.
+Een deeltje met elektrische lading "q" komt van links met snelheid "v". Een magneetveld formula_1 is naar de waarnemer toe gericht (pijlpunt in cirkel)
+Stel dat een deeltje beweegt door een elektrisch- en een magnetisch veld (of door één van beide). Het deeltje ondervindt dan
+formula_4 het elektrisch veld (in volt per meter),
+formula_1 het magnetisch veld (in Tesla),
+"q" de elektrische lading (in Coulomb) en
+formula_6 de snelheid van het deeltje (in meter per seconde).
+Een elektronenstraal wordt door de lorentzkracht afgebogen in een homogeen magneetveld. De blauwe cirkel is het gevolg van de excitatie van waterstofatomen die zich in de kathodestraalbuis bevinden.
+De elektrische kracht werkt in de richting van het elektrisch veld en geeft dus een versnelling, ongeacht de bewegingsrichting van het deeltje.
+Het uitwendig product (formula_8) geeft aan dat de magnetische kracht loodrecht staat op de snelheid formula_6 en het magnetisch veld formula_1. Dit verandert niet de grootte van de snelheid, maar wel de richting: de magnetische kracht buigt de baan van het deeltje af.
+Het uitwendig product zorgt ook voor een factor formula_11 in de grootte van de kracht. Daarbij is formula_12 de hoek tussen formula_6 en formula_1
+Op de afbeelding rechts is een deeltje weergegeven, met snelheid formula_6, in de achtergrond van een magnetisch veld B. Het deeltje ondervindt dus een lorentzkracht.
+Als de lading "q" positief is, werkt de kracht naar beneden zodat het deeltje in die richting afbuigt. Is "q" gelijk aan nul, dan is er geen lorentzkracht en gaat het deeltje rechtuit. Is "q" negatief, dan werkt de lorentzkracht naar boven.
+Verschijningsvormen.
+In het algemene spraakgebruik wordt vaak alleen de magnetische component als de lorentzkracht beschouwd. In vectorvorm geldt
+Voor de grootte van de kracht geldt
+met formula_18 de hoek tussen v en B.
+met I de stroomsterkte (in ampère) en formula_21 de lengte van de geleider (in meter).
+Voor de grootte van de kracht geldt
+met formula_18 de hoek tussen I en B.
+Voor de grootte van de kracht geldt
+Richting.
+Een belangrijk aspect van de lorentzkracht is de richting. Deze is loodrecht op het magnetisch veld (B), en ook loodrecht op de richting van de stroomsterkte (I) (of de (vectoriële) snelheid (v) van het geladen deeltje). De lorentzkracht werkt dus niet in de richting van het magnetisch veld. Daardoor wordt de stroomdraad ook niet per se naar de magneet of spoel getrokken die het veld veroorzaakt. Dit aspect maakt de lorentzkracht anders dan alle andere krachten.
+Ezelsbruggetjes.
+Om de richting van de lorentzkracht te bepalen kan men de "linkerhandregel" gebruiken. Houdt men de gestrekte linkerhand zo, dat de veldlijnen langs de palm intreden en dat de vingertoppen gericht zijn volgens de stroomzin, dan wijst de gestrekte duim de zin aan van de beweegkracht.
+Een andere manier is de "FBI-regel". U vormt een pistool met uw linkerhand door de wijsvinger recht vooruit te steken en een loodrechte hoek te laten vormen met uw duim. Uw duim steekt dan fier omhoog. Vervolgens wijst u met uw duim naar u toe en maakt u met de middelvinger een loodrechte hoek met de wijsvinger. De middelvinger wijst dan naar rechts. In de volgorde duim-wijsvinger-middelvinger worden zo de richtingen van de lorentzkracht (F), de magnetische veldlijnen (B) en de elektrische stroom (I) aangegeven, dus in de volgorde F-B-I.
+Een derde manier is de "kurkentrekkerregel". Men draait eenvoudig een kurkentrekker over de kleinste hoek van formula_26 naar formula_1. De kurkentrekker gaat dan vooruit de fles in. Dit is de richting van de lorentzkracht formula_28.
+Toepassingen.
+Afbeelding Lorentzkracht op een muur in Leiden

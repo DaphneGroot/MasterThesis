@@ -1,0 +1,35 @@
+Steekproef.
+Een steekproef of monster, een statistisch begrip, is een selectie uit een totale populatie ten behoeve van een meting van bepaalde eigenschappen van die populatie. In het dagelijkse spraakgebruik kan een monster ook een voorbeeld van één individu uit een populatie betekenen.
+De term steekproef is afkomstig van het Duitse Stichprobe, dat werd gebruikt voor een monster uit het vloeibare metaal in een hoogoven. Ook werd het gebruikt voor een monster uit een ongeopende zak graan met een speciaal instrument dat de zak niet beschadigde. Op de kaasmarkt ziet men ook letterlijk een steekproef, wanneer de keurmeester een kaasboor (een speciaal soort mes) in de kaas steekt om uit het midden van de kaas een stukje te keuren (proeven).
+Soorten steekproef.
+Men kan op verschillende manieren een steekproef verkrijgen.
+Aselecte steekproef.
+Als alle elementen uit de populatie dezelfde kans hebben om in de steekproef te worden opgenomen, spreekt men van een aselecte steekproef.
+Selecte steekproef.
+Men spreekt van een selecte steekproef wanneer de elementen niet op toevalsbasis uit een populatie worden genomen.
+Representatieve steekproef.
+Als de populatie ten aanzien van een bepaald kenmerk is gepartitioneerd in een aantal klassen (categorieën, lagen), zorgt men in een representatieve steekproef ervoor dat deze klassen in dezelfde verhouding in de steekproef vertegenwoordigd zijn als in de populatie. Zorgt men er bijvoorbeeld voor dat de verhouding waarin mannen en vrouwen in de steekproef voorkomen ongeveer gelijk is aan de verhouding in de bevolking, dan heet de steekproef representatief (althans wat het kenmerk "geslacht" betreft). De keuze bepaalt in grote mate de validiteit van verdere analyse.
+Quotasteekproef.
+Een quotasteekproef is een vorm van representatieve steekproef. De aantallen voor de te representeren categorieën, de quota, worden vooraf bepaald, maar het wordt aan degenen die daadwerkelijk de steekproef uitvoeren, overgelaten de elementen zelf te kiezen, als de gewenste quota maar gehaald worden.
+Gelaagde of gestratificeerde steekproef.
+Als de populatie ten aanzien van een bepaald kenmerk is verdeeld in een aantal klassen (categorieën, lagen), spreekt men van een gelaagde of gestratificeerde steekproef, als de steekproef gevormd wordt door steekproeven uit elk der klassen. Een voorbeeld hiervan is een steekproef waarbij uit elke klas (de categorieën) van een basisschool 3 leerlingen worden gekozen.
+Clustersteekproef.
+Als de populatie is verdeeld in een aantal vergelijkbare deelpopulaties worden deze deelpopulaties 'clusters' genoemd. Men spreekt van een clustersteekproef, wanneer er een aselecte steekproef uit de clusters wordt getrokken en men vervolgens alle elementen van de geselecteerde clusters in de steekproef opneemt. Een voorbeeld van een clustersteekproef is het onderzoeken van de teamleden van 3 van de 20 sportteams van een sportclub. Hierbij zijn dus alle elementen (nl. de sporters) van de 3 deelpopulaties (sportteams) uit de gehele populatie (de sportclub) gekozen.
+Systematische steekproef.
+In een systematische steekproef worden de elementen die in de steekproef worden opgenomen, op systematische wijze bepaald. Zo kan als systeem gehanteerd worden dat elke tiende voorbijganger ondervraagd wordt, tot het gewenste aantal bereikt is.
+Gemakssteekproef.
+In een gemakssteekproef worden de elementen die in de steekproef worden opgenomen, gekozen uit een voor de hand liggend, gemakkelijk toegankelijk deel van de populatie.
+Sneeuwbalsteekproef.
+In gevallen waarin de elementen van de populatie moeilijk bereikbaar zijn, wordt wel een volgend element in de steekproef aangewezen of bepaald door een vorig element, waardoor een soort sneeuwbaleffect ontstaat. Een op deze wijze verkregen steekproef wordt sneeuwbalsteekproef genoemd.
+Voorbeelden.
+Een fraai voorbeeld van een steekproef in materiële en statistische zin is (was) te zien tijdens de suikerbietencampagne in Noord-Holland. De bieten worden, nadat ze gerooid zijn, met vrachtwagens naar een schip gebracht om verder naar de fabriek vervoerd te worden. Omdat de vrachtwagens bieten van verschillende bedrijven aanvoeren, wordt elke vrachtwagen zowel voor als na het lossen gewogen, maar tevens wordt met een groot apparaat van elke vrachtwagen letterlijk een steekproef genomen op een willekeurige plaats in de lading om de kwaliteit vast te stellen.
+Bij een ander voorbeeld kan men van 1000 geldbeugels ("steekproef") tellen hoeveel buitenlandse euromuntjes erin zitten. Op grond daarvan kan men dan schatten hoeveel vreemde euromuntjes er in het hele land ("populatie") in omloop zijn. Een schatting heeft altijd een foutenmarge, die afhangt van de wijze van trekken van de steekproef. Neemt men relatief veel geldbeugels uit grensgemeenten in de steekproef op, dan is deze niet representatief, met als gevolg een vertekende uitkomst.
+Variabiliteit bij steekproeven.
+Doordat iedere steekproef uit andere elementen van de populatie kan bestaan, verschillen de uitkomsten gewoonlijk van elkaar, men noemt dit /spreekt dan van: variabiliteit bij steekproeven.
+Schatters.
+De manier van verwerking van de resultaten van een steekproef heet een "schatter". De keuze voor een schatter hangt af van de te verwachten eigenaardigheden van de kansverdeling in een populatie en van de eigenschap van de populatie waarin men geïnteresseerd is.
+Daarnaast zijn er schatters voor de spreiding en voor de scheefheid van de steekproef.
+Vertekening.
+Wanneer men systematisch bepaalde uitkomsten, gewild of ongewild, bevoordeelt, dan spreekt men van een vertekening. Zo hield men bijvoorbeeld in de tijd dat nog lang niet iedereen een telefoon had een telefonische enquête, waardoor natuurlijk sterke vertekening optrad.
+Uitbijters.
+Het resultaat van de steekproef kan uitbijters bevatten; dit zijn waarnemingen die sterk afwijken van hetgeen verwacht wordt. Er dient dan te worden bekeken wat de oorzaken (kunnen) zijn van deze uitbijters. Als er redenen zijn om aan te nemen dat deze data niet te vertrouwen is (bijv. een typefout bij de data-invoer; leeftijd van 131 jaar ipv 31 jaar) kan er voor worden gekozen deze data te verwijderen. Echter, als deze redenen ontbreken is het aan te raden de data twee keer te analyseren: een keer met de uitbijters én een keer zonder. Op deze manier kan de invloed van de uitbijter(s) in kaart worden gebracht en worden bediscussieerd.

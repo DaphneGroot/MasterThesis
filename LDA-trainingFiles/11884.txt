@@ -1,0 +1,19 @@
+Bandbreedte.
+Een illustratie van de benaderde versus de werkelijke bandbreedte waarover een kanaal kan beschikken.
+In de telecommunicatie wordt met bandbreedte van een transmissiekanaal het verschil bedoeld tussen de hoogste frequentie die wordt doorgelaten en de laagst doorgelaten frequentie.
+De definitie van bandbreedte is het gebruikte, continue interval in het frequentiespectrum, ofwel de frequentieband. Zo is bijvoorbeeld in de bedrade telefonie de gebruikte "band" het gedeelte gaande van 300 Hz (hertz) tot 3400 Hz, wat resulteert in een bandbreedte van 3100 Hz of 3,1 kHz.
+Aangezien de benaderde bandbreedte wordt voorgesteld als een blok op een signaalvermogen/frequentie-diagram en de werkelijke bandbreedte zich als een klokvormige normaalverdelingscurve gedraagt, moet er een compromis worden gemaakt. Dit wordt meestal gekozen volgens de halfvermogenregel ("half power gain convention"). Dit wil zeggen dat de grenzen van de band worden gekozen bij de frequenties waar het vermogen onder de helft van het maximale vermogen komt.
+(1)  formula_1
+(2)  formula_2
+formula_3 waarbij het vermogen is uitgedrukt in decibels.
+De grenzen worden dus gekozen op de frequentie(s) waarbij het vermogen meer dan 3 decibels zakt onder het maximale vermogen.
+Eenheid.
+De gebruikte eenheid is hertz (Hz) Bijvoorbeeld bij een traditionele telefoonlijn is de bandbreedte 3400 Hz - 300 Hz = 3100 Hz. Met bandbreedte wordt in de praktijk vaak bedoeld de afstand tussen de frequenties waarbij de transmissie van het kanaal met 3 decibel (-3 dB) is afgenomen ten opzichte van de topwaarde. Dit wordt aangegeven als B (3 dB).
+Definitie (digitaal).
+In datacommunicatie wordt met bandbreedte soms aangegeven hoeveel data per seconde door een verbinding verstuurd kan worden. 'Gebruikte bandbreedte' geeft aan, wat van de 'beschikbare bandbreedte' feitelijk is gebruikt. Juister is om in dat geval te spreken van kanaalcapaciteit, deze wordt dan veelal uitgedrukt in s (bits per seconde), kbit/s (kilobit per seconde vroeger ook wel 'kbps' genoemd), kbyte/s (kilobytes per seconde), Mbit/s (megabits per seconde), enzovoorts. Met de steeds groeiende bandbreedte die beschikbaar komt, wordt het werken met Gbit/s normaal.
+Theoretische en werkelijke kanaalcapaciteit.
+Deze factoren tezamen kunnen de oorspronkelijke beloofde (theoretische) kanaalcapaciteit met meer dan de helft doen afnemen. Met moderne coderingstechnieken kan men sinds 1997 dicht in de buurt komen van de grens, die volgt uit de theorie van Shannon. Viterbi ontwikkelde onder andere ten behoeve van het Voyager project een codering die slechts een fractie afligt van de Shannon-grens.
+Internet.
+In internet-toepassingen wordt de term 'bandbreedte' soms gebruikt om ogenblikkelijke transferlimiet aan te geven (kbit/s).
+Nauw verwant hieraan is de gewoonte van sommige providers om soms transferlimieten aan te geven (MB/dag, GB/maand). Er zijn echter ook veel providers die werken met een zogenaamde "fair-use-policy". Dit houdt in dat men in redelijkheid gebruik mag maken van de functies, echter niet moet overdrijven. De grens hiervan is moeilijk te bepalen en daarom blijft dit altijd een punt van discussie.
+In servertoepassingen wordt ook vaak een verbinding gebruikt die 100 Mbit/s of zelfs 1000 Mbit/s haalt. Vooral bij zeer drukbezochte servers (cq. websites) wordt hiervan gebruikgemaakt.

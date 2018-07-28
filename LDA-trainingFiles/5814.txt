@@ -1,0 +1,18 @@
+Cirkel.
+Een cirkel met middelpunt m, diameter d en straal r
+Een cirkel met middelpunt "x"0,"y"0) en straal "r"
+Een cirkel is in de meetkunde een tweedimensionale figuur die wordt gevormd door alle punten die dezelfde afstand tot een bepaald punt hebben. Dit punt, in de figuur aangegeven met "m", heet het "middelpunt" van de cirkel. De constante afstand heet de "straal" en wordt in de figuur aangegeven met "r". Een cirkel is de meetkundige plaats van alle punten in één vlak die op een constante afstand (de straal) van een vast middelpunt liggen.
+Soms wordt, om de maat van een cirkel aan te duiden, in plaats van de "straal" de "diameter" gebruikt ("d" in de figuur). De diameter is de grootste afstand tussen twee punten van de cirkel, en exact tweemaal zo groot als de straal.
+Soms wordt met de cirkel niet de kromme bedoeld, maar de verzameling van alle punten op en binnen die kromme. Wiskundig gezien is dat onjuist; alle punten binnen een cirkel vormen een schijf.
+Een lijnstuk waarvan de grenspunten op de cirkel liggen, noemen we een koorde. Elke koorde die door het middelpunt van de cirkel gaat, is een middellijn van die cirkel. De lengte van de middellijn is de diameter.
+De wiskundige vergelijking voor de punten (x,y) (coördinaat) in een 2-dimensionaal assenstelsel, die een cirkel vormen met middelpunt
+met pi, geschreven als formula_8, een wiskundige constante (bij benadering 3,14), "r" de straal van de cirkel en "d" de diameter.
+De lengte van een cirkelboog met een corresponderende middelpuntshoek van t radialen en een straal r is het product r.t
+De cirkel is de figuur met de grootste oppervlakte-omtrek verhouding: zij vormt het grootste oppervlak dat men kan omvatten met een gegeven lengte.
+Vastleggen van een cirkel door drie punten.
+Middelloodlijnen van een driehoek van koorden snijden elkaar in het middelpunt van een cirkel
+Door drie willekeurige punten die niet op één lijn liggen, is een cirkel bepaald. Het is de omgeschreven cirkel van de driehoek die de punten vormen. De middelloodlijnen van de zijden van deze driehoek gaan door één punt. Dit snijpunt ligt dus op gelijke afstanden van de drie punten en is dus het middelpunt van de cirkel waar de drie hoekpunten van de driehoek op liggen.
+Een cirkel heeft oneindig veel symmetrieassen. Elke rechte door het middelpunt is er één. Een cirkel heeft echter maar 1 symmetriemiddelpunt: het middelpunt van de cirkel.
+Vergelijking in barycentrische coördinaten.
+In barycentrische coördinaten ten opzichte van een gegeven driehoek ABC is de vergelijking van een cirkel
+waarin "pa", "pb" en "pc" de machten van A, B resp. C ten opzichte van de cirkel zijn.

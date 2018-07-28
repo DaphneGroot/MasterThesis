@@ -1,0 +1,34 @@
+Afgeleide.
+In de wiskunde is de afgeleide (het differentiaalquotiënt) een maat voor de verandering die een functie ondergaat als de argumenten van deze functie een infinitesimaal kleine verandering ondergaan.
+In een functie met één reële variabele wordt de afgeleide in een punt gegeven door de helling van de raaklijn aan de grafiek van deze functie in dat punt. Het woord "afgeleide" is hier in feite een afgekorte term voor het begrip "afgeleide waarde". Het is een "waarde" die "afgeleid" is van de oorspronkelijke functie. Het bepalen van de afgeleide van een functie heet differentiëren.
+Als de afgeleide van een functie gedefinieerd is voor alle punten in het domein van, wordt de daardoor bepaalde functie de "afgeleide functie" of kortweg de "afgeleide" genoemd. Het concept van de afgeleide van een functie werd in de 17e eeuw vrijwel tegelijkertijd door Isaac Newton en Gottfried Leibniz uitgevonden.
+Notatie.
+De afgeleide van een functie met variabele wordt genoteerd als ("f"-accent") of als formula_1. Ook wordt de notatie gebruikt.
+Als dan schrijft men soms formula_2, of of indien er verwarring mogelijk is.
+Raaklijn.
+Laat formula_8 een continue functie zijn. De raaklijn in het punt formula_9 aan de grafiek van formula_10 verkrijgt men door een koorde te beschouwen tussen de punten formula_9 en formula_12 en de afstand formula_13 steeds kleiner te nemen.
+De helling van de koorde door de twee punten is
+Als de limiet voor afnemende formula_13 bestaat, is deze limiet de richtingscoëfficiënt van de raaklijn en wordt de afgeleide van formula_10 in het punt formula_17 genoemd.
+Definitie.
+Als er een reëel getal formula_23 en een functie formula_24 bestaan, zodat voor alle formula_25 geldt
+en bovendien formula_27, dan is formula_23 de afgeleide van formula_10 in formula_19.
+Voor een functie met één reële variabele betekent dit meetkundig dat de afgeleide op een bepaald punt gelijk is aan de helling van de raaklijn aan de grafiek in dit punt.
+Toepassing van de rekenregels.
+Met behulp van de kettingregel kan ook de afgeleide van, worden bepaald, namelijk
+Niet differentieerbaar.
+De linker- en rechterlimieten zijn ongelijk aan elkaar. Dit is aan de vorm van de grafiek van de functie ook goed te zien.
+Functies van meer dan één variabele.
+Als van verscheidene veranderlijken afhangt, dan kan men alle veranderlijken op een na een constante waarde geven en de afgeleide ten opzichte van de ene overblijvende veranderlijke bestuderen: partiële afgeleide.
+Het artikel differentieerbaarheid bespreekt hoe de afgeleide van een functie van formula_84 naar formula_85 kan worden opgevat als een matrix.
+Afgeleiden van hogere orden.
+Is ook differentieerbaar, dan is het mogelijk hiervan de afgeleide te bepalen. Deze heet de afgeleide van de tweede orde, of kortweg tweede afgeleide van. Ook hogere afgeleiden komen voor. De -de afgeleide van wordt soms aangeduid met.
+We kunnen de hogere afgeleiden van een functie vinden met
+waarin formula_87 de -de afgeleide is (dus formula_88 is hetzelfde als).
+Fractionele afgeleiden.
+Het is ook mogelijk afgeleiden van niet-gehele orde te definiëren, bijvoorbeeld van orde. Deze hebben met integralen gemeen dat hun waarde van zowel een boven- als een ondergrens afhangt. Bij afgeleiden van gehele orde is dit niet zo. Een van de manieren waarop een dergelijke fractionele afgeleide bepaald kan worden is door eerst een functie aan fouriertransformatie te onderwerpen, vervolgens met de frequentie tot de macht te vermenigvuldigen en weer terug te transformeren.
+Toepassingen.
+Belangrijke toepassingen vindt de afgeleide in de wiskunde. Zo kan een maximum of minimum van een functie gevonden worden door de afgeleide te bepalen. Indien een functie voor een bepaalde -waarde een (lokaal) maximum of een (lokaal) minimum bereikt, dan is de afgeleide van de functie op dat punt indien deze bestaat gelijk aan nul, en wisselt bij de daaropvolgende -waarden van teken (wordt positief of juist negatief). Om een grafiek van een functie met de hand te tekenen is het daarom zinvol eerst de eventuele maxima en minima te bepalen. Om te bepalen of de punten waarin de afgeleide gelijk is aan nul maxima of minima zijn wordt soms gebruikgemaakt van de Hessiaan.
+Een toepassing van de tweede afgeleide is het volgende. Indien een punt is waarvoor geldt dat, dan is het punt een buigpunt, een lokaal maximum of een lokaal minimum. Deze drie gevallen kunnen onderscheiden worden door naar de tweede afgeleide te kijken. Wanneer, dan is er sprake van een lokaal maximum, en wanneer, dan spreken we van een lokaal minimum. Als, dan is nader onderzoek nodig van het verloop van de tweede afgeleide in een omgeving van, om een uitspraak (buigpunt, lokaal maximum, lokaal minimum) te kunnen doen.
+Het omgekeerde van de afgeleide bepalen heet de primitieve bepalen.
+Veel toepassingen heeft de afgeleide ook in de natuurkunde. Zo is bijvoorbeeld de snelheid de afgeleide bij het berekenen van plaats als functie van tijd. De versnelling is (bij een rechtlijnige beweging) dan weer de afgeleide van de snelheid.
+Ook binnen de economie heeft de afgeleide verschillende toepassingen, zeker sinds de zogenaamde "marginale revolutie" binnen de economische wetenschap. Via de afgeleide kunnen we begrippen als marginale opbrengst en marginale kosten berekenen. In deze gevallen gaat het om de afgeleide van de totale opbrengst en de totale kosten.

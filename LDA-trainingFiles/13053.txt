@@ -1,0 +1,13 @@
+Priemfactor.
+Een priemfactor van een natuurlijk getal "n" is een priemgetal waardoor we "n" kunnen delen zonder een rest over te houden.
+Ontbinding in factoren.
+Een ontbinding in priemfactoren (ook wel: "ontbinding in factoren" of gewoon "ontbinding") van een natuurlijk getal "n" is een multiset (hier geschreven als) van priemgetallen waarvan het product weer "n" is. Zo is een ontbinding van 10, want 2 en 5 zijn priemgetallen en 2×5=10, en is een ontbinding van 99, want 3 en 11 zijn priemgetallen en 3×3×11=99.
+Ieder element van een ontbinding van "n" is een priemfactor van "n", want het is een deler van "n" en het is een priemgetal.
+Een ontbinding in factoren is niet een gewone verzameling maar een multiset, omdat een priemfactor vaak meerdere malen moet worden gebruikt. Bijvoorbeeld: is een ontbinding van het getal 18, want 2×3×3=18; het getal 3 wordt tweemaal gebruikt.
+De hoofdstelling van de rekenkunde zegt dat elk natuurlijk getal groter dan 1 precies één ontbinding in priemfactoren heeft.
+Vinden van een ontbinding.
+In tegenstelling tot het uitvoeren van een vermenigvuldiging is het ontbinden in factoren een operatie die potentieel erg veel rekentijd kan vergen. Vermenigvuldigen van twee priemgetallen van 100 cijfers elk kost slechts milliseconden, maar de snelst bekende algoritmen (medio 2003) om getallen van 200 cijfers in factoren te ontbinden vergen vele jaren rekentijd. Hierop zijn enkele cryptografische technieken gebaseerd (onder andere de RSA-encryptie).
+Men kan bewijzen dat elk getal kan ontbonden worden in priemfactoren. Hier volgt enkel het bewijs van het bestaan van deze ontbinding, en niet van de uniciteit.
+De ontbinding van een priemgetal zelf is evident gewoon gelijk aan dat priemgetal.
+Stel nu dat een natuurlijk getal geen priemgetal is. Dit natuurlijk getal is dus deelbaar door een ander natuurlijk getal (dat niet gelijk is aan zichzelf). Het natuurlijk getal is dus te schrijven als "m×n" (met "m" en "n" beide natuurlijke getallen). Via inductie volgt nu dat "m" en/of "n" weer te schrijven zijn als het product van twee andere natuurlijke getallen (en als dat niet gaat is "m" en/of "n" een priemgetal). Dit kan herhaald worden tot er enkel priemgetallen overblijven.
+En dus is elk natuurlijk getal te schrijven als een product van priemfactoren.

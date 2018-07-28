@@ -1,0 +1,6 @@
+Hadron.
+Een hadron is een subatomair deeltje dat uit quarks bestaat. Deze quarks worden door onderlinge uitwisseling van gluonen bijeen gehouden. De naam is afgeleid van het Griekse "hadros", dat "sterk" betekent. Dit omdat de gluonen de sterke kernkracht vertegenwoordigen.
+Het grootste gedeelte van de massa van een hadron bestaat uit potentiële en kinetische energie.
+Zo bevat een proton (invariante massa 938 MeV/c2)
+twee up-quarks (2 x 3 MeV/c2) en een down-quark (6 MeV/c2). De overige massa is energie volgens Einsteins formule "E = mc2".
+Vier procent van de massa van het heelal bestaat uit hadronen, 23% donkere materie en 73% donkere energie, aldus resultaten van de WMAP.

@@ -1,0 +1,8 @@
+HyperText Transfer Protocol Secure.
+HyperText Transfer Protocol Secure, afgekort HTTPS, is een uitbreiding op het HTTP-protocol met als doel een veilige uitwisseling van gegevens. Bij gebruik van HTTPS worden de gegevens versleuteld, waardoor het voor een buitenstaander, bijvoorbeeld iemand die afluistert, onmogelijk zou moeten zijn om te weten welke gegevens verstuurd worden.
+HTTPS wordt veelal gebruikt bij betalingstransacties per creditcard of bij internetbankieren en bij uitwisseling of verzending en opslag van privacy-gevoelige informatie zoals naam, adres, geboortedatum en andere persoonsgegevens.
+Techniek.
+Een HTTPS-verbinding is een TLS-verbinding met daarin een normale HTTP-verbinding. De TLS-verbinding versleutelt hierbij het HTTP-verkeer, waardoor het verkeer, als het onderschept wordt, niet uit te lezen valt zonder het encryptie-algoritme te kraken. Dit in tegenstelling tot normaal HTTP-verkeer. Dit wordt namelijk als onversleutelde tekst over de verbinding verstuurd, waardoor het zonder iets te kraken uit te lezen valt als het onderschept wordt.
+Bij afspraak geschiedt HTTPS-verkeer standaard op poort 443, toegekend door IANA.
+Omdat de gegevens aan beide kanten door een beveiligde verbinding heen gaan, moeten zowel de server als de client hun data versleutelen en ontcijferen. Dit kost extra rekentijd, en dat is ook de reden waarom deze versleuteling niet standaard wordt toegepast. Met moderne computers is dat argument echter vooral een theoretische aangelegenheid, een voor mensen onmerkbaar verschil.
+De versleuteling wordt toegepast op basis van TLS. Vlak voor en na de versleuteling is de gegevensoverdracht identiek aan het HTTP-protocol.

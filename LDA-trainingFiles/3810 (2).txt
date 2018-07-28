@@ -1,0 +1,5 @@
+Vermoeden van Goldbach.
+Dit vermoeden is door veel theoretici onderzocht, tot op heden zonder een definitief resultaat, maar met behulp van computers is het vermoeden gecontroleerd voor even getallen tot 4 × 1018, op 5 juni 2006, door Oliveira e Silva.
+De meeste mathematici geloven dat het vermoeden waar is, meestal gebaseerd op statistische overwegingen van de waarschijnlijkheidsverdeling van de priemgetallen: heel grote even getallen kunnen meestal op zeer vele manieren als de som van 2 priemgetallen worden geschreven.
+We weten dat een even getal als som van ten hoogste 6 priemgetallen kan worden geschreven, en in 1966 toonde Chen aan dat elk voldoende groot even getal geschreven kan worden als de som van een priemgetal en een getal met ten hoogste twee priemfactoren. 'Voldoende groot' betekent dat er hoogstens een eindig aantal uitzonderingen is, maar dat niet bekend is hoe groot de grootste uitzondering is, als er al een uitzondering bestaat.
+Vermeldenswaard in dit verband is ook de bewezen stelling van Vinogradov, die stelt, dat elk 'voldoende groot' oneven getal te schrijven is als de som van 3 priemgetallen.

@@ -1,0 +1,3 @@
+Wide-bandgap halfgeleider.
+Wide-bandgap halfgeleiders zijn halfgeleidermaterialen die worden gebruikt om onderdelen zoals led's te maken die blauw licht kunnen uitzenden. De band gap-energie van een materiaal is de minimale energie die nodig is om een covalente binding te breken in een halfgeleider. Hoe groter deze band gap is, hoe hoger de energie er als fotonen vrijkomt bij het terugvallen van een aangeslagen elektron en hoe korter de golflengte zal zijn. Rode led's (met een kleine band-gap) zijn het makkelijkst te produceren, blauwe en ultraviolet het moeilijkst.
+Men doet nu onderzoek naar elektronische toepassingen: hoog vermogen, hogetemperatuurelektronica.

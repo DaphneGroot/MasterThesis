@@ -1,0 +1,6 @@
+QBasic.
+QBasic (een acroniem voor Quick Beginner's All-purpose Symbolic Instruction Code) is een variant van de programmeertaal Basic die gemaakt is door Paul Allen.
+De eerste variant hiervan van Microsoft was GW-BASIC, maar QBasic werd later populairder.
+Het programma QBasic bestaat zowel als interpreter als compiler. De interpreter is de meest bekende, omdat deze gratis was meegeleverd bij nieuwere MS-DOS-distributies en Windows 95. De compiler is minder bekend en werd geleverd onder de naam QuickBasic. Echt snel is het uitvoerbare bestand na compilatie niet, maar nog altijd een stuk sneller dan wanneer uitgevoerd vanuit QBasic. Dit in tegenstelling tot programma's die gemaakt zijn met C en Pascal.
+Het interpreter-programma QBasic is minder uitgebreid dan zijn grote broertje QuickBasic. Dat staat ook meer geavanceerdere functies toe (met name op het gebied van directe geheugenmanipulatie en het gebruik van softwarebibliotheken).
+QBasic werd standaard meegeleverd met twee programmeervoorbeelden in de vorm van de spellen Nibbles (een variant op Snake) en Gorillas.

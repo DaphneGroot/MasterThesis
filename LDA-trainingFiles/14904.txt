@@ -1,0 +1,9 @@
+Elektriciteitscentrale.
+Een elektriciteitscentrale is een centrale productielocatie voor de opwekking van elektriciteit. De meeste elektriciteitscentrales wekken energie op door middel van een generator die wisselspanning (typisch 20.000 volt) produceert.
+De eerste elektriciteitscentrale van Nederland lag in Kinderdijk. Deze werd ontworpen en gebouwd in 1886 door "Willem Benjamin Smit", tevens een van de oprichters van "Electrisch-Licht-Machinen Fabriek Willem Smit & Co." en voorzag Kinderdijk van elektriciteit.
+Thermische centrales.
+Een middel om de generator te laten draaien is deze te koppelen aan een stoomturbine. In een thermische centrale wordt water verwarmd en omgezet in stoom en onder hoge druk door een turbine geperst. Bij elektriciteitsopwekking komt veel warmte vrij die niet volledig benut wordt. Vaak wordt dit door middel van waterkoeling met grote koeltorens in het oppervlaktewater van een nabije rivier geloosd.
+Warmte-krachtcentrale.
+Sommige van dit type centrale hebben als nevenfunctie het opwekken van warmte voor bijvoorbeeld stadsverwarming of industrie. Dit type noemt men warmte-krachtcentrale. Een dergelijke centrale heeft meestal wel een lager rendement voor de elektriciteitsopwekking omdat een deel van de energie bewust wordt gebruikt voor het opwekken van warmte. Echter het totale thermische rendement is veel hoger, omdat de vrijkomende warmte effectief benut wordt.
+Productiepatroon.
+Elektriciteitscentrales hebben een eigen productiepatroon. Zo kan het vermogen van een gascentrale relatief gemakkelijk aangepast worden, hetgeen voor een kolencentrale niet mogelijk is. Omdat de prijzen gedurende de dag (en de week) sterk schommelen, is dit een belangrijk pluspunt. Daar staat tegenover dat de kosten van gas hoger liggen dan de kosten van kolen (per kWh opgewekte stroom). De keuze van een type centrale vereist dus een langetermijninzicht in meerdere complexe energiemarkten.

@@ -1,0 +1,6 @@
+Signaaltransductie.
+Signaaltransductie is het doorgeven van signalen binnen een cel.
+Deze signalen worden doorgegeven via 'paden' van voornamelijk eiwitten. Een eiwit kan bijvoorbeeld 'geschakeld' worden door een fosfaat-groep op een bepaalde positie aan te hechten (fosforylering door een kinase). Op die manier kan een signaal door de cel geleid worden naar de plek waar dat nodig is, waarna er iets met de cel kan gebeuren, bijvoorbeeld beweging, doodgaan (of niet), starten met deling, enz.
+Naast de signalen binnen de cel komen er ook signalen van buiten de cel met speciale signaalstoffen, zoals hormonen, neurotransmitters en andere moleculen.
+Signaalamplificatie.
+De meest succesvolle vorm van signaalversterking is door de vorming van secundaire boodschappermoleculen, die doorgaans eiwitkinasen activeren. Voorbeelden hiervan zijn: adenylaatcyclase (AC), fosfolipase C (PLC), tyrosine-specifieke proteïnekinasen (TPK; N.B.: hier staat T voor tyrosine, en wordt niet de gebruikelijke eenlettercode Y gebruikt!).

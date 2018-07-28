@@ -1,0 +1,16 @@
+Computerworm.
+Een computerworm (of kortweg worm) is een zichzelf vermenigvuldigend computerprogramma. Via een netwerk worden kopieën van deze worm doorgestuurd zonder een tussenkomst van een tussengebruiker. Een worm is geen computervirus want hij heeft geen computerprogramma nodig om zich aan vast te hechten. Men kan stellen dat een worm schade toebrengt aan een netwerk, waar een virus een gerichte aanval op een computer doet.
+Verspreiding.
+Het verschil met een computervirus is dat een worm zichzelf verspreidt over het net, terwijl een virus dit op zichzelf niet kan. Een computervirus heeft een host nodig zoals een bestand of e-mail. Dit is in het voordeel van een computerworm. Hij probeert op alle open poorten van een computer een geïnfecteerde code naar binnen te loodsen. Zo heeft een lek in Windows Explorer al veel voor de verspreiding van wormen op het net gezorgd. Een koppeling met het internet is dan genoeg om besmet te raken.
+Payloads.
+De broncode van de Morris-worm in het Computer History Museum.
+Er bestaan wormen die gemaakt zijn om enkel zichzelf te verspreiden en deze proberen de tussenliggende systemen niet te wijzigen. Netwerkverkeer wordt wel keer op keer vertraagd en valse toegangen kunnen in je configuratie sluipen. Voorbeelden van dit soort wormen zijn de Morris-worm en Mydoom.
+De payload is de lading, het doel waarvoor de worm is geschreven en is meestal alleen nuttig voor de maker. Bijvoorbeeld de ExploreZip-worm zal bepaalde bestanden verwijderen, andere versleutelen ze via een cryptologische aanval of versturen documenten via mail. De meest voorkomende payload is het installeren van een achterdeur op een computer om bijvoorbeeld ongewenste e-mail te versturen. Deze achterdeuren kunnen ook gebruikt worden voor andere payloads. Een voorbeeld hiervan is Doomjuice die via de achterdeur van een Mydoomworm in een systeem sluipt.
+XSS-wormen.
+Cross site scripting (XSS)-wormen zijn geschreven voor een website om bezoekers te infecteren. Deze wormen komen voor op bekende sociale sites als MySpace, Hyves, Facebook en Yahoo!. Het grote doel hiervan is persoonlijke informatie van de gebruiker te stelen.
+Nuttige wormen.
+Sommige wormen zijn geschreven om een systeem gebruiksvriendelijker te maken. Xerox PARC en de Nachi-worm proberen patches van de Microsoftwebsite te downloaden en te installeren. Het nadeel is ook hier dat andere wormen hiervan profiteren. Sommige personen vinden dit nuttig maar het is tijdrovend en het neemt de keuze af van de eigenaar of gebruiker.
+Logic bomb.
+Als een worm pas schade aanricht op een vooraf bepaald tijdstip (net als bij een tijdbom) of op het moment dat de software een bepaalde verandering waarneemt, wordt gesproken van een "logic bomb".
+Bescherming.
+Een computergebruiker kan zich beschermen door het computersysteem up-to-date te houden door middel van het installeren van updates en patches en door het systeem te voorzien van een up-to-date antivirussoftware.

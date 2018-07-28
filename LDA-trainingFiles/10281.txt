@@ -1,0 +1,12 @@
+Kubus (ruimtelijke figuur).
+Een kubus of (regelmatige) hexaëder is een regelmatig veelvlak, een zesvlak waarvan alle zes vlakken vierkanten zijn. De kubus is een van de vijf platonische lichamen, reeds beschreven door Plato.
+Een kubus komt in het dagelijks leven regelmatig voor. Dit komt doordat de kubus een regelmatig figuur is en kan worden gestapeld zonder tussenruimte.
+Eigenschappen.
+Een kubus is een balk met gelijke ribben en heeft daarom zes vierkante vlakken, twaalf ribben en acht hoekpunten.
+De inhoud van een kubus wordt berekend door de formule l³ waarbij l de lengte van een ribbe is.
+De oppervlakte van een kubus wordt berekend door 6 × l² waarbij l de lengte van een ribbe is.
+De diagonaal van een kubus wordt berekend door de formule formula_1 × L, waarbij L de lengte van een ribbe is. Deze formule is ontstaan door de stelling van Pythagoras 2 keer uit te voeren.
+Een kubus kan gestapeld worden zonder tussenruimte, in tegenstelling tot veel andere ruimtelijke figuren.
+Gebruik dagelijks leven.
+Een kubus komt in het dagelijks leven veel minder voor dan een rechthoekig blok met verschillende zijden. De vorm wordt wel gebruikt voor bijvoorbeeld de dobbelsteen. Het voordeel van het gebruik van een kubus als dobbelsteen is het feit dat een kubus een regelmatige veelvlak is, wat de kans dat een dobbelsteen op een vakje komt, even groot maakt. Een ander voordeel is het feit dat een vakje 'boven' komt te liggen (in stilstand), bij een ander regelmatig veelvlak (de tetraëder) is dit niet het geval. In ieder geval is de kubus het regelmatig veelvlak met de minste zijden, waarbij één der vlakken boven ligt, waardoor het makkelijker is waar te nemen welk getal boven ligt. Het volgende regelmatige veelvlak waarbij één der vlakken boven ligt zou de octaëder (achtvlak) zijn.
+Een bekende puzzel is Rubiks kubus.

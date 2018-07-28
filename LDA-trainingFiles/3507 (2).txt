@@ -1,0 +1,22 @@
+Cartesisch product.
+Cartesisch product formula_1 van de sets formula_2 en formula_3
+In de verzamelingenleer is het cartesisch product of de productverzameling van twee verzamelingen de verzameling van alle koppels of geordende paren ("a,b") waarvan "a" uit de eerste en "b" uit de tweede verzameling komt. Het cartesisch product van twee verzamelingen "A" en "B" wordt genoteerd als formula_4.
+Het cartesisch product is genoemd naar de Franse filosoof en wiskundige René Descartes. Hij ontdekte dat een punt in een vlak kon worden gezien als een getallenpaar. In moderne notatie maakte hij het vlak equivalent met formula_6.
+Herhaald cartesisch product.
+In de meeste wiskundige theorieën die gebruikmaken van producten, is het formele onderscheid tussen deze twee verzamelingen van weinig belang. Men laat dan een stel haakjes vallen en noteert
+De elementen van formula_20 heten "geordende drietallen" of "tripels". Op analoge wijze definieert men het product van vier verzamelingen met als elementen "quadrupels", het product van vijf verzamelingen dat bestaat uit "quintupels", enz.
+Het cartesisch product van één verzameling is bij afspraak die verzameling zelf, dus een 1-tupel wordt geïdentificeerd met de enige component waaruit het bestaat. Het cartesisch product van nul verzamelingen is het singleton bestaande uit het 0-tupel formula_22 (dit product is dus "niet" de lege verzameling!).
+Product van een willekeurig grote familie verzamelingen.
+De functie "f" wordt dan geïdentificeerd met het formula_27-tupel
+Het herhaald cartesisch product van de formula_27 verzamelingen formula_30 is dan de verzameling van die functies.
+Met dit formalisme kan het cartesisch product veralgemeend worden tot het geval van een eventueel oneindige familie van verzamelingen.
+Zij formula_31 een familie verzamelingen, geïndexeerd door een verzameling formula_32, die niet noodzakelijk een getallenverzameling hoeft te zijn. Ze kan leeg zijn, of eindig en niet leeg, of oneindig en zelfs overaftelbaar.
+Machtsverzameling.
+Een bijzonder geval krijgen we, wanneer formula_34 voor alle "i". Dan is de productverzameling gewoon de verzameling van alle afbeeldingen van "I" naar "A". Deze krijgt de intuïtief duidelijke notatie formula_35.
+De "machtsverzameling" van een verzameling "A" is de familie van alle deelverzamelingen van "A". We kunnen de machtsverzameling identificeren met de verzameling van alle afbeeldingen van "A" naar het paar formula_36 met de afspraak dat met een gegeven deelverzameling "D" van "A" de afbeelding formula_37 overeenkomt die alle elementen van "D" op 1 afbeeldt, en alle elementen van het complement van "D" op 0. De machtsverzameling van "A" wordt consequent formula_38 genoteerd.
+Projectie.
+Met het cartesisch product formula_4 van 2 verzamelingen associëren we twee "projecties"
+Met een algemeen (herhaald of oneindig) cartesisch product wordt een stel afbeeldingen geassocieerd die elk tupel op een vaste component van dat tupel afbeelden. De formula_42-"de projectie" is
+In de cartesiaanse meetkunde op formula_44 komen deze projecties overeen met de twee "meetkundige" projecties formula_45 en formula_46 parallel met de coördinaat-assen.
+Databanken.
+Bij databanken wordt met het commando "join" van twee tabellen het cartesisch product gemaakt.

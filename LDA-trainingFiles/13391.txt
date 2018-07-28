@@ -1,0 +1,11 @@
+Rijmschema.
+Het rijmschema is de schematische weergave van de eindrijmen in een gedicht.
+Gebroken rijm.
+Bij het "gebroken rijm" doorbreekt een nieuwe rijmklank, in de voorbeelden: c, de verwachte harmonie.
+Alternerend rijm.
+"Alternerend rijm" (of "alternantie" of "wisselend rijm") is een schema waarbij om en om mannelijk en vrouwelijk rijm wordt gebruikt.
+Ook het "gekruist rijm" wordt wel alternerend genoemd.
+Dit geeft men aan door de staande verzen aan te duiden met hoofdletters, en de slepende met kleine letters.
+a B B a a B B a C C d E E d
+En dat van zijn sonnet 'De diamante knoop van 't maghtigh Roomsch verbond' (1631)
+A b b A A b b A c c D e e D

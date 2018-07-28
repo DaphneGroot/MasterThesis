@@ -1,0 +1,4 @@
+Mega (voorvoegsel).
+Mega (symbool: M) is het SI-voorvoegsel dat gebruikt wordt om een factor 106, oftewel 1.000.000 (één miljoen), aan te duiden. Het voorvoegsel, dat gebruikt wordt sinds 1960, is afgeleid van het Griekse μέγας (megas) voor "groot".
+Voorbeeld: één megawatt wordt afgekort tot 1 MW.
+In de informatica wordt de term mega gebruikt om een hoeveelheid van 1.048.576 ofwel 220 aan te geven (bijvoorbeeld 1MB = 1 megabyte = 1024 kilobyte). Dit is echter niet juist. Een dergelijk getal zou aangegeven moeten worden als MiB. (zie: veelvouden van bytes).

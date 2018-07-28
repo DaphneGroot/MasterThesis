@@ -1,0 +1,51 @@
+Kegelsnede.
+Mogelijke kegelsneden die ontstaan bij het snijden van een kegel met een vlak
+Een kegelsnede is een vlakke kromme die ontstaat door het snijden van een kegel (eigenlijk een dubbele kegel) met een plat vlak. Kegelsneden werden reeds 200 jaar v.Chr. bestudeerd door Apollonius van Perga. Afhankelijk van de manier waarop de kegel wordt gesneden, ontstaan verschillende meetkundige krommes: een cirkel, een ellips, een parabool of een hyperbool. Een cirkel is een speciaal geval van een ellips, een parabool is op te vatten als een grensgeval tussen een ellips en een hyperbool.
+Cirkels, ellipsen en hyperbolen worden wel "centrale kegelsneden" genoemd omdat ze, in tegenstelling tot een parabool, een middelpunt hebben.
+Een kegelsnede wordt vastgelegd door vijf punten waarvan er geen drie op één lijn liggen of door vijf raaklijnen aan een punt op de kegelsnede, waarvan er geen drie door één punt gaan.
+Toepassingen.
+Het tweelichamenprobleem heeft de kegelsneden als oplossingen.
+Een kogelbaan is bij verwaarlozing van luchtweerstand een kegelsnede die afhangt van het gravitatiemodel: bij een uniform gravitatieveld is het een parabool. Als met de kromming van de aarde rekening wordt gehouden, is de baan een stukje van een ellips, met verticale lange as.
+Excentriciteit.
+Vergelijk de ellips, parabool en hyperbool met elkaar. Het verschil tussen deze wordt bepaald door hun excentriciteit.
+Ellips.
+Gegeven zijn twee punten, de brandpunten formula_1 en formula_2, op onderlinge afstand formula_3, en een getal formula_4, dan is de ellips formula_5 de meetkundige plaats van de punten waarvoor de som van de afstanden tot de twee brandpunten gelijk is aan formula_6.
+Parabool.
+Gegeven zijn een lijn formula_8, de richtlijn, en een punt formula_9, het brandpunt, niet op de lijn gelegen, dan is de parabool formula_10 de meetkundige plaats van de punten waarvoor de afstand tot de richtlijn gelijk is aan de afstand tot het brandpunt.
+Hyperbool.
+Gegeven zijn twee punten, de brandpunten formula_1 en formula_2, op onderlinge afstand formula_3, en een getal formula_15, dan is de hyperbool de meetkundige plaats van de punten waarvoor het verschil van de afstanden tot de twee brandpunten gelijk is aan formula_6.
+Meetkundige plaats.
+een ellips indien formula_24, een parabool als formula_25 en een hyperbool als formula_26.
+Vergelijking.
+In een cartesiaans assenstelstel is de vergelijking van een kegelsnede van de vorm
+Het is een kwadratische vergelijking in twee variabelen formula_28 en formula_29.
+Matrixvergelijking van een kegelsnede.
+De matrix formula_36 heet de kubische matrix van de kegelsnede formula_37.
+en de matrixvergelijking van de kegelsnede is formula_41
+Raaklijn in een punt van een kegelsnede.
+De vergelijking van de raaklijn in een gegeven punt "D(a,b)" aan de kegelsnede "K" met matrixvergelijking formula_42 wordt gegeven door de formule
+Hierin is C de kubische matrix van de gegeven kegelsnede.
+We berekenen als voorbeeld de raaklijn in "D"(1,1) van de kegelsnede met vergelijking
+Raaklijnen uit een punt aan een kegelsnede.
+Raaklijnen uit een punt formula_46 aan een kegelsnede
+De verbindingslijn van de raakpunten van de raaklijnen uit een punt formula_47 aan een kegelsnede formula_21 met matrixvergelijking formula_49 heet de raakkoorde corresponderend met punt formula_46. Van zodra die raakkoorde bekend is, is het mogelijk om de raaklijnen uit formula_46 aan de kegelsnede te berekenen.
+De raakkoorde formula_52 corresponderend met punt formula_46 heeft de vergelijking formula_54. Hierin is formula_55 de kubische matrix van de kegelsnede formula_21.
+Zodra die raakkoorde formula_52 bekend is, kunnen de snijpunten van formula_52 en de kegelsnede berekend worden. Die snijpunten formula_59 en formula_60 zijn de raakpunten van de raaklijnen uit het punt formula_46 aan de kegelsnede. De gevraagde raaklijnen zijn dan de lijnen formula_62 en formula_63.
+Voorbeeld.
+We berekenen de raaklijnen uit punt formula_64 aan de kegelsnede met vergelijking
+De raakkoorde corresponderend met het punt formula_46 heeft als vergelijking
+De snijpunten formula_59 en formula_60 van die raakkoorde met de kegelsnede zijn de oplossingen van het stelsel
+De oplossingen zijn formula_71 en formula_72.
+De raaklijn formula_62 heeft vergelijking formula_74.
+De raaklijn formula_63 heeft vergelijking formula_76.
+Middelpunt van een ellips of hyperbool.
+Het middelpunt van een ellips of hyperbool is het symmetriepunt van de figuur.
+De coördinaten van het middelpunt van zo'n kegelsnede met vergelijking formula_77 zijn de oplossingen van het stelsel
+Ontaarde kegelsneden.
+Behalve deze 'standaard' kegelsneden zijn er ook nog ontaarde kegelsneden. Deze worden gevormd door het snijvlak door de top van de kegel te laten gaan. Dit geeft een punt, een rechte of twee snijdende rechten.
+Een kegelsnede is ontaard als zijn vergelijking kan worden ontbonden als een product van twee lineaire vergelijkingen met reële of complexe coëfficiënten. De grafiek valt dan uiteen in twee reële of twee imaginaire rechten. Het zijn de componenten van de ontaarde kegelsnede.
+Het snijpunt van die rechten heet het dubbelpunt. Wanneer de twee rechten samenvallen is ieder punt een dubbelpunt. Zo is de kegelsnede met vergelijking formula_79 ontaard in de reële rechten met vergelijking formula_80 en formula_81.
+Het punt (3,0) is het dubbelpunt. De kegelsnede formula_82 ontaardt in de imaginaire rechten formula_83 en formula_84 en het reële dubbelpunt ligt in de oorsprong (0,0).
+Een parabool ontaardt in twee evenwijdige rechten en een ellips in twee toegevoegd imaginaire rechten. Een hyperbool ontaardt in twee snijdende reële rechten.
+De kegelsnede met vergelijking formula_77 ontaardt enkel en alleen als
+De determinant formula_87 heet de kubische determinant van de kegelsnede.

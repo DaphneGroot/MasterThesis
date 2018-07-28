@@ -1,0 +1,6 @@
+Cryptoanalyse.
+Al-Kindi schreef het oudst bekende werk over cryptoanalyse
+Cryptoanalyse is binnen de cryptografie de techniek om te proberen vercijferde/gecodeerde berichten te ontcijferen zodoende de informatie beschikbaar te krijgen.
+Cryptoanalyse is voor een groot deel werk voor wiskundigen, omdat veel bestaande algoritmes gebaseerd zijn op wiskundige modellen en via analyse van beperkte informatie kan leiden tot 'kraken' van de codes.
+Hoewel cryptoanalyse al bekend is sinds de 9e eeuw is de moderne (wiskundige) werkwijze pas in de 20e eeuw ontwikkeld. Grote voorbeelden in de historie zijn bijvoorbeeld de analyse van de Enigmacodering in de Tweede Wereldoorlog.
+Met verschillende encryptiemethodes wordt getracht het de cryptoanalisten zo moeilijk mogelijk te maken.

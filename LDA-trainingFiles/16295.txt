@@ -1,0 +1,19 @@
+Gesloten verzameling.
+In de topologie is een gesloten verzameling in een topologische ruimte "X" een deelverzameling van "X" waarvan het complement een open verzameling van "X" is. Het is niet zo dat een verzameling of open, of gesloten is. Er zijn verzamelingen die noch open, noch gesloten zijn, en er zijn verzamelingen die zowel open als gesloten zijn. Ook kan een verzameling in de ene topologie gesloten zijn en in een andere topologie open. Door aan een verzameling al zijn ophopingspunten toe te voegen, ontstaat een gesloten verzameling, de afsluiting van de verzameling. Dat is de kleinste gesloten verzameling waarin de verzameling vervat is.
+Uit de eigenschappen, waaraan de open verzamelingen van een topologische ruimte moeten voldoen, volgt dat de vereniging van eindig veel gesloten verzamelingen en de doorsnede van willekeurig veel gesloten verzamelingen ook weer gesloten zijn. Verder zijn de lege verzameling en "X" zelf gesloten.
+Door het complementaire karakter van open en gesloten verzamelingen, is het ook mogelijk het begrip 'topologie' te definiëren in termen van gesloten verzamelingen, als een collectie deelverzamelingen met bovengenoemde eigenschappen.
+Definitie.
+In een topologische ruimte heet een verzameling "gesloten", als het complement van de verzameling open is.
+Op gelijkwaardige wijze wordt een verzameling gesloten genoemd, als de verzameling al haar ophopingspunten bevat.
+Dit is niet te verwarren met een gesloten variëteit.
+Eigenschappen.
+Een gesloten verzameling bevat zijn eigen rand en valt dus samen met zijn afsluiting. Met andere woorden, als men zich "buiten" een gesloten verzameling bevindt en men "wiebelt" een heel klein beetje, blijft men buiten de verzameling. Merk op dat dit ook geldt wanneer de grens een lege verzameling is, bijvoorbeeld in de metrische ruimte van de rationale getallen, voor de verzameling van getallen waarvan de wortel minder dan 2 is.
+Verzamelingen die kunnen worden geconstrueerd uit de vereniging van aftelbaar veel gesloten verzamelingen, worden aangeduid als "formula_1"-verzamelingen. Deze verzamelingen hoeven niet gesloten te zijn..
+Meer over gesloten verzamelingen.
+Een alternatieve, gelijkwaardige definitie van gesloten verzameling is een verzameling die al haar randpunten bevat.
+Een alternatieve karakterisering van gesloten verzamelingen kan men verkrijgen via rijen en netten.
+Een deelverzameling "A" van een topologische ruimte "X" is gesloten in "X" dan en slechts dan als iedere limiet van elk net van elementen van "A" ook tot "A" behoort.
+In een eerst-telbare ruimte (zoals een metrische ruimte), is het voldoende om alleen rijen, in plaats van alle netten, te beschouwen.
+Een waarde van deze karakterisering is dat deze gebruikt kan worden als een definitie in de context van convergentieruimten, die algemener zijn dan topologische ruimten.
+Merk op dat deze karakterisering ook afhangt van de omgevende ruimte "X", omdat of een rij of net al dan niet in "X" convergeert, afhangt van welke punten aanwezig zijn in "X".
+Of een verzameling gesloten is hangt af van de ruimte waarin de verzameling is ingebed en de topologie. Compacte Hausdorff-ruimten zijn echter in zekere zin "absoluut gesloten". Om precies te zijn, als men een compacte Hausdorff-ruimte "K" inbed in een willekeurige Hausdorff-ruimte "X", dan zal "K" altijd een gesloten deelverzameling van "X" zijn; de "omringende ruimte" doet er hier niet toe. Deze eigenschap kenmerkt in feite de compacte Hausdorff-ruimten. Stone-Čech-compactificatie, een proces dat een volledig reguliere Hausdorff-ruimte in een compacte Hausdorff-ruimte verandert, kan worden omschreven als het toervoegen van limieten van bepaalde niet-convergente netten aan deze ruimte.

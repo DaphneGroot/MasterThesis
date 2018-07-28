@@ -1,0 +1,42 @@
+Transcriptie (biologie).
+Transcriptie van DNA naar een complementaire RNA-kopie
+Transcriptie is in de genetica het proces dat van het DNA van een gen een complementaire kopie maakt bestaande uit enkelstrengs messenger-RNA (mRNA). Dubbelstrengs RNA komt wel voor in het genetisch materiaal van sommige RNA-virussen, en speelt in planten een rol bij cellulaire immuniteit. Transcriptie vindt plaats in alle organismen, maar werkt niet bij alle organismen precies hetzelfde. Thymine (T) van het DNA wordt adenine (A) bij het RNA, adenine van het DNA wordt uracil bij het RNA, cytosine (C) van het DNA wordt guanine (G) bij het RNA en guanine bij het DNA wordt cytosine bij het RNA.
+Bij de eiwitsynthese wordt tijdens de transcriptie mRNA geproduceerd, dat vervolgens door middel van de translatie wordt 'vertaald' naar een eiwit. Voor andere vormen van RNA, zoals ribosomaal RNA (rRNA) en transfer-RNA (tRNA) vindt echter ook transcriptie plaats.
+Algemene werking.
+Het holo-enzym RNA-polymerase koppelt op een specifieke plaats aan een DNA keten aan en vouwt zich eromheen. Vervolgens ontwindt het het DNA, dat daardoor nu in enkelstrengs-vorm tijdelijk toegankelijk is voor andere actieve componenten van het enzym. Vervolgens worden steeds nieuwe nucleotiden (basen) aan de te vormen RNA streng gekoppeld. Welke nucleotide dit zal zijn, wordt steeds bepaald door de tegenoverliggende DNA-nucleotide. Het DNA fungeert dus als een 'mal' (men spreekt van template). Het RNA-polymerase beweegt zich in de zogenaamde 3' → 5'-richting over het DNA. Tegelijkertijd wordt het RNA aan de achterkant weer gescheiden van het DNA. Wanneer het hele gen gekopieerd is, koppelt het RNA-polymerase los van het DNA en wordt tevens de RNA-keten afgestoten.
+Werking in prokaryoten.
+In prokaryote cellen, zoals de bacterie "Escherichia coli", wordt de transcriptie op bepaalde plaatsen in het DNA als het ware aan- en uitgezet door de promotor, de TATA-box, een zogenaamde consensussequentie. Deze heet zo omdat de sequentie "TATA" er vaak in voorkomt, elke letter daarin staat voor een nucleotide.
+stroomopwaarts ~17 basen doelwit-gen +1 stroomafwaarts
+Het gedeelte bij -10 noemt men de "TATA-box". RNA-polymerase herkent de TATA-box en bindt eraan. Vervolgens begint de transcriptie 10 basenparen verderop.
+Bij bacteriën beginnen ribosomen in 5'-naar-3'-richting direct met de eiwitsynthese terwijl het RNA nog getranscribeerd wordt.
+Eukaryote transcriptie.
+Door DNA-afhankelijke RNA-polymerasen kan de transcriptie worden uitgevoerd. Deze RNA-polymerasen synthetiseren een streng van ribonucleotiden. Eukaryotische cellen bevatten vijf verschillende soorten RNA-polymerasen, t.w. RNA-polymerase I, II, III, IV en V, waarbij IV en V alleen bij planten voorkomen.
+RNA-polymerase I.
+Het enzym RNA-polymerase I transcribeert een rRNA-streng met een sedimentatiecoëfficiënt van 45S.
+Deze 45S-rRNA-streng is een voorloper van een drietal ribosomale RNA's met allemaal een verschillende sedimentatiecoëfficiënt (5.8S-rRNA / 18S-rRNA / 28S-rRNA). Door RNA-modificatie wordt uit de 45S-rRNA-streng de drie verschillende rRNA's verkregen.
+RNA-polymerase II.
+Het enzym RNA-polymerase II transcribeert hnRNA, die na RNA-modificatie fungeert als mRNA. Ook transcribeert dit enzym snRNA-voorlopers, die gemodificeerd wordt tot snRNA.
+RNA-polymerase III.
+Het enzym RNA-polymerase III synthetiseert voorlopers, die na RNA-modificatie, werkzaam zijn als tRNA, 5S rRNA en bepaalde snRNA's.
+RNA-polymerase IV.
+Het enzym RNA-polymerase IV is betrokken is bij de productie van small interfering RNA (siRNA) bij planten. Het is een afgeleide van RNA-polymerase II.
+RNA-polymerase V.
+Het enzym RNA-polymerase V is betrokken bij de siRNA-directe de novo methylering in planten, dat leidt tot heterochromatische silencing.
+Transcriptie-mechanisme.
+Polymerase hecht zich aan het promotorgebied van het DNA. Dit bevindt zich aan het 5'-einde van de matrijsstreng (de streng waarvan wordt afgelezen). Een specifieke sequentie in het DNA draagt bij aan de binding van het polymerase, de zogenoemde TATA-box (basenvolgorde '..TATAAA..'). Dit is tevens het beginpunt van de transcriptie voor het synthetiseren van RNA.
+Initiatie.
+Simpel diagram van de initiatie met promotor elementen en RNAP (RNAP = RNA-polymerase)
+Er zijn verschillende eiwitten bij betrokken om de RNA-polymerase te kunnen laten aankoppelen en te laten starten. Bij bacteriën is de sigmafactor een initiatiefactor die verantwoordelijk is voor de specificiteit van de RNA-polymerase, zodat dit aan promotors kan binden en de juiste genen kan transcriberen. Verschillende sigmafactoren worden geactiveerd als reactie op verschillende omstandigheden van het organisme. Ieder RNA-polymerase molecuul kan met een sigmafactor binden.
+Naast de sigmafactor zijn de basale transcriptiefactoren van belang. Samen met de RNA-polymerase vormen zij het basale transcriptiecomplex. Aan het einde van de wisselwerkingsacties is de initiatiefase voltooid en wordt de RNA-polymerase een aantal malen gefosforyleerd, waardoor het zich kan losmaken van het basale transcriptiecomplex.
+Elongatie.
+Simpel diagram van de elongatie (RNAP = RNA-polymerase)
+De RNA-synthese kan worden gestart en de RNA-streng groeit in 5' → 3'-richting. Deze fase wordt elongatie genoemd. Tijdens de elongatie moet telkens het dubbelstrengs-DNA uit elkaar worden gehouden vlak voor de RNA-polymerase. Dit wordt door een transcriptiefactor bewerkstelligd, namelijk TFIIH (transcriptiefactor II met helicase activiteit)
+Vlak na de elongatie wordt aan het 5'-einde van de RNA-synthetiserende streng een beschermingselement aangebracht, een zogenaamde 'kap' ('cap').
+Terminatie.
+Simpel diagram van de terminatie (RNAP = RNA-polymerase)
+De elongatie stopt wanneer de polymerase wederom een specifieke sequentie tegenkomt. Deze basenvolgorde wordt polyadenyleringssequentie genoemd en dient als stopsignaal (basenvolgorde = '..AATAA..')
+De laatste fase van de transcriptie is in werking getreden en wordt terminatie genoemd. Hier eindigt de transcriptie en het gesynthetiseerde RNA wordt afgesplitst. Kort daarop wordt ook de RNA-polymerase afgekoppeld.
+Transcriptiecontrole.
+Er zijn zogenaamde "enhancers", zoals de GC-box, en "silencers" aanwezig op het DNA die de frequentie van het aanvangen van transcriptie en zo de mate van expressie van het gen bepalen. Ook omvat het transcriptie-complex naast RNA-polymerase nog veel meer eiwitten: de activatoren (zoals Sp1), coactivatoren, een TATA-bindend eiwit en vijf andere basale factoren.
+RNA-modificatie.
+Ook komen er in het pre-mRNA nog introns voor, die niet betrokken zijn bij de codering van een eiwit en door splicing uit het pre-mRNA geknipt worden.

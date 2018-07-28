@@ -1,0 +1,4 @@
+Schalloppgambiet.
+Het Schalloppgambiet is een variant in de schaakopening Koningsgambiet. Het is ingedeeld bij de open spelen.
+Het gambiet begint met de volgende zetten: 1.e4 e5 2.f4 exf4 3.Pf3 Pf6 4.e5 Ph5.
+Het Schalloppgambiet is geanalyseerd door de Duitse schaker Emil Schallopp, die leefde van 1843 tot 1919.

@@ -1,0 +1,17 @@
+Kleine stelling van Fermat.
+De kleine stelling van Fermat zegt, dat als "p" een priemgetal is, voor ieder geheel getal "a" geldt dat
+De stelling is genoemd naar Fermat (1601 of 1606/7 - 1665).
+Deze vorm van de stelling is echter alleen geldig als "a" en "p" relatief priem zijn. Wanneer is gegeven dat "p" een priemgetal is, mag "a" geen veelvoud van "p" zijn. Dit komt doordat we beide leden van de eerste stelling moeten vermenigvuldigen met de inverse van "a" en deze bestaat niet als "a" een veelvoud van "p" is.
+De stelling wordt bijvoorbeeld gebruikt om restklasse modulo een groot getal uit te rekenen.
+Bewijs van de kleine stelling van Fermat.
+formula_3 en "p" is een priemgetal.
+Pseudo-priemgetallen.
+Het omgekeerde van de kleine stelling van Fermat is niet algemeen geldig.
+Als voor zekere gehele "a" en "k" geldt dat
+dan is niet noodzakelijkerwijs "k" een priemgetal.
+Een getal "q" dat geen priemgetal is, maar waarvoor geldt dat
+voor zekere "a" wordt een pseudopriemgetal genoemd. Als "q" de eigenschap heeft dat het bovengenoemde geldt voor elke "a", dan heet "q" een Carmichael-getal. Hierbij is de naam Fermattest bedacht: als een getal "r" voldoet aan
+voor zekere "a" dan is "r" een priemgetal of een pseudo-priemgetal.
+Er is bewezen dat er oneindig veel pseudo-priemgetallen bestaan. Echter, binnen de gehele getallen zijn de pseudo-priemgetallen wel 'dunner gezaaid' dan de priemgetallen.
+Laatste stelling van Fermat.
+De kleine stelling van Fermat mag niet worden verward met de laatste stelling van Fermat, die zegt dat de vergelijking formula_43 geen geheeltallige oplossing heeft verschillend van 0 voor alle gehele waarden van "n" groter dan 2. Het theorema werd uiteindelijk bewezen door de Britse wiskundige Andrew Wiles in november 1994.

@@ -1,0 +1,55 @@
+Modulatie (radio).
+Modulatie is het combineren van een informatiesignaal met een draaggolf met een hogere frequentie, zodat een signaal ontstaat met een frequentieband rondom de frequentie van de draaggolf.
+Stel dat een radio- of televisiesignaal direct zonder draaggolf draadloos wordt uitgezonden. Het audiosignaal dat door een microfoon wordt opgewekt, en frequenties onder 20 kHz bevat, zou dus dan met die frequenties worden uitgezonden. Er zou dan maar één zender tegelijk in bedrijf kunnen zijn, maar het grootste probleem is dat dergelijke frequenties zich niet goed voortplanten door de atmosfeer.
+Dit probleem wordt opgelost door het bronsignaal met een draaggolf met een veel hogere frequentie over te brengen. Met een modulator wordt het signaal gesuperponeerd op een sinusvormige draaggolf, waaruit later door demodulatie het oorspronkelijke signaal weer kan worden teruggewonnen. Door gebruikmaking van draaggolven van verschillende frequenties kunnen verschillende zenders uitzenden zonder elkaar te storen en worden ze door de selectiviteit van de ontvanger uit elkaar gehouden. Door een hoogfrequente draaggolf te gebruiken krijgt het signaal de transmissiekwaliteiten om draadloos te worden uitgezonden, maar uiteraard kan het nog steeds door een draad- of glasvezelverbinding worden getransporteerd zoals bij kabeltelevisie.
+Redenen.
+Laagfrequente signalen hebben voor sommigen toepassingen grote nadelen waarvoor modulatie een oplossing kan bieden.
+Draaggolf.
+waarin "A" de amplitude is van de draaggolf en formula_2 de hoekfrequentie.
+In beginsel zijn er twee mogelijkheden voor modulatie: variëren van de amplitude "A" of variëren van de hoek formula_3. Daarbij zorgt men er in de praktijk voor dat de variaties niet te groot zijn, zodat de gunstige draaggolfeigenschappen behouden blijven. Het gevolg is dat de gemoduleerde signalen lokaal, dat wil zeggen gedurende enkele perioden van de draaggolf op een harmonisch signaal lijken met de bij de modulatievorm behorende amplitude en frequentie.
+Amplitudemodulatie (AM).
+Amplitudemodulatie (AM) is de oudste vorm van modulatie, de detectie is namelijk zeer eenvoudig uit te voeren.
+In de simpelste vorm bestaat AM uit het herhaaldelijk in- en uitschakelen van de zender. Door de schakeltijden te variëren kunnen codes als morse worden verstuurd. Deze mode duidt men over het algemeen aan met CW wat staat voor continuous wave. Overdracht van geluid door middel van AM gebeurt door de amplitude van de draaggolf geleidelijk te veranderen, gestuurd door de amplitude van het LF-signaal.
+Karakteristieken.
+met "A(t)" een lineaire functie van het bronsignaal, dus
+In afbeelding 1 is zichtbaar dat het signaal (lichtgrijs) lokaal rond elke "t" een sinus lijkt met frequentie formula_10 en amplitude "A(t)".
+AM-zijbanden.
+Er ontstaan bij het moduleren signaalcomponenten met nieuwe frequenties.
+formula_14
+Hierin zijn formula_15 en formula_16 de respectievelijke topwaarden van de draaggolf en
+het LF-signaal, en formula_17 en formula_18 de respectievelijke hoekfrequenties.
+Door de "vermenigvuldiging" van de drager en het signaal ontstaan som- en verschilfrequenties. De uitkomst representeert een zogenaamd dubbelzijbandsignaal, het bestaat uit alleen de zijbanden (rood in afbeelding 2). Merk op dat de draaggolf en het laagfrequent signaal niet als zodanig in deze uitkomst voorkomen, en dat het vermogen van de draaggolf en het LF-signaal volledig in de zijbanden is opgegaan. Alle informatie uit het LF-signaal is aanwezig in "elke" zijband. Om vermogen te besparen wordt daarom soms slechts één zijband uitgezonden, men spreekt dan van enkelzijbandmodulatie (EZB) of single sideband (SSB) er wordt dan nader gespecificeerd of het gaat om de lage (LSB) of de hoge (USB) zijband.
+In de afbeelding is te zien dat de onderste zijband is gespiegeld, het geluidsspectrum is in deze zijband omgedraaid. Wanneer met een USB-ontvanger naar een LSB-signaal wordt geluisterd lijken mensen dan ook een vreemde taal te spreken.
+ze stelt de verhouding tussen de amplituden van de draaggolf en het laagfrequent signaal voor. De waarde van m loopt van nul (de draaggolf is ongemoduleerd) tot maximaal 1 (de draaggolf is volledig gemoduleerd).
+AM-vermogen.
+De effectieve waarde van het zijbandsignaal is -bij een sinusvormig modulerend signaal- dus
+En het in een weerstand R ontwikkelde vermogen is
+Omdat het relatief gemakkelijk is om de topwaarde van een HF-signaal te bepalen -in tegenstelling tot bijvoorbeeld de effectieve waarde- is het gebruikelijk om met name het vermogen uit te drukken in die topspanning. Dit in tegenstelling met de 'gewone' elektronica waar men het liefst in termen van Ueff rekent.
+In de praktijk wordt vaak een andere maat voor het AM-vermogen gebruikt: het PEP-vermogen (Eng. Peak Envelope Power). Hierbij wordt de topwaarde van het gemoduleerde signaal -ook wel de omhullende (envelope)- als spanning genomen in de 'gewone' vermogensberekening, die eigenlijk berust op de effectieve waarde. Het feitelijke vermogen is dus lager dan het PEP-vermogen. In afbeelding 1 is een AM-signaal te zien, het modulerend signaal is groen en de rode lijnen vormen de omhullende (Eng. Envelope). Het PEP-vermogen van de zender is dus gebaseerd op de extreme waarden van de rode lijnen.
+Frequentiemodulatie (FM).
+Bij FM wordt de momentane hoekfrequentie van de draaggolf veranderd in relatie met de amplitude van het laagfrequent signaal. Over het algemeen gebruikte FM-signalen zijn echter feitelijk een vorm van hoekmodulatie.
+waarin h(t) zo gekozen wordt dat
+Bij deze modulatievorm worden zowel de frequentie als de fase van het signaal beïnvloed, aangezien
+Strikt genomen wordt hier de fase van de draaggolf gemoduleerd en zou men dus van fasemodulatie (PM) moeten spreken.
+Het signaal is wel genoteerd met behulp van een cosinus, maar is geen cosinus in de tijd. Door de condities echter die men bij modulatie hanteert, is de variatie in frequentie relatief gering, waardoor het signaal lokaal rond t een (co)sinus lijkt met vaste amplitude "A" en momentane hoekfrequentie formula_32.
+Dit houdt echter in dat de momentane hoekfrequentie afhangt van zowel het bronsignaal zelf als van de afgeleide daarvan, zodat demodulatie moeilijk is.
+In afbeelding 3 is het verschil tussen hoekmodulatie (rood) en frequentiemodulatie (blauw) duidelijk te zien. De praktische uitvoering van FM geschiedt over het algemeen door de oscillator van de draaggolf te beïnvloeden, zodat de opgewekte frequentie op de gewenste manier varieert met het bronsignaal.
+FM-zijbanden.
+De verhouding tussen de frequentiezwaai van het FM-signaal en de hoeksnelheid van het modulerende signaal noemt men de modulatieindex.
+Hierin is formula_47 de Besselse functie van de eerste soort en orde n. De interpretatie hiervan is dat de zijbanden van een FM-signaal zich oneindig ver uitstrekken om de draaggolf heen, en dat ze samen met de draaggolf een amplitude hebben die wordt bepaald door de Besselse functies van het eerste soort. Het domein van de Besselse functie is in deze de modulatie-index, in afbeelding 4 zijn de respectievelijke functies afgebeeld, de functiewaarden voor m'=2 zijn gemarkeerd.
+Afbeelding 5 laat het bij m'=2 horende frequentiespectrum zien.
+We zien hier dat de amplitude van de component op de draaggolffrequentie inderdaad gelijk is aan ongeveer 0,11 (J0(2) * draaggolfamplitude).
+Voor de bandbreedte van een FM-signaal kan worden opgemerkt dat de modulatieindex een graadmeter blijkt te zijn voor de breedte van gemiddelde signalen. "Het aantal benodigde zijbanden is gelijk aan m'+1" is een vaak gebruikte vuistregel.
+FM-vermogen.
+Het blijkt in de praktijk dat voor normale waarden van m' het vermogen van de draaggolf niet verandert door de frequentie te moduleren. Dit is aannemelijk omdat voor elke momentane frequentie de uitdrukking voor het vermogen hetzelfde blijft. Het vermogen wordt wel verspreid over een bepaalde bandbreedte, waardoor in sommige situaties het gemeten vermogen wel verandert.
+Andere vormen.
+De meeste andere vormen van modulatie zijn in essentie speciale vormen van AM of FM, dan wel een combinatie van beide. Dit geldt niet voor pulsbreedtemodulatie en pulspositiemodulatie.
+Als OFDM wordt gebruikt in combinatie met kanaalcodeertechnieken, wordt het omschreven als Coded orthogonal frequency division modulation (COFDM).
+Modulatie van digitale signalen.
+RTTY kan ook gezien worden als een simpele vorm van pulscodemodulatie.
+Choppen.
+Een veelgebruikte techniek die een AM-signaal maakt van een LF-spanning is het zogenaamde choppen. Een simpele chopper verbindt periodiek zijn uitgang beurtelings met nul, en het te meten signaal. Het resultaat is een pulstrein, met als frequentie de schakelfrequentie, en als topwaarde de te meten spanning. Na verwijdering van de gelijkspanningscomponent is de gemeten waarde dus beschikbaar als de amplitude van een -min of meer- hoogfrequent signaal. Dit signaal is veel eenvoudiger accuraat te versterken en bewerken dan een gelijkspanningssignaal.
+Mengen.
+Een aan AM gerelateerde signaalbehandeling, is het mengen (Eng. mixing). Bij het mengen worden twee sinusvormige sigalen met elkaar vermenigvuldigd, en komen de draaggolf en het ingangssignaal dus - in het ideale geval - niet in het uitgangssignaal voor. Een dergelijke vermenigvuldiger noemt men een mixer.
+Met A en B de respectievelijke amplituden van de ingangssignalen en formula_49 formula_50 hun respectievelijke argumenten.
+Mixers vinden hun toepassing in hoogfrequentapparatuur als televisies, radio's en telefoons.

@@ -1,0 +1,10 @@
+Ribonucleïnezuur.
+Ribonucleïnezuur, vaak afgekort tot RNA (Engels: Ribonucleic Acid), is een van drie macromoleculen (met DNA en eiwitten) die essentieel zijn voor alle bekende levensvormen. RNA lijkt qua chemische structuur sterk op DNA, en net als DNA is RNA opgebouwd uit een lange keten van nucleotiden. RNA behoort net zoals DNA tot de nucleïnezuren. Het wordt in organismen geproduceerd tijdens de transcriptie: het proces waarbij DNA wordt gekopieerd naar RNA. De volgorde van de nucleotiden bepaalt de genetische informatie waarvoor het RNA codeert. Alle cellulaire organismen gebruiken messenger RNA, afgekort mRNA, voor het overbrengen van de genetische informatie die de eiwitsynthese regelt. Daarnaast bevindt RNA zich in veel virussen als genetisch materiaal in plaats van DNA.
+Verschillen tussen DNA en RNA.
+De chemische structuur van RNA is vergelijkbaar met die van DNA, zij het met enkele verschillen
+Virus.
+Een virus kan zijn erfelijk materiaal in DNA, maar ook in RNA opslaan. Een retrovirus kan naast zijn RNA ook een reverse transcriptase in de gastheer krijgen om zich te vermenigvuldigen. De benodigde code is in het virale RNA gecodeerd. Naast dit ribosoom en de vermeerdering van dit RNA laat het virus eiwitten van de capsule maken door de gastheercel.
+Afweer.
+RNA speelt ook een rol in de cellulaire afweer, vooral actief in planten. Dubbelstrengs RNA zet processen in de cel aan de gang die expressie van dat RNA (het aanmaken van eiwitten, translatie) specifiek remt. Ook leidt dit veel dubbelstrengs RNA tot geprogrammeerde celdood (apoptose). Omdat dubbelstrengs RNA vaak voorkomt bij virale infecties en ontregelde cellen is dit een goede zaak voor de plant.
+Degradatie van RNA.
+Nucleïnezuren worden ook in de cel gesplitst of afgebroken. Dit gebeurt met behulp van een enzym, een nuclease. Nucleasen zijn een groep van enzymen, die nucleïnezuren gedeeltelijk of helemaal afbreken. De nucleasen katalyseren de hydrolyse van de chemische binding fosfodi-esterbinding zonder uiteindelijk deel te nemen aan de reactie. Daarom behoren de nucleasen tot de groep katalysatoren.

@@ -1,0 +1,5 @@
+Dvd-r.
+Een dvd is een optische schijf met een diameter van 12 cm waarop digitale gegevens vastgelegd kunnen worden. Er zijn twee types dvd: de dvd-r en de dvd+r. Beide types worden gesteund door andere fabrikanten.
+De beschrijfbare dvd+r's worden momenteel in Nederland het meest verkocht. Een voordeel van de dvd+r is dat deze technisch voorloopt op de DVD-R en dat videobewerken rechtstreeks mogelijk is vanaf een herschrijfbare dvd+r (oftewel een dvd+rw). Dvd-r heeft als voordeel dat het door meer dvd-spelers wordt ondersteund.
+De dvd-r heeft een net iets grotere opslagcapaciteit dan de dvd+r; 4,382 GiB tegenover 4,377 GiB.
+Naast de dvd-r is er ook de dvd-rw. Deze heeft dezelfde specificaties als de dvd-r, maar kan ook gewist en weer opnieuw beschreven worden.

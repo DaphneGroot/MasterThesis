@@ -1,0 +1,38 @@
+Erasable programmable read-only memory.
+Een Erasable Programmable Read Only Memory (EPROM), ofwel "wisbaar, programmeerbaar, alleen-lezen geheugen," is een geïntegreerde schakeling. Het is een PROM die voorzien is van een venstertje waardoor de gegevens, door middel van uv-licht, gewist kunnen worden. Zie ook ROM.
+Terwijl de meeste geïntegreerde schakelingen als geheel in een stuk plastic wordt gegoten, bestaat de behuizing van een EPROM uit twee op elkaar gelijmde keramische plaatjes.
+In het bovenste plaatje bevindt zich het venster van kwartsglas dat uv-licht doorlaat. Gewoon glas laat hoofdzakelijk zichtbaar licht door.
+Programmeren.
+Het beschrijven ('programmeren') van een EPROM gaat op dezelfde manier als bij een PROM: door met een EPROM-programmer een hogere spanning op een van de pinnen te zetten. De informatie, 1 byte, wordt via de data en adresbus op de eprom gezet waarna een puls op de VPP (programmeerpen) de data definitief vastlegt.
+De spanning van de programmeerpuls was bij de eerste EPROM's in de jaren 70 25 volt, later zakte men naar 21 volt en moderne CMOS-types worden met 12,5 volt geprogrammeerd.
+Het programmeren wordt in de volksmond ook wel branden genoemd.
+Wissen.
+Wissen geschiedt door de chip enkele minuten aan ultravioletlicht bloot te stellen.
+Het wissen is op den duur schadelijk voor een EPROM, na 10 tot 20 keer is een EPROM niet meer bruikbaar. Het is dan ook belangrijk dat men de EPROM niet te lang aan ultravioletlicht blootstelt en een goede EPROM-wisser zal na enkele minuten vanzelf uitschakelen. Wat de juiste duur is, is moeilijk vast te stellen en natuurlijk ook afhankelijk van de sterkte van het licht.
+Automatisch stoppen.
+Het ligt voor de hand een EPROM tijdens het wissen uit te lezen. Is de EPROM leeg, dan schakelt de wisser uit. Hierdoor spaart men de EPROM en bovendien is men sneller klaar.
+In de praktijk werkt dit echter niet. Een EPROM die onder elektrische spanning staat, kan namelijk niet gewist worden.
+Er wordt vaak beweerd dat een EPROM die in de zon ligt hierdoor wordt gewist.
+Dit is slechts mogelijk in landen tegen/rond de evenaar waar het uv-deel van het zonlicht zeer sterk is en de wistijd bedraagt dan nog meerdere maanden.
+Ter voorkoming van ongewenst wissen hoort het venster van een EPROM met een metaalfoliesticker te worden afgedekt.
+Wissen.
+Een EPROM-wisser bestaat uit een lichtdicht kastje met daarin een uv-lamp met de een golflengte die rond de 290 nm ligt. Een goede wisser werkt alleen als het deksel gesloten is, zodat de straling geen schade aan het menselijk oog kan toebrengen. Bovendien heeft de wisser een tijdschakelaar zodat hij na een paar minuten uitschakelt.
+Programmer.
+EPROM programmers zijn in de regel voorzien van een zogenaamde ZIF-socket. Dit is een speciale snelwisselvoet die echter zeer stofgevoelig is en na gebruik dient te worden afgedekt.
+De bediening van een EPROM-programmer gaat in de regel via een computer, voorheen via de parallelle poort en tegenwoordig via de USB-poort.
+Er bestaan/bestonden ook standalone programmers, deze zijn echter zeer onhandig in het gebruik en daardoor nauwelijks nog in gebruik.
+Een standalone-- programmer kan evengoed de data van een EPROM uitlezen of verifiëren.
+Ook kan de programmer vaak extra handelingen verrichten zoals herkennen van componenten (TTL en CMOS logics), testen van componenten (denk hierbij aan RAM-geheugens) en bij elektrisch wisbare componenten kan de programmer deze ook wissen.
+Toepassing.
+Fabrikanten die een groot aantal identieke apparaten produceren voorzien deze in de regel van een niet wisbare ROM of PROM, echter, in de gevallen waar de mogelijkheid bestaat dat er later nog softwareupdates zullen uitkomen wordt er gekozen voor de iets duurdere opnieuw programmeerbare EPROM.
+Meestal plakt de fabrikant een etiket over het venstertje met daarop de vermelding van de softwareversie/revisie en bovendien beschermt het etiket de chip tegen wissen.
+Het grote voordeel van de EPROM blijkt vooral bij softwareontwikkeling.
+Door steeds de gegevens te wissen kan de chip opnieuw worden gebruikt voor de volgende test, terwijl een PROM na gebruik weggegooid zou moeten worden.
+In tegenstelling tot een harddisk is een EPROM niet gevoelig voor schokken en stoten en kan dus goed als datadrager voor bijvoorbeeld wasmachines of flipperkasten worden gebruikt.
+Net als alle elektronische componenten dienen bij het hanteren van een standalone ESD maatregelen genomen te worden. zoals bijvoorbeeld het gebruik van een polsband.
+Net als de meeste andere elektronische componenten kan een eprom niet tegen verkeerde plaatsing in zijn voetje, het is dus zaak attent te blijven en goed te kijken naar de positie (uitsparing op EPROM en voet/aanduiding op de print)
+In plaats van de EPROM wordt sinds 1995 steeds vaker een EEPROM gebruikt, die enkele honderden keren herprogrammeerbaar zijn. Sinds 2000 wordt het flashgeheugen gebruikt dit kan enkele duizenden keren worden herprogrammeerd en worden ook ingezet als opslagmedia voor fototoestellen, mp3-spelers, smartphones en aanverwante consumentenelektronica.
+Zo rond het jaar 2011 is daar nog het NAND-geheugen bij gekomen. Ook dit is een niet-vluchtig geheugen en wordt toegepast in voornamelijk solid state drives (SSD). Een NAND-geheugen kan vele miljoenen keren worden geprogrammeerd voor het uiteindelijk defect raakt.
+Trivia.
+Een oude grap van programmeurs is even met een EPROM bij het oor te schudden om te weten of hij leeg is.
+Ook geldt het als een oude grap om een beginner in de EPROM te laten kijken tijdens het programmeren om te kijken of deze de "vonken" van het "branden" ziet.

@@ -1,0 +1,9 @@
+Carburateur.
+Een carburateur of carburator is een deel van een verbrandingsmotor dat ervoor zorgt dat de brandstof (meestal benzine) wordt verneveld en met lucht vermengd voordat het aldus ontstane mengsel in de cilinders wordt gezogen.
+Tegenwoordig is voor automotoren de carburator bijna altijd vervangen door de benzineinspuiting.
+De werking van een carburateur berust op de wet van Bernoulli. Een carburateur bestaat in hoofdzaak uit een buis met een vernauwing in het midden. Als de zuiger omlaag gaat om nieuwe lucht aan te zuigen (de aanzuigslag), wordt deze lucht via carburator aangezogen. Bij de versmalling in de carburator gaat de lucht sneller stromen, waardoor de druk lager wordt (venturi-effect). Hierdoor zal vanuit een kleine opening in de wand van de buis de benzine worden meegezogen en verneveld in de lucht. Met behulp van een sproeier, een kalibratie in het benzinekanaal, kan de verhouding benzine/lucht veranderd worden: een grotere sproeier betekent een groter gaatje voor benzine, dus meer benzine in het mengsel.
+Met behulp van een gasschuif en een gasnaald kan de aan de motor toegevoerde hoeveelheid mengsel worden geregeld.
+Aansluitingen.
+Een carburateur is verbonden met een luchtinlaat, meestal via een luchtfilter en krijgt benzine toegevoerd door zwaartekracht (als de brandstoftank boven de carburateur is gemonteerd) of door een elektrische of via de nokkenas mechanisch aangedreven brandstofpomp.
+In tweetaktmotoren kan de benzine ook door de onderdruk in het carter worden aangezogen, dit gebeurt middels een membraanpomp, bijvoorbeeld bij scooters en karts.
+Het lucht-benzinemengsel verlaat de carburateur bij een viertaktmotor via het inlaatspruitstuk langs inlaatkleppen, om in de cilinders te worden verbrand.

@@ -1,0 +1,4 @@
+Panteldakis-tegengambiet.
+Het Panteldakis-tegengambiet is een variant van de schaakopening koningsgambiet. Het is ingedeeld in de open spelen.
+Dit tegengambiet ontstaat na de zetten 1.e4 e5 2.f4 f5, en het is een van de oudst bekende tegengambieten in het koningsgambiet; Gioachino Greco met zwart speelde het tegen een anonymus in 1625. Het gambiet geldt tegenwoordig als ongunstig voor zwart, omdat na 3. ef5 wit dreigt met 4. Dh5+.
+De opening valt onder ECO-code C30, het koningsgambiet.

@@ -1,0 +1,17 @@
+Stack (informatica).
+Stack met de operaties "push" en "pop".
+Een stack of stapel is in de informatica een datastructuur voor de opslag van een wisselend aantal elementen, waarbij geldt dat het element dat het laatst werd toegevoegd, het eerst weer wordt opgehaald. Dit principe wordt ook wel LIFO ("Last In First Out") genoemd.
+De tegenhanger van de stack is de queue, die volgens het FIFO ("First In First Out") principe werkt.
+De datastructuur "stack".
+Een stack is te vergelijken met een stapel borden: het laatste bord dat op de stapel is gelegd, wordt er het eerst weer van afgepakt. Een nog betere vergelijking is een stapel zoals in een bordenwagen, waarbij alleen het bovenste element zichtbaar is, en de eventuele rest in het interieur verdwijnt.
+Een stack kan geïmplementeerd worden als een gelinkte lijst, of, als de grootte begrensd is, als een array, met een pointer die naar het laatste stackelement wijst.
+Stacks bij de uitvoering van programma's.
+Een zogenoemde call stack wordt gebruikt bij het aanroepen van subroutines in computerprogramma's. De programmateller, die verwijst naar de eerstvolgende uit te voeren instructie, vormt een van de elementen die worden opgeslagen en weer teruggehaald. De stackpointer wijst naar de top van de stack. De stack kan verder worden gebruikt voor lokale variabelen.
+Een schema van de stack nadat een procedure "DrawSquare()" een procedure "DrawLine()" heeft aangeroepen.
+De stackpointer is meestal een van de registers van een processor. Bij de Intel x86-architectuur is dit het (E)SP-register. Bewerkingen met registers kosten zeer weinig tijd. Sommige microprocessors hebben verschillende stackpointers.
+De stack wordt gebruikt voor het opslaan van lokale variabelen en procedureparameters. Een samenhangend blok stackgegevens met returnadres, aanroepparameters en lokale variabelen heet een frame.
+Hardwarestack.
+Moderne processoren zijn steeds voorzien van een hardwarestack, wat betekent dat een deel van het geheugen voor de stack gereserveerd kan worden en dat er instructies bestaan voor het bedienen van de stack. De hardwarestack komt reeds voor op de PDP11. De vanouds veel gebruikte IBM 360 heeft nog geen hardwarestack.
+Stackgeoriënteerd programmeren.
+Veel rekenmachines maken gebruik van omgekeerde Poolse notatie ("Eng: Reverse Polish Notation, RPN") hetgeen erop neerkomt dat de rekenmachine dat tussenresultaten van een berekening op de stack worden gezet. Het uitvoeren van een bewerking, zoals een optelling, betekent dat de twee bovenste elementen van de stack worden vervangen door de som ervan.
+Er worden nog steeds microprocessoren gemaakt met een stackgeoriënteerde instructieset, bijvoorbeeld de ST20 van ST Microelectronics. Door hun eenvoud zijn meerdere kernen per chip realiseerbaar en dit blijkt op te wegen tegen de hogere kloksnelheid die met een registerarchitectuur mogelijk is.

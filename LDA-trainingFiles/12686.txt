@@ -1,0 +1,16 @@
+Modale logica.
+Modale logica's kunnen worden gezien als een uitbreiding van andere logica's, zoals de propositielogica of de predicatenlogica. Er worden extra operatoren gebruikt, die modaliteiten uitdrukken. Oorspronkelijk waren dit de modaliteiten "het is mogelijk dat" en "het is noodzakelijk dat", maar later zijn talloze andere modaliteiten voorgesteld, om tijd, geloof, onzekerheid, enzovoorts te kunnen weergeven. Een werk dat aan de basis ligt van de modale logica's, is "A Survey of Symbolic Logic" van de Amerikaanse filosoof Clarence Irving Lewis (1918).
+Voor de semantiek van modale logica's worden vaak Kripkemodellen gebruikt.
+Modale propositielogica.
+Modale propositielogica is een veel gebruikte modale logica. Het is een propositielogica die bijvoorbeeld is uitgebreid met eenplaatsige operatoren voor respectievelijk "het is mogelijk dat" en "het is noodzakelijk dat". "Het is mogelijk dat p" (waarbij "p" een propositie is) kan bijvoorbeeld worden weergegeven met "Mp" of "M(p)", maar het is gebruikelijk om hier een symbool voor te gebruiken, het ruitje (Engels: "diamond"): formula_1. Analoog hieraan zou "het is noodzakelijk dat" kunnen worden weergegeven als bijvoorbeeld "Np" of "N(p)", maar dit wordt gewoonlijk gedaan met het vierkantje (Engels: "box"): formula_2
+Syntaxis.
+De eerste drie regels zijn bekend uit de (gewone) propositielogica; de vierde regel is nieuw voor modale propositielogica.
+Voor de duidelijkheid zullen we beide operatoren gebruiken.
+De "modale diepte" van een modale formule is het hoogste aantal vierkantjes dat in de formule te vinden is op geneste wijze. Zo is de modale diepte van de formule formula_22 gelijk aan twee en in formula_23 is dat eveneens twee. Aangezien formula_24 gelijk is aan formula_25, is de modale diepte van formula_26 gelijk aan twee want men kan de formule herschrijven naar formula_27.
+Modale predicatenlogica.
+dat bijvoorbeeld zou kunnen uitdrukken dat het noodzakelijk is, dat alle kanaries vogels zijn.
+Tijdslogica.
+De tijdslogica van Arthur Prior kan beschouwd worden als modale logica, waarbij de modale operatoren een interpretatie krijgen die met tijd te maken heeft. Waar normaal gesproken "in de toekomst zal p het geval zijn" uitgedrukt wordt met Fp, had dit net zo goed met bijvoorbeeld formula_33 weergegeven kunnen worden, waarbij formula_31 dus een heel andere interpretatie krijgt dan de hierboven geschetste, in plaats van noodzakelijkheid zou het toekomende tijd uitdrukken. Het is echter gebruikelijk om hier letters voor te gebruiken, die dus feitelijk staan voor modale operatoren.
+Deontische logica.
+Deontische logica gebruikt het symbool formula_35, dat staat voor 'het is verplicht (obligatory) dat'. Vanuit dit symbool worden de volgende bepaald: formula_36 (het is toegestaan/permissible) en formula_37 (het is verboden/forbidden): formula_38 (p is toegestaan betekent dat het niet verplicht is om p niet te doen) en formula_39 (p is verboden betekent dat het is verplicht om p niet te doen).
+De deontische variant van het modale axioma: formula_40 is niet van toepassing voor deontische logica. Mensen zullen namelijk niet altijd doen wat verplicht is. Om dit te ondervangen is er een zwakker axioma in de deontische logica: formula_41 (handelingen die verplicht zijn, zijn toegestaan).

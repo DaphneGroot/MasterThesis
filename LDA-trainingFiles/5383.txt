@@ -1,0 +1,6 @@
+Sorteeralgoritme.
+Een sorteeralgoritme is een algoritme om elementen van een lijst in een bepaalde volgorde te zetten. In de geschiedenis van het programmeren zijn vele algoritmen voor deze taak bedacht die zich onderscheiden door verschillende snelheid, geheugengebruik en gedrag bij toename van het aantal te sorteren elementen. Het sorteren van bijvoorbeeld een pak speelkaarten stelt andere eisen dan het sorteren van het telefoonboek van New York.
+Het bestuderen van sorteeralgoritmen is in veel informaticaopleidingen een manier om veel aspecten van het gebruik van computers uit te leggen. Sorteeralgoritmen vinden ook toepassing bij datacompressie en geheugenbeheer.
+Donald Knuth heeft in zijn klassieke werk "The art of computer programming" een belangrijk deel aan sorteer- en zoekalgoritmen gewijd.
+Algoritmen.
+Veel sorteerroutines die in programmeerbibliotheken voorkomen bestaan uit een aantal algoritmen die daar worden ingezet waar ze sterk zijn. Zo kan bijvoorbeeld "quicksort" voor lange lijsten goed worden gecombineerd met "straight selection sort" voor korte lijsten.

@@ -1,0 +1,18 @@
+Subprogramma.
+In de informatica is een subprogramma of subroutine (soms ook functie, procedure of routine genoemd) een duidelijk afgebakend programmablok met een eigen naam binnen een computerprogramma, dat elders in het programma aangeroepen (uitgevoerd) kan worden. De naam die aan subprogramma's wordt gegeven kan afhangen van de gebruikte programmeertaal.
+Onderscheid tussen procedures en functies.
+Sommige programmeertalen, zoals Pascal en SQL, maken onderscheid tussen procedures en functies; functies zijn dan een speciaal geval van procedures, die een resultaatwaarde retourneren aan het aanroepende programma. Ze worden vooral gebruikt voor het implementeren van wiskundige functies.
+In andere talen, zoals C en Scala, worden alle subroutines functies genoemd, ook als ze geen waarde retourneren. Ze retourneren als het ware een leeg type, bijvoorbeeld codice_1 of codice_2.
+In functionele talen worden (vrijwel) alleen functies in de wiskundige zin gebruikt. In zuiver functionele talen als Haskell en Clean kunnen deze functies zelfs geen neveneffecten veroorzaken.
+In objectgeoriënteerde programmeertalen worden procedures en functies methodes genoemd indien ze binnen een object gedefinieerd zijn. Ze zijn met dat object gebonden en worden aangeroepen met een prefix die link aangeeft naar het object en zijn methode.
+Parameters en returnwaarden.
+Veel programmeertalen faciliteren het doorgeven van gegevens tussen het aanroepende programma en het subprogramma. Deze gegevens worden vanuit het aanroepende programma aan het subprogramma doorgegeven als parameters.
+Hierbij wordt onderscheid gemaakt tussen invoer- en uitvoerparameters. Invoerparameters geven alleen waarden aan het subprogramma door. Uitvoerparameters geven data vanuit het subprogramma terug aan het hoofdprogramma.
+Meer strikte talen als kennen een aparte type waarin de parameters beiden kunnen zijn, andere talen gebruiken de uitvoerparameters tevens als invoerparameter.
+Soms wordt er gebruikgemaakt van een combinatie van mechanismen, of van een neveneffect van een mechanisme waardoor meer dan één waarde doorgegeven wordt. De Java-taal bijvoorbeeld kent als typen voor programma-variabelen een aantal basis-typen en verder de "object referentie"; variabelen van dit type zijn doorzichtig en worden in de taal feitelijk behandeld alsof het de objecten zijn waarnaar zij verwijzen. Daarnaast kent Java als parametermechanisme pass by value. Wordt echter de waarde van een object referentie doorgegeven, dan wordt natuurlijk feitelijk ook dat object doorgegeven -- alsof het pass by reference was. Men zou dit mechanisme zoiets als "pass by reference-value" kunnen noemen.
+Bij subprogramma's wordt soms onderscheid gemaakt in de waarden die geretourneerd worden na een aanroep. Sommige talen kennen alleen subprogramma's met een resultaat-waarde, sommige talen kennen alleen subprogramma's zonder, weer andere talen kennen een combinatie.
+Gezond programmeren.
+Vanuit het oogpunt van gestructureerd programmeren gelden verschillende vuistregels bij het schrijven van subroutines.
+Recursie.
+Sommige talen staan toe dat subprogramma's zichzelf aanroepen. Dit verschijnsel wordt recursie genoemd.
+Het is belangrijk dat er in het subprogramma een voorwaarde geldt voor de recursieve aanroep, om te voorkomen dat een subprogramma, door zichzelf aan te roepen, in een oneindige lus terechtkomt. De voorwaarde waaraan moet worden voldaan om de recursie te laten eindigen wordt wel de "stopconditie" genoemd.

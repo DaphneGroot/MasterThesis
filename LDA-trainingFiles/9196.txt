@@ -1,0 +1,6 @@
+Japanse Industriële Standaard.
+Symbool van Japanse Industriële Standaard, ingevoerd in 2005
+Japanse Industriële Standaard, afgekort met JIS'", is de aanduiding van het Japanse normalisatieinstituut ("Japanese Industrial Standards") voor de door hen vastgestelde normen. Meestal van toepassing in de bouw en metaalconstructies maar ook voor talloze andere industriële toepassingen. Het Europese equivalent van JIS is Europese Norm (EN).
+In 1949 werd gestart met de JIS-normen als tegenhanger van de Amerikaanse ISO. In 1991 werden de ISO 9000-normen overgenomen door JIS. De JIS-normen zijn wel strenger en worden daardoor praktisch alleen in Japan gevolgd, in de praktijk liggen ze dichter tegen ISO 9001 dan tegen de 9000-norm.
+Een voorbeeld is de tabel om de graad van waterdichtheid van elektrische toestellen te bepalen.
+Deze tabel geeft ook de overeenkomstige benaming voor het Europees equivalent zoals vastgelegd door het IEC, de X geeft hierbij de bescherming aan tegen aanraking en binnendringende voorwerpen.

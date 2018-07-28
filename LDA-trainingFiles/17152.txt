@@ -1,0 +1,16 @@
+Klingon (taal).
+Klingon of tlhIngan Hol (letterlijk: "(de) Klingontaal" ofwel "(de) taal van de klingonen") is een kunsttaal die gebruikt wordt in de televisie- en filmserie Star Trek. De taal is ontworpen door Marc Okrand.
+Naast Klingon bestaat er nog een Klingontaal, Klingonaase (letterlijk "werktuig om te leven op Klinzhai"), die echter soms ook onder de noemer 'Klingon' gezet wordt.
+Het tlhIngan Hol wordt onder de aandacht gebracht door de Klingon Language Institute en heeft ondertussen al enkele natuurlijke talen zoals het Lijfs gepasseerd qua aantal sprekers.
+Het Klingon is officieel gecreëerd door taalkundige Marc Okrand voor Paramount Pictures. In een interview op 21 augustus 1991 vertelde Okrand echter dat niet hij, maar James Doohan ('Scotty'), de eerste Klingon-zinnen heeft bedacht. (voor de eerste Star Trek film). Okrand baseerde zijn werk voor de films en series op het werk van Doohan en bouwde dit enorm uit.
+Het wordt gesproken door de Klingons in de televisieseries en films van Star Trek. Marc Okrand ontwierp een taal met de zeer ongebruikelijke OVS-volgorde om er een buitenaards tintje aan te geven.
+Een eerste omschrijving van het tlhIngan Hol kan gevonden worden in The Klingon Dictionary, geschreven door Dr. Okrand (uitgegeven door Pocket Books van Simon & Schuster in 1985. Een tweede druk met nieuw aanhangsel in 1992, ISBN 0-671-74559-X). Daarnaast zijn er Conversational Klingon (ISBN 0-671-79739-5) en Power Klingon (ISBN 0-671-87975-8), de twee audiocassettes ingesproken door o.a. Michael Dorn ('Worf'), en The Klingon Way, een boek met meer culture en taalinformatie in de vorm van een lijst van spreekwoorden en gezegden.
+De bij het IANA geregistreerde taalcode voor tlhIngan Hol is codice_1, de ISO 639-2-Code is codice_2.
+Werkwoorden.
+In tlhIngan Hol staat het werkwoord centraal. Wie of wat het doet (het onderwerp) en andere elementen die normaal deel uitmaken van een zin, worden aangegeven door middel van zowel voor- als achtervoegsels.
+en er zijn 9 types achtervoegsel
+Deze types kunnen, theoretisch, alle 9 in de constructie voorkomen.
+Een achtervoegsel van type 1 staat altijd direct achter het werkwoord. Een achtervoegsel van type 9 staat altijd helemaal achteraan.
+Verder is er nog een type achtervoegsel 'reiziger' dat zich aan deze regel onttrekt en vaak als 'klemtoon' in de zin wordt gebruikt.
+Exclamaties.
+Er zijn vele korte uitspraken en krachttermen bekend. Een van de bekendsten is Qapla'.

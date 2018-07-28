@@ -1,0 +1,9 @@
+Additieve synthese.
+In de audiotechniek is additieve synthese een methode om een klank met een bepaalde klankkleur te maken door een aantal basistonen bij elkaar op te tellen.
+De klank van muziekinstrumenten en stemmen is een samenstelling van verschillende zuivere tonen. In veel gevallen zijn deze zuivere tonen harmonischen, van de grondtoon, maar noodzakelijk is dit niet. Heldere instrumenten zoals een fluit produceren
+boventonen die een geheel aantal keren de grondtoon zijn, maar slagwerk en ook een klokkenspel doen dit niet.
+Additieve synthese bootst een klank na door de benodigde boventonen, zowel harmonische als niet-harmonische, in de juiste verhoudingen bij elkaar op te tellen.
+Gebruikelijk wordt dit gedaan met oscillatoren van de benodigde frequenties. Veelal heeft elke oscillator een instelbaar verloop (aanzet, duur) waarmee het realisme en dynamiek worden verhoogd, en waarmee ook klankkleuren gemaakt kunnen worden die gedurende het klinken van de toon extreem veranderen.
+Het bouwen van een praktisch bruikbare additieve synthesizer in analoge elektronica is vrijwel onmogelijk en in ieder geval bijzonder kostbaar. Betaalbare uitvoeringen kwamen dan ook pas met de komst van digitale signaalbewerking op de markt.
+Een commercieel verkrijgbare additieve synthesizer was tot eind jaren 90 de K5000s van de firma Kawai. Andere modellen waren zijn voorganger de K5 en de Synclavier van New England Digital.
+In een toonwielorgel wordt ook een soort additieve synthese toegepast door de frequenties van de toonwielen (een soort tandwielen aan een ronddraaiende as) met elkaar te mengen. Dit mengen gebeurt met de zogenaamde "drawbars". Het hammondorgel gebruikt deze techniek.

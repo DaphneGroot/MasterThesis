@@ -1,0 +1,6 @@
+Cumulus.
+Ci=Cirrus, Cs=Cirrostratus, Cc=Cirrocumulus, As=Altostratus, Ac=Altocumulus, Ns=Nimbostratus, Cb=Cumulonimbus, Cu=Cumulus, Sc=Stratocumulus, St=Stratus
+Cumulus- of stapelwolken zijn scherp afgelijnde wolken en vormen een wolkengeslacht. De basis is donkerder, het bovenste deel met halfronde uitwassen is wit. In weerberichten is de afkorting "Cu" en het symbool op weerkaarten is: 25px
+Een "cumulus congestus" kan uitgroeien tot een cumulonimbus, wat vaak voor regen en/of onweer zorgt. Dit komt voor als de lucht erg onstabiel is.
+Ontstaan.
+Als warme lucht opstijgt zet deze uit, omdat de luchtdruk naar boven toe minder wordt en koelt daardoor af. De waterdamp in de lucht wil dan condenseren en er ontstaat een cumuluswolk. De stijgende lucht wordt thermiek genoemd en zweefvliegers maken daarvan gebruik om hoogte te winnen. Aan de cumuluswolken weet een zweefvlieger waar hij de thermiek moet zoeken. Bij de condensatie komt latente warmte vrij, waardoor de lucht wordt verwarmd en aanzet tot atmosferische convectie.

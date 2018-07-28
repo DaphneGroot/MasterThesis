@@ -1,0 +1,6 @@
+11 (getal).
+Elf is 11, 10 + 1. Elf is het natuurlijke getal dat tien opvolgt en twaalf voorafgaat.
+Deelbaarheid.
+Het is eenvoudig om van een geheel getal vast te stellen of het deelbaar is door 11. Tel de cijfers op de even plaatsen bij elkaar op en trek daarvan de cijfers op de oneven plaatsen af. Als het resultaat nul is of deelbaar is door 11, is het oorspronkelijke getal ook deelbaar door 11.
+Bijvoorbeeld: 42603 is deelbaar door 11, hetgeen te concluderen valt uit het feit dat deelbaar door 11 is. Alternatief kunnen de even en oneven cijfers apart opgeteld worden:.
+Opmerking: ook in andere talstelsels kan op deze manier de deelbaarheid door bepaald worden (waarbij het grondtal is).

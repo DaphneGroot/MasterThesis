@@ -1,0 +1,20 @@
+Haskell (programmeertaal).
+Haskell is een functionele programmeertaal vernoemd naar de wiskundige Haskell Brooks Curry.
+Functionele basis.
+In tegenstelling tot vele bekende programmeertalen zoals C, C++ en Java is Haskell geen imperatieve taal, maar een functionele taal. Dat wil zeggen dat de taal niet gebaseerd is op het Turingmachine-model van berekening, maar op het Lambdacalculusmodel van Alonzo Church waarin het toepassen van functies op termen en termenreductie de basis is van berekening.
+Haskell is een luie ("lazy"), puur functionele taal. Puur functioneel zijn wil zeggen dat erin gedefinieerde functies geen neveneffecten kunnen vertonen. Voorbeelden van niet-pure functionele programmeertalen zijn Standaard ML en Scheme. Een luie functionele taal gebruikt luie evaluatie om te voorkomen dat resultaten die niet gebruikt worden, berekend worden. Hoewel het niet door iedereen als een intuïtieve eigenschap wordt aangezien, wordt luie evaluatie beschouwd als een manier om meer modularisatie te kunnen realiseren.
+De programmeertaal is sterk en statisch getypeerd (typefouten kunnen tijdens de uitvoering van een programma niet optreden), en steunt sterk op type-inferentie (meestal kunnen de types van functies en variabelen door de compiler ontdekt worden). Het typesysteem is zeer uitgebreid, en ondersteunt het concept van klassen van types, waarbij deze klassen van elkaar afgeleid kunnen worden.
+Faculteit.
+De onderstaande functie berekent de faculteit van een getal. De functie is voor negatieve waarden ongedefinieerd.
+fac n | n > 0 = n * fac (n-1)
+fac n = if n > 0 then n * fac (n-1) else 1
+Invoegen in een lijst.
+insert:: Int -> [Int] -> [Int]
+insert a list@(x:xs) | a <= x = a: list
+Bij het invoegen van een getal zijn er twee gevallen te onderscheiden: het invoegen van een getal in een lege lijst en in een lijst met één of meerdere getallen. Het invoegen in de lege lijst is eenvoudig want dat is een lijst met dat getal. Bij het invoegen van een getal in een gevulde lijst kijken we naar het eerste getal, "x", en de rest, "xs". Als het in te voegen getal kleiner of gelijk is aan het eerste getal, dan zetten we het getal op kop van de hele lijst. Als het getal groter is dan het eerste getal dan nemen we het eerste element en voegen we het getal in de rest van de lijst in. Op deze manier wordt de lijst doorlopen totdat de plek is gevonden waar het getal neergezet kan worden.
+Hogere-ordefuncties en luie evaluatie.
+De functie codice_7 levert de eerste n elementen van een lijst op. Als men de functie codice_8 heeft gedefinieerd (die voor een getal bepaalt of het een priemgetal is) dan levert het bovenstaande de eerste 10 priemgetallen op.
+Ontwikkeling.
+Aan Haskell is gewerkt sinds het eind van de jaren tachtig, voornamelijk aan de Universiteit van Glasgow. De eerste versie van Haskell zag het daglicht in 1990, waarop brede acceptatie aan vele universiteiten volgde. Haskell werd vanaf 1996 gereviseerd en uitgebreid, wat in 1998 resulteerde in het Haskell '98 Report en een nieuwe Haskell-taal. Een revisie van dit rapport werd in 2003 uitgebracht. In 2009 werd een nieuwe versie van de standaard aangekondigd: Haskell 2010; in 2011 werd hier nog een wijziging in aangebracht.
+Parallel aan de ontwikkeling van de theoretische Haskell-taal is er een aantal werkomgevingen voor Haskell ontwikkeld. De bekendste hiervan zijn de Hugs en Gofer systemen en de Glasgow Haskell Compiler, die alle gratis beschikbaar worden gesteld door de universitaire teams die eraan werken. Speciaal voor het leren van Haskell heeft men aan de Universiteit van Utrecht Helium ontwikkeld waarbij men aandacht heeft besteed aan de duidelijkheid van de foutmeldingen.
+In Nijmegen is de programmeertaal Clean ontwikkeld, die zeer sterk op Haskell lijkt, maar de programmeur meer controle over de luie evaluatie geeft.

@@ -1,0 +1,4 @@
+Vlindereffect.
+Het vlindereffect is de sterke gevoeligheid voor verschillen in beginvoorwaarden. Bij niet-lineaire systemen met een grote gevoeligheid kan de afwijking met elke stap exponentieel toenemen. De term wordt gebruikt om een aantal chaotische fenomenen te omschrijven. Het vlindereffect speelt dan ook een belangrijke rol binnen de chaostheorie.
+De naam is gebaseerd op een metafoor die in 1961 werd gebruikt door Edward Lorenz om aan te geven dat de vleugels van een vlinder in Brazilië maanden later een tornado in Texas zouden kunnen veroorzaken.
+Systemen die eigenschappen van het vlindereffect hebben, en zich dus 'chaotisch' gedragen, zijn onder meer de beurshandel en de atmosfeer.

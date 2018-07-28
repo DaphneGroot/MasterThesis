@@ -1,0 +1,27 @@
+Polymerasekettingreactie.
+De polymerasekettingreactie, (PCR, van "Polymerase Chain Reaction"), is een manier om uit zeer kleine hoeveelheden DNA (enkele basen) specifiek een of meer gedeeltes te multipliceren (amplificeren) tot er genoeg van is om het te analyseren.
+Volgens conventionele methoden kan men wel korte stukjes DNA, bijvoorbeeld 10 of 12 basen, synthetiseren, maar voor langere stukken zijn de chemische reacties die daarvoor worden gebruikt niet specifiek genoeg: er worden bij langere stukken steeds meer "foute" sequenties gevonden.
+Toepassingen.
+Het kleine beginnetje kan men volgens de traditionele methode maken, als men tenminste weet waar de gewenste DNA-sequentie mee begint en waarmee hij eindigt. Deze stukjes noemt men "primers".
+Werking van de reactie.
+Na de derde stap bevat de oplossing twee maal zoveel van het gewenste DNA als ervoor. Door de stappen een aantal malen (bijvoorbeeld 30) te herhalen, krijgt men een exponentiële groei van de hoeveelheid gewenst DNA.
+Omdat het polymerase alleen richting de doelsequentie kopieert, wordt dit stukje exponentieel gekopieerd, terwijl ander DNA al bij de derde cyclus niet meer gekopieerd wordt. Hierdoor zijn er na dertig cycli miljarden kopieën van de doelsequentie en nog steeds maar een heel klein beetje ander DNA.
+Het DNA-polymerase van (de bacterie) "Thermus aquaticus" of van "Pyrococcus furiosus", die onder andere in warmwaterbronnen en geisers leven, wordt gebruikt omwille van de thermostabiliteit. Tijdens de verschillende cycli van een PCR-reactie worden namelijk herhaaldelijk temperaturen bereikt die polymerases van niet thermofiele organismen doen denatureren.
+Primers.
+Een primer is een klein stukje enkelstrengs RNA of DNA dat gebruikt wordt als startpunt van de PCR (polymerasekettingreactie). Er zijn steeds twee primers nodig, één voor de 5'-streng en één voor de 3'-streng.
+De beste primer voor PCR is een relatief korte RNA-streng. Deze streng wordt kunstmatig gemaakt met een RNA-polymerase. De RNA-streng wordt dan door DNA-polymerase omgezet in een korte enkelstrengs-DNA. Deze DNA-streng is zo kort dat het zich vanzelf aan een ander complementair stuk enkelstrengs-DNA hecht en zo het startpunt vormt voor de replicatie.
+Een goede primer is niet te kort, omdat daarmee de specificiteit wordt benadeeld. Een te lange primer heeft theoretisch een hogere specificiteit, maar zou secundaire structuren kunnen vormen waardoor de PCR niet of nauwelijks nog effectief is.
+Vanaf de primer wordt het DNA richting 3' gekopieerd. DNA wordt altijd van 5' naar 3' gebouwd
+Praktisch.
+Een mengsel van DNA-monster, DNA-polymerase, twee specifieke primers (5' en 3'), dNTP's (een algemene term voor de vier deoxyribonucleotides: dATP, dCTP, dGTP en dTTP ook wel oligonucleotiden genoemd), een buffer en magnesiumchloride.
+Er wordt gebruikgemaakt van een thermostabiel polymerase-enzym, zoals Taq-polymerase, dat een optimale temperatuur van ongeveer 72°C heeft. De buffer zorgt voor een optimale pH en zoutconcentratie. Magnesiumchloride is de cofactor voor de binding tussen DNA-polymerase, DNA en NTP waarmee de snelheid van het proces tegenover de nauwkeurigheid kan worden uitgebalanceerd.
+Hierna wordt het proces 30-40 keer herhaald.
+Realtime-PCR.
+Bij de realtime-PCR-methode, ook wel kwantitatieve of kinetische PCR-methode (qPCR) genoemd, kan tijdens de PCR het DNA al worden aangetoond; dit is een snelle methode voor het opsporen van micro-organismen. Realtime-PCR maakt zowel het aantonen (detectie) als kwantificering van een of meer specifieke nucleïnezuurvolgorden (sequenties) in het DNA-monster mogelijk.
+Gelabelde probes binden aan een specifiek stuk DNA en zijn niet waar te nemen als de probe intact is. Zodra de polymerasekettingreactie op gang komt, wordt de probe afgebroken en wordt het label zichtbaar. Fluorescerende labels gaan licht van een bepaalde golflengte uitzenden. Hoe meer DNA wordt omgezet, des te sterker het signaal. Dat signaal, uitgedrukt in RFU's (Relative Fluorescent Unit), wordt grafisch uitgezet tegen de thresholdcyclus (drempelwaarde, aangeduid met Ct-waarde), de cyclus in het PCR-proces waarbij de excitatie van het licht dat vrijkomt van het label boven de detectiegrens uitkomt.
+Omdat er bij qPCR's ook standaarden worden meegenomen waarvan de hoeveelheid DNA bekend is, kan er een ijklijn worden geplot. Uit deze lineaire grafiek wordt de hoeveelheid DNA berekend, door de thresholdcyclus af te zetten tegen de excitatie.
+PCR-ELISA.
+De PCR-ELISA-test is een goedkoper alternatief van de realtime-PCR-methode.
+Geschiedenis en gebruik.
+De reactie is bedacht in 1983 door Kary Mullis. Hij wordt o.a. gebruikt bij het aantonen en analyseren van kleine aantallen bacteriën en virussen, en bij het opwerken van sporen sperma of andere lichaamscellen (haarwortels, bloedcellen) door daders bij misdaden op het slachtoffer achtergelaten.
+Vervuiling van gewassen met ggo-stuifmeel kan sinds 2005 gedetecteerd worden met een gevoeligheid van 1 op 20.000 ofwel 0,005%. Rond 2000 was de detectielimiet nog 1,0-0,1%.

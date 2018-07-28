@@ -1,0 +1,19 @@
+Metrische ruimte.
+In de wiskunde verstaat men onder metrische ruimte een verzameling waarop een metriek (afstand) gedefinieerd is, zodat van elke twee elementen de afstand ertussen gegeven is.
+De ruimten die het meest overeenkomen met ons intuïtief begrip van metrische ruimte zijn de twee- en de driedimensionale euclidische ruimte. In feite is het begrip "metriek" een generalisatie van de euclidische metriek die voortvloeit uit de vier sinds lange tijd bekende eigenschappen van de euclidische afstand. De euclidische metriek definieert de afstand tussen twee punten als de lengte van het lijnstuk dat deze twee punten verbindt.
+De meetkundige eigenschappen van de ruimte hangen af van de gekozen metriek, en door een andere metriek te gebruiken, kan men interessante niet-euclidische meetkundes, zoals die gebruikt worden in de algemene relativiteitstheorie, construeren.
+Een metrische ruimte induceert topologische eigenschappen, zoals open- en gesloten verzamelingen, die leiden tot de studie van nog meer abstracte topologische ruimten.
+Een deelverzameling van een metrische ruimte is zelf ook een metrische ruimte met als metriek de restrictie tot de betreffende paren punten (de "geïnduceerde metriek").
+Geschiedenis.
+Het begrip metrische ruimte werd in 1906 door Maurice Fréchet geïntroduceerd in zijn werk "Sur quelques points du calcul fonctionnel" (Over enkele punten in de functionaalanalyse), Rendic. Circ. Mat. Palermo 22 (1906) 1–74.
+Voorbeelden.
+Deze metriek dankt zijn naam aan het tweedimensionale voorbeeld waarbij men in een stadswijk met een patroon van elkaar loodrecht kruisende straten, volgens de kortste weg van hoekpunt A naar hoekpunt B wandelt.
+Verband met een norm.
+De eerste twee voorbeelden hierboven hebben gemeen dat de verzameling formula_7 telkens een reële of complexe vectorruimte is, waarin de afstandsfunctie geïnduceerd wordt door een of andere norm formula_8, dat wil zeggen
+Algemeen maakt deze constructie van elke genormeerde ruimte een metrische ruimte. Als de aldus ontstane metrische ruimte volledig is, noemt men de genormeerde ruimte een Banachruimte.
+Verband met topologie.
+Met deze topologie wordt iedere metrische ruimte een topologische ruimte.
+Niet elke topologie is echter afkomstig van een metriek. Een topologische ruimte heet metriseerbaar als haar topologie wordt voortgebracht door de open bollen van een of andere metriek op de dragende verzameling.
+Er bestaan verschillende verbanden tussen metriseerbaarheid en de aftelbaarheidsaxiomas en de scheidingsaxiomas. De stelling van Smirnov-Nagata-Bing bepaalt een precieze equivalentie tussen metriseerbaarheid enerzijds, en de combinatie van een aftelbaarheidsaxioma en een scheidingsaxioma anderzijds.
+Equivalentie van metrieken.
+Equivalente metrieken impliceren dat in beide metrische ruimten dezelfde verzamelingen open zijn (en dus dezelfde ook gesloten zijn), ook definiëren equivalente metrieken dezelfde convergente rijen en continue functies.

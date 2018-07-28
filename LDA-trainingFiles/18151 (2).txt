@@ -1,0 +1,3 @@
+Access Systems Americas.
+Access Systems Americas (voorheen PalmSource) is het Amerikaanse bedrijf dat verantwoordelijk is voor de ontwikkeling van het besturingssysteem Palm OS. Dit besturingssysteem komt voor op pda's. Het bedrijf kwam voort uit Palm en is sinds 2003 zelfstandig. Access Systems Americas maakt zelf geen pda's, dat wordt gedaan door licentienemers van het besturingssysteem zoals Sony, palmOne, Garmin en Symbol Technologies.
+Naast de ontwikkeling ondersteunt Access Systems Americas software-ontwikkelaars die toepassingen voor het Palm OS willen bouwen.

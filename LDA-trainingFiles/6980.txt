@@ -1,0 +1,6 @@
+Talk (protocol).
+Talk is de naam van een van de eerste instant-messaging protocols. Het wordt voornamelijk op Unix-achtige systemen gebruikt.
+Werking.
+De werking van dit protocol kan is te vergelijken met het voeren van een ordinair telefoongesprek, waarbij de telefoontoestellen fungeren als server. Twee gebruikers moeten dus allebei een Talk-server hebben aanstaan. Die moet ook van het hetzelfde type zijn. De meest voorkomenden zijn "ntalk" (de meest gebruikte) of "talkd" (talk daemon).
+Wanneer een gebruiker een verbinding wilt aangaan met iemand anders, dus een verbinding van A naar B, opent A een talk-client die dan verbinding maakt met de server van B. De server van B laat dan weten of er een gesprek aan de gang is of niet. Wanneer dit het geval is verbreekt A de verbinding (hij geeft op) en laat de server van B zijn gebruiker weten dat iemand hem probeerde te benaderen. Wanneer er geen gesprek aan de gang is, komt een verbinding tot stand tussen de twee servers waarlangs dan een gesprek kan plaatsvinden.
+Data wordt op karakterbasis doorgestuurd. Elke toetsaanslag is onmiddellijk zichtbaar.

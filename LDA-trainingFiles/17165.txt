@@ -1,0 +1,6 @@
+Magneetrem.
+Mechanische magneetrem tussen de twee wielen van een GTL-tramdraaistel
+De magneetrem is een rem die toegepast wordt bij spoorvoertuigen. Er bestaan twee varianten: de magneetrem die door mechanische wrijving op het spoor remt en de wervelstroomrem die door middel van wervelstromen de remkracht opwekken.
+Bij de mechanische wrijving zakt er vanuit de trein een blok met permanente (PMg) of elektromagneten (EMg) op het spoor, waardoor de magneetrem zichzelf krachtig tegen de spoorstaaf trekt. Door de wrijving die dit veroorzaakt remt de trein af. Omdat een magneetrem de rails kan beschadigen, wordt de magneetrem alleen gebruikt als noodrem of parkeerrem (alleen bij PMg). Trams zijn (vrijwel) altijd voorzien van magneetremmen.
+Bij de wervelstroommagneetrem hangen de magneten op enige millimeters boven de spoorkop en zorgen voor een magnetisch veld in de spoorstaaf. Door de tegenwerking van het magnetisch veld ten opzichte van de rijrichting van de trein, remt de trein af. Deze rem is slijtagevrij, maar warmt de spoorstaven wel erg op.
+Wervelstroommagneetremmen mogen in Nederland niet gebruikt worden omdat ze de gecodeerde spoorstroomlopen van treinbeheersingssysteem ATB-EG kunnen beïnvloeden.

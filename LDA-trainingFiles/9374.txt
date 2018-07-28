@@ -1,0 +1,4 @@
+Java DataBase Connectivity.
+Java DataBase Connectivity (JDBC) is een Java API. Een Java-programma kan via JDBC in SQL communiceren met een database. Dit Java programma kan een applicatie, applet of servlet zijn.
+Ten behoeve van deze communicatie is een databasespecifieke driver nodig, die door nagenoeg alle leveranciers van database-engines (onder andere DB2, Oracle en MySQL) wordt geleverd. Voor databases waarvoor geen JDBC-driver bestaat, maar die wel via ODBC kunnen worden benaderd, is een JDBC-ODBC bridge API beschikbaar.
+Na het laden van de driver kan een Connection object worden geïnstantieerd, via welke de SQL-instructies kunnen worden uitgevoerd op de database.

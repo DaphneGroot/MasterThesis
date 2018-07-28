@@ -1,0 +1,5 @@
+Cent (muziek).
+Een zuiver octaaf, met een frequentieverhouding van exact 1:2 komt dus overeen met een afstand van 1200 cent.
+In de muziek is de schaal in cent voldoende nauwkeurig om de grootte van een interval oftewel de frequentieverhouding aan te geven en door het logaritmische karakter kunnen afstanden in cent gewoon bij elkaar opgeteld en van elkaar afgetrokken worden.
+Voorbeeld.
+Een gelijkzwevende kwint betekent een afstand van 7 halve tonen en dus exact 700 cent, bijna 2 cent lager dan de ideale, natuurkwint. Dit is een opmerkelijk goede benadering. Een zuivere grote terts heeft een frequentieverhouding van 5:4 en is 386,3137 cents, en die wordt met een gelijkzwevende stemming 400 cents wat veel minder fraai is.

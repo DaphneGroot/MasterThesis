@@ -1,0 +1,4 @@
+Bzip2.
+Bzip2 is een compressieprogramma geschreven door Julian Seward. Het is met name bedoeld als opvolger voor het onder Unix en Linux veel gebruikte programma gzip. Bzip2 haalt veel betere compressie dan gzip, maar dit gaat ten koste van de snelheid en geheugengebruik: bzip2 is enkele malen trager dan gzip en gebruikt een veelvoud aan geheugen. Doordat het bestandsformaat enkele ontwerpfouten bevat, is het formaat vrijwel onuitbreidbaar.
+Bzip2 gebruikt als algoritme een combinatie van Burrows Wheeler transformatie, haal-naar-vorencodering, run-length encoding en Huffmancodering.
+De uitvoerbestanden van bzip2 hebben extensie "bz2". Een programma dat het algoritme gebruikt is 7-Zip.

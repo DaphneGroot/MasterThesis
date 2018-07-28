@@ -1,0 +1,20 @@
+Algebraïsch getal.
+In wiskunde is een algebraïsch getal een reëel of complex getal dat een nulpunt is van een polynoom met gehele coëfficiënten. De polynoom is dus van de vorm
+waarin "n" > 0, alle "ai" geheel zijn en "an" ongelijk aan 0 is.
+De polynoom "f" mag ook met rationale coëfficiënten worden gekozen, een nulpunt van een polynoom met rationale coëfficiënten is ook het nulpunt van een polynoom met gehele getallen.
+Als een getal meetkundig kan worden voorgesteld met een constructie met passer en liniaal, dan is het zeker algebraïsch. Het omgekeerde is niet waar: formula_2 en de sinus van 10° zijn algebraïsche getallen, maar het zijn tevens klassieke voorbeelden van niet-construeerbare getallen. Deze twee voorbeelden komen overeen met verdubbeling van het volume van een kubus en de driedeling van de hoek van 30°.
+Relatie met rationale getallen.
+Alle rationale getallen zijn algebraïsch, want een rationaal getal formula_3, met formula_4 en formula_5 gehele getallen, is een oplossing van de vergelijking
+Ook alle wortels van rationale getallen zijn algebraïsch, want een formula_7-de-machtswortel van een rationaal getal formula_3 is een oplossing van de vergelijking
+Veel algebraïsche getallen kunnen worden opgebouwd vanuit de gehele getallen met behulp van de basisoperaties optellen, aftrekken, vermenigvuldigen, delen en worteltrekken. Dit geldt echter niet voor alle algebraïsche getallen. Een tegenvoorbeeld wordt gevormd door de oplossingen van de volgende vijfdegraadsvergelijking.
+De oplossingen van deze vergelijking zijn duidelijk algebraïsch, maar zij kunnen niet met de wortels uit getallen worden geschreven. Dat is in overeenstemming met de stelling van Abel-Ruffini. Het omgekeerde geldt wel: alle getallen die met wortelvormen zijn te schijven, zijn algebraïsche getallen.
+Getallen die met wortelvormen kunnen worden geschreven.
+Een bijzondere verzameling binnen de algebraïsche getallen zijn de getallen die met wortels kunnen worden geschreven. Daarbij mogen vierkantswortels en wortels van een hogere macht worden gebruikt en mag de vierkantswortel van een negatief getal blijven staan. Bijvoorbeeld
+is een algebraïsch getal dat met wortelvormen en de basisoperaties kan worden geschreven.
+Algebraïsche getallenlichamen.
+Noem formula_16 de verzameling van alle algebraïsche getallen. formula_16 is algebraïsch gesloten, dat wil zeggen dat de nulpunten van een polynoom met coëfficiënten in formula_16, zelf ook in formula_16 liggen. De inversen van algebraïsche getallen, lineaire combinaties en producten van algebraïsche getallen zijn zelf ook weer algebraïsch.
+formula_16 is een deellichaam van de complexe getallen formula_21, maar is kleiner dan formula_21. Als gevolg van de hoofdstelling van de algebra liggen alle algebraïsche getallen in het complexe vlak.
+formula_16 heet de algebraïsche sluiting van formula_25. Noteer formula_26. formula_16 is net zoals formula_25 aftelbaar. formula_21 is de algebraïsche sluiting van de reële getallen formula_30.
+Als aan formula_25 een of meer algebraïsche getallen worden toegevoegd, ontstaat als uitbreiding een algebraïsch getallenlichaam, genoteerd als formula_32.
+Transcendente getallen.
+Reële, of complexe, getallen die niet algebraïsch zijn, heten transcendente getallen. Het aantal algebraïsche getallen is aftelbaar oneindig, omdat het aantal polynomen met gehele coëfficiënten en het aantal nulpunten per polynoom aftelbaar is. Er zijn overaftelbaar veel transcendente getallen.

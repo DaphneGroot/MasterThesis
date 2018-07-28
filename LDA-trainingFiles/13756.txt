@@ -1,0 +1,16 @@
+Booleaanse algebra.
+In de wiskunde, met name de abstracte algebra, en in de informatica is een booleaanse algebra of Boole-algebra een algebraïsche structuur met de logische operatoren AND (en), OR (of) en NOT (niet). Deze operatoren zijn direct gerelateerd aan de begrippen doorsnede, vereniging en complement uit de verzamelingenleer.
+Zo is het logische "uitgesloten derde", dat stelt dat een uitspraak waar is of onwaar, equivalent met de regel dat de vereniging van een verzameling en z'n complement alle in het geding zijnde elementen bevat.
+Complementair daaraan is de logische vaststelling dat een uitspraak en z'n ontkenning niet samen waar kunnen zijn. Dit wordt voor verzamelingen weerspiegeld in de regel dat een verzameling en z'n complement geen gemeenschappelijk element hebben.
+De booleaanse operatoren zijn genoemd naar de Brit George Boole, die ze in het midden van de 19e eeuw invoerde. Een booleaanse algebra is een poging om algebraïsche technieken te gebruiken teneinde te kunnen omgaan met logische uitdrukkingen. Booleaanse algebra's vinden bijvoorbeeld toepassing in het samenstellen van digitale elektronische schakelingen, zoals die in computers worden gebruikt. In de praktijk kan men de werking ervan onder meer zien in sommige zoeksystemen voor internetpagina's.
+Definitie.
+Een boole-algebra wordt (meestal) aangeduid met de hoofdletter: 'B'
+De eerste drie paren axioma's, associativiteit, commutativiteit en absorptie, houden in dat het drietal formula_22 een tralie is.
+Uit de axioma's volgt dat in de partiële ordening van het tralie 0 het kleinste element is en 1 het grootste element. (Die partiële ordening wordt bepaald door a ≤ b te noemen als formula_23.)
+Notatie.
+Soms wordt vanwege een zekere mate van overeenkomst een + gebruikt voor formula_5 en een formula_36 voor formula_3. Voor wie bekend is met getallenalgebra schept deze notatie verwarring, omdat deze symbolen, die ook in getallenalgebra worden gebruikt, hier een andere betekenis hebben.
+Soms wordt ook een vierde booleaanse operator gehanteerd, de "exclusive OR - XOR" (EXCLUSIEVE OF, of exclusieve disjunctie), gedefinieerd door de regel
+De operator formula_45 gedraagt zich ongeveer als de klassieke getallenoperator formula_46, weliswaar met de eigenaardigheid dat formula_47
+Een "volledig" stel logische uitdrukkingen wordt gemodelleerd door een algebra van verzamelingen. Het is, in de formele zin, een associatieve algebra met eenheidselement over het formula_48 met de bewerkingen formula_45 en formula_50
+Voorbeelden.
+Een ander voorbeeld van een booleaanse algebra wordt gevormd door de machtsverzameling van een gegeven verzameling "U", met de bekende bewerkingen vereniging, doorsnede en complement.

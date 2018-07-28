@@ -1,0 +1,5 @@
+Grobgambiet.
+Het Grobgambiet is in de opening van een schaakpartij een subvariant van de Grobopening, welke valt onder ECO-code A00, de onregelmatige openingen. Het gambiet heeft als beginzetten
+Als zwart het gambiet aanneemt, 2....Lxg4 dan volgt in de regel 3. c4, het Fritzgambiet, en de witspeler houdt druk op de zwarte damevleugel na zetten als Pc3 of Db3.
+Dit gambiet is geanalyseerd door de Zwitserse schaker Henri Grob (1904–1974).
+De opening is echter incorrect, omdat zwart de g-pion met d7-d5 kan aanvallen, en beter spel bereikt dan wit. Dit komt omdat zwart met zijn verder opgespeelde pion niet meer kort kan rokeren, omdat de rokadestelling dan te ernstig verzwakt is. Hierdoor is wit veel minder mobiel dan bij de opening 1. g2-g3.

@@ -1,0 +1,26 @@
+Cauchyrij.
+De blauwe punten vormen een cauchyrij die zich beweegt tussen de twee rode grafieken die naar elkaar toe kruipen
+Een cauchyrij, of fundamentaalrij, is in de wiskunde een rij waarvoor geldt dat als men verder in de rij komt, de elementen van de rij willekeurig dicht in elkaars buurt komen te liggen. Intuïtief lijkt dit te betekenen dat de rij convergeert naar een limietwaarde. Dit is echter niet bij iedere cauchyrij het geval, aangezien het punt waarheen de rij lijkt te convergeren niet tot de betrokken verzameling behoeft te behoren. Cauchyrijen zijn als het ware de kandidaten voor convergentie.
+De cauchyrij is genoemd naar de Franse wiskundige Augustin Louis Cauchy (1789-1857).
+Definitie.
+Deze definitie zegt in woorden dat hoe klein je ε ook kiest, je altijd een punt in de rij kunt vinden van waaraf de afstand tussen twee willekeurige elementen altijd kleiner is dan ε.
+Voor iedere convergente rij geldt dat het een cauchyrij is.
+Voorbeeld van een rij die "geen" cauchyrij is.
+Voor een cauchyrij gaat de afstand tussen twee opeenvolgende elementen (als punten in "V") zeker naar 0, maar dit is niet een voldoende voorwaarde om een cauchyrij te zijn, zoals blijkt uit het volgende tegenvoorbeeld.
+Voor de rij met formula_4 geldt: formula_5.
+De rij is echter geen cauchyrij, aangezien formula_6 dus hoe groot formula_7 bij een gegeven formula_8 ook gekozen wordt, er is altijd een formula_9 te vinden waarvoor formula_10.
+Voor de elementen formula_11 van de rij geldt dat deze voor voldoend grote formula_7 groter worden dan elk willekeurig getal "L". De limiet van de rij formula_13 is formula_14.
+Volledige metrische ruimte.
+Het begrip cauchyrij speelt een rol in de definitie van een "volledige" metrische ruimte. In iedere metrische ruimte is iedere convergente rij tevens een cauchyrij. Een metrische ruimte "V" wordt "volledig" genoemd als ook omgekeerd elke cauchyrij die binnen die verzameling definieerbaar is, convergeert (naar een limietwaarde die dus ook binnen die verzameling moet liggen). Het bekendste voorbeeld hiervan zijn de reële getallen; de verzameling formula_15 van de reële getallen is gedefinieerd als de kleinste volledige metrische ruimte die de verzameling formula_16 van de rationale getallen bevat. In formula_15 is elke cauchyrij dus convergent.
+Voorbeeld van een niet-convergente cauchyrij.
+De rij formula_13 is een cauchyrij met elementen in formula_16. In formula_30 convergeert formula_11 naar formula_19, maar in formula_16 is formula_13 niet convergent (formula_19 is geen element van formula_16, zoals bewezen in het bewijs dat wortel 2 irrationaal is). We zien dus dat niet iedere cauchyrij in formula_16 convergent is.
+Cauchyrijen in de reële getallen.
+In de reële getallen is elke cauchyrij convergent. De verzameling formula_15 van de reële getallen is dus volledig. Bij het bewijzen dat iedere cauchyrij een limiet heeft binnen de reële getallen wordt gebruikgemaakt van de driehoeksongelijkheid.
+Cauchyrij in een topologische vectorruimte.
+Een topologische vectorruimte is een reële of complexe vectorruimte, uitgerust met een topologie die de hausdorff-eigenschap bezit en die de klassieke vectorbewerkingen continu maakt.
+Een dergelijke topologie is niet altijd afkomstig van een metriek, maar toch kan het begrip cauchyrij veralgemeend worden. Elke topologische vectorruimte heeft een aftelbare lokale basis in ieder punt. Zij
+een dergelijke lokale basis voor de nulvector. Een rij vectoren
+heet "cauchyrij" als er voor elke "i" een natuurlijk getal "N" bestaat zodat voor alle natuurlijke getallen "n" en "m" die groter dan "N" zijn, geldt dat
+Het is niet moeilijk aan te tonen dat deze definitie onafhankelijk is van de gekozen aftelbare basis.
+Gelijkwaardigheid van de definities.
+Als de topologie van "V" afkomstig is van een translatie-invariante metriek, dan valt de "topologische" definitie van een cauchyrij samen met de "metrische" definitie. In het bijzonder geldt dat alle verschillende translatie-invariante metrieken die dezelfde topologische vectorruimte voortbrengen, dezelfde cauchyrijen hebben.

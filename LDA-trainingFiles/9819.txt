@@ -1,0 +1,5 @@
+Laminaire stroming.
+Laminaire stroming is een begrip uit de hydraulica, hydrodynamica en aerodynamica.
+Een laminaire stroming kenmerkt zich doordat de lagen van het medium (een gas of een vloeistof) zich parallel ten opzichte van elkaar voortbewegen.
+Er vindt niet of nauwelijks stroming loodrecht op de hoofdstroom plaats. De tegenpool van laminaire stroming is turbulente stroming.
+Laminaire stroming vindt vooral plaats bij lage stroomsnelheden. Wordt de snelheid groter, dan kan het type stroming ineens turbulent worden. Bij vloeistoffen met een hogere viscositeit ligt het omslagpunt bij een hogere snelheid. De snelheid waarbij laminaire stroming overgaat in turbulente en andersom, wordt gekarakteriseerd door het getal van Reynolds.

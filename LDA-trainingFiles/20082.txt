@@ -1,0 +1,4 @@
+MBone.
+Het nadeel bij multicast is dat niet alle Internet Service Providers (ISPs) IP multicast ondersteunen. Hiervoor werd MBone ontwikkeld, operationeel sinds 1992. Het maakt multicasting mogelijk over het datagramgeoriënteerde internet.
+MBone is een laag boven op het internet. Het bestaat uit eilandjes van netwerken die wel multicast-enabled zijn en die verbonden worden door "`tunnels"'. Ieder eiland bestaat uit een LAN of een aantal intergeconnecteerde LAN's met multicast routers. Deze multicast routers zijn via de tunnels over het internet met elkaar verbonden, zodat MBone-packets tussen de eilanden gestuurd kunnen worden.
+Als alle routers in de toekomst zelf multicastverkeer kunnen behandelen, zal MBone niet meer nodig zijn.

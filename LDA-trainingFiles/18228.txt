@@ -1,0 +1,7 @@
+ AEX-KOERSEN AVONDHANDEL PER 7/3/97. 
+ -------------------------------------------- 
+ I   FONDSNAAM   I   HOOG   I   LAAG   I 
+ I--------------------I----------I----------I 
+ I   ABN AMRO    I  138,40  I  138,40  I  I   AEGON  I  132,90  I  132,90  I  I   AHOLD  I     I     I  I   AKZO   I     I     I  I   ASML   I  154,00  I  154,00  I  I   BAAN   I     I     I  I   BESI   I     I     I  I   BOLSWESSANEN     I     I     I  I   DSM    I     I     I  I   ELSEVIER    I   32,10  I   32,10  I  I   FORTIS/AMEV I     I     I  I   GIST BROCADES    I     I     I  I   GUCCI  I     I     I  I   HAGEMEYER   I     I     I  I   HEINEKEN    I     I     I  I   HOOGOVENS   I     I     I  I   ING    I     I     I  I   KNP BT      I     I     I  I   KPN    I     I     I  I   KLM    I     I     I  I   NEDLLOYD    I     I     I  I   NUTRICIA    I     I     I  I   OCE V/D GRINTEN  I     I     I  I   PAKHOED     I     I     I  I   PHILIPS     I   90,80  I   90,70  I  I   POLYGRAM    I     I     I  I   RD     I  342,20  I  340,30  I  I   TOOLEX ALPHA     I     I     I  I   UNILEVER    I     I     I  I   VNU    I     I     I  I   WOLTERS KLUWER   I     I     I 
+ --------------------------------------------. 
+ (c) Reuters Limited 1997. 

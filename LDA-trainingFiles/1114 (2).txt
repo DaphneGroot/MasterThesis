@@ -1,0 +1,3 @@
+Terabyte.
+Een terabyte, afgekort TB, is strikt genomen 1000 gigabytes ofwel 1.000.000.000.000 bytes (1012 B). In de praktijk wordt de terabyte ook gebruikt voor 1024 GiB = 1.099.511.627.776 B (240 B), maar dit gebruik wordt ontraden sinds er een nieuwe standaard is voor binaire voorvoegsels. 240 B heet nu een "tebibyte", afgekort TiB. 1000 TB heet een petabyte.
+Hitachi Global Storage Technologies heeft in het begin van 2005 de eerste harde schijf van 1 terabyte op de markt gebracht.

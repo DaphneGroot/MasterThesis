@@ -1,0 +1,15 @@
+Gadolinium.
+Gadolinium is een scheikundig element met symbool Gd en atoomnummer 64. Het is een zilverwit lanthanide.
+Ontdekking.
+In 1880 merkte de Zwitserse chemicus Jean Charles Galissard de Marignac op dat het materiaal dat in die tijd bekendstond als "didymium" en het mineraal gadoliniet een overeenkomende spectrumlijn vertoonde, die later werd toegeschreven aan gadolinium. In 1886 isoleerde Paul Émile Lecoq de Boisbaudran voor het eerst gadoliniumoxide uit het mineraal. Het duurde echter tot het begin van de 20e eeuw voordat Georges Urbain metallisch gadolinium kon isoleren. Deze Franse chemicus heeft tussen 1895 en 1912 een aantal elementen voor het eerst kunnen isoleren door middel van fractionele destillatie.
+Gadolinium is vernoemd naar de Finse chemicus en geoloog Johan Gadolin.
+Opmerkelijke eigenschappen.
+Gadolinium is een zilverwit buigzaam en makkelijk te vervormen metaal met een metallieke glans. Bij standaard temperatuur en druk heeft het een compacte hexagonale kristalstructuur in alfa vorm. Bij verhitting boven 1535 K verandert dat in de lichaamscentrische kubische bèta vorm. Gadolinium reageert minder makkelijk met zuurstof dan de meeste andere lanthaniden. Het reageert langzaam met water en lost op in de meeste verdunde zuren.
+Gadolinium heeft een elektronenconfiguratie [Xe]4f75d16s2. Zoals de meeste elementen van de lanthanidereeks heeft het de neiging de drie buitenste elektronen af te staan (gadoliniumchemie wordt hier geheel door beheerst). Het vormt Gd3+ ionen met een [Xe]4f7 configuratie. Hiermee is de f-schil precies halfvol. Volgens de regel van Hund heeft de hoge spintoestand met alle elektronspins parallel en spinkwantumgetal S=7/2 de laagste energie. Dit is het hoogste spinkwantumgetal van enig ion.
+In het element kunnen de magnetische momenten van de individuele atomen koppelen. Gadolinium is daarom een ferromagnetisch metaal zoals ijzer en kobalt. Hoewel het magnetisch moment bijzonder groot is, is de koppeling niet bijzonder sterk. Het Curiepunt ligt rond kamertemperatuur.
+Verschijning.
+In de natuur komt gadolinium niet voor als vrij element, maar het komt voor in meerdere mineralen waarin ook andere lanthaniden worden aangetroffen zoals gadoliniet, monaziet en bastnäsiet. De meeste gebruikte isolatiemethode is reductie van watervrij gadoliniumfluoride met calcium.
+Isotopen.
+Gadolinium komt in zes stabiele isotopen voor in de natuur. Daarnaast komt er één radioactieve isotoop voor met een halveringstijd van 1,08·1014 jaar. In totaal zijn er 30 radio-isotopen bekend.
+Toxicologie en veiligheid.
+Van gadolinium is bekend dat het leverschade kan aanrichten bij langdurige blootstelling. Aangezien het gebruik van gadolinium groeit (bijvoorbeeld als fosforescent in beeldbuizen) is dat een belangrijke reden om het materiaal zorgvuldig te behandelen. MRI-contrastmiddelen gebaseerd op gadolinium, zoals gadobutrol, lijken bij toepassing bij patiënten met een zeer slechte nierfunctie een soort sclerodermie te kunnen veroorzaken: nefrogene systemische fibrose.

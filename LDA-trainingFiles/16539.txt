@@ -1,0 +1,12 @@
+Alcohol (stofklasse).
+Een alcohol of ook wel alkanol en vroeger carbinol genoemd, is in de scheikunde een organische verbinding met een hydroxylgroep gebonden met organische koolstofketen (een aryl- of alkylgroep). Het woord alkohol is afgeleid van het Arabische woord "al-kuḥl" (الكحل). Onverzadigde ketens waarbij een hydroxylgroep rechtstreeks op een dubbele binding is gebonden, worden enolen genoemd. Zij tautomeriseren echter snel naar het stabiele keton.
+De eenvoudigste alcohol is methanol (CH3OH). De bekendste alcohol is ethanol (C2H5OH). Als in het dagelijks leven van 'alcohol' sprake is, wordt doorgaans ethanol bedoeld. In de vroegere naamgeving krijgt het alkanol de naam van de alkaangroep als achtervoegsel -yl + alcohol. Zo zijn methylalcohol en ethylalcohol verouderde namen voor respectievelijk methanol en ethanol, maar ze worden nog weleens gebruikt.
+Alcoholen kunnen een reactie aangaan met carbonzuren of anorganische zuren. Er ontstaat dan een ester. Deze stoffen zijn niet onbelangrijke bouwstenen voor de mens.
+Indeling.
+Structuur van methanol (1), ethanol (2), 2-propanol (3) en 2-methyl-2-propanol (4). Er is bij deze reeks een toename in substitutie van het centraal koolstofatoom te bemerken. Zo is ethanol een primair alcohol, en zijn 2-propanol en 2-methyl-2-propanol een respectievelijk secundair en tertiair alcohol.
+Alcoholen als oplosmiddel.
+Alcoholen kenmerken zich als oplosmiddelen doordat zij doorgaans erg polair zijn, zeker wanneer de restketen kort is. Maar de stoffen laten zich zowel met water als met apolaire stoffen goed mengen, en worden zelf minder hydrofiel naarmate de koolwaterstofketen van het alcoholmolecuul groter wordt.
+Oxidatiereacties.
+In de partiële oxidatie van alcoholen blijkt het onderscheid tussen primaire, secundaire en tertiaire alcoholen belangrijk. Primaire alcoholen worden in eerste instantie tot het aldehyde en dan tot het carbonzuur met hetzelfde aantal koolstofatomen (en structuur) geoxideerd, secundaire alcoholen worden tot het keton met hetzelfde koolstofskelet geoxideerd. Tertiaire alcoholen worden onder deze omstandigheden niet geoxideerd. Doorgaans verloopt (partiële) oxidatie van primaire alcoholen in deze volgorde: methylgroep → alcohol/alkanol (hydroxylgroep) → aldehyde/alkanal (carbonylgroep) → carbonzuur (carboxygroep).
+Reacties met zuren.
+Veresteringsreacties kan men opvatten als een zuur-basereactie, waarbij het alcohol de rol van organische base vervult.

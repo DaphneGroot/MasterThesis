@@ -1,0 +1,10 @@
+Semafoor (computer).
+Een semafoor (ook: seinpaal) is een onderdeel van een synchronisatiemechanisme voor parallelle of gedistribueerde programma's ontworpen door Edsger Dijkstra.
+Bij het ontwerp van gedistribueerde programma's is het normaal dat de verschillende subprogramma's binnen het hoofdprogramma op de een of andere manier rekening met elkaar moeten houden. Dat "rekening houden" kan betrekking hebben op het delen van geheugen of toegang tot andere hardware, of gewoon dat een programma moet wachten tot een ander programma een bepaald punt heeft bereikt in zijn code.
+Natuurlijk moeten de controle van de waarde van s en de toekenningen aan s (de verhoging en verlaging van s) atomaire instructies zijn.
+"Prolaag" is een woord dat Dijkstra heeft bedacht en het betekent "probeer te verlagen".
+En zo komen we aan Dijkstra's seinpalen: natuurlijke getallen met atomaire operaties die de waarden van een seinpaal met één verhogen of verlagen, maar blokkeren als gepoogd wordt de seinpaal een waarde te geven lager dan 0.
+Semaforen worden niet alleen gebruikt voor de wederzijdse uitsluiting van kritieke secties, maar ook voor andere synchronisatieproblemen zoals het producer-consumer-probleem. Hierbij geeft het ene programma gegevens door aan een ander programma, via een gedeeld buffer dat niet onder- of over- mag lopen. Bij zulke toepassingen kunnen de semaforen ook een waarde hoger dan 1 hebben.
+Geschiedenis.
+Dijkstra ontwikkelde zijn seinpalen in 1963, toen parallelle programma's een "hot item" begonnen te worden. Het was in die dagen een groot probleem om uitsluitende toegang tot onderdelen van programma's en computers te regelen, maar met de introductie van seinpalen verdween het probleem als sneeuw voor de zon.
+Tegenwoordig zijn seinpalen een dergelijk gemeengoed binnen het gedistribueerd programmeren dat vrijwel iedere processor instructies bevat om seinpalen mee te implementeren. Seinpalen behoren ook tot de standaard faciliteiten van besturingssystemen en zijn de basis voor vrijwel ieder synchronisatie-mechanisme dat binnen computers wordt toegepast (inclusief monitors).

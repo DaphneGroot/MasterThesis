@@ -1,0 +1,7 @@
+Tschigoringambiet.
+Opening.
+In de opening van een schaakpartij is het Tschigoringambiet een gambiet dat is geanalyseerd door Michail Tsjigorin, en het is ingedeeld bij de open spelen. Het is een variant van het Falkbeergambiet in de schaakopening Koningsgambiet. De beginzetten van dit gambiet zijn: 1.e4 e5 2.f4 d5 3.Pf3. en de eco-code is C 31.
+Opening.
+In het Middengambiet heeft Michail Tsjigorin ook een variant geanalyseerd, te weten het Tschigoringambiet. Het is ingedeeld bij de open spelen. Nu zijn de openingszetten: 1.e4 e5 2.d4 ed 3.c3 dc 4.Lc4. De bijbehorende eco-code is C 21.
+Opening.
+Het Tschigoringambiet wordt ook ingedeeld in de gesloten spelen. Daar begint het met de zetten 1.d4 d5 2.c4 Pc6 3.Pc3 dc 4.d5 Pa5. De eco-code is D 07.

@@ -1,0 +1,25 @@
+Vierhoek.
+Een vierhoek is een meetkundige vorm die bestaat uit vier zijden en vier hoeken. Het is op de driehoek na de eenvoudigste veelhoek of polygoon. De som van de hoeken van een vierhoek is 360 graden. Een vierhoek die niet convex is wordt concaaf genoemd. Een vierhoek die wel vier verschillende hoekpunten heeft, heet ontaard als deze een gestrekte hoek heeft. Het omsloten gebied is dan hetzelfde als van een driehoek.
+Koordenvierhoek.
+Een koordenvierhoek is een vierhoek waarvan de vier hoekpunten op eenzelfde cirkel liggen. De 4 zijden zijn dus koorden van deze omgeschreven cirkel.
+De som van de overstaande hoeken in een koordenvierhoek is 180 graden. Het bewijs hiervan steunt op eigenschappen van middelpunts- en omtrekshoeken.
+Een rechthoek en een vierkant zijn koordenvierhoeken.
+Een onregelmatige vierhoek kan een koordenvierhoek zijn en een trapezium alleen als deze gelijkbenig is.
+Een convexe vierhoek "ABCD" is een koordenvierhoek dan en slechts dan als
+dit is de stelling van Ptolemaeus.
+Raaklijnenvierhoek.
+Een raaklijnenvierhoek is een vierhoek waarvan de vier zijden raken aan eenzelfde cirkel. De 4 zijden zijn dus raaklijnen aan deze ingeschreven cirkel.
+Als "a" en "c" de lengtes van overstaande zijden zijn, en "b" en "d" ook, dan geldt dat "a+c=b+d".
+Voor de oppervlakte van een raaklijnenvierhoek geldt: "A=(OR)/2" waarbij "O" de omtrek is dus 2"(a+c)" of 2"(b+d)". Een vlieger, ruit en vierkant zijn raaklijnenvierhoeken.
+Bicentrische vierhoek.
+Een vierhoek die zowel koordenvierhoek als raaklijnenvierhoek is, heet een bicentrische vierhoek. Een vierkant is een bicentrische vierhoek. Wanneer "R" de straal is van de omgeschreven cirkel, "r" van de ingeschreven cirkel en δ de afstand tussen de twee middelpunten van deze cirkels, dan geldt
+Orthodiagonale vierhoek.
+Een orthodiagonale vierhoek is een vierhoek waarvan de diagonalen elkaar loodrecht snijden. Als "a" en "c" de lengtes van overstaande zijden zijn, en "b" en "d" ook, dan is een vierhoek orthodiagonaal dan en slechts dan als "a2+c2=b2+d2".
+Een vlieger, ruit en vierkant zijn orthodiagonale vierhoeken.
+Volledige vierhoek.
+Neemt men vier punten "A, B, C" en "D", waarvan er geen drie op één lijn liggen, met alle zes mogelijke verbindingslijnen, dan wordt deze figuur een volledige vierhoek genoemd. De snijpunten "P, Q" en "R" heten de diagonaalpunten van de volledige vierhoek.
+Een volledige vierhoek is een (43,62) configuratie.
+Volledige vierzijde.
+Neemt men juist vier lijnen, waarvan er geen twee parallel zijn, met alle zes mogelijke snijpunten, dan wordt de figuur een volledige vierzijde genoemd. De drie lijnen tussen hoekpunten die niet al een zijde zijn, heten de diagonalen.
+De volledige vierzijde is de duale versie van de volledige vierhoek.
+Een volledige vierzijde is een (62,43) configuratie.

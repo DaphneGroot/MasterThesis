@@ -1,0 +1,8 @@
+Joule.
+De joule (symbool J) is de internationale (SI) eenheid van energie. De joule is vernoemd naar James Prescott Joule. De joule is gedefinieerd als de energie die nodig is om een object te verplaatsen met een kracht van 1 newton over een afstand van 1 meter.
+waarin J=joule, N=newton, m=meter, kg=kilogram, s=seconde, W=watt.
+Een joule is dus een wattseconde. Hoewel tegenwoordig de joule in Nederland uitgesproken wordt als rijmend op zwoel of zwoele, werd vroeger meestal de uitspraak rijmend op het Engelse "owl" gehanteerd. In België is de uitspraak met een duidelijke "oe"-klank, gangbaar. Aangezien de familie Joule uitgestorven is, is niet met zekerheid bekend hoe de naam Joule werd uitgesproken.
+Energie.
+Elektrische energie wordt meestal gemeten in kilowattuur (kWh). 1 kWh is 3 600 000 J of 3,6 MJ. MJ is het symbool voor megajoule, een energie-eenheid van één miljoen joule.
+Voedingswaarde.
+De energie van levensmiddelen (voedingswaarde) wordt uitgedrukt in kilojoule. Een verouderde, maar nog veel gebruikte maat voor voedingswaarde is de kilocalorie: 1 kilocalorie = 4,1868 kJ.

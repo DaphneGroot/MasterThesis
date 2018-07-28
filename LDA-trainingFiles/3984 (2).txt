@@ -1,0 +1,7 @@
+Backus-Naur-vorm.
+De Backus-Naur-vorm of Backus-normaal-vorm (of, onvertaald: "Backus-Naur Form") (BNF), is een notatie voor context-vrije grammatica's, een wiskundig formalisme om de structuur van talen te beschrijven met productieregels.
+De notatie is ontwikkeld door John Backus en licht gewijzigd door Peter Naur, voor het beschrijven van de syntaxis van de programmeertaal Algol 60. De techniek en notatie zijn daarna erg populair geworden voor het beschrijven van allerhande talen die in de informatica worden gebruikt.
+Oorspronkelijk werd als naam "Backus Normal Form" gebruikt, maar BNF is geen normaalvorm.
+<identifier>::= <letter> | <identifier><letter> | <identifier><digit>
+Hiermee is gedefinieerd wat men onder een letter en een cijfer moet verstaan en wat interessanter is, er staat wat een identifier is. Dat is een reeks van letters en cijfers, te beginnen met een letter.
+BNF wordt veel gebruikt maar het wordt niet vaak exact beschreven. Er is ook veel variatie in: verschillende auteurs gebruiken hun eigen uitbreidingen, met toegevoegde symbolen, constructies, en semantiek (interpretatieregels). Men spreekt dan wel over "Extended BNF" (EBNF) of "Augmented BNF" (ABNF). Wel is er een ISO-standaard voor: ISO-EBNF.

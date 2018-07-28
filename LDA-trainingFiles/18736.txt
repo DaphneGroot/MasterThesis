@@ -1,0 +1,5 @@
+Platte database.
+Een platte database is een datamodel voor een database.
+Een database of databank is een elektronische gegevensverzameling, ingericht met het oog op flexibele raadpleging en gebruik. Er bestaat een breed spectrum aan databases, van eenvoudige voorbeelden als een verzameling tabellen tot veel complexere modellen.
+Een platte database is in wezen een eenvoudige tabel, een tweedimensionale reeks gegevenselementen, waarbij alle elementen in dezelfde kolom gelijksoortige waarden bevatten, terwijl alle elementen van een rij aan elkaar gerelateerd zijn. Zo zouden kolommen voor naam en wachtwoord van toepassing kunnen zijn als onderdeel van een beveiligingsdatabase. Elke rij bevat dan het bij een specifieke gebruiker behorende wachtwoord. Vaak zijn kolommen verbonden met een gegevenstype, zoals: tekstuele informatie, datum- of tijdinformatie, gehele getallen of floating pointgetallen (het "domein").
+Een relationele database is een voorbeeld van een meer complex database model.

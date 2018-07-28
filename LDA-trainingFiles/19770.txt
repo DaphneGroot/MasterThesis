@@ -1,0 +1,4 @@
+Illegaal priemgetal.
+In maart 2001 ontdekte Phil Carmody een illegaal priemgetal. Dit getal is een binaire representatie van de gezipte broncode in de programmeertaal C van het computerprogramma DeCSS. Met dit programma, dat in de Verenigde Staten illegaal is onder de Digital Millennium Copyright Act, is het mogelijk om de DVD kopieerbeveiliging te omzeilen.
+Of het getal daadwerkelijk illegaal is, is niet getest in een rechtszaak. Het is mogelijk dat het getal zelf toch wel legaal is, maar terwijl de informatie over hoe het getal is te gebruiken om DVD's te bekijken illegaal is.
+Er bestaan oneindig veel van zulke priemgetallen vanwege de Stelling van Dirichlet over rekenkundige rijen.

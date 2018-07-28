@@ -1,0 +1,6 @@
+Axioma.
+Als axioma's met elkaar in tegenspraak zijn dan is een theorie inconsistent. Een axioma dat uit andere axioma's afgeleid kan worden is geen axioma, maar een bewezen stelling. Een verzameling van axioma's is dan ook de kleinst mogelijke verzameling van veronderstellingen die een theorie mogelijk maken.
+Ook de natuurkunde kent het principe van het postulaat. Een bekend voorbeeld is dat de lichtsnelheid in het vacuüm voor alle waarnemers die met constante snelheid ten opzichte van elkaar bewegen hetzelfde is.
+Twee belangrijke eigenschappen van een theorie zijn consistentie en volledigheid. Een theorie is consistent als er binnen de theorie geen tegenspraak afgeleid kan worden. Een theorie is volledig als elke ware stelling die geformuleerd is in de formele taal van de theorie binnen de theorie afgeleid kan worden. De rekenkunde van Peano is consistent, maar niet volledig - Gödels onvolledigheidsstelling bewijst dat elke consistente theorie die ten minste Peano's rekenkunde omvat een ware stelling bevat die onbewijsbaar is binnen die theorie en dus onvolledig is.
+Verwante begrippen.
+Een presuppositie is ook een voor waar aangenomen stelling, maar een die sterk afhankelijk is van de gegeven context.

@@ -1,0 +1,11 @@
+Informatietechnologie.
+Informatietechnologie (IT), in Nederland en in België vaak informatie- en communicatietechnologie (ICT), is een vakgebied dat zich bezighoudt met informatiesystemen, telecommunicatie en computers. Hieronder valt het ontwikkelen en beheren van systemen, netwerken, databases en websites. Ook het onderhouden van computers en programmatuur en het schrijven van administratieve software valt hieronder. Vaak gebeurt dit in een bedrijfskundige context.
+Nederland en België.
+Het Ruimtelijk Planbureau definieert "IT" en "ICT" als volgt: Onder "informatietechnologie" worden hardware-, softwareproducten en -diensten verstaan. Onder "communicatietechnologie" worden communicatieapparatuur en -diensten gerekend.
+Het onderscheid tussen IT en ICT is in de loop van de jaren vervaagd. Aanvankelijk, bijvoorbeeld in de jaren zeventig en tachtig van de vorige eeuw, werden de computer en zijn software tot IT gerekend. Tot de ICT behoorden modems, netwerken en datacommunicatieprotocollen en zodoende ook een wezenlijk deel van de toenmalige telefonie.
+Door de groei van de beschikbare bandbreedte voor het internetprotocol is het onderscheid tussen verschillende datastromen kleiner geworden: telefonie vindt niet alleen meer via telefoonkabels plaats, kabeltelevisie niet alleen maar via televisiekabels en radio wordt niet uitsluitend via de ether verzonden.
+Al deze kanalen worden inmiddels ook voor digitale datastromen gebruikt.
+De computer als stand-aloneapparaat heeft daarentegen aan betekenis verloren en zodoende ook het onderscheid tussen IT en ICT.
+De woorden IT en ICT zijn initiaalwoorden en worden daarom zonder punten geschreven. De juiste spelling volgens het Groene Boekje is in hoofdletters. In een aantal vakpublicaties (zoals Computable) wordt ICT in kleine letters geschreven, dus als 'ict'.
+Opleidingen ICT.
+Informatietechnologie is een discipline binnen de informatica. In het werkveld van ingenieurs duidt ICT vaak eerder op computertechniek (elektrotechnische/fysische aspecten) dan synoniem voor informatietechnologie.

@@ -1,0 +1,3 @@
+Protectiefout.
+Een protectiefout of segmentatiefout treedt op als een computerprogramma iets doet wat het besturingssysteem heeft verboden, zoals het aanspreken van geheugen dat niet aan het programma is toegewezen, of een poging tot communicatie met de hardware buiten het besturingssysteem om.
+Een protectiefout is alleen mogelijk op processoren die beschikken over een geheugenbeheereenheid. Op een processor zonder zo'n eenheid kan het programma gewoon zijn gang gaan, vaak met destructieve gevolgen. Hiervan wordt echter ook vaak gebruikgemaakt om toegang te krijgen tot functionaliteit waar het besturingssysteem niet in voorziet.

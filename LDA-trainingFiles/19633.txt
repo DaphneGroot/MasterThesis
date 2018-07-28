@@ -1,0 +1,5 @@
+Netwerktopologie.
+Een netwerktopologie is een indeling en de koppelingen van bijvoorbeeld computers binnen een computernetwerk of telefooncentrales in een telecommunicatienetwerk. De netwerktopologie bepaalt de manier waarop de computers of telefooncentrales onderling met elkaar verbonden zijn. Men onderscheidt de volgende soorten: vermaasd netwerk (Engels: "mesh topology"), sternetwerk (Engels: "star topology"), busstructuur (Engels: "bus topology"), ringnetwerk (Engels: "ring topology") en boomstructuur (Engels: "tree topology").
+Vaak worden meerdere systemen door elkaar gebruikt. Bij telefooncentrales bijvoorbeeld worden de districtcentrales door een vermaasd netwerk verbonden, terwijl de eindcentrales door een sternetwerk met de gebruikers zijn verbonden. Een uitzondering hierop vormen rechtstreekse "overlooplijnen" die bij veel verkeer tussen naburige eindcentrales zijn aangelegd om het netwerk te ontlasten.
+Busstructuur.
+Twee coax kabels met BNC connectors verbonden met een BNC T-stuk. Dit vormde de aftakking voor de aansluiting op de netwerkadapter

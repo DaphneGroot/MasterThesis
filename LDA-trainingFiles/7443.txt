@@ -1,0 +1,45 @@
+Hyperbool (meetkunde).
+Een hyperbool (Grieks ὑπερβολή, "overtreffing") is in de meetkunde een tweedimensionale figuur, een kegelsnede, die wordt gevormd door de snijlijnen van een kegel en een vlak dat beide helften van de kegel snijdt. Een hyperbool bestaat daarom uit twee takken, de snijlijnen met de beide delen van de kegel.
+Definitie uitgaande van de brandpunten.
+Men kan een hyperbool ook beschrijven als alle punten waarvoor het verschil van de afstanden formula_1 en formula_2 tot twee gekozen punten, de brandpunten, een constante waarde formula_3 heeft. Een hyperbool bestaat daarom uit twee takken.
+Definitie uitgaande van brandpunt en richtcirkel.
+Als twee cirkels gegeven zijn met gelijke straal, kleiner dan de afstand van de middelpunten, dan vormen de beide conflictlijnen van de ene cirkel met het middelpunt van de andere cirkel een hyperbool. De middelpunten van de cirkels zijn de brandpunten; de cirkels worden richtcirkels genoemd. De conflictlijn
+bestaat uit alle punten waarvan de afstand tot de richtcirkel gelijk is aan de afstand tot het middelpunt van de andere richtcirkel.
+Definitie uitgaande van brandpunt en richtlijn.
+Een hyperbool is de meetkundige plaats van de punten in het platte vlak waarbij de verhouding van de afstand tot een willekeurig punt, brandpunt geheten, tot de afstand tot een willekeurige rechte, richtlijn geheten, constant is. Deze constante verhouding heet de excentriciteit ε van de hyperbool. Voor een hyperbool is ε>1. Met elk brandpunt correspondeert een richtlijn.
+Voor ε=1 wordt de figuur een parabool en voor 0<ε<1 een ellips.
+Hoofdas en nevenas.
+Een hyperbool heeft twee assen: de lijn door de twee brandpunten van de hyperbool heet de hoofdas en de lijn loodrecht daarop midden tussen de brandpunten heet de nevenas.
+Middelpuntsvergelijking.
+Verderop wordt een afleiding van deze vergelijking gegeven.
+Parametervergelijking.
+waarbij gebruikgemaakt wordt van de hyperbolische functies (let op de naam!).
+Eigenschappen.
+die de asymptoten van de hyperbool zijn.
+Het kan worden aangetoond dat de snijpunten van de hyperbool met de x-as altijd binnen het interval formula_21 zullen liggen.
+Naarmate de snijpunten meer in de richting van de brandpunten komen, zal de hyperbool sterker gekromd zijn. De verticale lijn door de oorsprong is een speciaal geval, de hyperbool heet ontaard. De twee takken van de hyperbool vallen hier samen, omdat het verschil in afstand precies gelijk is aan 0.
+Een speciaal geval treedt op als formula_22. De asymptoten zijn dan gelijk aan de diagonalen van het xy-vlak. Als het coördinatenstelsel 45° gedraaid wordt, zijn in het nieuwe stelsel de oude x- en y-as de asymptoten. In dit nieuwe coördinaten-stelsel formula_23 is de hyperbool dan te beschrijven als de omgekeerde functie
+Twee hyperbolen snijden elkaar in maximaal vier punten.
+Zijn formula_25 en formula_26 de brandpunten van een hyperbool en formula_27 een punt op de hyperbool, dan heten de lijnen formula_28 en formula_29 de "brandpuntsvoerstralen" van het punt formula_27. De bissectrices van de brandpuntsvoerstalen zijn de normaal en de raaklijn aan de hyperbool in punt formula_27.
+Gelijkzijdige hyperbool.
+Een hyperbool waarvan de asymptoten elkaar loodrecht snijden heet een gelijkzijdige hyperbool of rechthoekige hyperbool.
+Elke hyperbool die door de punten van een hoogtepuntssysteem gaat is een gelijkzijdige hyperbool.
+Als je twee loodrecht snijdende asymptoten van een hyperbool weet, kun je de formule vinden van een hyperbool met die asymptoten. Een hyperbool wordt niet volledig door de asymptoten gedefinieerd, maar ook door de excentriciteit.
+We vinden de verticale asymptoot als "x" tot "a" nadert. Je kunt dan zien dat "y" oneindig groot is.
+Hiermee hebben we dus een hyperbool gevonden die in ieder geval een asymptoot bevat.
+Hoe krijgen we een formule die ook nog die andere asymptoot bevat? Als "y" tot "b" nadert, wordt "x" oneindig groot. "x" wordt oneindig.
+Wat gebeurt er met "y"? Deze blijft altijd b, ongeacht welk getal we voor "x" kiezen. Maar wat als we deze samenvoegen met onze eerder gevonden formule?
+Als "y=b", dan geldt er dat "x" oneindig groot is. De "a" valt te verwaarlozen omdat deze ontzettend klein is in vergelijking met de oneindig grote "x. Je krijgt dan "y=b". Dit klopt!
+Als "x=a", dan geldt er dat "y" oneindig groot is, omdat "x-a" precies 0 is. (Iets delen door 0 nadert oneindig).
+Afleiden van de middelpuntsvergelijking.
+formula_36
+formula_37
+formula_38
+stelling.
+Dit is de middelpuntsvergelijking van de hyperbool.
+gebruikte symbolen.
+Waar eerst "d1" en "d2" werden gebruikt, worden hier "r1" en "r2" gebruikt.
+afleiden kwadratisch verband tussen "x" en "y".
+Nu is aangetoond dat als een punt "P" op de hyperbool ligt, de coördinaten ("x,y") van "P" voldoen aan de vergelijking formula_39.
+Omgekeerd kan men aantonen dat als de coördinaten ("x,y") van een willekeurig punt "P" voldoen aan die vergelijking, "P" op die hyperbool ligt.
+Dus is formula_39 de vergelijking van een hyperbool.

@@ -1,0 +1,21 @@
+Variantie.
+Voorbeeld voor twee verzamelingen van 19 getallen (0, 5..., 90 en 0, 37, 38..., 53, 90).
+De variantie is in de statistiek een maat voor de spreiding van een reeks waarden, dat wil zeggen de mate waarin de waarden onderling verschillen. Hoe groter de variantie, hoe meer de afzonderlijke waarden onderling verschillen, en dus ook hoe meer de waarden van het "gemiddelde" afwijken.
+De variantie meet min of meer het gemiddelde van het kwadraat van deze afwijkingen. Die waarden kunnen de waarden van een populatie zijn, dan spreekt men van de populatievariantie. Betreft het de waarden van een verdeling, dan is de variantie een maat voor de "breedte" van deze verdeling, en spreekt men meestal gewoon van de variantie van deze verdeling. Is de betrokken verdeling de kansverdeling van een stochastische variabele, dan spreekt men over de variantie van.
+Betreft het de uitkomsten van een steekproef, dan spreekt men van steekproefvariantie.
+De populatievariantie is een parameter (eigenschap) van de populatie; de steekproefvariantie is een steekproeffunctie, een schatter van de populatievariantie. De wortel uit de variantie wordt standaardafwijking genoemd.
+Populatie.
+met formula_3 het populatiegemiddelde, {formula_4 de populatieomvang, en formula_5 de populatie-elementen.
+Links en rechts delen door formula_4 geeft het gezochte resultaat.
+een waarde tussen de mogelijke positieve afwijkingen.
+Steekproef.
+Hierin is de steekproefgrootte, de steekproefelementen en het steekproefgemiddelde.
+Het voordeel van deze versie dat men bij het verwerken van de steekproefresultaten het gemiddelde en de variantie in een moeite door kan berekenen (met de eerste formule zou men de reeks waarden tweemaal langs moeten lopen).
+De zo gedefinieerde steekproefvariantie is een zogeheten "zuivere schatter" van de variantie. Dat houdt in dat bij veel herhalingen, het gemiddelde van de schattingen convergeert naar de te schatten variantie.
+als steekproefvariantie aangeduid. Deze schatter die daadwerkelijk het gemiddelde van de kwadratische afwijkingen van het steekproefgemiddelde berekent, kan opgevat worden als de populatievariantie van de steekproef als populatie. Zoals gemakkelijk te zien is, scheelt deze schatter slechts een factor van de eerder genoemde. Praktisch gezien, en zeker als de steekproefomvang groot is, is er weinig verschil tussen beide schatters. De schatter is natuurlijk niet meer zuiver. Echter is het de zogenaamde "meest aannemelijke schatter" van de variantie in het geval van een normale verdeling.
+Omdat zowel zuiverheid als meest aannemelijkheid van een schatter theoretisch belangrijke eigenschappen zijn, heeft verschil van opvatting daarover tussen de hoogleraren statistiek destijds, ertoe geleid dat beide schatters de naam steekproefvariantie hebben.
+Voorbeeld 2.
+Een steekproef ter grootte van formula_38 levert de resultaten 1, 2, 3, 4, 5. Dus formula_39. De variantie is
+Analogie.
+In de mechanica is het analogon van de variantie het traagheidsmoment van een voorwerp, dus van een massaverdeling.
+Het elektrische vermogen van een zuivere wisselstroom, dus gemiddeld 0, is evenredig met het gemiddelde kwadraat van de spanning, dus een constante maal de variantie van dat signaal.

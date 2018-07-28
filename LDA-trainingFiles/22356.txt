@@ -1,0 +1,8 @@
+Vierkantsvergelijking.
+waarin "a", "b" en "c" (reële of complexe) constanten zijn, met formula_2.
+Het kan zijn dat de vergelijking niet meteen in deze vorm lijkt voor te komen, maar na het verplaatsen van alle termen naar het linkerlid voldoen alle tweedegraadsvergelijkingen aan bovenstaande algemene vorm. Let wel op, voor een vierkantsvergelijking kan eventueel wel "b" = 0 en/of "c"=0. Het oplossen van een vierkantsvergelijking is bijvoorbeeld aan de orde bij het bepalen van de nulpunten van een kwadratische functie.
+Oplossingsmethode.
+Afhankelijk van de discriminant is er 2, 1, of geen enkele reële oplossing
+Formules van Viète.
+Hierdoor kan het linker lid van de standaardvergelijking worden herschreven als
+met formula_13 de som van de oplossingen en formula_14 het product van de oplossingen.

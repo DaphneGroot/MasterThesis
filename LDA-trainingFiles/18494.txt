@@ -1,0 +1,6 @@
+Toonwiel.
+Schematische weergave van de werking van een toonwiel
+Een toonwiel is een elektro-mechanisch instrument om een toon, met een bepaalde toonhoogte, te maken.
+Een stalen toonwiel heeft de vorm van een afgevlakt tandwiel, waarbij aan één zijde een staaf-magneet met een spoel is bevestigd. Door het ronddraaien van het toonwiel wisselt het magnetisch veld in de spoel en wordt er een (sinus-vormige) spanning opgewekt. Dit signaal geeft na de nodige versterking een toon.
+Gebruikelijk zitten er vele toonwielen op één as die met een vaste snelheid ronddraait, elk met een ander aantal tanden. In principe zijn dit alle grondtonen die een instrument kan maken (vergelijk met de snaren van een piano). Door het mengen van de signalen worden deze ook als boventonen gebruikt waarmee de klankkleur van elke toets gevarieerd kan worden.
+In het gebruik vergt een "toonwiel"-bak enig onderhoud (zoals het oliën via verschillende tuitjes), reden waarom het tegenwoordig nauwelijks nog geproduceerd wordt. Met moderne digitale technieken kan vrijwel hetzelfde bereikt worden.

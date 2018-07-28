@@ -1,0 +1,6 @@
+Q-code.
+De Q-codes zijn vastgesteld door de internationale organisatie ITU-R en vormen een korte en duidelijke aanduiding voor vragen en antwoorden. Het werd oorspronkelijk gebruikt bij telegrafiemorse verbindingen om steeds terugkomende vragen en antwoorden op snelle wijze over te kunnen seinen. Dit was zowel kort en bondig, als ook gevrijwaard van enige verwarring. Om dit zo te houden heeft de ITU-R bij het toekennen van roepnaam-series de Q overgeslagen bij de landentoekenning.
+Bij radioamateurs is het ook een gebruik geworden om bij spraakverbindingen (telefonie) de Q-codes te gebruiken.
+Zonder vraagteken is de code een mededeling, dus bijvoorbeeld QTH Amsterdam.
+Bekende en veel gebruikte Q-codes.
+QRG wordt ook vaak gebruikt voor "geld" en QRL voor "werk". QSO is een term voor een radioverbinding in het algemeen, bijvoorbeeld "TNX QSO" (bedankt voor het gesprek). Een QRP-zender is een zender met laag vermogen. QRX wordt ook gebruikt om aan te geven dat het tegenstation even moet wachten.

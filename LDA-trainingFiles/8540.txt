@@ -1,0 +1,40 @@
+Papierformaat.
+Een papierformaat beschrijft de afmetingen van een vel papier. Er zijn verschillende standaarden voor de formaten van papier.
+De A-standaard.
+De A-serie van papierformaten is een serie van formaten waarbij het eerstvolgende formaat steeds een tweemaal zo grote (of kleine) "oppervlakte" heeft.
+De verhouding tussen de lange en de korte zijde is zo, dat wanneer een vel papier in de breedte in twee gelijke stukken wordt gesneden (dus de oppervlakte gehalveerd), twee vellen ontstaan met precies dezelfde verhouding in afmetingen.
+Hieruit volgt dat de verhouding tussen de lange en korte zijde de vierkantswortel uit 2 (ongeveer 1,414) is. Deze verhouding wordt ook wel de Lichtenberg-ratio genoemd. Soms wordt beweerd dat de verhouding lengte/breedte overeenkomt met de gulden snede (ongeveer 1,618). Dat is dus onjuist: papier met een afmetingsverhouding van de gulden snede is iets langwerpiger.
+De serie begint met A0, een vel met een oppervlakte van (per definitie) 1 vierkante meter. Doordat een vel A1 een half vel A0 is, heeft een vel A1 een oppervlakte van een halve vierkante meter. A2 heeft vervolgens een oppervlakte van een kwart vierkante meter enzovoorts.
+Oppervlakte is gelijk aan lengte × breedte: formula_2.
+Verder kan formula_3 ook geschreven worden als formula_4.
+Als de "L" in de eerste formule vervangen wordt door de tweede formule, dan volgt formula_5.
+In Europa wordt voor correspondentie, printers, faxen en kopieerapparaten vooral A4 gebruikt, maar voor kleinere boekjes wordt veel gebruikgemaakt van A5, voor bijvoorbeeld handleidingen wel van A6 en voor postzegels van A10 en A11.
+B, C, D, E.
+Soms is een A-formaat te groot, maar het volgende te klein. Om deze reden is er ook een serie B-formaten die dezelfde verhouding van heeft als de A-formaten. Echter het uitgangspunt van de afmetingen is anders: bij het A0-formaat is dat de oppervlakte van, bij het B0-formaat is dat de lengte van de korte zijde:.
+B5 is groter dan A5, maar kleiner dan A4; het wordt naast die twee formaten ook vaak gebruikt voor boekwerkjes.
+C- en D-formaten zitten weer tussen de opeenvolgende A- en B-formaten in. Daarbij is
+C-formaten worden soms voor enveloppen gebruikt; dan past een vel van het A-formaat er goed in. Ook de E-formaten zijn bedoeld voor enveloppen: een vel B4 past in een E4-envelop. D wordt nauwelijks gebruikt en is ook geen ISO-standaard.
+ISO 216.
+De A-serie wordt beschreven in de ISO 216-norm die van kracht is sinds 1975. De ISO 216 is de directe opvolger van de DIN-476-norm, die in 1922 in Duitsland is opgesteld. België volgt DIN/ISO sinds 1924 en Nederland sinds 1925.
+De internationale ISO 216-norm geeft waarden voor de A- en B-reeksen tot nummer 10. De Nederlandse norm NEN 381 geeft ook nog een C- en D-reeks. De A- en B-reeksen lopen door tot nummer 13, maar de C- en D-reeksen lopen slechts tot nummer 8. DIN 476 vermeldt de A-, B- en C-reeksen.
+Bij levering en gebruik mogen volgens ISO 216 de toleranties 1,5 mm zijn voor maten tot 150 mm, 2 mm voor maten van 150 - 600 mm en 3 mm voor maten boven de 600 mm.
+De C-reeks wordt vooral voor enveloppen gebruikt, omdat het formaat net iets groter is dan de A-formaten, die veel voor schrijfpapier en brochures worden gebruikt. De B-reeks wordt veel voor boeken gebruikt. De D-reeks wordt nauwelijks gebruikt.
+Papieren met een relatief grote verhouding lengte/breedte moeten bij voorkeur worden gesneden uit een van de standaardformaten (A, B, C). De originele breedte moet worden gehandhaafd en de lengte kan in 3, 4 of 8 gelijke stukken worden verdeeld. Een veelvoorkomend formaat is 1/3 A4: 99 mm × 210 mm.
+Ruwe papierformaten.
+De A-, B-, C- en D-reeksen beschrijven reeds gesneden formaten. De ISO-norm beschrijft tevens twee reeksen ruwe formaten voor de A-reeks. De verhouding lengte/breedte is weer √2. RA0 is 1,05 m² groot en SRA0 is 1,15 m² groot. De formaten worden afgerond tot op 1 cm.
+Z-formaten.
+Bedoeld voor technisch tekenwerk. Het 1Z-formaat is gelijk aan het A4-formaat. Vanaf 2Z blijft de breedte gelijk aan de lengte van A4, terwijl de lengte de volgende opbouw heeft: nZ = 180n+30 mm, zodat ze zigzag gevouwen in een A4-ordner passen en zonder de ordner te openen bekeken kunnen worden. De samengestelde Z-formaten hebben een afwijkende opbouw.
+Oudere standaarden.
+Voor de opkomst van de A-serie werden de formaten Quarto en het iets langere Folio in Europa veel gebruikt. Examens op middelbare scholen en het hoger beroepsonderwijs dienden te worden afgenomen op het Folio-formaat terwijl voor de gewone toetsen al het A4-formaat in gebruik was. Dit werd rond 1985 afgeschaft.
+Nederlandse papierformaten.
+Voor de invoering van de A-formaten waren in Nederland de volgende formaten voor schrijf- en drukpapier in omloop.
+Papierformaten in de VS.
+Vergelijking van de A-formatenserie met "letter" en "legal", de belangrijkste Amerikaanse papierformaten
+Letter (en legal) zijn iets breder dan A4, het in Europa meestgebruikte papierformaat
+In de Verenigde Staten wordt de A-serie niet gebruikt. Daar gebruikt men in plaats van A4 het zogenaamde US Letter-formaat van 8½ bij 11 inch, ofwel 279,4 mm bij 215,9 mm. Dat is dus 6 mm breder en 18 mm korter dan A4. Printers en kopieermachines kunnen meestal op beide papierformaten worden ingesteld.
+Amerikaanse US-ANSI-formaten.
+ANSI/SME Y14.1, technisch tekenpapier. ANSI/SME Y14.1m-1995 schrijft ISO A0-A4 voor.
+Conversie poundgewicht naar gramgewicht.
+In Europa wordt het specifieke gewicht van papier uitgedrukt in gram per vierkante meter. Normaal kopieermachinepapier is 80 g/m², of kortweg "80 grams". Snijdt men een vel doormidden, dan is het nog steeds "80 grams".
+formula_13
+Op die manier komt 20 pounds, 17 × 22 inch papier overeen met 75 g/m².

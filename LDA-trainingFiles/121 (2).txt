@@ -1,0 +1,16 @@
+Bit (eenheid).
+De bit is de kleinste eenheid van informatie, namelijk een symbool of signaal dat twee waarden kan aannemen: aan of uit, ja of nee, hoog of laag, geladen of niet-geladen. Het binaire talstelsel stelt deze waarden voor met 1 en 0.
+Het woord "bit" is een portmanteau (samentrekking) van de Engelse woorden "binary" en "digit". Er zit een woordspeling in, want "bit" betekent ook "beetje". De term werd bedacht in 1947 door statisticus John Tukey en een jaar later voor het eerst gebruikt in een publicatie door Claude Shannon, de vader van de informatietheorie.
+Een hoeveelheid zelfinformatie bij keuze uit formula_1 mogelijke waarden kan, indien iedere waarde dezelfde kans van optreden heeft, worden uitgedrukt in bits door de logaritme voor het grondtal 2 van formula_1 te bepalen.
+Benodigd aantal bits.
+Voor de binaire voorstelling van het natuurlijke getal "n" zijn minimaal formula_3 bits nodig, dus effectief formula_4 (de uitkomst wordt met behulp van de ceilingfunctie op een geheel getal gebracht). Dat houdt in dat een grootheid die "n" waarden aan kan nemen, bijvoorbeeld de getallen 0 tot en met formula_5, voorgesteld kan worden door formula_6 bits. Zo zijn bijvoorbeeld om een signaal met 9 mogelijke waarden weer te geven, formula_7 bits nodig (1001 is de binaire voorstelling van 9).
+De toestand waarin een lamp zich kan bevinden (aan of uit) kan met behulp van 1 bit uitgedrukt/opgeslagen worden (formula_8). Hierbij is bijvoorbeeld 0 = 'uit' en 1 = 'aan'; maar indien gewenst kan men het ook andersom gebruiken.
+Toestand lamp: Lamp uit (0) Lamp aan (1)
+Met één bit kan de informatie over de toestand van de lamp worden weergegeven.
+Evenzo kan de toestand van een normaal functionerend verkeerslicht (rood, oranje of groen) met behulp van formula_9 bits worden weergegeven (bijvoorbeeld 00 = rood, 01 = oranje en 10 = groen).
+Gebruik van de eenheden bit (b) en byte (B).
+De afkorting voor bit is een kleine b (bijvoorbeeld in s), niet te verwarren met de afkorting voor byte, een hoofdletter B. In de praktijk worden b en B vaak verward. De betekenis moet dan blijken uit de context.
+Transmissiesnelheden over seriële verbindingen worden meestal in bit/s gegeven maar alles wat te maken heeft met de meer menselijke maat van documentopslag of -overdracht gaat meestal in bytes. Wanneer het belangrijk is om misverstanden te voorkomen kan bit/s of byte/s worden gebruikt.
+Bij beschouwingen over kanalen/transmissie is eigenlijk de hoeveelheid informatie van belang en maakt het meestal niet uit hoe de informatie is georganiseerd (hoeveel bits in een byte passen). Daarom is het juist om bij transmissielijnen/kanalen te spreken over bits per seconde.
+Een byte is de grootte waarmee een computer iets uit het geheugen haalt. Sinds begin jaren zeventig zijn computergeheugens vaak in 8 bit patronen opgebouwd (waardes 0 - 255). In zo'n geval is een byte gelijk aan acht bits. De term "Octet" kan eveneens gebruikt worden en betekent in deze context hetzelfde als een byte.
+Ter volledigheid wordt eveneens opgemerkt dat ook een nibble bestaat, een nibble is een groep van 4 bits en twee nibbles samen vormen dus één byte.

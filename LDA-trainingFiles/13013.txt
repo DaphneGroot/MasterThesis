@@ -1,0 +1,7 @@
+Lijnbreedte (diffractie).
+De lijnbreedte van een poederdiffractie-patroon wordt gemeten door van iedere piek in het patroon de breedte te bepalen.
+De bepaling wordt meestal gedaan door het fitten van een piekvorm aan de hand van de gegevens. Meestal is dit een PearsonVII, pseudo-Voigt of Voigt omdat de piekvorm in het algemeen niet Gaussisch is.
+De lijnbreedte wordt bepaald door een aantal factoren.
+De instrumentele factoren kunnen geijkt worden met behulp van een standaard. Daarvoor bestaat een officiële standaard, nl. Lanthaanhexaboride LaB6 die verstrekt wordt door NIST.
+Additionele verbreding van de lijnen verraadt ofwel de aanwezigheid erg kleine kristallieten of inwendige spanning. De verbreding hangt echter op een andere manier van de strooiingshoek af en de beide soorten verbreding kunnen daarom onderscheiden worden.
+De verbreding is ruwweg omgekeerd evenredig met de kristallietgrootte. De methode werkt daarom vooral goed wanneer de kristallieten erg klein zijn. Wanneer zij te klein worden ten opzichte van de gebruikte golflengte blijft er geen poederpatroon meer over. De karakteristieke lijnen worden zo breed dat er een continu spectrum ontstaat. Men spreekt dan van een amorf patroon.

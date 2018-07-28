@@ -1,0 +1,4 @@
+Covalente straal.
+De covalente straal is de straal die een atoom aanneemt als het zich chemisch bindt aan een ander atoom. Strikt genomen kan alleen de bindingsafstand tussen de twee atomen goed gemeten worden via spectroscopische of kristallografische weg. Door vergelijking van een groot aantal bindingsafstanden tussen verschillende elementen is men echter tot een schaal van covalente stralen gekomen waarmee men door optelling een bindingsafstand vrij goed voorspellen kan.
+De covalente straal is niet uniek voor een bepaald element, omdat de bindingsafstanden afhangen van welk soort binding de twee atomen aangaan. Deze afstand is bijvoorbeeld korter voor een dubbele binding zoals in –C=C– dan in een enkele binding als –C–C–. Er zijn dan ook verschillende covalente stralen voor verschillende bindingstypen.
+Covalente stralen zijn in het algemeen beduidend korter dan Vanderwaalsstralen.

@@ -1,0 +1,40 @@
+Netnummer.
+Indeling van netnummergebieden in Europees Nederland
+Een netnummer (in Europees Nederland) of zonenummer (in België) maakt deel uit van een nationaal telefoonnummer. Vroeger sprak men in Nederland van kengetal, wat in de volksmond nog steeds wordt gehoord.
+Netnummers zijn ingevoerd toen automatisch interlokaal telefoneren mogelijk werd.
+Tot die tijd was de tussenkomst van een telefoniste nodig en kon men volstaan met het noemen van de plaatsnaam.
+Indeling.
+Deze delen worden samen aangeduid als "netnummer".
+Bij internationaal telefoonnummer wordt alleen het specifiek netnummer gekozen, wat in publicaties vaak wordt aangeduid als: netnummer zonder eerste nul.
+Lengte.
+In sommige landen zijn alle netnummers even lang.
+In andere landen verschilt de lengte en hebben de grotere steden een korter netnummer.
+Zijn er netnummers van verschillende lengte, dan is het soms mogelijk (niet in Nederland) dat de begincijfers van een netnummer ook een netnummer vormen.
+Bijvoorbeeld: 038 is een geldig netnummer, maar 0387 ook.
+In dat geval mag men verwachten dat de abonneenummers in het net 038 niet met 7 beginnen.
+Nederland.
+In Europees Nederland bestaat het netnummer sedert 1995 uit een reeks van drie of vier cijfers, beginnend met een 0, die men moet kiezen als men binnen het eigen land van het eigen netnummergebied naar een ander gebied wil bellen. Het netnummer plus het abonneenummer vormen een (nationaal) telefoonnummer. Netnummers van 3 cijfers zijn vooral in gebruik in regio's met veel aansluitingen, zodat de abonneenummers één cijfer langer zijn. Bij het gebruik van een mobiele telefoon moet altijd een netnummer gebruikt worden.
+Naast netnummers voor regio's zijn er ook netnummers voor de mobiele telefoon, service- en betaalnummers en gemeentes.
+De laatste grote wijziging van de Nederlandse netnummers vond plaats in 1995, tijdens de zogenoemde Operatie Decibel.
+Via internettelefonie is het ook mogelijk om een telefoonnummer in landcode 31 in Caribisch Nederland te gebruiken, en dit gebeurt ook. Gebruik van een regulier, regiogebonden netnummer is dan niet toegestaan, men dient gebruik te maken van netnummers 083, 084 of 088. Op het internet zijn verschillende diensten die dergelijke nummers gratis aanbieden.
+België.
+In België bestaat het zonenummer voor de vaste lijnen, uit een 0 plus één of twee cijfers. De meeste zones hebben drie cijfers, de dichtstbevolkte zones hebben er twee. Zo is Brussel 02. De mobiele nummers hebben een zonenummer van een 0 plus 3 cijfers en beginnen steeds met 04, net zoals het zonenummer van Luik. Het derde getal (dus na de 04) duidt aan welke operator het nummer initieel heeft toegekend. 046 staat voor Telenet, 047 voor Proximus, 048 voor Base en 049 voor Orange. Doordat het nummer kan worden behouden als men van operator verandert, kan aan de hand van het zonenummer uiteindelijk enkel worden afgeleid bij welke operator het eerste contract werd aangegaan.
+Het zonenummer voor vaste of mobiele lijnen moet steeds worden gekozen, ook als men binnen de zone belt.
+Historie in Europees Nederland.
+Aanvankelijk had een netnummer vijf cijfers, te weten een 0 (die vaak als K werd aangeduid, oude kiesschijven hadden ook letters waarbij de letter "i" werd overgeslagen), twee cijfers voor het district (districtscentrale), een cijfer voor de sector (knooppuntcentrale) en een cijfer voor het net (eindcentrale).
+De beide districtcijfers zijn nooit nul.
+De laatste twee cijfers waren in de regel een 0 voor de plaats met de districtscentrale of knooppunt- of sectorcentrale, meestal een hoofdstad.
+Al spoedig was dat niet voldoende. Toen Den Haag (01700) een verkort nummer nodig had, was er een probleem, want Den Haag ligt in regio 1 en 010 was reeds vergeven. Andere mogelijkheden waren er niet: De meeste hierboven genoemde nummers, zoals 050, waren op dat moment nog vrij, maar konden om technische redenen alleen in een andere regio worden gebruikt. De oplossing was een nieuwe regio te maken, regio 7. Het enige nummer in die regio was voorlopig 070 en werd aan Den Haag toegewezen.
+Toen nog meer netten een verkort nummer aanvroegen, werd besloten de eis te laten vervallen dat een verkort netnummer op 0 moest eindigen. Wel bleef de eis bestaan dat een verkort nummer niet gelijk mocht zijn aan een bestaande districtcode. Het eerste net met een verkort nummer dat niet op nul eindigde was Haarlem, dat in 1967 nummer 023 kreeg.
+Het gebeurde nu ook steeds vaker dat er verkorte nummers nodig waren, omdat er in de regio geen nummers meer beschikbaar waren. Nu kon ook regio 7 verder gevuld worden. De nummers uit die regio waren over het hele land verspreid.
+Begin jaren 1980 ontstond er een nieuw probleem. Er was een verkort netnummer nodig voor Zwolle, maar de regio 5 was vol en regio 7 ook. Het was nu echter technisch mogelijk geworden een nummer in een andere regio toe te kennen en Zwolle kreeg toen het nummer 038.
+Van eind jaren 1980 tot eind jaren 1990 zijn een aantal hernummeringen doorgevoerd om de netnummers en speciale nummers aan te passen aan internationale standaarden, en om meer abonneenummers en later ook mobiele nummers vrij te maken.
+Inmiddels is een netnummer niet meer gebonden aan een bepaalde regio. Bij veel aanbieders is het mogelijk om bijvoorbeeld een abonneenummer met een 020-kengetal te nemen in bijvoorbeeld Groningen.
+Speciale netnummers.
+Er waren ook netnummers die met 06 begonnen.
+De netnummers die begonnen met 065 waren in gebruik voor de semafoondienst.
+Het netnummer 06222 was voor intern gebruik door de PTT. Het bekendste nummer was hier 06222-333, waar men de ANP-nieuwsdienst kon beluisteren.
+Servicenetnummer per district.
+Er was ook een speciaal netnummer in elk district. Dit nummer begon met de districtcijfers en eindigde op 01. Hierdoor was het mogelijk een servicenummer in een ander district te bellen.
+Decibel.
+In 1995 werd besloten tot een vrijwel landelijke omnummering. Alle telefoonnummers in Nederland zouden tien cijfers krijgen en de netten in een sector zouden gecombineerd worden tot een enkel net, zodat de vijfcijferige netnummers vervielen. De naam van de actie was Operatie Decibel en als ingangsdatum werd 10 oktober gekozen (10-10 dus). De voorloper was Almelo waarvan het netnummer 05490 reeds enkele jaren eerder in 0546 veranderd werd. Daarbij werden er in Almelo abonneenummers toegekend die met een 8 begonnen, terwijl kort daarna werd besloten dat zulke abonneenummers voor andere aanbieders gereserveerd zouden blijven.

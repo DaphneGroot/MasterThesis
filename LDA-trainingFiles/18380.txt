@@ -1,0 +1,4 @@
+Extensible Stylesheet Language.
+Extensible Stylesheet Language of XSL is een formele taal waarin beschreven kan worden, hoe XML-documenten geformatteerd moeten worden.
+Hoewel er al veel ondersteuning in software (zoals webbrowsers) is voor XSLT, is er in 2004 nog minder ondersteuning voor XSL-FO, en als er al ondersteuning voor is, is dit vaak niet voor de volledige standaard.
+De XML Path taal (XPath) wordt in XSL gebruikt om te beschrijven, hoe onderdelen van een XML-document te bereiken zijn.

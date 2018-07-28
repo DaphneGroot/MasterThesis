@@ -1,0 +1,7 @@
+Conditionele zelfinformatie.
+Conditionele zelfinformatie is de hoeveelheid informatie die kennis over (de uitkomst van) een bepaalde gebeurtenis, toevoegt aan iemands kennis, als de uitkomst van een specifieke andere gebeurtenis reeds bekend is. Het begrip wordt gebruikt binnen de informatietheorie en de hoeveelheid conditionele zelfinformatie wordt uitgedrukt in de eenheid van informatie, het bit.
+In feite kan zelfinformatie worden gezien als een speciaal geval van conditionele zelfinformatie. Bij zelfinformatie is de bovengenoemde 'andere gebeurtenis' de triviale gebeurtenis: de gebeurtenis waarvan het bekend worden geen informatie toevoegt (een geheel voorspelbare gebeurtenis dus).
+Stel formula_1 is de kans op optreden van gebeurtenis A, formula_2 is de kans op optreden van gebeurtenis B, en q is de kans op het optreden van zowel gebeurtenis A als gebeurtenis B.
+formula_3formula_4 bit.
+formula_5 bit.
+formula_6 bit. In dit voorbeeld is de conditionele zelfinformatie dus kleiner dan de zelfinformatie, bij de betreffende gebeurtenis.

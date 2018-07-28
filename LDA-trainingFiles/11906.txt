@@ -1,0 +1,4 @@
+AAlib.
+AAlib is een bibliotheek met functies voor programma's die ervoor zorgen dat het programma uitvoer in ASCII-art kan produceren.
+Er is ook een demonstratieprogramma gemaakt voor AAlib, genaamd BB. Dit is een programma dat heel goed de mogelijkheden voor de bibliotheek laat zien.
+Dit is een schermafdruk van het programma BB. In het programma beweegt deze zebra, waardoor hij nog veel beter zichtbaar is.

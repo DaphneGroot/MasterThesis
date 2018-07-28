@@ -1,0 +1,17 @@
+Ester (scheikunde).
+Een ester is een organische verbinding die ontstaat door reactie van een zuur met een alcohol of sacharide en vormt een klasse van organische verbindingen.
+Beschrijving.
+Men kan esters beschouwen alsof ze ontstaan zijn uit een condensatiereactie tussen een alcohol/suiker en een zuur/zuurchloride. Het meest voorkomende type esters zijn de carbonzure esters die de -(C=O)-O- groep als functionele groep bevatten. Deze bevat twee R-ketens die zowel een alkyl- als een arylketen kunnen zijn. Esters kunnen echter ook ontstaan door condensatiereacties van alcoholen met andere typen (anorganische) zuren, zoals fosforzuur, zwavelzuur, salpeterzuur of boorzuur.
+Indien alle C-ketens alkylgroepen zijn spreekt men van een alkylalkanoaat.
+Laagmoleculaire, vluchtige esters hebben vaak een typische geur, waardoor men ze terugvindt in parfums en feromonen. Esters vinden onder andere toepassingen in parfums, als oplosmiddel, in polyesterkunststoffen en in biodiesel. Sommige salpeterzuuresters hebben de eigenschap te kunnen ontploffen of hevig ontbranden.
+Systematische naamgeving volgens de IUPAC.
+De naam van een ester wordt opgebouwd uit eerst de naam van het alcohol of sacharide en dan de naam van het zuur, beide gevolgd door een geschikt achtervoegsel. Van de naam van de eerste functionele groep, afkomstig van het alcohol of suiker wordt het achtervoegsel -ol of -ose vervangen door -yl. Het tweede deel van de esternaam bestaat uit de naam van het zuur, waarbij -zuur wordt vervangen door -oaat. Bijvoorbeeld het ethaanzure ester van methanol (gevormd in combinatie met azijnzuur) noemt men in de systematische naamgeving: methylethanoaat.
+Omdat de meest voorkomende esters carbonzure esters zijn, hebben deze een specifieke naamgeving gekregen. Bij de esters van korte carbonzuren bestaat de triviale naam uit de naam van het alcohol (-ol wordt vervangen door -yl) gevolgd door de stam van de Engelstalige naam van het carbonzuur (die de uitgang -aat krijgt). Zo wordt methylethanoaat ook wel methylacetaat genoemd.
+Met zuuranhydride.
+R en R' kunnen in deze vergelijkingen elke mogelijke functionele groep zijn zoals Me, Et of zelfs Phe enz.. (methyl, ethyl, fenyl)
+Eigenschappen.
+In vergelijking met andere organische moleculen die carbonylgroepen bevatten, zijn esters relatief apolair. Dit blijkt onder andere wanneer men de kookpunten vergelijkt van deze producten met deze van de overeenkomstige alkanen: de kookpunten van esters zijn ongeveer gelijk aan de kookpunten van alkanen met hetzelfde moleculair gewicht. Dit geeft aan dat Van der Waalse interacties de grootste bijdragen hebben in de intermoleculaire krachten bij esters.
+De zuurstofatomen van de estergroep hebben vrijwel geen basisch karakter. Een proton dat zou adderen op de estergroep induceert hierdoor een positieve lading op een zuurstofatoom. Zuurstof is echter een vrij elektronegatief element, waardoor geprotoneerde esters een vrij lage pKa-waarde hebben en hun extra proton onmiddellijk afstaan. Zo is de pKa-waarde van geprotoneerd ethylacetaat -6,5.
+Voorbeelden van esters.
+In de volgende tabel worden enkele carboxylaatesters weergegeven, samen met hun eigenschappen.
+Kleinere esters hebben vaak een zoete, fruitachtige geur. Veel esters worden daarom gebruikt als geurstof of smaakstof.

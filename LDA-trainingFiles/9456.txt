@@ -1,0 +1,19 @@
+Lichaam (Ned) / Veld (Be).
+Een lichaam (Nederlandse term) of veld (Belgische term) is een algebraïsche structuur waarin de bewerkingen optellen, aftrekken, vermenigvuldigen en delen op de gebruikelijke wijze uitgevoerd kunnen worden. In het Engelse taalgebied spreekt men van 'field', en in het Duitse taalgebied van 'Körper'. De rationale getallen, de reële getallen en de complexe getallen zijn voorbeelden van lichamen, alle met oneindig veel elementen. Is het aantal elementen van het lichaam eindig, dan spreekt men van een eindig lichaam (Nederlands) of eindig veld (Belgisch).
+Definitie.
+Een "lichaam" of "veld" is een verzameling die is uitgerust met de bewerkingen optelling, aftrekking, vermenigvuldiging en deling (men mag niet delen door nul), waarbij de verzameling voor deze bewerkingen gesloten is (het resultaat van een bewerking moet weer een element zijn van de verzameling) en bovendien optelling en de vermenigvuldiging beide associatief en commutatief zijn. Bovendien is de vermenigvuldiging distributief ten opzichte van de optelling.
+Meer formeel is een lichaam/veld een tripel ("K", +, *) bestaande uit een niet-lege verzameling "K" waarop twee bewerkingen: een optelling, aangeduid met het symbool +, en een vermenigvuldiging, aangeduid door *, zijn gedefinieerd die voldoen aan een aantal voorwaarden. De optelling van twee elementen "a" en "b" uit "K" noteert men meestal met "a+b" en de vermenigvuldiging van "a" en "b" met "a*b" of kortweg "ab". De vermenigvuldiging wordt ook wel genoteerd met · of × en het product dienovereenkomstig met respectievelijk "a·b" of "a×b".
+Zonder de laatste voorwaarde zou de verzameling die slechts één element bevat, namelijk 0, een lichaam zijn, en dat is ongewenst.
+De voorwaarden 1 tot en met 6 drukken uit dat ("K", +, *) ook een ring is. Wordt aan alle bovengenoemde voorwaarden voldaan, behalve dat de vermenigvuldiging commutatief is (voorwaarde 9), dan is er sprake van een delingsring of scheeflichaam (Nederlandse term) of lichaam (Belgische term).
+Merk op dat de voorwaarden 3, 4, 5 en respectievelijk 7, 8 en 9, analoge voorwaarden zijn. De voorwaarden 3, 4 en 5 gaan over de optelling, terwijl de voorwaarden 7, 8 en 9 over de vermenigvuldiging gaan.
+Het verschil (aftrekken) wordt gedefinieerd door "a" - "b" = "a" + ("-b").
+De deling (door een element ongelijk aan nul) wordt gedefinieerd door "a"/"b" = "a"*("b-1").
+Voorbeelden.
+De reële getallen (formula_1) met de gewone optelling en vermenigvuldiging vormen een commutatief lichaam; idem voor de rationale getallen (formula_2) en de complexe getallen (formula_3).
+De gehele getallen (formula_4) vormen geen lichaam, omdat de meeste gehele getallen geen invers element hebben voor de vermenigvuldiging.
+Als "K" een lichaam is, dan vormen de rationale functies (veeltermbreuken) in formula_5 veranderlijken over "K" op hun beurt een lichaam.
+De restklassen modulo formula_6 vormen een commutatief (eindig) lichaam als "p" een priemgetal is.
+Deellichaam.
+Een deellichaam van een lichaam is een deelverzameling die de elementen 0 en 1 bevat, en gesloten is met betrekking tot optelling, tegengestelde, vermenigvuldiging en multiplicatieve inverse. Het is hiermee zelf een lichaam.
+Geordend lichaam.
+Een geordend lichaam is een lichaam dat totaal geordend is op een wijze waarbij aan bepaalde eigenschappen voldaan is.

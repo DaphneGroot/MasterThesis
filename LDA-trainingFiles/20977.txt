@@ -1,0 +1,4 @@
+Coldfire.
+De Freescale (voorheen Motorola) Coldfire is een lichtelijk uitgeklede 68000 processor, bedoeld om het ontwerp te versimpelen. Op deze manier kan de processor zo goedkoop mogelijk gemaakt worden en het wordt het energieverbruik geminimaliseerd.
+De Coldfire is erg populair bij elektronicafabrikanten.
+Wegens het feit dat "Coldfire" een bekend computer onderdeel is, is het ook een veel gebruikte nickname. Voornamelijk in games.

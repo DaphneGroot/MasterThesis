@@ -1,0 +1,10 @@
+Doorsnede (verzamelingenleer).
+Doorsnede van verzameling "A" en "B" (overlapping van de twee cirkels)
+In de verzamelingenleer is de doorsnede, of intersectie van een aantal verzamelingen de verzameling die bestaat uit de gemeenschappelijke elementen van de samenstellende verzamelingen. De doorsnede van de verzamelingen formula_1 en formula_2 wordt genoteerd als formula_3.
+Als twee verzamelingen een lege doorsnede hebben, noemt men ze disjunct. Als ze een niet-lege doorsnede hebben, wordt soms gezegd dat ze elkaar snijden.
+Voorbeelden.
+De doorsnede van de verzamelingen en is de verzameling.
+Het getal 9 is "geen" element van de doorsnede van de verzameling priemgetallen en de verzameling oneven getallen.
+Generalisatie.
+Door recursie kan ook de doorsnede van eindig veel verzamelingen gedefinieerd worden. De doorsnede van "A", "B", "C", en "D", bijvoorbeeld, is
+Meer algemeen bestaat de doorsnede van willekeurig veel verzamelingen uit die elementen die in elk van deze verzamelingen zitten.

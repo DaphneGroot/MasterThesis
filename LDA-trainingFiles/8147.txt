@@ -1,0 +1,11 @@
+Commutativiteit.
+ Algemeen gebruik .
+De term "commutatief" wordt in een aantal verschillende contexten gebruikt.
+In het algemeen zegt men dat twee elementen "x" en "y" "commuteren" als ze aan bovenstaande identiteit voldoen. De operatie is commutatief als elk willekeurig paar elementen commuteert.
+De centralisator van een element "x" bestaat uit de elementen van "S" die met "x" commuteren. Algemener: de centralisator van een deelverzameling "D" van "S" bevat de elementen van "S" die met alle elementen van "D" commuteren.
+Commutatieve operaties in de wiskunde.
+Andere commutatieve binaire operaties zijn o.a. optellen en vermenigvuldigen van reële en complexe getallen, optellen van vectoren en het inproduct.
+Commutator.
+De groepentheorie en de theorie der ringen hanteren elk een verschillend begrip van commutator, dit is een element dat intuïtief de mate aangeeft waarin "x" en "y" "niet" commuteren.
+Commutatief diagram.
+In de categorietheorie is een diagram commutatief als elke twee samenstellingen van morfismen in het diagram die hetzelfde domein en doel hebben, gelijk zijn.

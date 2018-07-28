@@ -1,0 +1,2 @@
+C++Builder.
+C++Builder (soms ook geschreven als CPPBuilder) is een RAD-ontwikkelomgeving voor C++ ontwikkeld door Borland. De omgeving maakt gebruik van Delphi of Kylix voor het werken met VCL-, FMX- en CLX-softwarecomponenten. De taal C++ is hiertoe uitgebreid waardoor het mogelijk wordt om VCL- en CLX-componenten van Delphi/Kylix te gebruiken in C++.

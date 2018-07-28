@@ -1,0 +1,14 @@
+Getijdenenergie.
+Waterkrachtcentrale Rance bij Saint Malo, Frankrijk
+Maquette van de getijdencentrale op de Rance
+Getijdenenergie is energie die wordt gewonnen door gebruik te maken van het verschil in waterhoogte tussen eb en vloed. Op de open oceaan is dit slechts enkele decimeters, maar door de bijzondere vorm van sommige kusten waar grote trechtervormige inhammen bestaan kan het waterhoogteverschil op zulke plaatsen tot vele meters oplopen, voldoende om bij vloed het hoge water achter een dam te vangen en dit bij laag water via turbines gekoppeld aan generatoren terug te laten lopen.
+Geschiedenis.
+Al in het midden van de 20e eeuw bestonden er in Bretagne molens op getijdenenergie. De oudste (1966) en grootste (24 turbines van elk 10 megawatt) elektriciteitscentrale van dit type bevindt zich in de monding van de Rance bij Saint-Malo in Frankrijk: de waterkrachtcentrale van Rance.
+Uitleg.
+Een getijdencentrale bestaat uit een afsluitbare dam. Tijdens vloed is de dam open en het water stroomt in het waterbekken achter de dam.
+Is de hoogste waterstand bereikt dan worden de sluisdeuren gesloten en het water blijft in het bekken achter. Is het waterverschil voor en achter de dam voldoende hoog dan worden de deuren geopend en het water stroomt langs de turbines terug naar zee. De turbines drijven de generatoren aan en elektriciteit wordt geleverd. De hoeveelheid opgewekte energie is een functie van het watervolume dat door de turbines stroomt en het hoogteverschil voor en achter de dam.
+Een probleem stelt zich, dat de centrale maar om de 12 uur energie levert. De cyclus valt ook niet altijd samen met een grote vraag naar elektriciteit. Dit probleem kan deels ondervangen worden door de turbines ook te gebruiken als het vloedwater in het bassin stroomt. Dit vereist aangepaste turbines die gecompliceerder en duurder zijn.
+De corrosie door zout water drijft de kosten op. De centrales zijn ook niet zo milieuvriendelijk, doordat de levende wezens in zee gewend zijn om te leven met een normale wissel van eb en vloed, terwijl de centrale dat verstoort door op andere tijden water te lozen of vast te houden.
+Proeven in Nederland.
+In de Westerschelde is in 2009 een proef gestart met getijdenenergie volgens een iets ander concept. Daar wordt geen water achter een dam opgeslagen, maar wordt gebruikgemaakt van de aanwezige stroming: een soort windmolen onder water dus.
+Vanaf het najaar 2015 gaan vijf turbines in een van de openingen tussen de pijlers van de Oosterscheldekering elektriciteit opwekken. Het Nederlandse bedrijf Tocardo heeft de turbines ontwikkeld en gaat de centrale plaatsen en beheren. De turbines, met een opgesteld vermogen van 1,2 megawatt, leveren genoeg stroom voor ruim duizend huishoudens (normaal verbruik zo'n 3100 kWh per huishouden). De totale kosten van het project, ontwikkeling, plaatsing en uitbating, zijn geraamd op zo'n 11 miljoen euro. De centrale krijgt subsidie van het ministerie van Economische Zaken.

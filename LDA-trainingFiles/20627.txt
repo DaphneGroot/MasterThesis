@@ -1,0 +1,8 @@
+Wet van Bradford.
+De wet van Bradford is ontwikkeld door Samuel C. Bradford en is een variant op de wet van Zipf, de paretoverdeling en de 20-80-regel.
+Bradford was een bibliothecaris aan het Science Museum in Londen. De wet kwam naar voren bij Bradfords onderzoek naar wetenschappelijke tijdschriften. Hij zag dat een wetenschapper gemiddeld vijf kerntijdschriften had voor zijn vakgebied. In deze vijf tijdschriften verschenen iedere tijdsperiode "n" interessante artikelen. Om "2n" interessante artikelen te vinden zou de wetenschapper de 52 (dus 25) meest relevante tijdschriften moeten doorlezen. En zo verder.
+Illustratie van de wet van Bradford
+Dit wordt geïllustreerd met de afbeelding rechts. De middelste zone vertegenwoordigt de vijf kerntijdschriften waarin eveneens vijf interessante artikelen gevonden worden. In zone twee, de vijfentwintig meest relevante tijdschriften, worden in totaal tien artikelen gevonden (inclusief de artikelen van de middelste zone). In de derde zone, de buitenste cirkel, worden vijftien relevante artikelen gevonden in 125 tijdschriften.
+Deze wet geeft aan dat een wetenschapper snel een groot percentage relevante artikelen kan vinden, maar dat het op het laatst steeds moeilijker wordt er nog meer te vinden, laat staan dat het mogelijk is ze allemaal te vinden.
+S.C. Bradford publiceerde dit verband voor het eerst in 1934 in een artikel getiteld "Sources of information on specific subjects", maar zijn "wet" (eigenlijk een empirische relatie) kreeg ruimere bekendheid door zijn boek "Documentation" uit 1948.
+Dit principe is gegeneraliseerd en op verschillende gebieden in de sociale wetenschappen toegepast.

@@ -1,0 +1,2 @@
+Querytaal.
+Een querytaal is een taal om query's uit te voeren op een database. Dit kan een platte database, een hiërarchische database, een netwerkdatabase, een relationele database, of een objectgeoriënteerde database zijn.

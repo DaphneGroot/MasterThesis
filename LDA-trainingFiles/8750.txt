@@ -1,0 +1,51 @@
+Kleurencirkel.
+Een kleurencirkel is een manier om zichtbaar te maken hoe de primaire kleuren en
+secundaire kleuren in elkaar overlopen. Een discontinue kleurencirkel geeft de verschillende kleuren in een afgelijnd boogdeel, een continue kleurencirkel laat de verschillende kleuren in elkaar overvloeien. Een kleurencirkel kan ook beschouwd worden als gebaseerd op een in het platte vlak afgebeelde gesloten continue kromme in een driedimensionale kleurenruimte. Die kromme wordt om hem zichtbaar te maken gemodelleerd als een gedeeltelijke schijf, die zelf geen doorsnede meer is.
+Continue kleurencirkel in de beeldschermtechniek (rood-blauw-groen)
+Omdat er oneindig veel kleuren zijn, bestaan er discontinue kleurencirkels met een verschillend aantal kleuren. De eenvoudigste kleurencirkels bestaan uit zes kleurvlakjes: drie primaire en drie secundaire kleuren.
+Verschillende kleurmengsystemen.
+Welke kleuren primair zijn, hangt af van het gebruikte kleurmengsysteem.
+Complementaire kleuren staan in een kleurencirkel diametraal tegenover elkaar. Een oplossing heeft een bepaalde kleur omdat ze de complementaire kleur absorbeert.
+De kleurencirkel bestaat uit de spectrale kleuren aangevuld met de
+waaronder magenta, die een verbinding vormen tussen de hoogste en de
+frequenties uit het kleurenspectrum, respectievelijk violet en rood.
+Subtractieve en additieve kleurmenging.
+Subtractieve kleurmenging is een model voor de menging van kleurstoffen en
+pigmenten. Een kleurstof werkt door de absorptie van een deel van het zichtbare
+licht. Wat het reflecteert is dus maar een deel van het spectrum. Vandaar de
+naam van dit systeem: subtractie betekent "aftrekking".
+Additieve kleurmenging geeft een model voor de effecten van menging van
+golflengtes van het zichtbare licht. Menging van licht houdt in dat meer
+tegelijkertijd worden uitgestraald. Vandaar de naam: additie betekent
+Kleurencirkels in de schilderkunst.
+Discontinue kleurencirkel in de schilderkunst (rood-blauw-geel)
+De hier afgebeelde traditionele kleurencirkel bestaat uit zes kleuren, rood, oranje, geel, groen,
+blauw en paars. De primaire kleuren rood, geel en blauw staan in een driehoek.
+Hetzelfde geldt voor de secundaire kleuren oranje, groen en paars. De
+complementaire kleuren staan tegenover elkaar. Rood staat tegenover groen,
+geel tegenover paars, oranje tegenover blauw.
+Iets uitgebreider is de kleurencirkel van Johannes Itten. Deze bevat naast
+de bovengenoemde zes kleuren ook nog de zes "tertiaire kleuren" geeloranje,
+roodoranje, roodviolet, blauwviolet, blauwgroen en geelgroen, en heeft dus in
+totaal twaalf kleuren. Met deze heel eigen interpretatie van het begrip "tertiaire kleur" heeft Itten veel verwarring geschapen. Behalve in de schilderkunst wordt deze kleurencirkel
+Kleurencirkels in de drukkunst.
+Het hierboven geschetste, nog zeer veel gebruikte systeem is echter wetenschappelijk gezien onjuist: het bestaat eigenlijk uit niet anders dan eeuwenoude kleurmengvoorschriften uit een tijd die door gebrek aan pigmenten met de juiste kleur gebruik moest maken van zeer slechte benaderingen.
+Discontinue kleurencirkel in de drukkunst (geel-cyaan-magenta)
+Bij het gebruik van druktinten gebeurt de kleurmenging wat wetenschappelijker en wordt uitgegaan van de 'ware' primaire kleuren. De
+ware primaire kleuren zijn van licht naar donker: geel, cyaan en magenta. Door menging van twee primaire kleuren
+ontstaan de ware secundaire kleuren, van licht naar donker: groen (uit geel en cyaan); rood (uit geel en magenta) en blauw (uit cyaan en magenta). De ware paren van complementaire kleuren staan tegenover elkaar: geel-blauw; cyaan-rood en magenta-groen. Aangezien de primaire kleuren lichter zijn dan de secundaire kleuren, is het niet zo dat de cirkel gelijkmatig van licht naar donker oploopt.
+Worden inkten in de kleuren aan de punten van een gelijkzijdige driehoek, willekeurig gedraaid rond het midden van de cirkel, met elkaar gemengd, dan ontstaat in theorie de kleur zwart; ieder pigment absorbeert immers een deel van het licht en de drie pigmenten samen het geheel. Het maakt niet uit hoe deze driehoek staat, het geldt ook voor de driehoek in een kleurcirkel met overlopende kleuren. In de praktijk zullen echter eerder bruinachtige tinten ontstaan. Daarom wordt naast magenta, cyaan en gele inkt ook altijd zwarte inkt gebruikt.
+Overigens geldt ook voor de kunstschilder onverkort dat een gewenste kleur slechts gemengd kan worden door bewuste of onbewuste toepassing van het wetenschappelijke systeem.
+Kleurencirkels in de beeldschermtechniek.
+Afgeronde kleurendriehoek die ontstaat bij additieve menging van rood, groen en blauw. Alleen deze basiskleuren bereiken de cirkelrand van pure kleuren. De hoogtelijnen vertegenwoordigen constante waarden van de subjectieve intensiteit.
+Bij additieve kleurmenging, zoals in een televisiescherm of een computermonitor, gaat het in principe om dezelfde kleuren als bij druktechniek, en zijn dus dezelfde kleurencirkels van toepassing. Alleen wisselen hier de primaire en de secundaire kleuren van rol. Nu zijn de donkerste kleuren de primairen,
+dat wil zeggen de bouwstenen waaruit alles is opgebouwd. Logisch, want door
+lichtmenging wordt de kleur natuurlijk "lichter". In een kleurenbeeldscherm zijn dus slechts lichtbronnen in drie kleuren aanwezig: rood, groen en blauw. Door menging van licht in deze drie kleuren ontstaan de secundaire kleuren magenta, cyaan en geel, en ook alle andere kleuren.
+Ook hier staan de complementaire kleuren staan tegenover elkaar. In principe is deze cirkel dus identiek aan de kleurencirkel bij de drukkunst. Een verschil ontstaat als we ook van deze cirkel een schijf maken: dan staat in het midden het summum van additie: wit - dat wat
+we ervaren als alle drie de kegeltypen geprikkeld worden.
+Worden de kleuren bij de punten van een gelijkzijdige driehoek als licht met elkaar gemengd dan ontstaat dus wit licht. Het maakt niet uit, hoe deze driehoek staat.
+Complementaire kleuren en absorptie.
+Een oplossing heeft een bepaalde kleur omdat ze de complementaire kleur
+Merk op: de kleur en de complementaire kleur staan tegenover elkaar in de kleurencirkel. Dat betekent niet dat een rode oplossing alleen cyaan absorbeert, wel dat een rode oplossing kleuren absorbeert die opgeteld de indruk van cyaan zouden geven.
+Kleurcodering.
+Hieronder zijn gedeelten van de kleurencirkel in een rechte balk weergegeven. Door de beperkingen van standaardmonitoren is het altijd onmogelijk een zuivere groene kleur weer te geven: in plaats hiervan zien we een groengele tint. Een afdruk met een kleurenprinter zal de bedoelde groentinten tonen. In de vakken staat de RGB-kleurcodering die ook in HTML wordt gebruikt.

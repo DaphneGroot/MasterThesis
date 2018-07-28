@@ -1,0 +1,4 @@
+The Linux Documentation Project.
+The Linux Documentation Project (TLDP) begon als een manier van en voor Linux-hackers en "gewone" gebruikers om informatie met elkaar te delen.
+The Linux Documentation Project begon in 1992 als FTP-server, maar al snel, in 1993, kwam het ook op internet (het werd gehost door MetaLab). Men vermoedt dat dit de allereerste website in verband met Linux was.
+Ondertussen (in 2004) bevat TLDP al vele honderden documenten in de vorm van man-pages, (mini-)HOWTO's, FAQ's, guides en artikels van Linuxgazette en LinuxFocus. Sommige van deze documenten zijn nauwelijks een bladzijde lang andere zijn zo groot als een boek. De grootsten zijn dan ook meestal in boekvorm verkrijgbaar bij de uitgeverij O'Reilly.

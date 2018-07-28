@@ -1,0 +1,7 @@
+Brandpuntsafstand.
+Positieve lens; voor nadere uitleg zie Lens (optica)
+De brandpuntsafstand van een lens of spiegel is gedefinieerd als de afstand tussen de lens en het punt waar evenwijdig aan de optische as invallende lichtstralen samenkomen na door de lens gebroken te zijn. Dat punt heet het "brandpunt" of de "focus" van de lens en is met de letter F aangegeven in de figuur hiernaast. De brandpuntsafstand is met "f" aangegeven en wordt in lengte-eenheden (meter) uitgedrukt.
+Dikke lenzen en lenzenstelsels.
+Bovenstaande definitie geldt voor dunne lenzen. Voor dikke lenzen en/of lenzenstelsel moet de brandpuntsafstand anders worden gedefinieerd.
+Lenssterkte.
+In plaats van de brandpuntsafstand wordt, o.a. voor brillenglazen, voorzetlenzen, e.d., de "lenssterkte" gebruikt, die gedefinieerd is als de reciproque waarde van de brandpuntsafstand. De eenheid voor de lenssterkte is de dioptrie, gedefinieerd als 1 dpt = 1 m.

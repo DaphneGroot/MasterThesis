@@ -1,0 +1,11 @@
+Steradiaal.
+Een steradiaal (symbool sr) is de SI-eenheid voor ruimtehoek.
+De steradiaal is het driedimensionale equivalent van de radiaal.
+Het woord steradiaal is een samenvoeging van het Griekse woord "stereos" (vast) en het Latijnse woord "radius" (straal).
+Wanneer men op een bolschil met een straal van 1 m een figuur (van willekeurige vorm) tekent met een oppervlakte van 1 m², heeft dit figuur (vanuit het middelpunt van de bol) een ruimtehoek van 1 steradiaal.
+Aangezien de totale oppervlakte van een bol gelijk is aan 4πr2,
+is de ruimtehoek gevormd door een hele bol gelijk aan 4π sr.
+Net als de gewone hoek is de ruimtehoek in principe dimensieloos.
+De ruimtehoek wordt immers bepaald door een oppervlakte (in m²) te delen door
+het kwadraat van een straal (m).
+De eenheid steradiaal wordt dan ook alleen gebruikt om verwarring te voorkomen

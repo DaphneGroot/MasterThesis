@@ -1,0 +1,10 @@
+Glowstick.
+Drie soorten lightsticks in vijf kleuren
+Een glowstick, gloeistaaf of lightstick is een transparante plastic buis die bepaalde vloeistoffen bevat die in twee compartimenten gescheiden worden gehouden. Indien de lightstick gebroken wordt, vermengen de chemicaliën zich met elkaar waardoor een reactie ontstaat waarbij licht wordt uitgestraald, maar niet of nauwelijks warmte. Dit fenomeen wordt chemoluminescentie genoemd.
+Lightsticks worden voor uiteenlopende doeleinden gebruikt, bijvoorbeeld in het leger, maar ook voor vermaak, bijvoorbeeld tijdens feestjes en concerten. Vissers gebruiken een kleinere versie om op hun dobber te doen, zodat ze 's nachts kunnen vissen zonder een grote lichtbron te gebruiken.
+Reactie.
+In het plastic buisje zitten 2 stoffen: difenyl oxalaat (DPO, handelsmerk 'Cyalume') vermengd met een fluorescerende kleurstof. De golflengte van het foton dat uitgestraald wordt, hangt af van de structuur van de gebruikte kleurstof.
+Het glazen buisje in het plastic buisje heen bevat waterstofperoxide. Als door knikken de inhoud van het glazen en het plastic buisje bij elkaar komen, wordt de oxalaatester geoxideerd tot 2 moleculen fenol en een molecuul 1,2-dioxethaandion.
+1,2-dioxethaandion ontleedt spontaan tot koolstofdioxide waarbij de kleurstof door de hierbij vrijkomende energie in de aangeslagen toestand komt. Hierop zendt de kleurstof een foton uit.
+Vaak wordt er ook een zwakke base als natriumacetaat of natriumsalicylaat toegevoegd om feller licht uit te laten zenden.
+De reactie verloopt volgens onderstaand mechanisme, waarbij "dye" voor de gebruikte kleurstof (zie tabel hieronder) staat, de asterisk een aangeslagen toestand aanduidt en "hv" voor het uitgezonden foton staat.

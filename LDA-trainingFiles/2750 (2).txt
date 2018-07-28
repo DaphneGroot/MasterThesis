@@ -1,0 +1,85 @@
+Personal digital assistant.
+Een personal digital assistant ofwel een persoonlijke digitale assistent (ook: palmtop, zakcomputer of handpalmcomputer), kortweg pda, is een klein draagbaar toestel dat computer-, telefonie-, fax- en netwerkfuncties combineert. Een pda dient vooral als mobiele telefoon en persoonlijke agenda.
+Pda's worden grotendeels als verouderd beschouwd door de opkomst van de smartphone.
+De term "Personal Digital Assistant" werd bedacht door John Sculley, topman van Apple in de periode 1983–1993.
+Kenmerken.
+Een pda is een 'handheld'-pc (handcomputer) die een modern, digitaal alternatief vormt van de papieren agenda. Een pda biedt immers een adresboek, kladblok, agenda en telefoonlijst. Vaak zijn er nog meer functies, zoals rekenbladen, tekstverwerking, databasemanagement, software voor het beheer van financiële zaken, uurwerk, rekenmachine, spelletjes, mobiele functies en gps-navigatie.
+Een Personal Information Manager (PIM) is vaak onderdeel van een pda. Het stelt de gebruiker in staat om tekst in te voeren die later snel geraadpleegd kan worden, zoals een telefoonlijst.
+Wat de pda voor veel pc-gebruikers zo aantrekkelijk maakt, is de mogelijkheid om gemakkelijk gegevens uit te wisselen tussen de pc en de pda. Dit geldt met name voor automatische synchronisatie, waarbij wijzigingen op de pc worden bijgewerkt op het draagbare toestel en andersom. Bij de meeste pda's wordt een houder meegeleverd die aangesloten wordt op een stopcontact en via een USB-kabel met de pc verbonden kan worden. Via deze USB-verbinding worden gegevens gesynchroniseerd. Zo kan bijvoorbeeld ingesteld worden dat nieuwe e-mail uit "postvak IN" op de bureaucomputer automatisch naar de pda wordt overgezet.
+Kleine maar krachtige draagbare technologie heeft altijd op veel aandacht kunnen rekenen. In het bijzonder van mensen die op zoek zijn naar de laatste gadgets. De pda past in deze visie naast een ander bedrijfsitem van de jaren 90, de mobiele telefoon. De interesse vanuit de bedrijfswereld voor de pda is vooral te danken aan de voortdurend toenemende rekenkracht van deze toestellen. Het idee bestaat uit gemakkelijk gegevensbeheer gecombineerd met telefonie en internettoegang.
+Een van de ontwerpproblemen was de vraag hoe de gegevens in te voeren. Het minitoetsenbord bleek niet erg handig om op te typen. Hierna kwam de Graffiti-tekenherkenningsoftware op de markt, die een aanraakscherm en een afgeslankt (gemakkelijk, snel aanleerbaar) alfabet gebruikte om gegevens te digitaliseren.
+Het eindresultaat is dat de markt opgesplitst is in twee grote segmenten: apparaten met toetsenbordje en met een aanraakscherm uitgeruste toestellen zonder toetsenbord. De keuze van de eindgebruiker tussen deze twee hangt af van persoonlijke voorkeur en gewenste functionaliteit.
+Met betrekking tot deze twee soorten modellen ontwikkelde Microsoft dan ook twee verschillende versies van zijn Windows CE.
+Hardware.
+Pda's zijn kleine computers met een processor, die al het rekenwerk uitvoert. Gegevens invoeren kan via een toetsenbord of aanraakscherm. De uitvoer gebeurt via een scherm (dat in zowel in kleur als in zwart-wit kan zijn).
+Processor.
+Pda-processoren zijn anders opgebouwd dan desktopprocessoren omdat ze energiezuinig en kleiner moeten zijn. Daarom zijn ze ook minder krachtig dan desktopprocessors. De kloksnelheid ligt normaal gesproken tussen de 600-1000 MHz. De meest gebruikte processor is van het merk Qualcomm.
+Werkgeheugen.
+Qua RAM-geheugen moet de pda het veel minder stellen dan de pc's: 64 MB tot 128 MB is de standaard. Dit verklaart ook waarom er specifieke besturingssystemen en toepassingssoftware geschreven dienen te worden voor deze toestelletjes.
+Een pda heeft meestal geen harde schijf, alle data worden op geheugenchips bijgehouden. Het is op de meeste pda's wel mogelijk om het geheugen uit te breiden met flashgeheugen. Nieuwere modellen hebben wel een schokbestendige harde schijf en ook zijn er harde schijven die in CompactFlash-slots passen.
+Scherm.
+Het scherm is steeds kleiner dan een laptop. Het aantal pixels en kleuren varieert van 160 x 160 met 16 grijswaarden tot 640 x 480 met 65536 kleuren.
+Besturingssystemen.
+Microsoft heeft altijd al de kunst begrepen om de situatie om te keren op de technologische domeinen die het wil controleren, en dus wordt de oorlog van de besturingssystemen uitgebreid tot het land van de kleine pc's.
+Momenteel is het overgrote deel (meer dan de helft) van de pda's voorzien van het Symbian-besturingssysteem (dat wordt ondersteund door verscheidene constructeurs zoals Nokia, Sony, Panasonic en Samsung). Microsoft Windows CE had het andere grote aandeel hierin. Hiernaast bestaan er ook EPOC OS en M3 of de nu ook in Nederland opkomende Javabesturing van BlackBerry.
+Symbian.
+Symbian is het besturingssysteem met het grootste marktaandeel, dat komt onder andere doordat het geen hoge systeemeisen stelt, waardoor de fabrikanten waaruit Symbian is ontstaan (Nokia, Ericsson, Panasonic en Samsung) zonder zeer krachtige hardware toch een goed en soepel werkend systeem hebben kunnen neerzetten.
+Symbian staat onder de kenners bekend als het besturingssysteem met de grote compatibiliteit met andere besturingssystemen op pda's.
+De kern van het Symbiansysteem zoals die nu is, is gebaseerd op het oude EPOC-platform van Psion.
+Symbian is daarna een eigen leven gaan leiden en Psion is hernoemd naar Psion Teklogix, dat zich vooral is gaan richten op de zakelijke markt.
+Windows CE.
+Toen Microsofts Windows CE in de herfst van 1996 werd aangekondigd was er een veertigtal bedrijven dat zei CE-compatibele hardware of software te zullen produceren. De eerste op CE gebaseerde pda's schoten echter te kort: enerzijds door tekortkomingen van het besturingssysteem, anderzijds door de korte stand-bytijd die het gevolg was van de stroomverslindende hardware.
+Ondanks talloze verbeteringen verloor CE samenwerkende bedrijven, waaronder ook grote namen als NEC, Motorola en Philips.
+Kleurenschermen werden vanaf CE 2.0 ondersteund, RISC-processoren vanaf versie 2.1.
+Velen zien Microsofts beslissing om CE de 'look and feel' van de traditionele Windows-omgeving te geven als de oorzaak van de fouten die het systeem bevat.
+Daardoor is CE een besturingssysteem dat simpelweg te complex is voor systemen als pda's. Dit hoewel de architectuur van CE schaalbaar is en het bedrijven de mogelijkheid biedt alleen die modules te gebruiken die ze nodig hebben.
+Microsofts oplossing was het ontwikkelen van twee verschillende versies van CE: Handheld PC voor de pda met toetsenbord en Pocket PC voor pda's zonder toetsenbord.
+EPOC OS.
+Psions OS EPOC ondersteunde eerst enkel RISC-processoren die de ARM-architectuur gebruikten, in een latere versie werd het echter overdraagbaar naar elke hardware-architectuur.
+Totdat Psion een joint venture aanging (genaamd Symbian) in 1998 met Ericsson, Nokia en Motorola was er voor dit besturingssysteem vrijwel geen support te krijgen. Enkel Philips toonde enige blijk van interesse.
+Met de oprichting van Symbian wilden deze bedrijven een nieuw besturingssysteem, gebaseerd op het vroegere EPOC, ontwikkelen dat "mobile computing" en draadloze technologieën verenigt om het internet bereikbaar te maken, messaging en gemakkelijke gegevensuitwisseling mogelijk te maken, en dit alles moet in je borstzakje passen.
+EPOC32 zal in twee versies beschikbaar zijn: een voor de pda's en een andere voor de tablet-pc. Enkele eigenschappen (gegeven door Symbian) van EPOC32 zijn: de modulariteit, schaalbaarheid, laag stroomverbruik en compatibiliteit met RISC-chips, zoals de StrongARM.
+M3.
+eCos/M3 is een niet alom bekend besturingssysteem voor de pda's, maar daarom niet bepaald minderwaardig. Ook al verklaart Microsoft meer schrik te hebben van Symbian, eCos/M3 kan ook een geduchte concurrent blijken te zijn in de toekomst.
+Het gaat hier over een op eCos van Red Hat Linux gebaseerd besturingssysteem ontwikkeld door Red Hat & 3G Lab Ltd. voor de draadloze pda's en smartphones.
+Palm OS.
+Het succes dat Palm OS kende is te danken aan het succes dat de Pilot heeft gekend in de jaren 90 (in 1999 beweerde Palm Computing 70% van de hele pda-markt te bezitten).
+De Palm-pda's meest in het oog springende eigenschappen waren het hemdzakformaat, hun elegante grafische interface en de bijzonder gemakkelijke synchronisatie met de pc en omgekeerd (door middel van 1 enkele druk op de knop).
+Naast het enorme aantal programmeurs dat voor dit platform begon te schrijven, steeg ook het aantal bedrijven dat licenties voor het OS nam (zoals IBM, Nokia, Sony en zelfs een concurrent op de pda-markt, Handspring Inc.).
+Dat Palm OS het gebruik van kleurenschermen pas in de Palm IIIc (lente 2000) ondersteunde, was te wijten aan het feit dat ze hun naam van batterijbesparend besturingssysteem niet kwijt wilden.
+Enkele software-items die standaard aanwezig zijn op Palm OS zijn onder andere agenda, adresboek, takenlijst, uitgavenbeheersoftware, rekenmachine, kladblok en spelletjes. De gegevensinvoer gebeurt met behulp van Graffiti.
+Palm OS werkte samen met enkele bedrijven om Palmtoestellen op afstand te beheren (Computer Associates TNG Management Support software).
+Newton OS (Newton Intelligence).
+Newton Intelligence is het besturingssysteem van de Newton MessagePads. Bijzonder aan dit systeem is dat het eigenlijk een volledig besturingssysteem is (vooral de 2.x-versies). Versie 1.0 was nogal slecht en veroorzaakte mede de flop van de Newton. 1.3 was een stuk beter en versie 2.1 is nog altijd beter dan welk ander pda-besturingssysteem dan ook, al is het in 1998 uitgekomen. Er zijn mensen die van hun Palm uit 2002 overgestapt zijn naar een tweedehands Newton 2000 of 2001 na het zien van dit systeem. Echter, nadat 1.0 in de kranten voor gek gestaan had, gingen de meeste mensen naar Palm.
+Toepassingen.
+In het beginstadium van de pda's was er nog niet echt een vaste set gebruikte PIM-applicaties. Deze software is door de tijd heen geëvolueerd en nieuwe toepassingen en/of spelletjes zijn toegevoegd.
+Hieronder krijg je een lijst van software die tegenwoordig op een Palm-size, stylus-based pda aanwezig is, naast enige vorm van tekenherkenningssoftware.
+Dankzij mobiel internet is het ook mogelijk om via e-mail te communiceren en websites te raadplegen via de webbrowser. De toestellen met toetsenbord kunnen daarnaast afgeslankte versies bevatten van tekstverwerkers, rekenbladsoftware, spellingscontrole en een aangepast woordenboek.
+Oorsprong en evolutie.
+Algemeen aanvaard is dat Psion de ontwerper is van het "pda-genre". Hun eerste organiser werd in 1984 gelanceerd. Deze was iets smaller, maar langer en dikker dan een pakje sigaretten. Hij was gebaseerd op 8 bitstechnologie en bevatte standaard 10 kB niet-vluchtig geheugen, een database met zoekmogelijkheid, enkele rekenfuncties en een lcd-scherm met ruimte voor 16 tekens. Hij had een ingebouwde klok en kalender. Een optioneel wetenschappelijk pakket maakte van dit toestel een programmeerbare computer die de mogelijkheid had wetenschappelijke programma's te draaien.
+Hierna kwam de Psion II waarvan er tot 1990 ongeveer een 500.000-tal verkocht werden. De derde versie, de zogenaamde Series 3a (daterend uit 1993), was de eerste die de verbinding tussen desktop-pc en organiser mogelijk maakte.
+Psions succes wekte de interesse van andere bedrijven voor de pda-markt. Een van de eerste concurrenten die een vergelijkbaar toestel lanceerde was Apple Computer met de Newton MessagePad rond 1993. Al snel volgden andere elektronicafabrikanten met vergelijkbare producten: Hewlett-Packard, Motorola, Sharp Electronics en Sony.
+Apple gebruikte op de eerste 2 modellen het door Apple zelf ontwikkelde Newton-besturingssysteem met tekenherkenningssoftware, maar zette de ontwikkeling ervan na verloop van tijd stop. Het bleek niet betrouwbaar of niet snel genoeg te werken.
+Rond 1995 kwam Palm Computing met Pilot-toestellen zonder toetsenbord op de markt. Deze gebruikten de eerder genoemde Graffiti-software.
+Vergelijking met de smartphone.
+De smartphone, onder andere van Ericsson, Motorola en Nokia, maakt gebruik van een eigen besturingssysteem of van Symbian, geërfd van Psion. Uiterlijk verschilt een pda (waaronder de nieuwe Pocket PC) niet veel van een smartphone, maar de filosofie achter beide producten verschilt sterk.
+Pda's zijn "digital assistants" ofwel zakcomputers met daarbovenop een antenne. Daartegenover is een smartphone een mobiele telefoon met pda-functies.
+De draadloze Pocket PC heeft een groter scherm dan de smartphone, wordt bediend met 2 handen en een stift en bevat (in tegenstelling tot de smartphone) softwarepakketten als Pocket Word & Excel.
+Dankzij de kleine ingebouwde microfoon kan de Pocket PC ook als mobiele telefoon dienen, maar hij is toch iets te groot gebouwd om dit als handig te ervaren.
+Beide producten ondersteunen vaak GPRS, UMTS en bluetooth.
+Naast de pda en smartphone is er ook nog de tablet-pc, maar deze hoort niet direct in deze vergelijking thuis omdat hier de telefoon-functie ontbreekt, waardoor het in wezen een computer is.
+ICR.
+Typen op een te klein toetsenbordje is traag en wordt na een tijd frustrerend. "Schrijven" op je pda is een veel aantrekkelijker idee. Veel pda's hebben technologie aan boord die aan Intelligent Character Recognition (ICR) ofwel handschriftherkenning doet. Hierdoor kan de gebruiker met een pen op het beeldscherm schrijven waarna de pda het handschrift herkent en omzet in letters.
+Voor het menselijke oog is het verschil tussen een getekend huis en een woord meer dan duidelijk, maar wat maakt nu juist het verschil? De computer kan op twee manieren te werk gaan om dit te ontdekken.
+De simpele manier is degene die Graffiti gebruikt: het verstaat de vorm van elke letter en zet die om naar zijn digitale equivalent. Het probeert geen woorden of context te kennen. Om het nog simpeler te maken, maakt Graffiti gebruik van eigen aangepaste vormen voor elke letter die de gebruiker dient te kennen. Deze vormen gelijken sterk op ons authentiek alfabet en zijn naar verluidt in minder dan 20 minuten aangeleerd.
+Apples Newton had een andere aanpak: het leerde het handschrift van de gebruiker "lezen" en naar woorden omzetten aan de hand van enkele standaardtestjes. Dit systeem werd handiger en slimmer naargelang je het meer gebruikte.
+Je kon meer dan één gebruiker definiëren op je pda en moest er dus voor opletten in je eigen profiel te werken, teneinde de tekenherkenning van een medegebruiker niet in de war te sturen.
+Zoals reeds vermeld werd Newton geen succes.
+Synchronisatie.
+Indien de mogelijkheid niet bestond gegevens van en naar de pda te versturen en te synchroniseren met de data op desktop-pc's zouden verschillende softwaretoepassingen (zoals tekstverwerking) niet bijzonder veel nut hebben op de pda, aangezien maar weinig toestellen printen via een parallelle printerpoort ondersteunen.
+Het is dan ook niet verwonderlijk dat dit onderdeel van de pda in de loop der jaren beduidend verbeterd werd, mede dankzij externe bedrijven die hardwarecomponenten (zoals pda-"docking cradles") ontwierpen, alsook softwaretoepassingen die het synchroniseren vergemakkelijkten en zo efficiënt mogelijk maakten.
+De meeste pda's worden geleverd met een zogenaamd "docking station", dat de connectie naar en van de pc via een parallelle, seriële of USB-kabel legt en bevat meestal ook een voedingskabel waarmee je de batterij van je pda kunt herladen.
+Twee draadloze verbindingsmogelijkheden winnen echter meer en meer terrein op het synchronisatiegebied: IrDA (infrarood) en de nieuwere en snellere Bluetooth-technologie. Ook is het inmiddels mogelijk om via WLAN te synchroniseren.
+Expansiemogelijkheden.
+Naast de standaardmogelijkheden om de pda met de pc te verbinden, zijn er meer en meer mogelijkheden hem uit te breiden door toevoeging van gsm, printer, extra geheugenkaartjes, modem of andere hardware.
+De grootte van deze verschillende kaartjes varieert: de kleinere zijn meestal alleen geheugenuitbreiding; de grotere modellen bieden ook extra mogelijkheden, bijvoorbeeld een andere soort verbinding met de buitenwereld.

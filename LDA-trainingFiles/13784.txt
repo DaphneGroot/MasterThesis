@@ -1,0 +1,23 @@
+Fritz (computerschaak).
+Fritz is een Duits computerschaakprogramma, ontwikkeld door de Nederlander Frans Morsch en Mathias Feist en op de markt gebracht door ChessBase. Tijdens toernooien heten de bètaversies van Fritz "Quest".
+Ontwikkeling.
+De komst van Fritz in het najaar van 1991 luidde het einde in van het tijdperk dat serieus computerschaak eigenlijk alleen beoefend kon worden op echte "schaakcomputers": apparaten in de vorm van een extra dik schaakbord met een ingebouwd computertje, dat niets anders kon dan schaken. Voordien waren er ook wel schaakprogramma's voor pc's. Deze speelden echter veel zwakker dan de schaakcomputers en ze waren bovendien niet heel gebruiksvriendelijk.
+De eerste versie van Fritz (er stond geen cijfer achter) had een Elo-rating van circa 2000. Dat was weliswaar minder dan de top-apparaten van destijds (zo hadden de zeer dure Mephisto-apparaten Elo's tot circa 2250), maar het was vergelijkbaar met de speelsterkte van de meest verkochte schaakcomputers. Doorslaggevend voor de meeste club- en huisschakers waren het mooie uiterlijk op het beeldscherm, de gebruiksvriendelijkheid en een lage prijs.
+Iedere volgende versie van Fritz was weer mooier dan zijn voorganger, en had ook meer functionaliteit. Tot en met versie 3 was Fritz een MS-DOS programma, maar vanaf Fritz 4 draaide het onder Windows.
+Bijna steeds was de nieuwe versie ook sterker dan de voorgaande. Een opvallende uitzondering was echter Fritz 4. Door de overgang op Windows was Fritz 4 ongeveer 50 Elopunten zwakker dan Fritz 3. In de volgende versies werd dit goedgemaakt.
+Sterkte van Fritz.
+Fritz 10.x is nog niet getest door de SSDF, maar het oudere Fritz 9 had een sterkte van 2812 elo. Dit is 104 elo punten minder dan het computerschaakprogramma Rybka. Fritz speelt tactisch sterk en heeft in vergelijking met andere schaakprogramma's een zeer uitgebreid en foutarm openingsboek.
+Kramnik versus Fritz (2002).
+In 2002 schaakte een Fritz versie tegen Vladimir Kramnik, de match eindigde onbeslist met 4–4. Deze versie was ontworpen met zogenaamde multi-processing en heette Deep Fritz.
+Kasparov versus Fritz (2003).
+In 2003 trad Garri Kasparov op tegen Fritz, die met vier processors werkte. Deze versie werd X3D Fritz genoemd. Er werden vier partijen gespeeld op 11, 13, 16 en 18 november. Kasparov werd op dat moment beschouwd als de sterkste schaker ter wereld. Kasparov speelde niet tegen een bord met stukken, maar hij gebruikte een speciale bril. Met deze bril kon hij een driedimensionaal beeld zien van de partij.
+Eerste partij.
+De eerste partij eindigde na 37 zetten in remise. In een Slavische opening kwam Kasparov met wit eerst beter te staan en leek te gaan winnen. Door een kwaliteitsoffer van Fritz werd de partij in evenwicht gebracht.
+Tweede partij.
+De tweede partij werd door Kasparov verloren. Hij maakte een fout op de 32e zet, en moest zeven zetten later opgeven. In deze partij werd de Berlijnse variant van het Spaans gespeeld. Kasparov had in eerste instantie een goede stelling opgebouwd. Door een desastreuze torenzet kwam hij in een slechte stelling en moest steeds meer tijd investeren. Fritz maakte geen fouten. De partij duurde vier uur.
+Derde partij.
+De derde partij werd overtuigend door Kasparov gewonnen, waarmee de tussenstand op 1,5–1,5 kwam.
+Vierde partij.
+De vierde en laatste partij werd weer remise, waarmee de totale eindstand ook gelijk bleef: 2,0–2,0.
+Kramnik versus Fritz (2006).
+Vanaf 26 november tot en met 5 december 2006 speelde Kramnik opnieuw tegen Deep Fritz. De schaakcomputer was nog sterker dan in 2002. De match vond plaats in Bonn en was met 1 miljoen dollar gedoteerd. Fritz won met 4-2 van Kramnik. De tweede partij maakte Kramnik een blunder van zelden vertoond formaat: hij zag mat in één over het hoofd en werd mat gezet. Ook de zesde en tevens laatste partij werd door Fritz gewonnen.

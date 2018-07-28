@@ -1,0 +1,4 @@
+Ximian.
+Ximian is een bedrijf dat opensource-desktopapplicaties voor Linux en Unix heeft ontwikkeld. Ximian (dat oorspronkelijk Helix Code heette) werd in oktober 1999 opgericht door Miguel de Icaza en Nat Friedman. In augustus 2003 werd Ximian overgenomen door Novell. Novell gaat door met de ontwikkeling van de huidige producten onder de naam Ximian. Daarnaast komt er ondersteuning voor Novells eigen applicaties Groupwise en ZenWorks.
+Ximian ontwikkelt en verbetert bestaande opensourceprojecten zodat ze beter en consistenter met elkaar kunnen samenwerken in Ximians eigen desktopomgeving die gebaseerd is op GNOME. Deze desktopomgeving bevat alle applicaties die een gemiddeld bedrijf nodig heeft.
+Verder is Ximian bezig met de ontwikkeling van Mono, een opensource-alternatief voor.NET en Visual Studio, beiden Microsoft-technologieën.

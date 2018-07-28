@@ -1,0 +1,25 @@
+Rem.
+Een rem is een inrichting om bewegende voorwerpen tot stilstand te brengen. De bekendste applicatie van een rem is die van de fiets en auto, maar ook bijvoorbeeld een centrifuge, een windmolen en een lift hebben een remconstructie.
+Werkingsprincipes.
+Remmen bestaan er in vele soorten: er zijn remmen gebaseerd op mechanische wrijving, zoals de schijfrem, de trommelrem en de blokkenrem, maar ook bijvoorbeeld op basis van magnetische krachten (magneetrem), zoals deze elektrodynamische rem in een trein wordt toegepast, of als hellingrem voor vrachtwagens. Verder kan een verbrandingsmotor ook als rem werken: door het onderbreken van de brandstoftoevoer zal het voertuig afremmen op de inwendige compressie van de verbrandingsmotor. Auto's die tegenwoordig uitgerust zijn met brandstofinjectie werken volgens dit principe.
+Wrijvingsrem.
+De remband op de schroefas van de Terra Nova
+Mechanische rem.
+De mechanische rem, zoals de trommel- en schijfrem, zet de bewegingsenergie door middel van wrijving direct om in warmte. Die warmte wordt vervolgens weer afgevoerd aan de buitenlucht. Dat de productie van de warmte sneller gaat dan het afvoeren is te merken aan het feit dat remmen erg heet kunnen worden.
+Remband.
+Rembanden dienen ervoor om draaiende assen te vertragen of stil te zetten. Ze worden gebruikt op lieren. Een ander gebruik is om de schroefas stil te zetten als een schip op stromend water voor anker ligt.
+EG-Volluchtremsysteem.
+Vrachtauto's en bussen maken gebruik van het EG-Volluchtremsysteem, waarbij lucht zorgdraagt voor de beremming van het voertuig en (eventueel) aangekoppelde volgwagen of oplegger.
+Continurem.
+Vooral bij lange afdalingen wordt dit soort remmen gebruikt.
+Motorrem.
+De motorrem wordt in de uitlaat van een motor gebouwd. Door een klep in de uitlaat wordt in de motor tegendruk opgewekt, waardoor deze afgeremd wordt.
+Verder kan een motor ook als rem werken als de brandstoftoevoer wordt onderbroken, waarbij het voertuig op de inwendige compressie van de motor afremt. Dit gebeurt wanneer de compressieslag plaatsvindt, maar er daarna geen brandstof wordt ontstoken. De compressie (gemiddeld 10:1 voor benzinemotoren en 18:1 voor dieselmotoren), remt op dat moment de zuiger af, die via de versnellingsbak aan het wiel gekoppeld is, en het dus afremt.
+Vloeistofrem.
+De vloeistofrem wordt in of tegenaan de wisselbak gebouwd. Door de viscositeit van de vloeistof wordt er afgeremd.
+Magneetrem en wervelstroomrem.
+Bij de magneetrem wordt de magnetische aantrekkingskracht tussen twee delen omgezet in elektriciteit, die vervolgens weer in warmte wordt omgezet, of teruggevoerd kan worden aan het elektriciteitsnet.
+Bij de wervelstroomrem wordt de magnetische aantrekkingskracht tussen twee delen opgewekt door inductie van stromen. Deze rem wordt in de cardanaandrijving of het differentieel ingebouwd.
+Ook fietstrainers in o.a. een sportschool kunnen uitgerust zijn met een wervelstroomrem voor het opwekken van weerstand.
+Ruimtevaart.
+Een ruimtevaartuig kan afremmen met een raketmotor (dit kost net zoveel energie en reactiemassa als versnellen), of in een atmosfeer. Daarnaast kan de snelheid ten opzichte van een referentiepunt ook afnemen (of toenemen) in een zwaartekrachtveld (bijvoorbeeld bij een gravity assist).

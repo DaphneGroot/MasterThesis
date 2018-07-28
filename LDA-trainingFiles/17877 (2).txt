@@ -1,0 +1,12 @@
+Patrick Volkerding.
+Patrick Volkerding (1967) is een Amerikaans computerdeskundige. Hij is in 1993 begonnen met de Slackware Linux distributie, toen hij nog een student was aan de Moorhead State University.
+Studies.
+Hij begon zijn studies computer engineering in 1985 aan de "Moorhead State University". Deze richting volgde hij twee jaar alvorens te stoppen voor één jaar. Daarna is hij computerwetenschappen gaan volgen aan diezelfde universiteit.
+Interesses.
+Patrick brouwt zijn eigen bier, wat zijn grote hobby was voordat Linux meer van zijn tijd begon te vragen. Een andere interesse is muziek, meer bepaald The Grateful Dead. Van deze groep heeft hij meer dan 75 optredens bijgewoond. Hij heeft deze groep in '87 en '88 over heel de VS gevolgd met zijn wagen, een "1967 Firebird convertible". Verder speelt hij zelf ook een beetje gitaar.
+Zijn eerste stappen in de wereld van computers.
+In 1973, toen hij nog een kleine jongen was, ging hij op schooluitstap naar het computerdepartement in de universiteit van North Dakota. De dingen die hij daar zag hebben hem toen in één slag verslaafd gemaakt aan computers.
+In die tijd waren er nog geen computers die men thuis kon gebruiken, zodus ontwikkelde hij interesse voor elektronica. Later, toen de eerste PC's op de markt kwamen, de TRS-80, de Apple II en de Atari 400/800, ging hij veel rondhangen in de winkels die ze verkochten. Omdat hij geen computer kon betalen, leerde hij zich zelf BASIC en schreef demoprogramma's voor de winkel, om er voor te zorgen dat hij daar welkom bleef.
+Zijn eerste PC, een Apple Plus met een 300 baud AppleCat modem, kocht hij in 1980 toen het nog een veel gevraagde PC was. Deze gebruikte hij tot in 1990 en hij had er zelfs een C compiler voor en een besturingssysteem dat op Unix lijkt. Maar dit laatste leek niet op Linux.
+... en Linux.
+Hij hoorde voor het eerst van Linux in 1992, van een vriend op een feestje. Hij downloadde Linux pas toen hij een LISP interpreter nodig had voor school, omdat hij gesprekken herinnerde van clisp op Linux. De versie die hij toen downloadde was een SLS versie van Peter MacDonald.

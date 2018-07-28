@@ -1,0 +1,5 @@
+Stelling van Pascal.
+De stelling van Pascal is een stelling uit de meetkunde, genoemd naar haar ontdekker Blaise Pascal (1623-1662).
+Geen twee tegenoverliggende zijden van de zeshoek mogen evenwijdig liggen. De verbindingslijn van die drie snijpunten heet een Pascallijn van de zeshoek. In de figuur is als kegelsnede voor een ellips gekozen, het mogen ook een cirkel, parabool of hyperbool zijn.
+Pascal bewees de stelling in 1639, hij was toen amper 16 jaar, nadat hij in contact was gekomen met Desargues (1591-1661). Hij publiceerde de stelling in 1640 op één blad papier, maar zijn manuscript hierover is nooit teruggevonden.
+De stelling van Pappos is een speciaal geval van de stelling van Pascal. De duale versie van de stelling van Pascal is de stelling van Brianchon.

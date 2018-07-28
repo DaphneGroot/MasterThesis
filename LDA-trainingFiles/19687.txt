@@ -1,0 +1,3 @@
+Oracle Database.
+Oracle Database is een databasemanagementsysteem (RDBMS) en vlaggenschip van Oracle. Oracle RDBMS was de eerste database gebaseerd op het R-model van IBM en de eerste relationele database die gebruikmaakt van SQL. Er is ondersteuning voor een groot aantal besturingssystemen.
+Oracle heeft in de loop der tijd een 'eigen' ERP-lijn opgebouwd welke bekend is onder de naam Oracle E-Business Suite. Met deze standaardsoftware kunnen de ondersteunende processen in organisaties worden beheerd.

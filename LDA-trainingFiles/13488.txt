@@ -1,0 +1,11 @@
+ZIP (bestandstype).
+Een zipbestand of zipfile is een verliesvrij gecomprimeerd bestand waarin een of meer computerbestanden zijn ondergebracht.
+Compressiemethode.
+Voor zipbestanden wordt meestal de deflate-compressiemethode gebruikt. In het verleden is er een groot aantal andere methoden gangbaar geweest die werden vervangen door betere opvolgers. Zipbestanden hebben doorgaans de extensie.ZIP maar er zijn ook zelfuitpakkende bestanden die de extensie.EXE hebben. Dit zijn programma's die een in het programma zelf opgenomen zipbestand kunnen uitpakken, zonder dat er een los uitpakprogramma nodig is.
+Gebruik.
+Zipbestanden worden vooral gebruikt op het DOS- en Windows-platform. De bestandsformaten RAR en.7z zijn minder bekende formaten die beter comprimeren dan ZIP. In Unix en Unix-achtige besturingssystemen gebruikt men vooral de bestandsindeling gzip of bzip2 (voor de compressie) in combinatie met tar (voor de archivering). Het welbekende PKZIP van Phil Katz en WinZIP van Nico Mak bijvoorbeeld maken gebruik van de ZIP-compressiemethode.
+Als meerdere kleine bestanden tezamen naar één zipbestand worden gecomprimeerd kunnen die kleine bestanden eerst samen genomen worden, en pas daarna gecomprimeerd worden. Hiermee wordt het uiteindelijke zipbestand kleiner, maar is daarmee geen standaard zipbestand meer. Een programma dat dit doet is bijvoorbeeld 7-zip, die daarmee een grotere compressie bereikt. Het uitpakken van zo'n bestand kan alleen maar met hetzelfde 7-zip.
+Zippen.
+Het werkwoord "zippen" is afgeleid van de naam van dit bestandsformaat, maar wordt in algemene zin ook voor andere vormen van datacompressie en archivering gebruikt.
+Programma's die ZIP-indeling ondersteunen.
+Vanaf Windows XP ondersteunt Microsoft Windows zipbestanden zonder dat daar bijkomende software voor nodig is. Ze worden daar "gecomprimeerde mappen" genoemd.

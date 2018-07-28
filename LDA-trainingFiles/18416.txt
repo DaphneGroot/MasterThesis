@@ -1,0 +1,9 @@
+Fantoomvoeding.
+Fantoomvoeding is een manier om met dezelfde bedrading zowel een te versturen signaal (wisselspanning) als voedingsspanning te leveren.
+Fantoomvoeding is mogelijk doordat gelijkstroom en wisselstroom elkaar niet storen.
+Fantoomvoeding wordt onder andere veel gebruikt in geluidsopnamestudios waar, vanwege hun uitstekende geluidskwaliteit, voornamelijk condensatormicrofoons gebruikt worden die een gelijkspanning nodig hebben
+om te kunnen functioneren. Die spanning bedraagt meestal 48 volt.
+Ook de koolmicrofoon en de toongenerator in een telefoontoestel hebben voeding nodig. De gelijkstroom door het toestel wordt bovendien gebruikt om te detecteren of de hoorn opgenomen is.
+Een andere toepassing is voor antenneversterkers. In de buurt van de antenne wordt een versterker geplaatst, en in huis wordt een voedingsapparaat op de coaxkabel en op het stopcontact aangesloten. De voeding geschiedt door dezelfde coaxkabel die ook het antennesignaal transporteert.
+Technische informatie.
+Fantoomvoeding van microfoons wordt voorzien als een gelijkspanning tussen beide signaaladers enerzijds en de massa anderzijds. De beide signaaladers staan dus op hetzelfde potentiaal. In de XLR-connector betekent dit dat pin 2 en pin 3 op +48V staan t.o.v. de nulreferentie op pin 1. Het grote voordeel van deze manier van werken is dat fantoomvoeding compatibel is met dynamische microfoons, die immers geen fantoomvoeding nodig hebben.

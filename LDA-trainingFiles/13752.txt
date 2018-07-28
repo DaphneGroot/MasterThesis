@@ -1,0 +1,11 @@
+Quake.
+Quake is een populair computerspel ontwikkeld door id Software uit 1996.
+Het is een zogeheten first-person shooter uitgebracht op 22 juni 1996, net zoals Wolfenstein 3D en Doom, waarbij de speler door de ogen van een personage kijkt en opdrachten dient te vervullen of zo veel mogelijk 'vijanden' dient te elimineren. Quake is vooral populair als netwerkspel, waarbij meerdere spelers tegen elkaar spelen.
+"Quake" maakt gebruik van het frags-scoresysteem. Van Quake zijn meerdere opvolgers gemaakt: "Quake II", "Quake III Arena" en "Quake 4".
+Met de derde uitgave van Quake kwam de Arena-engine uit, dat een spelsysteem is om met meerdere spelers over het internet of LAN te spelen.
+In 1999 werden delen van de broncode van Quake vrijgegeven onder de GPL. Hierdoor is het spel ook populair onder wetenschappers in de kunstmatige intelligentie, die bijvoorbeeld proberen de computertegenstanders 'slimmer' te maken.
+Per level wordt alle kaartinformatie in een BSP-bestand opgeslagen, die door spelers met behulp van een "map editor" ook zelf kunnen maken.
+Verhaal.
+In Quake II, 4 en QuakeWARS (Quake I en Quake III hebben geen enkele relatie met deze verhaallijn) wordt in de 21e eeuw de mensheid aangevallen door een barbaars buitenaards soort bekend als de "Strogg". Deze Strogg zetten de aanval in omdat ze menselijke/dierlijke onderdelen nodig hebben om hun leger aan te vullen: de Strogg zijn namelijk een machineras dat gevallen tegenstanders mechaniseert om hen weer tot leven te brengen (indien nodig), hen sterker te maken maar ook geheel willoos. Wanneer de natuurlijke bronnen van de aarde op beginnen te raken begint de mensheid een tegenoffensief op de Strogg thuisplaneet: Stroggos. Dan komen ze erachter dat de Strogg denken en communiceren via een neuraal computersysteem bekend als de Nexus. De leider van de Strogg is de Makron, een wandelend arsenaal.
+Muziek.
+De muziek in Quake werd gecomponeerd door Trent Reznor, oprichter van de band Nine Inch Nails. Reznor gebruikte ambient geluiden en klanken om een atmosferische sfeer neer te zetten. Reznor gaf aan tijdens een interview dat het geen muziek is, maar een textuur of klanktapijt van draaiende machines en diverse verzamelde klanken. Hij probeerde hiermee een duistere en angstaanjagende sfeer te creëren.

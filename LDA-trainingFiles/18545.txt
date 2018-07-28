@@ -1,0 +1,5 @@
+EPOC.
+Osaris-PDA van Oregon Scientific met EPOC
+EPOC is de naam van een besturingssysteem voor zakcomputers (ook bekend als PDA's). Het besturingssysteem is ontwikkeld door Psion.
+Het EPOC-besturingssysteem komt voor op zakcomputers vanaf de Psion Series 5. Op eerdere modellen komt een 16-bits versie van EPOC voor, die meestal SIBO wordt genoemd.
+Bij de oprichting van Symbian werd besloten om de term EPOC alleen te gebruiken voor de 32-bits versie van het besturingssysteem. De term SIBO heeft zowel betrekking op de oudere versie van het besturingssysteem als op de bijbehorende hardware-architectuur. Als er over SIBO wordt gesproken, bedoelt men meestal de oudere Psion-handhelds, zoals de Series 3, 3a, 3c, 3mx en Siena.

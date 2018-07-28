@@ -1,0 +1,21 @@
+Vriespuntsdaling.
+Oplossen van natriumchloride in water zorgt ervoor dat het vriespunt daalt.
+Vriespuntsdaling of cryoscopie is het verschijnsel waarbij de temperatuur waarop een vloeistof vast wordt, daalt als er andere stoffen in opgelost zijn. Het is één van de colligatieve verschijnselen van een vloeistof.
+Het bepalen van de vriespuntsdaling van een vloeistof door oplossen van een bepaald product, is een methode om de molaire massa van dat product te bepalen. De mate van vriespuntsdaling is namelijk niet afhankelijk van de soort opgeloste stof, maar alleen van het aantal opgeloste deeltjes. Hoe meer deeltjes er opgelost zijn, hoe meer het vriespunt van het oplosmiddel daalt.
+waarin m de molaliteit van de oplossing voorstelt.
+Rekenvoorbeeld 1.
+Er wordt 68,46 g suiker (brutoformule is C12H22O11) in 0,10 kg water opgelost.
+Dit betekent dat formula_3 gram per 1,0 kg water.
+De molmassa van suiker is 342,3 g/mol.
+De vriespuntsverlaging wordt dus: formula_4
+Rekenvoorbeeld 2.
+Er wordt 58,44 g keukenzout (NaCl), de molmassa is 58,44 g/mol), in 1,0 kg water opgelost.
+formula_5 gram per 1,0 kg water.
+Omdat NaCl bij oplossen in water in ionen splitst moet hiermee rekening worden gehouden.
+1 mol NaCl zal bij oplossen in water splitsen in 1 mol Na+ en 1 mol Cl- Het aantal deeltjes is dus tweemaal zo groot. Dit betekent dat formula_6.
+De vriespuntsverlaging wordt dus: formula_7
+Een in water oplosbaar zout levert een grotere vriespuntsdaling dan een stof die niet splitst in ionen.
+Rekenvoorbeeld 3.
+Er wordt 138,2 gram onbekende stof X in een mengsel van water en ijs van 1,0 kg van 0°C opgelost. Na het oplossen is de temperatuur van het water+ijs -5,58°C. De vriespuntsdaling ΔT = 5,58.
+formula_8 → formula_9
+Hieruit volgt M = 46,1. De molmassa van stof X is dus 46,1 g/mol.

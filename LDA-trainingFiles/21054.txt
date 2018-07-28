@@ -1,0 +1,4 @@
+WDC 65816.
+De 65816 is een 16 bitvariant van de 6502-processor van halfgeleiderfabrikant Western Design Center. De processor is softwarematig compatibel met de 6502.
+Toepassingen.
+De 65816 is toegepast in de Nintendo Super-NES en de Apple IIgs.

@@ -1,0 +1,22 @@
+RPG (programmeertaal).
+RPG is een programmeertaal uit de jaren zestig, die tot op heden met name wordt gebruikt door programmeurs op de IBM System i-midrangesystemen van IBM. Alhoewel RPG door veel moderne programmeurs wordt verafschuwd, is de recentste variant ILE-RPG een krachtige programmeeromgeving, die mogelijkheden biedt voor webtoepassingen.
+Geschiedenis.
+RPG staat van oorsprong voor "Report Program Generator", een taal die, zoals de naam al aangeeft, bedoeld was voor het genereren van rapportages uit een informatiesysteem. Als zodanig was RPG een van de eerste programmeeromgevingen, waarbij de omgeving veel van het programmeerwerk wegnam bij de programmeur. De basis van RPG is de tabelleermachine, ook wel de holleritmachine genoemd. De tabelleermachine werd met stekkerdraadjes geprogrammeerd. De ponskaartinvoer was gesorteerd op een bepaalde codering. Bij wisseling van de codering werd automatisch een (tussen)totaal afgedrukt (cyclis). Dit automatisme maakt ook deel uit van RPG.
+Om dit te bewerkstelligen, werkte RPG met de "Logic Cycle", een iteratief proces waarin de standaard bewerkingen voor een batch-georiënteerd programma konden worden uitgevoerd, zoals het openen en sluiten van bestanden (tabellen), het lezen van het invoerbestand etc. De "Logic Cycle" stond de programmeur toe om in de resultaten in te grijpen door instructie op te nemen in de Calculations-routine. Deze routine wordt door de "Logic Cycle" aangeroepen nadat een invoerrecord (rij) beschikbaar is gemaakt, en voordat de uitvoer wordt weggeschreven. Deze calculations staan de programmeur toe om berekeningen te maken, eventueel informatie uit additionele bestanden (tabellen) op te halen en te verwerken, etc. Hoewel de "Logic Cycle" ook door de huidige RPG-versies ondersteund wordt, wordt deze in de praktijk nog amper gebruikt.
+Versies en evolutie.
+Vanaf de jaren tachtig heeft RPG een sterke evolutie doorgemaakt op de IBM-systemen 34, 36, 38 en de latere 400, eServer iSeries en de huidige System i. Toevoeging van schermafhandeling maakte het mogelijk interactieve programma's te maken. SQL werd beschikbaar gemaakt (maar weinig gebruikt) voor database toegang. Met RPG werd het mogelijk om CGI te implementeren, en op die manier webpagina's te maken. Ook zijn er diverse tools beschikbaar voor het bouwen van een grafische interface.
+In de laatste "free format"-versie is het mogelijk om gedeeltelijk af te wijken van het vaste formaat waarin de broncode is geschreven, waardoor het geheel qua structuur meer begint te lijken op andere talen als C, Pascal etc. Onder invloed van de eenvoud en de kracht van deze programmeertaal, zijn er ook pc-versies voor diverse RPG-varianten in de handel (geweest), maar door de onbekendheid heeft dit nooit een grote vlucht gehad. Op webpagina's is het inmiddels mogelijk om RPG-Script te gebruiken.
+Inleiding in de syntaxis.
+Een RPG-programma bestaat uit vast ingedeelde instructies, die oorspronkelijk maximaal 80 posities lang waren.
+Elke instructie bevat een "identifier" die het type van de instructie aangeeft.
+Elke instructie heeft een vaste indeling, waarbij de positie waar een entry staat bepaalt wat de functie van deze entry is.
+Waarbij de F bepaalt dat dit een bestandsdeclaratie is;
+De entry 'BESTAND' is de naam van het bestand (tabel) die moet worden geopend;
+De I aangeeft dat dit bestand voor Input wordt geopend;
+De P aangeeft dat dit het Primary bestand is (aansturend voor de Logic Cycle);
+De E aangeeft dat de definities van het bestand (tabel) en de records (rijen) en velden (attributen) extern kunnen worden opgehaald door de compiler;
+De entry 'DISK' aangeeft dat het een databestand betreft dat via het schijvengeheugen kan worden benaderd.
+Vergelijking van RPG-versies.
+In de eerste regel wordt variabele "HWSTR" gedefinieerd (als 11 posities alfanumeriek) en rechts aansluitend gevuld met de tekst "world". In de tweede regel wordt variabele "HWSTR" links aansluitend gevuld met "Hello", zodat de waarde van de variabele "Hello world" is. In één keer vullen is niet mogelijk doordat de vaste ruimte die nodig is voor een tekenreeks van die lengte te klein is. In de derde regel wordt de inhoud van variabele "HWSTR" op het scherm getoond. In de vierde regel wordt "indicator" LR aangezet, een systeemvlag die aangeeft dat het programma beëindigd kan worden.
+De truc met de variabele is hier niet nodig, omdat de ruimte vergroot is.
+Hierbij is de vaste indeling losgelaten.

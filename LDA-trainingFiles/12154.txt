@@ -1,0 +1,18 @@
+Zevenkamp (atletiek).
+De zevenkamp of heptatlon is een meerkamp waarbij zeven verschillende atletiekonderdelen worden afgewerkt. Er is een "outdoor"versie voor de vrouwen en een "indoor"versie voor de mannen.
+Algemeen.
+Deze versie wordt alleen door vrouwen beoefend, duurt twee dagen en werd geïntroduceerd op de Olympische Spelen in 1984 (Los Angeles) als olympische discipline.
+De regels van de afzonderlijke nummers zijn van toepassing, met een paar uitzonderingen. Bij de werpnummers en het verspringen, mogen er slechts drie pogingen worden gedaan in plaats van zes. Bij de loopnummers mag één valse start gemaakt worden, iedere volgende valse start leidt tot diskwalificatie.
+Bij elke discipline kunnen atleten punten verdienen, volgens een systeem dat is vastgelegd door de IAAF (uitleg over de telling in het artikel over de meerkamp). Het wereldrecord staat op naam van Jackie Joyner-Kersee met 7291 punten en werd gevestigd op de Olympische Spelen van 1988 in Seoel.
+Puntenberekening.
+A, B en C zijn parameters die per discipline verschillen, zoals is te zien in de tabel hieronder.
+P is de prestatie van de atleet in eenheden zoals deze in de laatste kolom staat weergegeven.
+Algemeen.
+Voor mannen wordt indoor een zevenkamp gehouden, die twee dagen duurt. In tegenstelling tot outdoor wordt er indoor geen tienkamp afgewerkt, omdat discuswerpen en speerwerpen binnen niet mogelijk zijn.
+Puntenberekening.
+Aanvullend op de variabelen voor outdoor, zijn er ook variabelen voor de indoor onderdelen op de vijf- en zevenkamp.
+A, B en C zijn parameters die per discipline verschillen, zoals is te zien in de tabel hieronder.
+P is de prestatie van de atleet in eenheden zoals deze in de laatste kolom staat weergegeven.
+Hieronder de extra variabelen voor de indoor afstanden voor de vijfkamp voor vrouwen en zevenkamp voor mannen.
+Voor de overige variabelen voor mannen, zie tienkamp.
+De vrouwen kennen de indoorzevenkamp ook, maar deze komt minder vaak voor. Gebruikelijk is dat indoor een vijfkamp wordt afgewerkt. Bij de vrouwen is de volgorde van de indoorzevenkamp anders dan die van de mannen: namelijk op de eerste dag 60 m, kogel, ver, pols en op de tweede dag 60 m horden, hoog en 1000 m.

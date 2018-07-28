@@ -1,0 +1,6 @@
+TomeRaider.
+TomeRaider was een tekstdatabasebrowser voor handhelds en Windows. Op handhelds was het een performante applicatie qua indexering en zoeksnelheid.
+TomeRaider was shareware. Er waren versies voor Pocket PC, PalmOS- en EPOC-handhelds en Windows. Er waren veel TomeRaider-ebooks en referentiewerken gratis te downloaden van het internet.
+De eerste versie verscheen in 1999 en werd ontwikkeld door Yadabyte, een software- en webontwikkelingsbedrijf uit het Verenigd Koninkrijk.
+Versie 3 (oktober 2004) introduceerde ondersteuning voor afbeeldingen en categorieën. De Windows- en Pocket PC-versies ondersteunen HTML volledig. Beperkte HTML-ondersteuning voor Palm-handhelds werd gerealiseerd in versie 3.
+Sinds april 2003 zijn diverse taalversies van Wikipedia ook beschikbaar in TomeRaider-formaat.

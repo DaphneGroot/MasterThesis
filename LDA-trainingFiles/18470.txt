@@ -1,0 +1,4 @@
+Bètafunctie.
+De bètafunctie van Euler is een speciale functie in de wiskunde, die gedefinieerd is als
+voor complexe getallen x en y waarvan het reële deel groter is dan 0. Deze functie is symmetrisch in formula_2 en formula_3, wat wil zeggen dat formula_4.
+De bètafunctie is gerelateerd aan de gammafunctie; er geldt

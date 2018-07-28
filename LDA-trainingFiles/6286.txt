@@ -1,0 +1,5 @@
+Toxische equivalentiefactor.
+De toxische equivalentiefactor (TEF) is de eenheid waarmee verschillende dioxinen en pcb's qua giftigheid met elkaar kunnen worden vergeleken.
+Elk samenstelsel van dioxinen of dioxineachtige pcb's heeft een andere toxiciteit. De TEF is geïntroduceerd om de risicobeoordeling van deze mengsels en de wettelijke controle te vergemakkelijken.
+Per definitie is de toxiciteit van 1 eenheid 2,3,7,8-TCDD (2,3,7,8-tetrachloor-dibenzo-p-dioxine), de giftigste bekende dioxineverbinding, gelijk aan 1 eenheid TEF.
+De toxische equivalentie (TEQ) is de totale toxiciteit van een mengsel van pcb's. Om de TEQ van een mengsel te berekenen, wordt de hoeveelheid van elke pcb in het mengsel vermenigvuldigd met haar TEF. Vervolgens worden al deze resultaten opgeteld.

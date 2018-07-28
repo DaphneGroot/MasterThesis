@@ -1,0 +1,15 @@
+Bol (lichaam).
+Een bol is een driedimensionaal lichaam waarvan alle punten die het oppervlak vormen, zich op dezelfde afstand van een punt, middelpunt geheten, bevinden. Deze afstand heet de straal. Een bol is het driedimensionale analogon van een cirkelschijf, en kan verkregen worden als omwentelingslichaam bij draaiing van een cirkelschijf om een middellijn.
+Het oppervlak van een bol wordt sfeer of eenvoudigweg boloppervlak genoemd.
+In de hogere wiskunde veralgemeent men het begrip van een bol (en zijn rand, de sfeer) naar willekeurige dimensies. De terminologie is niet eenduidig. In willekeurige dimensies wordt een bol als lichaam ook volle bol of bal genoemd, terwijl het oppervlak, behalve als bol en boloppervlak, ook als sfeer wordt aangeduid.
+Eigenschappen.
+De oppervlakte van een bol of sfeer met straal formula_1 is
+Het volume van een bol met straal formula_1 is
+Merk op dat de afgeleide van de inhoud van een bol naar de straal, de oppervlakte is. Dit geldt ook in hogere dimensies.
+Differentiaalvergelijking.
+Elk boloppervlak (sfeer) wordt beschreven door de differentiaalvergelijking
+Voorbeelden.
+De bol heeft als eigenschap dat hij van alle mogelijke driedimensionale vormen met dezelfde inhoud de kleinst mogelijke oppervlakte heeft. Door het aannemen van deze vorm wordt bijvoorbeeld een minimale energie verkregen uit de oppervlaktespanning. Als gevolg hiervan zijn veel voorwerpen in de natuur bolvormig.
+Perfect bolvormige voorwerpen bestaan niet in de natuur. Zelfs een zwaar hemellichaam zoals de aarde is door de draaiing om zijn as enigszins afgeplat aan de polen (ellipsoïde). Ook de andere planeten en de sterren zijn min of meer bolvormig.
+In veel sporten gebruikt men een bolvormig speelobject, een bal.
+Licht of geluid afkomstig van een puntbron plant zich in een homogeen medium in alle richtingen even snel voort. Dit duidt men aan met bolvormige uitstraling of bolvormige voortplanting.

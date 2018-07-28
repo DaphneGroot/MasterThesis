@@ -1,0 +1,28 @@
+Golf (natuurkunde).
+Een golf is een zich ruimtelijk voortplantende verandering (verstoring) of trilling van een plaats- en tijdsafhankelijke fysische grootheid. Men onderscheidt mechanische golven, die aan een medium zoals lucht, water en metaal, gebonden zijn, en golven die zich in het luchtledige kunnen voortplanten, zoals elektromagnetische straling, materiegolven en zwaartekrachtsgolven.
+Mechanische golven.
+Mechanische golven ontstaan door een verstoring (zie structuuranalyse) van een deel van een elastisch medium. Die verstoring veroorzaakt een trilling rond een evenwichtspositie. Wegens de elastische eigenschappen van het medium zal de storing zich voortplanten van het ene punt naar het volgende. De snelheid van deze voortplanting wordt bepaald door de wisselwerking tussen de traagheid en de elasticiteit van het medium.
+De elasticiteit ligt aan de basis van krachten die de toestandsverandering door de storing ongedaan willen maken, terwijl de traagheid zich tegen het herstel verzet.
+Soorten.
+Een ander onderscheid betreft de richting van de verstoring.
+Transversale golf.
+Bij een transversale golf staat de richting waarin de deeltjes in het medium trillen loodrecht op de voortplantingsrichting van de golf, zodat een opeenvolging van bergen en dalen ontstaat.
+Longitudinale golf.
+Bij een longitudinale golfstaat de richting waarin de deeltjes van het medium trillen evenwijdig aan de voortplantingsrichting van de golf, zodat er een opeenvolging van verdichtingen en verdunningen ontstaat.
+Energietransport.
+Proefondervindelijk is vastgesteld dat een watergolf drijvende voorwerpen doet bewegen, waarmee een energieoverdracht aangetoond is tussen de golf en deze voorwerpen. De energie van de golf bestaat uit kinetische energie en potentiële energie. Deze energie wordt doorgegeven tussen de opeenvolgende delen van het medium. Men kan dus stellen dat mechanische golven een energietransport voorstellen zonder dat het medium zich verplaatst.
+Algemene golfvergelijking.
+Omdat de golfvergelijking lineair is, kan elk fysisch golfverschijnsel worden beschreven als een lineaire superpositie van zulke sinusoïden met verschillende frequenties en amplitudes.
+Wiskundige beschrijving.
+De beschrijving van deze fenomenen kan met eenvoudige wiskundige modellen gebeuren zolang men zich beperkt tot conservatieve krachten (klassieke mechanica) die vervormingen veroorzaken binnen de elasticiteitsgrenzen van de wet van Hooke.
+Vergelijking van een sinusoïdale golf.
+Als de golf zich voortbeweegt in de richting van de negatieve x-as, is de vergelijking
+De betekenis van de verschillende parameters wordt hieronder verder uitgelegd.
+Karakterisering van golven.
+Nu zijn er ook bewegingen die noch het ene noch het andere zijn. De waterdeeltjes in een golf aan het oppervlak van water zullen niet alleen op en neer gaan, maar ook heen en weer, waarbij ze elliptische banen beschrijven tijdens de doorgang van de golf.
+Lichtgolven zijn geen mechanische golven. De storing die zich verplaatst is geen massabeweging maar een elektromagnetisch veld. Men noemt ze transversale golven omdat de elektrische en magnetische velden loodrecht staan op die verplaatsing.
+Baan van de deeltjes.
+Golven kunnen ook beschreven worden volgens de baan van een deeltje in functie van de tijd. Neem een strak gespannen touw, waarbij we een eenmalige ruk geven aan het uiteinde. Hierdoor ontstaat een golf die zich beweegt naar het andere uiteinde. Elk deeltje van het touw zal in rust zijn, totdat de puls dit punt bereikt heeft. Indien we een reeks pulsen induceren dan zullen we een reeks golven krijgen. Voeren we een harmonische beweging uit, dan zullen we een harmonische reeks golven krijgen.
+Driedimensionale golven.
+Neem nu een driedimensionale puls. Vanuit een punt vertrekt een golf die zich in alle richtingen uitbreidt. Alle punten met een gelijkaardige storing kunnen voorgesteld worden volgens een oppervlak. Voor een puntbron krijgen we een oppervlak dat zich sferisch uitbreidt in functie van de tijd. Dit oppervlak noemt men een golffront. De lijn loodrecht op het golffront (de normaal op het golffront) wordt de golfnormaal of de straal genoemd.
+We kunnen dit toepassen voor opeenvolgende pulsen. Indien de opeenvolgende pulsen periodiek zijn, dan kunnen we oppervlakken bepalen waarvan alle punten in fase met mekaar zijn. Is het milieu homogeen en isotroop, dan zal de verplaatsing loodrecht staan op dit golffront.

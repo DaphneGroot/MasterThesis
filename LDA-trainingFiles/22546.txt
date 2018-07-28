@@ -1,0 +1,178 @@
+Drogreden.
+"Wanneer een Bewys de gedaante van Waarheid met zich brengt en evenwel ons doet dwaalen, is 't een Drogreden." Isaac Watts, 1757.
+Een drogreden (schijnreden, sofisme) is een reden of redenering die niet klopt, maar wel aannemelijk lijkt.
+De oudste bekende teksten hierover zijn de dialoog "Euthydemus" van Plato, waarin een reeks onbenoemde drogredenen de revue passeert, en het werk "sophistikoi elenchoi" van diens leerling Aristoteles. In dit werk werden door hem diverse figuren voor het eerst benoemd en ontleed. Het staat nog steeds model voor publicaties over drogredenen, denkfouten, informele logica en argumentatieleer.
+Algemeen.
+Net als een goede redenering bestaat een drogreden uit een of meer premissen (aannames) of axioma's (algemeen aanvaarde stellingen), waaruit na het stellen van een causaal verband een conclusie wordt getrokken, of een aantal argumenten, waarmee een mening wordt onderbouwd. De conclusie van een drogreden kan zowel juist als onjuist zijn, maar een drogreden voldoet niet aan de voorwaarden van geldigheid en gezondheid. Dat wil zeggen dat de redenering niet geldig is (dan klopt de vorm van de redenering niet) en/of niet gezond is (dan zijn de stellingen niet geldig). Onderscheidend voor een drogreden is dat er foutief overgegaan wordt van premissen naar een conclusie.
+Drogredenen worden vaak opzettelijk gebruikt door demagogen. Volgens de Britse filosoof Jeremy Bentham konden ze enkel dienen om al wat krom is schijnbaar "recht" te praten: "Abuse can only be defended by fallacies".
+Drogredenen worden echter ook nogal eens "on"opzettelijk gebruikt door mensen die niet weten dat het drogredenen zijn, maar veronderstellen dat het correcte argumenten zijn (het zijn dan eerder denk- of redeneerfouten). Verder worden drogredenen vaak in humor gebruikt. In dat geval ligt het bedrieglijke van de gepresenteerde gedachtegang er meestal dik bovenop. Doorgaans draait het dan om een dubbelzinnigheid of het met nogal absurde gevolgen wisselend in een "ruime" dan wel "enge" betekenis hanteren van eenzelfde term.
+Doordat veel mensen in discussievoeringen er gebruik van maken spelen drogredenen een belangrijke rol in de samenleving. Gezien de beperkte leefomgeving van veel mensen komen bijvoorbeeld anekdotische drogredenen veelvuldig voor. De persoon haalt in zijn betoog dan voorbeelden uit de directe leefomgeving aan om zijn standpunt (op een incorrecte manier) te onderbouwen.
+Ook in reclame komen drogredenen veelvuldig voor. In de bewering "de meeste tandartsen bevelen X aan" is bijvoorbeeld sprake van een beroep op autoriteit, met als impliciete conclusie dat X het beste zou zijn. Een ander cliché is: "Dermatologisch getest!" Immers, zolang de resultaten er niet bij worden vermeld, is dit geen logisch argument om een bepaald product te kopen.
+Indeling.
+Reeds in de klassieke oudheid onderscheidde men verschillende soorten drogredenen. Deze zijn nog steeds bekend onder hun Latijnse namen die er in de middeleeuwse scholastiek aan werden toegekend, zoals "Argumentum ad baculum", "Argumentum ad populum" en "Argumentum ad misericordiam". Ook aan 'moderne' drogredenen wordt wel een Latijnse naam toegekend, bijvoorbeeld de "Reductio ad Hitlerum".
+Drogredenen gebaseerd op een fout in de logica.
+Dit zijn drogredenen waarbij er een fout in de logica van de redenering zit. Het zijn foutieve deductieve redeneringen.
+"Argumentum ad ignorantiam" (argument van de onwetendheid).
+Voetstoots wordt aangenomen dat een stelling waar is, omdat niet is bewezen dat zij onwaar is. Of omgekeerd: er wordt aangenomen dat een stelling onwaar is, omdat niet is bewezen dat zij waar is.
+Onjuiste logica: als iemand een vriendin heeft, dan gaat hij ermee op stap en dan zie ik dat.
+Een uitzondering waar deze argumentatie niet als drogreden geldt, is in de rechtszaal ("U bent onschuldig totdat het tegendeel bewezen is"). In dat geval is er sprake van bewijslast. Het is ook niet zozeer een wijze van argumenteren, maar een juridische oplossing voor het geval iets niet bewezen kan worden: een aanname, een premisse, die in het maatschappelijk leven een axioma blijkt te worden.
+Vals dilemma.
+Hierbij wordt ten onrechte het principe van de uitgesloten derde ("tertium non datur") toegepast.
+Er is ook een generaliserende variant.
+Mensen worden in een vals dilemma gedwongen door te doen alsof er maar twee keuzes zijn, terwijl er meer zijn.
+Het valse dilemma wordt ook wel zwart-witdenken genoemd.
+Vals compromis.
+Hierbij wordt ten onrechte aangenomen dat, wanneer twee verschillende standpunten als feitelijk juist gepropageerd worden, het compromis tussen die twee de waarheid het best beschrijft.
+"Argumentum ex silentio" (wie zwijgt stemt toe).
+Een conclusie op grond van iets dat niet gezegd wordt, dus een stellingname die wordt afgeleid uit zwijgen.
+"Non sequitur" (het volgt er niet uit).
+Een drogreden waarbij de spreker een mening of conclusie formuleert die logisch gezien niet uit de argumenten of premisse volgt.
+De onjuiste logica komt voort uit het feit dat de verkeerde getallen vergeleken worden. Het is zaak het percentage alcoholdrinkers dat in een ongeval terechtkomt te vergelijken met het percentage van de koffiedrinkers dat in een ongeval terechtkomt.
+"Retrorsum causa et effectus" (omkering van oorzaak en gevolg).
+Deze redenering is onjuist, omdat het gebruik van een rolstoel meestal geen oorzaak is van een ongeval, maar het gevolg.
+"Post hoc ergo propter hoc" (na dit, dus door dit).
+Er wordt een oorzakelijk verband gesuggereerd dat er in werkelijkheid niet hoeft te zijn. Feit B treedt op na feit A en feit B wordt daarom gepresenteerd als gevolg van feit A.
+"Cum hoc ergo propter hoc" (met dit, dus door dit).
+Net als bij de bovenstaande drogreden wordt hier een oorzakelijk verband gesuggereerd dat er in werkelijkheid niet hoeft te zijn. Het verschil is dat feit A en B nu tegelijk optreden.
+Bevestiging van het gevolg.
+Een conclusie trekken die gebaseerd is op het gevolg van die conclusie.
+Willekeurige correlatie.
+Zoeken van correlaties tussen om het even wat.
+Hier worden verbanden gezien tussen twee zaken die niet per se met elkaar te maken hebben. Als men hierop statistisch onderzoek doet is er (bijna) altijd een onderzoek dat een merkwaardig resultaat geeft. De normale onderzoeken komen nooit naar boven. In de statistiek is het een basisregel dat een sterke correlatie geen aanleiding mag zijn om te speculeren over een oorzakelijk verband.
+Negeren van alternatieve hypothesen.
+Over het hoofd zien van alternatieve hypothesen.
+Secundum quid (overhaaste generalisatie/wet van de kleine getallen).
+De juistheid van de stelling wordt aangetoond met één of meerdere voorbeelden of een niet-representatieve steekproef.
+Dit is vooral populair in de vorm van een anekdote (anekdotisch bewijs), een verhaal dat de spreker zelf heeft meegemaakt of van (goede) vriend of kennis heeft gehoord.
+Het wordt al helemaal interessant als er een klein statistisch onderzoek naar wordt gedaan, dat echter nog lang niet representatief is; (selectieve waarneming, zie ook "Misbruik van statistische gegevens").
+De denkfout is hier dat er een algemene regel wordt afgeleid uit slechts enkele gevallen, in filosofische termen een inductie met een te smalle basis.
+Vergelijkbaar met pars pro toto: Aan de hand van een detail, een conclusie over het geheel vellen. Ook door één argument te weerleggen menen de these weerlegd te hebben.
+Drogredenen gebaseerd op onjuiste premissen.
+Dit zijn drogredenen waarbij in de premissen verkeerde aannames worden gedaan en dus onjuiste premissen worden gebruikt.
+Ad hominem (op de persoon).
+Persoonlijke aanval op de tegenstander om zijn geloofwaardigheid in twijfel te trekken en zodoende ook zijn standpunt. Op de man spelen en niet op de bal.
+Tu quoque (jij ook, jij-bak).
+Dit refereert aan een verwijt van schijnheiligheid: je ontzegt de ander recht van spreken vanwege zijn eigen gedrag, of uitspraken in het heden of verleden. Dit is een specifieke vorm van de persoonlijke aanval.
+Het wordt ook wel jij-bak genoemd.
+Onjuiste premisse: alles wat je zelf doet of gedaan hebt moet je altijd goedkeuren.
+Het feit dat iemand niet naar zijn eigen stelling handelt, doet niets af aan de waarde van die stelling zelf.
+Ad verecundiam (autoriteitsargument).
+Bij de drogreden "ad verecundiam" gebruikt men de (veronderstelde) autoriteit van een externe persoon of instantie als argument voor de juistheid van een bewering. Op zichzelf is het autoriteitsargument geen drogreden. Het steunt echter op een onderliggende, verborgen aanname, namelijk dat spreker en toehoorders de betreffende autoriteit ook als zodanig erkennen. Klopt die verborgen aanname niet, dan is logischerwijs ook het autoriteitsargument niet correct. In dat geval is sprake van een drogreden.
+Onjuiste premisse: alles wat de paus zegt is waar.
+Subcategorieën van het beroep op autoriteit zijn het "argumentum ad lazarum" (iemand die arm is heeft gelijk) en het "argumentum ad crumenam" (iemand die rijk is heeft gelijk).
+Ad populum (met het oog op het volk).
+Hiervan is sprake wanneer men de juistheid van een stelling tracht te bewijzen door aan te voeren dat er een meerderheid voor te vinden is. In zekere zin is dit (paradoxaal genoeg) een democratisch autoriteitsargument. Zie ook populisme.
+Onjuiste premisse: de meerderheid heeft altijd gelijk.
+Ad chartam (beroep op documenten/papier).
+Een argumentum ad chartam beroept zich op een geschreven autoriteit. De stelling wordt verdedigd met de reden "het staat toch op papier?". Deze drogredenering vindt vaak plaats op hogescholen en universiteiten tussen student en docent.
+Reductio ad Hitlerum.
+Deze drogreden is een specifieke ad hominem en kan ook een willekeurige correlatie zijn: als iemands argument of mening overeenkomt met iets dat Adolf Hitler en/of de nazi's ook vonden, is het automatisch verwerpelijk en/of fout.
+Op internet komt dit vaak voor als de Wet van Godwin.
+Onjuiste premisse: Alles wat iemand zegt dat in verband kan worden gebracht met een slecht persoon moet vanzelfsprekend verkeerd zijn (bij Jeremy Bentham is dit de "hobgoblin fallacy" (naar de hobgoblin, een kwaadaardige geest uit de Angelsaksische folklore)).
+Tijdsargumenten.
+In deze categorie steunen de premissen ofwel op de aanname dat wat vroeger het geval was, iets nu ook geldig maakt, ofwel dat bepaalde zaken juist niet meer bij de huidige tijd passen en daarom ongeldig zijn.
+Ad antiquitatem (beroep op traditie/het verleden).
+Bij het beroep op traditie wordt het feit dat iets in het verleden zus of zo gedaan is, als argument aangevoerd om het op die wijze te doen. Soms is er de verborgen aanname, dat alles wat in het verleden goed gewerkt heeft en daardoor een positieve reputatie heeft opgebouwd, ook nu nog goed zal werken. Dat hoeft echter niet het geval te zijn. De drogreden gaat eraan voorbij dat er intussen betere methoden kunnen bestaan.
+Onjuiste premisse 1: zo'n oud middel moet wel probaat zijn - anders werd het niet al zo lang gebruikt!
+Onjuiste premisse 2: In deze oude culturen bezat men minstens evenveel geneeskundige kennis als wij nu. Echter, de destijds geldende medische kennis kan intussen sterk achterhaald zijn. Bovendien ontbreekt vaak documentatie over de werking en het gebruik van het geneesmiddel in de oudheid.
+Onjuiste premisse: mensen kunnen en zullen zich niet zo'n lange tijd vergissen.
+Onjuiste premisse: Wie langer ergens lid of werkzaam is, weet het beter.
+Ad novitatem (beroep op moderniteit).
+Bij deze drogreden wordt er gesteld dat moderne praktijken per definitie beter zijn dan ouderwetse, die achterlijk zouden zijn. Het moderne wordt opgehemeld als het juiste zonder verdere onderbouwing.
+Het tijdstip of jaartal wordt zonder verdere toelichting gebruikt als argument om de bewering te verdedigen. Het naakte verspringen van een jaartal maakt een voorheen onjuiste bewering niet waar, tenzij dat jaartal zelf deel uitmaakt van de bewering, bijvoorbeeld: "De jaren tachtig zijn voorbij."
+Onjuiste premisse: een recente bewering bevat meer waarheid.
+Ad passiones (beroep op emotie).
+Deze argumenten proberen de tegenstander op onredelijke wijze te overtuigen.
+Ad metum, in terrorem, ad baculum (beroep op angst).
+Drogreden met beroep op angst, ook wel "drogreden met de stok" genoemd.
+Ad odium (beroep op wrok).
+Onjuiste premisse: 'je pakt Jan terug' is het logische gevolg van 'jij stemt voor mij'.
+Let wel: dit is een drogredenering omdat de premisse niet klopt. Maar het kan in werkelijkheid wel juist zijn.
+Ad misericordiam (beroep op medelijden).
+Dit is proberen iemand te overtuigen door een beroep te doen op zijn medelijden.
+Beroep op genade.
+Het omgekeerde van Ad misericordiam: de spreker toont mededogen met de toehoorder door niet in te gaan op het complexe bewijs met hoge moeilijkheidsgraad of onprettige onthullingen. Dit is tegelijk het ontduiken van de bewijslast, zie verderop.
+Bewijs per intimidatie.
+Het ligt aan de ander dat het niet begrepen wordt.
+De opzet is om tegenstanders ervan te weerhouden het standpunt tegen te spreken, doordat de opponent impliciet zou toegeven geen weldenkend mens te zijn.
+Beroep op vleierij.
+De spreker probeert de ander over te halen door diegene te vleien met mooie woorden. De ander kan vervolgens de aan haar of hem toegedichte positieve eigenschap bevestigen door zich over te laten halen. Dit is een positieve vorm van een ad hominem en het omgekeerde van het bewijs per intimidatie.
+In de praktijk kan dit werken, zolang men accepteert dat het vleiende gedeelte slechts een nevenschikkend argument is, omdat hetgeen de spreker wil bereiken er niet per se uit volgt (non sequitur). Een weigerend antwoord dat de vleierij niet ontkent kan zijn: "Ik ben misschien..., maar dat wil nog niet zeggen dat ik voor jou..."
+Wishful thinking (Wensdenken).
+Zie hoofdartikel: Magisch denken. Hier neemt men aan dat iets waar is, omdat men vurig hoopt dat het waar is.
+Semantische drogredenen.
+Dit zijn drogredenen waarbij de conclusie bereikt wordt (of de toehoorder overtuigd wordt) door een onjuist gebruik van woorden.
+Ad nauseam (misleidende of nodeloze herhaling).
+Bij een misleidende herhaling wordt een niet-onderbouwd standpunt telkenmale herhaald, zodat (ten onrechte) de indruk kan ontstaan dat er overeenstemming over bestaat. De juistheid wordt aangetoond door verwijzing naar elders.
+Weerhoudt de opponent in de discussie ervan om nieuwe argumenten te kunnen aandragen, omdat steeds op hetzelfde gereageerd moet worden.
+Ambiguïteitsdrogreden.
+Bij deze categorie schuilt de drogreden in een ambigu gebruik van een woord(groep), zin(snede) of meerdere zinnen.
+Equivocatie.
+Het verwarren van meerdere betekenissen van hetzelfde woord (homonymie).
+No true Scotsman.
+Bij een "no true Scotsman" (Nederlands: "geen echte Schot") wordt een "ad-hoc"-poging gedaan om een generalisering in stand te houden om te voorkomen dat deze door een tegenvoorbeeld wordt weerlegd.
+Amfibolie.
+Het verwarren van twee manieren waarop dezelfde zin te ontleden is.
+Compositie-drogreden.
+Onjuist aannemen dat het geheel van toepassing is op alle onderdelen.
+Divisie-drogreden.
+Onjuist aannemen dat alle onderdelen van toepassing zijn op het geheel.
+Quote mining.
+Een citaat uit verband rukken op een manier waardoor die een andere betekenis krijgt dan in de context.
+In de context staat er: "De dwaas zegt in zijn hart: Er is geen God."
+Retoriek.
+Proberen de stelling van de ander met welsprekendheid te weerleggen, bijvoorbeeld met een absurdisme.
+Uiteraard is het gebruik van retoriek op zichzelf nog geen drogreden.
+Puzzel-denkfout.
+Ervan uitgaan dat een stelling juist is zolang men er maar een consistent en coherent verhaal bij heeft. In de wetenschapsfilosofie heet dit ook wel de coherentietheorie.
+Ignoratio elenchi.
+"Onbekendheid met de weerlegging": de spreker weerlegt de argumenten niet. Indien een burger de overheid verzoekt op een bepaalde regel een uitzondering te maken om redenen (a) en (b), is het correcte antwoord dat (a) en (b) niet van toepassing zijn, of dat het maken van de gevraagde uitzondering ongewenste consequenties kan hebben. Het antwoord kan niet bestaan uit het herhalen van de tekst van de regel.
+Bewijs van wapperende handen of bewijs van de tikkende tijd.
+De juistheid wordt met gebaren aangetoond.
+Bewijs op krediet (beroep op naderende aanvaarding).
+De spreker neemt een voorschot op het nog te leveren bewijs.
+Bewijs vanuit ontoegankelijkheid.
+De juistheid wordt aangetoond door verwijzing naar niet-traceerbare bronnen.
+Bewijs door subsidie.
+De juistheid wordt aangetoond door de steun die het verkrijgt.
+Deze drogredenering lijkt op het beroep op autoriteit.
+Omzeilen van de bewijslast.
+Dit zijn excuses om zelf geen geldige argumenten te hoeven geven. Drogredenen uit deze categorie kunnen allemaal terzijde worden geschoven met het scholastieke axioma: "Quod gratis asseritur, gratis negatur" (Wat kan worden beweerd zonder bewijs, kan worden afgewezen zonder bewijs).
+Ontduiken van de bewijslast.
+Redenen bedenken waarom men zijn stelling niet hoeft te onderbouwen.
+De stelling wordt verondersteld een gegeven te zijn, een a priori-waarheid.
+Hier wordt gesteld dat iets zo overduidelijk is of dat er geen nader argument dient te worden gegeven om aan te nemen dat iets het geval is; deze vorm van ontduiking van de bewijslast leunt aan tegen het bewijs per intimidatie.
+Deze drogreden veronderstelt dat er gewoonweg geen manier zou zijn om te bewijzen dat iets het geval is; er rest de tegenstander niets anders dan de stelling voor waar aan te nemen, waarbij deze vorm gaat lijken op een autoriteitsargument.
+Verschuiven van de bewijslast.
+Hierbij wordt gepoogd een eerder weersproken argument door middel van een ad-hoc-hypothese te redden of geprobeerd ongemerkt de oorspronkelijke stelling iets aan te passen om te voorkomen dat deze (volledig) weerlegd wordt. Dit heet ook wel "de doelpalen verplaatsen" ("moving the goalposts") zodat de tegenstander niet kan "scoren". Een bekend voorbeeld is "The Parrot Sketch" (1969) van Monty Python.
+Een ander voorbeeld is hoe apologeten, die geloven in de onfeilbaarheid van de Bijbel, de discrepantie tussen (volgens welke Jezus in of vóór 4 v.Chr. is geboren) en (volgens welke Jezus in of na 6 n.Chr. is geboren) proberen op te lossen.
+Omkeren van de bewijslast.
+Bij voorbaat al tegenargumenten van de tegenstander verlangen in plaats van zelf eerst de stelling te onderbouwen.
+De bewijslast ligt bij de aanklager. De verdachte hoeft niet te bewijzen dat hij onschuldig is.
+Degene die deze drogreden gebruikt hoopt hierbij de tegenstander tot een ex silentio te forceren wanneer die niet aan de omgekeerde bewijslast kan voldoen.
+"Petitio principii" (cirkelredenering).
+Van een cirkelredenering is sprake wanneer de bewering wordt aangevoerd als argument voor zichzelf.
+Berucht is de cirkelredenering van Descartes.
+"Ad consequentiam" (beroep op gevolgen).
+Een drogredenering met het oog op de consequenties. Men beargumenteert dat een stelling waar of juist onwaar is, omdat het tegendeel nadelige consequenties zou hebben.
+Hellend vlak.
+Argumentatie waarbij niet de zaak zelf als slecht wordt betiteld, maar de overtreffende variant die algemeen bekendstaat als slecht, als logisch gevolg wordt aangedragen. Daarmee wordt de zaak alsnog als slecht betiteld, zonder dat het logisch gevolg wordt bewezen. Dit wordt ook een "stepping stone-theorie" genoemd.
+Dit voorbeeld maakt duidelijk dat de hellendvlakredenering niet tot zinnige besluitvorming kan leiden.
+Deze drogreden wordt ook regelmatig aangeduid met de termen "domino-argument" en "slippery slope". Overigens is omstreden of het wel werkelijk een afzonderlijk type drogreden betreft: voorstanders van een dergelijke redenering stellen dat het gaat om een waarschuwing voor een, gelet op de verdere gevolgen, ongewenst precedent. Daarmee gaat de hellend vlak-redenering over in de vorige drogreden: beroep op gevolgen.
+Stropopredenering.
+Een standpunt van de tegenstander (impliciet) verdraaien of er een zelfbedachte karikatuur van optrekken, waardoor het gemakkelijker aan te vallen is, of op voorhand al in de ogen van velen bespottelijk lijkt.
+Hier wordt het standpunt "Ik ben tegen standpunt A" impliciet veranderd in "Ik ben tegen B".
+Hier wordt het standpunt "Er is een God" veranderd in een bespottelijke karikatuur. De tegenstander worden woorden in de mond gelegd, zodat de spreker een standpunt aanvalt dat de tegenstander nooit heeft verdedigd.
+Suggestieve vraag.
+Ook wel leidende, meervoudige of geladen vraag genoemd. Ergens ten onrechte van uitgaan wanneer men een vraag stelt.
+Als de ondervraagde 'ja' zegt, erkent hij dat hij zijn vrouw slaat en als hij 'nee' zegt erkent hij dat hij vroeger zijn vrouw heeft geslagen.
+Foutieve toepassing van Wet van Archimedes.
+Dit gaat over het foutief toepassen van de Wet van Archimedes naar analogie. Dus het met een simpele vermenigvuldiging schades vaststellen zonder met andere factoren rekening te houden.
+Buiten beschouwing wordt gelaten, dat rokers andere manieren van pauzeren zullen vinden, nadat ze gestopt zijn, kortom, dat iedereen pauze nodig heeft. Tijdens een pauze kun je in je hoofd nog aan een probleem werken of erover praten met andere collega's.
+Aan het feit dat niet alle nu gedownloade liedjes anders gekocht zouden zijn, wordt voorbijgegaan.
+Redeneringen die op drogredenen lijken.
+Sommige soorten redeneringen worden soms aangezien voor drogredeneringen, terwijl het in feite correcte redeneringen (kunnen) zijn.
+Bewijs uit het ongerijmde (Reductio ad absurdum).
+Hiermee wordt bewezen dat een stelling niet waar is, door aan te tonen dat men een absurde conclusie kan trekken als het wel waar zou zijn. De stelling wordt zodoende weerlegd met een absurdisme. Dit hoeft niet per se een drogreden te zijn. Door aan te tonen dat een stelling geen noodzakelijke waarheid is, kan men deze op geldige wijze weerleggen.
+Manipulatie met niet aangetoonde bijvoeglijke naamwoorden.
+De toehoorder wordt op het verkeerde been gezet door onterecht gebruik van bijvoeglijke naamwoorden. Doordat hier snel veel meer zinnen en tekst volgen wordt de toehoorder gemanipuleerd en lijkt de drogredenering op voorhand waar.

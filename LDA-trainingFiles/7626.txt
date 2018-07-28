@@ -1,0 +1,6 @@
+Chipset.
+Chipset is een in de computerbranche vaak gebruikte term om de geïntegreerde schakelingen aan te duiden die in samenwerking met de processor worden gebruikt op een bepaald moederbord. Meestal worden chipsets speciaal voor gebruik met een bepaalde processor ontworpen.
+De chipset bepaalt onder andere de maximumsnelheid waarmee het interne geheugen en de Front Side Bus kunnen werken. De chipset draagt zorg voor de communicatie tussen de processor en de rest van de computer (randapparatuur, geheugen).
+In het verleden bestond de chipset van een pc uit 2 aparte chips: de northbridge en de southbridge.
+De eerste regelde het snelle verkeer tussen de processor en het geheugen en de grafische kaart (via de AGP of PCI-E). De tweede zorgde voor communicatie met de relatief trage componenten van de pc: de harde schijf, diskettestation, toetsenbord, USB en de andere PCI-slots (sleuven) naast de grafische sleuven (AGP of PCI-E).
+Intel heeft de southbridge door de Platform Controller Hub (PCH) vervangen.

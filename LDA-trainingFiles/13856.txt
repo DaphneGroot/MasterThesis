@@ -1,0 +1,3 @@
+Novell exteNd Application Server.
+Novell exteNd Application Server is de applicatieserver van Novell die een fundament biedt voor het bouwen en lanceren van platformonafhankelijke en op standaarden bebaseerde applicaties. ExteNd Workbench, jBroker Web, jBroker MQ en jBroker ORB zijn inbegrepen bij de applicatieserver en voorzien in een infrastructuur en de gereedschappen die nodig zijn om "enterprise"-applicaties te bouwen. Novell exteNd Application Server is tevens compatible met onder andere IBM WebSphere en BEA WebLogic applicatieservers.
+Novells verbondenheid met J2EE en WebServices begint bij de betrokkenheid van de ontwikkeling van standaarden en resulteert in flexibele, portable, future-proof applicaties.

@@ -1,0 +1,15 @@
+Interferentie (natuurkunde).
+Animatie van interferentie van golven die uit twee puntbronnen komen. De kleur geeft de fase (golf) aan
+Interferentie van elektronen door Claus Jönsson 1959. Lijkt op patroon door spleet.
+Interferentiepatroon gemaakt met een Michelson interferometer. Heldere banden komen door constructieve interferentie, donkere door destructieve interferentie.
+Interferentie (letterlijk "storing") is de samen- of tegenwerking van verscheidene golven op dezelfde tijd en plaats. Er kunnen zich verschillende verschijnselen voordoen, afhankelijk van de frequentie, amplitude en fase van de golven en de eigenschappen van het medium. Er ontstaat in alle gevallen een interferentiepatroon met plaatsen van een hogere intensiteit, wanneer de golven "in fase" zijn. De golven versterken elkaar en er ontstaat een buikpunt. Dit wordt "constructieve interferentie" genoemd. Er ontstaan ook plaatsen met een lagere intensiteit, of zelfs volledige uitdoving, waar de golven elkaar opheffen. De golven zijn dan "in tegenfase" en er ontstaat een knooppunt. Dit wordt "destructieve interferentie" genoemd.
+Interferentie kan optreden bij elektromagnetische golven, geluidsgolven, watergolven, etc. Op het verschijnsel interferentie is de techniek van het antigeluid gebaseerd.
+Bij licht kan ook interferentie optreden: zie holografie.
+Ook elementaire deeltjes als elektronen vertonen interferentiepatronen, waarbij het golfkarakter van deze deeltjes tot uitdrukking komt. Deze experimentele verschijnselen staan aan de basis van de kwantummechanica.
+Twee geluidsgolven die in frequentie net iets van elkaar verschillen veroorzaken een kloppend geluid in het aantal hertz waarin ze van elkaar verschillen, dit verschijnsel noemt men zweving.
+Licht.
+Kleuren in olielaagjes op water door interferentie van wit licht
+dvd door interferentie van wit licht
+Moirépatronen zijn strikt genomen geen interferente, maar ze illustreren wel duidelijk hoe interferentie ontstaat.
+Zie ook.
+Interferentie van twee cirkelvormige golven – In de figuur neemt de golflengte van beneden naar boven af, terwijl de afstand tussen bronnen naar rechts toeneemt. De figuur toont de absolute waarden van de golven. Met de tijd bewegen de golffronten naar buiten van de middelpunten, maar de donkere gebieden (destructieve interferentie) blijven op hun plaats.

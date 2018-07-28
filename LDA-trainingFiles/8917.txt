@@ -1,0 +1,17 @@
+LaTeX.
+LaTeX (uitspraak: la-tech; traditioneel geschreven als formula_1) is het meest gebruikte pakket met macro's voor TeX, ontworpen door Leslie Lamport in 1984. De macro's uit dit pakket zorgen ervoor dat men op een eenvoudigere manier dan met zuivere TeX, teksten kan opmaken. LaTeX wordt vooral gebruikt om wetenschappelijke teksten op te maken.
+Meestal wordt met de term LaTeX het hele opmaaksysteem bedoeld waar de LaTeX-macro's strikt genomen slechts een klein onderdeel van zijn. Tot dat systeem behoren, naast TeX, LaTeX en allerlei macro-pakketten voor TeX, ook nog allerlei hulpprogramma's, bijvoorbeeld BibTeX, voor het maken van lijsten van literatuurreferenties, en bestandsformaatconversieprogramma's zoals dvips.
+LaTeX kan op vrijwel alle moderne computerplatformen gebruikt worden, waaronder Windows (bijvoorbeeld met het gratis pakket MiKTeX), Linux (LaTeX wordt vaak meegeleverd met de distributie) en Mac OS X. LaTeX is vrije software en valt onder de LPPL-licentie die verspreiding en ook wijziging van LaTeX toelaat. Oudere versies van de LPPL-licentie vereisen dat de gewijzigde bestanden een andere naam hebben, nieuwere versies vereisen enkel dat het duidelijk is dat het om een gewijzigde versie van LaTeX gaat.
+LaTeX is een markup-taal (en dus niet wysiwyg), maar men zegt soms wel dat LaTeX "WYMIWYG" is: "What you mean is what you get". Hiermee bedoelt men dat LaTeX ontworpen is zodat de auteur zich kan concentreren op de inhoud, en zich zo min mogelijk hoeft te bekommeren om de vorm. LaTeX automatiseert dan ook een heleboel, bijvoorbeeld paginaverwijzingen, betiteling (men zorgt ervoor dat titels nooit als laatste regel op een blad staan), positionering van afbeeldingen en woordafbreking. Ook kan men door middel van stijlbestanden relatief gemakkelijk een andere lay-out (bijvoorbeeld de huisstijl van de organisatie die het gaat publiceren), aan een document geven. Met behulp van programma's zoals TeXnicCenter, TeXstudio,TeXShop en TeXworks wordt het schrijven van LaTeX-documenten vergemakkelijkt, ook al zijn deze editors niet wysiwyg.
+Voorbeeld.
+% Na een procentteken staat commentaar
+\documentclass[a4paper] % Het is een artikel op A4-papier
+\usepackage[dutch] % Het pakket babel zorgt ervoor dat al de benamingen in het Nederlands zijn
+\begin % Hier begint de inhoud van het document
+\section % Hier begint een sectie met titel "Voorbeeld paragraaf".
+% De vorige regel was geen commentaar en verschijnt in het document
+\[% Dit zegt LaTeX dat er nu een wiskundige formule komt.
+\pi = \sqrt{6\sum_^\frac
+\left(\int_^e^\,dx\right)^2.
+\] % Dit zegt LaTeX dat de formule gedaan is.
+formula_2

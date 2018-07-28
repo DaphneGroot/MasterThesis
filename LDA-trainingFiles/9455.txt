@@ -1,0 +1,2 @@
+Lijst van landnummers in de telefonie.
+Dit is een lijst van landnummers in de telefonie. De sortering van deze lijst is op alfabetische volgorde van het land. De landnummers worden bij het bellen voorafgegaan door een internationale toegangscode die per land verschillend kan zijn.

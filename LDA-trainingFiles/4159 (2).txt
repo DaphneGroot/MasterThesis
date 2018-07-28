@@ -1,0 +1,40 @@
+Antiferromagnetisme.
+Twee mogelijke spinoriëntaties van een antiferromagnetisch materiaal
+Antiferromagnetisme is een vorm van magnetisme die optreedt in materialen die ongepaarde spins bevatten waartussen die wisselwerkingen die deze spins in tegengestelde richting willen plaatsen sterker zijn dan de wisselwerkingen die de spins evenwijdig trachten te zetten.
+Evenals bij ferromagnetisme, waar de krachtenverhouding tussen de twee typen wisselwerking precies andersom ligt, leidt de antiparallelle wisselwerking tot ordening van de magnetische momenten van de atomen. In tegenstelling tot ferromagneten hebben antiferromagneten geen spontaan magnetisch veld rond zich. Dit komt omdat in een ferromagneet de magnetische momenten van alle atomen even groot zijn. Als één of meerdere atomen namelijk een afwijkend magnetisch moment heeft, krijgt het totaal een magnetisch veld en is er sprake van ferrimagnetisme. De magnetische ordening zorgt er in dit geval voor dat de susceptibiliteit van het materiaal juist kleiner wordt dan het geval zou zijn zonder wisselwerking. De magnetische susceptibiliteit van antiferromagnetische materialen ligt tussen de formula_1 en formula_2.
+Eigenschappen van antiferromagneten.
+De sterke interactie tussen spins kan niet alleen verklaard worden door dipool interactie. Stel namelijk dat er twee spins met magnetisch moment formula_3 Bohrmagneton zich op een afstand van 3 Å van elkaar bevinden, dan is de interactie energie van de orde grootte van formula_4. Dit correspondeert met een temperatuur van 0.03 K, en aangezien er ook ferro- en antiferromagneten zijn die bij temperaturen van 1000 K en hoger deze eigenschap hebben, moet er dus een andere wisselwerking aanwezig zijn.
+formula_5
+waarin formula_6 positief is bij een ferromagneet en negatief is bij een antiferromagneet. Er zijn verschillende soorten uitwisselings interacties die een rol kunnen spelen bij antiferromagneten, zoals de directe interactie en de super interactie, waardoor complexe systemen kunnen ontstaan.
+Bij het berekenen of bepalen van eigenschappen van antiferromagneten wordt gebruik gemaakt van de gemiddelde veld (mean field) theorie. Hierbij wordt het effect van alle andere deeltjes op een bepaald deeltje vervangen door een goed gekozen extern veld.
+In een antiferromagneet zijn er twee verschillende roosters die elkaar afwisselen, één met spin up (A) en één met spin down (B). De mean field parameters formula_7 en formula_8 zijn hierbij positief, maar formula_9 is negatief. Dit geeft formula_10 en formula_11. Vanwege symmetrie geldt formula_12 en dan is er een formula_13 zodat als maar formula_14, dan formula_15.
+formula_16
+formula_17
+met formula_18 de Brillouin functie.
+Antiferromagnetisme in een magnetisch veld.
+Als er bij lage temperatuur een magnetisch veld in de richting van de spin-as wordt aangebracht, wordt er geen of nauwelijks een torque op de spins uitgeoefend waardoor de magnetische susceptibiliteit een stuk kleiner is dan bij paramagneten. Als de temperatuur echter verhoogd wordt verliezen de spins steeds meer hun ordering, waardoor ze steeds meer beïnvloed worden door het magnetisch veld. Door het grotere effect van het magnetisch veld stijgt dus ook de susceptibiliteit. Wanneer de Néel temperatuur bereikt wordt is de ordering totaal verloren en gedraagt het materiaal zich als een paramagneet. Voor temperaturen hoger dan de Néel temperatuur daalt de magnetische susceptibiliteit weer. Deze bereikt dus (voor de meeste materialen) een maximum bij de Néel temperatuur.
+Néel temperatuur.
+De magnetische orde wordt ook bij antiferromagneten bij een bepaalde temperatuur doorbroken. Bij antiferromagnetisme wordt deze temperatuur de Néeltemperatuur genoemd. Boven TN gedraagt een antiferromagneet zich paramagnetisch met dien verstande dat de inverse susceptibiliteit uitgezet tegen de absolute temperatuur weliswaar een rechte lijn geeft, maar deze lijn snijdt de temperatuuras (in extrapolatie) bij een "negatieve" temperatuur θ in plaats van bij T=0 (paramagneet) of een positieve T=TC (ferromagneet).
+Het snijpunt weerspiegelt dus de krachtenverhouding van de wisselwerkingen tussen de spins.
+Antiferromagnetische magnons.
+formula_21
+Neem formula_22 dan is H van de vorm formula_23 waarin het effectieve veld op de p-de spin formula_24. We weten dat de tijdsafgeleide van het impulsmoment formula_25 gelijk is aan de torque formula_26. Als de spin up op alle even roosters (2p) en de spin down op alle oneven roosters (2p+1) staan vinden we
+formula_27
+formula_28
+formula_29
+formula_30
+Wanneer we oplossingen beschouwen van de vorm
+formula_31
+formula_32
+Vinden we formula_33
+Voor ka«1 zien we dat formula_34 dus dat formula_35 lineair is in k.
+Frustratie.
+Wanneer we een 1-dimensionale antiferromagneet bekijken, is er een duidelijke voorkeurstoestand. Dit is de toestand waarbij de spins alternerend omhoog en omlaag staan (zie bovenste reeks in afbeelding). Wanneer we echter in 2 of meer dimensies kijken, kan het voorkomen dat er geen duidelijke voorkeurstoestand is. Bekijk bijvoorbeeld een rooster met als eenheidscel een driehoek. Het atoom linksonder heeft dan bijvoorbeeld spin up, en daardoor heeft het atoom rechtsonder spin down. Het atoom boven is nu wat we noemen gefrustreerd, geen van beide mogelijkheden (spin up of spin down) is energetisch gunstiger dan de ander. Van de formula_36 mogelijke toestanden zijn er in deze situatie dus 6 grondtoestanden en is er sprake van frustratie: een situatie waarin er meer dan één grondtoestand is.
+In 3 dimensies vindt hetzelfde probleem plaats bij bijvoorbeeld een tetrahedron. Daarnaast zijn er ook materialen waarbij verschillende wisselwerkingen een rol spelen, sommige ferromagnetisch en andere antiferromagnetisch. Hier zijn de wisselwerkingen afhankelijk van de afstand tussen spins en als resultaat treedt er helimagnetisme op.
+Voorbeelden van antiferromagneten.
+Een goed voorbeeld van een antiferromagnetisch materiaal is chroom. De Néeltemperatuur is 468 K. Legeringen van chroom met kleine hoeveelheden van het buurelement vanadium vertonen een snel afvallen van de Néeltemperatuur. Bij ca 5% V in Cr verdwijnt de ordening geheel en wordt het metaal een (Pauli-)paramagneet.
+Chroom is het enige pure materiaal dat een antiferromagneet is bij kamertemperatuur. Andere antiferromagneten zijn vaak samenstellingen van een overgangsmetalen met zuurstof, chloor of fluor. Voorbeelden zijn formula_37. Er zijn slechts enkele antiferromagnetische organische verbindingen.
+Toepassingen.
+Antiferromagnetisme speelt een grote rol in het GMR-effect dat in 1988 ontdekt werd door Albert Fert en Peter Grünberg, die in 2007 hier de Nobelprijs voor hebben gekregen. Het bijzondere van het GMR effect is dat de elektrische weerstand sterk afhankelijk is van het magnetisch veld waaraan zij worden onderworpen. Bij het aantonen van dit effect werd gebruik gemaakt van syntetische antiferromagneten. Syntetische antiferromagneten worden gemaakt door een aantal hele dunne lagen ferromagnetisch materiaal met de spins in tegengestelde richting aan elkaar te vormen. Het totaal heeft dan geen magnetisch moment, en is dus een antiferromagneet.
+Deze syntetische antiferromagneten kunnen ook worden gebruikt bij het zuiveren van water. Er worden deeltjes die de schadelijke stoffen kapotmaken of aan zich binden in het water gelaten, en om deze er later weer uit te halen wordt er een magnetisch veld aangelegd. Dit is mogelijk door de deeltjes een kern van syntetisch antiferromagnetisch materiaal te geven.
+Er zijn onderzoeken naar het opslaan van informatie in antiferromagnetische materialen. Op dit moment gebeurt dat veel in ferromagnetische materialen. Het voordeel van antiferromagneten boven ferromagneten is dat ze veel moeilijker te beïnvloeden zijn door externe magnetische velden, en de informatie daardoor veel minder snel verloren gaat. In antiferromagneten geeft een spin up dan een 1 weer, en een spin down een 0 waardoor codes op een logische manier opgeslagen kunnen worden.

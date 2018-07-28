@@ -1,0 +1,35 @@
+Compact.
+Het wiskundige begrip compact komt uit de topologie. Het probeert de notie te vatten van een "kleine" of "handelbare" topologische ruimte. Een topologische ruimte wordt compact genoemd als elk van haar open overdekkingen een eindige deeloverdekking heeft. Is dit niet het geval dan wordt zo'n topologische ruimte niet-compact genoemd.
+Merk op dat sommige auteurs zoals Bourbaki hiervoor de term "quasi-compact" gebruiken. Zij reserveren de term "compact" voor topologische ruimtes die zowel Hausdorff als "quasi-compact" zijn.
+De stelling van Heine-Borel laat zien dat deze definitie voor deelverzamelingen van de Euclidische ruimte R"n" gelijkwaardig is aan gesloten en begrensd. In R is het gesloten eenheidsinterval [0, 1] bijvoorbeeld compact, maar is de verzameling van de gehele getallen Z dit bijvoorbeeld niet (deze deelverzameling is niet begrensd). Ditzelfde geldt ook voor het halfopen interval (0, 1] (deze deelverzameling is niet gesloten).
+Het concept van een compacte deelverzameling van de reële getallen kan worden uitgebreid naar compacte deelverzamelingen van enige topologische ruimte en zelfs naar het concept van een compacte ruimte. Een deelverzameling is compact, wanneer deze deelverzameling, uitgerust met een deelruimtetopologie, een compacte ruimte wordt.
+Definitie.
+Een topologische ruimte formula_1 wordt compact genoemd als elke open overdekking van "X" een eindige deeloverdekking heeft. Dat wil zeggen dat, als
+een willekeurige, eventueel oneindige, familie open verzamelingen van "X" is zodanig dat
+er een "eindige" deelfamilie formula_4 is waarvoor ook
+Een deelverzameling "D" van "X" heet compact als ze, uitgerust met de deelruimtetopologie, op haar beurt een compacte topologische ruimte vormt. Dit is gelijkwaardig met de eis dat voor elke willekeurige familie open verzamelingen "van X" die "D" overdekt, er een eindige deelfamilie bestaat die "D" nog steeds overdekt. Dus als
+een willekeurige, eventueel oneindige, familie open verzamelingen van "X" is zodanig dat
+dan bestaat er een "eindige" deelfamilie formula_4 waarvoor ook
+Eigenschappen.
+Uit deze eigenschappen volgt bijvoorbeeld dat een bijectieve continue afbeelding van een compacte ruimte naar een Hausdorff-ruimte altijd een homeomorfisme is.
+De stelling van Tychonov luidt dat het product van compacte ruimten opnieuw compact is.
+Compacte metrische ruimten.
+Als de topologische structuur van "X" afkomstig is van een afstandsfunctie (metriek), dan is compactheid gelijkwaardig met de volgende eigenschap: iedere rij in "X" heeft een convergente deelrij.
+In algemene (niet-metrische) topologische ruimten geldt bovenstaande gelijkwaardigheid niet, maar een veralgemeende stelling kan worden geformuleerd aan de hand van het begrip filter: "X" is compact als en slechts als elke ultrafilter convergeert.
+Dit is een veralgemeende vorm van de stelling van Heine-Borel, genoemd naar Heinrich Eduard Heine en Émile Borel.
+"Totaal begrensd" heet in sommige handboeken "precompact".
+Compacte delen van de Euclidische ruimte.
+Metrische ruimten zijn tevens Hausdorff-ruimten. De compacte delen van formula_15 met de gewone metriek zijn dus gesloten.
+Elke compacte (deelruimte van een) metrische ruimte is begrensd. Dit blijkt aan de hand van de open overdekking die bestaat uit alle open bollen formula_16 met een vast middelpunt formula_17.
+De stelling van Heine-Borel karakteriseert de compacte deelruimten van formula_15 als precies de gesloten, begrensde deelverzamelingen.
+Lokaal compact.
+Een topologische ruimte heet lokaal compact als ieder punt een omgevingenbasis heeft die uit compacte verzamelingen bestaat.
+Relatief compact.
+Een deelverzameling formula_19 van een topologische ruimte formula_13 heet relatief compact als haar topologische sluiting in formula_13 compact is. Soms wordt de term "precompact" gebruikt als synoniem van relatief compact, maar dit creëert verwarring met het begrip totale begrensdheid.
+Compacte operator.
+De operatorentheorie bestudeert lineaire afbeeldingen tussen topologische vectorruimten. Een continue lineaire afbeelding heet compact als ze begrensde verzamelingen afbeeldt op relatief compacte verzamelingen. In metrische topologische vectorruimten heeft het adjectief "begrensd" zijn gewone betekenis, in algemenere topologische vectorruimten geldt een aangepaste definitie.
+Compactificatie.
+Compacte ruimten zijn meestal eenvoudiger te analyseren dan niet-compacte ruimten. Het kan dus interessant zijn te weten, dat een gegeven ruimte minstens deel uitmaakt van een compacte ruimte. Er bestaan verschillende standaard-technieken om een gegeven ruimte uit te breiden tot een compacte ruimte.
+De Alexandrov-compactificatie of eenpuntscompactificatie voegt aan een willekeurige topologische ruimte één punt toe, punt op oneindig genaamd. Een verzameling heet open in formula_22 als ze een open verzameling is in de oorspronkelijke topologie van "X," of als haar complement een compact deel van "X" is. De eenpuntscompactificatie bestaat voor eender welke topologische ruimte "X."
+De Stone-Čech-compactificatie of beta-compactificatie is beperkt tot ruimten "X" die aan het scheidingsaxioma "T"3.5 (axioma van Tychonov) voldoen. De uitgebreide ruimte is niet alleen compact, maar bovendien Hausdorff. De constructie gaat als volgt: zij "C" de verzameling van alle continue functies van "X" naar het gesloten interval [0,1]. De ruimte "X" kan worden opgevat als deelruimte van de oneindige productruimte
+door met ieder element "x" de evaluatie van continue functies in "x" te associëren. De topologische sluiting van deze deelruimte is de compactificatie van "X."

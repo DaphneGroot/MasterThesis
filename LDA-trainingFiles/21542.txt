@@ -1,0 +1,8 @@
+Polymerisatie.
+Additiepolymerisatie.
+Voor additiepolymerisatie is een dubbele binding in de kleine eenheid noodzakelijk. De kleinste eenheid waarmee men kan polymeriseren is etheen. Het polymeer dat zich daarmee vormt is het veel gebruikte polyetheen (PE).
+Reactiemechanisme.
+De reactie wordt gestart door het uiteenvallen van een initiator in twee radicale delen. Door middel van de initiator wordt de dubbele binding opengebroken (initiatie), waarbij de initiator zich aan één kant bindt. De andere kant van het koolwaterstof is tevens radicaal en erg reactief, waarna het een andere dubbele binding zal openbreken. Op deze manier (propagatie) wordt de keten verlengd totdat alle kleine eenheden op zijn. Aan het eind van de reactie wordt de keten afgesloten (terminatie) door het andere deel van de initiator.
+Condensatiepolymerisatie.
+Bij condensatiepolymerisatie wordt uitgegaan van moleculen die twee functionele groepen hebben, bijvoorbeeld een combinatie van carbonzuurgroepen (-COOH), aminegroepen (-NH2) en alcoholgroepen (-OH).
+Bij condensatiereacties wordt over het algemeen een klein molecuul zoals water (H2O) afgesplitst.

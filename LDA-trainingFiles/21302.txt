@@ -1,0 +1,4 @@
+Advanced Packaging Tool.
+APT, Advanced Packaging Tool of apt is een in C++ geschreven pakketbeheerprogramma dat gebruikt wordt op Linuxdistributies die gebaseerd zijn op Debian. Het programma vormt een uitbreiding op het programma dpkg dat gebruikt wordt om een ".deb"-pakket effectief te installeren. Synaptic biedt een grafische gebruikersinterface voor APT in GTK+.
+Functies.
+Hoewel APT oorspronkelijk bedoeld was voor op Debian gebaseerde Linux-distributies, is het met apt4rpm mogelijk om met dezelfde functionaliteit te gebruiken op RPM-gebaseerde distributies, waaronder Red Hat, Fedora en SUSE.

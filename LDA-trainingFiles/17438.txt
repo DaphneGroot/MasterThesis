@@ -1,0 +1,5 @@
+Jeromegambiet.
+Het Jeromegambiet is in de opening van een schaakpartij een variant van de Italiaanse opening.
+De beginzetten zijn: 1.e4 e5 2.Pf3 Pc6 3.Lc4 Lc5 5.Lxf7 code C 50 en het gambiet is ingedeeld bij de open spelen.
+Het gambiet staat als dubieus bekend. Wit offert een stuk zodat zwart niet meer kan rokeren, maar als zwart het goed speelt, is er niet veel aan de hand.
+Een onbekende schaker heeft deze variant eens tegen Joseph Blackburne gespeeld. De partij verliep als volgt: 1.e4 e5 2.Pf3 Pc6 3.Lc4 Lc5 4.Lxf7 Kxf7 5.Pxe5 Pxe5 6.Dh5 g6 7.Dxe5 d6 8.Dxh8 Dh4 9.0-0 Pf6 10.c3 Pg4 11.h3 Lxf2 12.Kh1 Lf5 13.Da8 Dh3 14.gh Le4 mat.

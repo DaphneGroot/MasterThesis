@@ -1,0 +1,13 @@
+Aftrekken (wiskunde).
+"5 - 2 = 3"Aftrekken is bij het rekenen de inverse bewerking van optellen. Als bij een getal een ander getal wordt opgeteld en daarna van het resultaat hetzelfde getal weer wordt afgetrokken, is het resultaat het oorspronkelijke getal. Aftrekken is het verminderen van een getal met een ander getal; door aftrekken bepaalt men hoeveel er na de vermindering overblijft. Aftrekken beantwoordt de vraag hoeveel nog bij een gegeven aantal opgeteld moet worden om een bepaald totaal te verkrijgen. Het antwoord is dat van het totaal het gegeven aantal afgetrokken moet worden. Aftrekken is een rekenkundige bewerking van de eerste orde.
+Methoden voor het aftrekken van twee getallen.
+Eén methode is de decimale posities van rechts naar links af te werken, net als dat bij optellen kan.
+Bij een "tekort" in een bepaalde decimale positie wordt er 10 bijgeteld, en 1 in de decimale positie links ernaast in mindering gebracht. Dit heet "overdracht" of "carry", bij aftrekking spreekt men ook wel van "leen" of "borrow".
+Een voordeel is dat men cijfer voor cijfer definitief vaststelt (en dus kan opschrijven) nog voor de berekening af is. Een nadeel is dat men de minst significante cijfers het eerst bepaalt.
+Van links naar rechts werken is eenvoudiger dan bij optellen, omdat voor het definitief bepalen van een cijfer men alleen maar hoeft te kijken of de resterende cijfers rechts bij het bovenste getal een groter getal vormen dan bij het onderste getal.
+Methoden voor het optellen en aftrekken van meer dan twee getallen.
+Voor het optellen en aftrekken van meer dan twee getallen (of anders gezegd: het optellen van getallen waarbij sommige negatief zijn) kan men ze onder elkaar zetten en van rechts naar links werken, net als bij optellen. Zeker bij grote getallen is het wel wat lastiger, omdat men niet alleen naar de cijfers in een kolom, maar ook steeds naar de mintekens moet kijken.
+Bij het werken van links naar rechts gelden dezelfde opmerkingen als bij optellen.
+Apparatuur en software.
+Een mechanisch apparaat voor optellen en aftrekken is de Addiator.
+Op rekenmachines en in programmeertalen wordt een streepje gebruikt als minteken. Men moet in een computerprogramma wel acht slaan op gebruik van het juiste streepje. In een spreadsheet is er bovendien vaak de functie SUM om een rij, kolom of rechthoek van getallen op te tellen. Men kan dan de getallen die men wil aftrekken schrijven als een negatief getal. Zie ook de lijst van Excel-functies.

@@ -1,0 +1,9 @@
+Applicatie.
+Een applicatie (letterlijk: "toepassing"; vaak ook afgekort als "app") is een computerprogramma dat bedoeld is voor eindgebruikers. Dit in tegenstelling tot een servertaak of andere taken die door een besturingssysteem op de achtergrond worden uitgevoerd. Een applicatie draait 'op' (of 'onder') een bepaald besturingssysteem. Sommige populaire toepassingen zijn beschikbaar voor meer dan één besturingssysteem, en daarmee multiplatform. De complexiteit van applicaties loopt uiteen van simpel (in geval van een spelletje, of een teksteditor zoals Notepad) tot extreem complex (in geval van de systemen die in real-time processen verzorgen zoals luchtverkeersleiding, elektronisch betalingsverkeer, mobiele telefonie of administratieve of industriële processen). Complexe toepassingen zijn vaak verdeeld over meerdere systemen.
+Voor de allereerste computers moesten de applicaties vaak zelf door de gebruiker geschreven worden. Tegenwoordig is echter voor de meeste toepassingen kant-en-klare software verkrijgbaar.
+Voorbeelden.
+Voorbeelden van applicaties zijn: tekstverwerker (zoals LibreOffice of Microsoft Office Word), e-mailprogramma (zoals Mozilla Thunderbird en Microsoft Outlook), en mediaspelers (zoals Winamp en Windows Media Player). Er bestaan ook steeds meer webapplicaties zoals PixLR of de e-mailapplicaties van Hotmail en GMail).
+Mobiel.
+Met de opkomst van smartphones is een handelstak ontstaan in applicaties voor deze apparaten, die in feite kleine computers zijn.
+Windows 8.
+In Windows 8 is Microsoft begonnen met het gebruik van de term "app" voor elke toepassing binnen dat besturingssysteem. Buiten deze specifieke context wordt de term "app" meestal gebruikt om een mobiele applicatie aan te duiden voor gebruik op een tablet of op een smartphone. De termen die Microsoft hanteert in de context van Windows 8 zijn "Windows 8 Store app" en "app voor Windows 8".

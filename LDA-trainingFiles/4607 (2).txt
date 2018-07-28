@@ -1,0 +1,11 @@
+Straight selection sort.
+Het sorteeralgoritme straight selection sort zoekt in een lijst steeds de kleinste om die te verwisselen met het element dat volgt op het vorige dat bovenaan de lijst werd geplaatst.
+Deze misschien wat cryptische omschrijving laat zich het beste illustreren met een voorbeeld: de rij DCBA wordt eerst door verwisseling van het eerste element "D" en het kleinste element "A" ACBD, daarna door verwisselen van het tweede element "C" en het kleinste resterende element "B" ABCD, en daarna verandert er niets meer.
+Het aantal benodigde vergelijkingen bij een rij van lengte n is (n-1) + (n-2) +... + 1. Het aantal benodigde verwisselingen is maximaal n-1.
+Implementatie in Java.
+for (int i= 0; i < asKey.length - 1; i++)
+Code.
+min = i #Neem de eerste niet gesorteerde kaart als kleinste
+for j in range(i, len(rij)): #Overloop de rest van de niet-gesorteerde kaarten
+min = j #Is er een kleinere, zet dan zijn positie als minimum
+rij[i], rij[min] = rij[min], rij[i] #Verwissel de i-de kaart met de kleinste kaart

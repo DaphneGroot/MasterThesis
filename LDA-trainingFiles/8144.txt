@@ -1,0 +1,25 @@
+Inwendig product.
+waarin formula_4 de hoek tussen de vectoren is en formula_5 en formula_6 respectievelijk de normen van de vectoren formula_1 en formula_2 zijn. Het scalair product van de vectoren is dus, zoals de naam al aangeeft, een scalair en geen vector.
+Voor de bovenstaande definitie is het nodig de hoek tussen de beide vectoren te kennen, of meer nog dat in de gebruikte meetkunde al een begrip hoek bestaat.
+Deze vorm van het inwendig product heet het standaardinproduct; het is de gebruikelijke vorm van inwendig product in een euclidische ruimte.
+Daarna kan dan de hoek tussen de beide vectoren gedefiniëerd worden met behulp van dit inproduct en de norm van de vectoren.
+Eigenschappen.
+Het begrip inwendig product is ook gegeneraliseerd. Daarbij spreekt men naar analogie van het bovenstaande van "loodrecht" of "orthogonaal" als het inproduct gelijk is aan 0. Het gegeneraliseerde inproduct is echter niet meer noodzakelijk commutatief.
+Algemene definitie.
+Hier is formula_37 de complex geconjugeerde van "z".
+Een vectorruimte met inwendig product is een inwendig-productruimte.
+Eindigdimensionale geval.
+In formula_12 is de algemene vorm van een inwendig product formula_39, waarin A staat voor een positief-definiete matrix; iedere positief-definiete matrix kan geschreven worden als formula_40 met B een inverteerbare matrix, en omgekeerd geeft een willekeurige inverteerbare matrix B zo'n A. B is voor een gegeven A niet uniek, want CB met C een orthogonale matrix geeft dezelfde A.
+Er geldt dus formula_41 met de gewone norm.
+Norm.
+Bij een inproduct op een willekeurige reële of complexe vectorruimte hoort op natuurlijke wijze een norm
+Een genormeerde vectorruimte waarvan de norm op dergelijke wijze afkomstig is van een inproduct, heet een prehilbertruimte, omdat haar metrische vervollediging een Hilbertruimte is.
+Het inproduct kan steeds uit de norm worden gereconstrueerd. In een reële prehilbertruimte geldt
+Eindigdimensionale geval.
+In formula_12 bepaalt een willekeurig inwendig product een norm met de formule
+met B een inverteerbare matrix (zie ook boven).
+In formula_12 zijn er overigens ook nog andere normen, zoals
+voor andere reële waarden van "p" ≥ 1.
+Hoek.
+De hoek formula_58 tussen "x" en "y" wordt gegeven door
+De ongelijkheid van Cauchy-Schwarz garandeert dat het reële deel van het rechterlid tussen -1 en 1 ligt.

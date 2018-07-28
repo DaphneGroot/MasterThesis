@@ -1,0 +1,11 @@
+Elektrisch veld.
+De veldlijnen van het elektrisch veld geproduceerd door twee puntladingen. Ladingen met hetzelfde teken (links) stoten elkaar af, met verschillend teken trekken ze elkaar aan.
+Elektrische ladingen kunnen op twee manieren krachten op elkaar uitoefenen: elektrisch en magnetisch. Het elektrisch veld beschrijft naar grootte en richting elektrische krachten in de ruimte bij een gegeven ruimtelijke ladingsverdeling.
+Elektrische ladingen oefenen altijd een kracht op alle andere ladingen in het universum uit. Met toenemende onderlinge afstand nadert die kracht tot nul. De kracht waarmee twee ladingen elkaar "aantrekken" kan worden berekend volgens de Wet van Coulomb. De kracht die een eenheidslading, dat wil zeggen een puntlading met de ladingseenheid als lading, in een punt ondervindt noemt men de elektrische veldsterkte formula_1 in dat punt.
+Puntlading.
+Daarin is formula_12 de lengte van de plaatsvector en formula_13 de elektrische veldconstante.
+Voor ladingsverdelingen over een eindige ruimte moet de kracht geïntegreerd worden over die ruimte. De schaalfactor 4"π" hangt samen met de definitie van de elektrische verplaatsing formula_14, die in vacuüm gelijk is aan formula_15.
+Ook deze uitdrukking is lineair in formula_4. De potentiaalvelden van verschillende ladingen kunnen dus opgeteld worden.
+Omdat formula_22 en formula_23 voor een bepaalde ladingsverdeling enkel van de plaats afhangen is het elektrisch veld in de afwezigheid van magnetische velden een conservatieve kracht. Dit houdt in dat de volgende equivalente uitdrukkingen ook geldig zijn
+De kringintegraal over een willekeurige gesloten kromme en de rotatie in elk punt van het elektrische veld zijn dus gelijk aan nul.
+Deze laatste betrekking volgt ook uit de algemener geldende Maxwell-vergelijkingen van de elektrodynamica als daarin alle afgeleiden naar de tijd nul gesteld worden. Een lading zal in tijdafhankelijke situaties niet alleen elektrische veldsterkte ondervinden, maar ook magnetische.

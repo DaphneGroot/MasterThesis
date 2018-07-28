@@ -1,0 +1,5 @@
+GAF-score.
+Gaf-score is een maat waarmee het psychisch, sociaal en beroepsmatig functioneren van een persoon wordt aangeduid in de vorm van een score tussen 0 en 100. De term is een afkorting van Global Assessment of Functioning. De GAF-score is een onderdeel van het DSM-IV-systeem, dat gebruikt wordt voor diagnosticeren van psychiatrische aandoeningen.
+"Normale" mensen, met gewone 'alledaagse' problemen, scoren in de buurt van de 100. Mensen met psychische en/of sociale problemen scoren lager.
+Bij onvoldoende informatie voor GAF-beoordeling, scoort men nul.
+De GAF-score wordt bijvoorbeeld gebruikt om (mede) de graad van functiebeperking ("invaliditeit") te bepalen wanneer mensen een beroep doen op het Vlaams Fonds of in Nederland de WLZ.

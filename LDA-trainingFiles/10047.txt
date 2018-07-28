@@ -1,0 +1,27 @@
+Firewall.
+Een firewall is een systeem dat de middelen van een netwerk of computer kan beschermen tegen misbruik van buitenaf.
+Het beschermde netwerk is vaak een intranet of intern netwerk en dit wordt beschermd tegen het internet. Het ongewenste verkeer bestaat bijvoorbeeld uit aanvallen van hackers en computerkrakers, inbraken en/of uitbraken van computervirussen, spyware, spam en "denial of service attacks".
+Packet filtering firewall.
+Een "packet filtering firewall" grijpt in op de netwerklaag van de IP-protocol-stack. Aan de hand van een aantal regels bepaalt de firewall of een IP-pakket wordt doorgelaten of tegengehouden. De aspecten van een pakket die hierbij in beschouwing worden genomen zijn bijvoorbeeld de poort waarvoor het pakket bedoeld is (destination port) of het IP-adres waar het pakket vandaan komt. Deze regels worden opgesteld door de beheerder of de producent van de firewall.
+Een "packet filtering firewall" beslist alleen op basis van de IP-header van het datapakket. Dit type firewall werkt eenvoudig en snel, maar biedt een minder goede bescherming tegen virussen, zwakheden in programma's, spam e.d.
+Gebruikers van computers die zich achter packet filtering firewalls bevinden merken weinig of niets van hun aanwezigheid, zolang de poortnummers van de protocollen die zij gebruiken worden doorgelaten.
+Een "packet filtering firewall" kan bijvoorbeeld al het verkeer naar de telnetpoort verbieden. De firewall verbiedt echter niet dat het protocol van telnet op een andere poort gebruikt wordt.
+Application layer firewall.
+Een "application layer firewall" grijpt in op de applicatielaag van de TCP/IP-protocolstack. Voor elk ondersteund protocol bepaalt een stukje software of pakketjes worden tegengehouden of doorgelaten. Dit stukje software kan uit veel meer bestaan dan een aantal simpele regels.
+Een "application layer firewall" kan beter dan een "packet filtering firewall" beschermen tegen virussen e.d. en is complexer, omdat elk protocol apart moet worden behandeld. Bovendien kost het bepalen of een pakketje door mag of niet meer resources.
+Een voorbeeld van een "application layer firewall" is een mailserver die alleen op de SMTP-poort luistert en spam filtert.
+Application layer firewalls worden meestal geïmplementeerd met behulp van proxy's.
+Stateless firewall.
+Een "stateless firewall" behandelt elk pakketje op zichzelf, de firewall slaat tussentijds geen informatie op van de connecties die over de firewall lopen. Aangezien dit vrij grote beperkingen met zich meebrengt, zijn de meeste firewalls tegenwoordig stateful.
+Stateful firewall.
+Een "stateful firewall" houdt wel tussentijdse informatie bij van connecties die over de firewall lopen. Hierdoor is de firewall beter in staat onderscheid te maken tussen pakketjes die wel toegestaan en niet toegestaan mogen worden.
+Een voorbeeld: het FTP-protocol is zo opgezet dat soms verbindingen op willekeurige poorten nodig zijn. Als een "stateless firewall" FTP moet toestaan, dan zal daartoe verkeer op alle poorten moeten worden toegestaan. Een "stateful firewall" kan volstaan met het tijdelijk openen van de poort waarover de FTP-sessie plaatsvindt.
+Tegenwoordig zijn "packet filtering firewalls" stateful. Soms zijn ze slechts stateful op TCP-niveau en missen ze de mogelijkheid om bijvoorbeeld het FTP-protocol toe te staan. (TCP-niveau: Is het een bestaande TCP-sessie, is de volgorde van de pakketten correct?)
+Personal firewall.
+Een "personal-firewall" is een firewall die enkel de computer beschermt waarop deze geïnstalleerd is. De personal-firewall kan gebruikmaken van verschillende technieken om regels op te bouwen, maar een geavanceerde personal-firewall beschikt over een extra mogelijkheid: men kan regels definiëren op basis van processen.
+Zo is het mogelijk een regel te maken dat enkel het programma E-MAILPROGRAMMA.EXE toegang geeft om via poort 25 een e-mail te versturen. Zulke regels kunnen voorkomen dat bijvoorbeeld spywareprogramma's ongewenst mails versturen vanuit de betreffende computer.
+Network firewall.
+Een "network firewall" bestaat uit een aparte computer die twee of meer netwerken scheidt. Soms is er nog sprake van een 'niemandsland' (DMZ), waarin zich computers bevinden die bereikbaar moeten zijn vanuit het internet of een ander netwerk. Zulke computers hebben dan meestal specifieke regels nodig. Webservers zullen bijvoorbeeld vaak in een DMZ aangetroffen worden.
+In grote netwerken en organisaties is het beheer van een firewall een complete dagtaak voor specialisten.
+Managed firewall.
+Een "managed firewall" (een beheerde firewall) wordt steeds vaker toegepast in bedrijven die zelf niet genoeg kennis hebben van beveiliging van netwerken. Een "managed firewall" is een service die bestaat uit het fysiek installeren van een firewall in een netwerk met daarnaast het geheel aan onderhoud en configuratie van de firewall volledig op afstand door een bedrijf dat daarin gespecialiseerd is.

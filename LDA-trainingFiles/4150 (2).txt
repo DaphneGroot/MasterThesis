@@ -1,0 +1,8 @@
+Radionuclide.
+Radionucliden zijn isotopen van elementen met een onstabiele atoomkern die door radioactief verval overgaan in andere elementen, of andere isotopen van hetzelfde element, die al dan niet stabiel zijn. Isotopen zijn kernen van hetzelfde element, maar met een ander massagetal.
+De vervalprocessen zijn strikt eerste orde en worden daarom geheel gekarakteriseerd door hun halveringstijd.
+Er is een aantal radioactieve kernen met een halveringstijd die lang is vergeleken met de ouderdom van de aarde. Deze kernen komen daardoor nog van nature op aarde voor. Belangrijke voorbeelden zijn de isotopen van uranium (235U en 238U) en van thorium (232Th). Deze elementen bestaan zelfs uitsluitend uit radio-isotopen. Een aantal lichtere elementen, zoals kalium (40K), heeft ook natuurlijke radio-isotopen.
+Daarnaast zijn er korter levende kernen die op aarde voorkomen doordat zij voortdurend aangemaakt worden. Dit kan op twee manieren gebeuren: door verval van de langlevende natuurlijke radio-isotopen en door de kosmische straling waaraan de aarde blootstaat.
+De dochterkernen van het verval van 235U en 238U (bijvoorbeeld de isotopen van radon) zijn een voorbeeld van het eerste. De koolstofisotoop 14C van het laatste.
+Ten slotte zijn er de kunstmatige radioactieve kernen die kunnen worden aangemaakt in een kernreactor (door kernsplijting van bijvoorbeeld 235U) of door beschieting van een kern met een andere kern of met neutronen.
+Deze radioactieve kernen zijn kunstmatig op aarde, maar in het heelal zijn er plaatsen waar zij van nature aangemaakt worden (in supernova bijvoorbeeld). Men zou ze dus ook 'uitgestorven' kernen kunnen noemen omdat zij bij de vorming van de aarde uit het sterrenstof waarschijnlijk wel aanwezig waren.

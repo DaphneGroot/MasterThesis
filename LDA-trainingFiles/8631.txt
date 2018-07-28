@@ -1,0 +1,17 @@
+Dvorak-toetsenbord.
+Het Dvorak Simplified Keyboard, ook wel Simplified Keyboard of American Simplified Keyboard, maar meestal gewoon Dvorak-toetsenbord genoemd, is een toetsenbordindeling die ontwikkeld is door August Dvorak en William Dealey in de jaren 1920 en 1930. Zij noemden het het "simplified keyboard". Nu is het bekend onder de naam "Dvorak".
+De lay-out was klaar in 1932 en het octrooi (nummer 2.040.248) werd opgenomen in 1936.
+In tegenstelling tot QWERTY of AZERTY is Dvorak niet ontwikkeld voor typemachines, maar voor toetsenborden waar geen hamertjes aan te pas komen. Bij het originele Qwerty-toetsenbord moesten de letters zo worden neergelegd dat wanneer snel werd getypt de hamertjes niet met elkaar in de knoop zouden kunnen komen. Deze extra restrictie op de lay-out zorgt voor een beperking in het comfort.
+Het Dvorak-toetsenbord daarentegen werd ontwikkeld om zo comfortabel en snel mogelijk te typen, zonder andere restricties.
+Windows, Mac OS X, Linux en BSD-gebaseerde besturingssystemen leveren standaard ondersteuning voor het Dvorak-toetsenbord. Ook MS-DOS kan, mits de juiste drivers geïnstalleerd zijn, overweg met een Dvorak-toetsenbord.
+Soorten Dvorak-toetsenborden.
+De definitie van de toetsen van het Dvorak-toetsenbord door August Dvorak is alleen over de letters en 8 andere tekens.
+US Dvorak.
+De meeste Dvorak-toetsenborden gebruiken gewoon de speciale lettertekens van de US-Qwerty-lay-out. Deze meest voorkomende Dvorak-toetsenbordvariant is makkelijk te maken door een aantal toetsen van een US-Qwerty-toetsenbord van plaats te veranderen. Het is wel nodig om in te stellen dat men een Dvorak-lay-out wil gebruiken in plaats van een ander, aangezien een computer dit niet zomaar kan zien.
+De klinkers bevinden zich allemaal op de zogenaamde 'home row' (dit is de regel met de toetsen waar de vingers 'in rust' op staan) en zijn dus zonder veel moeite bereikbaar met de linkerhand. Het aantal woorden dat met enkel de home row kan gevormd worden ligt bij het Dvorak-toetsenbord dan ook veel hoger dan bij de gangbare lay-outs. Ongeveer 70% van de woorden in het Engels worden op de 'home row' getypt, in tegenstelling tot 32% bij een QWERTY indeling, en meer woorden worden met twee handen getypt. Er wordt gezegd dat in 8 uur de vingers van een QWERTY typist ongeveer 25 km afleggen, maar slechts 1,6 km bij een Dvorak typist.
+"Dvorak left hand lay-out" en "Dvorak right hand lay-out".
+Er bestaat ook een Dvorak-toetsenbordlay-out voor mensen met enkel een rechterhand ("Dvorak right hand layout") en een voor mensen met enkel een linkerhand ("Dvorak left hand layout"). Deze lay-outs zijn speciaal aangepast voor mensen die maar één hand ter beschikking hebben, waardoor deze lay-outs voor enkelhandigen veel beter typen dan een lay-out voor mensen met twee handen.
+ANSI Dvorak.
+De lay-out is gedefinieerd door het ANSI. De vierkante haakjes openen en sluiten staan echter op dezelfde toets, evenals de accolades openen en sluiten. Dit is niet handig voor programmeurs die deze tekens vaak nodig hebben. De ANSI-Dvorak-toetsenbordstandaard is niet populair.
+Franse Dvorak-versie.
+Er is ook een Dvorak-variant ontworpen voor de Franse taal.

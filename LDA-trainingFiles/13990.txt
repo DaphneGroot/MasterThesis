@@ -1,0 +1,15 @@
+Oscillator (elektronica).
+Een oscillator is in de elektronica een schakeling die een periodiek signaal opwekt. Is het opgewekte signaal sinusvormig, dan spreekt men van een harmonische oscillator.
+Een veelgebruikt ander type is de relaxatie-oscillator.
+Oscillatoren hebben zeer veel toepassingen op diverse gebieden. Zo genereren ze in radiozenders de draaggolf. In een radio-ontvanger wordt die draaggolf weer ontvangen met behulp van een oscillator, de zogenaamde 'lokale oscillator' of LO.
+Harmonische oscillator.
+Een harmonische oscillator bestaat meestal uit een versterkend element en een frequentiebepalende terugkoppellus. Als de rondgaande versterking precies gelijk is aan 1, dat wil zeggen de absolute versterkingsfactor is 1 en de totale faseverschuiving in de kring is een veelvoud van 360°, zal de schakeling een sinusvormig signaal opwekken. De voorwaarden voor oscillatie staan bekend als het criterium van Barkhausen; een variant is het criterium van Nyquist.
+Relaxatie-oscillator ==.
+Een karakteristieke relaxatietrilling in een oplossing van de Van der Pol-vergelijking.
+Het principe van de relaxatie-oscillator is te zien aan een defecte stortbak van een toilet. De bak vult zich gedurende een zekere tijd tot een bepaald waterniveau, waarna de bak zich (als gevolg van het defect) in korte tijd leegt en het proces zich weer herhaalt. In het elektronische analogon is het een condensator die wordt opgeladen tot een bepaalde spanning, waarna een schakelelement, bijvoorbeeld een transistor, de condensator ontlaadt en een nieuwe cyclus begint. Ook andere uitvoeringen zijn mogelijk, maar het basispricipe is hetzelfde.
+De naam "relaxatie-oscillator" gaat terug op Balthasar van der Pol, die in de twintiger jaren van de vorige eeuw het gedrag bestudeerde van een triode-schakeling. Dit gedrag – van de schakeling – werd door hem beschreven met de Van der Pol-vergelijking, waarmee hij de optredende relaxatietrillingen kon verklaren.
+Synthesizer.
+Een synthesizer bevat een of meerdere oscillatoren die elk periodiek een golfvorm genereert. Een golfvorm is één periodieke geluidstrilling met een harmonisch spectrum.
+De meeste oscillatoren hebben enkele gangbare golfvormen voorradig, waaruit de gebruiker kan kiezen. Iedere golfvorm heeft zijn eigen spectrum en zo zijn eigen klankkleur.
+De frequentie van de oscillator wordt bepaald door de in te stellen frequentie plus de toonhoogte van de toets van het klavier die ingedrukt wordt.
+Echter, de meeste synthesizers bevatten ook een oscillator die vooral onder het hoorbare spectrum (beneden de 20 Hz) werkt, de zogenaamde laagfrequente oscillator (LFO). Deze wordt meestal gebruikt om parameters van andere elementen te beïnvloeden.

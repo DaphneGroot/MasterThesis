@@ -1,0 +1,4 @@
+Boorgroep.
+De boorgroep (IUPAC-groepsnummer 13, vroeger bekend als IIIa) elementen uit het periodiek systeem worden ook wel de Triël-elementen genoemd (afkorting Tr) (naar analogie van de naam tetrels voor de koolstofgroep).
+In verbindingen met alkalimetalen kunnen deze elementen bij uitzondering anionen vormen, vaak in de vorm van ingewikkelde clusters, maar in het algemeen gedragen zij zich als metalen die Tr3+ ionen vormen vanwege ns2np1 configuratie en zij gemakkelijk deze drie buitenelektronen verliezen.
+Naar beneden in de kolom neemt de neiging toe om een Tr1+ ion te vormen. De reden daarvoor is dat het energieverschil tussen de s- en de p-subschil steeds groter wordt, waardoor de ns2 configuratie zich steeds meer op die van een edelgas begint te gelijken (vgl. He).

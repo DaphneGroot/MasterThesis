@@ -1,0 +1,9 @@
+Valutering.
+Valutering wordt door o.a. banken gebruikt om een rentedatum aan een transactie toe te kennen, waarbij de rentedatum verschilt van de boekingsdatum.
+Valutering speelt een rol bij de afrekening van beleggingstransacties, bij boekingen van hypotheken en andere leningen en bij buitenlandbetalingen, met name die van en naar verre buitenlanden.
+Boekings- en valutadata.
+Er bestaat een verschil tussen de boekingsdatum en de valutadatum van een betaling of een bijschrijving. De "boekingsdatum" is de datum waarop de transactie verwerkt wordt door de bank - dit is altijd een werkdag. De eigenaar kan beschikken over de liquiditeiten tot de boekingsdatum. De "valuteringsdatum" is voor "betalingen" de dag dat deze niet meer rentedragend is; voor "ontvangsten" geldt dat dit de dag is dat deze rentedragend wordt.
+Banken.
+Dit betekent dat de bank bij een betaling twee dagen rente neemt: een dag van degene die betaalt en een dag van degene die het bedrag ontvangt. Bij een overboeking op maandag beloopt dit zelfs drie dagen: de zondag wordt niet gezien als valutadag en de bank neemt dan als valutadag de zaterdag.
+Verbod.
+Met de komst van de Europese Richtlijn Betaaldiensten in 2009 is valutering op eenvoudig betalingsverkeer niet meer toegestaan. De "Richtlijn Betaaldiensten in de Interne Markt" is in het najaar van 2007 in werking getreden en moet uiterlijk 1 november 2009 in nationale wetgeving zijn omgezet.

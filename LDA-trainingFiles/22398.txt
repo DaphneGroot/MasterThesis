@@ -1,0 +1,9 @@
+Peripheral Component Interconnect.
+PCI-sleuven op een moederbord zijn meestal wit.
+De "Peripheral Component Interconnect" bus of PCI-bus is de opvolger van de "Industry Standard Architecture" (ISA)-bus, die in de eerste IBM-PC geïntroduceerd werd.
+In de loop der jaren voldeed de ISA-bus niet meer aan de gestegen eisen en werd door fabrikanten aan alternatieven gewerkt. Zo introduceerde IBM de "Microchannel Architecture" (MCA)-bus. De industrie weigerde hier echter licentiegelden voor neer te tellen. In reactie hierop ontwikkelde Compaq de "Extended Industry Standard Architecture" (EISA)-bus. Toen ook deze bus niet echt aansloeg verschenen nog de OPTi local-bus en de "VESA Local Bus". Uiteindelijk schiep Intel orde in de chaos en introduceerde de PCI-bus.
+Behalve een hogere snelheid bood de PCI-bus nog meer voordelen ten opzichte van de ISA-bus, onder andere een centrale configuratie, "plug-and-play", en busmastering in plaats van de primitievere "Direct Memory Access" (DMA)-kanalen.
+PCI-sleuven zijn uitbreidingssleuven die zich op een moederbord in de computer bevinden. Zij zijn vaak te herkennen aan hun witte kleur (zie foto).
+De sleuven kunnen worden gebruikt voor insteekkaarten zoals geluidskaarten, netwerkkaarten, Redundant Array of Independent Disks (RAID)-controllers, televisiekaarten en videokaarten. Voor grafische kaarten is ook de snellere "Accelerated Graphics Port" (AGP)] en PCI-Express-kaart een alternatief voor een PCI-kaart.
+Sinds 2006 wordt PCI steeds minder gebruikt omdat zijn opvolgers, PCI-Express en PCI-X, hun opkomst maken. Deze hebben snellere transferrates en zijn dus geschikter voor zware grafische toepassingen, nodig om bijvoorbeeld een driedimensionaal spel te kunnen spelen dat gerenderd moet worden.
+PCI-Express wordt voornamelijk gebruikt in pc's, terwijl PCI-X gemaakt is voor servers en werkstations.

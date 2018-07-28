@@ -1,0 +1,9 @@
+Wet van Metcalfe.
+Eenvoudig gezegd, hoe meer apparaten onderdeel zijn van het netwerk, hoe meer waarde het netwerk voor de gebruikers heeft. Een simpel voorbeeld dat vaak gebruikt wordt om deze wet van Metcalfe nader toe te lichten heeft betrekking op het gebruik van faxmachines. Het gebruik van een faxmachine is van beperkt nut wanneer er weinig personen in je relatienetwerk aanwezig zijn die tevens gebruikmaken dit communicatiemiddel. Wanneer het aantal personen in iemands netwerk toeneemt die wel gebruikmaken van de faxmachine, zullen er naar waarschijnlijkheid meer faxen over en weer verzonden en ontvangen worden, waardoor de waarde van dit netwerk zal stijgen.
+De wet van Metcalfe, vernoemd naar Robert Metcalfe (oprichter van 3COM en uitvinder van het Ethernet-protocol), wordt niet alleen op computernetwerken toegepast. Ook voor een netwerk van mensen geldt dat de waarde toeneemt met het aantal actieve medewerkers.
+Volgens Metcalfe zal de waarde van een netwerk toenemen met ‘V x n (n-1)’ waar de ‘V’ staat voor de ‘oorspronkelijke waarde van het netwerk’ en ‘n’ voor het aantal gebruikers.
+Volledig geconnecteerd netwerk.
+De waarde van een netwerk (voor de gebruiker) gaat ook gepaard met de kost van interconnectie.
+Een internet provider of een telefoonmaatschappij heeft er alle belang bij om technieken van decenctrale telefooncentrales of multiplexing toe te passen om deze kost te reduceren.
+Validatie.
+Ondanks dat deze al in de jaren 80 voor het eerst geformuleerde wetmatigheid nogal voor de hand lijkt te liggen, heeft het nog ruim 30 jaar geduurd voordat het eerste experimentele bewijs werd gevonden. Onderzoekers van TNO, KPN en de TU Delft analyseerden hoeveel mensen "n" het internet gebruikt hebben voor verscheidene waardevolle activiteiten over een periode van ruim 10 jaar. Zij vonden een "n"2 afhankelijkheid, wat goed overeenkomt met het gedrag van de formule hierboven.

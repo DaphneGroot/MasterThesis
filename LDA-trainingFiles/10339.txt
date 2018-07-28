@@ -1,0 +1,6 @@
+McGurkeffect.
+Het mcgurkeffect is een psychoakoestisch effect dat optreedt in bepaalde gevallen waarbij de visuele eigenschappen van natuurlijke spraakproductie niet overeenkomen met de auditieve aspecten daarvan, waarbij de interpretatie van de hoorder wordt beïnvloed door beide en een illusionair resultaat ontstaat. Het effect is genoemd naar Harry McGurk, die onderzoek verrichtte naar de waarneming van spraak bij taallerende kinderen en die het tijdens experimenten ontdekte.
+In het voorbeeld wordt het Engelse foneem /d/ dus als het ware geconstrueerd uit de auditieve waarneming van het foneem /b/ en de visuele waarneming van het foneem /g/.
+Van het mcgurkeffect zijn demo's op het Internet te vinden. Hierbij valt het effect het meest op, als de waarnemer in eerste instantie zowel het auditieve als het visuele signaal gelijktijdig waarneemt.
+Het McGurk effect demonstreert dat bij de perceptie van spraak de interpretatie die in de menselijke hersenen plaatsvindt van cruciaal belang is voor die perceptie, en dat wat mensen horen voor een groot deel beïnvloed wordt door wat zij zien.
+Het effect werd in 1976 gepubliceerd door Harry McGurk en John MacDonald in een artikel genaamd: "Hearing Lips and Seeing Voices" in "Nature", 264, en gaf een aanzet tot uitgebreid onderzoek in die richting.

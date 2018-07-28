@@ -1,0 +1,4 @@
+Shaker (testapparaat).
+Een shaker is een apparaat dat in de techniek gebruikt wordt om het trillingsgedrag van materialen of constructies te onderzoeken.
+Er bestaan elektrodynamische shakers en hydraulische shakers.
+De elektrodynamische shakers bestaan uit een spoel die in een permanent magneetveld op en neer kan bewegen. Door de spoel wordt met een toongenerator een elektrische wisselstroom gestuurd, waardoor deze afwisselend het magneetveld uitgeduwd of ingetrokken wordt. Aan de spoel zit de eigenlijke triltafel vast, waaraan het testobject wordt bevestigd.

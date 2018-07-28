@@ -1,0 +1,16 @@
+E-reeks.
+Deze grafiek toont hoe de waarden uit de E12-reeks (met een tolerantie van 10%) een (nagenoeg) volledige dekking van één decade (1-10) geven
+Een E-reeks is een vastgelegde uniforme reeks van waarden, die op een logaritmische schaal een decade in zo gelijkmatig mogelijke stappen verdeelt.
+E-reeksen worden veelal gebruikt bij elektronische componenten, waarbij de ontwerper voor waarden van de eenheden (onder andere weerstand, capaciteit en inductie) moet kiezen uit een gelimiteerde set van "voorkeurgetallen".
+Het idee achter de reeksen werd bedacht door de Franse militaire ingenieur Charles Renard in 1952 en zijn vastgelegd door de Internationale Organisatie voor Standaardisatie en in ISO-norm 3.
+Renard ging aanvankelijk uit van 5, 10, 20, 40 en 80 stappen per decade (aangeduid met R5 tot en met R80).
+Later nam de IEC dit principe over en definieerde de E-reeksen in IEC 60063.
+E3 - E24 reeksen.
+Scroltabel met de E3, E6, E12 en E24 reeks boven elkaar.
+De elementen in een serie zijn om-en-om terug te vinden in de serie daarboven.
+De E3 serie wordt zelden gebruikt, behalve voor sommige elektronica componenten met grote variaties zoals condensatoren met extreem hoge waarden (>1 Farad), waarbij de opgegeven tolerantie niet gebalanceerd is, zoals: −30/+50% of −20/+80%. Dit geldt ook bij componenten met minder kritische waarden zoals bij smoorspoelen.
+E48 - E192 reeksen.
+Vanaf de E48 serie werd een derde decimale positie toegevoegd en zijn de waarden enigszins aangepast. Ook hier geldt weer: de elementen in een lagere serie zijn om-en-om terug te vinden in de serie daarboven.
+Scroltabel met de E48, E96 en E192 reeks boven elkaar.
+Ook hier geldt weer: de elementen in een serie zijn om-en-om terug te vinden in de serie daarboven.
+De E192 serie wordt ook gebruikt voor toleranties van 0,25% en 0,1%.

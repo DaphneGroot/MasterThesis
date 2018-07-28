@@ -1,0 +1,11 @@
+Bovengrens en ondergrens.
+In de wiskunde is een bovengrens of majorante van een partieel geordende verzameling "S" een getal "g" waarvoor geldt dat "x ≤ g" voor alle "x ∈ S".
+Op analoge wijze definiëren we een ondergrens of minorante van een verzameling "S" als een getal "k" waarvoor geldt dat "x ≥ k" voor alle "x ∈ S".
+In de analyse geldt eveneens dat een bovengrens van een functie "f: A → B" een getal "g" is, waarvoor geldt dat "f(x) ≤ g" voor alle "x ∈ A". Ook hier geldt het analoge voor de ondergrens: "f(x) ≥ k" voor alle "x ∈ A".
+Een functie met een bovengrens kan men "naar boven begrensd" noemen. Een functie met een ondergrens is "naar onder begrensd". Een begrensde functie heeft zowel een ondergrens als een bovengrens.
+maximum en minimum.
+Indien er voor een verzameling "S" een element "M ∈ S" bestaat zodanig dat "M ≥ a" voor alle "a ∈ S", dan heet "M" het maximum van "S". "M" dient dus een bovengrens te zijn en tevens tot "S" te behoren. We noteren: "M = max(S)".
+Analoog is "m ∈ S" een minimum van "S" indien voor alle "a ∈ S" geldt dat "m ≤ a". Ook hier is "m" dus een ondergrens die tot de verzameling behoort. We noteren: "m = min(S)".
+supremum en infimum.
+De "kleinste bovengrens" wordt ook wel het supremum genoemd. In feite is het supremum "s" van "S" dus het minimum van de verzameling van de majoranten van "S". We noteren: "s = sup(S)".
+Analoog wordt de "grootste ondergrens" ook wel het infimum genoemd. Het infimum "i" van "S" is dus het maximum van de verzameling van de minoranten van "S". We noteren: "i = inf(S)".

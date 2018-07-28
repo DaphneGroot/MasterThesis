@@ -1,0 +1,8 @@
+Graveermachine.
+Met een graveermachine kan in plaatmateriaal, met name metaal en plastic gegraveerd worden. Bij het graveren worden voornamelijk gebogen of rechte lijnen aangebracht in het oppervlak van het materiaal.
+Handmatig graveren.
+Door met een metalen stift (aftaster) in een (metalen, vaak messing) mal met een groef in de vorm van een letter, cijfer of andere figuur de lijnen te volgen wordt via een pantograaf deze vorm vergroot of verkleind overgebracht op een soort freesje. Met dit freesje wordt bij een toerental dat afhankelijk is van de diameter hiervan en van het te frezen materiaal een deel hiervan weggehaald uit het te bewerken metaal of plastic. Het freesje wordt via een tweetal snaren aangedreven door een elektromotor.
+Computergestuurd graveren.
+Moderne graveermachines worden bestuurd door een computer. Deze werken niet met een pantograaf maar met servomotoren. Deze bewegen de frees in een X- en in een Y-richting, zoals een plotter doet. Ze worden daarom ook wel freesplotter genoemd.
+Producten.
+Voorbeelden van producten die met deze techniek gemaakt worden zijn huisnummer- en naamplaatjes en eigendomsgegevens van waardevolle voorwerpen. Meestal wordt voor naamplaatjes gebruikgemaakt van Duropal, een speciaal plaatmateriaal dat bestaat uit een zwarte plaat met hierop een witte glanzende laag. Het graveren verwijdert plaatselijk de witte laag, waardoor de gegraveerde lijnen door de zwarte kern contrastrijk afsteken bij het omringende wit. In andere gevallen wordt inkt van een bepaalde kleur aangebracht in de gefreesde groef.

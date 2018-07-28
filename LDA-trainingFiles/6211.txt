@@ -1,0 +1,49 @@
+Ellips (wiskunde).
+Een ellips (Grieks ἔλλειψις, "het tekortschieten") is in de wiskunde een meetkundige figuur in twee dimensies. Een ellips wordt gevormd door alle punten waarvoor de som van de afstanden tot twee gekozen punten, de "brandpunten", een vaste waarde heeft. De ellips wordt ook wel aangeduid als ovaal, maar dit begrip is niet duidelijk afgebakend en kan ook duiden op andere vormen dan hier beschreven worden.
+Een ellips is ook een kegelsnede, gevormd door de snijlijn van een kegel of een cilinder met een plat vlak. Het platte vlak moet hierbij de kegelas respectievelijk de cilinderas snijden. Bij het snijden met de kegel moet de hoek tussen de kegelas en het platte vlak groter zijn dan de helft van de openingshoek van de kegel.
+Definitie.
+Ellips met halve assen (a en b) en brandpunten.
+Een ellips in de meetkunde is een tweedimensionale figuur die de meetkundige plaats is van alle punten waarvoor de som van de afstanden (rode lijn in de figuur) tot twee gekozen punten, de "brandpunten" (f1 en f2 in de figuur), een vaste waarde heeft. Een ellips heeft twee "assen": het lijnstuk door de brandpunten die tegenovergelegen punten van de ellips verbindt heet de "lange as" of "grote as" met halve lengte a, en het overeenkomstige lijnstuk loodrecht daarop door het midden van de lange as heet "korte as" of "kleine as", met halve lengte b.
+Alternatieve definitie uitgaande van brandpunt en richtlijn.
+Een ellips als verzameling punten waarvan de verhouding tussen de afstand tot een brandpunt en die tot een richtlijn constant is
+Een ellips is de meetkundige plaats van de punten in het plat vlak waarbij de verhouding van de afstand tot een willekeurig punt, brandpunt geheten, tot de afstand tot een willekeurige rechte, richtlijn geheten, constant is. Deze constante verhouding is gelijk aan de "excentriciteit" van de ellips, voorgesteld door e. Er moet gelden 0 < e < 1 (zie ook excentriciteit (astronomie)).
+Met beide brandpunten van de ellips correspondeert een richtlijn.
+Als conflictlijn tussen een cirkel en een punt.
+De ellips als een conflictlijn, met cirkel C als directrice; voor ieder punt P op de ellips geldt dat de afstand tot het gegeven punt F1 gelijk is aan de afstand tot de cirkel; het middelpunt M van de cirkel is tevens het tweede brandpunt (F2) van de ellips.
+De ellips is ook op te vatten als conflictlijn tussen een punt en een cirkel, die dan richtcirkel of directrice wordt genoemd. Het gegeven punt is dan het ene brandpunt, het middelpunt van de gegeven cirkel is het andere brandpunt.
+Brandpunten.
+De raaklijn is buitenbissectrice van hoek brandpunt-raakpunt-brandpunt.
+Als de twee brandpunten samenvallen, is sprake van een cirkel, en zijn "a" en "b" beide gelijk aan de straal "r". De excentriciteit is dan nul.
+Raaklijn.
+Een raaklijn van een ellips is een buitenbissectrice van de hoek brandpunt-raakpunt-brandpunt.
+Oppervlakte.
+met "a" de halve lange as en "b" de halve korte as.
+Omtrek.
+Voor de omtrek van een ellips bestaat geen uitdrukking in elementaire functies. De omtrek kan voorgesteld worden als integraal, die daarom ook elliptische integraal heet. Voor de ellips met als parametervergelijking
+wordt de omtrek formula_9 gegeven door
+Daarin is E een elliptische integraal van de tweede soort, hier dalend van π/2 voor e = 0 (lengte van een kwart van de eenheidscirkel) tot 1 voor e = 1 (lengte van een kwart van de omtrek van een ontaarde ellips die bestaat uit een dubbel doorlopen lijnstuk van lengte 2).
+Middelpuntsvergelijking.
+De wiskundige vergelijking voor de ellips met als middelpunt het punt
+In poolcoördinaten t.o.v. een brandpunt.
+Lange as horizontaal, linker brandpunt als pool, met excentriciteit formula_1
+Tuinmansellips.
+Het draadje zorgt ervoor dat de som van de afstand tot de brandpunten vanaf elk punt van de ellips constant is, namelijk gelijk aan de lengte van het draadje minus de afstand tussen de punaises.
+Het op deze wijze construeren van een ellips wordt ook wel tuinmansellips genoemd, omdat men zo de randen van ellipsvormige perken aanlegt (uiteraard met piketten in plaats van punaises). Deze methode is in de praktijk onnauwkeurig. Varianten op de tuinmansmethode kunnen gebruikt worden om diverse ovalen te construeren.
+Ellipspasser.
+De Nederlandse wiskundige Frans van Schooten bedacht in de 17e eeuw twee typen ellipspassers. De gebruikelijkste is een kruisvormige, de andere hanteert een variant van de tuinmansmethode. Van de bekende ellipsconstructies die met eenvoudige mechanische middelen te maken zijn, is de kruisvormige passer in de praktijk de nauwkeurigste.
+Constructie van Graves.
+Bij een gegeven ellips kan met een lus van draad, langer dan de omtrek van de gegeven ellips, een nieuwe ellips geconstrueerd worden: span met een potlood de lus strak om de ellips en teken zo rondgaand de nieuwe figuur. Er ontstaat een tweede ellips met dezelfde brandpunten als de gegeven ellips. Dit wordt de constructie van Graves genoemd.
+Constructie uitgaande van de parametervergelijking.
+Een andere manier om een ellips te tekenen gaat uit van de ingeschreven en omgeschreven cirkel en de parametervergelijking. De straal (radius) van de omgeschreven cirkel is gelijk aan de langste halve as a van de ellips, en die van de ingeschreven cirkel is gelijk aan de kortste halve as b van de ellips. Deze cirkels zijn concentrisch (zij hebben hetzelfde middelpunt). Trek nu vanuit het gemeenschappelijk middelpunt van de cirkels stralen naar buiten toe (zie animatie, in het rood). Vanuit het punt waar een straal de ingeschreven cirkel snijdt, trek je een lijn naar buiten toe (fig.: goud) en evenwijdig met de langste as van de te bekomen ellips, en waar de straal de omgeschreven cirkel snijdt, trek je een lijn naar binnen toe en evenwijdig met de kortste as van de te bekomen ellips. Waar beide lijnen elkaar snijden, bevindt zich een nieuw punt van de ellips (fig.: groen).
+Afleiden vergelijking.
+formula_22
+formula_23 ≤ formula_24
+formula_25
+formula_26
+In de nevenstaande figuur zien we een ellips met middelpunt in de oorsprong en de lange as langs de x-as. De halve lange as is "a" en de halve korte as "b". Een punt "P" op de ellips, met coördinaten "x" en "y", heeft de afstanden formula_27 en formula_28 tot de respectievelijke brandpunten formula_29 en formula_30, die op een afstand "c" van het middelpunt liggen.
+Voor de afstanden formula_27 en formula_28 leiden we het volgende af.
+Uit deze berekeningen volgt dat als een punt P op de ellips ligt, de coördinaten (x,y) van dit punt voldoen aan de vergelijking formula_49.
+Omgekeerd kan men aantonen dat als de coördinaten (x,y) van een willekeurig punt P voldoen aan die vergelijking, het punt P noodzakelijk op die ellips ligt.
+Besluit: formula_50 is de vergelijking van die ellips.
+Bollen van Dandelin.
+Dat deze meetkundige plaats inderdaad een kegelsnede is kan worden ingezien met de "bollen van Dandelin" (genoemd naar Germinal Pierre Dandelin), waar gebruik wordt gemaakt van het feit dat alle raaklijnen vanuit een punt aan een bol even lang zijn. De bollen die in de kegel zijn geplaatst, raken de ellips in de brandpunten (zie figuur).

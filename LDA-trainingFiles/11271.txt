@@ -1,0 +1,7 @@
+Negatieve weerstand.
+Negatieve weerstand is een populaire, maar onnauwkeurige term voor negatieve differentie- of differentiaalweerstand.
+Over een (onbepaald klein) interval veroorzaakt een positieve spanningsverandering een negatieve stroomverandering; r < 0 of ΔR < 0.
+Derhalve is het opgenomen differentie-vermogen ook negatief; ofwel, de component levert differentie-vermogen: ΔP < 0.
+Deze eigenschap wordt vaak verward met de absolute weerstand R. De absolute waarden R en P zijn steeds positief.
+Negatieve weerstanden bestaan niet als component. Sommige componenten, zoals de diac en de tunneldiode, bezitten deze eigenschap binnen een zeker werkgebied. Een ander verschijnsel dat negatieve weerstand heeft is de gasontlading.
+Componenten met negatieve differentieweerstand kunnen worden gebruikt voor het samenstellen van oscillatoren, omdat zij met het geleverde differentie-vermogen de demping in een trillingskring compenseren.

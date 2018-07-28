@@ -1,0 +1,4 @@
+Steinitzgambiet.
+Het Steinitzgambiet is in de opening van een schaakpartij een variant van de Weense opening en ze is ingedeeld bij de open spelen.
+Deze variant begint met de zetten: 1.e4 e5 2.Pc3 Pc6 3.f4 exf4 4.d4 Dh4 5.Ke2.
+Dit gambiet is geanalyseerd door Wilhelm Steinitz.

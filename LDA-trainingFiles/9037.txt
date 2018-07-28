@@ -1,0 +1,10 @@
+Chandra X-ray Observatory.
+Het Chandra X-ray observatory is een satelliet die astronomische waarnemingen doet in het röntgengebied. Op aarde zijn die niet mogelijk omdat röntgenstraling niet door de aardatmosfeer kan dringen. Er worden waarnemingen gedaan van zeer energierijke processen in het heelal zoals neutronensterren, zwarte gaten en overblijfsels van supernova's. Chandra is een samenwerking van NASA met onder meer het Nederlandse ruimteonderzoeksinstituut SRON en het Max-Planck-Institut für Extraterrestrische Physik (MPE) in Garching (bij München) voor de transmissie-interferentietralie voor zachte röntgenstraling (LETG, Low Energy Transmission Grating).
+Chandra X-ray Observatory is de tweede van "NASA's Great Observatories", een ruimtevaartprogramma van ruimtetelescopen waartoe ook de ruimtetelescoop Hubble, Compton Gamma Ray Observatory en de Spitzer Space Telescope behoren.
+Baan.
+De satelliet is op 23 juli 1999 door de Spaceshuttle Columbia tijdens missie STS-93 in een elliptische baan om de aarde geplaatst. De kortste afstand tot de aarde bedraagt 16.000 kilometer, de verste afstand bedraagt 133.000 km. De baan is elliptisch omdat de satelliet alleen kan waarnemen boven de Van Allen-gordels. Door deze baan kunnen er per omwenteling van 64 uur en 18 minuten, 55 uur besteed worden aan waarnemingen.
+Principe.
+SN 2006gy (rechtsboven) en zijn melkwegstelsel NGC 1260 (linksonder) in valse kleuren. Chandra X-ray Observatory.
+Een röntgentelescoop werkt volgens heel andere principes dan een optische telescoop. Röntgenstralen gaan door hun hoge energie dwars door een spiegel heen. Een zware spiegel van lood zou haaks invallende röntgenstralen absorberen, niet weerkaatsen. Daarom moeten ze onder een zeer kleine hoek de parabolische en hyperbolische spiegels raken, waarna ze in het brandpunt samenkomen.
+Vernoemd.
+Het Chandra X-ray Observatory is vernoemd naar de astronoom en fysicus Subramanyan Chandrasekhar.

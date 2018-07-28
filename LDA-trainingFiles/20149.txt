@@ -1,0 +1,4 @@
+SIMPLE.
+SIMPLE (Session Initiation Protocol for Instant Messaging and Presence Leveraging Extensions) is een protocol voor instant messaging (IM) en presence notification. In tegenstelling tot het merendeel van de hedendaagse IM-software is SIMPLE een open standaard.
+SIMPLE werd definitief vastgelegd in maart 2011 door de IETF-werkgroep. SIMPLE bestaat uit meerderen gestandaardiseerde onderdelen, zoals. Voordat het standaardisatieproces voltooid was, bestonden er al verschillende implementaties. Onder meer Microsoft paste een SIMPLE-functionaliteit, IM-sessies, toe in Windows Messenger.
+SIMPLE is niet het enige protocol voor IM dat gestandaardiseerd werd binnen de IETF. Een ander, concurrerend protocol is XMPP.

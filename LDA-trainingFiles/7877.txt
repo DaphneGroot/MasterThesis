@@ -1,0 +1,17 @@
+Afstand.
+Afstand is in principe het begrip dat de meetbare ruimte tussen twee niet samenvallende objecten aangeeft. Deze meetbare ruimte kan zowel tussen concrete als tussen abstracte (bijvoorbeeld wiskundige) objecten bestaan. In de dagelijkse praktijk echter, valt een af te leggen afstand meestal niet gelijk met (een verplaatsing over) een rechte lijn. Denk bijvoorbeeld aan een stad waar een automobilist van punt A naar punt B wil. De afgelegde weg zal geen rechte lijn zijn, en ook kan het traject van A naar B verschillen van dat van B naar A. In dit voorbeeld is de afstand van punt A naar punt B het aantal keren dat een gegeven standaardmaat afgepast kan worden op de kortste, af te leggen, verbindingsweg van A naar B. Als internationale standaardmaat voor lengtemetingen wordt de SI-eenheid meter gehanteerd.
+Voor 'sociale afstand', zie betreffende lemma.
+Afstand tussen twee punten.
+In de gewone (euclidische) meetkunde is de kortste verbindingsweg (euclidische afstand) een rechte lijn en kan de afstand worden berekend als de wortel uit de som van de kwadraten van de verschillen tussen de coördinaten, volgens de stelling van Pythagoras.
+In een tweedimensionale ruimte betekent dat voor de afstand "d" tussen de punten formula_1 en formula_2
+Zijn de punten formula_5 en formula_6 in de tweedimensionale ruimte gegeven in genormaliseerde barycentrische coördinaten, dan is, gebruikmakend van Conway-driehoeknotatie de afstand gegeven door
+Afstand tussen een punt en een lijn.
+Ligt het getal formula_14 tussen 0 en 1 dan bevindt het snijpunt van l en de lijn door P loodrecht op l zich tussen de punten formula_10 en formula_11.
+Afstand tussen twee lijnen (in drie dimensies).
+De afstand tussen de twee lijnen is de afstand van een willekeurig punt van de eerste lijn tot het vlak door de tweede lijn evenwijdig aan de eerste.
+Afstand in gekromde ruimten.
+In de differentiaalmeetkunde wordt de afstand tussen twee punten gemeten aan de hand van de lengte van krommen, meer bepaald: het infimum van de lengten van alle krommen die twee punten verbinden. Hiervoor wordt aangenomen dat tussen elk paar punten minstens een kromme bestaat, dus we bevinden ons in een (weg)samenhangende Riemannse variëteit.
+Als een bepaalde kromme de kortste verbinding tussen twee punten legt, dan is die kromme noodzakelijk een geodeet.
+Afstand tussen twee punten op een bol.
+De afstand tussen twee punten P en Q op het oppervlak van een bol, gemeten langs een grote cirkel
+hierin is "R" de straal van de bol, "α" de hoek in het equatoriale vlak en "β" de hoek loodrecht daarop, gerekend vanaf de equator.

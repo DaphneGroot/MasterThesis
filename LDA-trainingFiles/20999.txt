@@ -1,0 +1,10 @@
+MOS Technology.
+MOS Technology, Inc., ook bekend als CSG (Commodore Semiconductor Group), was een Amerikaans bedrijf dat halfgeleiders ontwierp en produceerde. Het bedrijf werd bekend om zijn 6502 microprocessor uit 1975, en diverse ontwerpen voor Commodore's reeks van homecomputers.
+De afkorting MOS staat voor "Metal Oxide Semiconductor" (metaaloxide halfgeleider).
+Geschiedenis.
+MOS Technology, Inc. werd oorspronkelijk opgericht in 1969 door het Amerikaanse bedrijf Allen-Bradley als tweede aanvoerbron voor de productie van elektronische rekenmachines en bijbehorende chips.
+In 1975 verliet een aantal werknemers Motorola om bij MOS Technology te gaan werken. Het team van vier ontwerpers werd aangestuurd door Chuck Peddle en Bill Mensch, en hun eerste ontwerpen waren de 6501- en 6502-processor. Het ontwerp leek op de Motorola 6800, maar was vier keer sneller door het aanbrengen van diverse simplificaties. In 1975 klaagde Motorola MOS Technology aan omdat het de processoren te veel op zijn 6800-processor vond lijken. De zaak werd geschikt en de 6501 werd van de markt gehaald.
+De 6502 werd wel verder ontwikkeld en MOS bracht in 1976 de KIM-1-computer op de markt. Later dat jaar werd MOS Technology overgenomen door Commodore en zou vanaf dan Commodore MOS Technology heten. Later, in de jaren tachtig, werd ook de naam Commodore Semiconductor Group gebruikt.
+Kort na de overname door Commodore verliet Bill Mensch het bedrijf om Western Design Center op te richten.
+MOS werd het hart van Commodore. Het ontwierp nagenoeg alle chips voor 8 bitreeks-computers van Commodore. Alhoewel de Commodore Amiga gebruikmaakte van de Motorola 68000-processor, waren de overige chips, waaronder de revolutionaire beeld- en geluidschips, door MOS ontwikkeld.
+Na de ondergang van Commodore in 1994 heeft het bedrijf nog enige jaren doorgedraaid onder de naam GMT Microelectronics. Het bedrijf moest echter een overeenkomst afsluiten met de Amerikaanse Environmental Protection Agency, de grond onder de fabriek bleek ernstig vervuild, en dit moest opgeruimd worden. Het bedrijf bleek niet in staat deze na te leven en ging in 2001 definitief ter ziele.

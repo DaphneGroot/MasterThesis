@@ -1,0 +1,4 @@
+Ruit (meetkunde).
+Een ruit is in de meetkunde een vierhoek waarvan de vier zijden even lang zijn. De tegenover elkaar gelegen hoeken zijn gelijk aan elkaar. Bij een gewone ruit (een ruit die geen vierkant is) zijn twee overstaande hoeken scherp, de andere twee zijn stomp. Elke ruit is een parallellogram (overstaande zijden zijn evenwijdig met elkaar), maar enkel een parallellogram waarvan de zijden even lang zijn, is ook een ruit.
+De twee diagonalen van een ruit snijden elkaar loodrecht, hetgeen te zien is door de symmetrie van de zijden en hoeken.
+Een bijzondere vorm van een ruit is het vierkant. Deze vierhoek heeft niet alleen vier gelijke zijden maar ook vier gelijke hoeken, die elk 90° zijn (ook wel rechte hoek genoemd).

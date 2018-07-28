@@ -1,0 +1,14 @@
+Transmission Control Protocol.
+Het Transmission Control Protocol (TCP) is een verbindingsgeoriënteerd protocol dat veel gebruikt wordt voor gegevensoverdracht over netwerkverbindingen op het internet en op computernetwerken zoals local area networks en thuisnetwerken.
+IP is een IP-netwerkprotocol voor stabiele, betrouwbare netwerkverbindingen en geen verbindingsloos protocol zoals UDP en GRE. TCP heeft als kenmerken dat het gegevens in een datastroom kan versturen, waarbij de garantie wordt geleverd dat de gegevens aankomen zoals ze verstuurd werden, en eventuele communicatiefouten, zowel in de gegevens zelf als in de volgorde van de gegevens kunnen worden opgevangen. Hierdoor hoeft een clientapplicatie die TCP als transmissieprotocol gebruikt, geen rekening te houden met de onderliggende netwerkarchitectuur en eventuele fouten in de communicatie.
+TCP wordt beschreven in het RFC (Request For Comment) 793.
+TCP versus UDP.
+TCP gebruikt men dus primair als de overdracht zeker en compleet moet zijn (o.a. bij bestandsoverdracht); UDP gebruikt men als de overdracht vooral snel moet zijn (telefoon, video).
+TCP-header.
+De volgende velden zijn gedefinieerd voor headers van TCP-segmenten.
+De hoeveelheid ruimte die voor ieder onderdeel gereserveerd is, is tussen haakjes opgegeven.
+Netwerkverbindingen.
+De netwerkverbindingen worden door middel van TCP-handshakes gemaakt en aan het eind van een TCP-sessie verbroken met een handshake voor het beëindigen van een sessie. Om een TCP-verbinding op te bouwen stuurt de client een TCP-pakket naar de server met de zogenaamde SYN-vlag. Als de server de verbinding accepteert, wordt een pakket teruggestuurd met zowel een SYN- als ACK-vlag. Als de client vervolgens de server accepteert, stuurt deze een pakketje met de ACK-vlag naar de server. Hierna kunnen pakketjes met de juiste identificatienummers vrij uitgewisseld worden tussen client en server. Iedere keer wordt de checksum van zo'n pakketje gecontroleerd en het pakketje wordt opnieuw opgevraagd indien er een fout in zit. Als er een heel pakket verdwijnt, is dit te merken aan het ack-nummer. Zodra de verbinding gesloten wordt, stuurt de server of client een pakket met de FIN-vlag, waarna de andere kant antwoordt met een ACK-vlag en dit vervolgens in de omgekeerde richting gebeurt, zodat beide partijen op de hoogte zijn dat de connectie werd opgeheven.
+Poorten.
+De poortnummers worden toegewezen door het IANA en onderverdeeld in "well-known" (poorten 0 tot 1023), "registered" (poorten 1024 tot 49151) en "dynamic/private" (poorten 49152-65535). De toewijzing is een richtlijn en geen regel.
+Diagram van het verloop van een TCP-verbinding

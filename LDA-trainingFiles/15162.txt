@@ -1,0 +1,17 @@
+Peil.
+Peilschaal in Woerden. Het wateroppervlak staat op 188 cm onder NAP
+Het peil is de waterstand (het niveau) in een polder en het water eromheen, de boezem, die door een waterschap wordt gehandhaafd, het polderpeil (PP). Dit kan met behulp van gemalen, spuisluizen en stuwen. In de zomer is het peil in de polder vaak hoger dan in de winter, omdat er in de zomer in de polder meer water nodig is. Daarom spreekt men in dit kader wel van zomerpeil en winterpeil.
+Het peil is de hoogte (het niveau) van een vloeistofspiegel, doorgaans van water, ten opzichte van een referentieniveau. Het peil wordt ook wel de waterstand genoemd en kan betrekking hebben op zowel oppervlaktewater als grondwater. Het peil wordt in België afgemeten aan de Tweede Algemene Waterpassing (TAW) en in Nederland gerelateerd aan het Normaal Amsterdams Peil (NAP).
+Streefpeil.
+Omdat water nu eenmaal tijd nodig heeft om ergens naartoe te stromen, is de waterstand achter in een polder vaak hoger dan bij het gemaal. En omdat het water uit de polder naar de boezem wordt uitgeslagen en niet altijd meteen kan afvloeien, varieert ook daar de waterstand. Men spreekt daarom vaak van streefpeil, het niveau dat pas ontstaat in toestand van rust (als er geen stroming meer is).
+Er wordt wel getracht deze waterstand binnen bepaalde grenzen te houden. Dit streefpeil heet boezempeil (BP).
+Kanaalpeil.
+Dit peil (KP) wordt afgeleid van het Normaal Amsterdams Peil. Als het water openstaat voor de scheepvaart, is het voor de schipper veel handiger niet steeds te hoeven berekenen hoe hoog de overspanningen boven het water zijn. In dat geval kan hij rekenen met het kanaalpeil en alleen de afwijking daarvan door bemaling, op- en afwaaïng van de peilschaal af te lezen.
+Stuwpeil.
+De grote rivieren hebben geen vast peil, maar als er een stuw in gebouwd is kent men daar wel een "stuwpeil" (SP).
+In de bouw.
+In de bouw is het 'peil' het horizontale vlak van waaruit alle hoogten in een gebouw worden bepaald. Meestal is dit de bovenkant van de afgewerkte beganegrondvloer die op "peil is nul" ligt (peil = 0). Tevens kan worden bepaald hoeveel deze vloer hoger of lager ligt dan NAP.
+Bij motoren.
+Bij motoren spreekt men o.a. van 'oliepeil', waarmee bedoeld wordt het niveau van de smeerolie in het carter. Dit niveau wordt dan bepaald met een peilstok en mag niet te hoog of te laag staan. In moderne motoren worden deze niveaus ook automatisch gemeten en de "electronic control unit" (ECU) geeft een waarschuwing als een peil onjuist is.
+Bij voertuigen.
+Vloeistoffen in een voertuig waarvan het peil kan worden vastgesteld zijn remvloeistof, koelvloeistof en motorbrandstof.

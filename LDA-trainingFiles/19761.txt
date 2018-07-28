@@ -1,0 +1,7 @@
+Whois.
+Whois (uitspraak: who is) is een protocol om gegevens van een domeinnaam of IP-adres te achterhalen door middel van een query/vraag aan een database. In een whois staan meestal de naam en contactgegevens van de eigenaar, de provider en nameservers van de DNS-servers.
+Traditioneel werden whois-zoekopdrachten gedaan met het codice_1 command line-programma (IETF standaard RFC3912), maar tegenwoordig zijn er ook veel websites die deze service bieden. Deze resultaten van een zoekopdracht kunnen per domein verschillen. Omdat het aantal domeinnamen en nieuwe TLD's toeneemt is codice_1 een handig programma waarmee eigenaren en registars van domeinen en IP-adresblokken met een enkele zoekopdracht direct opgezocht kunnen worden.
+Whois-servers domeinextensies.
+Voor domein-extensies zijn er ook whois-servers. Voor de meeste land-extensies geldt dat er één centrale whois-server is. Voor gTLD's als.com.net en.org is het meestal gedistribueerd: er is dan één centrale whois-server (van het registry) die doorverwijst naar de instantie die daadwerkelijk het domein geregistreerd heeft. In onderstaand overzicht wordt alleen de server van het registry vermeld, en niet die van onderliggende registrars.
+Voorbeelden.
+gebruiker@pc:~$ cat wikipedia.org | grep -i ^admin

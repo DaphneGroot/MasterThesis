@@ -1,0 +1,5 @@
+Altostratus.
+Ci=Cirrus, Cs=Cirrostratus, Cc=Cirrocumulus, As=Altostratus, Ac=Altocumulus, Ns=Nimbostratus, Cb=Cumulonimbus, Cu=Cumulus, Sc=Stratocumulus, St=Stratus
+De altostratus is een egaal grijsachtig wolkengeslacht. Die bewolking ontstaat op de grens tussen koude en warmere lucht, waarbij de warme lucht over de zwaardere koude lucht schuift. Duitse meteorologen noemen dat proces "Eintrübung". Eerst is de omtrek van de zon of de maan er nog doorheen te zien (translucidus), maar meestal wordt de bewolking snel dichter, verdwijnt de zon en zet de neerslag in (opacus). Soms komt deze bewolking in verschillende lagen voor (duplicatus).
+Deze wolk kan overgaan in de nimbostratus.
+In weerberichten is de afkorting As en het symbool op weerkaarten is: 25px

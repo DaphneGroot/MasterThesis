@@ -1,0 +1,7 @@
+Broncode.
+Broncode in Java met commentaar in rood en groen, de uitvoerbare code is blauw weergegeven.
+De broncode (ook wel brontekst of in het Engels "source" of "source code") van een computerprogramma is de leesbare tekst die door de programmeur in een programmeertaal is geschreven. Dit in tegenstelling tot de "uitvoerbare (executable) code" of doelcode (object-code) zoals die door een compiler of interpreter vanuit deze broncode gegenereerd wordt.
+Ook spreekt men van de broncode van een opgemaakte tekst.
+Gebruik van broncode van een computerprogramma.
+De broncode kan op een aantal manieren worden omgezet naar uitvoerbare code, zodat het programma uitgevoerd kan worden.
+Er bestaat ook een constructie waarbij de broncode in een andere hogere taal wordt vertaald. Bijvoorbeeld in de taal SQL, waarbij de universele PL/SQL-compiler de broncode naar een C-code (ontdaan van objectgeoriënteerde code maar voorzien van 'embedded SQL') vertaalt, die automatisch door een 'native' C-compiler weer vertaald wordt naar een optimale machinecode.

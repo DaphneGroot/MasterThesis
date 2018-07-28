@@ -1,0 +1,5 @@
+Fout-positief en fout-negatief.
+Van fout-positief of fout-negatief is sprake, als de uitslag van een test niet overeenkomt met de werkelijkheid.
+Wordt bijvoorbeeld getest of een persoon een bepaalde ziekte heeft en geeft de test aan dat dat inderdaad het geval is, terwijl de ziekte in werkelijkheid niet aanwezig is, dan is de uitslag van de test fout-positief. In het geval van een statistische toets wordt voor deze fout de term "fout van de eerste soort" of "fout van type I" genoemd.
+Geeft de test aan dat de persoon de ziekte niet heeft, terwijl dat in werkelijkheid wel het geval is, dan is de uitslag van de test fout-negatief. Bij een statistische toets spreekt men van een "fout van de tweede soort" of "fout van type II".
+In plaats van het correcte woord "fout-positief" wordt vaak ook het barbarisme "vals-positief" gebruikt.

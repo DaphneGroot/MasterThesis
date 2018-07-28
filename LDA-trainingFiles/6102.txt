@@ -1,0 +1,12 @@
+Neurotransmitter.
+2 - blaasje vol met neurotransmitter
+7 - blaasje staat neurotransmitter af
+Een neurotransmitter of overdrachtstof is een signaalstof die in synapsen zenuwimpulsen overdraagt tussen zenuwcellen ('neuronen') in het zenuwstelsel of impulsen overdraagt van motorische zenuwcellen op spiercellen of van zenuwreceptoren op sensorische zenuwcellen.
+Impulsoverdracht.
+In de cel zijn neurotransmitters opgeslagen in kleine synaptische blaasjes. Ze worden zodra er een zenuwimpuls komt heel snel uit de cel vrijgemaakt door middel van exocytose, en diffunderen dan over de synaps om aan de receptoren die aan de buitenkant van de ontvangende cel te vinden zijn te binden. Daarbij gaat het om de binding van de neurotransmitter aan een ionotrope receptor waardoor een ionkanaal geopend wordt. Daardoor wordt een verandering van de membraanpotentiaal in de ontvangende zenuwcel in gang gezet. Als er voldoende neurotransmitter afgegeven is kan dat een actiepotentiaal op gang brengen.
+"Afbraak" vindt plaats door enzymen die in de synaps aanwezig zijn. Sommige neurotransmitters zoals serotonine worden echter ook heropgenomen en hergebruikt; speciale eiwitten in de presynaptische zenuwcel zorgen dan voor heropname van de neurotransmitter.
+Stimulerende en remmende activiteit.
+Er zijn neurotransmitters die de activiteit van de zenuwcel die zij bereiken stimuleren en er zijn andere die de activiteit van het bereikte neuron kunnen remmen. De belangrijkste stimulerende of exciterende neurotransmitter is glutamaat, de belangrijkste remmende of inhiberende neurotransmitter is GABA (gamma-aminoboterzuur). Een verstoring van de natuurlijke verhoudingen stimulerende ("excitatoire") en remmende ("inhibitoire") neuronen is mogelijk een oorzaak van epilepsie.
+Stoffen die de werking van een neurotransmitter (of een hormoon) stimuleren, noemen we agonisten. Stoffen die de werking remmen heten antagonisten. Er zijn ook stoffen die de activiteit van de afbreekenzymen stimuleren of remmen; deze stoffen hebben dus indirect ook invloed op de activiteit van neurotransmitters. Veel sterke natuurlijke en synthetische vergiften en geneesmiddelen werken op neurotransmitters of hun receptoren.
+Biosynthese.
+Taurine voldoet aan de meeste, zo niet alle criteria waaraan een neurotransmitter moet voldoen. Of taurine ook beschouwd kan worden als neurotransmitter is echter nog onderwerp van debat.

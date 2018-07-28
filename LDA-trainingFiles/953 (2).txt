@@ -1,0 +1,16 @@
+Ruby (programmeertaal).
+Ruby is een programmeertaal, die doorgaans wordt geïnterpreteerd. De taal is ontworpen om snel en makkelijk objectgeoriënteerd te programmeren. Het heeft verschillende mogelijkheden om tekstbestanden te verwerken en kan ook systeemtaken aan.
+Er is een opensource- en gratis implementatie beschikbaar van Ruby.
+De grammatica van Ruby is geïnspireerd op andere talen zoals Ada en Eiffel. De taal combineert elementen van verschillende andere scripttalen.
+Ruby wordt vaak vergeleken met Python en Perl.
+Geschiedenis.
+Ruby werd op 24 februari 1993 in het leven geroepen door Yukihiro Matsumoto (beter bekend als "Matz") en uitgebracht in 1995. Yukihiro "Matz" Matsumoto
+Ruby is geen afkorting, maar is afgeleid van het Engelse woord voor robijn, "ruby", een woordspeling op Perl (afgeleid van "pearl": Engels voor parel). De auteur zegt dat hij Ruby gemaakt heeft om 'het principe van de minste verrassing' te volgen, waarmee hij bedoelt dat de taal vrij zou moeten zijn van de angels en voetklemmen die andere talen teisteren.
+Het gebruik van Ruby groeide enorm nadat het op Ruby gebaseerde ontwikkelsysteem Ruby on Rails uitkwam en door veel ontwikkelaars gebruikt werd voor het bouwen van webapplicaties.
+In januari 2009 werd Ruby 1.9.1 uitgebracht. Deze versie was gebaseerd op de YARV-interpreter in plaats van het vaak tragere MRI. Daarnaast zijn er diverse wijzigingen in de syntaxis doorgevoerd.
+alias, and, begin, BEGIN, break, case, class, def, defined, do, else, elsif, end, END, ensure, false, for, if, in, module, next, nil, not, or, redo, rescue, retry, return, self, super, then, true, undef, unless, until, when, while en yield.
+Voorbeeldscript.
+attr_accessor:name,:age
+@age = age.to_i
+Nederlandse documentatie.
+Op 16 oktober 2008 publiceerde Ivo Balbaert het eerste Nederlandstalige boek over Ruby genaamd "Handboek Programmeren met Ruby en Rails" (ISBN:978-90-5940-365-9)

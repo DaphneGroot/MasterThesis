@@ -1,0 +1,7 @@
+Stub.
+Een stub is in de informatica een tijdelijke versie van een functie. Een stub is een testtool.
+Een stub vervangt een nog ontbrekende (sub)module en reageert net als het ontbrekende gedeelte. Hierdoor is de communicatie met het nog ontbrekende stuk toch te testen. De stub legt wel de naam en basisfunctionaliteit vast, maar heeft geen of slechts zeer beperkte functionaliteit. De bedoeling is dat de stub-implementatie later opnieuw bekeken wordt en vervolledigd.
+Stubs worden veel gebruikt bij top-down systeemontwikkeling. Door voor onderliggende (ontbrekende) modules stubs op te nemen (een procedure die alleen parameters accepteert maar nog niets doet) kan wel de logica van het hogerliggende programma getest worden.
+Testen met stubs.
+Stubs (of test-stubs) worden ook gebruikt om modulair te testen. De stub heeft dan een implementatie, al zal die sterk afwijken van de functionele (echte) implementatie. Hierdoor kan een module(-onder-test) geïsoleerd worden (getest) van andere modules.
+Zo'n test-stub biedt ook andere voordelen voor het (module)testen. Zo kan een stub elk gewenst (test)gedrag vertonen. Dit is vooral handig als de (echte) aangeroepen module ook foutcondities kan teruggeven; vooral als die weinig of nooit voorkomen in het echt (voorbeeld: ERROR_NO_MEMORY). Een stub kan bijvoorbeeld elke 5-de keer die melding geven. Daarmee kan de code in de module-onder-test die dat afhandelt getest worden.

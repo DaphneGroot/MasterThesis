@@ -1,0 +1,18 @@
+Worteltrekken.
+Worteltrekken is een van de inverse operaties van het machtsverheffen (de andere inverse operatie is logaritme nemen). Voor informatie over de wiskundige betekenis van de wortel gaat u naar Wortel (wiskunde).
+Handmatig worteltrekken.
+Het trekken van een vierkantswortel uit een getal "k" komt neer op het zoeken naar een getal dat in het kwadraat "k" oplevert. Deze operatie is vrij bewerkelijk als "k" geen kwadraat is van een natuurlijk getal. De derdemachtswortel kan ook met de hand worden getrokken.
+Hieronder volgt een strategie om iedere vierkantswortel te berekenen.
+Factoriseren en vereenvoudigen.
+Aangezien 7 een priemgetal is, is de factorisatie klaar.
+In het kort: formula_4. In de wiskunde wordt doorgaans deze vereenvoudigde vorm gebruikt. Exacter is het niet uit te drukken.
+Benaderen van de wortel.
+Uitgebreidere rekenmachines hebben een worteltrekfunctie. Met pen en papier valt de wortel ook te trekken. Het is een iteratief proces dat overeenkomsten vertoont met de staartdeling. Vanwege het dubbele product moet de vorige uitkomst steeds maal twee genomen worden. Het algoritme staat al in onder meer Nederlandse rekenboeken uit de 17e eeuw.
+Voorbeeld 1.
+formula_5
+Voorbeeld 2.
+Zoek vervolgens het grootst mogelijke getal y zodat (2×20+y)y ≤ 143. Het getal 20 komt van het in de vorige stap gevonden cijfer 2.
+Hier past het cijfer 3. Bepaal ook weer de rest en haal het volgende groepje erbij.
+Zo gaat het verder: Zoek weer het grootst mogelijke getal y zodat (2×230+y)y ≤ 1400. Het getal 230 komt van de in de vorige stappen gevonden cijfers 23.
+Hier past het cijfer 3. Bepaal ook weer de rest en haal het volgende groepje erbij. Zoek het grootst mogelijke getal y zodat (2×2330+y)y ≤ 1400. Het getal 2330 komt van de in de vorige stappen gevonden cijfers 233.
+Wortel 543 met 4 cijfers achter de komma: 23,3023.

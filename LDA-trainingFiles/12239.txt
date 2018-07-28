@@ -1,0 +1,38 @@
+Elektrische gitaar.
+Een elektrische gitaar is een gitaar die doorgaans geen klankkast heeft maar haar geluid uiteindelijk produceert door een luidspreker.
+De trillingen van de stalen snaren worden opgepikt door elektromagnetische opnemers (elementen) die bestaan uit magneten en spoelen. De verstoringen van het magneetveld worden omgezet in elektrische stroom die via een instrumentkabel van de gitaar naar een versterker wordt geleid. Deze versterker zet het elektrische signaal uiteindelijk met een luidspreker om in hoorbaar geluid. De vorm van de gitaar is nauwelijks van belang voor de uiteindelijke klank van de gitaar maar des te meer voor het speelgemak. Hoe minder geluid er van de trillende snaar wordt overgedragen op de 'body' van de gitaar, hoe langer een snaar kan blijven trillen. Dit lange doorklinken (sustain) geeft mogelijkheden die een akoestische gitaar niet heeft. Vaak is er op de elektrische gitaar een vibratosysteem (ook bekend als tremolo, al is dat iets anders) gemonteerd, waarmee je de klank van de gitaar kan laten vibreren door de spanning in de snaren afwisselend te verlagen en te verhogen.
+Geschiedenis.
+Enkele van de eerste elektrische gitaren gebruikten pickups van wolfraam en werden in de jaren dertig gemaakt door Rickenbacker, ontworpen door George Beauchamp. De eerste opname met een elektrische gitaar gebeurde door jazzgitarist Eddie Durham in 1937. Durham toonde het instrument aan de jonge Charlie Christian, die het instrument bekend maakte. Hij had een grote invloed op jazzgitaristen gedurende tientallen jaren.
+Het bedrijf Audiovox bouwde midden jaren dertig een solidbody-gitaar en zou die ook verkocht hebben. In het begin van de jaren veertig bouwde musicus en uitvinder Les Paul, die werkte bij de Gibson Guitar Corporation, in zijn vrije tijd ook een solidbody-gitaar, en hij nam er patent op.
+In 1950 en 1951 ontwierp Leo Fender, bouwer van elektronische versterkers, de eerste commercieel succesrijke solidbody elektrische gitaar met een enkele magnetische pickup, de "Fender Esquire", voorloper van de Telecaster.
+In 1954 introduceerde Fender de Fender Stratocaster of de "Strat".
+De Stratocaster is de meest verkochte gitaar aller tijden.
+Fender was ook de eerste die met een elektrische basgitaar kwam in 1951, de Precision Bass.
+Soorten elektrische gitaren.
+De meeste elektrische gitaren zijn in drie groepen in te delen: solid-body, semi-solid en hollow-body, maar er zijn nog andere indelingen mogelijk.
+Solid-body.
+De body is massief of uit twee gelamineerde delen opgebouwd en klankkastresonantie is totaal afwezig. Van rondzingen (feedback) heeft de solid-body minder last zodat ze beter geschikt is voor hoge geluidsniveaus. Deze gitaar levert meer sustain en hoge tonen. De bekendste modellen zijn: Fender Telecaster, Fender Stratocaster, en Gibson Les Paul.
+Semi-solid/semi-hollow.
+Deze soort is een semi-akoestische gitaar, voorzien van een klankkast (meestal met F-gaten), met daarin een massief stuk hout, en die qua klank het midden houdt tussen de twee andere varianten. Deze gitaar valt binnen de categorie semi-akoestische gitaren. Ze worden ook vaak aangeduid als thinline modellen. De bekendste voorbeelden zijn: Gibson ES335, Epiphone Casino en de Rickenbacker 360.
+Hollow-body.
+Deze soort is voorzien van een volwaardige klankkast. De klank wordt extra versterkt door een elektrische opnemer. Ook deze gitaar valt binnen de categorie semi-akoestische gitaren. De bekendste modellen zijn de Gretsch 6120, de Gibson L5 en de Gibson Super 400ces.
+Baritongitaar.
+Deze gitaar is een kwart lager gestemd in B.
+Eensnarige gitaren.
+De eensnarige gitaar is een zeldzaam voorkomende gitaar die vooral in de Delta blues voorkwam in de jaren dertig en veertig. Eddie One String Jones had regionaal succes met een versie van "Rolling and Tumbling Blues" op een eensnarige gitaar met een pick-up en Mississippi-bluesmuzikant Lonnie Pitchford bespeelt een vergelijkbaar, zelfgemaakt instrument.
+Zevensnarige gitaren.
+De zevensnarige gitaar heeft meestal een extra lage B-snaar boven de E-snaar. John Petrucci en Steve Vai en later Limp Bizkits gitarist Wes Borland en Korns James Shaffer hebben deze gitaar populair gemaakt. Ibanez is de belangrijkste producent van zevensnarige gitaren. Omdat dit merk zich vooral op "technische" progressive rock-, shred- en metal-gitaristen richt, is dat ook logisch te verklaren, een 7-snaar vraagt een wat technischer benadering van gitaarspelen. Tijdens de hoogtij dagen van de Nu metal (zo rond het jaar 2000) waren deze gitaren een populair stuk gereedschap om "extra diep te kunnen grommen".
+Twaalfsnarige gitaren.
+Twaalfsnarige gitaren hebben zes paar snaren, meestal met elk paar in dezelfde noot gestemd.
+Bij de extra E-, A-, D- en G-snaren is de extra noot een octaaf hoger. De snaarparen worden gezamenlijk gespeeld, dus de techniek en stemming zijn dezelfde als bij een gewone gitaar, echter de klank is voller. Deze gitaar wordt vooral veel gebruikt in folk en ballades. De Rickenbacker 365 is een bekend voorbeeld van een 12-snarige elektrische gitaar. Er bestaan ook negensnarige varianten, waarbij alleen de dunne snaren gedubbeld zijn. Dit is een soort compromis tussen de zessnarige en de twaalfsnarige. Het voordeel van negen snaren is dat je de bassnaren wat droger en 'normaler' kunt bespelen, terwijl de akkoordsnaren toch de zweving hebben die zo kenmerkend is bij twaalf snaren. De Vox Mark IX is een bekend voorbeeld van zo'n gitaar.
+Achttiensnarige gitaar.
+Experimenteel gitaarbouwer Yuri Landman ontwierp in 2007 voor Sonic Youth een achttiensnarige stereo elektrische dronegitaar met een dubbelvoudige kop, de Moonlander.
+3rd bridge-gitaren.
+Een 3rd bridge-gitaar is een geprepareerde gitaar met een extra derde brug. Dit kan een normale gitaar zijn die aangepast is, of een zelfgebouwd instrument. Lee Ranaldo van Sonic Youth is bekend om zijn schroevendraaiertechniek, waarbij hij een schroevendraaier tussen de snaren en de toets klemt op harmonische posities om resonanties te creëren. Glenn Branca, Bradford Reed en Yuri Landman zijn gitaarbouwers die speciale afwijkende instrumenten bouwden om deze techniek beter uitvoerbaar te maken.
+Dubbelhalsgitaren (Double Neck).
+Een dubbelhals, of dubbelnek is een gitaar met twee halzen. Deze gitaren bestaan in verschillende vormen, namelijk met een van de halzen twaalfsnarig en de andere zessnarig (Gibson EDS 1275, zoals gebruikt door Jimmy Page en Pete Townshend), beide halzen twaalfsnarig of zessnarig, of een van de twee halzen akoestisch en de andere elektrisch (Guild Crossroads, zoals gebruikt door Slash), of zelfs een twaalfsnarige hals gecombineerd met een basgitaar (custom gebouwd voor Mike Rutherford). De reden tot het gebruiken van een dubbelhals is simpel: een artiest moet in een paar seconden kunnen overstappen van twaalfsnarig naar zessnarig of andersom.
+Een doubleneck is vaak voorzien van een driestandenschakelaar waarmee men: (stand 1) gitaar 1 aanzet en gitaar 2 uit, (stand 2) gitaar 1 en 2 allebei aanzet of (stand 3) gitaar 2 aan en gitaar 1 uit.
+Bouwers.
+Bekende gitaarbouwers van elektrische gitaren zijn onder andere Les Paul, Fender, Gibson, Ibanez, en ESP.
+Top 100.
+In 2004 publiceerde het Amerikaanse tijdschrift Rolling Stone een top 100 van de beste gitaristen van de wereld.

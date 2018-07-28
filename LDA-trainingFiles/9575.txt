@@ -1,0 +1,3 @@
+Cat (Unix).
+cat bestand1 bestand2 bestand3 | een_commando met eventueel argumenten
+cat is onderdeel van het pakket GNU Core Utilities.

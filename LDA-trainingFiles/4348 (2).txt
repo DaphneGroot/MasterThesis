@@ -1,0 +1,8 @@
+Calorie.
+De calorie (van Lat. "calor", warmte) is een verouderde eenheid voor energie of warmte. De calorie is officieel vervangen door de joule, maar vooral in de voedingsindustrie is de calorie een nog veelgebruikte maat voor een hoeveelheid energie.
+Eén calorie is de hoeveelheid energie die nodig is om één gram zuiver water één kelvin (of 1 graad Celsius) te verwarmen (zie beneden bij "Definities van calorie").
+Dit is erg weinig, daarom wordt vaak de kilocalorie, afgekort kcal, gebruikt. Dit is de hoeveelheid energie die nodig is om één kilogram water één graad Celsius te verwarmen.
+Tegenwoordig wordt energie in het SI-stelsel in joule uitgedrukt. 1 calorie = 4,1868 joule.
+In diëten en dergelijke gebruikt men soms de benaming "calorie" voor "kilocalorie", wat zeer begrijpelijk voor verwarring zorgt.
+In de voedingswaardeberekening en bij diëten wordt de kilocalorie nog veel gebruikt hoewel hij langzaam maar zeker door de kJ wordt verdrongen. Overigens wordt in diëetprogramma's en calorieëntabellen weleens de waarde van 1 kcal = 4,184 kJ aangehouden. Dit is echter de waarde van de "thermochemische calorie" (zie beneden bij "Definities van calorie"). Praktisch merkbare gevolgen heeft dit echter niet.
+Normaal gebouwde, geen zwaar werk verrichtende vrouwen hebben ongeveer 2000 kilocalorie per dag nodig en dito mannen ongeveer 2500 kilocalorie.

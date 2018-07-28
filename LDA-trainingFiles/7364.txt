@@ -1,0 +1,9 @@
+Z-score.
+De Z-score aangegeven op een normaalverdeling.
+De Z-score betekent een gestandaardiseerde waarde die zich met andere Z-scores laat vergelijken. Een Z-score gelijk aan 2, wat wil zeggen dat Z de waarde 2 aanneemt, betekent dat de stochastische variabele "X" zelf een waarde aanneemt die twee standaardafwijkingen voorbij zijn verwachtingswaarde ligt. Dat kan voor de ene stochastische variabele een waarde 0,1 betekenen en voor een andere een waarde 32100.
+Op basis van de ongelijkheid van Tsjebysjev kan worden afgeleid dat Z-scores van ± 3 en extremer vrij zeldzaam zijn; ongeacht het type verdeling is de kans hierop hooguit 1/9. Voor de meeste kansverdelingen is deze kans overigens veel kleiner; zo is voor de normale verdeling de kans op een Z-score van 3 kleiner dan 0,002.
+Eigenschappen.
+De verwachting van de Z-score is altijd nul en de standaardafwijking 1. Als X normaal verdeeld is, is Z standaardnormaal verdeeld.
+Z-scores maken het in bepaalde gevallen mogelijk om steekproeven uit verschillende populaties op een zinvolle manier (via hun Z-scores dus) met elkaar te vergelijken.
+Opmerking.
+Vaak ziet men een uitdrukking als "Z=2", met de betekenis dat de Z-score gelijk is aan 2. Men moet daarbij echter steeds bedenken, dat "Z" een stochastische variabele is en niet gelijk kan zijn aan het getal 2. Wel kan in een bepaalde situatie of steekproef voor Z de waarde 2 waargenomen worden.

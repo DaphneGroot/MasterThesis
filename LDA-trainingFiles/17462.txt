@@ -1,0 +1,7 @@
+Fredgambiet.
+Het Fredgambiet is bij het schaken een opening van een partij. Het Fredgambiet heeft als beginzetten: 1.e4 f5 Eco-code B 00.
+Varianten.
+Een speelbare variant is 1. e4 f5 2. exf5 Pf6 3. d4 d5 4. Ld3 Pc6 5. Pf3 Pe4 6. 0-0 Lxf5
+1.e4 f5 2.exf5 Pf6 3.d4 d5 4.Pf3 Pc6 5.Ld3 e6 6.fxe6 Lxe6 7.0-0 Le7 8.h3! Pe4 9.Pc3 Pxc3 10.bxc3 0-0 11.Tb1 Tb8 12.Pe5 Pxe5 13.dxe5 Dd7 14.De2 a6 15.Td1 b5 16.Le3 en wit heeft een licht voordeel maar zwart heeft voldoende tegenspel.
+1.e4 f5 2.exf5 Pf6 3.Pf3 d5 4.d4(Ld3) Lxf5 5.Lf4(Ld3) e6 6.Pe5 Lb4+ 7.c3 Ld6 8.Ld3 Lxe5 9.dxe5?(Lxe5) Lxd3 10.Dxd3 Ph5! 11.Le3(Ld2) 0-0 12.Pd2?(0-0) Pd7 13.Pf3? Txf3!
+1.e4 f5 2.Pc3?! fxe4 3.d3 exd3 4.Lxd3 Pf6 5.g4 g6 6.g5 Ph5 7.Pf3 d6 8.Ph4 Pg7 9.0-0 Pc6 10.Le3 Pe5 11.Le4 c6 12.f4 Pc4 13.Lf2 d5 14.De2 Dd6 15.b3 Pb6 16.Td1 Pe6 en zwart staat iets beter.

@@ -1,0 +1,13 @@
+Permanente magneet.
+Een permanente magneet, meestal gewoon als magneet aangeduid, (in de volksmond ook soms trekstaal of plakijzer genoemd) is een voorwerp dat van zichzelf magnetisme vertoont. Dit in tegenstelling tot een elektromagneet, waarvan het magnetisme het gevolg is van de elektrische stroom door de spoel. Een permanente magneet bestaat uit ferromagnetisch materiaal waarin de magnetische dipolen alle permanent dezelfde kant op staan. Hij oefent een aantrekkende dan wel afstotende werking uit op andere magneten, en een aantrekkende werking op van zichzelf niet magnetisch ferromagnetisch materiaal, zoals ijzer en nikkel. Magnetisme is een eigenschap van het ferromagnetische materiaal waaruit een magneet bestaat.
+Onder bijzondere omstandigheden kan een permanente magneet zijn magnetische eigenschap wel snel verliezen, onder andere door sterke verhitting, stoten en demagnetisering met behulp van andere magneten. Onder normale omstandigheden vindt het verlies van magnetisme echter zeer langzaam plaats.
+Magnetisme.
+Een magneet wekt een magneetveld op, waarvan de sterkte en de richting door veldlijnen wordt voorgesteld. Op voldoende grote afstand wordt dit veld beschreven door een dipoolveld en de sterkte van de magneet door het magnetisch moment. Een magneet vertoont twee plaatsen waar de magnetische werking het sterkst is, deze worden de polen van de magneet genoemd. Een van deze polen richt zich bij een vrij draaibare magneet naar het noorden en wordt daarom noordpool genoemd; de ander pool heet zuidpool. Een merkwaardig gevolg van deze afspraak is dat de magnetische noordpool van de aarde de zuidpool is van de aarde als magneet. De noordpool van een magneet wordt soms ter herkenning rood gekleurd.
+Op tekeningen merkt men de polen met de letters N en S.
+De letter Z wordt afgeraden, omdat die, als de tekening gedraaid wordt, op de letter N lijkt.
+Materiaal.
+Oorspronkelijk werden permanente magneten van staal gemaakt, tegenwoordig bestaan er allerlei legeringen die voor dit doel uitermate geschikt zijn, zoals legeringen van ijzer, nikkel en kobalt waaraan nog enig aluminium, mangaan en koper wordt toegevoegd, of ook keramische stoffen zoals bariumoxide en ijzer(III)oxide.
+Zeer sterke magneten maakt men tegenwoordig uit gesinterde combinaties met zeldzame aarden, zoals samarium-kobalt (SmCo) of neodymium-ijzer-boor (Nd2Fe14B).
+Met supergeleiding zijn (bij zeer lage temperaturen) zeer krachtige elektromagneten mogelijk.
+Toepassing.
+De permanente magneet heeft veel toepassingen, zoals in elektromotoren, kompassen, luidsprekers, gitaarelementen.

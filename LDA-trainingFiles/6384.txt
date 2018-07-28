@@ -1,0 +1,3 @@
+Weber (eenheid).
+De weber (symbool Wb) is de SI-eenheid van magnetische flux.
+De weber is vernoemd naar de Duitse natuurkundige Wilhelm Eduard Weber.

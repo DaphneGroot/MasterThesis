@@ -1,0 +1,30 @@
+Gemaal (waterbouw).
+Interieur van een dieselgemaal in Rijswijk (Zuid-Holland)
+Voormalig scheprad, Koning Willem-Alexander Gemaal, Katwijk
+Een gemaal is een inrichting om water van een lager naar een hoger niveau te brengen. Het brengt of houdt water in een peilgebied op een bepaald peil. Naast gemalen voor watersystemen onderscheiden we ook rioolgemalen.
+Geschiedenis.
+Inwoners van Nederland zijn ongeveer vanaf de 10e eeuw actief met waterbeheersing. Dit betrof enerzijds het tegengaan van de gevaren van hoog water, en anderzijds het droog houden van het land achter de dijken. Door ontbossing, ontwateren en afgraven van onder andere turf, daalde de bodem. Nog steeds ligt een groot deel van Nederland onder het zeeniveau.
+Dit dwong de bewoners tot de aanleg van dijken en terpen, en tot de bouw van spuisluizen om bij laag water het overtollige binnenwater te kunnen lozen. De uitvinding en toepassing van de windmolen als bemalingswerktuig is van grote betekenis geweest. Molens maakten meren droog waardoor er land werd gewonnen, maar ook het risico van overstromingen nam af.
+Na de uitvinding van de stoommachine schakelde men vanaf 1850 in Nederland steeds meer over van wind- naar stoombemaling (stoomgemaal). Na 1900 werden voor de gemalen nieuwe technieken gebruikt, zoals de diesel- en elektromotor.
+Gemalen in watersystemen.
+Gemalen in watersystemen onderscheidt men op verschillende gronden.
+Naar de functie.
+Gemalen bestaan altijd uit een twee belangrijke onderdelen, namelijk een onderdeel dat het water verzet, het opvoerwerktuig, en een onderdeel dat het opvoerwerktuig in beweging zet, het aandrijfwerktuig of de motor.
+Naar soort opvoerwerktuig.
+In de figuur hieronder een overzicht van de toepassing van opvoerwerktuigen zoals dat vanaf 1900 bij nieuwe gemalen in Nederland werd toegepast. Van de schroefpompen was ruim 90% de verticaal geplaatste variant. Alleen gemalen met een capaciteit van 40 m³/min zijn opgenomen.
+Naar soort aandrijfwerktuig.
+In de figuur hieronder een overzicht van de toepassing van aandrijfwerktuigen zoals dat vanaf 1900 bij nieuwe gemalen in Nederland werd toegepast.
+De natte kelder van een rioolgemaal, zogenaamde valroosters voorkomen dat een persoon in de kelder kan vallen.
+Droge kelder van rioolgemaal Landungsbrücken in Hamburg (D)
+Boostergemaal West aan de Postjesweg in Amsterdam
+Rioolgemalen.
+Een rioolgemaal wordt gebruikt in een rioolstelsel om afvalwater naar een hoger peil te brengen of over langere afstand te transporteren. Rioolgemalen zijn vaak kleiner dan de hierboven genoemde poldergemalen omdat ze een kleiner gebied bedienen en alleen afvalwater en slechts een deel van het regenwater te verwerken krijgen.
+Rioolgemalen bestaan doorgaans uit een ontvangstkelder (behalve boostergemalen, zie hieronder) en een besturingsgebouwtje of besturingskast. De pompen worden nagenoeg altijd elektrisch aangedreven.
+Natte kelder.
+De pompen zijn zogenaamde dompelpompen en staan geheel onder water in de ontvangstkelder. Zo'n kelder is doorgaans minimaal 2,5 meter diep, alhoewel veel grotere dieptes ook voorkomen. De pompen worden via een geleidestang naar beneden getakeld en de perszijde van de pomp valt door middel van een klauw in een koppeling aan de persleiding. De pomp heeft aan de onderzijde een opening met een snijwerk om grove delen te versnijden.
+Droge kelder.
+De pompen staan in een droge kelder naast de ontvangstkelder. De pompen zuigen water aan via een leiding en persen het een persleiding in.
+Boostergemalen.
+Boostergemalen - ontwikkeld voor drinkwaterbedrijven, baggeraars, offshorebedrijven en de petrochemische industrie - worden sinds enkele jaren ook ingezet voor het transport van afvalwater door persrioolleidingen. De boostertechniek betekent het verhogen van de druk in vloeistofleidingen, door de vloeistof rechtstreeks van één pompinstallatie naar de volgende te persen. Boostergemalen zijn regelbaar, ze spelen in op de hoeveelheid aangevoerd afvalwater. Het grote voordeel is dat geen ontvangstkelder nodig is. Het systeem wordt daardoor aanmerkelijk kleiner dan een traditioneel rioolgemaal. Bijkomende voordelen zijn ook dat er geen energieverlies optreedt bij de uitstroom in de kelder en dat het systeem volledig gesloten is waardoor geen geuroverlast ontstaat. De bekendste toepassing van boostergemalen voor rioolwater is in Amsterdam van architect Maarten van Bremen. Daar is begin 2006 een nieuwe centrale rioolwaterzuiveringsinstallatie (rwzi) in het Westelijk Havengebied geopend. De nieuwe rwzi zuivert een groot deel het Amsterdamse rioolwater, dat wordt aangevoerd door 49 km persrioolleiding en 4 boostergemalen.
+Bedrijfszekerheid.
+Tegenwoordig hebben de meeste gemalen de mogelijkheid om op afstand bediend te worden, daarnaast worden ze door computers bewaakt (telemetrie). Hierbij controleert een computer op een centrale post de werking van het gemaal. Zo wordt voorkomen dat storingen onopgemerkt blijven. Ook kan een telemetriesysteem adviezen geven over preventief onderhoud. De meeste gemalen hebben vaak meer pompen dan noodzakelijk om uitval van een pomp door een andere pomp op te laten vangen (redundantie). Zo hebben veel rioolgemalen 2 pompen terwijl er normaal gesproken slechts één tegelijk draait. Zodra er een storing in een pomp gesignaleerd wordt door de apparatuur of in oudere installaties door de mens dan wordt een andere pomp ingeschakeld.

@@ -1,0 +1,67 @@
+Pi (wiskunde).
+Het getal, soms geschreven als pi, is een wiskundige constante, met in decimale notatie de getalswaarde Het getal is de verhouding tussen de omtrek en de diameter van een cirkel.
+Symbool.
+Het symbool pi (letter) is de kleine letter "pi" uit het Griekse alfabet (overeenkomend met de Latijnse "p").
+Dit symbool werd door Engelse wiskundigen William Oughtred in 1647, en Isaac Barrow in 1664 al gebruikt als afkorting van het Griekse woord (perifereia = omtrek van een ronde vorm). De verhouding tussen diameter en omtrek gaven zij aan als / waarbij als afkorting van het Griekse woord (diametros = diameter) werd gebruikt.
+In het boek "A New Introduction to Mathematics" van William Jones van 1706 werd de Griekse letter het eerst gebruikt als aanduiding voor de verhouding tussen omtrek en diameter, de wiskundige constante pi. De notatie werd echter pas echt algemeen toen Leonhard Euler die in 1737 overnam.
+Tegenwoordig wordt gebruikt in vrijwel elk wiskunde- en natuurkundeboek.
+De kleine letter dient niet verward te worden met de hoofdletter. Deze laatste wordt in de wiskunde in een geheel andere betekenis gebruikt, namelijk voor een product van een rij getallen.
+Definitie.
+De omtrek van een wiel is gelijk aan 3,141 592 6... maal zijn diameter. Deze verhouding wordt (pi) genoemd.
+Het getal is het getal dat we krijgen wanneer we de omtrek van een cirkel delen door de diameter van die cirkel. De diameter van een cirkel is makkelijk te meten met een liniaal, in tegenstelling tot de omtrek, omdat die niet recht is.
+De animatie toont hoe experimenteel bepaald kan worden. De diameter van de cirkel is 1 genomen. Als de cirkel wordt afgerold, blijkt de omtrek van de cirkel ruim driemaal de diameter te zijn. Bij iedere cirkel is de verhouding tussen omtrek en diameter hetzelfde, en die grootheid noemen we dus.
+Bewijzen.
+Het bewijs dat irrationaal is, is gegeven door Johann Heinrich Lambert in 1761. Het veel lastiger bewijs dat transcendent, ofwel niet-algebraïsch is, volgde ruim een eeuw later in 1882. Ferdinand von Lindemann gaf dit bewijs. In iets technischer termen dan boven stelt dit bewijs vast dat er geen polynoom met gehele coëfficiënten bestaat met als nulpunt. Daardoor is het onmogelijk om in een eindig aantal stappen door constructie met passer en liniaal een vierkant te construeren waarvan de oppervlakte gelijk is aan die van een gegeven cirkel. Met passer en liniaal kunnen slechts algebraïsche getallen worden geconstrueerd.
+ in de meetkunde.
+In de meetkunde hebben formules waarin voorkomt meestal met een cirkel, ellips of bol te maken. De volgende formules kunnen worden gebruikt om met behulp van de straal, of de halve assen voor een ellips, van een meetkundig object de andere grootheden uit te rekenen.
+Ellips met halve assen "a" en "b"
+Getaltheorie.
+De kans dat twee willekeurig gekozen gehele getallen relatief priem zijn, is 6/2, dit volgt uit de getaltheorie.
+Het gemiddelde aantal manieren om een positief, geheel getal te schrijven als de som van twee volmaakte kwadraten, waarbij de volgorde van belang is, is /4.
+Decimale ontwikkeling.
+In plaats van breuken en ezelsbruggetjes konden in berekeningen ook decimale getallen gebruikt worden, toen die weergave van getallen eenmaal ingeburgerd was (waarbij Simon Stevin een grote rol gespeeld heeft). Voor simpel decimaal rekenen op papier is 3,14 (drie komma veertien) meestal goed genoeg, maar een stuk beter is 3,1416 (laatste cijfer omhoog afgerond). Als het preciezer moet, hebben rekenmachines meestal als knopje, waarachter in 8 tot 30 decimalen opgeslagen is. Ook in spreadsheets en programmeertalen zit veelal standaard ingebouwd, bij een wiskundige programmeertaal als Maple of Mathematica kan zelfs met elk gewenst aantal decimalen gerekend worden.
+Zoals boven vermeld is een irrationaal getal en dus niet exact weer te geven.
+De eerste miljoen decimalen van en 1/ zijn beschikbaar gemaakt door het project Gutenberg.
+De geschiedenis van .
+Hierboven werden al wat schattingen genoemd die gebaseerd zijn op geschriften uit de oudheid. Iets heel anders dan een schatting zijn rekenmethodes die een benadering van als uitkomst geven.
+Veelhoeken.
+Cirkel met in- en omgeschreven veelhoeken
+De berekening van Liu Hui komt neer op
+Formules.
+De methode van Archimedes en navolgers is een iteratief proces: Archimedes moest eerst voor de 6-hoek de resultaten berekenen, die werden gebruikt om uitkomsten voor de 12-hoek te kunnen berekenen, die weer nodig waren om de 24-hoek te berekenen, et cetera.
+Reeksen.
+Zoals hier genoteerd lijken de laatste twee formules geen reeks, maar een arcsinus of arctangens is altijd in reeksvorm te gieten (zie aldaar). De laatste reeks, die van Machin, gebaseerd op de reeksontwikkeling formula_27, bleek in het tijdperk vóór de rekenmachines heel erg geschikt om steeds meer decimalen van te berekenen. Machin zelf ging tot 100 decimalen, de Sloveense wiskundige Jurij Vega berekende in 1789 de eerste 140 decimalen voor, waarvan er 126 correct waren. Dit was 50 jaar lang het wereldrecord.
+Convergentiesnelheid.
+De snelheid van convergentie van de eerste vier reeksen is dus tamelijk laag. Van de 5e reeks zijn 13 termen voldoende voor een nauwkeurigheid van 9 decimalen, van de 6e reeks 6 termen. Bij deze laatste twee reeksen is de limiet van het quotiënt van twee opeenvolgende termen in absolute waarde kleiner dan 1, wat een snelle convergentie garandeert.
+Per extra term bij de sommatie wordt de benadering 14 cijfers nauwkeuriger.
+Moderne methoden.
+Rond 1973 ontdekten onafhankelijk van elkaar Eugène Salamin en Richard Brent dat ouder werk van Gauss, het algoritme van Gauss-Legendre, ook gebruikt kon worden om te benaderen. Bij alle eerdere methoden leverde iedere stap hetzelfde aantal nieuwe decimalen op, maar bij Brent en Salamin verdubbelde het aantal decimalen bij elke stap. Na slechts 25 stappen zijn er al 45 miljoen correcte decimalen bekend.
+Als vervolg op dit werk zijn iets ingewikkelder methoden gevonden, waarbij per stap viermaal of negenmaal zoveel decimalen correct zijn.
+Het n-de cijfer.
+Voor de negentiende eeuw zou dit een aardig snelle methode zijn geweest, maar het curieuze is dat deze formule het mogelijk maakt om het "n"-de binaire of hexadecimale cijfer van te berekenen zonder daarvoor eerst alle voorgaande cijfers te hoeven berekenen.
+Historisch overzicht van de benaderingen.
+Tegenwoordig wordt het berekenen van gebruikt om de snelheid van computers te onderzoeken. In 2009 werd berekend op 2 699 999 990 000 decimalen door Fabrice Bellard met een desktopcomputer. In 2010 scherpte de Japanner Shigeru Kondo dit record aan met een door de Amerikaan Alexander J. Yee geschreven programma tot iets meer dan 10 biljoen cijfers achter de komma (10 000 000 000 050).
+Openstaande vragen.
+De dringendste openstaande vraag luidt: "is normaal?" 'Normaal' betekent hier dat elke cijfergroep in de expansie van even vaak voorkomt als bij een willekeurige keuze. Zo ja, dan zou normaal moeten zijn in elke basis (met elk grondgetal), niet alleen in basis 10.
+Als inderdaad normaal is, dan zou dit betekenen dat in de decimalen van elke willekeurige cijfergroep ergens voorkomt en dat dus ook elke tekst zoals "Hamlet" van Shakespeare, na omzetting in een cijfervolgorde, ergens in de decimalen van voorkomt, zoals uitgelegd in de stelling van de eindeloos typende apen.
+Bailey en Crandal toonden in 2000 aan dat de bovenstaande formule van Bailey, Borwein en Plouffe (en andere vergelijkbare formules) betekent dat de normaliteit van in basis 2 en verschillende andere constanten gereduceerd kan worden als een mogelijke aanname voor chaostheorie. Zie de website van Bailey voor details.
+Met 'n vers leren onthouden.
+Mnemotechnieken om de cijfers van te onthouden worden samen humoristisch aangeduid als "Piphilologie". Het woord is een duidelijke woordspeling op Pi zelf en het linguïstische onderzoeksgebied filologie (Engels: philology).
+Het gaat steeds om teksten, vaak gedichten, waarbij het aantal letters in ieder woord de opeenvolgende cijfers van aangeeft – in de titel van dit hoofdstukje hebben de woorden 3, 1, 4, 1, 5, 9 letters. Er zijn piphilologisten die gedichten hebben geschreven om meer dan 100 cijfers te coderen.
+ in muziek.
+Onder de titel "Griekse tango" schreef Drs. P. een aan een pi-minnaar gewijd, dramatisch lied, dat onder meer te vinden is op "Drs. P. Compilé sur CD". In dit lied bezingt hij de eerste 8 decimalen: "Aldus vind ik 3,14159265".
+Het nummer ' van Kate Bush, bevat als niet-herhalend refrein de eerste 119 gezongen cijfers van pi, daarbij twee cijfers overslaand. Het nummer gaat over iemand met "a complete infatuation with the calculation of pi".
+De metalband After the Burial heeft een nummer geschreven genaamd "Pi (The Mercury God Of Infinity)". Dit nummer bestaat uit een akoestische intro op gitaar, gevolgd door een breakdown gebaseerd op de eerste 71 decimalen van pi.
+ in film.
+De speelfilm Pi gaat over het getal pi en de mysteries daaromtrent. Ook Life of Pi bevat diverse verwijzingen naar het getal: de hoofdpersoon heet Pi en schrijft het getal in honderden decimalen op een schoolbord.
+ in sciencefiction.
+Het getal Pi speelt een belangrijke rol in het boek Contact van Carl Sagan en geen enkele in de film die daarover gemaakt is. Aan het eind van het boek wordt er een versleutelde boodschap ontdekt in de oneindige reeks decimalen van het getal, zeer ver achter de komma. Dit toont aan dat er niet alleen intelligent leven buiten de Aarde is maar dat het universum "zelf" ontworpen schijnt te zijn door een hogere intelligentie: Intelligent Design.
+-monument.
+Monument voor (pi) in de Pieterskerk in Leiden, van de hand van Cornelia Bakkum
+In de Pieterskerk in Leiden is een monument opgericht voor pi (zie afbeelding). De steen bevat de tekst die op de grafsteen van Ludolph van Ceulen stond. De grafsteen zelf is in de negentiende eeuw uit de kerk verwijderd, maar de tekst was afgebeeld in een in druk verschenen reisverslag van de Engelsman Philip Skippon (1641-1691). De ring is uitgevoerd in twee kleuren koper, waarbij het kleine stuk precies zo lang is als de diameter van de koperen ring.
+-manie.
+Het getal heeft vele fans en een van hun bezigheden is het uit het hoofd leren van de decimalen van. Volgens het Guinness Book of Records is de recordhouder de Chinees Lu Chao, die in 2005 67 890 decimalen uit het hoofd voordroeg. Hij had 100 000 decimalen uit het hoofd geleerd, en was van plan om er 91 300 voor te dragen, maar vergiste zich in het 67 891ste cijfer.
+-dag.
+Op 14 maart 2006 werd de 300e verjaardag van als wiskundig symbool gevierd. Op 14 maart (maand 3, dag 14, verwijst naar de eerste drie cijfers) wordt over de gehele wereld aan verschillende universiteiten Pi-dag gevierd. Het is tevens de verjaardag van Albert Einstein.
+-wet Indiana.
+Het Huis van Afgevaardigden van de Amerikaanse staat Indiana keurde in februari 1897 een wetsontwerp goed waarin gelijkgesteld werd aan 3,2. De wet kwam echter op het laatste moment niet door de Senaat en werd zo niet van kracht.

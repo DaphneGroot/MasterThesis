@@ -1,0 +1,8 @@
+Punt-naar-puntconstructie.
+Punt-naar-puntconstructie in een radio uit eind 1930.
+Een punt-naar-puntconstructie is binnen de elektronicabouw een constructiemethode.
+Bij deze constructiemethode worden elektronicacomponenten, van het type through-hole waar veelal al handige stukjes koperdraad van afdoende lengte aan zitten, direct aan elkaar gesoldeerd, dus zonder gebruik te maken van een printplaat of experimenteerprint.
+Voor eenvoudige elektronische schakelingen is dit vaak voldoende. Het is wel zaak om kortsluiting te voorkomen, maar dit kan met behulp van een stukje krimpkous, plakband of papiertape.
+In de beginjaren van de elektronica was dit vaak de enige manier om een schakeling te kunnen bouwen. Tegenwoordig wordt het nog wel gebruikt om een eenvoudige ad-hocschakeling te maken, of om een schakeling te testen voordat deze op printplaat gezet wordt.
+Met de komst van (gratis) schematische en PCB ontwerpprogramma's, die zelfs schakelingen kunnen testen, zijn punt-naar-punt- of point-to-pointschakelingen eerder een zeldzaamheid geworden.
+Ook vanwege de storingsgevoeligheid (kortsluiting, losse contacten) is deze methode van elektronicabouw niet aan te raden.

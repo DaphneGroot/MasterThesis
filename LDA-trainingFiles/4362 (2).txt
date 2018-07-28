@@ -1,0 +1,21 @@
+Wet van Ohm.
+De wet van Ohm is een empirische natuurkundige wet, genoemd naar de Duitse natuurkundige Georg Ohm, die een relatie legt tussen spanning, weerstand en stroomsterkte.
+Het quotiënt van spanning en stroomsterkte is dus een constante. Deze constante wordt de weerstand van de geleider genoemd.
+waarin U de spanning of het potentiaalverschil, I de stroomsterkte en R de weerstand is. Wordt U uitgedrukt in V (volt) en I in A (ampère), dan is R in Ω (ohm) uitgedrukt.
+met J de elektrische stroomdichtheid in A/m2 (ampère per vierkante meter), σ het elektrisch geleidingsvermogen in Ω−1m−1 (siemens per meter) en E de elektrische veldsterkte in V/m (volt per meter)
+Als de spanning niet constant is gaat de zelfinductie van de geleider een rol spelen, zie ook impedantie.
+Bewegende geleider.
+In een met snelheid formula_3 bewegende geleider bepaalt niet alleen formula_4 maar ook het magnetische veld formula_5 de stroomdichtheid
+De term formula_7 is de geïnduceerde spanning tgv. de Lorentzkracht op de ladingsdragers.
+In het met de geleider meebewegende coördinatenstelsel is formula_8 dus formula_9. Hoe kan dat? Doordat de velden formula_4 en formula_5 niet absoluut, maar relatief zijn, d.w.z. afhankelijk van het coördinatenstelsel. Uit de Lorentztransformatie volgt dat in het met de geleider meebewegende coördinatenstelsel het elektrische veld niet formula_4 maar formula_13 is.
+Ohms en niet-ohms.
+Niet alle geleiders voldoen aan de wet van Ohm. Bij een diode of transistor, maar ook bij een gasontlading (bij hoge spanning) is de stroomsterkte van andere factoren afhankelijk. Dergelijke niet-ohmse geleiders hebben wel een weerstand (R = U/I) maar die is afhankelijk van de spanning.
+De weerstand van een geleider is afhankelijk van de temperatuur, in de meeste materialen neemt de weerstand toe (het elektrisch geleidingsvermogen neemt af) bij toenemende temperatuur. Omdat een elektrische stroom warmte opwekt is een dunne geleider (b.v. een gloeidraad) niet ohms tenzij de temperatuur voldoende constant wordt gehouden (dat is het geval bij een keramische weerstand).
+Isolatoren en halfgeleiders vertonen op zich ohms gedrag maar de contacten met deze materialen doen dat niet altijd. Zo is het contactvlak tussen een p-type en een n-type halfgeleider niet ohms, maar heeft het gelijkrichtende eigenschappen. Het laat stroom maar in één richting door.
+In het geval van supergeleiders is er althans voor stromen van beperkte grootte geen weerstand. Hier is dus de weerstand nul.
+Oorzaken.
+Ohms gedrag ontstaat in feite door wrijving, dat wil zeggen door botsingen van de ladingsdragers met ofwel andere ladingsdragers, ofwel fononen (roostertrillingen) ofwel onzuiverheden in het geleidend materiaal. Het elektrische veld dat de stroom op gang brengt, oefent een kracht uit die de ladingsdragers "versnelt". Deze versnelling wordt echter in toenemende mate tegengewerkt door de wrijving, net zo lang tot er een evenwicht ontstaat. Het resultaat is een constante stroom.
+Bij metalen is er een overvloed aan ladingdragers, de Fermi-zee. Bij toenemende temperatuur neemt het aantal fononen toe en daarmee ook de weerstand.
+Bij halfgeleiders neemt juist de geleiding toe bij hogere temperatuur. In deze materialen zijn er relatief weinig ladingsdragers, maar bij hogere temperaturen komen er meer bij. Dit komt doordat de thermische energie het mogelijk maakt elektronen vanuit de volle valentieband naar de lege geleidingsband te promoveren. Dit effect overschaduwt het fononeffect. Vaak geldt hetzelfde voor de aanwezigheid van licht. Ook dat kan tot promotie leiden en daarmee tot een verlaging van de weerstand omdat er meer ladingsdragers bij komen.
+Hydraulisch analogon.
+Voor grondwaterstroming is de wet van Darcy het hydraulische analogon van de wet van Ohm.

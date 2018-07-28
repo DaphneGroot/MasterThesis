@@ -1,0 +1,15 @@
+Diakritisch teken.
+Toetsenbord met letters met diakritische tekens.
+De ontwikkeling van de umlaut, geïllustreerd aan de hand van het woord "schön". De schrijfwijze gaat van "schoen" naar "schon" met een kleine "e" boven de "o", tot uiteindelijk "schön" met twee kleine haaltjes boven de "o".
+Een diakritisch teken is een "schriftteken" dat boven, onder of door een letter gezet wordt ter aanduiding van de uitspraak.
+Functies.
+Soms is een diakritisch teken niet (of niet meer) nodig voor de uitspraak maar wordt het alleen gebruikt om etymologische redenen, bijvoorbeeld het accent circonflexe in het Franse woord "maître", of om homografen te onderscheiden, bijvoorbeeld het accent grave in het Franse woordpaar "ou" ("of") en "où" ("waar").
+Status.
+Een letter met diakritisch teken kan een ligatuur zijn. Zo is de Duitse ä eigenlijk een combinatie van a en e. Er zijn ook ligaturen die niet als letter met diakritisch teken beschouwd kunnen worden, zoals æ en ß.
+In verschillende talen.
+Diakritische tekens komen vooral veel voor in talen die vroeger in een ander alfabet werden geschreven, zoals het Turks, dat vroeger in het Arabische en tegenwoordig in het Latijns alfabet wordt geschreven. Ook het Quốc ngữ in Vietnam, het Tsjechisch en het Pools zijn hier voorbeelden van.
+Het Latijnse alfabet kent een heel scala aan diakritische tekens. Ook het Arabische, het cyrillische, het Griekse, het Hebreeuwse en het Thaise schrift maken gebruik van diakritische tekens.
+Het hanyu pinyin, het transliteratiesysteem van het Chinees, gebruikt diakritische tekens om de toon van het woord aan te geven.
+Voor het gebruik van deze diakritische tekens, zie accenttekens in de Nederlandse spelling.
+Samengesteld symbool.
+Onderstaande tabel geeft een deel van de mogelijke diakritische tekens.

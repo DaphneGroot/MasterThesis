@@ -1,0 +1,11 @@
+Wolfskwint.
+Een wolfskwint is in de muziek een interval dat als kwint betiteld moet worden, maar zodanig van een reine kwint afwijkt dat het een schreeuwend vals interval is. Men zei daarvan: "Die Quinte heult, wie ein Wolf!" ("De kwint huilt als een wolf").
+Een wolfskwint kan in verschillende stemmingen ontstaan. In de gelijkzwevende stemming komt de wolfskwint niet voor.
+Pythagorische stemming.
+in plaats van 1,5. In cents uitgedrukt is het interval 678,50 cents en dus 24 cents lager dan een reine kwint, zodat het schreeuwend vals is.
+De berekening luidt: een toonafstand van
+Het verschil is dus: 8400 - 7721,5 = 678,5 cents.
+Middentoonstemming.
+in plaats van 1,5. In cents uitgedrukt is het interval 737,64 cents en dus 35 cents hoger dan een reine kwint, wat bijzonder vals is.
+De berekening luidt: een toonafstand van
+Het verschil is dus: 8400 - 7662,36 = 737,64 cents.

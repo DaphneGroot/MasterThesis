@@ -1,0 +1,9 @@
+Kelvin (eenheid).
+Thermometer met een schaal in graden Celsius en een Kelvinschaal
+De kelvin (symbool: K) is de eenheid van thermodynamische temperatuur, een van de zeven basiseenheden van het SI-stelsel.
+De schaal is genoemd naar de fysicus William Thomson, die later in de adelstand werd verheven als Lord Kelvin.
+De evenredigheidsconstante "k" heet de boltzmannconstante en heeft als eenheid joule per kelvin [J/K]. Dat wil zeggen dat als de absolute temperatuur twee keer zo hoog is, er ook twee keer zo veel thermische energie aanwezig is. Deze uitspraak geldt voor een absolute temperatuurschaal, zoals de kelvinschaal, maar niet voor de Celsiusschaal. De kelvin is een absolute eenheid met een natuurlijk nulpunt, net als de joule of de ampère. Bij de Celsiusschaal is dit niet zo.
+Bij zeer hoge temperaturen is er nauwelijks verschil tussen de aanduiding in kelvin en in graden Celsius. In populaire literatuur zegt men dat de temperatuur in het inwendige van de zon 15 miljoen graden Celsius is. Dat verschilt niet significant van 15 miljoen kelvin, zoals in wetenschappelijke literatuur staat.
+Ook de kleurtemperatuur wordt meestal in kelvin aangegeven.
+Toekomst.
+Op dit moment is de boltzmannconstante (zie boven) experimenteel bepaald. In de voorgestelde herdefinitie van de basiseenheden wordt aan deze constante een exacte waarde toegekend. De kelvin wordt vervolgens van die waarde afgeleid. Als gevolg daarvan zal het tripelpunt van water vanaf dat moment niet meer "exact" 273,16 kelvin zijn, maar wel met grote nauwkeurigheid daaraan gelijk.

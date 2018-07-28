@@ -1,0 +1,6 @@
+Geleider.
+Koper wordt voor de goede geleiding in elektriciteitsdraad gebruikt.
+Een geleider in de elektriciteitsleer is een materiaal of voorwerp dat elektrische stroom doorlaat en een lage weerstand vertoont, die voor praktische doeleinden verwaarloosbaar is. Alle metalen zijn geleiders. De beste, dat wil zeggen met de kleinste soortelijke weerstand, zijn zilver en koper, omdat hun enige valentie-elektron zich vrijwel als een vrij gas door het kristalrooster beweegt, maar ook aluminium is een goede geleider.
+De meeste metalen hebben een positieve temperatuurcoëfficiënt, hetgeen wil zeggen dat weerstand toeneemt bij toenemende temperatuur. Dit komt doordat de atomen in het kristalrooster sterker trillen naarmate de temperatuur hoger is. Deze trilling verstoort de beweging van de elektronen door het kristalrooster. De elektronen bewegen zich daardoor moeilijker door het kristalrooster naarmate de temperatuur hoger is. Dit is waar te nemen als een toenemende weerstand bij stijgende temperatuur.
+Wanneer de weerstand van een geleider bij zeer lage temperatuur nul wordt, spreekt men van een supergeleider.
+Sommige stoffen worden halfgeleider genoemd, omdat hun geleidingsvermogen niet groot is, maar wel sterk temperatuurafhankelijk en bovendien door een speciale bewerking, door dotering kan worden beïnvloed.

@@ -1,0 +1,23 @@
+Machtsverheffen.
+Men zegt: "x" tot de macht "n", of ook kort "x" tot de "n"-de. Zo is 2 tot de macht 3, of 2 tot de derde: 2³ = 2×2×2 = 8, met 2 het grondtal en 3 de exponent van de macht 2³. Verwar macht niet met exponent.
+Machtsverheffen is een rekenkundige operatie van de derde orde.
+Definitie.
+Voor het natuurlijke getal formula_3 is de "n"-de macht van het grondtal "x", genoteerd als "xn", gedefinieerd als het product van "n" factoren "x".
+Uit deze definitie volgt ook dat
+De gebruikelijke notatie is om de exponent "n", die het aantal factoren aangeeft, hoger te schrijven (superscript).
+Met deze definitie blijft de betrekking formula_8 geldig voor formula_5.
+waarmee ook gebroken exponenten mogelijk zijn.
+Geschiedenis.
+De notaties "x"2 en "x"3 als afkortingen voor "x.x" en "x.x.x" komen voor bij Thomas Harriot in zijn postume werk "Artis analyticae praxis" uit 1631. René Descartes maakt uitgebreid gebruik van die notatie voor positieve gehele exponenten. John Wallis definieert negatieve en gebroken exponenten.
+Rekenen met machten.
+Bij het rekenen met machten kan gebruik worden gemaakt van de onderstaande rekenregels. Daarbij is er steeds van uitgegaan dat de betrokken machten gedefinieerd zijn.
+De afspraak formula_7 is zo gekozen dat de genoemde rekenregels algemeen geldig zijn voor formula_17
+Deze rekenregel houdt bijvoorbeeld in dat formula_22.
+N.B. machtsverheffen is dus ook niet associatief, dan was: formula_23
+Omgekeerde bewerkingen.
+zijn er twee omkeerbewerkingen: worteltrekken en logaritme
+Machten en complexe getallen.
+Via wiskundige regels zijn ook machten met als exponent niet-natuurlijke en zelfs van complexe getallen gedefinieerd, zie bijvoorbeeld de formule van Euler
+Reeksontwikkeling met machten.
+Functies kunnen als een reeksontwikkeling met machten geschreven worden. Een voorbeeld is de reeksontwikkeling voor een exponentiële functie
+Voor twee reële getallen, quaternionen of complexe getallen "a", "b" (a positief) geldt

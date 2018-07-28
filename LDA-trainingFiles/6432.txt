@@ -1,0 +1,9 @@
+Magnetische fluxdichtheid.
+De magnetische-fluxdichtheid B om een geleider waar een stroom I doorheen loopt.
+met formula_4 het oppervlakte-element.
+De magnetische fluxdichtheid wordt gemeten in tesla (T), dat is weber per vierkante meter (Wb/m2), of uitgedrukt in basiseenheden V s/m2.
+De magnetische fluxdichtheid formula_2 is een pseudovectorveld.
+In een punt van een magnetisch veld is de magnetische fluxdichtheid voor te stellen als een vector in de veldrichting met een grootte gelijk aan de lorentzkracht die een stroomdraad per meter en per ampère ondervindt als de stroomdraad loodrecht op de veldlijnen staat, of algemener de lorentzkracht die een geladen deeltje per eenheid van lading en per snelheid loodrecht op formula_2 ondervindt.
+Definitie.
+De magnetische inductie formula_2 is het magnetische analogon van de elektrische grootheid formula_13, de elektrische verplaatsing. Verder geldt
+waarin formula_15 de magnetische veldsterkte is, formula_16 de magnetisatie, formula_17 de permeabiliteit van het medium en formula_18 de permeabiliteit van het vacuüm.

@@ -1,0 +1,15 @@
+UTC.
+Plaatsen waar de klok gelijk loopt met UTC
+UTC (in het Nederlands ook aangeduid als "gecoördineerde wereldtijd") is een standaardtijd, gebaseerd op een atoomklok en gecoördineerd met de rotatie van de aarde.
+Het internationale letterwoord UTC is een compromis tussen het Franse "TUC" ("Temps universel coordonné") en het Engelse "CUT" ("Coordinated Universal Time"). UTC is zelf geen afkorting. In militaire kringen wordt UTC meestal "Zulu time" genoemd.
+Definitie.
+UTC is bijna gelijk aan Greenwich Mean Time (GMT). GMT is echter een zuiver astronomische tijd. Om het door de vertraagde aardrotatie veroorzaakte verschil te compenseren, moeten er schrikkelsecondes worden gebruikt. Het verschil is nooit meer dan een seconde en voor de meeste toepassingen dan ook niet van belang.
+Notatie.
+Bij grensoverschrijdende toepassingen (bijvoorbeeld het internet) worden tijdstippen vaak in UTC en op een universele manier genoteerd, onder andere met behulp van een 24-uursnotatie (dus zonder am/pm) zonder punten. De tijdsnotatie "1315" betekent dus kwart over 1 's middags volgens de standaardconventie (op de meridiaan van Greenwich).
+De volledige notatie is vastgelegd in ISO-standaard ISO 8601 en het gebruik ervan wordt, weliswaar mét scheidingstekens, ook aanbevolen door het W3C (World Wide Web Consortium).
+De tijd in een bepaalde tijdzone wordt aangegeven met het verschil ten opzichte van UTC. Zo wordt de tijd die vijf uur achterloopt op UTC (UTC−5) aangeduid met bijvoorbeeld. Een tijdstip in de UTC-zone zelf, UTC+0, wordt aangeduid met een Z (van Zulu time), bijvoorbeeld 21:50Z. De uitgebreidste notatie, met ook de datum, minuten en seconden erbij, is, waarbij de T de datum en tijd scheidt. Dit voorbeeld geeft UTC−5 aan en drukt exact hetzelfde moment in de tijd uit als (de datum en tijd in UTC; merk op dat de datum in dit voorbeeld dan al een dag voorloopt).
+In West-Europa, uitgezonderd de Britse eilanden en Portugal, geldt in de winter UTC+1 en in de zomer UTC+2 (respectievelijk 1 en 2 uur later dan de standaardtijd). Op de Britse eilanden en in Portugal geldt in de winter UTC en in de zomer UTC+1.
+Gebruik.
+Een praktisch voorbeeld van een veelgebruikte situatie waarin de verwijzing naar UTC belangrijk is, is het gebruik bij de scheep- en luchtvaart. In pilotbooks, getijdentabellen en weerrapporten wordt veelal gebruikgemaakt van UTC. Het is aan de gebruiker van deze hulpmiddelen om te weten hoe de tijd in de tijdzone waarin hij zich bevindt, zich verhoudt tot deze tijd. Aangezien deze in West-Europa tot twee uur kan verschillen, kan, als hij dat niet weet, bij (bijvoorbeeld) getijdentabellen een aanzienlijk onjuiste interpretatie optreden.
+Ook radiostations die op de hele wereld gericht zijn gebruiken UTC bij het publiceren van de programmagegevens.
+De digitale tachograaf maakt ook gebruik van UTC, wat het voor de controlediensten gemakkelijker maakt om internationaal vervoer te controleren op rij- en rusttijden.

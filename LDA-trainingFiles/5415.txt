@@ -1,0 +1,19 @@
+Cijfer.
+Een cijfer is een enkelvoudig symbool waarmee een telbaar aantal wordt aangeduid. De westerse cijfers van het tientallig stelsel zijn: 0 1 2 3 4 5 6 7 8 9.
+Ze worden Arabische cijfers genoemd, maar in feite zijn ze afkomstig uit India. De wetenschappers in de moslimwereld, die hun werken in het Arabisch schreven, hebben ze van daar overgenomen. Een van hen was Mohammed ibn Moesa al-Chwarizmi, een Perzische wetenschapper. De vorm van de westerse cijfers is ontstaan in Noord-Afrika.
+Het woord "cijfer" komt van het Arabische "sifr", dat "nul, of leeg" betekent en dat zelf een leenvertaling is van het Sanskriet sunya, dat "leeg", of "niets" betekent.
+Cijfers zijn oorspronkelijk bedoeld om aantallen, kardinaalgetallen en rangnummers of ordinaalgetallen weer te geven, maar worden ook gebruikt in nummers of andere cijferreeksen, bijvoorbeeld telefoonnummers, bankrekeningnummers, pin- en slotcodes en (delen van) postcodes.
+Ten onrechte wordt het woord 'cijfer' wel gebruikt in plaats van 'nummer' of 'getal'. Zo kan men het schoolcijfer 10 strikt genomen geen cijfer noemen - het is een getal dat bestaat uit twee cijfers. In de Nederlandse verkeerswetgeving (RVV) stond dat "een maximumsnelheid wordt aangeduid door het cijfer op het bord", terwijl er in bijna alle gevallen een getal op het bord staat dat bestaat uit twee of drie cijfers.
+Een getal kan worden weergegeven met een of meer cijfers. Het getal 21 bijvoorbeeld wordt weergegeven met de cijfers 2 en 1. In de westerse systematiek van het tientallige (eigenlijk: tiencijferige) positiestelsel bepaalt de positie van een cijfer in het getal de waarde. In dit voorbeeld komt de 2 door zijn positie overeen met 20. In het getal 201 komt de 2 overeen met 200.
+Andere talstelsels.
+Er zijn andere talstelsels mogelijk die van meer of van minder cijfers gebruikmaken. Het decimale of tientallige stelsel maakt gebruik van de hierboven genoemde 10 cijfers. Het hexadecimale stelsel heeft 16 cijfers nodig en daarom zijn de tien decimale cijfers uitgebreid met A B C D E F. In deze context zijn dat dus geen letters maar cijfers. Om het binaire (tweetallige) getalsysteem, zoals dat in computersystemen wordt gebruikt, weer te geven, gebruikt men maar twee cijfers: 0 en 1.
+Staafjes.
+De stokcijfers zijn de geschreven vorm van de telstokjes die gebruikt werden door Chinese en Japanse wiskundigen. Ze vormen een decimaal positiestelsel, dat behalve nul ook negatieve getallen weergeeft. De telstokjes waren er eerder dan de Arabisch-Indische cijfers. De Suzhoucijfers zijn varianten op de stokcijfers.
+Chinese cijfers.
+Het vroegst bekende gebruik van de Indische cijfers is in een vertaling van Levinsita uit de 8ste eeuw.
+Romeinse cijfers.
+Men spreekt bij de Romeinse manier voor het noteren van getallen van Romeinse cijfers, waarmee in strikte zin de symbolen I, V, X, L, C, D en M worden bedoeld waarmee getallen genoteerd worden, maar soms ook de zo genoteerde getallen zelf.
+Arabische cijfers.
+De in de westerse wereld gebruikte cijfers worden Arabische cijfers genoemd, om ze te onderscheiden van de Romeinse cijfers. Deze benaming is verwarrend, want in Arabische landen zien de cijfers er anders uit. In de Arabische landen spreekt men over Indische cijfers. Wel wordt ook in Arabische landen het decimale positiestelsel gebruikt. Hoewel Arabisch van rechts naar links geschreven wordt, staan de cijfers binnen een getal in dezelfde volgorde als bij ons: de tientallen staan links van de eenheden, de honderdtallen links van de tientallen enzovoorts.
+Schoolcijfers.
+In het onderwijs wordt ook kort gesproken van cijfers als men schoolcijfers bedoelt: beoordelingen van de geleverde prestatie uitgedrukt in een getal, een letter of een ander symbool.

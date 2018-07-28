@@ -1,0 +1,109 @@
+Werkwoord (Nederlands).
+Dit artikel geeft hoofdzakelijk een overzicht van de vervoeging of conjugatie van Nederlandse werkwoorden, geordend naar grammaticale categorie en uitgewerkt met voorbeelden. De vervoeging is het veranderen van de vorm van Nederlandse werkwoorden om de tijd, persoon, modus of het aspect aan te geven. Er zijn regels voor de vervoeging, maar ook veel speciale gevallen en uitzonderingen.
+Basisvormen.
+De vormen die in morfologisch opzicht met name van belang zijn voor het maken van deze tijden zijn de infinitief, de vorm voor de verleden tijd enkelvoud en die van het voltooid deelwoord. Wanneer men deze drie vormen van een werkwoord kent, kan men in het Nederlands alle gebruikelijke tijden uitdrukken.
+Stam.
+Bijna alle Nederlandse infinitieven hebben de uitgang "-en". De enige uitzonderingen zijn de eenlettergrepige ("monosyllabische") werkwoorden "doen", "gaan", "slaan", "staan", "zien" en "zijn" en hiervan afgeleide infinitieven met een voorvoegsel (prefix), zoals "door-gaan" en "ont-zien".
+Let op: een neologisme als "*zelfvoorzienend", afgeleid, via "voorzien", van het werkwoord zien, is ongrammaticaal.
+Om de stam van een werkwoord te vinden wordt de uitgang "-en" (of alleen "-n" als het werkwoord niet op "-en" eindigt) van de infinitief afgehaald. Hierbij treden in grote lijnen dezelfde fonologische veranderingen op als bij het verwijderen van de meervoudsuitgang "-en" van het zelfstandig naamwoord.
+Samengestelde werkwoorden beginnen met een voorzetsel, zelfstandig naamwoord of ander woord. Het maakt deel uit van de infinitief: "doorlopen", "autorijden". Dit voorzetsel of zelfstandig naamwoord heeft dan de klemtoon.
+Zo'n samengesteld werkwoord wordt in de verbuiging vaak gescheiden (zie scheidbaar samengesteld werkwoord), bijvoorbeeld: "loop jij eens door", "doorgelopen" en het is dan ook gemakkelijker de delen als aparte woorden te beschouwen.
+Het is niet altijd eenvoudig een voorzetsel of zelfstandig naamwoord te herkennen. Zo is bij "doorzetten" duidelijk sprake van een voorzetsel, maar bij "doorzien" (met klemtoon op "zien") is dat niet het geval. Vormen van de aantonende wijs (zie onder) zijn daarom respectievelijk "zet door" en "doorzag".
+Er zijn een paar werkwoorden die op het eerste gezicht samengesteld zijn, maar waarvan de delen nimmer gescheiden worden. Bovendien is de verleden tijd zwak regelmatig. Het gaat onder andere om "stofzuigen", "zweefvliegen", "voetballen". Ververbuigingen als "stofzuigde", "gevoetbald" zijn correct. Deze werkwoorden gedragen zich dus als niet-samengestelde werkwoorden.
+Voorvoegsel.
+Sommige werkwoorden beginnen met een voorvoegsel of prefix. De belangrijkste voorvoegsels zijn "ver-", "be-", "onder-", "ont-", "ge-" en "her-".
+Een voorbeeld van een werkwoord waarbij het vaak misgaat is "verbaliseren", waarvan het eerste deel niet het voorvoegsel "ver-" is, maar deel van het samenstellende woord "verbaal" Het verleden deelwoord is daarom "geverbaliseerd".
+Een ander problematisch werkwoord is "afgelasten", afkomstig van "gelasten", dat vooral in de voltooide tijd voorkomt: "afgelast". De lettergreep "ge-" lijkt op het voorvoegsel van het verleden deelwoord, maar behoort tot "gelasten", en komt ook in andere werkwoordsvormen voor. Met andere woorden, het voorvoegsel "ge-" maakt al deel uit van de andere vormen van het werkwoord en daardoor komt er als gevolg van haplologie in de voltooide vormen geen voorvoegsel "ge-" meer bij.
+Verleden tijd.
+De werkwoordsstam is ook van belang voor het vervoegen van het werkwoord in de verleden tijd, met name waar het de archaïsche tweede persoon enkelvoud betreft: gij. Deze vervoeging komt in het Noord-Nederlands niet veel meer voor, behalve in een vorm als "gij waart". In de zuidelijke (Brabants gekleurde) spreektaal wordt echter nog op grote schaal gebruikgemaakt van de "gij"-vorm.
+Wijs.
+De wijs van het werkwoord geeft de "relatie tot de werkelijkheid" weer. De vervoeging naar wijs is in het Nederlands niet erg uitgebreid wat het aantal vormen betreft, in tegenstelling tot die in het Frans en Duits. Het Nederlands kent de onbepaalde, de aantonende, de aanvoegende, de voorwaardelijke en de gebiedende wijs.
+Gebiedende wijs.
+De "gebiedende wijs" geeft een "bevel" van de spreker weer. De gebiedende wijs wordt niet vervoegd naar tijd, de vervoeging naar persoon is beperkt tot het onderscheid enkelvoud-meervoud: "maak!" (enkelvoud) en "maakt (u)!" (meervouds- of beleefdsheidsvorm). Zie ook verderop in dit artikel.
+In de praktijk wordt deze vorm dus niet veel meer gebruikt.
+Voor de beleefdheidsvorm is de verbuiging met stam + -t de enig correcte als het persoonlijk voornaamwoord "u" wordt toegevoegd.
+Aanvoegende wijs.
+De "aanvoegende wijs" kan een "wens", "aansporing" of "onmogelijkheid" weergeven. Het gebruik van de aanvoegende wijs is in het Nederlands - in tegenstelling tot veel andere talen - beperkt. De aanvoegende wijs in het Nederlands kent enkel nog in het enkelvoud een zichtbaar en hoorbaar verschil met de aantonende wijs. Het enkelvoud wordt gevormd door de "-n" van de infinitief weg te laten: "Leve" de koningin", "Hij "ruste" in vrede", "Men "neme" een ons suiker", "Het "zij" zo". Met behulp van de context kunnen we een meervoud onderscheiden, bijvoorbeeld: "Leven de kinderen" en "Mogen zij rusten in vrede" zijn aanvoegend. Het Nederlands kent ook de aanvoegende wijs in de verleden tijd: "Ware" het niet dat...", "als het ware", "hadde hij niet...". De meeste vormen van de aanvoegende wijs gelden als verouderd, en de aanvoegende wijs in de verleden tijd wordt - buiten "ware(n)" - niet meer gebruikt.
+Vervoeging naar persoon.
+De meervoudsvormen van het werkwoord zijn identiek voor alle personen en in de tegenwoordige tijd gelijk aan de infinitief. Samengestelde werkwoorden worden echter gescheiden: "meegaan" - "wij gaan mee". Er is verder nog een enkele uitzondering: "wezen" - "wij zijn".
+Geslacht.
+Er bestaat in het Nederlands - anders dan in bijvoorbeeld de Slavische talen - geen congruentie van de persoonsvorm met het geslacht van het onderwerp. Wel wordt in de tweede persoon enkelvoud een verschil gemaakt tussen de vormen waarbij het onderwerp voor of achter het werkwoord staat, zoals aangegeven in de tabel.
+Actief / passief.
+Werkwoorden kunnen in het Nederlands in de bedrijvende vorm (actief) of de lijdende vorm (passief) staan. Beide vormen kunnen gemaakt worden in alle werkwoordstijden en met alle onderwerpen. Met de bedrijvende vorm wordt uitgedrukt dat het onderwerp de handelende persoon of zaak is; met de lijdende vorm wordt de zaak omgedraaid: het onderwerp "ondergaat" dan de handeling.
+De lijdende vorm wordt gemaakt door het voltooid deelwoord te combineren met een hulpwerkwoord (het "hulpwerkwoord van de lijdende vorm"). In onvoltooide tijden is dit het werkwoord "worden", in voltooide tijden "zijn".
+Bijvoorbeeld: In de zin "Ik "maak" een lamp" duidt "maak" een handeling aan die door het onderwerp, "ik", wordt uitgevoerd. Dit is de bedrijvende vorm.
+In de zin "De lamp "wordt gemaakt" duidt "wordt gemaakt" een handeling aan die door het onderwerp, "de lamp" wordt ondergaan. Dit is de lijdende vorm.
+Andere voorbeelden: "Ik heb geslagen" - "Ik ben geslagen"; "Ik stuurde" - "Ik werd gestuurd"
+Deelwoorden.
+Ze kunnen ook beide in het gezegde gebruikt worden voor het vormen van de tijden. Het onvoltooid deelwoord wordt echter in deze vorm amper nog gebruikt. Voor voorbeelden van gebruik: zie tabel.
+Het deelwoord wordt zo genoemd omdat het werkwoordelijke en naamwoordelijke aspecten combineert. In het Nederlands worden deelwoorden gebruikt om samengestelde verleden tijden te vormen (voltooid deelwoord) en om beknopte bijzinnen te maken. Daarnaast kan een deelwoord gebruikt worden als bijvoeglijk naamwoord en als bijwoord. Een als bijwoord gebruikt deelwoord wordt ook wel gerundium genoemd.
+Vervoeging naar tijd.
+Hiernaast kennen we ook de vier toekomende vormen van deze tijden. Deze worden gemaakt door een combinatie van het hulpwerkwoord "zullen" met
+Bijvoorbeeld: "Ik zal maken", "Ik zou gegaan zijn".
+Sterke en zwakke werkwoorden.
+Op basis van de manier waarop werkwoorden de verleden tijd en het voltooid deelwoord worden gevormd, worden traditioneel onderverdeeld in drie groepen: sterke, zwakke en onregelmatige werkwoorden. Daarnaast zouden ook nog de onvolledige werkwoorden genoemd kunnen worden. Dit zijn vaak samengestelde vormen die alleen als infinitief of deelwoord gebruikt worden, zoals "koppensnellen" of "discuswerpen". Omdat deze werkwoorden meestal geen verleden of voltooide vormen hebben, zijn ze sterk noch zwak.
+De vervoeging van zwakke werkwoorden wordt in het algemeen gekenmerkt door een achtervoegsel. Een ander kenmerk is dat de klinker van de stam van elke vorm hetzelfde is. Sterke werkwoorden krijgen geen achtervoegsel, maar kennen in plaats daarvan in de verleden tijd en het voltooid deelwoord klinkerwisseling in de stam, die vaak ook gemakkelijk is af te leiden uit de tegenwoordige tijd.
+Zwakke werkwoorden.
+De (regelmatig) zwakke werkwoorden zijn veruit het grootst in aantal. Ze hebben allemaal een verleden tijd met een zogeheten dentaal<nowiki/>suffix, dat wil zeggen het achtervoegsel "-de(n)" of "-te(n)".
+Als ezelsbruggetje wordt vaak het "'t kofschip" of "'t fokschaap" gehanteerd. De medeklinkers uit deze woorden zijn de stemloze plosieven en fricatieven uit de klankinventaris van het Nederlands ("x", "t", "k", "f", "s", "ch" en "p").
+Historisch zijn de sterke werkwoorden een erfenis uit het Proto-Indo-Europees. In het Nederlands (en Duits) hebben zij de slijtageslag beter overleefd dan in Engels.
+Daarnaast zijn er werkwoorden waarin behalve de klinker nog meer verandert in de stam, "zijn" ("was/waren") en "komen" ("kwam"). Naast deze "onregelmatig sterke" zijn er bovendien ook "onregelmatig zwakke" werkwoorden, waarbij in de verleden tijd gaandeweg nieuwe veranderingen zijn opgetreden zoals "zeggen", "kunnen" en "willen": "zeg'"de(n)" werd "zei'"de(n)". In de onvoltooid verleden tijd enkelvoud is bovendien mettertijd de uitgang "-de" weggevallen
+In de loop der eeuwen hebben zich als gevolg van het verschijnsel dat bekendstaat als morfologische nivellering verschuivingen voorgedaan, met name van de sterke klasse naar de zwakke. Dit is niet zo verwonderlijk, aangezien het aantal zwakke werkwoorden in het Nederlands veel groter is dan het aantal sterke. Daar staat tegenover dat de meeste sterke en onregelmatige werkwoorden zeer frequent gebruikt worden, terwijl de meeste regelmatige zwakke werkwoorden perifeer zijn, waardoor men juist weer minder geneigd is om een sterke vorm te vervangen door een zwakke. De omgekeerde verschuiving (dus van zwak naar sterk) is dan ook geen uitzondering.
+Als deze vormen bekend zijn kan in principe elke andere vorm worden afgeleid. Voor de tegenwoordige tijd worden de regels gevolgd van de eerste tabel op deze pagina. Voor de verleden tijd wordt voor het enkelvoud de bovenstaande vorm gebruikt en voor het meervoud de bovenstaande vorm +"-(e)n".
+Sterke werkwoorden.
+De sterke werkwoorden zijn een zeer oude erfenis en met alle afgeleide vormen zijn er zo'n 1400 stuks. In het Nederlands zijn nog steeds zeven klassen te onderscheiden. Zes daarvan gaan rechtstreeks terug op de ablautsklassen van het Proto-Indo-Europees. De zevende klasse is een noviteit van het Proto-Germaans.
+Klasse 1.
+De meeste werkwoorden met "ij" in de stam behoren tot deze subgroep.
+Sommige werkwoorden met 'ei' hebben tegenwoordig ook een sterke vervoeging gekregen. Waaronder "breien", "zeiken" en "uitscheiden". Voor de meeste woorden wordt dit niet geaccepteerd in de standaardtaal en zijn de woorden uitsluitend zwak vervoegd.
+Klasse 2.
+In deze klasse, naar grootte de derde, worden de verleden en voltooide vormen gekenmerkt door een lange "o".
+Klasse 3.
+Een kleine groep heeft een ie gekregen in de verleden tijd (3c), waarschijnlijk onder invloed van klasse 7: bederven - bedierf- bedorven
+Klasse 4.
+Het Nederlands is een van de weinige Germaanse talen waarin van dat verschil nog iets te merken is
+Klasse 5.
+Klasse 5 bestaat uit: "eten, geven, genezen, lezen, meten, treden, vreten, vergeten"
+Klasse 7.
+Enkele werkwoorden hebben alleen een zwakke verledentijdsvorm, het deelwoord blijft wel sterk vervoegd.
+Onregelmatige werkwoorden.
+Naast sterke en zwakke werkwoorden kent het Nederlands ook onregelmatige werkwoorden, die soms ook in de tegenwoordige tijd afwijkende vormen kennen. De belangrijkste zijn: "hebben", "zijn", "willen", "zullen", "mogen" en "kunnen". Voor de vorming van de verleden tijd en het voltooid deelwoord van deze werkwoorden zijn vrijwel geen regels te geven; soms lijkt het engiszins op een zwakke vervoeging, in die zin dat er sprake is van een (vaak gedeeltelijk weggevallen) uitgang "-t(e)(n)/ d(e)(n)".
+Toekomende tijd.
+De toekomende tijd wordt in het Nederlands gevormd door middel van het hulpwerkwoord "zullen".
+Onvoltooid tegenwoordig toekomende tijd.
+De onvoltooid tegenwoordig toekomende tijd (ottt), of futurum simplex, wordt samengesteld door het hulpwerkwoord "zullen" te combineren met een infinitief. In bijna alle gevallen drukt het een handeling uit die in de toekomst plaatsvindt. De benaming "tegenwoordig toekomende" wijst erop dat het spreekmoment samenvalt met het uitgangspunt van waaruit men de tijdsverhoudingen bekijkt.
+In combinatie met de infinitief van "gaan" drukt de o.t.t.t. een handeling uit die in een verdere toekomst ligt, dan met (alleen) een andere infinitief.
+Voltooid tegenwoordig toekomende tijd.
+De voltooid tegenwoordig toekomende tijd (vttt), of futurum exactum, wordt samengesteld door het hulpwerkwoord "zullen", het "voltooid deelwoord van een werkwoord dat de handeling uitdrukt" en een infinitief van "hebben" of "zijn". Het drukt een handeling uit die in de toekomst voltooid zal zijn en het vervangt min of meer de voltooid tegenwoordige tijd (v.t.t.) die hetzelfde kan uitdrukken.
+Onvoltooid verleden toekomende tijd.
+De onvoltooid verleden toekomende tijd (ovtt), of futurum praeteriti, stelt men samen met "zou(den)" en een "infinitief". Het drukt een handeling uit die vanuit het verleden in de toekomst plaatsvindt. Aangezien het uitgangspunt om de tijdsverhoudingen te bepalen hier het verleden is, spreekt men over een "verleden toekomende" tijd
+Indirecte rede kan ook weer omgezet worden in een directe rede met de o.v.t.t.
+Voltooid verleden toekomende tijd.
+De voltooid verleden toekomende tijd (vvtt), of futurum exactum praeteriti, wordt samengesteld door het hulpwerkwoord "zou(den)", samen met "hebben of zijn" en een "voltooid deelwoord". De v.v.t.t. drukt een handeling uit die vanuit het verleden gezien in de toekomst zou plaatsvinden.
+Totaaloverzicht van de tijden.
+" Dat doe ik morgen wel".
+De keuze tussen het hulpwerkwoord "hebben" of "zijn" is werkwoordsafhankelijk. Bij de meeste werkwoorden wordt altijd "hebben" gebruikt, een kleinere groep wordt met "zijn" vervoegd. Een nog kleiner aantal werkwoorden kan met "beide" werkwoorden vervoegd worden, wat soms een klein betekenisverschil oplevert.
+Vervoeging met zowel "hebben" als met "zijn"
+'Wij hebben gefietst' en 'wij zijn gefietst' zijn beide juist; er is wel een licht betekenisverschil. In 'wij hebben gefietst' gaat het om de handeling, in 'wij zijn gefietst' om het einddoel. Het is dus: 'Wij zijn naar het station gefietst' en 'Wij hebben gisteren een heel eind gefietst.' Dit verschil speelt ook bij andere werkwoorden die een beweging aangeven: "(mee)lopen, (mee)rijden, reizen, varen", enz.
+Naast deze groep 'bewegingswerkwoorden' is er nog een groep werkwoorden die met zowel "hebben" als "zijn" vervoegd kunnen worden: werkwoorden die zowel overgankelijk (met een lijdend voorwerp) als onovergankelijk (zonder lijdend voorwerp) gebruikt kunnen worden: "genezen, stoppen, trouwen, veranderen, verteren", enz. Met lijdend voorwerp worden deze werkwoorden vervoegd met "hebben" zonder lijdend voorwerp met zijn: 'De dokter heeft hem genezen', 'Hij is genezen', 'Het succes heeft haar erg veranderd', 'Zij is erg veranderd.'
+Het werkwoord naar functie in de zin.
+Hoewel er traditioneel ook andere indelingen zijn, kunnen de Nederlandse werkwoorden naar gelang hun grammaticale functie in een negental groepen worden onderverdeeld. Daarbij moet wel worden opgemerkt dat er veel werkwoorden zijn die in meer dan een grammaticale functie gebruikt kunnen worden, maar dan soms een geheel andere betekenis hebben.
+Overgankelijke werkwoorden.
+Overgankelijke werkwoorden kennen naast een onderwerp ook een lijdend voorwerp. Zij vormen hun voltooide tijd met "hebben".
+De term overgankelijk (transitief) geeft aan er een overgang mogelijk is naar een "lijdende vorm", waar het lijdende voorwerp de rol van onderwerp vervult. De hulpwerkwoorden die daartoe gebruikt worden zijn "worden" in de onvoltooide en "zijn" in de voltooide tijden.
+Dubbelovergankelijke werkwoorden.
+In het Engels zijn dit soort constructies veel gebruikelijker en daar wordt voor beide vormen van overgankelijkheid hetzelfde hulpwerkwoord gebruikt.
+Inergatieve werkwoorden.
+Vaak wordt deze groep tot de 'onovergankelijke' (intransitieve) werkwoorden gerekend, maar 'beperkt overgankelijk' zou wellicht een juistere term zijn vanwege de onpersoonlijk lijdende vorm.
+Ergatieve werkwoorden.
+Deze groep is veel strikter onovergankelijk dan de inergatieven: er zijn in het geheel geen lijdende vormen. In tegenstelling tot de inergatieven worden zij in de voltooide tijd niet met "hebben", maar met "zijn" vervoegd.
+Soms kunnen ergatieve werkwoorden ook als overgankelijke werkwoorden gebruikt worden, bijvoorbeeld: "smelten"
+Bij de ergatief ontbreekt dus alleen de "agens": 'door mij'. Anderszins zijn ergatief en passief identiek.
+Ook ergatieve werkwoorden worden traditioneel tot de onovergankelijke werkwoorden gerekend, maar ook hier is die term niet erg toepasselijk. Een term als 'overgegane werkwoorden' zou misschien beter beschrijven dat "het vet" al de rol van onderwerp heeft overgenomen.
+Zoals het een inergatief betaamt, heeft alleen het laatste geval een onpersoonlijke lijdende vorm.
+Wederkerende werkwoorden.
+Wederkerende werkwoorden worden vervoegd met "hebben" en gaan vergezeld van het wederkerende voornaamwoord "zich". Er zijn twee soorten: verplicht wederkerend en wederkerend naar keuze.
+Men spreekt dan wel van "zich" als een 'ergatiefspoor'. "Zich" wordt dan gezien als een overblijfsel van "de ziekte" wanneer het overgaat van lijdend voorwerp naar onderwerp.
+Werkwoorden die geen zelfstandig predikaat zijn.
+Deze werkwoorden hebben een aanvulling nodig om een predicaat te vormen, in tegenstelling tot de zelfstandige naamwoorden. Deze aanvulling kan ofwel een werkwoord zijn (bij de hulpwerkwoorden en modale werkwoorden) ofwel een naamwoord (bij de koppelwerkwoorden). Ze zijn vrij gering in aantal, maar zij worden bijzonder veel gebruikt en er zijn opmerkelijk veel naar vervoeging onregelmatige werkwoorden onder. Er kunnen drie groepen worden onderscheiden: hulpwerkwoorden, modale werkwoorden en koppelwerkwoorden, hoewel er over de toekenning tot deze groepen niet altijd overeenstemming bestaat.
+Koppelwerkwoorden.
+Koppelwerkwoorden hebben een naamwoord nodig om hun betekenis compleet te maken, het zogenaamde naamwoordelijk deel van het gezegde. Het voornaamste koppelwerkwoord is "zijn", de andere koppelwerkwoorden zijn: zijn, worden, blijven, blijken, lijken, schijnen, heten, dunken en voorkomen. Een aantal ervan neemt "zijn" in de voltooide tijden en is daarmee verwant aan de ergatieven.

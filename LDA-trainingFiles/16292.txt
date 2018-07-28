@@ -1,0 +1,6 @@
+Dan en slechts dan als.
+Dan en slechts dan als (afkorting: desda) is in de wiskunde en in de logica een algemeen gebruikte uitdrukking om equivalentie van twee uitspraken aan te geven. Varianten zijn onder andere bi-implicatie, wederzijdse implicatie, dan en alleen dan als en "P" is nodig en voldoende voor "Q" (als alternatief voor "P" dan en slechts dan als "Q"). Het symbool voor 'dan en slechts dan als' is formula_1. Onder andere in het academisch wiskundemilieu gebruikt men "als en slechts dan als".
+Equivalente uitdrukkingen: asa (het in België meer gebruikte als en slechts als), aeaa (als en alleen als). In Engelstalige literatuur gebruikt men de uitdrukking "iff" (voor "if and only if").
+formula_2 betekent: "P" is waar dan en slechts dan als "Q" waar is. Een andere manier om hetzelfde te zeggen is: óf "P" en "Q" zijn allebei waar, óf "P" en "Q" zijn allebei onwaar.
+Voorbeeld.
+Dit betekent: uit het feit dat x gelijk is aan 3, volgt dat x in het kwadraat 9 is. Hier mag "niet" het symbool 'formula_1' gebruikt worden, want uit x2 = 9 hoeft niet te volgen dat x = 3. Immers ook x = −3 is mogelijk.

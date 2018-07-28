@@ -1,0 +1,4 @@
+Galeon.
+Galeon was een vrije webbrowser ontwikkeld voor de desktopomgeving GNOME. Voor het tonen van webpagina's wordt gebruikgemaakt van Gecko, de layout-engine ontwikkeld door Mozilla. Galeon was beschikbaar voor Linux, BSD en Unix. De laatste versie is 2.0.7 en verscheen op 7 september 2008. Galeon werd vrijgegeven onder de GPL.
+Geschiedenis.
+In juni 2000 kwam Galeon 0.6 uit. In november 2001 kwam dan versie 1.0 beschikbaar (voor Mozilla 1.0). Versie 1.2 uit maart 2002 bracht veel nieuwe functionaliteit. In november 2002 verliet de hoofdontwikkelaar Marco Pesenti Gritti het project samen met enkele andere ontwikkelaars na meningsverschillen over de toekomst van de browser. Hij begon het webbrowserproject Epiphany. Het weggaan van de hoofdontwikkelaar gaf aanleiding tot dalende populariteit en in september 2008 werd het project dan stopgezet.

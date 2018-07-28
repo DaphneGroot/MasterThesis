@@ -1,0 +1,3 @@
+Ribbe.
+De lijnstukken zijn de ribben van de piramide, de gestippelde ribben zijn niet zichtbaar.
+In deze formule staat "h" voor het aantal hoekpunten van het veelvlak, "z" voor het aantal zijvlakken en "r" voor het aantal ribben. Als deze formule wordt herschreven ("r" = "h" + "z" - 2), kan het aantal ribben direct worden berekend als "h" en "z" bekend zijn.

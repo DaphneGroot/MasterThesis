@@ -1,0 +1,2 @@
+Information Management System.
+Information Management System (IMS) is een hiërarchisch databasesysteem van IBM. IBM ontwikkelde IMS als transactie- (IMS-DC) en databaseserver (IMS-DB) in de jaren 60 voor haar 390-serie. Het kenmerkt zich door hoge prestaties, al is de flexibiliteit door de netwerkopzet minder dan bij relationele databasesystemen. De bijbehorende taal wordt DL/1 genoemd.

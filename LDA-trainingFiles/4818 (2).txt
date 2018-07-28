@@ -1,0 +1,8 @@
+Omwentelingen per minuut.
+Met omwentelingen per minuut, toeren per minuut (tpm) of "revolutions per minute" (rpm) wordt bedoeld een afgeleide meeteenheid voor het beschrijven van het aantal toeren - toerental - of de omwentelingsfrequentie: het aantal keren per tijdseenheid dat een object om een omwentelingsas draait. De omwentelingssnelheid kan worden uitgedrukt in omwentelingen per minuut of in omwentelingen per seconde. Men spreekt ook wel van toerental. Een cirkel is 360° of in SI-eenheden 2π radialen. We kunnen de snelheid waarmee iets ronddraait ook uitdrukken in een hoeksnelheid: radialen / seconde.
+"1 omwenteling/minuut =(2π radialen) / (60 seconden) = 0,104720 rad/s"
+Bij grammofoonplaten en motoren spreken we over toeren (per minuut), bijvoorbeeld 331/3, 45 of 78 toeren (per minuut).
+De turbine van een straalmotor draait met een toerental van 25.000 tot 40.000. Een normale viertakt-benzinemotor van een auto draait met een toerental dat doorgaans varieert tussen 700 en 6500 toeren per minuut, bij racemotoren ligt dat al boven de 10.000.
+Een harde schijf in een computer heeft vaak een toerental van 7200, maar snelheden variëren tussen de 5400 en 15.000 rpm.
+De afgeleide SI-eenheid voor frequentie is hertz (Hz) met de dimensie 1/seconde (1/s). Het aantal omwentelingen per minuut kan naar hertz worden omgerekend door de waarde rpm door 60 te delen.
+In de definitie van "omwentelingen per minuut" is de minuut geen SI-eenheid. Toch wordt officieel gebruik toegestaan.

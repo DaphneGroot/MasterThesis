@@ -1,0 +1,5 @@
+Hardware.
+Met hardware of apparatuur worden in de computertechniek alle fysieke componenten aangeduid die in een computer een rol spelen. De term wordt gebruikt als tegenhanger van software (programmatuur). Voorbeelden zijn een computer (pc), laptop, personal digital assistant (pda), smartphone en tablet.
+In de Angelsaksische wereld heeft de term hardware een bredere betekenis dan in het Nederlands. In het Engels duidt de term hardware niet alleen op computeronderdelen maar op gereedschappen, bouwmaterialen, machineonderdelen en ijzerwaren in het algemeen.
+Onderscheid software en hardware.
+Het onderscheid tussen software en hardware is niet altijd eenduidig aan te geven. Ter wille van betere prestaties worden sommige functies in hardware geïmplementeerd, die evengoed in de vorm van software gerealiseerd kunnen worden. Bovendien zijn er tussenvormen, zoals firmware (software die in hardware is vastgelegd) en programmable gate arrays (generieke hardware die softwarematig van een functie wordt voorzien).

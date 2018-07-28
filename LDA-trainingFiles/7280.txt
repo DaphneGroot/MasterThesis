@@ -1,0 +1,9 @@
+Kruskal-Wallistoets.
+De Kruskal-Wallistoets, genoemd naar William Kruskal en Allen Wallis, is een verdelingsvrije toets in de statistiek, waarmee getoetst wordt of er verschil is tussen de verdelingen waaruit twee of meer steekproeven afkomstig zijn. De nulhypothese die getoetst wordt, is eigenlijk dat de steekproeven uit verdelingen (populaties) zijn getrokken met dezelfde "ligging". De toets is gebaseerd op de rangnummers van de data. De Kruskal-Wallistoets is te beschouwen als een eenweg-ANOVA gebaseerd op de rangnummers. De Kruskal-Wallistoets is een uitbreiding van de Mann-Whitney-Wilcoxon rangsomtoets, die enkel geschikt is om twee groepen onderling te vergelijken.
+Procedure.
+Gegeven zijn m onderling onafhankelijke aselecte steekproeven uit continue verdelingen. De j-de waarneming in de i-de steekproef, die omvang ni heeft, is formula_1. Het rangnummer hiervan in het totaal van de data is formula_2. De toets verloopt verder in principe als een variantie-analyse uitgevoerd op deze rangnummers.
+het totaal aantal waarnemingen is en
+het gemiddelde rangnummer in de ie steekproef.
+Als de steekproeven niet te klein van omvang zijn, is "K" onder de nulhypothese bij benadering chi-kwadraatverdeeld met m vrijheidsgraden.
+Knopen.
+waarin formula_10 het aantal data is met rangnummer "k".

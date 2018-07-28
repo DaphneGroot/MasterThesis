@@ -1,0 +1,13 @@
+Inhoud (volume).
+Bepaling van de inhoud van een onregelmatig voorwerp door waterverplaatsing.
+De inhoud of het volume van een voorwerp (lichaam, ruimtelijke figuur) is de grootte van het gebied in de ruimte (drie- (of hoger-) dimensionaal) dat door het voorwerp wordt ingenomen. Als basis in drie dimensies geldt dat de inhoud van een rechthoekig blok gelijk is aan lengte × breedte × hoogte. De inhoud van een voorwerp is nu bepaald door het aantal eenheden met lengte, breedte en hoogte elk 1 cm, dus inhoud 1 cm3, die in het voorwerp passen.
+Door de eenheden steeds kleiner te nemen wordt deze benadering nauwkeuriger. Dit limietproces leidt tot een ruimtelijke integraal die in de onderstaande formule is gegeven.
+De SI-eenheid van inhoud is de kubieke meter, m3.
+Formule.
+De inhoud van een willekeurig object kan berekend worden uit formula_2, waarbij de integraal loopt over het ruimelijk gebied V dat door het object wordt ingenomen.
+Generalisatie.
+De maattheorie levert een algemene definitie voor het begrip inhoud aan de hand van een maat, meer bepaald de Lebesgue-maat op formula_4. Het "n"-dimensionale volume van een n-dimensionaal blok is het product van de "n" afmetingen; hieruit volgt het "n"-dimensionale volume van een "n"-dimensionaal lichaam door dit in blokken op te delen en de volumes op te tellen, en dan de limiet te nemen waarbij de afmetingen van de blokjes naar nul gaan.
+Verschil volume en inhoud.
+In fysica wordt soms het onderscheid gemaakt tussen volume en inhoud. Inhoud is wat er ‘in’ een bepaald lichaam gestoken kan worden. Volume is wat het lichaam in totaal aan ruimte inneemt. De inhoud van een lichaam is de vloeistof die je in het binnenste kan krijgen. Het volume is wat het lichaam in zijn totaliteit inneemt en is groter dan de inhoud.
+Bij een wiskundig figuur met een oppervlak als wand (dus met een wanddikte gelijk aan nul) komen inhoud en volume overeen. Bij een fysiek hol voorwerp is de dikte van de wand altijd groter dan nul en heeft deze dus ook volume, waardoor zijn inhoud steeds kleiner zal zijn dan het totaal volume.
+Dit probleem kan verholpen worden door meer te omschrijven wat er gevraagd wordt. 'Het volume binnen de fles', 'het volume van het lichaam zonder lucht', 'het totaalvolume van het lichaam'.

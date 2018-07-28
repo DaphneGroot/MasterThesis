@@ -1,0 +1,6 @@
+Pair programming.
+Pair programming is het programmeren van broncode in duo's.
+Pair programming gaat ervan uit dat twee programmeurs samen achter één computer zitten te werken aan hetzelfde stuk code. Er is sprake van een duidelijke rolverdeling.
+De eerste programmeur is degene die het toetsenbord bedient en de code daadwerkelijk schrijft, in principe is zijn rol dus gelijk aan die van een solo-programmeur. De tweede programmeur heeft een controlerende en vooruitdenkende taak. Terwijl de code geschreven wordt, denkt hij dus al na over de te nemen stappen. Bovendien worden fouten snel opgemerkt en verwijderd. Regelmatig wisselen de 2 programmeurs van rol, zodat sterke punten van beide programmeurs benut kunnen worden. Een bijkomend voordeel is dat kennis over bepaalde (onderdelen van) programma's bij meer dan 1 persoon aanwezig is.
+Deze werkwijze wordt vaak gebruikt bij de Agile-softwareontwikkeling zoals eXtreme Programming of scrum.
+Volgens sommige onderzoeken is het productiever om gebruik te maken van pair programming in plaats van een solo-programmeur, omdat er minder fouten gemaakt worden en men sneller een goed product heeft.

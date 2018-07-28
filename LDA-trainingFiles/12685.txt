@@ -1,0 +1,11 @@
+Predicatenlogica.
+Predicatenlogica is wiskundig-formele logica waarin expliciet predicaten voorkomen, waarmee eigenschappen van en relaties tussen verzamelingen objecten worden beschreven. Vaak wordt met de term meer specifiek de eerste-orde-predicatenlogica bedoeld.
+Eerste-orde-predicatenlogica.
+De eerste-orde-predicatenlogica is een uitbreiding van de propositielogica.
+De taal is uitgebreid met constanten, variabelen, predicaten en soms ook functiesymbolen. Een propositie is een speciaal geval van een predicaat, namelijk een predicaat met ariteit nul. De taal van de predicatenlogica bevat verder drie kwantoren: de universele kwantor formula_1, de existentiële kwantor formula_2 en de uniciteitskwantor formula_2!. Deze laatste is een specifiekere vorm van de existentiële kwantor.
+In de propositielogica kan een propositie als "Wikipedia is een encyclopedie" uitgedrukt worden met een letter, bijvoorbeeld P. In de predicatenlogica kan dit worden uitgedrukt met een predicaat dat "een encyclopedie zijn" vertegenwoordigt, bijvoorbeeld met de letter E aangegeven, en een constante voor "Wikipedia", bijvoorbeeld w. De bewering "Wikipedia is een encyclopedie" kan dan worden uitgedrukt met de formule: E(w). Een "atomaire propositie" is in de predicatenlogica een formule zonder voegtekens (connectieven).
+Als we het predicaat "nuttig zijn" uitdrukken met de letter N, kunnen we de zin "Als Wikipedia een encyclopedie is, is Wikipedia nuttig" als volgt met een predicaatlogische formule representeren: E(w) → N(w).
+Ook een uitdrukking als "Alle encyclopedieën zijn nuttig" kan in predicatenlogica worden uitgedrukt, bijvoorbeeld als: formula_1x: (E(x) → N(x)). De formele taal waarin de logica werkt, legt het aantal constanten, relaties en functies en de ariteit van de relaties en functies vast. Deze gegevens vormen het similariteitstype.
+Hogere-orde-predicatenlogica.
+Deze ordening wordt aangebracht om de Russellparadox te vermijden.
+Een eenvoudig voorbeeld van prediceren over een predicaat, is als "belangrijk zijn" wordt uitgedrukt met B, en we "nuttig zijn is belangrijk" uitdrukken met: B(N). De zin "Wikipedia is nuttig en nuttig zijn is belangrijk" zouden we vervolgens kunnen weergeven als: N(w) formula_5 B(N). Het voegteken formula_5 is de conjunctie. Het symbool & wordt hier ook wel voor gebruikt.

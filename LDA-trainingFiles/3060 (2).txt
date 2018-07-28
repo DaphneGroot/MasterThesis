@@ -1,0 +1,8 @@
+Pseudocode.
+Met pseudocode wordt over het algemeen een onechte (niet-formele) programmeertaal bedoeld. 'Pseudo' betekent onecht, 'code' verwijst naar de broncode van een computerprogramma. Doordat pseudocode een informeel karakter heeft, is het niet geschikt om gecompileerd en uitgevoerd te worden. Het is hierdoor geen echte programmeertaal.
+Pseudocode wordt gebruikt om algoritmen vast te leggen op een voor mensen leesbare manier, met behoud van de opeenvolgende algoritmische stappen. Natuurlijke taal is hiervoor niet geschikt, omdat deze ambigu (voor meerdere uitleg vatbaar) is. Een werkelijke (formele) programmeertaal is vaak te strak gedefinieerd, en vereist te specifieke kennis van die taal om het algoritme snel en voor iedereen begrijpelijk te maken.
+In pseudocode komen bekende constructies uit bestaande programmeertalen voor (zoals C, Java of BASIC). Deze worden echter veel losser gebruikt en vaak in combinatie met geschreven zinnen (vaak in het Engels).
+loop over all pairs of adjacent numbers
+if the two numbers are in the wrong order
+Pseudocode is nergens echt gedefinieerd (zoals dat bij het ontwerpen van een echte programmeertaal wel gebeurt), waardoor de schrijver van de pseudocode een zeer grote, haast dichterlijke vrijheid heeft. Hierdoor kan een hoger abstractieniveau worden gebruikt dan in een programmeertaal, hetgeen de leesbaarheid ten goede komt.
+Net als programmeertalen maakt pseudocode gebruik van constructies voor herhalingen en beslissingen. Ook is het gebruikelijk pseudocode te laten inspringen. Details die voor compilers van belang zijn maar de leesbaarheid niet dienen (zoals puntkomma's en accolades) worden meestal niet gebruikt.

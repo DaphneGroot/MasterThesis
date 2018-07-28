@@ -1,0 +1,9 @@
+ISO 3166-2.
+ISO 3166-2 is het tweede gedeelte van de ISO 3166 standaard en definieert de codes voor de namen van de belangrijkste deelsectoren (bijvoorbeeld provincies of staten) van alle landen die gecodeerd zijn volgens ISO 3166-1. De officiële naam van deze standaard is de "Codes for the representation of names of countries and their subdivisions – Part 2: Country subdivision code", vrij vertaald de "Codes voor de representatie van namen van landen en hun onderverdelingen". De standaard werd voor het eerst gepubliceerd in 1998.
+Elke volledige ISO 3166-2-code kan vervolgens worden gebruikt om op unieke wijze een belangrijk administratief onderdeel te identificeren in een mondiale context. Momenteel zijn er meer dan 4200 codes gedefinieerd in ISO 3166-2.
+Voor sommige landen zijn er codes gedefinieerd voor meer dan slechts één niveau van administratieve onderdelen in dat land. Deze codes voor onderdelen van een land op een hoger gelegen niveau worden gedefinieerd volgens de officiële standaard zonder de ISO 3166-1 alfa-2 code van een land als voorvoegsel. Hierdoor kunnen deze codes geen garantie bieden voor wereldwijde uniciteit als opzichzelfstaande codes. Echter kunnen deze codes worden aangevuld door toevoeging van de alfa-2-code.
+Huidige codes.
+De codes die gebruikt worden en kunnen worden staan weergegeven in de tabel op ISO 3166-1.
+Veranderingen.
+Er zijn twee edities van ISO 3166-2. De eerste editie () is gepubliceerd op 20 december 1998 en de tweede editie (ISO 3166-2:2007) is gepubliceerd op 13 december 2007.
+Tussen de verschillende edities update de ISO-3166/MA de codelijsten door het aankondigen van de veranderingen in nieuwsbrieven. Veranderingen in ISO 3166-2 hebben voornamelijk betrekking op correcties van de spelling, toevoeging en verwijdering van deelgebieden, en aanpassing van de administratieve structuur.

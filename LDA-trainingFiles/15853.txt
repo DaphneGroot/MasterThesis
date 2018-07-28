@@ -1,0 +1,6 @@
+Morragambiet.
+Het Morragambiet - of kortweg Morra - is in de opening van een schaakpartij een variant van de schaakopening Siciliaans. De beginzetten van dit gambiet zijn: 1.e4 c5 2.d4 cxd4 3.c3. Het gambiet kan worden aangenomen (3. dxc3) of op verschillende manieren worden geweigerd (waaronder 3... d3 en 3... Pf6).
+Als zwart het gambiet aanneemt krijg wit een ontwikkelingsvoorsprong en vaak een felle aanval. Dit gambiet is echter niet populair bij topschakers, omdat wit bij een nauwkeurige verdediging van zwart onvoldoende compensatie heeft voor de geofferde pion.
+Het Morragambiet was in de 19e eeuw al bekend, maar werd in de veertiger jaren van de 20e eeuw voortreffelijk geanalyseerd door de schakers Pierre Morra en Kenneth Smith. Ook Paul Morphy heeft er aandacht aan besteed.
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4. Pc3 Pc6 5. Lc4 d6 6. Pf3 e6 7. 0-0 Pf6 8. De2 Le7 9. Td1 e5! 10. h3 (om Lg4 te voorkomen). Met een ongeveer gelijke stelling.
+Zwart kan er ook voor kiezen om zijn paard op b8 te laten staan en op een goed moment Pd7 te spelen: 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4. Pc3 d6 5. Lc4 e6 6.Pf3 Pf6 7. 0-0 a6 8. De2 b5 9. Lb3 Pd7, met een gelijke stelling.

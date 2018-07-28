@@ -1,0 +1,6 @@
+Boog (meetkunde).
+Een boog is een deel van een cirkel. Een boog wordt ook wel cirkelboog genoemd om aan te geven dat de straal een vaste waarde heeft.
+Als van beide uiteinden van de boog een lijn wordt getrokken naar het middelpunt van de bijbehorende cirkel, is de hoek tussen deze twee lijnen de middelpuntshoek. De grootte van de boog kan worden uitgedrukt in deze hoek (bijvoorbeeld 60°).
+Dit zegt niets over de werkelijke lengte. Als men de booglengte wil weten, vermenigvuldigt men de straal "r" van de cirkel met de middelpuntshoek "formula_1" (uitgedrukt in radialen).
+Omtrekshoek.
+Verbindt men een punt van (de omtrek van) de cirkel met de beide uiteinden van de boog, dan noemt men de hoek die de lijnen vormen een omtrekshoek. Deze omtrekshoek is de helft van de bijbehorende middelpuntshoek.

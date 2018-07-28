@@ -1,0 +1,47 @@
+Mergesort.
+Mergesort is een recursief sorteer-algoritme, volgens het verdeel en heers-principe.
+Mergesort werkt door een rij te sorteren elementen eerst in twee ongeveer even grote (ongesorteerde) rijen te verdelen en dat te herhalen totdat er alleen nog rijen met één element over zijn.
+Dan worden de rijen weer twee aan twee samengevoegd, geritst als het ware, waarbij steeds de voorste van de twee gesorteerde rijen met elkaar worden vergeleken om te bepalen welke het volgende element in de gesorteerde rij moet worden.
+Dit samenvoegen van gesorteerde rijen wordt op een steeds hoger niveau herhaald totdat er nog één (uiteraard gesorteerde) rij over is.
+Pseudocode.
+Als bij het samenvoegen in dezelfde volgorde wordt gewerkt als bij het verdelen, is het algoritme "stabiel": de volgorde van 2 en 2* in het voorbeeld blijft bij het sorteren onveranderd.
+De complexiteitsgraad van mergesort is bij het sorteren van n items in het slechtste geval O(n log n), waarvan de code die twee gesorteerde rijen samenvoegt in O(n) tijd verloopt (lineair).
+Prolog-voorbeeld.
+Hier is een beschrijving van mergesort in Prolog - een logische
+programmeertaal. Prolog heeft geen arrays en verzamelingen zowel als
+arrays worden dikwijls voorgesteld door "lijsten": een lege lijst is
+en een lijst waarvan het eerste element X is en wat achter X komt
+is T, wordt voorgesteld als [X|T]
+wat achter % staat is commentaar
+mergesort is als een procedure met twee argumenten: het eerste is
+"input" (de lijst die we willen sorteren) en de tweede is "output",
+namelijk het resultaat van de sorteeroperatie
+mergeSort(,). /* lege lijst is lege gesorteerde lijst */
+mergeSort([X], [X]). /* lijst met 1 element is een gesorteerde lijst met 1 element */
+mergeSort(Lijst,SortedList):- /* mergeSort de Lijst en vang het resultaat op in de Sortedlijst */
+split(Lijst,H1,H2), /* split de lijst in 2 helften */
+mergeSort(H1,S1), /* mergesort deze helften */
+mergeSort(H2,S2), /* mergesort deze helften */
+merge(S1,S2,SortedList). /* merge de 2 gesorteerde helften */
+split(,). /* split van een lege lijst geeft 2 lege helften */
+split([X], [X],). /* split met 1 element geeft 1 helft met dat element erin en een lege lijst (bij een oneven lijst)*/
+split([X,Y|T], [X|H1], [Y|H2]):- /* voeg respectievelijk X en Y aan de eerste en tweede helft toe */
+split(T,H1,H2). /* en ga verder met de rest van de lijst */
+merge(,). /* merge van 2 lege lijsten is een lege lijst */
+merge(X,X). /* merge van een lege lijst met een niet-lege lijst is die niet-lege lijst */
+merge(,Y,Y). /* merge van een lege lijst met een niet-lege lijst is die niet-lege lijst */
+merge([Head1|Tail1], [Head2|Tail2], [Head1|S]):- /* als head1 kleiner is als head2 voeg head1 dan toe aan de gemergde lijst*/
+merge(Tail1,[Head2|Tail2],S). /* en ga verder met tail1 en de hele tweede lijst*/
+merge([H1|T1], [H2|T2], [H2|S]):- /* als head1 groter is als head2 voeg dan head2 toe aan de gemergde lijst */
+merge([H1|T1],T2,S). /* en ga verder met tail2 en de hele eerste lijst */
+C-voorbeeld.
+int i1=0, i2=0; // huidige plaats in groepen
+int *groep1, *groep2; // begin van groepen
+int lengte1, lengte2; // lengtes van groepen
+Python code.
+links = mergesort(rij[:midd]) #recursieve oproep op linkerdeel
+rechts = mergesort(rij[midd:]) #recursieve oproep op rechterdeel
+if links[0] < rechts[0]: #vergelijk de eerste van links met de eerste van rechts
+rij[teller] = links.pop(0) #verwijder eerste van links en plak ze in de rij
+rij[teller] = rechts.pop(0) #verwijder eerste van rechts en plak ze in de rij
+return rij[:-len(links+rechts)] + links + rechts #of links of rechts is leeg, dus dit kan

@@ -1,0 +1,2 @@
+Periodiek systeem/Tabel met verkorte benoeming van de elektronenconfiguratie.
+De kolom "Oxidatietoestanden" geeft de mogelijke valenties bij verbindingen. De opgave is niet volledig. De edelgassen bijvoorbeeld hebben een oxidatiestaat van 0, maar van Xenon en Krypton zijn verbindingen bekend.

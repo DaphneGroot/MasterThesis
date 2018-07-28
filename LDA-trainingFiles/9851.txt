@@ -1,0 +1,14 @@
+Koningsgambiet.
+Het koningsgambiet is een opening bij het schaken die is ingedeeld bij de open spelen. Hij wordt gekenmerkt door de zetten 1.e4 e5 2.f4 ("zie diagram"). De bedoeling van het gambiet met 2.f4 is om de zwarte pion op e5 onschadelijk te maken, de f-lijn te openen, en om met d2-d4 het centrum te bezetten.
+Geschiedenis.
+Het gambiet werd voor het eerst beschreven door Ruy López in de 16e eeuw
+en heeft lang een dominante rol gespeeld. De theorie rond dit gambiet werd uitgebreid door de Italiaanse meesters Greco, Polerio en Salvio in de 16e en 17e eeuw.
+In de tijd van de Romantiek was het menig schaker de eer te na het gambiet te weigeren, ook al zou hij dat graag gewild hebben, want bij een slechte verdediging en een offer op f7 zag het er meestal slecht uit voor de zwartspeler. Latere grootmeesters zoals Morphy, Anderssen en Tsjigorin speelden dit gambiet met succes. Later hebben Boris Spasski, Bobby Fischer en David Bronstein koningsgambiet gespeeld.
+Varianten.
+Zwart kan het gambiet aannemen (door de witte pion f4 te slaan) of weigeren (door de witte pion niet te slaan), maar de opening wordt in de hedendaagse (groot)meestertoernooien nog maar weinig gespeeld.
+Moderne verdediging.
+De moderne verdediging is een antwoord op het agressieve Koningsgambiet en heeft als beginzetten: 1.e4 e5 2.f4 ef 3.Pf3 d5. Het gambiet is ingedeeld bij de open spelen.
+Fischerverdediging.
+Een andere verdediging is de Fischerverdediging, geanalyseerd door Bobby Fischer. De openingszetten van deze variant zijn: 1.e4 e5 2.f4 ef 3.Pf3 d6 4.Lc4 h6 en het is ingedeeld bij de open spelen.
+Beckerverdediging.
+De Beckerverdediging is ook tegen het Koningsgambiet gericht maar wordt minder vaak gespeeld. De beginzetten zijn 1.e4 e5 2.f4 ef 3.Pf3 h6 4.d4 g5 en ze wordt ingedeeld bij de open spelen.

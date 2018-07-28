@@ -1,0 +1,14 @@
+Amfoteer.
+Een chemische verbinding is amfoteer als het zowel met een base als met een zuur kan reageren. Het woord is afkomstig van het Griekse αμφότερος "(amphoteros)" dat "beide" betekent.
+Amfolyten zijn amfotere stoffen. Zij kunnen dus zowel waterstofionen (H+) opnemen als afstaan. Het zijn dus stoffen die zowel als een zuur of als een base kunnen reageren. Voorbeelden van amfolyten zijn water en de ionen waterstofcarbonaat, waterstofsulfaat en diwaterstoffosfaat. Sommige verbindingen, zoals aminozuren of EDTA, bezitten in dezelfde molecule minstens een zure en een base atoomgroep, waardoor de stof binnen een bepaald pH-gebied als een zwitterion bestaat. De stof zelf draagt dan formele elektrische ladingen.
+Voorbeelden.
+Het amfoteer karakter van aluminium wordt geïllustreerd door de exotherme reactie met zowel natriumhydroxide (links) als waterstofchloride (rechts).
+Aluminiumoxide.
+Aluminiumoxide (Al2O3) lost uitstekend op in zowel sterke zuren als in sterke basen.
+Waterstofcarbonaat.
+Het waterstofcarbonaation (HCO3-) reageert zowel met een sterk zuur als met een sterke base. Hierop berust de bufferende werking van de zouten van deze zuurrest, zoals natriumwaterstofcarbonaat.
+Vergelijkbare ionen zijn het waterstoffosfaat- en waterstofsulfaation.
+Zwitterionen.
+Het zwitterion van een aminozuur, algemeen voorgesteld als H3N+-CHR-COO-, kan met een base reageren via de H3N+-groep en met een zuur via de COO--groep.
+EDTA.
+De volgorde waarin de H+ionen worden afgestaan is vergelijkbaar met die voor aminozuren: de echte zuurgroepen staan eerst hun proton af, daarna pas de stikstofatomen. De volgorde van de zuurgroepen (van 2 naar 3 en dan 4) wordt bepaald door de nabijheid van de negatieve lading, waardoor het waterstofion aan de andere kant van de molecule eerder afgestaan zal worden.

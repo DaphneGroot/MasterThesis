@@ -1,0 +1,53 @@
+KDE.
+KDE (K Desktop Environment) is een vrije en opensource-desktopomgeving en -framework gebaseerd op Nokia's Qt-toolkit voor Linux en andere Unix-achtige besturingssystemen. KDE is een software suite en bevat onder meer een internet suite en office suite. Een met KDE vergelijkbaar project is GNOME.
+Algemeen.
+De letter "K" stond oorspronkelijk voor "Kool" (Koel), maar dat werd later veranderd in alleen "K", wat staat voor: "De eerste letter vóór de "L" van Linux in het Latijnse alfabet".
+Volgens de website van KDE: "KDE is een netwerktransparante en eigentijdse gebruikersomgeving voor Unix-werkstations. KDE voorziet in de behoefte aan een makkelijk te gebruiken omgeving voor UNIX-werkstations, te vergelijken met de gebruikersomgevingen onder Mac OS X en Windows."
+KDE is geïnspireerd door de Common Desktop Environment (CDE), een oudere gebruikersomgeving die onder het X Window System gebruikt wordt door VMS en commerciële Unix-leveranciers zoals Sun Microsystems en HP.
+Het KDE-project werd gestart door de Duitser Matthias Ettrich als reactie op het feit dat de programma's en de interface van CDE er niet op dezelfde manier uitzagen of werkten.
+KDE is uitgebreid te configureren en het heeft vele cosmetische elementen, zoals transparante menu's en anti-aliasing voor tekst, die zijn te vergelijken met soortgelijke mogelijkheden in Windows en Mac OS X.
+Software.
+Een schermafdruk van KDE 3.5 in het Nederlands
+KDE wordt vertaald in bijna 90 talen (zie externe links), waaronder Nederlands. Een aantal van deze talen wordt zelfs niet ondersteund door de meeste commerciële software. Niet alle talen worden volledig ondersteund, zo is de documentatie bij de meeste talen maar een klein beetje of helemaal niet vertaald. In 2003 is er tevens een Friese vertaling opgestart, waarvan de eerste versie met KDE 3.4 is uitgegeven.
+Sommige aan KDE verbonden projecten hebben hun eigen uitgaveschema's, namelijk KDevelop; een softwareontwikkelomgeving, Quanta; een DTD-ontwikkelomgeving voor het maken van onder andere websites en KOffice, een uitgebreid pakket met kantoorsoftware.
+Er bestaat zowel concurrentie als samenwerking tussen KDE en GNOME, een andere vrije grafische gebruikersomgeving voor Unix. De makers van Qt hebben in januari 2004 een pakket bibliotheken beschikbaar gesteld om GNOME-applicaties zeer eenvoudig te kunnen laten integreren met de KDE-desktop. Het is echter niet zo dat GNOME-applicaties anders niet onder KDE zouden kunnen werken. Dit is goed mogelijk, maar het besturingssysteem heeft daarvoor wel belangrijke elementen van GNOME nodig. Dit is andersom ook het geval.
+Andere besturingssystemen.
+KDE wordt naast UNIX ook ontwikkeld voor het besturingssysteem Darwin OS. Darwin, de basis van Mac OS X, is gebaseerd op de Machkernel en BSD, een familie van opensource-Unixvarianten. De Darwin-versie is de eerste versie van KDE die draait onder een besturingssysteem van Apple. Gebruikers van Darwin en Mac OS X kunnen KDE relatief eenvoudig installeren via een faciliteit zoals Fink.
+Sinds KDE 4.0 is er ook een installatieprogramma voor Windows beschikbaar. Dit komt doordat KDE 4.x gebruikmaakt van Qt 4, waarbij het toegestaan is om er vrije programma's voor Windows mee te maken.
+Organisatie van het KDE-project.
+Zoals veel opensource- en andere vrije softwarepakketten wordt KDE in hoofdzaak door vrijwilligers ontwikkeld.
+Omdat enkele honderden mensen op verschillende manieren bijdragen aan KDE (bijvoorbeeld door te programmeren, te vertalen of de vormgeving te verzorgen), is de organisatie van zo'n project erg complex.
+De meeste problemen worden besproken op een groot aantal discussielijsten (zie externe links beneden).
+Belangrijke beslissingen, zoals wanneer nieuwe versies worden uitgebracht en het opnemen van nieuwe applicaties, worden gemaakt op de discussielijst "kde-core-devel" door de zogenaamde "kernontwikkelaars". Dit zijn de ontwikkelaars die al lange tijd meewerken aan KDE. Beslissingen worden niet genomen met behulp van een stemronde, maar door middel van discussie op de discussielijsten. In de meeste gevallen schijnt dit goed te werken en zeer grote discussies, zoals de vraag of de "API" van KDE 2 niet meer ondersteund moet worden in het voordeel van KDE 3, zijn erg zeldzaam.
+Uitgaveschema en versienummers.
+Zoals de geschiedenis van het project beneden toont, geeft het KDE-team op regelmatige basis nieuwe versies vrij. Ze staan erom bekend vast te houden aan het uitgaveschema en het is zeldzaam dat een uitgave meer dan één of twee weken wordt vertraagd. Een uitzondering was KDE 3.1, dat meer dan een maand vertraagd was, omdat in de broncode veiligheidsproblemen aan het licht waren gekomen. Het handhaven van zo'n strak uitgaveschema is voor een vrijwilligersproject erg zeldzaam. Het uitgaveschema van de Linuxkernel, bijvoorbeeld, staat bekend om zijn onvoorspelbare vertragingen. Dit hoeft niet per se slecht te zijn: omdat men niet gebonden is aan deadlines van klanten is men vrij om een programma pas 'af' te noemen als het daadwerkelijk af is.
+Er zijn twee belangrijke soorten uitgaven: grote uitgaven en kleine uitgaven.
+Grote uitgave.
+Een grote KDE-uitgave heeft twee getallen in zijn versienummer, bijvoorbeeld "KDE 1.1". Alleen een grote KDE-uitgave zal nieuwe mogelijkheden bevatten. Tot nu toe (februari 2010) waren er zestien grote uitgaven, namelijk: 1.0, 1.1, 2.0, 2.1, 2.2, 3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 4.0, 4.1, 4.2, 4.3 en 4.4. Alle KDE-uitgaven binnen dezelfde grote versie (bijvoorbeeld KDE1, KDE2 en KDE3) zijn zowel op binair niveau als in de broncode compatibel met elkaar. Dit betekent dat voor KDE 3.0.x ontwikkelde programmatuur zal werken met alle versies van KDE3. Programma's hoeven dus alleen opnieuw gecompileerd te worden bij het uitkomen van een nieuwe grote versie. Dit zorgt voor een stabiele API voor KDE-ontwikkelaars. De veranderingen tussen KDE 1 en KDE 2 waren erg groot en talrijk, terwijl de veranderingen in de API tussen KDE 2 en KDE 3 relatief klein waren. Hierdoor konden toepassingen makkelijk voor KDE 3 geschikt gemaakt worden. Tot nu toe volgden de grote KDE-uitgaven het Qt-uitgaveschema.
+Al voordat een grote uitgave klaar is en wordt aangekondigd, begint men te werken aan de volgende grote uitgave. Men heeft normaliter ongeveer een half jaar nodig om een grote uitgave af te maken (eerder duurde dit ongeveer een jaar). Tijdens deze periode worden vele bugs (softwarefouten) opgelost en die opgeloste bugs worden meegenomen in de laatste stabiele versie.
+KDE 4 is anno 2013 de laatste versie.
+Kleine uitgave.
+Kleine uitgaven zijn bedoeld om bugs te verhelpen en de vertalingen af te werken. Voor kleine uitgaven wordt een verkort uitgaveschema gebruikt.
+Een kleine KDE-uitgave heeft drie versienummers, bijvoorbeeld KDE 1.1.1. De ontwikkelaars richten zich hierin op het oplossen van bugs, kleine schoonheidsfoutjes en kleine verbeteringen in de gebruiksvriendelijkheid, als tegenhanger van het introduceren van nieuwe mogelijkheden. Daarnaast worden deze uitgaven gebruikt om nieuwe vertalingen uit te brengen die ten tijde van het uitbrengen van de hoofdversie nog niet af waren. Een kleine uitgave is gebaseerd op een aparte Subversion-vertakking "(branch)" van een vorige versie en heeft geen invloed op de "HEAD branch" (in SVN-termen ook wel "trunk" genoemd), het deel waarin de huidige ontwikkeling van de volgende grote release plaatsvindt.
+De afwijkende naam "3.0.5a" werd gebruikt omdat de versienummers op waren. Men was al begonnen met KDE 3.1 en toentertijd gebruikte de releasecoördinator versienummers zoals 3.06 intern in het CVS-systeem om testversies te onderscheiden van de aankomende grote uitgave 3.1. Plotseling na versie 3.0.3 moesten een aantal belangrijke en onverwachte bugs opgelost worden, wat uiteindelijk leidde tot een versieconflict met 3.0.6, omdat die toen al in gebruik was.
+Kritieke bugs worden ook verholpen in oudere versies van KDE ("backporten").
+KDE 4.
+De anno 2013 recentste hoofduitgave van KDE heet KDE 4. Aan KDE 4 ging een lange periode van ontwikkeling aan vooraf en is ook in zijn geheel herschreven en/of aangepast aan Qt4. Op 11 januari 2008 kwam na een hele reeks alfa-, beta- en RC-versies de uiteindelijke stabiele versie 4.0 uit.
+KDE 4.1.
+KDE 4.1, ook een grote uitgave, werd uitgegeven op 29 juli 2008.
+KDE 4.2.
+KDE 4.2 werd uitgegeven op 27 januari 2009.
+KDE 4.3.
+Ook een grote uitgave van KDE is KDE 4.3 en werd uitgegeven op 4 augustus 2009.
+KDE 4.4.
+KDE 4.4 werd uitgegeven op 9 februari 2010. Deze versie bevat een nieuwe applicatie, KAddressBook, Kopete 1.0 en een nieuwe plasma-interface voor netbooks. Deze versie markeerde ook de introductie van KAuth. Verder maakt KDE 4.4 gebruik van Qt 4.6.
+KDE 4.5.
+KDE 4.5 werd uitgegeven op 10 augustus 2010 Deze versie bevatte een nieuwe WebKit-webbrowser, genaamd Rekonq, en was stabieler dan de voorgaande KDE-versie. Verder werd het systeemvak opgeschoond.
+KDE 4.6.
+KDE 4.6 werd uitgegeven op 26 januari 2011. Deze versie kwam met voorbereidingen voor een mobiele KDE ("KDE Plasma Active") en verbeterde stabiliteit en snelheid.
+KDE 4.11.
+KDE 4.11 werd uitgebracht op 14 augustus 2013. Deze versie bevat vroege ondersteuning voor Wayland.
+KDE 4.12.
+De huidige uitgave van KDE is 4.12, uitgebracht op 18 december 2013.
+Mascotte.
+De mascotte van de KDE is het groene draakje Konqi. In eerdere versies was dat de tovenaar (wizard) Kandalf, wiens naam is afgeleid van "Gandalf", een personage uit de boeken van de schrijver Tolkien.

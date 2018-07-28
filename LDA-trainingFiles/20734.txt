@@ -1,0 +1,20 @@
+Russellparadox.
+De paradox van Russell is een paradox over verzamelingen waarvan de elementen zelf ook weer verzamelingen zijn. In essentie zegt het dat de "verzameling van alle verzamelingen die zichzelf niet bevatten" een paradox is. Rond 1900 veroorzaakte het een schok in de wereld van de fundamenten van de wiskunde.
+Verzamelingen die zichzelf "niet" resp. "wel" bevatten.
+In de paradox gaat het om verzamelingen waarvan de elementen op zichzelf ook verzamelingen zijn.
+Elk element van BV is zelf ook weer een verzameling.
+Het blijkt dat BV de volgende eigenschap bezit: formula_1.
+Met andere woorden: BV is zelf geen element van BV. Immers, een verzameling bestaande uit bloemenverzamelingen is zelf geen bloemenverzameling.
+Maar we zouden ook verzamelingen kunnen bedenken die "wel" zichzelf bevatten, bijvoorbeeld de verzameling van alle verzamelingen.
+De Russellverzameling.
+Ten eerste stellen we vast dat R niet de lege verzameling is, want de bovengenoemde verzameling BV bevat zichzelf niet en is dus een element van R.
+Een interessante vraag is nu: "bevat R zichzelf?", dus geldt er dat formula_3?
+Stel dat het antwoord 'ja' is. In dat geval moet R voldoen aan de eigenschappen die alle elementen van de verzameling R bezitten en dus geldt dan dat formula_4. Maar dan is het antwoord dus geen 'ja', maar 'nee'! Dus een tegenspraak. Dus kan R zichzelf niet bevatten.
+Het antwoord op de vraag moet dus 'nee' zijn: formula_4
+Dat betekent echter dat R voldoet aan de eigenschap die geldt voor de elementen van R, dus dat formula_6, dus dat 'ja' het correcte antwoord op de vraag is. Ook een tegenspraak.
+We zien dat geen van de twee mogelijkheden formula_6 en formula_4 juist is. We hebben dus een verzameling geconstrueerd waarvan het zowel onmogelijk is dat een bepaald object er wel in zit als dat het er niet in zit. Een paradoxale situatie: de paradox van Russell.
+Verband met Cantor.
+De paradox van Russell is sterk verbonden met het diagonaalbewijs van Cantor: Dat had aangetoond dat voor alle verzamelingen de verzameling van alle deelverzamelingen groter is. Stel dat we dit op de verzameling van alle verzamelingen willen toepassen. Als we de deelverzamelingen hiervan nemen, krijgen we de verzameling van alle verzamelingsverzamelingen. Maar dit is zelf een deelverzameling van de verzameling van alle verzamelingen en hierdoor een paradox. Als we hier het bewijs van Cantor willen toepassen om te bewijzen dat het desondanks groter is, is de Russellverzameling de verzameling waarvan we 'aantonen' dat het niet in de verzameling van alle verzamelingen zit.
+Men kan de moeilijkheid die volgt uit het begrip 'verzameling van alle verzamelingen' vermijden door een onderscheid te maken tussen klassen en verzamelingen. Een klasse wordt in het bijzonder een verzameling genoemd indien ze zelf element kan zijn van een andere klasse. Aldus is de 'verzameling van alle verzamelingen ' een klasse en geen verzameling.
+Oplossing van de paradox.
+Deze regels zijn nu opgesteld zodat alle verzamelingen die in de wiskundige praktijk voorkomen door de axioma's gedefinieerd worden, maar paradoxale verzamelingen zoals de verzameling van alle verzamelingen en de Russellverzameling niet.

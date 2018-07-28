@@ -1,0 +1,3 @@
+Veldsterkte.
+Veldsterkte is de sterkte van een veld. Dit veld kan bijvoorbeeld een magnetisch veld of elektrisch veld zijn. Met de veldsterkte drukt men uit hoe sterk het veld is op een bepaalde plaats in het veld. Ook de zwaartekracht heeft een veldsterkte; de zwaarteveldsterkte (of gravitatieveldsterkte). Deze heeft als eenheid N/kg. De veldsterkte in Brussel bedraagt ongeveer 9,81 N/kg.
+Veldsterkte is een vector en heeft dus naast een grootte altijd een richting. Afhankelijk van de omgeving wordt de veldsterkte uitgedrukt in 2 of 3 componenten, in orthogonale richtingen gericht. Wanneer we spreken van de veldsterkte in een zeker punt, bedoelen we daarmee de vectoriële som van de afzonderlijke componenten.

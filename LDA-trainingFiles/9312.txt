@@ -1,0 +1,24 @@
+Wetten van Maxwell.
+De wetten van Maxwell, ook wel maxwellvergelijkingen of maxwelltheorie genoemd, zijn de vier natuurkundige wetten van het elektromagnetisme, de theorie van elektrische en magnetische velden en elektromagnetische straling zoals licht.
+Geschiedenis.
+De wetten werden in 1865 geformuleerd door James Clerk Maxwell in termen van 20 vergelijkingen in 20 variabelen. In 1884 werd een veel kortere notatie, die gebruik maakte van vectoranalyse, geïntroduceerd door Oliver Heaviside en Josiah Willard Gibbs. Heaviside leidde uit de wetten van Maxwell de telegraafvergelijkingen af: twee formules die het gedrag van elektrische signalen in een transmissielijn beschrijven.
+Aan het einde van de 19e eeuw werd aangenomen dat de wetten van Maxwell alleen golden in het ruststelsel van de ether, het medium waardoor het licht verondersteld werd zich voort te planten, maar waarvan de aard onderwerp van discussie was. Toen het experiment van Michelson en Morley in 1887, dat bedoeld was om de snelheid van de aarde door de ether te meten, op een snelheid nul uitkwam en zodoende de aanwezigheid van deze ether niet kon vaststellen, werden alternatieve verklaringen gezocht door Hendrik Antoon Lorentz en anderen. Dit leidde uiteindelijk tot de speciale relativiteitstheorie van Albert Einstein, waarin de afwezigheid van een absoluut ruststelsel (ether) werd gepostuleerd en waarin de maxwellvergelijkingen in elk inertiaalstelsel hetzelfde waren.
+In de jaren '20 van de 20e eeuw toonden Theodor Kaluza en Oskar Klein aan dat de vergelijkingen van Maxwell verkregen kunnen worden uit die van de algemene relativiteitstheorie als de vierdimensionale ruimtetijd uitgebreid wordt met een extra dimensie. Deze theorie staat bekend als Kaluza-Klein-theorie, en hoewel er technische problemen met deze theorie zijn, vormen dergelijke methoden om verschillende krachten te unificeren een belangrijk onderzoeksgebied in de moderne natuurkunde.
+Algemeen.
+P en M heten de polarisatie resp. magnetisatie van de materie, en zijn van het materiaal afhankelijke functies van E resp. B.
+ε0 en μ0 heten respectievelijk de elektrische veldconstante en de magnetische veldconstante: ε0 = 1 / (μ0 c2) en μ0 = 4π 10−7 kg m/(s2 A2).
+Het symbool ρ staat voor de elektrische ladingsdichtheid en J voor de elektrische stroomdichtheid. Van (2) en (4) is de rechterzijde nul, waarmee wordt uitgedrukt dat de magnetische ladingsdichtheid en magnetische stroomdichtheid nul zijn, ofwel dat magnetische monopolen niet bestaan: magnetische veldlijnen vormen gesloten krommen. Wat we bij een magneet de polen noemen, zijn slechts de plaatsen waar de veldlijnen het materiaal verlaten.
+In lineaire media.
+"Lineaire media" zijn materialen waarin D evenredig is met E en H met B. De relaties tussen deze grootheden kunnen dan worden geschreven als
+met formula_19 de elektrische flux, formula_20 de magnetische flux, "I" de elektrische stroom en "U" de elektrische spanning. Verder is A een gesloten oppervlak dat lading Q volledig omsluit en s is een gesloten pad dat flux formula_19 of formula_20 volledig omsluit.
+In vacuüm.
+Een bijzonder geval van een lineair medium is het vacuüm, waar geen ladingen en stromen aanwezig zijn en geen polarisatie en magnetisatie plaatsvinden (ρ = 0, J = 0, P = 0, M = 0). De maxwellvergelijkingen kunnen nu vereenvoudigd worden tot
+Dit stelsel vergelijkingen heeft eenvoudige oplossingen in de vorm van lopende sinusoïdale golven, waarin de richtingen van het elektrische en magnetische veld loodrecht op elkaar en op de voortplantingsrichting staan. De snelheid waarmee de golven zich voortbewegen, is
+Maxwell ontdekte dat dit precies de lichtsnelheid in vacuüm is, en dat licht dus een vorm van elektromagnetische straling is.
+Relativistische formulering.
+In de speciale relativiteitstheorie zijn het elektrische en het magnetische veld onderdelen van één grootheid, de elektromagnetische veldtensor. Deze is gedefinieerd als
+Verder definiëren we de duale tensor als
+De maxwellvergelijkingen kunnen nu, gebruikmakend van de einstein-sommatieconventie, worden geschreven als
+Hierin is de operator formula_35, de d'Alembertiaan genaamd, de relativistische uitbreiding van de Laplaciaan (formula_36), gedefinieerd als
+Bibliografie.
+David J. Griffiths, "Introduction to Electrodynamics", derde editie.

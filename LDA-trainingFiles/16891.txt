@@ -1,0 +1,11 @@
+Gantt-grafiek.
+Een Gantt-grafiek is een grafiek ofwel diagram voor het plannen, dat gebruikt kan worden als hulpmiddel bij projectmanagement.
+Geschiedenis.
+Henry Laurence Gantt ontwikkelde de Gantt-grafiek rond 1910. In zijn werk als werktuigkundig ingenieur, managementconsultant en bedrijfsadviseur werd de Gantt-grafiek gebruikt als een visueel hulpmiddel om de planning en voortgang van een project te laten zien. In die tijd werd dit gezien als een opzienbarende innovatie. De Gantt-grafiek werd onder andere gebruikt bij grote bouwprojecten als de Hoover Dam in 1931 en het interstate highway-netwerk in 1956.
+In 1952 publiceerde Berend Willem Berenschot het eerste Nederlandse boek over de Gantt-kaart, waarbij deze werd gepresenteerd als een hulpmiddel voor de bedrijfsleiding.
+Tegenwoordig wordt de Gantt-kaart wereldwijd beschouwd als een geaccepteerde standaard.
+Lay-out.
+Een Gantt-grafiek bestaat uit een aantal rijen die ieder een module of taak binnen het project vertegenwoordigen. Meestal staan de eerste modules bovenaan. Op de horizontale as staat de tijd die nodig is voor het totale project. Per project wordt middels een tijdbalk aangegeven welke tijd per module nodig is.
+Gecompliceerdere Gantt-grafieken kunnen ook zaken bevatten als "milestones" en relaties tussen modules (bijvoorbeeld: taak 1 moet afgerond zijn voor taak 3 gestart kan worden).
+Hulpprogramma's.
+Er zijn verschillende programma's die gebruikt kunnen worden voor het maken van een Gantt-grafiek. Voor een simpel figuurtje volstaat het om in een spreadsheet bepaalde cellen te kleuren. Voor geavanceerdere figuren kunnen programma's als het gratis opensourceproject Gantt, Microsoft Project of de gebruikelijke projectmanagementpakketten gebruikt worden.

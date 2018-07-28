@@ -1,0 +1,6 @@
+Magnetische declinatie.
+Declinatie (miswijzing) van het kompas tussen 1590 en 1990
+De magnetische declinatie of variatie van een kompas is het verschil in richting dat wordt veroorzaakt doordat het geografische noorden, dat samenvalt met de draaiingsas van de Aarde, niet samenvalt met de geomagnetische pool van het aardmagnetisch veld. De magnetische declinatie is niet overal ter wereld hetzelfde, maar hangt ervan af waar ter wereld men zich bevindt. De declinatie veroorzaakt een zijdelingse afwijking van de kompasnaald.
+De declinatie of variatie heeft een eigen waarde en een eigen teken. In de navigatie wordt geen + of - teken gebruikt, maar de indicatie O (oost) of E (east) voor het plusteken en de indicatie W (west) voor het minteken. De waarde vinden we terug op variatiekaarten of in de kompasrozen van zeekaarten. Op Engelse zeekaarten staat bijvoorbeeld: var 5°24 W (2002) increasing 6' annually.
+Door het langzaam verplaatsen van de magnetische polen is de declinatie door de tijd heen aan verandering onderhevig.
+De magnetische inclinatie is iets anders. Doordat de veldlijnen van het aardmagnetisch veld een hoek maken met het aardoppervlak, is een magnetisch kompas op de polen en op breedten groter dan 70° niet meer bruikbaar.

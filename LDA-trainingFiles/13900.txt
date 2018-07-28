@@ -1,0 +1,7 @@
+Netscape Communications Corporation.
+Netscape Communications Corporation is een softwarebedrijf dat vooral bekend is geworden door de webbrowser Netscape Navigator en webserver. Het bedrijf is sinds 1999 onderdeel van AOL. Het browseronderdeel van Netscape werd later ondergebracht in de Mozilla Foundation.
+Geschiedenis.
+In februari 1993 lanceerde NCSA de eerste grafische webbrowser voor het World Wide Web genaamd Mosaic, waarmee het bedrijf de basis legde voor bijna alle huidige browsers. Deze eerste grafische webbrowser wist in korte tijd een revolutie te ontketenen.
+Eén van de programmeurs van Mosaic was Marc Andreessen en hij ging na afloop werken voor het zojuist opgerichte bedrijf Mosaic Communications, dat later vanwege onenigheid over de naam werd omgedoopt tot Netscape.
+De broncode van Netscape Navigator werd later vrijgegeven en ging op in Mozilla Suite. In 1998 werd de broncode quasi van nul herschreven. Later werd Mozilla Suite onder meer afgetakt tot Mozilla Firefox.
+Op 19 mei 2005 werd Netscape 8.0 geïntroduceerd, de allereerste grote update sinds jaren. Deze nieuwe versie van Netscape bevatte voor een groot gedeelte de Mozilla Firefox-code. Op 1 februari 2008 werd de ondersteuning voor Netscape stopgezet.

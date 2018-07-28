@@ -1,0 +1,20 @@
+Gehoordrempel.
+De gemiddelde gehoordrempel van jonge, gezonde mensen
+De gehoordrempel is de laagste geluidsdruk waarbij een persoon een geluid nog kan waarnemen, met andere woorden het zachtste geluid dat een persoon kan horen.
+Frequentieafhankelijkheid.
+De gehoordrempel is sterk afhankelijk van de frequentie van het geluid en vertoont bij personen zonder gehoorschade een minimum tussen 1000 Hz en 5000 Hz. Rond een frequentie van 4000 Hz hoort de mens het beste. De gehoordrempel bedraagt daar ongeveer -5 dB. Bij dit minimum is het gehoor van een mens dus het meest gevoelig.
+Bij lage frequenties is het menselijk oor veel minder gevoelig; bij 100 Hz bedraagt de gehoordrempel ongeveer 28 dB, bij 10 Hz zelfs ongeveer 95 dB. Het geluid wordt bij zulke lage frequenties eerder gevoeld dan gehoord. De verschillen tussen individuele personen zijn bij de laagste frequenties echter zeer groot, zodat de ene persoon het geluid helemaal niet waarneemt, en de andere zeer gehinderd kan zijn.
+Hoogte gehoordrempel.
+De gehoordrempel van een persoon kan door metingen worden bepaald, en wordt dan vastgelegd in een audiogram.
+De referentie geluidsdruk van 2 × 10-5 Pa = 20 µPa is gelijkgesteld aan de gehoordrempel bij 1000 Hz van een gemiddelde persoon. De gehoordrempel bij 1000 Hz bedraagt derhalve 0 dB.
+Dieren.
+Sommige dieren, zoals de hond hebben een lagere gehoordrempel dan de mens. Honden kunnen vooral bij hoge frequenties veel beter horen. Dolfijnen kunnen nog hogere frequenties horen, maar vleermuizen kunnen de hoogste frequenties horen.
+Slechthorendheid.
+Slechthorendheid gaat gepaard met een verhoogde gehoordrempel. Dit kan ontstaan door ouderdom, maar kan ook veroorzaakt worden door een middenoorontsteking of aangeboren zijn. Een ziekte zoals otosclerose kan ook slechthorendheid veroorzaken.
+Lawaaidoofheid.
+Bij lawaaidoofheid is vooral de gehoordrempel bij frequenties vanaf 1000 Hz verhoogd, hetgeen er toe leidt dat vooral de medeklinkers niet meer van elkaar kunnen worden onderscheiden. Het geluid van medeklinkers bevat door het impulsachtige en ruisachtige karakter veel hoge frequenties. Een slechthorend persoon kan hierdoor verschillende woorden niet van elkaar onderscheiden, bijvoorbeeld "sap" en "tap" zullen dan veel op elkaar lijken.
+Na kortdurende blootstelling aan hard geluid, bijvoorbeeld na een avond of nacht met housemuziek of in de disco, kan de gehoordrempel tijdelijk verhoogd zijn. Er kan ook tinnitus optreden. Komt dit niet al te vaak voor, dan herstelt het gehoor zich weer spontaan. Niettemin wordt bij jongeren hierdoor, of door het veelvuldig gebruik van hoofdtelefoons met harde muziek, blijvende gehoorschade geconstateerd.
+Ouderdomsdoofheid.
+Met het ouder worden wordt het gehoor vanzelf slechter (ouderdomsdoofheid). Vooral bij hogere frequenties wordt de gehoordrempel hoger. Door statistisch onderzoek bij grote aantallen mensen is vastgesteld hoe groot de gemiddelde verhoging van de gehoordrempel is.
+In onderstaande tabellen de leeftijdscorretie voor mannen en vrouwen, volgens de Amerikaanse standaard: "Occupational Health and Environment Control, Standard Number:1910.95 App F"
+Hieruit blijkt dat vrouwen op hogere leeftijd een flink beter gehoor hebben dan mannen. Bij 6000 Hz hebben de mannen op 60-jarige leeftijd gemiddeld een met 38 dB verhoogde drempel, bij vrouwen is dat slechts 22 dB. Deels wordt dit veroorzaakt doordat mannen gemiddeld aan meer lawaai worden blootgesteld gedurende hun leven, denk daarbij aan het schieten tijdens militaire dienst. Maar vrouwen hebben intrinsiek een beter gehoor op hogere leeftijd.

@@ -1,0 +1,27 @@
+SQL.
+SQL (Structured Query Language) is een ANSI/ISO-standaardtaal voor een relationeel databasemanagementsysteem (DBMS). Het is een gestandaardiseerde taal die gebruikt kan worden voor taken zoals het bevragen en het aanpassen van gegevens in een relationele database. SQL kan met vrijwel alle moderne relationele databaseproducten worden gebruikt.
+SQL is een vierde-generatie-taal (G4-taal) omdat ze niet imperatief maar declaratief is, zoals Prolog.
+Beschrijving.
+SQL is gebaseerd op de relationele algebra en werd in de loop van de jaren zeventig ontwikkeld door IBM (San José).
+Sinds het ontstaan van SQL hebben reeds vele verschillende SQL-versies het levenslicht gezien. Pas in de loop van de jaren 80 werd SQL gestandaardiseerd. Tegenwoordig gebruiken de meeste RDBMS'en ten minste SQL-92.
+Bij het beschouwen van de verschillende SQL-implementaties moeten we vaststellen dat bijna elk DBMS zijn eigen extra functies heeft toegevoegd aan SQL-92. Dit maakt dat computerprogramma's waarbij de database-interface werd geschreven met behulp van SQL niet noodzakelijk zonder problemen kunnen worden gemigreerd van de ene naar de andere SQL-compatibele database. In vele gevallen werd door de ontwikkelaar van de software wel een of andere SQL-functie gebruikt die enkel maar bestaat in de SQL-implementatie van één specifiek DBMS.
+In eerste instantie werd SQL ontwikkeld als een vraagtaal voor de eindgebruiker. Het idee was dat businessmanagers SQL zouden gebruiken om bedrijfgegevens te analyseren. Achteraf is gebleken dat SQL te complex is om door eindgebruikers toegepast te worden. Het gebruik van SQL impliceert immers een volledige kennis van de structuur van de te ondervragen database. Tegenwoordig wordt SQL vrijwel uitsluitend door tussenkomst van een applicatie gebruikt. De programmeur van de applicatie benadert de database met SQL via een application programming interface (API), zoals ODBC of ADO (Windows), JDBC (Java) of een productspecifieke API. SQL is dus in essentie omgevormd van een taal voor eindgebruikers tot een brug tussen applicaties en databases.
+SQL kan worden opgedeeld in drie onderdelen: de Data Manipulation Language (DML), de Data Control Language (DCL) en de Data Definition Language (DDL).
+Werking.
+SQL maakt voor de communicatie met het DBMS gebruik van zogenaamde query's. Een query is een ASCII-tekenreeks en is een opdracht die naar het DBMS wordt verzonden. Het DBMS zal de opdracht interpreteren en uitvoeren en stuurt eventueel gegevens terug naar het opdrachtgevende programma.
+Met SQL is het mogelijk om tabellen aan te maken, te wijzigen, te vullen en te verwijderen.
+Een tabel maken.
+veldNaam1 veldtype1 [NOT NULL] [PRIMARY KEY | UNIQUE]
+,veldNaam2 veldtype2 [NOT NULL] [PRIMARY KEY | UNIQUE]
+Een tabel lezen.
+[ORDER BY veldnaam [ASC | DESC] [, veldnaam DESC]...;
+Gegevens bijwerken.
+UPDATE <tabel-naam> SET veldnaam=waarde, veldnaam2=waarde2 WHERE conditie;
+"SQL-sleutelwoorden staan in HOOFDletters, niet verplichte code tussen [en], herhalingen met..."
+Transacties.
+Een transactie bestaat uit een reeks van een of meer databasebewerkingen. De transactie maakt mogelijk dat zo'n reeks bewerkingen ofwel allemaal, ofwel geen van allen worden doorgevoerd.
+Een voorbeeld is de database van een bank, waarbij bij een overboeking eerst het saldo van rekening A met een SQL-opdracht wordt verlaagd, en daarna het saldo van rekening B met een SQL-opdracht wordt verhoogd. Als er een fout plaatsvindt nádat het saldo op rekening A is verlaagd, maar vóordat het saldo op rekening B is verhoogd, 'verdwijnt' het bedrag. De database is dan "inconsistent". Deze ongewenste toestand kan worden voorkomen door de twee SQL-opdrachten binnen een transactie af te werken.
+Een transactie kan expliciet worden gestart (codice_23 of codice_24) of impliciet bij de eerste lees- of schrijfopdracht sinds de voorgaande transactie (of sinds het begin van de sessie).
+De syntaxis en manier van werken verschillen enigszins per databasesysteem zoals Oracle, DB2, PostgreSQL en andere.
+Zo gaat in Oracle het uitvoeren van een DDL-commando impliciet gepaard aan een commit, en zo'n commando kan dus niet worden teruggedraaid (geROLLBACKed). In PostgreSQL daarentegen kunnen DDL-commando's in een transactie worden uitgevoerd en vervolgens ongedaan gemaakt door ROLLBACK.
+UPDATE tabel SET kolom1 = waarde1, kolom2 = waarde2 WHERE kolomID = eenID;

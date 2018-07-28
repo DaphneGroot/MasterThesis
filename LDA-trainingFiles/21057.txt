@@ -1,0 +1,3 @@
+Intel 80186.
+Net als de 8086 had de 80186 geen ingebouwde FPU. De chip kon net als de 8086 met een optionele 8087 FPU coprocessorchip communiceren.
+De 80186 is niet in PC's toegepast, gezien de ingebouwde DMA en timer niet PC-compartibel waren. Ze kwam wel voor op singleboards. In de IBM-pc's werd als opvolger van de 8088 (XT) de 80286 (AT) gebruikt.

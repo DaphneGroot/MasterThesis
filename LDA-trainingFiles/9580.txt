@@ -1,0 +1,88 @@
+Lijst van Belgische gemeenten naar bestuurlijke indeling.
+Deze lijst geeft aan bij welke bestuurlijke entiteiten een gemeente ingedeeld is.
+Arrondissement Antwerpen.
+"Dit is ook het gerechtelijk arrondissement Antwerpen"
+Arrondissement Mechelen.
+"Dit is ook het gerechtelijk arrondissement Mechelen"
+Arrondissement Turnhout.
+"Dit is ook het gerechtelijk arrondissement Turnhout"
+Arrondissement Hasselt.
+"Dit is ook het gerechtelijk arrondissement Hasselt" (minus de gemeenten As, Genk, Opglabbeek en Zutendaal)
+Arrondissement Maaseik.
+"Tongeren en Maaseik vormen samen het gerechtelijk arrondissement Tongeren" (minus de gemeenten Hamont-Achel, Hechtel-Eksel, Houthalen-Helchteren, Lommel, Neerpelt, Overpelt en Peer)
+Arrondissement Tongeren.
+"Tongeren en Maaseik vormen samen het gerechtelijk arrondissement Tongeren"
+Arrondissement Aalst.
+"Aalst, Dendermonde en Sint-Niklaas vormen samen het gerechtelijk arrondissement Dendermonde"
+Arrondissement Dendermonde.
+"Aalst, Dendermonde en Sint-Niklaas vormen samen het gerechtelijk arrondissement Dendermonde"
+Arrondissement Eeklo.
+"Eeklo en Gent vormen samen het gerechtelijk arrondissement Gent"
+Arrondissement Gent.
+"Eeklo en Gent vormen samen het gerechtelijk arrondissement Gent"
+Arrondissement Oudenaarde.
+"Dit is ook het gerechtelijk arrondissement Oudenaarde"
+Arrondissement Sint-Niklaas.
+"Aalst, Dendermonde en Sint-Niklaas vormen samen het gerechtelijk arrondissement Dendermonde"
+Arrondissement Brugge.
+"Brugge, Oostende en Tielt vormen samen het gerechtelijk arrondissement Brugge"
+Arrondissement Kortrijk.
+"Kortrijk en Roeselare vormen samen het gerechtelijk arrondissement Kortrijk"
+Arrondissement Diksmuide.
+"Diksmuide en Veurne vormen samen het gerechtelijk arrondissement Veurne"
+Arrondissement Oostende.
+"Brugge, Oostende en Tielt vormen samen het gerechtelijk arrondissement Brugge"
+Arrondissement Roeselare.
+"Kortrijk en Roeselare vormen samen het gerechtelijk arrondissement Kortrijk"
+Arrondissement Tielt.
+"Brugge, Oostende en Tielt vormen samen het gerechtelijk arrondissement Brugge"
+Arrondissement Veurne.
+"Diksmuide en Veurne vormen samen het gerechtelijk arrondissement Veurne"
+Arrondissement Ieper.
+"Dit is ook het gerechtelijk arrondissement Ieper"
+Arrondissement Halle-Vilvoorde.
+"Samen met het Brussels Hoofdstedelijk Gewest vormt dit het gerechtelijk arrondissement Brussel: zie Brussel-Halle-Vilvoorde"
+Arrondissement Leuven.
+"Dit is ook het gerechtelijk arrondissement Leuven"
+Arrondissement Aat.
+"Aat, Doornik en Moeskroen vormen samen het gerechtelijk arrondissement Doornik"
+Arrondissement Charleroi.
+"Charleroi en Thuin vormen samen het gerechtelijk arrondissement Charleroi"
+Arrondissement Bergen.
+"Bergen en Zinnik vormen samen het gerechtelijk arrondissement Bergen"
+Arrondissement Moeskroen.
+"Aat, Doornik en Moeskroen vormen samen het gerechtelijk arrondissement Doornik"
+Arrondissement Zinnik.
+"Bergen en Zinnik vormen samen het gerechtelijk arrondissement Bergen"
+Arrondissement Thuin.
+"Charleroi en Thuin vormen samen het gerechtelijk arrondissement Charleroi"
+Arrondissement Doornik.
+"Aat, Doornik en Moeskroen vormen samen het gerechtelijk arrondissement Doornik"
+Arrondissement Hoei.
+"Dit is ook het gerechtelijk arrondissement Hoei"
+Arrondissement Luik.
+"Luik en Borgworm vormen samen het gerechtelijk arrondissement Luik"
+Arrondissement Verviers.
+"Dit arrondissement omvat twee gerechtelijke arrondissementen: een Franstalig "arrondissement judiciaire" in Verviers, en een Duitstalige "Gerichtsbezirk" in Eupen"
+Arrondissement Borgworm.
+"Luik en Borgworm vormen samen het gerechtelijk arrondissement Luik"
+Arrondissement Aarlen.
+"Aarlen en Virton vormen samen het gerechtelijk arrondissement Aarlen"
+Arrondissement Bastenaken.
+"Bastenaken en Neufchâteau vormen samen het gerechtelijk arrondissement Neufchâteau"
+Arrondissement Marche-en-Famenne.
+"Dit is ook het gerechtelijk arrondissement Marche-en-Famenne"
+Arrondissement Neufchâteau.
+"Bastenaken en Neufchâteau vormen samen het gerechtelijk arrondissement Neufchâteau"
+Arrondissement Virton.
+"Aarlen en Virton vormen samen het gerechtelijk arrondissement Aarlen"
+Arrondissement Dinant.
+"Dinant en Philippeville vormen samen het gerechtelijk arrondissement Dinant"
+Arrondissement Namen.
+"Dit is ook het gerechtelijk arrondissement Namen"
+Arrondissement Philippeville.
+"Dinant en Philippeville vormen samen het gerechtelijk arrondissement Dinant"
+Arrondissement Nijvel.
+"Dit is ook het gerechtelijk arrondissement Nijvel" (let wel, de hoofdstad is Waver)
+Arrondissement Brussel-Hoofdstad.
+"Het gewest vormt ook het bestuurlijk arrondissement Brussel-Hoofdstad. Samen met het arrondissement Halle-Vilvoorde vormt dit het gerechtelijk arrondissement Brussel: zie Brussel-Halle-Vilvoorde"

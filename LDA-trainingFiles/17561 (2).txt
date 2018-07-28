@@ -1,0 +1,10 @@
+Regel van l'Hôpital.
+De regel van l'Hôpital is een wiskundige regel die gebruikt wordt voor het berekenen van limieten door middel van afgeleiden. De regel is genoemd naar de Franse wiskundige Guillaume de l'Hôpital (1661–1704), die de regel als eerste publiceerde in zijn boek, "L'Analyse des infiniment petits pour l'intelligence des lignes courbes", dit hoewel de regel waarschijnlijk als eerste is ontdekt door Johan Bernoulli.
+De regel luidt: Als voor twee differentieerbare functies "f" en "g" en een waarde "c" geldt, dat
+indien de limiet aan de rechterzijde bestaat. Op deze manier kunnen onbepaaldheden van de vorm 0/0 en ∞/∞ mogelijk opgelost worden.
+Bewijs.
+formula_7
+formula_8
+formula_9
+Voorbeelden.
+Merk op dat dit gewoon de definitie van de afgeleide van sin("x") in "x=0" is.

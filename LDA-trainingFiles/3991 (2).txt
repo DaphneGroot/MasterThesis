@@ -1,0 +1,7 @@
+EBNF.
+De Extended Backus Naur Form is een uitbreiding op BNF en wordt gebruikt om de syntaxis van computercommando's te beschrijven. Iets tussen vierkante haken is optioneel. In het UNIX-commando, bijvoorbeeld, voor directory-listings
+mag argument "namen" worden weggelaten (dan wordt de huidige directory-inhoud getoond). De vierkante haken moeten hier dus niet letterlijk worden ingetoetst op de computerterminal, maar zijn puur voor het schrijven van de handleiding van het programma codice_2.
+Het ISO comité heeft de officiële versie ISO/IEC 14977: 1996(E) van haar uitgebreide BNF niet vrijelijk beschikbaar gesteld. De draftversie is echter wel online beschikbaar.
+Voorbeelden.
+Een ander Wiki-voorbeeld: als je een automatisch link naar een andere taal wilt maken, type je bovenaan in de bewerkingspagina
+waarbij LEMMA_VERTAALD het vertaalde LEMMA is in respectievelijk de Engelse, Franse of Duitse taal.

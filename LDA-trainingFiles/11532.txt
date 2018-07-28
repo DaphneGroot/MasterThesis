@@ -1,0 +1,6 @@
+Kathode.
+In een elektrisch systeem met twee polen of elektroden spreken we van kathode voor de pool waar de elektronen in gaan. De tegengestelde pool of elektrode heet de anode. De begrippen kathode en anode hebben betrekking op de richting van de doorgevoerde stroom. Dus afhankelijk of men een stroombron heeft of een stroomverbruiker kan de kathode positief of negatief zijn. In het geval van een stroombron is de kathode positief, in het geval van een stroomverbruiker is de kathode negatief.
+Men onderscheidt de twee elektroden naar de rol die zij spelen. Het pad waarlangs de elektronen de oplossing of schakeling ingeleid worden heet "kathode" (Grieks κάθοδος, "weg naar beneden").
+Het pad waarlangs zij weggezogen worden heet "anode" (Grieks άνοδος, "weg naar boven"). Aan de kathode vindt een "reductie"reactie plaats, aan de anode een "oxidatie"reactie.
+Oplaadbare accu.
+Bij een accu is de positieve kant altijd met een + aangegeven en de negatieve kant altijd met een -. Een oplaadbare accu kan zowel stroomleverancier zijn als stroomverbruiker. In het geval hij fungeert als stroomleverancier zal de kathode positief zijn en de anode negatief. In het geval dat de accu wordt opgeladen is hij een stroomverbruiker en zal intern de redoxreactie worden omgedraaid. De positieve pool wordt dan tijdens het opladen anode genoemd en de negatieve pool de kathode.

@@ -1,0 +1,9 @@
+KOffice.
+KOffice is een kantoorsoftwarepakket voor KDE. Het staat bekend als het meest uitgebreide kantoorsoftwarepakket, qua componenten die er bestaan. KOffice is vrije software. Op 7 juni 2007 is versie 1.6.3 uitgebracht. Op 28 mei 2009 verscheen versie 2.0.0, een kennismaking met de nieuwe en aangepaste "codebase". Die versie was echter nog niet bedoeld om te gebruiken in een productieomgeving. Inmiddels is versie 2.x stabiel genoeg om gebruikt te worden door eindgebruikers.
+Alle onderdelen van KOffice kennen een hoge mate van integratie, wat inhoudt dat functies van het het ene onderdeel in het andere kunnen worden gebruikt. Zo kan iemand in KWord bijvoorbeeld wiskundige functies uit KSpread of KFormula gebruiken.
+OpenDocument.
+Sinds versie 1.5 gebruiken de belangrijkste componenten van OpenOffice.org het OpenDocument-formaat.
+KOffice 2.
+KOffice 2 werd op 28 mei 2009 uitgegeven. In deze uitgave werd de hele architectuur en het uiterlijk van de programma's aangepast. Hierbij was het "Flake"-concept een opvallende vernieuwing.
+Flake is ontstaan uit het idee dat verschillende programma's gelijkaardige functies nodig hebben, bijvoorbeeld de mogelijkheid om foto's in te voegen, basale tekstverwerking en tabellen, maar dat deze in elk programma apart ontwikkeld worden, wat extra tijd en moeite kost.
+Flake gaat uit van de zogenaamde "Shapes", die elk een bepaald element als tekstverwerking (TextShape), afbeeldingen (PictureShape), tabellen (TableShape) en video's (VideoShape) in een document integreren. Als een gebruiker een bepaald element wil invoegen, moet hij de bijbehorende Shape naar de juiste plaats in het document slepen. Als de Shape wordt geselecteerd, zal de werkbalk van het programma zich aanpassen en toegang tot de functies van de Shape geven. De verschillende Shapes in een document "weten" van elkaar dat ze bestaan, en zo zal bijvoorbeeld een stuk tekst, indien gewenst, zich rond een foto uitlijnen.

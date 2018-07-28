@@ -1,0 +1,8 @@
+Behoudswet.
+De term behoudswet is een begrip uit de klassieke natuurkunde en uit de scheikunde. Met een behoudswet wordt uitgedrukt dat een aantal eigenschappen van een systeem constant zijn als er geen externe factoren een rol spelen. De behoudswetten worden vaak gebruikt om allerlei problemen in de natuurwetenschappen gemakkelijk op te lossen zonder in detail te hoeven treden, bijvoorbeeld in de klassieke mechanica maar ook in de elektrodynamica, scheikunde, sterrenkunde, fysiologie enzovoorts.
+Stelling van Noether.
+Een behoudswet is volgens de stelling van Noether het gevolg van een symmetrie. Behoud van impuls is het gevolg van translatiesymmetrie. Behoud van energie is het gevolg van symmetrie onder tijdverschuiving. En behoud van impulsmoment is het gevolg van rotatiesymmetrie. De perkenwet van Kepler, dat wil zeggen behoud van impulsmoment, wordt veroorzaakt door het feit dat de aantrekkende kracht van de zon alleen van de afstand afhankelijk is, dat wil zeggen er is bolsymmetrie. In de kwantummechanica is dit te zien aan de operatoren: impuls en energie zijn partiële afgeleiden naar positie, respectievelijk tijd.
+Massa-energierelatie.
+Er geldt daarom in de relativistische mechanica geen behoud van massa meer. Energiebehoud geldt nog wel, als massa ook als vorm van energie wordt gezien. In de kwantummechanica worden massa en energie beide in eV uitgedrukt, wat eigenlijk een eenheid van energie is.
+Trivia.
+Schertsend wordt wel gesproken van "de wet van behoud van ellende".

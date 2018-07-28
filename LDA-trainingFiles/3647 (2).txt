@@ -1,0 +1,21 @@
+Geluidsvoortplanting.
+Geluidsvoortplanting is het voortplanten van geluid door de lucht of door andere media. In dit artikel gaat het over geluidsvoortplanting door de buitenlucht.
+Soorten bronnen.
+Er bestaan verschillende soorten geluidsbronnen. De eenvoudigste is de monopool puntbron. Deze bron straalt in alle richtingen evenveel geluid uit. Een voorbeeld van een puntbron is een uitlaat van een motor. Boven een plat vlak straalt het geluid van een puntbron in een halve bol uit.
+Een complexere bron is de dipoolbron. Deze straalt in twee richtingen het meeste geluid uit, en in alle andere richtingen veel minder. Een voorbeeld van een dipoolbron is een wiel van een trein. Het rolgeluid van een trein is daarom voor de trein veel minder sterk dan naast te trein. Hierdoor hoort men een trein vrij slecht aankomen.
+Een andere belangrijke bron is de lijnbron. Dit is bijvoorbeeld een weg met constant verkeer. Deze bron straalt het geluid uit in de vorm van een cilinder.
+Wind en temperatuur.
+Andere parameters zijn de wind en het verloop van de temperatuur in de atmosfeer. De wind en de luchttemperatuur hebben op afstanden van meer dan 100 meter grote invloed.
+Een verticale temperatuurgradiënt (waarbij het op grotere hoogte kouder is of juist warmer) heeft effect. Bij een inversie buigt geluid naar beneden en draagt veel verder, waardoor zones van abnormale hoorbaarheid voor kunnen komen.
+Bij meewind is het geluid op grote afstand veel beter hoorbaar dan bij tegenwind. Hoe hard het precies waait is dan minder van belang. Daarom moeten geluidsmetingen altijd uitgevoerd worden met enige meewind.
+Afstandsdemping bij een monopool puntbron.
+Als de geluidsbron zich buiten bevindt, en als de afmetingen van deze bron klein zijn ten opzichte van de afstand van de waarnemer, dan kan de bron beschouwd worden als een puntbron. Het geluid wordt dan afgestraald over een bolvormig oppervlak. De afgestraalde geluidenergie wordt dan verspreid over een oppervlak dat evenredig is met het kwadraat van de afstand tot de bron. (De denkbeeldige bol waar al het geluid doorheen gaat krijgt op grotere afstand een steeds groter oppervlak). Het geluidsniveau zal dan afnemen met 6 dB voor elke verdubbeling van de afstand. Een puntbron is bijvoorbeeld een kleine fabriek op honderd meter afstand.
+In dat geval neemt de geluidintensiteit (I) af met het kwadraat van de afstand (D).
+Dit is eenvoudig te berekenen, mits de geluidsbron klein is en in de open lucht staat. Geluidsberekeningen binnen (in een geluidsveld waar ook galm een rol speelt, zoals een kamer of een zaal) zijn ingewikkelder.
+Afstandsdemping bij een lijnbron.
+Lijnbronnen, zoals een weg met veel verkeer straalt het geluid af in de vorm van een cilinder. Ook het oppervlak van de denkbeeldige cilinder wordt groter op grotere afstand, maar dat gaat evenredig met de afstand. (Dus niet in het kwadraat, zoals bij een puntbron). Het geluidsniveau van een lijnbron neemt hierdoor af met 3 dB per verdubbeling van de afstand.
+Het geluid van een weg draagt dus verder dan het geluid van een fabriek.
+Nabijheidsveld.
+Dicht bij een geluidbron (in het nabijheidveld) zal het geluidsniveau niet de bovenstaande wetmatigheid volgen, omdat de verspreiding van de geluidsenergie minder snel gaat. Een kleinere verzwakking van het geluid met de afstand zal dan optreden.
+Wettelijke rekenmethode.
+Omdat de berekeningen van de geluidsvoortplanting zo complex zijn, zijn er in Nederland rond 1975 wettelijk voorgeschreven rekenmethoden ontwikkeld. Er zijn methoden voor wegverkeer, voor railverkeer en voor industrie. Van tijd tot tijd worden deze methoden herzien en aangepast aan de nieuwste ontwikkelingen. Dit betrof tot op heden echter vooral veranderingen aan de kant van de bron of de directe omgeving daarvan, zoals nieuwe wegdekken en andere soorten treinen.

@@ -1,0 +1,2 @@
+Baurlegambiet.
+Het Baurlegambiet is in de opening van een schaakpartij een variant in de schaakopening Frans en heeft als beginzetten: 1.e4 e6 2.d4 b5 Eco-code C 00.

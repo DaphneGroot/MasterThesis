@@ -1,0 +1,8 @@
+Dieseltrein.
+Een dieseltrein is een trein die direct of indirect aangedreven wordt door een dieselmotor. Een dieseltrein kan zowel een motorrijtuig of een treinstel als een locomotief met rijtuigen of goederenwagens zijn.
+Dieselhydraulische trein.
+Een dieselmotor bouwt oliedruk op waarmee de wielen worden aangedreven. Dit principe wordt vooral gebruikt bij treinstellen en locomotieven met hun oorsprong in Duitsland.
+Dieselmechanische trein.
+Dit principe is het beste te vergelijken met de versnellingsmechaniek van een auto of bus: tussen de motor en de wielen is een versnellingsbak met koppeling geplaatst. Dit principe kan alleen bij lichte treinstellen (light train) en kleine locomotieven worden gebruikt.
+Dieselelektrische trein.
+Deze trein wordt aangedreven door elektromotoren. De benodigde elektriciteit wordt in de trein zelf opgewekt door een dieselmotor met generator. De meeste diesellocomotieven worden op deze wijze aangedreven.

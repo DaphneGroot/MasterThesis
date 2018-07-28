@@ -1,0 +1,31 @@
+Meter.
+De meter (symbool m) is de SI-eenheid voor lengte. Hij is sinds 1983 gedefinieerd als de afstand die licht in 1/299 792 458 seconde in vacuüm aflegt. De meter is een van de zeven SI-basiseenheden en staat aan de basis van het metrieke stelsel. Rechtstreeks van de meter afgeleid zijn de oppervlakte-eenheid m² (vierkante meter) en de volume-eenheid m³ (kubieke meter).
+De definitie van de meter in de geschiedenis.
+De definitie van een 'meter' is in de loop van de geschiedenis een aantal malen veranderd, omdat door de ontwikkeling van de wetenschap de beschikbare meetmethodes nauwkeuriger werden dan de tot dan toe gebruikte standaarddefinitie. De meter is dus (op een enkele uitzondering na) niet "veranderd", maar "nauwkeuriger gemaakt". Hieronder is een chronologisch overzicht weergegeven.
+1675.
+Het werk "Misure Universale" door Tito Livio Burattini
+De Italiaan Tito Livio Burattini publiceerde in dit jaar de "Misura Universale", een werk waarin hij de meter ("Metro Cattolico") vastlegt op de lengte van een slinger die beweegt met een halve periode van 1 seconde. De door hem gevonden waarde zou volgens de huidige definitie ca. bedragen. Dat de periode volgens de formule van Christiaan Huygens afhangt van de zwaartekrachtversnelling en dat die afhangt van de plaats op aarde en van de hoogte boven de zeespiegel, was nog niet bekend. Ook de uitslag van de slinger is van invloed op de periode.
+1791.
+De eerste meter uit messing in 1796
+De meter werd in 1791 gedefinieerd door de "Franse Academie van Wetenschappen" als het tien miljoenste deel van de afstand op zeeniveau van de noordpool tot de evenaar, gemeten langs de Meridiaan van Parijs. Jean-Baptiste Joseph Delambre en Pierre Méchain voerden metingen uit door extrapolatie vanuit een meting van de afstand tussen Barcelona en Duinkerke. Zolang de metingen nog niet gereed waren werd er een voorlopig prototype uit messing gebruikt als standaard.
+1799.
+Nadat in 1798 de meridiaanmeting voltooid was werd in 1799 een nieuwe standaard vastgelegd, nu volgens de zojuist bepaalde meridiaanlengte. Deze "mètre des Archives" is gemaakt van het corrosiebestendige platina. Hoewel deze later 0,2 mm te kort bleek te zijn vanwege meetfouten en het feit dat onvolledig rekening werd gehouden met de afplatting van de Aarde werd de standaard niet gewijzigd. De doorsnede was rechthoekig en het platina was zacht, waardoor er meetfouten ontstonden door torsie en door sleet.
+1889.
+Internationaal prototype van de meter, een staaf uit een platina-iridium legering. Het was de standaard tot 1960. (NIST)
+In 1875 richtte de internationale Meterconventie ("Convention du Mètre") een permanent Internationaal Bureau voor Maten en Gewichten ("Bureau international des poids et mesures") op in Sèvres. Een nieuwe standaardmeter werd vervaardigd met een door Henri Tresca voorgestelde X-vormige doorsnede tegen vervorming door torsie. Op de eerste "CGPM (Conférence Générale des Poids et Mesures)" (Algemene conferentie voor maten en gewichten) werd in 1889 de meter gedefinieerd als de afstand tussen twee inkepingen op een staaf van de hardere legering 90% platina en 10% iridium, de zogenaamde X-meter, die in Sèvres wordt bewaard. De opzet was een scherper gedefinieerde meter te verkrijgen; de lengte bleef ongewijzigd.
+1960.
+Men bleef zoeken naar middelen die een scherpere definitie mogelijk maken. De oplossing is gevonden in de golflengte van het licht van een bepaalde stralingsbron, die met behulp van interferometrie nauwkeurig kan worden bepaald. Na diverse stralingsbronnen te hebben onderzocht, kwam men in 1960 tot de volgende definitie: de meter is de lengte gelijk aan in vacuüm van de straling overeenkomend met de ongestoorde overgang tussen de toestanden 2p10 en 5d5 van het atoom krypton-86.
+1983.
+In 1983 is de "CGPM" op de huidige definitie met de lichtmeting overgegaan. De reden hiervoor lag in het feit, dat tijdmeting toen veel nauwkeuriger mogelijk was geworden door het gebruik van atoomklokken. Een voordeel is nu dat de meter in elk natuurkundig laboratorium kan worden gereproduceerd.
+Met de huidige definitie is tevens de waarde van de lichtsnelheid vastgelegd op de op dat moment nauwkeurigst gemeten waarde. Sedert dat moment beïnvloeden metingen van de lichtsnelheid de grootte van de meter. De lichtsnelheid in vacuüm is nu "per definitie" precies.
+In het laboratorium wordt de meter toch bepaald door het tellen van het aantal golflengtes. Een gevolg van de 17e CGPM was dat de onzekerheid (de "fout") in de meter vijf maal zo klein werd. Het licht van de met jodium gestabiliseerde Helium-neonlaser werd de "aanbevolen straling" om de meter te vinden. De golflengte van dit laserlicht wordt nu aanvaard als met een relatieve standaardonzekerheid "(U)" van. Deze onzekerheid is nu de beperkende factor bij het realiseren van de meter in het laboratorium, omdat het verscheidene ordes van grootte slechter is dan die van de seconde. Daarom wordt in de praktijk in laboratoria de meter gezien als van helium-neonlaserlicht in vacuüm.
+Commerciële termen.
+Illustratie van het begrip werkende meter
+Soms worden de termen “lopende” en “strekkende” meter gebruikt, bijvoorbeeld om de prijs van een zeil onrechtstreeks per oppervlakte-eenheid aan te duiden. De praktische oppervlakte-eenheid is de breedte (die voor dit product commercieel vastligt, bijvoorbeeld kamerbreed) maal één meter. De hoeveelheid drukt men dan uit in “lopende” meter. Het is het aantal meter dat men van dit zeil moet afsnijden.
+“Werkende meter” daarentegen heeft een andere betekenis. Bij schrootjes bijvoorbeeld, is er aan één kant van de plank een groef gefreesd en aan de andere kant is er een opstaande rand overgelaten (mes) die precies in die groef past. Als je zo'n schrootje in een ander schrootje schuift, wordt het zichtbare gedeelte kleiner. Deze “effectieve breedte” wordt wel aangeduid als “werkende breedte”.
+Decimale veelvouden.
+De niet tot het SI behorende veelvouden zijn "cursief" weergegeven.
+Equivalenten in andere eenheden.
+In deze tabel betekenen "inch" en "yard", "internationale inch" en "yard".
+Een simpel geheugensteuntje bij de omrekening is: 1 meter = 3 voet en 3 / inch. Dit geeft echter een overschatte waarde van 0,125 mm.
+De oude Egyptische cubit is 1/6 π meter (0,52 meter)

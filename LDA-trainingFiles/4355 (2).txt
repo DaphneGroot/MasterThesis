@@ -1,0 +1,15 @@
+Seconde.
+Het woord seconde is afkomstig van het Latijnse "pars minuta secunda" dat letterlijk tweede kleine deel betekent. Voor een deel heeft dat betrekking op het zestigtallige stelsel zoals dat in Babylon in gebruik was. Men verdeelt tegenwoordig nog steeds uren en booggraden eerst in 60 minuten (dat wil zeggen kleine deeltjes) en deze weer in 60 seconden (tweede kleine deeltjes).
+Het woord heeft betekenissen in de natuurkunde, de wiskunde en de muziek.
+Natuurkunde.
+De seconde is de internationale standaardeenheid van tijd. Ze is gedefinieerd als de duur van 9.192.631.770 perioden van de straling die correspondeert met de overgang tussen de twee hyperfijnenergieniveaus van de grondtoestand van een 133cesiumatoom in rust bij een temperatuur van 0 K., Het symbool voor deze eenheid is s. De afkorting sec is geen standaardafkorting, hoewel deze vaak gebruikt wordt.
+Oorspronkelijk is een seconde een 60e deel van een minuut, die op zijn beurt een 60e deel van een uur is, terwijl een uur een 24e deel van een zonnedag is. Een seconde is dus oorspronkelijk het 86.400e deel van een zonnedag. Doordat de seconde nu niet langer gedefinieerd is als een vast gedeelte van de dag, is het noodzakelijk geworden nu en dan een schrikkelseconde in te voegen.
+Muziek.
+In de muziek is een seconde of secunde een interval tussen twee opeenvolgende tonen, na de prime het tweede interval.
+Hoek.
+In de meetkunde is het symbool ", een 1/3600e deel van een graad.
+Geschiedenis van de seconde als tijdseenheid.
+De seconde is een oude eenheid. De oorspronkelijke definitie van de seconde is gebaseerd op de definitie van een etmaal. De seconde is één zestigste deel van een minuut, een minuut is één zestigste van een uur, en een uur is één vierentwintigste van een etmaal. Als een etmaal wordt gezien als de tijd tussen twee opeenvolgende hoogste zonnestanden blijkt dat deze definitie niet nauwkeurig genoeg is, want de duur van een etmaal kan, onder andere door de niet-cirkelvormige aardbaan, enigszins variëren.
+Om de seconde te standaardiseren werd een gemiddeld etmaal gedefinieerd, en de seconde werd één 86 400ste daarvan (= 60 × 60 × 24).
+Deze definitie voldeed prima, totdat astronomen erachter kwamen dat ook de gemiddelde dag niet zo constant is als men zou willen. De aarde draait namelijk steeds langzamer. In 1956 werd door de Internationale Commissie voor Maten en Gewichten (BIPM) de gemiddelde dag van het jaar 1900 als officiële uitgeroepen, en de seconde werd gedefinieerd als één 31 556 925,974 7-ste van dat jaar. Deze definitie was niet handig, want niemand kon meer meten hoelang het jaar 1900 precies geduurd had.
+Met de introductie van de atoomklokken werd het mogelijk de seconde uiterst nauwkeurig te definiëren. De hierboven genoemde atomaire definitie is in 1967 internationaal vastgelegd. Sindsdien worden er af en toe een schrikkelseconde aan de officiële tijd toegevoegd om ervoor te zorgen dat deze in de pas blijft lopen met de draaiing van de aarde.

@@ -1,0 +1,12 @@
+Lege verzameling.
+De lege verzameling is een verzameling die geen elementen bevat
+In de wiskunde is de lege verzameling de verzameling zonder elementen. Aangezien een verzameling wordt gekarakteriseerd door zijn elementen, en twee verzamelingen dan en slechts dan precies aan elkaar gelijk zijn, wanneer beide precies dezelfde elementen bevatten, bestaat er maar één unieke lege verzameling.
+Formele definitie.
+De lege verzameling, genoteerd als ∅, is de verzameling met de eigenschap dat voor elk denkbaar object geldt, dat het geen element van ∅ is.
+Notatie.
+De lege verzameling wordt meestal genoteerd met het door Bourbaki ingevoerde symbool formula_2, een doorgestreepte cirkel. Een variant daarop is formula_3, een doorgestreepte nul. Ook wordt de lege verzameling wel als een daadwerkelijk lege verzameling genoteerd (wat ook wel in deze encyclopedie gebruikt wordt). Het symbool ∅ is in HTML beschikbaar als ∅ of als ∅. In Unicode is het gecodeerd als U+2205 en in LaTeX als \varnothing en de variant als \emptyset. Het vergelijkbare symbool ⌀ voor diameter heeft de Unicode U+2300, en de Scandinavische letter Ø de Unicodes U+00D8 en U+00F8.
+Veel voorkomende misvattingen.
+De lege verzameling is "niet" hetzelfde als "niets"; het is een verzameling waar niets in zit, en een verzameling is iets. Het begrip lege verzameling precies toepassen kan je helpen bij het begrijpen van de verschillende betekenissen van "niets" als een woord in de natuurlijke taal.
+Iedereen ziet dat de logica in deze mop onzinnig is, maar het is wellicht niet duidelijk hoe dit overeenkomt met de twee betekenissen van "niets".
+Nu is wel te zien dat de twee zinnen ongerelateerd zijn: de eerste gaat over individuele dingen, maar de tweede vergelijkt hele verzamelingen van dingen, waarbij ("De verzameling van "niets") heel verschillende rollen speelt.
+Ironisch genoeg kan de lege verzameling goed gebruikt worden om het intuïtieve concept "niets" te analyseren, maar zorgt diezelfde lege verzameling voor een hoop verwarring bij de meeste mensen als ze haar voor het eerst zien. We kunnen bijvoorbeeld wel spreken over een "verzameling met nul elementen", maar we zijn niet heel erg geneigd om over een "stapel van nul stenen" te spreken.

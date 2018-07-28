@@ -1,0 +1,5 @@
+Curie (eenheid).
+De curie (afkorting Ci) is een verouderde eenheid van radioactiviteit, gelijk aan 3,7 x 1010 radioactieve vervallen per seconde. Eén curie komt ongeveer overeen met de activiteit van 1 gram 226Ra (radium met 138 neutronen en 88 protonen).
+De curie is genoemd naar de twee pioniers op het gebied van radioactiviteit, Marie en Pierre Curie.
+De curie is vervangen door een SI eenheid, de becquerel, waarbij 1 curie overeenkomt met 3,7 x 1010 becquerel.
+Vooral in de medische wereld wordt de curie nog veel gebruikt.

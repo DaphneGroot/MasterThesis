@@ -1,0 +1,5 @@
+Radialen per seconde.
+Radialen per seconde, aangeduid door rad s-1 of rad/s, is de SI-eenheid voor hoeksnelheid en cirkel- of hoekfrequentie. Aangezien de radiaal als verhoudingsgetal dimensieloos is, komt de eenheid rad s-1 qua dimensie overeen met s-1, dus met hertz. Toch kan de hoeksnelheid niet in Hz uitgedrukt worden, de dimensie is wel hetzelfde maar de betekenis niet.
+Als in een eenparig cirkelvormige beweging in 1 seconde een hoek van 1 rad wordt doorlopen, is de hoeksnelheid 1 rad s-1.
+Vaak beschrijft men een eenparige cirkelvormige beweging aan de hand van de periode, de tijd benodigd voor één rondgang. Als de periode "T" seconden is, wordt in 1 seconde een hoek
+doorlopen. De (constante) hoeksnelheid is dan dus

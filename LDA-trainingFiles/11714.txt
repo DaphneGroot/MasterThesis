@@ -1,0 +1,6 @@
+Basisband.
+"Basisband" in een LAN of ander netwerk duidt erop dat pulsen worden gebruikt die direct op het netwerkmedium worden toegepast om een signaal te vormen met de gecodeerde binaire data.
+In normale taal: één signaalstroom over één geleider.
+Er is dus geen sprake van modulatie op een draaggolf zoals bij breedbandnetwerken waar meerdere "kanalen" gelijktijdig overgedragen worden.
+Door toepassing van een basisband is het systeem relatief storingsgevoelig en neemt deze toe met de frequentie en de lengte van de kabels.
+Om meerdere gebruikers gelijktijdig gebruik te laten maken van een netwerk met basisband past men packet-switching toe.

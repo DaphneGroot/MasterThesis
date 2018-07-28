@@ -1,0 +1,6 @@
+Boson (deeltje).
+Een boson (genoemd naar Satyendra Nath Bose) is een deeltje dat een heeltallige spin bezit (0, 1, 2...). Dit in tegenstelling tot een fermion, dat een "halftallige" spin heeft (1/2, 3/2, 5/2...).
+Een bijzonder boson is het higgsboson, een boson dat onderdeel is van het standaardmodel van de deeltjesfysica en dat verantwoordelijk zou zijn voor de massa van elementaire deeltjes.
+Bosonen kunnen zich, in tegenstelling tot fermionen, in dezelfde kwantumtoestand bevinden en blijken niet te voldoen aan het uitsluitingsprincipe van Pauli. Bosonen voldoen aan de Bose-Einsteinstatistiek en hebben daardoor bijzondere eigenschappen, zoals het kunnen vormen van een Bose-Einsteincondensaat.
+Een voorbeeld hiervan is het 4heliumatoom. Dit is een boson, want het bestaat uit een even aantal fermionen. Bij zeer lage temperatuur wordt het helium supervloeibaar. In deze merkwaardige toestand heeft de vloeistof geen viscositeit en geen oppervlaktespanning. Een bekertje met supervloeibaar helium kan daardoor zonder ogenschijnlijke aanleiding leeglopen doordat het helium over de rand kruipt om de toestand met laagste energie op te zoeken.
+Bosonen spelen ook een rol in supergeleiding, waar twee elektronen samen een boson vormen, een Cooperpaar.

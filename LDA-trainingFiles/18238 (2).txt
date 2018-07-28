@@ -1,0 +1,3 @@
+Natuurlijke logaritme.
+De natuurlijke logaritme, of neperse logaritme, is een speciaal geval van de in de wiskunde gedefinieerde logaritme. De natuurlijke logaritme heeft als grondtal de wiskundige constante e (een symbool dat geïntroduceerd werd door Leonhard Euler). De natuurlijke logaritme wordt in meer praktisch gerichte situaties aangeduid door ln ("logaritmus naturalis"), maar men schrijft ook wel log in vakgebieden waarbij het vanzelfsprekend is dat de natuurlijke logaritme wordt bedoeld. De term 'natuurlijke logaritme' is afkomstig van de Duitse wiskundige Nikolaus Mercator.
+Voor de natuurlijke logaritme gelden uiteraard alle rekenregels die gelden voor een logaritme met een willekeurig getal als grondtal.

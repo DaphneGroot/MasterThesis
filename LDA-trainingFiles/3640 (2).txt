@@ -1,0 +1,7 @@
+Akoestiek.
+Akoestiek is de wetenschap die zich bezighoudt met geluid. Geluid bestaat uit trillingen die zich voortplanten door een medium. In de meeste gevallen is dat lucht. De akoestiek heeft zeer veel praktische toepassingen.
+Verder wordt onder akoestiek verstaan de invloed die een ruimte heeft op de klank en nagalm van geluid. Dan kan bijvoorbeeld gesproken over "Deze ruimte heeft een slechte akoestiek". Bedoeld wordt dan dat de eigenschappen van die ruimte niet overeenkomen met het gebruik. Aan een concertzaal worden bijvoorbeeld heel andere eisen gesteld dan aan een collegezaal.
+De akoestiek in een ruimte is afhankelijk van absorptie en terugkaatsing (reflectie) van het geluid door wanden of attributen en de grootte van de ruimte. De absorptie gebeurt door een ruwe en zachte wandafwerking, zoals in onderstaande afbeelding. Terugkaatsing gebeurt door een gladde en harde afwerking. Wanneer het geluid veel wordt teruggekaatst, duurt het een tijd voordat het geluid is uitgestorven. Die tijd heet nagalm en kan worden berekend of opgemeten. Wanneer men in een lege kerk klapt, dan hoort men dat de nagalm enkele seconden duurt. In een betonnen bunker van 10 × 10 × 10 m kan men elkaar nauwelijks verstaan door de nagalm.
+Het vakgebied akoestiek wordt in deelgebieden onderverdeeld.
+Omnidirectionele geluidsbron in een echoloze akoestische kamer
+__TOC__

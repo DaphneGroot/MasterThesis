@@ -1,0 +1,39 @@
+Opmaaktaal.
+Een fragmentje van een document geschreven in de tekstmarkeertaal HTML
+Een tekstmarkeertaal, kortweg markeertaal of markuptaal, is een computertaal om tekstdocumenten te voorzien van aanwijzingen ten behoeve van de softwarematige verwerking. De aanwijzingen worden daarbij in de tekst ingevoegd.
+Een opmaaktaal is een tekstmarkeertaal waarbij de aanwijzingen instructies zijn voor de opmaak tijdens weergave van de tekst.
+Een gemeenschappelijke eigenschap van opmaaktalen is dat ze tekst afwisselen met opmaakinstructies.
+Een ander kenmerk is dat die instructies beschrijven hoe de tekst moet worden opgemaakt, en hoe ander materiaal, zoals plaatjes, wordt ingevoegd, maar niet de inhoud van dat andere materiaal beschrijven. Als de volledige inhoud van de pagina wordt beschreven, inclusief tekeningen en afbeeldingen, spreekt men van een paginabeschrijvingstaal.
+Geschiedenis.
+Historisch gezien hebben markuptalen zich uit opmaaktalen ontwikkeld. Technieken voor het beschrijven van markuptalen zijn vervolgens toegepast voor het beschrijven van allerlei soorten documentformaten.
+Oorsprong van de opmaaktalen.
+Het concept van de opmaaktaal is afkomstig uit de uitgeverswereld, waar manuscripten van opmaakinstructies voor de drukker werden voorzien. Al voor de computer zijn intrede deed werden daarvoor notatieconventies gebruikt, die werden toegepast op de manuscripten zoals ze circuleerden tussen auteurs, redacteurs en drukkers.
+Regelgeoriënteerde opmaaktalen.
+In de jaren 60, 70 en 80 van de vorige eeuw werd het interpreteren van opmaakinstructies steeds meer aan computers overgelaten. Speciale documentopmaaksoftware ontstond, waarmee een auteur zelf, zonder tussenkomst van een opmaakspecialist, opgemaakte documenten kon produceren. De invoer voor deze systemen was tekstuele opmaaktaal, die de auteur direct in moest tikken. Deze talen werden in de loop van de tijd steeds onafhankelijker van specifieke afdrukapparatuur en van releases van de opmaaksoftware. Krachtige macro-faciliteiten konden worden gebruikt om bibliotheken te bouwen voor het implementeren van opmaakconventies, en om logische structuur van concrete presentatie te scheiden.
+In SCRIPT en troff moest bovendien markup altijd aan het begin van de regel staan, zoals dit
+codice_1
+Wysiwyg tekstverwerking.
+Inmiddels kreeg de doorsnee computergebruiker toegang tot grafische beeldschermen en directe manipulatie met de muis. Hierdoor werd wysiwyg tekstverwerking mogelijk: daarbij toont de software op het beeldscherm een benadering van het opgemaakte document, waarin de gebruiker direct kan wijzigen. Een voorbeeld van zo'n systeem is Microsoft Word.
+Het documentformaat van dergelijke software heeft dezelfde functie als een opmaaktaal, maar de gebruiker heeft er geen direct contact mee. Vaak is het een binair formaat.
+HTML.
+Eind jaren 80 verbeterde de beeldkwaliteit voor professionele computergebruikers zozeer dat het elektronisch lezen van documenten gebruikelijk werd. Dit leidde tot hypertext: verzamelingen tekstdocumenten voorzien van doorklikbare verwijzingen (hyperlinks). Tegelijk werden computernetwerken zo algemeen dat deze verzamelingen verspreid konden zijn over verschillende computers. Dit resulteerde begin jaren 90 in de opkomst van het World Wide Web, een verzameling technische afspraken voor het opzetten van zulke verzamelingen. Een onderdeel daarvan is de opmaaktaal HTML.
+Tot de familie Anatidae behoren de eenden, ganzen en zwanen,
+maar niet de nauw verwante hoenderkoeten.
+We zien speciale aanwijzingen ("tags") die in paren om de eigenlijke tekst heen staan, en aldus een boomstructuur definiëren.
+Naast gewone hyperlinks ondersteunt HTML het invullen van formulieren en het klikken in afbeeldingen. Voor meer gecompliceerde interactie kan bijvoorbeeld een scripttaal worden ingebed; hiervoor wordt meestal JavaScript gebruikt.
+Gebruikersinterface-opmaaktalen.
+Een elektronische hypertekst, zoals HTML die kan beschrijven, is een beperkte vorm van de grafische gebruikersinterface voor computerapplicaties. Deze heeft zich in de loop van de jaren 80 en 90 gestandaardiseerd op een tamelijk vast repertoire aan grafische elementen. De details verschillen echter nog steeds per softwarebibliotheek.
+Markuptalen voor andere toepassingsgebieden.
+De mate waarin dergelijke documenten nog beschouwd kunnen worden als leesbare lopende tekst met toegevoegde markeringen verschilt per toepassing.
+Gegeneraliseerde markup, SGML en XML.
+Al snel na de invoering van SCRIPT werd bij de maker, IBM, de wenselijkheid geconstateerd van structurele markup boven presentatiespecifieke. Dit leidde in 1969 tot de ontwikkeling van GML, een verzameling markup-instructies specifiek voor structurele markup. Ook werd de noodzaak van toepassingsspecifieke markup ingezien.
+Dit leidde begin jaren 80 tot de ontwikkeling van SGML, de Standard Generalized Markup Language. SGML is in feite geen markuptaal, maar een verzameling technieken om markuptalen te beschrijven, in het bijzonder de syntaxis. Een markuptaal beschreven in SGML wordt een toepassing van SGML genoemd. Elke SGML-applicatie heeft dezelfde lexicale en syntactische structuur; toepassingen verschillen in hun contextvrije grammatica, die de gebruikte termen en hun syntactische combinatie definieert. In SGML wordt deze grammatica gedefinieerd met een DTD.
+Het uitgangspunt is dat taalontwerpers meestal alleen zijn geïnteresseerd in het fixeren van een vocabulaire van termen en het bepalen van de soorten boom- of graafstructuren die daarmee gebouwd kunnen worden; de afbeelding van die bomen of grafen op tekenreeksen mag op een vaste manier gebeuren.
+Bezwaren tegen SGML van allerlei aard leidden in 1995 tot de ontwikkeling van XML ("eXtended markup Language"). XML is in wezen een gemoderniseerde en sterk vereenvoudigde versie van SGML. Allerlei aanvullende talen voor het gebruik van XML, zoals XSLT en XML-Schema zijn evenzeer wijd gedragen standaarden geworden als XML zelf.
+Voor de meeste toepassingen geldt dat niet, bijvoorbeeld
+Semantische markup.
+Tot de familie <familie href="Anatidae"/> behoren de eenden, ganzen en zwanen,
+maar niet de nauw verwante <soort lang="nl" href="Anhimidae"/>.
+Zulke zogenaamde semantische markup beschrijft geen algemene voor software herkenbare structuren en eigenschappen, maar structuren en eigenschappen van zaken in de werkelijke wereld. Het idee hierachter is om nog meer dan bij structurele of toepassingsspecifieke markup onafhankelijk te worden van de precieze manieren waarop de software de markup mogelijk gaat toepassen.
+Semantische markup is in het algemeen geen succes als de markup nog steeds vermengd is met lopende tekst, wat de mogelijke toepassingen in feite beperkt tot die van structurele markup.
+Als er geen sprake is van lopende tekst, zoals in RDF, is er in feite sprake van conceptueel modelleren van stukjes werkelijkheid, iets wat bijvoorbeeld ook voor relationele databases gebeurt.

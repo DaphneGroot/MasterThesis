@@ -1,0 +1,8 @@
+Knoppix.
+Knoppix is een Linuxdistributie ontworpen door de Klaus Knopper. De distributie past op een cd en bijgevolg ook op een dvd. Knoppix is gebaseerd op Debian en maakt standaard gebruik van LXDE als desktopomgeving. In de live-dvd zijn ook GNOME en KDE opgenomen.
+Live-cd, software en aanpasbaarheid.
+Knoppix wordt meestal gebruikt in de vorm van een live-cd, waarbij het niet nodig is om het besturingssysteem te installeren. Knoppix is eenvoudig aan te passen middels remasteren.
+Door de aanwezigheid van een groot aantal tools, zoals K3b om cd's te branden en Qtparted om te partitioneren en de mogelijkheid om op de harde schijf aanwezige gegevens te lezen, is de cd ook geschikt als "rescue-cd" (cd om gegevens veilig te stellen). De Knoppix-cd bevat software die in gecomprimeerde vorm op de cd is opgeslagen, zoals: LXDE, X Window System, LibreOffice, GIMP en XMMS.
+Geschiedenis.
+Knoppix was oorspronkelijk een project ontworpen voor LinuxTag. Er worden ook elk jaar gratis Knoppix-cd's verdeeld op LinuxTag. In 2002 werd daar ook de eerste Knoppix-dvd uitgedeeld, welke nog meer software bevatte dan de cd. Met ingang van april 2008, vanaf versie 4 tot en met 5.1.1, is Knoppix gesplitst in een "maxi"-dvd-uitgave (met meer dan 9 GB aan software), en een "light"-cd-versie.
+De eerste versies van Knoppix bevatten zowel de KDE- als de GNOME-desktopomgeving. Omdat die allebei veel ruimte innamen, staat GNOME niet meer op de Knoppix-cd. Daarom wordt er door anderen een 'Gnoppix'-cd uitgebracht, die vergelijkbaar is met Knoppix, maar dan met GNOME als desktopomgeving. Gnoppix was eerst gebaseerd op Knoppix, maar sinds versie 0.8.2 is het gebaseerd op Ubuntu. Al deze distributies zijn op hun beurt gebaseerd op Debian.

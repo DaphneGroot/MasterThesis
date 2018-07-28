@@ -1,0 +1,11 @@
+IP-code.
+De IP'"-codering ("International Protection Rating", ook soms "Ingress Protection") op elektrische apparaten is een aanduiding voor de mate van beveiliging van de constructie van elektrische of elektronische apparatuur tegen eigen schade door gebruik in "vijandige omgevingen" en tegen eventueel gevaar voor de gebruiker.
+De IP-aanduiding is internationaal genormaliseerd in de norm IEC 60529. De IP-aanduiding heeft twee cijfers: het eerste geeft de beschermingsgraad tegen aanraken en indringen van voorwerpen, het tweede de beschermingsgraad tegen vocht.
+Voorbeeld: een apparaat met de aanduiding IP 54 is een stofbestendig en plensdicht toestel.
+Er ligt, al jaren, een voorstel voor een 3e kencijfer; "mechanische bestendigheid". Naast de bescherming van materieel tegen voorwerpen, stof en water is het in bepaalde omstandigheden ook van belang dat materieel beschermd is tegen mechanische krachten (stootenergie). Om de bestendigheid tegen stootenergie aan te geven is er een voorstel voor een 3e cijfer. Dit cijfer is nog niet genormaliseerd, wel wordt het in een aantal landen zoals Frankrijk gebruikt.
+Beschermingsgraad tegen aanraking en binnendringende voorwerpen.
+Op de plaats van de x kan het tweede cijfer gedacht worden, ook kan met de 'x' bedoeld worden dat de bescherming tegen vocht niet van belang is.
+Beschermingsgraad tegen vocht.
+Ter informatie zijn de vergelijkbare Japanse Industriële Standaard (JIS) en IEC benamingen opgenomen. Op de plaats van de x moet het eerste cijfer gedacht worden.
+Beschermingsgraad tegen mechanische krachten.
+Doordat dit derde cijfer niet genormaliseerd is en op verschillende manieren gebruikt is, werd in 1995 een nieuwe norm opgesteld (BS EN 50102), speciaal gericht op bescherming tegen mechanische krachten met de klassificering van IK00 tot IK10. Deze norm is in 2002 aangepast tot, waarin op eenduidige wijze wordt aangeven hoeveel Joule de behuizing moet kunnen weerstaan en op welke manier dit getest dient te worden. Hiermee is het gebruik van het derde cijfer in de IP codering komen te vervallen.

@@ -1,0 +1,15 @@
+Polymeerchemie.
+De polymeerchemie houdt zich bezig met de synthese en eigenschappen van materialen met een bijzonder hoge molaire massa. Meestal zijn dit polymeren. Polymeren zijn organische verbindingen die door een steeds herhaalde reactie van een zogenaamd monomeer bijzonder lange ketens of netwerken vormen.
+Een voorbeeld: polyetheen.
+Afhankelijk van de omstandigheden van de polymerisatiereactie kan de molaire massa van de gevormde keten oplopen tot enige honderdduizenden of zelfs miljoenen Daltons.
+Variaties in de molecuulstructuur.
+De eigenschappen van twee polymeren die van hetzelfde monomeer worden gemaakt kunnen door de gemiddelde molaire massa en de massa-verdeling belangrijk verschillend zijn. Ook kan de richting van de polymere moleculen van belang zijn: als we een polyetheenmolecuul vergelijken met een spaghetti-spriet, dan is een bord spaghetti een "gewoon" polyetheen, en het doosje waar de spaghetti in zat voor het kopen is een geordende variant.
+Thermoplasten en thermoharders.
+Als, zoals in dit voorbeeld, het polymeer een lange lineaire verbinding van monomeren vormt, gedraagt het zich als een thermoplast: als het boven de "verwekingstemperatuur" wordt verwarmd, dan wordt het zacht. Thermoplasten binden zich met vanderwaalsbindingen en eventueel met waterstofbruggen.
+Monomeren die niet zoals etheen twee maar meer reactieve plaatsen hebben, kunnen als polymeren netwerken vormen. Zulke netwerk-polymeren worden niet zacht als ze worden verwarmd. Deze polymeren worden thermoharders of ook wel thermosets genoemd. Thermoharders binden zich met atoombindingen.
+Reactiemechanismen.
+Over het algemeen kan op dezelfde manieren als bij een polyester elk paar van twee groepen die met elkaar kunnen binden worden gebruikt om een synthetisch polymeer te vormen.
+Copolymeren.
+Wanneer twee verbindingen worden gemengd om "samen" een polymeer te vormen spreekt men bij het product van een copolymeer. Dit kan, zoals bij een polyester, gaan om twee stoffen die 1:1 met elkaar reageren, maar ook om stoffen die gewoon bij elkaar worden gegooid omdat de willekeurige copolymeer interessante eigenschappen heeft. Naast de willekeurige vorm (random copolymeer, AAABABBABBBABAABA) en de om-en-om vorm (alternating copolymer, ABABABABABABAB)bestaat er ook nog een "blok-copolymeer" waarbij blokken van de twee monomeren elkaar afwisselen (Voor monomeren A en B bijvoorbeeld AAAAAAABBBBBBAAAABBBBBB...). Er bestaan ook "graft-copolymeren" met zijtakken.
+Biopolymeren.
+Naast deze synthetische polymeren zijn er grote moleculen die de basis van het leven vormen, de zogenaamde "biopolymeren". Voorbeelden hiervan zijn eiwitten, polysachariden en DNA.

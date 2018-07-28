@@ -1,0 +1,4 @@
+Empirisch resultaat.
+Een empirisch resultaat wordt verkregen als men experimentele resultaten verklaart zonder zich te beroepen op een uitgewerkte theoretische onderbouwing, maar puur en alleen door analyse van het experiment.
+Ofwel is er geen theoretische basis voorhanden, ofwel is de theoretische basis te complex om tot een voorspelling van meetresultaten te komen. In beide gevallen kunnen beperkte en gerichte experimenten gegevens leveren voor het opstellen van een rekenmodel — met een regressiecurve in de statistiek zijn net als met een fundamentele theorie nieuwe waarden te voorspellen.
+Een puur theoretische onderbouwing en een fysische interpretatie van de variabelen blijven dan afwezig, maar die worden in de wiskunde wel nagestreefd.

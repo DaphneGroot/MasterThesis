@@ -1,0 +1,2 @@
+Freedict.
+Freedict is een verzameling vrije tweetalige woordenboeken, onder de GPL-licentie. Er zijn onder andere DICT-versies beschikbaar. Een aantal Linux-distributies (zoals Debian) bevat de Freedict-woordenboeken als makkelijk installeerbare packages.

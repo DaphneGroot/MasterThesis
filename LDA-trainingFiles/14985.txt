@@ -1,0 +1,23 @@
+Nederlands Lucht- en Ruimtevaartcentrum.
+Het Nederlands Lucht- en Ruimtevaartcentrum (NLR) is het centrale instituut voor luchtvaart- en ruimtevaartonderzoek in Nederland. Sinds 1937 is het NLR een zelfstandige stichting zonder winstoogmerk, die technologische ondersteuning verschaft aan de lucht- en ruimtevaartsector. Die sector omvat industrieën, gebruikers van militaire en civiele vliegtuigen, beheerders van luchthavens, luchtverkeersleidingsorganisaties, overheidsinstanties en internationale organisaties.
+Organisatie.
+Het NLR voert nationale en internationale opdrachten uit op het gebied van de vliegtuigontwikkeling, het vliegtuiggebruik en de ruimtevaart, zowel zelfstandig als in samenwerking met andere instituten en industrieën. Het werk voor betaalde opdrachten omvat ongeveer 75 procent van de activiteiten van het NLR. Het werk in het kader van het eigen programma voor basisonderzoek en de ontwikkeling van onderzoeksfaciliteiten, dat wordt gefinancierd uit overheidssubsidies, vertegenwoordigt ongeveer 25 procent.
+De organisatie kent de divisies "Aerospace Systems", "Aerospace Operations" en "Aerospace Vehicles".
+Vestigingen.
+NLR heeft vestigingen in Amsterdam, Marknesse en Schiphol-Oost. Van het personeel, bestaande uit circa 650 medewerkers, heeft ruim twee derde een opleiding op universitair of hbo-niveau. NLR beschikt over diverse onderzoeksfaciliteiten op het gebied van de lucht- en ruimtevaart. Tot de faciliteiten behoren verscheidene windtunnels, waaronder een lagesnelheidstunnel, een transsone en een supersone windtunnel. De exploitatie van deze windtunnels en van de windtunnels van de Duitse zusterorganisatie van het NLR geschied door de "Stichting Duits-Nederlandse Windtunnels", die tevens een grote faciliteit in de Noordoostpolder bezit en waarin Duitsland en Nederland ieder een aandeel van vijftig procent hebben.
+Faciliteiten.
+NLR heeft onder meer onderstaande faciliteiten.
+Vliegtuig.
+NLR beschikt samen met de TU Delft over een laboratoriumvliegtuig, een Cessna Citation II.
+Vluchtsimulatoren.
+NLR heeft verscheidene vluchtnabootsers voor onderzoek aan vliegtuigen en helikopters ontwikkeld. De "GRACE" (Generic Research Aircraft Cockpit Environment) simulator wordt gebruikt om verschillende nieuw te ontwikkelen of bestaande vliegtuigen te simuleren. Onder meer Boeing en Airbus maken gebruik van deze simulator.
+GRACE heeft een bewegingsplatform met zes vrijheidsgraden waarmee de bewegingen van het vliegtuig worden gesimuleerd. In de cockpit kunnen nieuwe avionicasystemen worden geïntegreerd en getest.
+Verkeersleidingssimulatoren.
+Met de NARSIM Radar en de NARSIM Tower verkeersleidingsimulatoren voert NLR onderzoek uit naar concepten voor het toekomstige management van het luchtverkeer en de verkeersleiding op luchthavens.
+Testfaciliteiten.
+NLR kan vliegtuigconstructies op volle schaal, componenten en proefstukken testen. Het kan constructiedelen van vliegtuigen en ruimtevoertuigen ontwikkelen, ook in composietmaterialen. Daarnaast beschikt het NLR over instrumentatie voor vliegproeven, en over diverse gespecialiseerde apparaten voor de ontwikkeling van avionica. Installaties voor het testen van antennes en voor het uitvoeren van zogenaamde omgevingstesten worden gebruikt voor diverse apparatuur. In de fijnmechanische werkplaats ontwikkelt en bouwt NLR modellen en instrumenten voor windtunnelproeven.
+Rekenfaciliteiten.
+Het computernetwerk van NLR bevat een supercomputer voor het uitvoeren van omvangrijke stromings- en constructieberekeningen.
+Drone Centre.
+Het NLR Drone Centre is gespecialiseerd in drone (Remotely Piloted Aircraft System of RPAS) onderzoek, testen, toepassingen en opleidingen. NLR is als eerste organisatie in Nederland door de Inspectie van Leefomgeving en Transport (ILT) erkend voor het geven van theorie- en praktijkopleidingen voor het RPA-L vliegbrevet aan zakelijke gebruikers.
+NLR beschikt in Marknesse, Flevoland, over een eigen luchtruim met de benodigde beschikkingen en ontheffingen om deze activiteiten te faciliteren. Ontwikkelaars, fabrikanten en zakelijke gebruikers, zowel civiel als militair, hebben hier de mogelijkheid testvluchten uit te voeren.

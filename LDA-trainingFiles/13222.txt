@@ -1,0 +1,5 @@
+Micrometer (eenheid).
+Een micrometer (officieus: micron of mu) is een lengtemaat uit het SI-stelsel. De maat heeft het symbool µm. Een micrometer is gelijk aan 10-6 meter, oftewel 0,000 001 meter, een miljoenste deel van een meter, of een duizendste deel van een millimeter.
+Geschiedenis.
+Oorspronkelijk was de benaming millimillimeter (mmm). De mmm werd in 1845 ingevoerd door de Nederlandse bioloog en geoloog Pieter Harting die een lengtemaat nodig had voor metingen aan zijn microscopische studieobjecten. De mmm werd later omgedoopt tot "micron" (symbool µ), vaak ook uitgesproken als "mu". De benamingen "micron" en "mu" zijn niet (meer) officieel, maar worden nog steeds gebruikt.
+Voor het SI werd uit de naam "micron" het SI-voorvoegsel "micro" gevormd, met symbool µ. Zodoende werden ook microgram (µg), microvolt (µV) enz. mogelijk. De micron werd toen officieel "micrometer".

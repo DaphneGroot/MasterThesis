@@ -1,0 +1,10 @@
+Potentiële energie.
+De wagentjes in een achtbaan bereiken hun maximale potentiële energie op de top, vlak voor zij zich naar beneden storten. De wrijving buiten beschouwing latend, is eenmaal beneden alle potentiële energie van het wagentje omgezet in kinetische energie
+In de natuurkunde is de potentiële energie van een voorwerp de arbeid die het voorwerp in staat is ("potentie") te verrichten als gevolg van de toestand waarin het voorwerp zich bevindt. Deze toestand kan de situering in een krachtenveld zijn of de interne configuratie van het voorwerp. Potentiële energie wordt veelal aangeduid met ("Epot" of "Up"). Bekende voorbeelden van potentiële energie betreffen een voorwerp in het gravitatieveld van de aarde, een geladen deeltje in een elektrisch veld en de energie van een gespannen veer. De SI-eenheid voor (potentiële) energie is de joule (J).
+Algemene definitie.
+De grootte van de potentiële energie is op zichzelf niet gedefinieerd. Het is enkel het verschil in grootte dat bepaald is. Namelijk, de toename van potentiële energie is de arbeid die tegen het conservatieve krachtenveld in, verricht moet worden, om de gestelde situatie te bereiken. Als iemand bijvoorbeeld een massa omhoog tilt, moet die persoon een kracht uitoefenen, deze kracht levert dan arbeid, die arbeid is de toename van potentiële energie.
+Potentiële gravitatie-energie.
+De potentiële energie als het voorwerp zich op het niveau formula_6 bevindt, wordt dan dus op nul gesteld.
+De potentiële energie op een afstand oneindig van de aarde wordt hier op nul gesteld, omdat zo de formule het eenvoudigst is (dat kan omdat, anders dan in veel andere gevallen, het energieverschil hier een eindige limiet heeft). De potentiële energie is zo altijd negatief, en neemt net als in het eerder genoemde model toe naarmate het voorwerp zich van de aarde verwijdert.
+Andere voorbeelden.
+met "k" de constante van Coulomb. De uitdrukking kan verkregen worden door de Coulombkracht te integreren van oneindig naar afstand "d".

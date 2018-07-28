@@ -1,0 +1,6 @@
+Freecell.
+Freecell is een patiencespel, een kaartspel voor één speler. Freecell werd ook bekend als computerspel, voornamelijk omdat het als extraatje bij Windows- en Linuxsystemen wordt meegeleverd.
+Spelregels.
+De 52 kaarten worden geschud en verdeeld in 8 stapeltjes. Boven de linkse 4 stapeltjes worden 4 denkbeeldige vakjes vrijgehouden waarop slechts een kaart kan worden neergelegd (Engels: "free cell"), evenals boven de rechtse 4 (foundation pile) waarop meerdere kaarten kunnen worden gestapeld.
+Kaarten kunnen worden verplaatst door ze onder een kaart te leggen die net hoger van waarde is en niet de kleur (er zijn twee kleuren: zwart en rood) heeft van de te verplaatsen kaart. Meer dan één kaart kan verplaatst worden als ze voldoen aan dit principe van aflopende waarde en tegenovergestelde kleur, maar de hoeveelheid kaarten die verschoven mag worden hangt af van het aantal vrije freecells. Men zorgt dus best voor een minimale bezetting van de freecells.
+Kaarten mogen op de stapels gelegd worden als ze vrijkomen, in de volgorde Aas, 2 tot en met Koning. Het spel is gewonnen als alle kaarten op de rechter stapels zijn gelegd, met dus de vier koningen bovenaan.

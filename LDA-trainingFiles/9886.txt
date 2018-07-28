@@ -1,0 +1,9 @@
+Vereniging (verzamelingenleer).
+Vereniging, of unie, is een begrip uit de verzamelingenleer. De vereniging van een aantal verzamelingen is de verzameling die bestaat uit alle elementen van de samenstellende verzamelingen. De vereniging van de verzamelingen "A" en "B" wordt genoteerd als "A" ∪ "B".
+Voorbeeld.
+Zij "A" = en "B" =, dan is "A" ∪ "B" =.
+Veralgemening.
+Zij "X" een willekeurige verzameling, en "F" een familie deelverzamelingen van X. "F" mag eventueel oneindig of zelfs overaftelbaar veel verschillende deelverzamelingen van "X" bevatten.
+De vereniging van "F" is de deelverzameling van "X" die bestaat uit alle elementen x die tot minstens één lid van de familie "F" behoren.
+In het bijzonder wordt de vereniging van een lege familie "F" verondersteld leeg te zijn.
+De universumverzameling "X" is nodig om paradoxen te vermijden. De vereniging van een willekeurige familie verzamelingen is binnen de axiomatische verzamelingenleer niet gedefinieerd.

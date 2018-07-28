@@ -1,0 +1,11 @@
+Immunofluorescence assay.
+Immunofluorescence assay is een testmethode die in de geneeskunde en veterinaire geneeskunde gebruikt wordt om de aanwezigheid van antigenen aan te tonen.
+Omschrijving.
+De methode bezit een grote mate van gevoeligheid waardoor deze geschikt is om met een grote mate van waarschijnlijkheid als test gebruikt te worden. De gebruikte marker is altijd een fluorescerende stof. Dit is een variant op een ELISA (enzyme linked immuno assay) waarbij eigenlijk alleen de gebruikte methode van detectie verschilt.
+Men maakt onderscheid tussen een directe immunofluorescence assay (DFA) en een indirecte immunofluorescence assay (IFA).
+DFA.
+Hierbij wordt een fluorescerende antistof direct op het antigen gebonden. Deze methode is ietwat gevoeliger dan de IFA.
+IFA.
+Hierbij wordt een antistof op het antigen gebonden. De gebonden antistof fungeert opnieuw als antigen waarop een fluorescerende antistof wordt gebonden. Het voordeel van deze methode is, dat je niet voor elk soort antigen een fluorescerende antistof nodig hebt.
+Berekening.
+Door een aantal cellen te vullen met een standaard (bekende hoeveelheid stof) in plaats van monsters met de te meten stof kan de concentratie worden berekend.

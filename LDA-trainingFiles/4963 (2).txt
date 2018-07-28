@@ -1,0 +1,3 @@
+Kwantumbaan.
+Een kwantumbaan is een baan waarbij een elektron zich in een atoom langs verschillende banen rond de kern kan bewegen. Deze banen worden onderverdeeld in schillen, elke schil kan slechts een bepaald aantal elektronen bevatten.
+Deze banen worden beschreven door golffuncties.

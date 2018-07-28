@@ -1,0 +1,14 @@
+Devanagari.
+Devanagari op spandoeken in de Indiase stad Varanasi.
+Het Devanāgarī () of Nāgarī is een abugida, behorend tot de Indiase schriften. Het Devanagari wordt door verschillende Indo-Arische talen gebruikt, waaronder Hindi, Nepalees en het Marathi. Het wordt sinds zijn ontstaan ook gebruikt door dode talen als Sanskriet en Prakrits, die religieuze functies vervullen in de Indiase maatschappij.
+Oorsprong.
+Het Devanagari ontstond rond 1200 uit het Siddham en verving langzaam het nauw verwante Sharada, dat nog lange tijd parallel in Kasjmir gebruikt zou worden. Beide zijn directe afstammelingen van het Gupta, dat wordt beschouwd als een late versie van het Brahmi, dat teruggaat tot de derde eeuw voor Christus.
+Karakters.
+Het Devanagari is een syllabisch schrift dat men als een abugida kan beschouwen, aangezien op iedere medeklinker een inherente klinker ("a") volgt, die gewijzigd kan worden met een klinkerteken. Zo stelt het teken voor "v" (व) eigenlijk de lettergreep "va" voor. De tekens die gezamenlijk een woord vormen worden gewoonlijk doorverbonden door een bovenliggende streep, maar er zijn lettertekens die deze streep doorbreken. Een van de bekendste devanagaritekens, ॐ (de Om- of Aum-mantra), is eigenlijk de ligatuur van ओ+ँ.
+Medeklinkers.
+De retroflexe medeklinkers worden uitgesproken met teruggebogen tong, zoals bij de Amerikaanse 'r'-klank. Het verschil tussen "t" en "th" is ongeveer het verschil tussen een Standaardnederlandse en een Groningse 't' (als in 'Marthinithoren').
+De palatalen "ch" en "j" komen ongeveer overeen met de 'tj'- en 'dj'-klanken in 'petje' en 'bedje', of als in het Engelse 'pich' en 'jazz'. Bij de geaspireerde versies "chh" en "jh" volgt hierop nog een 'h'-klank.
+Cijfers.
+De hierboven gebruikte ITRANS transliteratie is een verliesloos transliteratiestelsel dat gebruikt wordt om Hindi in het Latijnse alfabet weer te geven. Het is grotendeels gebaseerd op de Engelse uitspraak van ons alfabet en wordt wijd en zijd toegepast, ook op het web. In ITRANS is het woord 'devanagari' geschreven als "devanaagarii" om de lange "aa" en "ii" in het woord aan te geven.
+Ondersteuning.
+Unicode devanagaritekens zijn alleen te lezen als de webbrowser de volledige Unicode-tabel ondersteunt. Dit werkt ongeveer vanaf Windows 2000 of Mac OS 9.2. (Om in Windows alle tekens in de juiste volgorde weer te geven, moet ook "ondersteuning voor complexe schriften" geïnstalleerd zijn.)" Ook Linux- en moderne Unix-systemen hebben in het algemeen geen moeite met de Devanagari Unicode. Voor systemen die dit niet ondersteunen wordt Devanagari wel met grafische bestanden weergegeven, tabellen met Unicode kunnen bijvoorbeeld ook als plaatje worden weergegeven.

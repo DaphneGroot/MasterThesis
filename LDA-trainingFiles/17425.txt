@@ -1,0 +1,10 @@
+Nootwaarde.
+De nootwaarde of nootduur is in de muziek de relatieve tijdsduur van de door de noot aangeduide toon. De werkelijke tijdsduur wordt bepaald door de tempoaanduiding. Als basis geldt dat de duur van verschillende noten in vaste verhouding tot elkaar staan.
+Standaardnoten.
+In onderstaande figuur staan de gebruikelijke noten weergegeven. De duur van elke volgende noot is steeds de helft van de duur van de voorgaande noot.
+Voorbeeld 1.
+Een kwartnoot duurt tweemaal zo lang als een achtste noot en half zo lang als een halve noot enzovoorts.
+Voorbeeld 2.
+In dit voorbeeld duurt de eerste noot (een hele noot, open zonder stok) dus tweemaal zo lang als de tweede noot (een halve noot, open met stok), en duurt de derde noot (een kwartnoot, dicht met stok), een vierde deel van de lengte van de eerste noot en de helft van de lengte van de tweede noot.
+Voorbeeld 3.
+In dit voorbeeld komen vier verschillende nootduren samen.

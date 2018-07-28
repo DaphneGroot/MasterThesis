@@ -1,0 +1,6 @@
+Psi (software).
+Psi is een opensource-XMPP-client voor Windows, Linux en Mac OS X. Psi is beschikbaar in 18 talen, waaronder Engels, Nederlands, Frans en Duits. Het programma wordt uitgebracht onder de GPL, wat inhoudt dat de broncode beschikbaar is. Psi ondersteunt OpenPGP en SSL, iets wat door Psi wordt gepromoot als professioneel. De laatste versie is 0.15 en werd uitgebracht op 4 oktober 2012.
+Naam.
+"Psi" (uitgesproken zoals het Engelse sigh [saɪ]) is de afkorting van psynergy, een samentrekking van 'psychic' en 'energy'. Psi wordt weergegeven door een Griekse letter (Ψ), wat ook het logo van deze XMPP-client is.
+Ontwikkeling.
+Het programma werd ontwikkeld door Justin Karneges als een nevenproject. Justin verliet het project eind 2004, om zich op andere dingen toe te leggen. Hij blijft wel de originele auteur van het programma. Het Psi-project ligt nu in handen van Kevin Smith.

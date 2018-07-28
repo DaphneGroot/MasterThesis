@@ -1,0 +1,10 @@
+ELISA.
+ELISA is een acroniem voor een laboratoriumtest voor het meten van macromoleculaire stoffen zoals eiwitten in bloedmonsters. De naam is een afkorting van "Enzyme-Linked Immuno Sorbent Assay". Een andere term voor ELISA is Enzyme Immuno Assay (EIA).
+ELISA is een immunochemische reactie en alle immunochemische bepalingen zijn gebaseerd op hetzelfde principe, de specifieke binding tussen antigeen en antistof. Door het aantonen daarvan in het bloed, serum of andere lichaamsvloeistof van een mens of een dier is het mogelijk bij te dragen aan de diagnose van een infectieziekte of een auto-immuunziekte.
+Detectie.
+Het opsporen gebeurt door binding van de eiwitten met antilichamen die "gelabeld" zijn. Dit wil zeggen dat ze chemisch gekoppeld worden aan een enzym zoals peroxidase dat via een of meer tussenstappen een kleurstof doet ontstaan. Hoe meer van de te detecteren stof aanwezig was, hoe meer enzymwerking gebonden wordt en hoe meer kleurstof er uiteindelijk ontstaat.
+IJking.
+Om de hoeveelheid te bepalen worden van tevoren verdunningen met bekende concentraties van de te meten stof gemaakt en tevens verdunningen van het monster. Omdat de hoeveelheid signaal evenredig is met de hoeveelheid enzym, kan bepaald worden wat de concentratie in het monster is. Een voorbeeld is de dopingtest: door concentraties te meten en te vergelijken met de toegestane (van nature aanwezige) concentraties, wordt een atleet gecontroleerd op doping.
+Bepaling.
+Als de plaat gekleurd is, is de plaat klaar om gelezen te worden. Dit gebeurt met een ELISA reader op basis van een spectrofotometrische bepaling. Bij deze bepaling wordt gebruikgemaakt van twee golflengtes zodat de bepaling nauwkeuriger is. Bij een hogere golflengte hebben sterke kleuringen namelijk geen invloed.
+Er bestaat ook een PCR-ELISA test.

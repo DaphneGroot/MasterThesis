@@ -1,0 +1,31 @@
+Dt-fout.
+Een dt-fout is een spelfout die optreedt op het einde van vervoegde Nederlandse werkwoorden. De voor de hand liggende oorzaak is het conflict tussen de klanken die men letterlijk hoort in de spreektaal en de schrijfwijze die is genormeerd volgens de officiële spelling, vastgesteld door ministeriële spellingcommissies in Nederland en België. Dit is bijvoorbeeld het geval bij het woordpaar "word/wordt", die allebei klinken als [wort]. Een ander voorbeeld is "begeleid" vs. "begeleidt", die beide klinken als [begeleit].
+Men weet door talloze lees- en schrijftesten dat de werkwoordsvorm die het meest voorkomt, wordt opgeschreven en dat een schrijver/schrijfster de eigen tekst zelden naleest of een verkeerd gekozen werkwoordsvorm zelden zelf opmerkt. Voorbeelden: “Ik wordt aangevallen” (voor het juiste: “ik word aangevallen”) en “de lerares begeleid de leerling” (voor het juiste: “de lerares begeleidt de leerling”); “Iemand als jij "verbrand" zijn vingers niet” (voor het juiste: “Iemand als jij verbrandt...”) en “hij "antwoord "me nooit” (voor het juiste: “hij antwoordt me nooit”).
+Algemeen.
+In het Nederlands bestaat eindklankverscherping: vijf stemhebbende medeklinkers (namelijk b, d, v, z, g) worden stemloos op het einde van een woord (namelijk als p, t, f, s, ch).
+Wat is het?
+De dt-fout is een verbijzondering van het bovenstaande — deze spelfout of schrijffout is beperkt tot
+Stam.
+Om als taalgebruiker -t, -d of -dt op de juiste plaats te schrijven, is weten wat het taalkundige begrip "stam" inhoudt, wellicht de kortste probleemoplossingsweg — in ieder geval die met de kleinste kans op fouten.
+De stam.
+De stam wordt in het algemeen verkregen door de uitgang "-en" af te halen van de infinitief, het hele werkwoord zoals het in een woordenboek voorkomt. De stam is ook de gebiedende wijs van het werkwoord.
+Stam of stam + t.
+Hieronder staat een tabel met negen werkwoorden: "wandelen", "zingen", "typen", "pakken", "praten", "vinden", "worden", "leven" en "verhuizen" in de tegenwoordige tijd.
+Verleden tijd.
+De spelfouten met d en t komen vooral voor bij het schrijven van de verleden tijden, zowel onvoltooide als voltooide.
+Dezelfde werkwoorden als in de vorige tabel worden eerst behandeld; daarna wordt toegelicht hoe de basisvorm van de verleden tijd ontstaat.
+Opmerkingen bij de bovenstaande tabel.
+Bij "gij" werd er steeds een -t aan de basisvorm toegevoegd. Die -t is gebleven bij de sterke werkwoorden (zie (3) hieronder). Tegenwoordig wordt de "-t" bij de "zwakke werkwoorden" niet meer uitgesproken noch geschreven ("gij pakte" in plaats van "gij paktet"). Deze vervoeging met -t is historisch wel de oorspronkelijke vorm, maar — door de ontwikkeling van de Nederlandse taal sedert de tweede helft van de twintigste eeuw en het overleg erover binnen de Nederlandse Taalunie — vind je enkel nog sporadisch in oude romans, geschreven in Vlaanderen en het oosten en zuiden van Nederland (“onder de Moerdijk”).
+(1) en (2): de stamklinker van de werkwoorden wijzigt "niet" en de verleden tijd wordt gevormd door toevoeging van -de(n) of de “stemloze tegenhanger” -te(n) aan de basisvorm: die werkwoorden worden "zwakke werkwoorden" genoemd.
+Wanneer wordt er nu -te en wanneer -de aangehecht? Hierbij wordt gelet op de laatste letter van de stam. De uitgang -te(n) wordt aangehecht als deze letter stemloos (= zonder spanning) klinkt: het zijn de letters "p, t, k, f, s" en de lettercombinatie/klank "ch". Na alle andere eindletters — medeklinkers en klinkers — eindigt de verleden tijd op -de(n).
+(3): de werkwoorden waarbij voor de verleden tijd een klinkerwijziging optreedt, noemt men ook wel de "sterke werkwoorden". Een “dt-fout” komt hier amper voor, immers, je schrijft "-dt" enkel bij "ge/gij" indien bij een “vervangingsproef” ("je/jij" in plaats van "ge/gij") de persoonsvorm eindigt op "-d" (in de tabel hierboven: gij vondt, gij werdt).
+Voltooid deelwoord.
+Het voltooid deelwoord wordt gevormd door vooraan "ge-" toe te voegen en de "-e" af te halen van de "-de" of de "-te".
+Het voltooide deelwoord kan ook als bijvoeglijk naamwoord worden gebezigd, met of zonder zogenoemde buigings-"e". De spellingregel voor verdubbeling of verenkeling van klinkers of medeklinkers (= de regel van de "open of gesloten lettergreep") is dezelfde als voor elk ander bijvoeglijk naamwoord. Voorbeelden: "de gewitte muur" ("de muur is gewit"), "de verbrede weg" ("de weg is verbreed") en de gehaaste ober ("de ober is gehaast+t").
+Nederengels.
+De Nederlandse vervoeging wordt onverkort toegepast. Het is dus "relaxen, relaxte, gerelaxt" en niet "*relaxede" of "*gerelaxed." (Er bestaat ook een bijvoeglijk naamwoord "relaxed," maar vanwege de uitspraak is de verbogen vorm daarvan "relaxte.")
+'t Kofschip.
+De genoemde stameindklanken p, t, k, f, s, ch staan ook allemaal in het memosteuntje t kofschip" of t fokschaap".
+Men kan er nog deze scherpe klanken aan toevoegen: ks (gespeld: ks of x) en sj (gespeld: sj of ch, sh). Werkwoorden met die laatste klanken op het stameinde zijn niet talrijk en veelal van vreemde (maar wel meestal Indo-Europese) oorsprong. Voorbeelden: relaxen: relaxte, gerelaxt; douchen: douchte, gedoucht; crashen: crashte, gecrasht.
+Slechts zes stemloze letters.
+"p, t, k, f, s, ch" zijn de enige stemloze letter(combinatie)s die in de hoedanigheid van stameindletter de stemloze uitgang "-t(e)" "uitlokken". Wie dus "altijd met -d(e)" en nooit "-t(e)" noch "-dt" afsluit, schrijft de zwakke verleden tijden en voltooide deelwoorden in de meeste gevallen correct.

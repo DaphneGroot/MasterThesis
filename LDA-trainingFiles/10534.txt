@@ -1,0 +1,3 @@
+Philidor (schaakopening).
+De Philidorverdediging is een opening van een schaakpartij die is ingedeeld bij de open spelen. De opening valt onder ECO-code C41, en de beginzetten zijn
+Deze verdediging is vernoemd naar François Philidor (1726-1795). In de 18e eeuw werd deze opening vaak gespeeld, maar later nam de belangstelling voor de opening af, omdat zwart geen actieve stelling krijgt en het opschuiven naar f5, wat oorspronkelijk de bedoeling was, uiteindelijk ongunstig blijkt te zijn voor zwart. Toch wordt de verdediging nog wel gespeeld door meesters als Bacrot, Aronian en Nisipeanu.

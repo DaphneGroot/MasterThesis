@@ -1,0 +1,3 @@
+SourceWatch.
+SourceWatch, voorheen Disinfopedia, is een Amerikaanse website die zich tot doel stelt om "propaganda", vooral op politiek gebied, te bestrijden. SourceWatch bouwt een verzameling op met achtergrondinformatie over personen, denktanks, pr-bedrijven en deskundige die in opdracht van bedrijven, regeringen en lobbygroepen werken om de publieke opinie te beïnvloeden. Sponsor van het project is Center for Media and Democracy, een progressieve onderzoeksgroep.
+De documentatie is online beschikbaar in de vorm van een wiki. De inhoud is beschikbaar onder de GNU-licentie voor vrije documentatie.

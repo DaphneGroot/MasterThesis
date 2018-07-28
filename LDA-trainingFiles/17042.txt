@@ -1,0 +1,7 @@
+Lineariteit.
+Lineair betekent 'rechtlijnig' (Latijn: "linearis", 'uit een lijn bestaand'). In dagelijks spraakgebruik wordt dit ook wel rechtevenredig genoemd.
+Recht evenredigheid.
+Als tussen A en B een relatie bestaat die recht evenredig is, dan betekent dit dat als A x maal zo groot wordt, ook B x maal zo groot wordt.
+Bijvoorbeeld: als een fietser met een constante snelheid rijdt, bestaat er een recht evenredige relatie tussen de afstand die de fietser aflegt en de tijd. Rijdt de fietser met een snelheid van 5 meter per seconde, dan zal die fietser in 10 seconden 50 meter afleggen. Zou deze relatie in een grafiek worden weergegeven, dan zal dit een rechte lijn weergeven. Aan de hand van die grafiek kan worden nagegaan hoever de fietser was na 5 seconden (interpoleren), of voorspellen hoeveel meter de fietser zal afleggen in bijvoorbeeld 20 seconden (extrapoleren).
+Regeltechniek, signaalbewerking, systeemanalyse.
+Alle andere soorten systemen heten dan niet-lineair.

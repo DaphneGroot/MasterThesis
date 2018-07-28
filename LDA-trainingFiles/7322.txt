@@ -1,0 +1,25 @@
+Chi-kwadraattoets.
+Chi-kwadraattoetsingsgrootheid.
+waarin formula_2 de verwachte (of gemiddelde) en formula_3 de waargenomen frequentie is, en gesommeerd wordt over alle mogelijkheden.
+Aanpassingstoets.
+Met de aanpassingstoets wordt nagegaan of een onbekende discrete verdeling op de waarden formula_4 al dan niet verschilt van een bekende verdeling. De onbekende discrete verdeling wordt bepaald door de onbekende kansen formula_5 op de waarden formula_6.
+waarin formula_12 het aantal keren is dat in de steekproef de waarde formula_6 voorkomt. formula_14 is de kans op het voorkomen van formula_6 volgens de nulhypothese en dus is formula_16 het aantal keer dat formula_6 zou voorkomen op basis van de nulhypothese.
+Voor voldoend grote formula_8 is de toetsingsgrootheid onder de nulhypothese bij benadering chi-kwadraatverdeeld met formula_19 vrijheidsgraden. De nulhypothese wordt verworpen voor te grote waarden van de toetsingsgrootheid.
+Merk op dat deze test eigenlijk de relatieve euclidische afstand meet tussen de twee functies.
+Voorbeeld.
+Er is dus absoluut geen reden om, gezien de uitkomst van de 60 worpen, aan de zuiverheid van de dobbelsteen te twijfelen, want er is 34,7% kans om met een zuivere dobbelsteen een resultaat te krijgen met een minstens zo grote "afstand".
+Onafhankelijkheidstoets.
+Met de onafhankelijkheidstoets wordt nagegaan of waarnemingen uit een onbekende simultane discrete verdeling op de waarden formula_30 al dan niet onderling onafhankelijk zijn. De onbekende discrete verdeling wordt bepaald door de onbekende kansen formula_31 op de waarden formula_32.
+Daarin is formula_44 het aantal keren dat in de steekproef het paar formula_32 voorkomt, zijn
+Voor voldoend grote formula_44 is de toetsingsgrootheid onder de nulhypohese bij benadering chi-kwadraatverdeeld met formula_49 vrijheidsgraden. De nulhypothese wordt verworpen voor te grote waarden van de toetsingsgrootheid.
+Voorbeeld.
+met als totaal: formula_60.
+Onder de nulhypothese van onafhankelijkheid is de toetsingsgrootheid bij benadering chi-kwadraatverdeeld met (6-1)(6-1) = 25 vrijheidsgraden. De overschrijdingskans van de gevonden waarde 22,12 is iets groter dan 0,5, zodat er bij een onbetrouwbaarheidsdrempel van 5% geen reden is om aan de onafhankelijkheid te twijfelen.
+Opgemerkt moet worden dat voor een goede benadering de waargenomen aantallen formula_50 niet te klein mogen zijn. In de literatuur worden grenzen van 1 tot 5 genoemd. In dit voorbeeld is aan deze eis niet voldaan, maar het toont wel het principe van de toets.
+Homogeniteitstoets.
+Met de homogeniteitstoets wordt nagegaan of een aantal discrete verdelingen op dezelfde waarden formula_4 al dan niet van elkaar verschillen. De formula_63 discrete verdelingen worden voor formula_64 bepaald door de onbekende kansen formula_65 op de waarden formula_66.
+Daarin is formula_44 het aantal keren dat in de formula_20-de steekproef de waarde formula_66 voorkomt, zijn
+Voor voldoend grote formula_44 is de toetsingsgrootheid onder de nulhypothese bij benadering chi-kwadraatverdeeld met formula_49 vrijheidsgraden. De nulhypothese wordt verworpen voor te grote waarden van de toetsingsgrootheid.
+Voorbeeld.
+met als totaal: formula_92.
+Onder de nulhypothese van homogeniteit is de toetsingsgrootheid bij benadering chi-kwadraatverdeeld met (3-1)(6-1) = 10 vrijheidsgraden. De overschrijdingskans van de gevonden waarde 21,61 is kleiner dan 0,025, zodat er reden is om te twijfelen aan de homogeniteit.

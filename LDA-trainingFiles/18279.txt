@@ -1,0 +1,30 @@
+FreeBSD.
+FreeBSD is een opensource-besturingssysteem dat behoort tot de Unix-familie, meer specifiek BSD. Het wordt voornamelijk gebruikt als besturingssysteem voor servers, vanwege de reputatie in stabiliteit, veiligheid en prestaties. Van FreeBSD is onder andere Darwin afgeleid, de onzichtbare onderlaag van Mac OS X. FreeBSD werd eind jaren negentig gebruikt op de servers van Hotmail en wordt tot op heden door Yahoo! gebruikt..
+Algemeen.
+FreeBSD is beschikbaar voor diverse platformen en architecturen, zoals x86, x86-64 (AMD64), IA-64, ARM, PowerPC en UltraSPARC.
+Bij de installatie van FreeBSD kan er gekozen worden tussen het downloaden van de "kernel sources" of het downloaden van de complete "source tree" van het besturingssysteem. Installatie kan vanaf diverse media plaatsvinden, zoals van cd-rom of via het netwerk, bijvoorbeeld van een FTP-server.
+FreeBSD staat bekend om de uitgebreide en in het algemeen complete documentatie. Het FreeBSD handboek biedt hulp bij de installatie, het beheer en de beveiliging van FreeBSD. Het handboek is ook vertaald in het Nederlands. FreeBSD maakt gebruik van het bestandssysteem UFS.
+Geschiedenis.
+Schermafbeelding van FreeSBIE, de live CD van FreeBSD
+Jordan Hubbard begon met de ontwikkeling van FreeBSD in november 1993. Zijn broncode was die van 386BSD, maar wegens twijfels aan de legaliteit van de broncode van 386BSD werd voor FreeBSD 2.0 (januari 1995) veel software herschreven. Daarbij werd gebruikgemaakt van de 4.4BSD-Lite-release van de Universiteit van Californië - Berkeley.
+Versies en ontwikkeling.
+De ontwikkeling van FreeBSD wordt meestal voortgezet in meerdere takken. Iedere tak begint zijn leven als een zogenaamde '-CURRENT'-tak. Na enige tijd (enkele jaren over het algemeen) zal er een release komen van die tak waardoor hij tot '-STABLE' wordt omgekroond. De hoogste '-STABLE'-versie wordt vaak gezien als productieversie. Anno 2015 zijn 10.1, 9.3 en 8.4 de gangbare productieversies (STABLE). De '-CURRENT'-versies worden vaak 'New Technology' (nieuwe technologie) genoemd.
+FreeBSD 5.
+FreeBSD 5 bevatte een aantal nieuwe opties, waaronder veel opties die betrekking hadden op beveiliging. Het TrustedBSD-project werd gevormd met het doel om te vertrouwen besturingssysteemfunctionaliteit toe te voegen aan het FreeBSD-besturingssysteem. Een uitbreidbaar Mandatory Access Control framework (het TrustedBSD MAC Framework), bestandssysteem Access Control Lists (ACL's) en het nieuwe UFS2-bestandssysteem komen uit TrustedBSD. Delen van de TrustedBSD-functionaliteit zijn ook opgenomen in de besturingssystemen NetBSD en OpenBSD.
+FreeBSD 6.
+FreeBSD 6 is vooral gericht op het verder stabiliseren van het besturingssysteem en verdere ondersteuning van hardware.
+FreeBSD 7.
+In FreeBSD 7 werd de IP-stack verbeterd door Andre Opperman. Het FreeBSD-project trachtte hiermee opnieuw het besturingssysteem met de snelste netwerkcode uit te brengen.
+FreeBSD 8.
+FreeBSD 8.4 werd uitgebracht als legacyversie op 7 juni 2013. Belangrijkste veranderingen zijn GNOME 2.32.1 en KDE 4.10.1.
+FreeBSD 9.
+FreeBSD 9.1 werd uitgebracht op 31 december 2012. FreeBSD 9.2 verscheen op 30 september 2013. FreeBSD 9.3 volgde op 16 juli 2014.
+FreeBSD 10.
+FreeBSD 10 gebruikt de door Apple gesponsorde Clang-compiler in plaats van GCC. FreeBSD 10 is beschikbaar voor volgende processorarchitecturen: amd64, i386, ia64, powerpc, powerpc64 en sparc64.
+FreeBSD 10.1, uitgebracht op 14 november 2014, bevat voor het eerst code om UEFI-systemen te ondersteunen.
+Software.
+Er is een uitgebreide portscollectie om software uit te installeren op een eenvoudige manier. Als FreeBSD in Linuxcompatibiliteitsmodus draait, kunnen bovendien ook programma's die voor Linux ontwikkeld zijn onder FreeBSD draaien. Verder zijn er emulators voor bepaalde veelgebruikte commerciële besturingssystemen.
+Mascotte.
+De mascotte van FreeBSD is een vriendelijk rood duiveltje, Beastie genaamd. Aanvankelijk werd de mascotte ook als logo gebruikt, tot er in 2005 een competitie werd gehouden voor een nieuw, meer professioneel ogend logo. Het ontwerp van Anton K. Gural kwam als winnaar uit de bus. Beastie blijft echter aanwezig als de mascotte.
+Donaties.
+Elk jaar wordt er een online fundraisingcampagne opgezet. In 2014 doneerde Jan Koum, de CEO en medeoprichter van WhatsApp, 1 miljoen dollar aan de FreeBSD Foundation.

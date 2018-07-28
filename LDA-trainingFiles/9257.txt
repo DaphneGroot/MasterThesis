@@ -1,0 +1,6 @@
+Computergeheugen.
+Computergeheugen stelt een computer in staat informatie op te slaan voor later gebruik. Computergeheugen kan worden onderscheiden in intern geheugen en extern geheugen of in vluchtig geheugen en niet-vluchtig (permanent) geheugen.
+Soorten.
+Vluchtig geheugen verliest de opgeslagen gegevens als de computer wordt uitgeschakeld, niet-vluchtig geheugen behoudt ook dan de gegevens.
+Hiërarchie.
+Veel componenten in een moderne personal computer (pc) bevatten zelf ook geheugen en soms een eigen processor. Veel hardeschijfcontrollers zijn voorzien van een cachegeheugen en videokaarten zijn in het algemeen voorzien van een ruime hoeveelheid videogeheugen.

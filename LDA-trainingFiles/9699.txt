@@ -1,0 +1,6 @@
+Watersprong.
+Watersprong is een begrip uit de hydraulica. Watersprongen worden in de waterbouwkunde gebruikt om snelstromende (superkritische) en dus sterk eroderende stroming om te zetten in trager stromend water. In de scheepvaart zijn watersprongen ongewenst.
+Principe.
+Een watersprong is in feite een staande golf. De golf wil zich in stroomopwaartse richting voortbewegen, maar kan dat niet, omdat het water zelf "sneller" naar beneden stroomt dan de golf er tegenin kan wandelen. Een watersprong is dus zichtbaar als een plotse "verhoging" van de waterstand in benedenstroomse richting, en markeert daarmee de overgang van superkritische naar subkritische stroming.
+Wanneer dus de stroomsnelheid v groter is dan de golfvoortplantingssnelheid c, (superkritische stroming), dan kan men verder naar benedenstrooms, waar de stroomsnelheid afneemt, een watersprong verwachten.
+Een alledaags voorbeeld van een watersprong is tijdens het tandenpoetsen te bewonderen: in de wastafel. Rond de plaats waar het water uit de kraan de wastafel raakt, ontstaat een glad uitziend stromingspatroon. Even verder ervandaan ontstaat in een kring een soort staand golfje.

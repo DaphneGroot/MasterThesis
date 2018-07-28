@@ -1,0 +1,17 @@
+Digitale duurzaamheid.
+Digitale duurzaamheid is de houdbaarheid en bruikbaarheid van digitale gegevens op de langere termijn. Omdat zowel hardware als software continu veranderen, kunnen digitale gegevens snel onbruikbaar worden. Dit is met name een probleem voor erfgoedinstellingen zoals bibliotheken en archieven, die informatie voor de toekomst willen bewaren.
+Houdbaarheid van gegevensdragers.
+Een van de problemen van digitale duurzaamheid is de houdbaarheid van gegevensdragers. Magnetische gegevensdragers, waarbij gegevens worden opgeslagen door magnetisch materiaal uit te richten, verliezen bijvoorbeeld na enkele jaren hun magnetische richting. Een meer recent probleem zijn beschrijfbare cd's. Deze blijken na enkele jaren vaak kapot te gaan.
+Om gegevens duurzaam bruikbaar te houden is het nodig gegevensdragers te kiezen waarvan de houdbaarheid bekend is. Om de zoveel tijd zullen de gegevens op nieuwe, verse gegevensdragers opgeslagen moeten worden.
+Beschikbaarheid van uitleesapparatuur.
+Ook al zijn de gegevensdragers in goede staat, dan kan het nog steeds een probleem zijn om de oude gegevens terug te lezen omdat de benodigde apparatuur om die te lezen niet meer werkt, of, zoals meestal het geval, gewoonweg weggedaan is. Reserveonderdelen zijn niet meer beschikbaar, en ook technici zijn vaak niet meer opgeleid om 'oude' apparatuur te repareren.
+Beschikbaarheid van software.
+Zelfs als de oude gegevens nog gebruikt zouden kunnen worden, dan rest vaak nog een probleem, namelijk: met welke software dat gedaan moet worden. In feite is ieder gegevensbestand niets anders dan een reeks nullen en enen, en als niet bekend is hoe dien moet worden geïnterpreteerd, dan is de informatie nutteloos.
+Beschikbaarheid van de internetpagina's waarnaar men verwijst.
+Veel informatie gaat verloren doordat websites verhuizen, andere namen krijgen, of helemaal verdwijnen. Daarmee worden alle links naar die informatie ook onbruikbaar.
+Oplossingen voor het digitaleduurzaamheidsprobleem.
+In principe is er geen algemene oplossing tegen digitale gegevensrot; iedere gegevensdrager heeft een houdbaarheid, uitleesapparatuur kan stuk gaan en software kan verloren gaan. Maar er zijn vele maatregelen ontwikkeld om de kansen op gegevensverlies te verminderen.
+Oplossingen voor problemen met verwijzingen.
+Om te voorkomen dat links naar informatie onvindbaar worden, is het systeem van persistent identifiers ontwikkeld.
+Behouden van authenticiteit.
+De focus op de leesbaarheid van digitale gegevens kan worden beschouwd als een specifiek perspectief op digitale duurzaamheid. In een breder perspectief staat niet alleen de leesbaarheid van gegevens centraal maar wordt ook gekeken naar de authenticiteit van gegevens. Hoe kan worden gegarandeerd dat gegevens niet zijn gewijzigd? De authenticiteit van gegevens kan worden bewaard met een digitaal archiefsysteem dat de volgende functies omvat: innemen (vastlegging), opslag, ordening, beschrijving, selectie, verwijdering, bewaren en beschikbaar stellen. Overigens dient hierbij te worden opgemerkt dat dit digitale archiefsysteem niet alleen bestaat uit techniek - de Records Management Applicatie genoemd - maar ook uit organisatorische werkwijzen.

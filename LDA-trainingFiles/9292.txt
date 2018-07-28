@@ -1,0 +1,6 @@
+Tux.
+Tux is de mascotte van de Linux-kernel. Tux is een cartoonpinguïn en werd oorspronkelijk door Larry Ewing getekend met het programma GIMP.
+Linus Torvalds, de bedenker en hoofdontwikkelaar van Linux, vond dat het logo van Linux een pinguïn moest zijn. Een wedstrijd werd uitgeschreven, die in 1996 gewonnen werd door Larry Ewing. Tux is een verzonnen figuur gebaseerd op een adeliepinguïn.
+Gebruik in spellen.
+Tux is de protagonist van GCompris, een multiplatform opensourcesoftwaresuite met educatieve programma's voor kinderen van 2 tot 10 jaar.
+Er bestaat ook een jump-'n'-runspel van Tux, genaamd SuperTux. Dit spel is gratis en voor vrijwel ieder platform gemaakt en vergelijkbaar met Super Marioland. Ook in het spel Tux Racer speelt de mascotte de hoofdrol.

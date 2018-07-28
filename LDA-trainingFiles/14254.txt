@@ -1,0 +1,10 @@
+Hexagonaal kristalstelsel.
+Hexagonaal kristalstelsel is de benaming voor een type kristalstelsel, dat de hexagonale dichtste stapeling bezit. Het is een van de veertien bravaistralies. Mineralen met een hexagonale structuur zijn onder meer cadmium en magnesium.
+Het hexagonaal kristalstelsel telt 6 puntgroepen: 6, 6/m, 6 mm, 6/mmm, 622 en m2.
+Een hexagonaal kristalrooster.
+Wanneer een tralie zich herhaalt in dezelfde stand, in drie onafhankelijke richtingen (zodat er een heel groot rooster ontstaat van tralies naast elkaar), en er op ieder traliepunt een atoom of ion wordt ingevuld, noemt men het resultaat een hexagonaal kristalrooster. De atomen of ionen hebben zich dan op dezelfde manier gerangschikt zoals te zien is in het plaatje met het hexagonale rooster.
+Glijvlakken.
+Ten opzichte van een materiaal met een kubisch rooster (zoals k.v.g. en k.r.g.) heeft een materiaal met een hexagonaal kristalrooster minder glijvlakken. Om precies te zijn treedt de afschuiving alleen op aan de (001)-vlakken, in de [100]-richting. Door het geringe aantal mogelijkheden in afschuiving, is er in hexagonale roosters dan ook meer kans op de vorming van tweelingen. Wanneer een materiaal met een kubisch rooster echter verwarmd wordt boven een bepaalde temperatuur (bij magnesium ligt dit bijvoorbeeld zo rond de 200 °C), zullen ook andere glijvlakken optreden.
+Coördinatensysteem.
+In tegenstelling tot bij kubische roosters, geeft het rekenen met drie assen bij hexagonale roosters soms problemen. Om deze problemen te ondervangen kan een vierde as aan het coördinatenstelsel worden toegevoegd. In de praktijk wordt deze vierde as door kristallografen niet echt meer gebruikt sinds de komst van geschikte rekensoftware, maar binnen sommige andere vakgebieden komt het gebruik ervan nog voor. Het coördinatenstelsel kent een z-as en drie assen (a1, a2 en a3) in het grondvlak. Deze assen zijn ten opzichte van elkaar 120 graden gedraaid.
+De n in de laatste formule is een factor die zodanig gekozen kan worden dat u, v en t tot hun kleinste gehele getallen gereduceerd kunnen worden.

@@ -1,0 +1,6 @@
+Kiesdeler.
+De kiesdeler is in een kiessysteem van evenredige vertegenwoordiging het aantal benodigde stemmen per te behalen zetel.
+Worden er bijvoorbeeld in totaal 10 miljoen geldige stemmen uitgebracht voor 150 zetels, dan is de kiesdeler gelijk aan formula_1 = 66.666formula_2. Voor elke 66.666formula_2 behaalde stemmen krijgt een partij dan 1 zetel.
+Er kunnen zetels overblijven na de verkiezingen. Deze heten restzetel en worden via een vooraf opgesteld systeem verdeeld onder de partijen.
+In Nederland is de kiesdeler tevens de facto de kiesdrempel. Een politieke partij die niet ten minste het aantal stemmen haalt benodigd voor 1 zetel, komt ook niet in aanmerking voor een restzetel.
+Ook voor het verkozen kunnen worden met voorkeurstemmen is de kiesdeler van belang. Hier volstaat echter slechts 25% van de kiesdeler.

@@ -1,0 +1,23 @@
+Vastestofchemie.
+De vastestofchemie is een onderdeel van de scheikunde dat zich bezighoudt met de synthese, chemische analyse en structuuranalyse en karakterisering van vaste stoffen.
+Het veld heeft sterke raakvlakken met de vastestoffysica, de mineralogie, kristallografie, de studie van keramiek, de metallurgie, thermodynamica, materiaalkunde en elektronica.
+Vastestofchemie is een vrij uiteenlopend gebied van onderzoek omdat vaste stoffen een vrij heterogene groep materialen zijn.
+Deelgebieden.
+De studie van oxidische materialen vormt het grootste deelgebied. De overige deelgebieden krijgen naar verhouding maar weinig aandacht.
+De aandacht voor de organische vaste stoffen wordt vooral gestimuleerd door hun mogelijke toepassingen in de (bijvoorbeeld farmaceutische) industrie.
+De studie van polymeren wordt meestal niet tot de vastestofchemie gerekend maar tot een eigen gebied, de polymeerchemie, hoewel er zeker overeenkomsten met dit vakgebied zijn.
+De meeste onderzochte vaste stoffen zijn polykristallijne poeders of brokstukken, maar er is een verschuiving in de aandacht in de richting van amorfe, glasachtige of vloeibaar kristallijne materialen te onderkennen in het vakgebied.
+Synthese.
+De synthetische methoden van de vastestofchemie zijn zo divers als de materialen zelf. Vaste stoffen worden meestal pas bij (zeer) hoge temperaturen reactief.
+Bakken.
+De meest voorkomende methode wordt wel bakken genoemd. Men verhit de uitgangsmaterialen in een oven. In het geval van oxidische materialen kan dat soms aan de open lucht gebeuren. Zo is het bijvoorbeeld mogelijk koperoxiden te synthetiseren door het metaal in een oven op hoge temperatuur houden. Voor vele interessante materialen is het echter nodig de atmosfeer waarin dit gebeurt te controleren. Dit kan ofwel door een geschikt gas door de oven te leiden ofwel in een afgesloten ampul. Een veelgebruikte methode is om in een glazen buis een vernauwing (hals) aan te brengen en de uitgangsmaterialen (bijvoorbeeld elementair koper(Cu) en Seleen (Se)) in de juiste verhouding in te brengen. De buis wordt dan vacuüm gezogen en de hals met een gasbrander afgesmolten. De afgesloten ampul wordt in een oven met een geschikte temperatuur gelegd en enige tijd, soms weken, op deze temperatuur gehouden. Na afloop wordt de buis afgekoeld en opengebroken. De inhoud -hopelijk een koperselenide in dit geval- wordt daarna geanalyseerd met de karakteriseringsmethoden die aan de vastestofchemie eigen zijn.
+Kristalvorming.
+Bij een deel van deze methoden is het doel niet slechts het synthetiseren van een nieuwe, liefst zuivere, verbinding maar het groeien van kristallen van deze verbinding. Indien namelijk een eenkristal voorhanden is, is de structuurbepaling van het materiaal een veel eenvoudiger zaak geworden.
+Röntgendiffractie.
+Een veelgebruikte methode om vast te stellen welk materiaal er uit de synthese gekomen is, is de poederdiffractie meest met röntgenstraling. Poederdiffractiepatronen zijn een soort vingerafdruk van welke fasen er in het monster aanwezig zijn. Er is een groot gegevensbestand beschikbaar om de vingerafdruk mee te vergelijken.
+Thermische analyse.
+Een andere veelgebruikte methode is thermische analyse zoals Differentiële Thermische Analyse (DTA) of Differentiële Scanning Calorimetrie (DSC). Deze technieken geven inzicht in de smeltpunten, overgangs- en ontledingstemperaturen van het materiaal en geven daarmee een belangrijke aanwijzing over de te gebruiken synthesetemperaturen.
+De eerste poging een nieuwe verbinding te maken geeft zelden het gewenste resultaat. Vaak vindt men een mengsel van al bekende materialen met wellicht ook iets nieuws. Dat laatste heeft dan vaak niet de ingewogen elementaire samenstelling en zo begint er een zoektocht naar de juiste synthetische procedure. Deze zoektocht loopt vaak uit op het vaststellen van een deel van het fasendiagram.
+Interpretatie van het poederdiffractiepatroon.
+Als de nieuwe stof eenmaal in zuivere vorm beschikbaar is, wordt er meestal geprobeerd het poederdiffractiepatroon verder te interpreteren. Uiteraard is dit diffractiepatroon nog niet in de literatuur voorhanden, aangezien het om een nieuwe stof gaat. Om het poederdiffractiepatroon te interpreteren wordt het eerst geïndiceerd, later door ofwel via het poeder, ofwel via een eenkristal (indien voorhanden) de structuur op te lossen.
+Afhankelijk van de aard van het materiaal worden er vaak ook andere karakteriseringstechnieken ingezet, die sommigen eerder het terrein van de vastestoffysica zullen vinden, zoals meting van de elektrische eigenschappen (weerstand als functie van temperatuur, Hall-effect, XPS-metingen, optische karakterisatie.

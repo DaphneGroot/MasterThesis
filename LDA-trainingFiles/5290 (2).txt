@@ -1,0 +1,5 @@
+Kilometer.
+10.000.000e deel van de helft van de lengte van een meridiaan. De in deze figuur aangeduide afstand was dus per definitie 10.000 km
+De kilometer (symbool km'") is een van het SI afgeleide eenheid van lengte, gelijk aan 1000 meter. De kilometer is sedert de invoering van het metrieke stelsel de gebruikelijke eenheid om een reisafstand over land aan te geven. Zie mijl.
+Kilometrering.
+Een positie langs een weg of spoorweg (een enkelvoudige coördinaat, geen positie in de dwarsrichting) wordt vaak aangeduid met de kilometrering, het aantal km van een basispunt. Dit wordt bij veel spoorwegen en grotere wegen getoond op hectometerpalen e.d. Zie ook Geocode (spoorlijn).

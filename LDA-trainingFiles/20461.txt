@@ -1,0 +1,12 @@
+Diesellocomotief.
+Een diesellocomotief is een locomotief die een dieselmotor als energiebron voor de aandrijving gebruikt. Dit is meteen het grootste probleem van een locomotief met een benzine- of dieselmotor als aandrijving. Het vermogen kan alleen naar die wielen gebracht worden als deze draait. Een versnellingsbak met een koppeling kan alleen bij kleine vermogens worden toegepast. Het koppel moet met behulp van een transmissie op de wielen worden gebracht. Een stoomlocomotief of een elektrische locomotief hebben dit nadeel niet.
+Benzinemotoren zijn in de jaren 30 in gebruik geweest voor kleine rangeerlocomotieven, maar dieseltractie heeft bij de spoor- en lokale tramwegen al snel de overhand genomen.
+Diesellocomotieven kunnen worden onderverdeeld naar hun overbrenging. De transmissie kan elektrisch, hydraulisch of mechanisch zijn.
+De gebruikte dieselmotoren zijn meestal viertakt. Tweetaktmotoren komen in Nederland minder voor, voorbeelden zijn de voormalige serie NS 2900, en de EMD-locomotieven van het type Class 66.
+Dieselelektrisch.
+Bij de dieselelektrische transmissie drijft de dieselmotor een generator aan, de elektriciteit wordt deels opgeslagen in een batterij waarmee de elektromotoren gevoed worden, die uiteindelijk de wielen aandrijven, en zo de trekkracht leveren. Een dieselelektrische locomotief is dus in feite een elektrische locomotief met een eigen elektriciteitscentrale.
+De meeste diesellocs van de Nederlandse Spoorwegen sinds de jaren '50 waren dieselelektrisch, zoals de series 300 (locomotor), 700, NS 2200 en NS 2400.
+Dieselhydraulisch.
+Bij een dieselhydraulische locomotief drijft de dieselmotor een hydraulische pomp aan, waardoor vloeistof onder hoge druk naar een hydromotor gevoerd wordt, die uiteindelijk de wielen aandrijft. Een hydromotor beschikt over een schoepenrad dat door de vloeistof in beweging wordt gezet. Veel diesellocs van de Deutsche Bundesbahn, zoals de V200 hadden een hydraulische overbrenging.
+Dieselmechanisch.
+Bij een mechanische transmissie is een koppeling en een versnellingsmechaniek tussen de dieselmotor en de wielas geschakeld. Deze overbrenging is slechts geschikt voor een gering vermogen. Door de getrapte regeling is het vermogen van de dieselmotor niet volledig bruikbaar. Het principe wordt weinig toegepast bij locomotieven, vanwege de complexiteit, de storingsgevoeligheid, en de grotere hoeveelheid benodigd onderhoud. De Oersik uit de serie 103 tot 152 van de NS en motorwagen MABD 1804 Kievit van de RTM hadden een mechanische overbrenging.

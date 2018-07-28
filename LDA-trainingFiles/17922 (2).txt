@@ -1,0 +1,5 @@
+Parallellogram.
+In de meetkunde is een parallellogram een vierhoek die uit twee paren van evenwijdige zijden bestaat. De driedimensionale evenknie van een parallellogram is een parallellepipedum.
+Afleiding van de formule voor de oppervlakte van een parallellogram.
+Oppervlakte van een parallellogram in het blauw
+Omdat de gele driehoek in de afbeelding rechts congruent is met de driehoek rechts in het parallellogram, is de oppervlakte van het parallellogram gelijk aan de oppervlakte "B"×"H" van de rechthoek met basis "B" en hoogte "H".

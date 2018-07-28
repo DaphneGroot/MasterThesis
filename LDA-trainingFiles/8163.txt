@@ -1,0 +1,5 @@
+Bereik (wiskunde).
+In de wiskunde is het bereik van een functie de verzameling van alle voorkomende functiewaarden. Het bereik wordt soms ook het beeld of het beeld van het domein van de functie genoemd.
+Het begrip bereik wordt ook wel gebruikt om het verschil aan te geven tussen het kleinste en het grootste element in een verzameling reële getallen.
+In tegenstelling tot het bereik is het codomein de verzameling van de van tevoren toegestane functiewaarden. Het bereik van een functie is dus een deelverzameling van het codomein van die functie. Als een functie een surjectie is, dan is het bereik van deze functie gelijk aan het codomein van deze functie.
+Wanneer de grafiek van een functie in een cartesisch coördinatenstelsel wordt getekend, wordt het bereik weergegeven op de "y"-as.

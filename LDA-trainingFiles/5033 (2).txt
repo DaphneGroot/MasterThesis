@@ -1,0 +1,6 @@
+Ångström (eenheid).
+De ångström (, symbool Å) is een eenheid van lengte, die gelijk is aan 10−10 meter (dat wil zeggen, 0,1 nanometer of 100 picometer).
+De eenheid is genoemd naar de Zweedse natuurkundige Anders Jonas Ångström.
+De eenheid wordt vaak gebruikt om de afmetingen van een atoom of molecuul uit te drukken. De straal van een atoom ligt tussen 0,25 en 3 Å.
+De ångström is geen SI-eenheid. In plaats daarvan kan men binnen het SI 0,1 nm of 100 pm gebruiken. De ångström wordt door wetenschappers echter nog wel gebruikt, omdat het handig is om hierin de afmetingen van atomen en ook van stellair stof uit te drukken. Ook wordt de ångström wel gebruikt voor de golflengte van licht, hoewel de nanometer daar ook zeer gebruikelijk is, in ieder geval in de natuurkunde.
+De HTML-code voor Å is "&amp;Aring;".

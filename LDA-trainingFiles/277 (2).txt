@@ -1,0 +1,33 @@
+Disassembler.
+Een disassembler is een programma dat computerprogramma's vertaalt van de binaire machinetaal naar voor de programmeur leesbaardere assembleercode. Het is de 'omgekeerde' bewerking van wat een assembler en linker samen doen. De terugomzetting is volledig, maar moeilijk leesbaar. Bij het assembleren of compileren zijn commentaar, symbolische adressen en betekenisvolle identifiers namelijk weggegooid en de disassembler kan die niet herstellen.
+Bovendien kost het voor de disassembler vaak moeite te zien wat instructies zijn en wat niet.
+Vergelijkbaar met een disassembler is een discompiler of decompiler die de assembleercode of machinecode weer terug probeert te vertalen in de originele hogere programmeertaal.
+Disassembleren en/of discompileren is een essentieel onderdeel van reverse engineering van software. Een voorbeeld van een commerciële disassembler is Interactive Disassembler (IDA Pro), een voorbeeld van een niet-commerciële is Ollydbg.
+Werkwijze.
+Meestal is wel bekend waar de uitvoering van een computerprogramma begint: bijvoorbeeld op adres 0.
+Daar staat dus een uitvoerbare instructie.
+Die instructie kan gedisassembleerd worden, en dan is bekend hoe lang de instructie is en waar de volgende instructie begint.
+Een eenvoudige disassembler verwerkt zo het hele programma.
+Het programma bevat echter niet alleen uitvoerbare code maar ook gegevens (data).
+De data wordt door de disassembler soms niet herkend en dus ook als uitvoerbare instructies beschouwd.
+Een ervaren programmeur kan de data meestal direct herkennen en het resultaat handmatig verbeteren.
+Komt er na de data weer uitvoerbare code, dan is er vaak een synchronisatieprobleem: De disassembler belandt ergens halverwege een instructie en ziet dus een heel andere instructie dan er had moeten staan. Na een aantal instructies wordt de synchronisatie meestal wel hersteld.
+Een betere disassembler bepaalt zelf welke delen van het programma uitvoerbaar zijn.
+Na een onvoorwaardelijke spronginstructie staat, veronderstellen we aanvankelijk, geen uitvoerbare code.
+Het doel van de spronginstructie is echter wel uitvoerbaar.
+Uiteindelijk vinden we misschien een spronginstructie die verwijst naar de gegevens die aanvankelijk als onuitvoerbaar werden beschouwd.
+Hulpmiddelen.
+Als het gedisassembleerde programma functies oproept in andere libraries, en als de namen van die functies zichtbaar zijn, kan men aan de hand van die functieoproepen de parameters lokaliseren in het datagedeelte van het oproepend programma. Dat kan dan weer inzicht geven in de gehanteerde logica van het programma, wanneer men de verdere referenties opzoekt naar de zopas ontdekte parameters.
+Problemen.
+Een computerprogramma kan echter ingewikkeld in elkaar zitten.
+Het is zelfs mogelijk dat de programmeur dingen heeft ingebouwd om het disassembleren te bemoeilijken.
+Uiteindelijk blijkt dan ook dat het werk van een disassembler (een computerprogramma) onvoldoende is en dat er hulp nodig is van een ervaren programmeur.
+Hierdoor is disassembleren uiteindelijk een zeer bewerkelijk karwei.
+Opnieuw assembleren.
+Na het disassembleren kan het resultaat met een assembler weer geassembleerd worden, en het resultaat kan dan snel vergeleken worden met het oorspronkelijke programma.
+Ze behoren aan elkaar gelijk te zijn.
+Het is echter geenszins uitgesloten dat het programma na disassembleren en weer assembleren anders is. Sommige instructies (zoals MOV AX,BX bij de i86) kunnen op twee manieren geassembleerd worden - functioneel identiek.
+Ook is het mogelijk dat de assembler een korte spronginstructie maakt terwijl er in het oorspronkelijke programma een lange spronginstructie stond.
+Deze verschillen kunnen tot gevolg hebben dat adressen veranderen met het gevolg dat het programma niet meer werkt.
+Over het algemeen zal men na het disassembleren veranderingen in het programma willen aanbrengen.
+Gaat men nu code verplaatsen, waardoor sprongadressen veranderen, dan kan dat verrassende en ongewenste resultaten opleveren als de programmeur sommige dingen verkeerd begrepen heeft

@@ -1,0 +1,7 @@
+Synchronisatiehoogte.
+De synchronisatiehoogte van een satelliet is die hoogte van een satelliet boven een planeet waarbij synchrone rotatie optreedt. Synchrone rotatie is de situatie dat de omlooptijd van de planeet om zijn as gelijk is aan de omlooptijd van de satelliet om de planeet, zodat de maan steeds dezelfde kant naar de planeet gericht houdt.
+De aarde bevindt zich op de synchronisatiehoogte van de maan, zodat we vanaf de aarde altijd dezelfde kant van de maan zien.
+Het omgekeerde is niet het geval.
+Een geostationare satelliet bevindt zich op de synchronisatiehoogte van de aarde, ongeveer 42 164 km boven het middelpunt van de aarde.
+Dit is voor telecommunicatiesatellieten van groot belang.
+Door getijde-effecten zal een satelliet die sneller om zijn as draait dan om de planeet in zijn asdraaiing worden afgeremd, en ook de planeet draait na verloop van voldoende tijd zo langzaam dat hij steeds dezelfde kant naar de satelliet keert. Op wat libratie na is dat na miljarden jaren voor het stelsel aarde-maan bijna het geval. Dan wordt de baan verder stabiel, tot die tijd verwijdert de maan zich heel langzaam van de aarde, zoals met onze Maan het geval is.

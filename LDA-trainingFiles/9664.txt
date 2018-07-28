@@ -1,0 +1,6 @@
+Hydraulica.
+Superkritische stroming op de overstort van de Cleveland dam in de Capilano rivier, Noord Vancouver district in British Columbia, Canada.
+Hydraulica is de toegepaste wetenschap die zich bezighoudt met het gedrag van stromende vloeistoffen (vloeistofdynamica), veelal met een vrij wateroppervlak zoals rivieren, meren, kanalen en zeeën. Andere woorden voor hydraulica zijn waterloopkunde en fluïdomechanica.
+Enige aspecten van de hydraulica.
+Het woord "hydraulica" is afkomstig van het Griekse woord "ὑδραυλικός" ("hydraulikos"), dat afstamt van "ὕδραυλος" ("hydraulos") hetgeen Grieks is voor waterorgel. Het woord "ὕδραυλος" (waterorgel) is samengesteld uit "ὕδωρ" (water) en "αὐλός" (fluit of pijp).
+De Navier-Stokes vergelijkingen zijn een veel gebruikte wiskundige beschrijving voor de stroming van vloeistoffen. Voor turbulente stroming is het in de praktijk onmogelijk om de Navier-Stokesvergelijkingen compleet op te lossen. Voor deze stromingen worden meestal Reynolds-gemiddelde Navier-Stokesvergelijkingen (RaNS) gebruikt.

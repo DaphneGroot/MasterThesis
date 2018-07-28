@@ -1,0 +1,17 @@
+Machtreeks.
+In de wiskunde is een machtreeks (in één variabele) een reeks van de vorm
+Daarin heet het (complexe) getal "an" de coëfficiënt van de "n"-de term.
+De machtreeks is een complexwaardige functie in de variabele "x".
+Een voorbeeld van een machtreeks is de Maclaurinreeks.
+Om die reden spreekt men soms van de machtreeks als "gecentreerd" rondom "c". Een voorbeeld van een machtreeks is de Taylorreeks van een bekende functie.
+De "convergentiestraal" van de machtreeks is de straal van de open cirkelschijf (oneindig in geval 1, nul in geval 2).
+Meetkundige reeks.
+Als alle coëfficiënten gelijk zijn aan 1, verkrijgen we een "meetkundige reeks"
+Deze is absoluut convergent dan en slechts dan als de absolute waarde van formula_6 strikt kleiner is dan 1. Het convergentiegebied
+is dus een open cirkelschijf met straal 1.
+Taylorreeksen.
+Hierbij is formula_10 de n-de afgeleide van de functie formula_8.
+De convergentiestraal van een Taylorreeks is de afstand van 0 tot de dichtstbijzijnde singulariteit van de functie "g" (met andere woorden, de absolute waarde van die singulariteit).
+Voorbeelden.
+De meetkundige reeks is de Taylorreeks van de functie formula_12. Ze heeft convergentiestraal 1 omdat er een singulariteit bij formula_13 ligt.
+De functie formula_14 is analytisch op heel de reële rechte. Haar Taylorreeks heeft echter convergentiestraal 1 omdat er singulariteiten liggen bij de imaginaire getallen formula_15 en formula_16.

@@ -1,0 +1,5 @@
+Normaliteit.
+De normaliteit (N) is een (verouderd) begrip uit de scheikunde. De eenheid van normaliteit is de normaal (N). Bij gebruik van de concentratie (in mol/l) is het ook een overbodig begrip. Maar het wordt hier en daar nog wel gebruikt.
+Een oplossing heeft een concentratie van 1 N als de opgeloste stof in een concentratie van 1 molair aanwezig is en eenwaardig is.
+Bij oxidatoren en reductoren (redox) wordt de molariteit (["A"]) vermenigvuldigd met de valentie ("q") (het aantal elektronen dat kan worden opgenomen of afgestaan).
+De normaliteit van een oplossing wordt dus bepaald door de reactie die het reagens zal uitvoeren. Als meerdere reacties mogelijk zijn is er dus onduidelijkheid. Deze onduidelijkheid is aanleiding geweest om aan het eind van de jaren 70 van de vorige eeuw deze eenheid niet meer als officiële concentratie-eenheid te erkennen. Slechts de mol/liter is als internationale eenheid voor concentratie gehandhaafd.

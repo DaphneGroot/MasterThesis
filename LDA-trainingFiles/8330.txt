@@ -1,0 +1,14 @@
+Inverse laplacetransformatie.
+De inverse laplacetransformatie is een wiskundige transformatie die van de laplacegetransformeerde van een functie de oorspronkelijke functie bepaalt. De inverse transformatie wordt gebruikt om wiskundige en technische, tijdsafhankelijke problemen op te lossen.
+Veel vraagstukken waarin differentiaal- en integraalvergelijkingen voorkomen, kunnen opgelost worden door ze eerst via de laplacetransformatie om te zetten in wiskundig eenvoudiger vergelijkingen die in veel gevallen opgelost kunnen worden via bekende algebraïsche methoden. De oplossing(en) van deze vergelijkingen worden dan naar de oorspronkelijke tijdsfunctie omgezet via een inverse laplacetransformatie.
+Definitie.
+Om de oorspronkelijke tijdsfunctie te bepalen aan de hand van bovenstaande definitie is het dus nodig om een complexe integraal te berekenen.
+Om die reden wordt in veel gevallen beroep gedaan op eenvoudiger methoden.
+Gebruik van tabellen.
+Eenvoudige beeldfuncties formula_2 kunnen door het gebruik van conversietabellen onmiddellijk omgezet worden in de gezochte tijdsfunctie formula_1. Deze tabellen zijn beschikbaar in wiskundige, natuurkundige of engineering-vademecums. Ook via het internet worden veel tabellen aangeboden. Een aantal functies kan gevonden worden via de voorbeelden in de pagina laplacetransformatie.
+Omzetting door gebruik te maken van de eigenschappen van de laplacetransformatie.
+Indien de beeldfunctie niet rechtstreeks gevonden wordt in een tabel, kan door toepassing van de eigenschappen van de laplacetransformatie de tijdsfunctie op een indirecte manier samengesteld worden.
+Partieelbreuken.
+Elke deelterm van deze bekomen functie kan via tabellen of andere methoden eenvoudig omgezet worden. De partieelbreuken-methode maakt gebruik van de lineariteitseigenschap van de laplacetransformatie.
+Combinatie van bovenstaande methodes.
+In de meeste gevallen kunnen we door een combinatie van bovenstaande methodes snel tot een oplossing komen.

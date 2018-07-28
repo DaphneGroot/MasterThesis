@@ -1,0 +1,10 @@
+Lisp (programmeertaal).
+Lisp is een functionele programmeertaal. Lisp is in 1958 ontworpen aan het MIT door John McCarthy en is na Fortran de oudste hogere programmeertaal die nog steeds in gebruik is.
+Zoals veel programmeertalen is Lisp door de jaren heen sterk veranderd, en er zijn veel dialecten en andere talen van afgeleid, zoals Scheme, Common Lisp, Emacs Lisp en AutoLISP, waardoor Lisp kan worden beschouwd als een familie van programmeertalen.
+Daarnaast zijn er veel functionele programmeertalen gekomen die niet op Lisp gebaseerd zijn, zoals OCaml, Haskell en F♯.
+Lisp is ontworpen als een manier om de lambdacalculus van Alonzo Church praktisch toe te passen.
+De naam Lisp (letterlijk: "lispelen", een spraakgebrek) staat voor LISt Processing.
+Lisp-programma's bestaan inderdaad grotendeels uit bewerkingen op lijsten en zijn zelf ook bewerkbare lijsten.
+Het bekendste toepassingsgebied voor Lisp als programmeertaal voor zelfstandige programma's is de kunstmatige intelligentie (AI). Daarnaast heeft de taal populariteit gekregen als scripttaal voor bepaalde applicaties bijvoorbeeld Emacs Lisp voor Emacs (een teksteditor) en AutoLISP voor AutoCAD (een CAD/CAM-programma).
+Lisp is feitelijk een multi-paradigmaprogrammeertaal: naast zuiver functioneel programmeren ondersteunt het door zijn toewijzingsprimitieven ook imperatief programmeren, en er zijn verscheidene bibliotheken voor objectgeoriënteerd programmeren, zoals het Common Lisp Object System (CLOS), een standaard onderdeel van Common Lisp.
+Lisp lijkt echter altijd belangrijker gebleven als taal in het programmeeronderwijs (vooral dat aan het MIT en Stanford, waar de auteur doceerde) dan als programmeertaal in de praktijk.

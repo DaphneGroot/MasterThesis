@@ -1,0 +1,19 @@
+Ambiguïteit.
+Een ambiguïteit of dubbelzinnigheid betreft de mogelijkheid om aan een tekst uiteenlopende betekenissen toe te kennen.
+Ambiguïteit is een dubbelzinnige taalconstructie. Ze kan zowel in natuurlijke talen als meer in het algemeen in alle formele talen voorkomen. Ambiguïteiten kunnen zowel in grammaticale zin voorkomen (een zinsconstructie is dubbelzinnig) als in semantieke zin (een woord heeft meerdere betekenissen). Wanneer een woord in een bepaalde taalconstructie meerdere betekenissen kan hebben wordt ook wel gesproken van equivociteit (dubbel-, meer- of veelzinnigheid). Het tegenovergestelde (een woord heeft altijd dezelfde betekenis) wordt "univociteit" (eenzinnigheid) genoemd.
+Ambiguïteiten in de semantiek.
+Vaak wordt een ambiguïteit gebruikt als stijlfiguur waarbij een tekst dan dubbelzinnigheid verkrijgt. Dit kan door het gebruik van een woord dat meerdere betekenissen kan hebben, bijvoorbeeld met een homoniem, maar ook met een zelfstandig naamwoord en een voltooid deelwoord. Het kan zelfs binnen een woord, als de zin op twee manieren kan worden gelezen. Dit komt men vaak tegen in reclame en in krantenkoppen.
+Ambiguïteiten in de logica.
+Wanneer in een argumentatie ambiguïteit bewust of onbewust leidt tot betekenisverwarring, is er sprake van een drogreden. Een bekend voorbeeld is "Ik pas in mijn jas, mijn jas past in mijn tas, dus ik pas in mijn tas", waarbij het werkwoord 'passen' in verschillende betekenissen tegelijk wordt gebruikt en zo leidt tot een onjuiste conclusie.
+Ambiguïteiten in formele grammatica's.
+In bovenstaande programmeerconstructie is het niet duidelijk bij welk "if"-constructie de "else"-constructie hoort. Bijgevolg kunnen er twee betekenissen aan de programmacode gegeven worden.
+Meestal zijn ambiguïteiten in grammatica's eenvoudig op te lossen door gebruik te maken van hulpsymbolen en/of afspraken. Zo geldt betreffende de bovenstaande programmeerconstructie dat er gelukkig in de meeste programmeertalen een harde afspraak bestaat dat een "else"-constructie op de binnenste "if"-constructie van toepassing is (de eerste "if" boven de "else") en wordt deze ook goed nageleefd.
+Oudere programmeertalen moeten het hier bij laten. Maar de meeste moderne programmeertalen kunnen optioneel haakjes gebruiken om dit probleem op te lossen. Bij sommige programmeertalen (Perl bijvoorbeeld) zijn die haakjes zelfs verplicht.
+codice_1
+codice_2
+De indentie is suggestief voor de menselijke lezer, maar wordt door de computer zelf genegeerd.
+Ambiguïteiten in de wiskunde.
+Dit is weer strijdig met een andere conventie, dus wederom ambigu; "sin² x" kan ook betekenen "de tweede afgeleide van sin(x)". Gelukkig komt deze laatste conventie niet zoveel voor in combinatie met goniometrische functies en wordt het symbool " meestal gebruikt voor de tweede afgeleide. De enige universele oplossing is echter de functiehaakjes niet weg te laten.
+Taalcomplexiteit.
+Veel ambiguïteiten in een taal zorgen voor veel extra regels in zo'n taal. Deze extra regels komen de leesbaarheid van de taal niet ten goede. Met name voor kunstmatige talen, zoals programmeertalen, geldt dat indien men zelf een taal ontwerpt, ambiguïteiten zo veel mogelijk vermeden dienen te worden.
+Natuurlijke talen laten zich minder makkelijk sturen. Bij natuurlijke talen zal de bedoelde betekenis veelal uit de context moeten blijken. Bij ambigue zinnen maakt vaak de klemtoon duidelijk wat de betekenis is.

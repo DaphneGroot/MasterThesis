@@ -1,0 +1,7 @@
+Molair volume.
+Het molaire volume (symbool: "V"m) is het volume dat ingenomen wordt door één mol van een zuivere stof. Het is voor het eerst beschreven door Avogadro, een Italiaanse scheikundige.
+Molair volume van een gas.
+Voor reële gassen ligt deze waarde bij bovenvermelde temperatuur en druk altijd in de buurt van 22 (± 0,5) dm3/mol (l/mol).)
+Het molaire volume is vrijwel onafhankelijk van het soort gas. Dit is te verklaren doordat de moleculen zich in de gasfase zo ver van elkaar bevinden, dat ze elkaar niet raken. Lichte moleculen hebben bij een bepaalde temperatuur een hogere snelheid dan zware moleculen, waardoor bij gelijke aantallen moleculen de gasdruk "p" dezelfde waarde krijgt. Hieruit kan worden afgeleid dat het volume bepaald wordt door de grote lege tussenruimtes tussen de moleculen en niet door de afmetingen van het molecuul.
+Molair volume van een vloeistof of vaste stof.
+De molaire massa is getalsmatig gelijk aan de atoommassa (in het geval de stof een chemisch element is) of molecuulmassa (in het geval van een chemische verbinding) in atomaire massa-eenheden (u) van die stof.

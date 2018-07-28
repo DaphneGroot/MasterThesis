@@ -1,0 +1,7 @@
+WordNet.
+WordNet is een semantisch lexicon voor de Engelse taal.
+Het groepeert Engelse woorden in "synsets", verzamelingen synoniemen, bevat korte definities en de verscheidene semantische relaties tussen deze synsets.
+Het doel is tweeledig: zowel het produceren van een combinatie van een woordenboek en een thesaurus die intuïtiever is, als het ondersteuning bieden voor automatische analyse van tekst en kunstmatige intelligentietoepassingen.
+De databank en de softwaretools zijn uitgebracht onder een BSD-licentie en kunnen vrij gedownload en gebruikt worden.
+De databank is ook online toegankelijk.
+EuroWordNet is een project dat als doel heeft een WordNet in verschillende Europese talen te maken.

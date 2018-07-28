@@ -1,0 +1,6 @@
+Zwerfstroom.
+Zwerfstromen zijn elektrische stromen die een andere weg nemen dan de gewenste stroomkring.
+Spoor.
+Bij geëlektrificeerde spoorwegen gaat de retourstroom niet altijd alleen via de spoorstaven terug. Soms neemt een deel van de stroom een omweg via de grond. In de grond kunnen ondergrondse leidingen door dergelijke zwerfstromen gaan corroderen. Om deze zwerfstroomcorrosie te voorkomen, worden de spoorstaven bij elektrificatie met gelijkstroom (zo veel mogelijk) geïsoleerd.
+De schade van zwerfstromen bij gelijkstroom (bijvoorbeeld in Nederland en België) is honderd maal zo groot als die van zwerfstromen bij gebruik van wisselstroom.
+De verklaring moet worden gezocht in de wet van Lenz, die ervoor zorgt dat lussen zo klein mogelijk worden gehouden. Met andere woorden: de retourstroom zal altijd dicht bij de bijbehorende voedende stroom lopen.

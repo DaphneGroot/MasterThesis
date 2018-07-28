@@ -1,0 +1,27 @@
+Proxyserver.
+Een proxyserver is een server die zich bevindt tussen de computer van een gebruiker en de computer waarop de door de gebruiker gewenste informatie staat (het Engelse woord “proxy” betekent "gevolmachtigd tussenpersoon"). Wil iemand op een computer waarop een proxyserver is ingesteld een andere computer bereiken, dan gebeurt dit niet rechtstreeks, maar via deze proxyserver. Het doel van deze tussenstap is afhankelijk van het type proxyserver.
+Typen proxyserver.
+Er zijn globaal gezien drie typen proxyservers.
+Web proxy.
+Dat is de meest voorkomende server, waarbij alle clients in een lokaal netwerk gezamenlijk via een proxyserver het internet opgaan, waarbij al het HTTP- en/of FTP-verkeer gecachet wordt, met een belangrijk snelheidsvoordeel voor de clients in het netwerk die webpagina's opvragen uit de cache (of tussenbuffer) van de proxyserver.
+Open proxy.
+Een open proxy is een proxyserver die verbindingen toestaat van clients en ze voorziet van willekeurige IP-adressen. Deze open, transparante proxy's worden bijvoorbeeld gebruikt door mensen die hun privacy om welke reden dan ook willen beschermen, of om bij een website te kunnen komen die ontoegankelijk is vanaf het netwerk waarvan zij gebruikmaken. Open proxy's kunnen ook misbruikt worden door spammers en mensen die op andere manieren misbruik maken van het internet.
+Reverse proxy.
+De proxyserver werkt hier van buiten naar binnen, dus andersom. Dit wordt ook wel "web server acceleration" genoemd. Hierbij wordt de proxyserver ingezet om de belasting vanuit het internet naar de webserver(s) gelijkmatiger te verdelen, zowel om beveiligings- als om "loadbalancing"-redenen.
+Transparante proxyserver.
+Wanneer een webaanvraag gestuurd wordt, zal de router dit doorsturen naar de proxyserver die de aanvraag verder zal afhandelen. Professionele routers hebben ondersteuning voor transparante proxyservers. Dit is ook mogelijk via een Linux-router.
+Filteren van informatie.
+Zo kan een bedrijf alle werknemers via een proxyserver met internet verbinden en voorkomen dat bepaalde webpagina's door die werknemers bekeken kunnen worden. Hierbij gaat het om het afhandelen van aanvragen van binnen naar buiten. Vaak wordt dan een internetfilterprogramma gekoppeld aan de proxyserver.
+Beveiliging.
+Bovendien kan de proxyserver als (onderdeel van) een firewall de toegang tot computers van werknemers van buitenaf bemoeilijken en zo als beveiliging gebruikt worden. Deze afhandeling van aanvragen van buiten (internet) naar binnen wordt "reverse proxy" genoemd.
+Minder IP-adressen.
+Hoewel er duizenden pc's b.v. het IP-nummer 192.168.0.2 zullen hebben, bestaan IP-nummers uit deze reeksen niet op het publieke internet.
+Betere netwerkprestaties.
+In dit geval wordt de proxyserver gebruikt als tijdelijke opslagruimte. Bezoekt persoon X een website, dan wordt een kopie van de bezochte pagina's opgeslagen op de proxyserver. Wil persoon Y daarna dezelfde website bezoeken, dan krijgt hij de eerder gemaakte kopie te zien. Bezoekt Y een nog niet door de proxyserver opgeslagen webpagina, dan wordt alsnog contact opgenomen met de eigenlijke website.
+Het voordeel van de laatste methode is dat het netwerk minder vaak contact hoeft te maken met de oorspronkelijke website. Y ontvangt het resultaat doorgaans sneller en het netwerk wordt ontlast. Het nadeel is dat de getoonde informatie mogelijk niet de meest actuele stand van zaken weergeeft.
+Veel internetproviders maken gebruik van dit type proxyserver en vragen hun klanten in hun webbrowser een proxyserver in te stellen. Op deze manier kunnen zij het gebruik van bandbreedte beperken en de snelheid van hun dienst vergroten. Of die klant ook daadwerkelijk profiteert van het gebruik van een proxyserver is afhankelijk van de omvang van de proxyserver en van het type websites dat hij bezoekt. Wijkt zijn internetgedrag sterk af van dat van andere klanten, dan is de kans dat de door hem opgevraagde website zich in de cache van de proxyserver bevindt klein en kan deze tussenstap voor hem juist een vertraging opleveren bij het bereiken van zijn doel. Wanneer de verbinding van de proxyserver met de website echter een hogere bandbreedte heeft dan de verbinding tussen proxyserver en client, kan dit alsnog een aanzienlijke snelheidswinst opleveren.
+Misbruik.
+Een zeer groot deel van de spam die tegenwoordig op het internet verstuurd wordt, maakt gebruik van open proxy's. Veelal installeren spammers ongevraagd open proxy's op computers van internetgebruikers met behulp van virussen die voor dit doel zijn ontworpen. Mensen die misbruik maken op IRC-netwerken maken ook vaak gebruik van open proxy's om hun identiteit te verhullen.
+Detectie.
+Omdat het gebruik van open proxy's veelal samenhangt met misbruik van Internetdiensten, is er een aantal manieren ontwikkeld door systeembeheerders om open proxy's te blokkeren van het gebruik van diensten. IRC-netwerken(Internet Relay Chat) zoals het blitzed network testen systemen van clients automatisch voor bekende types van open proxy's. Zo kan ook een mailserver zo geconfigureerd worden, dat deze zenders van e-mails automatisch test op open proxy's.
+Van diverse open proxy's zijn lijsten beschikbaar die op het Internet worden bijgehouden, zoals die van de DNSBL.

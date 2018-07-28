@@ -1,0 +1,23 @@
+Druk (grootheid).
+Deze bandendrukmeter meet de lucht(over)druk in een autoband in psi.
+In de natuurkunde bedoelt men met het begrip druk de drukkracht per oppervlakte-eenheid. Druk is een vorm van mechanische spanning die het tegengestelde is van rekspanning. De SI-eenheid van druk is de pascal (Pa), maar ook de bar en de atmosfeer worden soms gebruikt.
+Anders dan rekspanning is druk ook van toepassing op een medium als gas of een vloeistof; deze wordt uitgeoefend op de wanden van het vat waarin het medium zich bevindt, of op het oppervlak van een object dat zich in het medium bevindt. De druk is ook in vaste materialen altijd in alle richtingen gelijk: het is het gemiddelde van de drie axiale spanningen. De relatie tussen druk, temperatuur, volume en aantal moleculen in een gas wordt beschreven door de algemene gaswet. In een vloeistof neemt de druk onder invloed van de zwaartekracht evenredig toe met de diepte en met de dichtheid van de vloeistof. Bijvoorbeeld in water neemt de druk toe met ongeveer 1 atmosfeer voor elke 10 meter diepte.
+Definitie in formulevorm.
+Hierin staat het symbool "p" voor druk (van het Engelse woord "pressure" of het Franse "pression"). Het symbool "F" is de standaardafkorting voor kracht (van het Engelse woord "force"). Het symbool "A" staat voor oppervlakte (van het Engelse woord "area") van de vaste stof.
+Eenheden.
+De eenheid van druk (in het SI-stelsel) is de Pascal. 1 Pa = 1 N/m2. Deze eenheid is dus samengesteld uit die van kracht en uit die van oppervlakte. (Newton gedeeld door vierkante meter). Een druk van 0 Pa (absoluut) is vacuüm en de luchtdruk (op zeeniveau) is ongeveer 100.000 Pa.
+Soms zijn oudere, niet-SI-eenheden nog in gebruik, zoals millimeter kwik, meter waterkolom en atmosfeer. Een luchtdruk van 1 bar, komt overeen met 100.000 Pa. In de Verenigde Staten van Amerika zijn de "pounds per square inch" ("psi") nog zeer gangbaar, 1 psi = 6894,757 Pa.
+In de techniek wordt onderscheid gemaakt tussen overdruk- en absoluutmetingen. Om het verschil aan te geven wordt de letter "g" ("gauge") of "a" ("absolute") achter de eenheid geplaatst, zodat bijvoorbeeld 2 bara overeenkomt met 1 barg.
+Alzijdige druk.
+Op een lichaam dat is ondergedompeld in een fluïdum (gas of vloeistof) wordt altijd een 'alzijdige' (isotrope) druk uitgeoefend: doordat de moleculen waaruit het medium bestaat, van alle kanten tegen het lichaam botsen, oefenen zij per oppervlakte-eenheid van het lichaam een zekere kracht uit en dus druk.
+Voor ideale gassen wordt deze druk beschreven door de algemene gaswet. De druk van een ideaal gas is recht evenredig met de absolute temperatuur en met de stofhoeveelheid, en omgekeerd evenredig met het volume waarin het gas zich bevindt.
+Onderdruk en overdruk.
+"Onderdruk" en "overdruk" zijn relatieve begrippen, die betrekking hebben op "een drukverschil" in gassen of vloeistoffen. Het is een handige manier om uit te drukken dat de druk aan een kant van een scheiding lager is dan aan de andere kant. Soms wordt dit uitgedrukt in een getal dat als volgt wordt berekend: druk aan de ene kant min die aan de andere kant. Bij een onderdruk geeft dit een negatief getal.
+Bij onderdruk gaat het niet over een absolute druk: een absolute druk kan nooit negatief zijn, wat voor gassen logisch volgt uit de algemene gaswet.
+Aangezien gassen en vloeistoffen zich altijd verplaatsen van hoge druk naar lage druk (zwaartekracht en andere krachten buiten beschouwing gelaten), geeft een onderdruk een zuigend effect.
+Onderdruk wordt soms ook gebruikt als synoniem voor "diastolische bloeddruk". In die betekenis gaat het over een absolute druk die niets met deze betekenis te maken heeft. De tegenhanger van diastolische bloeddruk, "systolische bloeddruk", wordt dan ook wel "bovendruk" genoemd.
+Absolute Druk.
+Absolute Druk is de druk die wordt gemeten vanaf het absolute nulpunt.
+Luchtdruk.
+De atmosferische druk of luchtdruk is de druk in de lucht. Lucht is een mengsel van gassen dat de atmosfeer vormt. Op zeeniveau is de luchtdruk gemiddeld ongeveer 1 atmosfeer (omgerekend 101325 Pa).
+De luchtdruk is het gevolg van de combinatie van de zwaartekracht en de hoogte van de bovenliggende kolom lucht. Hoe meer lucht zich boven je bevindt, des te groter de luchtdruk. Hoger in de atmosfeer neemt de luchtdruk daarom af. Op de top van de hoogste berg op Aarde, Mount Everest, is de luchtdruk bijvoorbeeld maar een derde van de druk op zeeniveau.

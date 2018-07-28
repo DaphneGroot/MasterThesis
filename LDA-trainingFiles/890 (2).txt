@@ -1,0 +1,12 @@
+Programmeren (computer).
+een stukje broncode in de programmeertaal BASIC
+Programmeren is het schrijven van een computerprogramma, een concrete reeks instructies die een computer uitvoert. Dit is de taak van een softwareontwikkelaar of programmeur. Programmeren wordt in het algemeen niet direct in machinetaal gedaan, maar in een programmeertaal. De programmacode die wordt geschreven heet broncode en wordt door een assembler, compiler of interpreter omgezet in machinecode. Programmeren wordt ook wel 'coderen' genoemd.
+Overzicht.
+Met compilers die dezelfde programmeertaal naar verschillende machinetalen omzetten, wordt het mogelijk om programmatuur te schrijven die niet gebonden is aan een specifieke processor.
+Bovendien ondersteunt een programmeertaal een hoger niveau van abstractie dan machinetaal, waardoor programma's gemakkelijker te begrijpen en te wijzigen zijn.
+De omvang van programmeerwerk verschilt sterk. Veel programma's bestaan uit enkele regels broncode, die na eenmalig gebruik worden afgedankt; maar ook programma's met miljoenen regels broncode, die gedurende tientallen jaren worden gebruikt en aangepast door duizenden programmeurs, zijn niet zeldzaam.
+Ook de aard van het programmeren kan sterk uiteenlopen: verschillende soorten toepassingen vereisen verschillende soorten kennis. Zo zal een programma dat via een grafische gebruikersinterface met eindgebruikers communiceert zaken als "venster", "tekstblok", "invulbaar tekstblok", "indrukbare knop" gebruiken terwijl een programma voor statistische berekeningen ondersteuning zal bevatten voor bijvoorbeeld variantie en exponentiële distributie.
+Daarom hebben veel programmeertalen allerlei toepassingsspecifieke bibliotheken.
+Daarnaast wordt een gegeven programmeertaal vaak inherent minder geschikt geacht voor het uitdrukken van bepaalde soorten programma's, omdat de manieren van uitdrukken die de taal ondersteunt niet goed op het probleem aansluiten. Dit leidt vaak tot het ontwikkelen van nieuwe talen.
+Er bestaan dan ook duizenden verschillende programmeertalen, waarvan de meeste nog in gebruik zijnde talen aan voortdurende wijzigingen onderhevig zijn, zoals bij natuurlijke talen.
+Een programma kan ook verschillende talen combineren. Professionele softwareontwikkelaars zijn gespecialiseerd in bepaalde talen en bepaalde soorten toepassingen aangezien er zoveel programmeertalen bestaan.

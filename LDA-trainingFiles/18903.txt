@@ -1,0 +1,10 @@
+Windowmanager.
+Een windowmanager of vensterbeheerder is software die de plaatsing en het uiterlijk van vensters afhandelt in een venstersysteem. Een voorbeeld van zo'n venstersysteem is het populaire X Window System, dat vooral gebruikt wordt op Unix-achtige besturingssystemen. Er zijn ongeveer 180 windowmanagers beschikbaar voor Unix-achtige systemen.
+Vensterbeheer.
+Er bestaan ook alternatieve shells voor Windows, zoals Emerge Desktop, die de standaard Windows Verkenner-interface vervangen.
+Werking.
+Als er een windowmanager draait op X, dan wordt bepaalde interactie tussen de X-server en de client gedelegeerd naar de windowmanager. Als een nieuw venster moet worden weergegeven, dan wordt dit doorgegeven aan de windowmanager, die de beginpositie en -afmetingen van het venster bepaalt. Bovendien wordt er vaak een decoratieve rand om het venster getekend, met aan de bovenkant een titel. Deze elementen worden door de windowmanager afgehandeld in plaats van het programma. Daarom is het de windowmanager die de actie uitvoert als een gebruiker een venster verplaatst of van grootte verandert.
+Windowmanagers zijn ook verantwoordelijk voor minimalisatie en iconen. Deze bestaan niet op het X Window System core protocol-niveau. Als een gebruiker een venster minimaliseert, dan verbergt de windowmanager het venster, en laat een icoon zien in zijn plaats. Bijna alle windowmanagers ondersteunen minimalisatie.
+Hoewel het hoofddoel van windowmanagers is, zoals de naam suggereert, om vensters te beheren, bieden veel windowmanagers extra functionaliteit, zoals weergave van iconen en een achtergrondafbeelding op het bureaublad, weergave van docks, panelen en een klok en afhandeling van bepaalde toetsencombinaties.
+Compositing windowmanagers.
+Dit type windowmanager werkt bij gratie van hardware-acceleratie van de GPU in een systeem. Het maakt bepaalde speciale effecten mogelijk zoals een ronddraaiende kubus waarop vier bureaubladen geprojecteerd zijn.

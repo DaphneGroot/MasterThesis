@@ -1,0 +1,15 @@
+Punt (teken).
+Een punt wordt in de taal onder meer gebruikt als leesteken, en in de wiskunde en de informatica als symbool voor verschillende doeleinden.
+Taal.
+In de taal plaatst men een punt aan het einde van een zin om duidelijk te maken dat de zin is afgelopen. Bij een punt is het gebruikelijk om even te wachten alvorens de volgende zin te lezen. De punt aan het einde van de zin wordt gevolgd door een spatie, waarna eventueel een volgende nieuwe zin begint.
+Een of meer punten worden ook gebruikt in afkortingen (d.w.z.; a.h.w.; bv.) of om het eind van een afkorting te markeren (ds., mr., drs.). Na een punt in een afkorting komt geen extra punt om het einde van de zin aan te duiden.
+Aan het eind van een titel (niet persoonsaanduidend bedoeld, dus van een artikel, hoofdstuk, paragraaf, etc.) of tussenkopje staat nooit een einderegelpunt, ook niet als het om een zin gaat.
+De kleine letters i en j, en ook de combinatie ij zijn voorzien van een punt. Op de hoofdletter I ontbreekt de punt vaak, evenals bij de J en de IJ.
+In het Turks kan de woordbetekenis veranderen door het al dan niet gebruiken van de punt op de i.
+Getalnotatie.
+In getallenkolommen of in andere getallenreeksen waarin elk getal dezelfde opmaak moet krijgen, is het echter wel gebruikelijk om getallen met vier cijfers voor de komma een punt te geven.
+Wiskunde.
+In de wiskunde wordt de punt gebruikt
+Informatica.
+In de informatica wordt de punt vaak gebruikt om verschillende niveaus in een hiërarchische structuur van elkaar te scheiden, zoals in domeinnamen, bijvoorbeeld: nl.wikipedia.org.
+Bij bestandsnamen wordt de punt gebruikt om de naam van het bestand te scheiden van de bestandsextensie. Zo bestaat de bestandsnaam "voorbeeld.txt" uit de naam "voorbeeld" en de extensie "txt". Op UNIX-achtige besturingssystemen heeft de punt bovendien een extra functie: als ze aan het begin van een bestandsnaam wordt geplaatst, wordt het bestand een zogenaamd verborgen bestand.

@@ -1,0 +1,12 @@
+Kilowattuur.
+Een kilowattuurmeter geeft het energieverbruik in kilowattuur aan.
+Het kilowattuur (symbool kWh) is een eenheid van arbeid of, populair uitgedrukt, een hoeveelheid elektrische energie.
+Als men een machine met een vermogen van 1 kW één uur laat werken heeft men een energie van 1 kWh "verbruikt".
+kWh is geen SI-eenheid, de eenheid voor energie is namelijk joule. Een kilowattuur is gelijk aan 3.600.000 J, oftewel 3,6 MJ (megajoule). (E = P x t = 1000 watt x 3600 seconden = 3.600.000 joule.)
+Het kilowattuur wordt vaak gebruikt in bijvoorbeeld elektriciteitsrekeningen. Dit gebeurt om traditionele redenen.
+De kosten voor opwekking van 1 kWh aan elektriciteit zijn in Nederland ongeveer 4 eurocent voor een elektriciteitscentrale die wordt gestookt op aardgas of steenkool, en 5-8 eurocent, afhankelijk van de standplaats van de molen, voor windenergie (2003). De verbruikersprijs ligt echter aanzienlijk hoger vanwege de kosten van bijvoorbeeld service, stroomtransport en energiebelasting. In 2013 kost een kWh ca. 23 eurocent.
+Een gemiddeld huishouden verbruikte in Nederland in 2010 ongeveer 3.300 kWh.
+In het Vlaams gewest is het gemiddelde jaarverbruik van een doorsneegezin 3.500 kWh.
+In het Vlaams gewest bedroeg de marktprijs voor één kWh in 2011 € 0,15 (excl. btw).
+Aardgas.
+De vermelding van het verbruik van aardgas in kubieke meter komt nog voor. Bij benadering geldt dat een kubieke meter laagcalorisch aardgas 9,43 kWh aan energie oplevert bij verbranding en 10,76 kWh voor hoogcalorisch aardgas. Bij de "groothandel" en grootverbruik van aardgas wordt de samenstelling en dus ook de calorische waarde continu bepaald met gaschromatografen, de verrekening vindt hier wel in kilowattuur plaats.

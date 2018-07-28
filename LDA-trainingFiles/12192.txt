@@ -1,0 +1,21 @@
+Centrale limietstelling.
+Met centrale limietstelling worden in de kansrekening stellingen aangeduid
+over de zwakke convergentie van sommen van onderling onafhankelijke stochastische variabelen.
+De bekendste daarvan, aangeduid als de centrale limietstelling of stelling van Lindeberg-Levy, geeft aan dat de som van een groot aantal onderling onafhankelijke en gelijk verdeelde stochastische variabelen met eindige variantie bij benadering een normale verdeling heeft. De variabelen zelf behoeven daarvoor geen normale verdeling te hebben.
+Andere centrale limietstellingen zijn generalisaties hiervan. Bij sommige is de sterke voorwaarde van gelijke verdeling afgezwakt tot bijvoorbeeld de Lindeberg-conditie of de Ljapunov-conditie. Bij andere is ook de onafhankelijkheid losgelaten en is een zwakke afhankelijkheid toegestaan tussen de stochastische variabelen.
+Wat voor een som geldt, is ook van toepassing op het gemiddelde. Als de som van een aantal variabelen (bij benadering) normaal verdeeld is, is uiteraard ook hun gemiddelde (bij benadering) normaal verdeeld.
+In het algemeen wordt de centrale limietstelling gebruikt ter rechtvaardiging van het gebruik van de normale verdeling. Dit is terecht voor gemiddelden van voldoende grote aantallen.
+De centrale limietstelling.
+waarin formula_5 de verdelingsfunctie van de standaardnormale verdeling is.
+Dit betekent dat de verdeling van de de gestandaardiseerde partiële sommen
+Gelijkwaardig daarmee kan men ook zeggen dat het steekproefgemiddelde
+bij benadering normaal verdeeld is met verwachting μ en standaardafwijking formula_9.
+Bewijs.
+Het hier volgende bewijs van de stelling berust op het gebruik van karakteristieke functies. Het oorspronkelijke bewijs door Lindeberg, die nog niet over karakteristieke functies beschikte, was 21 pagina's lang.
+wat juist de karakteristieke functie van de standaardnormale verdeling is. Maar dan convergeert ook de verdeling van de gestandaardiseerde sommen naar de N(0,1)-verdeling.
+Opmerking.
+Als de X'en normaal verdeeld zijn, is er geen reden de stelling toe te passen. Elke partiële som en steekproefgemiddelde is dan exact normaal verdeeld.
+Voorbeeld (normale benadering).
+is dus bij benadering normaal verdeeld, met verwachting formula_20 en variantie formula_21.
+De exacte verdeling van formula_22 is de binomiale verdeling met parameters formula_23 en formula_24
+De centrale limietstelling laat dus zien hoe de binomiale verdeling benaderd kan worden door een normale verdeling. Dit voorbeeld is ook de inhoud van de stelling van De Moivre-Laplace waarvan het toenmalige bewijs niet stoelt op de centrale limietstelling.

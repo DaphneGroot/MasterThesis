@@ -1,0 +1,3 @@
+Isotherm.
+Een isotherm is een isolijn van constante temperatuur op een kaart.
+Isothermen worden veel gebruikt op weerkaarten om grootschalige temperatuurverdelingen aan te duiden. Ook in de thermodynamica, met name in fasediagrammen worden isothermen gebruikt.

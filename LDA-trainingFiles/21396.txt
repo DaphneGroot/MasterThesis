@@ -1,0 +1,10 @@
+Zelfinformatie.
+Zelfinformatie is de hoeveelheid informatie die kennis over (de uitkomst van) een bepaalde gebeurtenis, toevoegt aan iemands kennis. De hoeveelheid zelfinformatie wordt uitgedrukt in de eenheid van informatie, het bit en is nauw verwant met het begrip entropie (gemiddelde hoeveelheid informatie) uit de informatietheorie.
+De hoeveelheid zelfinformatie is per definitie uitsluitend afhankelijk van de kans formula_1 op die gebeurtenis. En daarbij geldt: hoe kleiner deze kans, hoe groter de zelfinformatie bij het bekend worden dat die gebeurtenis zich voor heeft gedaan.
+Verder geldt voor de zelfinformatie per definitie het volgende. Als een gebeurtenis C is samengesteld uit twee van elkaar onafhankelijke gebeurtenissen A en B, dan is de informatie bij bekend worden van C, gelijk aan de som van de informatie bij het bekend worden van gebeurtenis A en gebeurtenis B afzonderlijk.
+Rekening houdend met deze randvoorwaarden heeft men de zelfinformatie formula_2 die behoort bij een gebeurtenis A met kans formula_1 gedefinieerd als: formula_4. Door deze definitie, waarin gebruik wordt gemaakt van de logaritmefunctie, is voldaan aan bovengenoemde randvoorwaarden.
+Voorbeelden.
+Bij opgooien van een munt is de kans op 'kop' 0,5. Wanneer bekend wordt dat er 'kop' gegooid is, levert dat
+Bij opgooien van een dobbelsteen is de kans op 'vier' 1/6. Wanneer bekend wordt dat er 'vier' gegooid is, is de hoeveelheid zelfinformatie
+Bij het onafhankelijk van elkaar opgooien van 2 dobbelstenen is de informatie bij bekend worden van gelijk aan 1/6 * 1/6 = 1/36
+Deze uitkomst is gelijk aan de som van de zelfinformaties behorend bij en bij; namelijk: 2,585 + 2,585 = 5,170 bit.

@@ -1,0 +1,25 @@
+Bioluminescentie.
+De "Lampyris noctiluca", een luminescerende glimworm.
+Een voorbeeld van een luminescerende zwammensoort "(Omphalotus nidiformis)". De zwam geeft een groenachtig licht af in het donker.
+Bioluminescentie is het uitstralen van licht door organismen, een vorm van chemoluminescentie. Het komt voor bij bepaalde bacteriën, maar is ook wijdverbreid bij diepzeebewoners zoals vissen en vooral bij ongewervelden, zoals inktvissen, kwallen, koralen en plankton. Op het land kunnen verschillende schimmels en insecten licht geven.
+Hogere organismen gebruiken veelal symbiotisch levende bacteriën in speciale organen om licht te produceren. Een bekend voorbeeld is de zeevonk ("Noctiluca scintillans"), die verantwoordelijk is voor het lichten van de zee.
+Voorbeelden.
+Een bekend voorbeeld van een bioluminescerend organisme is de vuurvlieg, maar ook bacteriën, honingzwammen (geslacht "Armillaria") en naar schatting 90% van de diepzeedieren zijn in staat bioluminescentie op te wekken. Van deze dieren produceren lichaamscellen licht of infrarood. Deze elektromagnetische straling is niet altijd zichtbaar voor het menselijke blote oog. De bioluminescentie van een bepaald organisme is uniek in golflengte, duur, tijdsplanning en regulatie van licht. De meeste diepzeedieren produceren blauw of groen licht, omdat straling van deze kleuren het verst doordringt in het water.
+Werking.
+De kleur van het licht is hierbij afhankelijk van het luciferase-enzym.
+Deze reactie is erg efficiënt. Bijna alle energie die vrijkomt wordt omgezet in licht.
+Functie.
+Volgens de belangrijkste theorieën over bioluminescentie zijn de functies ervan: camouflage, aantrekking, afstoting en communicatie.
+Camouflage.
+Diepzeedieren zenden vooral licht uit om onzichtbaar te worden. Dat is paradoxaal, maar wanneer zij geen licht uit zouden zenden, zouden zij van onderaf gezien als een donkere vlek zichtbaar zijn. De dieren zouden dan het licht van de zon, maan of sterren tegenhouden. Doordat zij echter zelf licht uitzenden, is er geen donkere vlek meer te zien, dus kan het dier niet gezien worden door predatoren.
+Aantrekking.
+Verschillende diepzeedieren gebruiken bioluminescentie als lokaas voor een prooi. Er is bijvoorbeeld een bepaald soort haai waarvan een plekje op de buik licht geeft. Dit licht wekt bij redelijk grote vissen de indruk dat er een klein visje zwemt. Wanneer deze dit ‘visje’ probeert op te eten, grijpt de haai zijn kans om de aangetrokken vis op te eten.
+Andere dieren gebruiken bioluminescentie om soortgenoten aan te trekken. De glimworm bijvoorbeeld gebruikt periodieke lichtflitsen in het paarseizoen, die een gecodeerde boodschap vormen. Het mannetje zendt lichtsignalen uit in een bepaald (eigen) knipperpatroon, als uitnodiging aan een vrouwtje. Wanneer zij daarop in wil gaan reageert ze met een niet-knipperend lichtsignaal.
+Afstoting.
+Ook wordt bioluminescentie gebruikt om andere dieren mee af te schrikken. Sommige inktvissen en kleine schaaldieren gebruiken het door een wolk chemoluminescente stoffen in het water te spuiten. Hierdoor raakt de predator in verwarring en wordt deze afgeschrikt. De inktvis of het schaaldiertje kan zich in veiligheid brengen.
+Een andere vorm van afstoting is het gebruik van bioluminescentie om grotere roofdieren aan te trekken. Wanneer bijvoorbeeld een zeediertje bedreigd wordt door een roofdier, zendt het bedreigde dier heel korte lichtflitsen uit. Daardoor worden grotere roofdieren aangetrokken, die het eerste roofdier verjagen.
+Communicatie.
+Aangenomen wordt dat bioluminescentie een directe rol speelt in de communicatie tussen bacteriën. Wellicht speelt het bijvoorbeeld een rol in het ontstaan van kolonies.
+Men vermoedt dat bij dieren feromonen een rol spelen bij de langeafstandscommunicatie en bioluminescentie bij de korteafstandscommunicatie. Feromonen worden gebruikt om de locatie van het doelwit op verre afstand ongeveer te kunnen bepalen. Vervolgens wordt bioluminescentie gebruikt om de precieze locatie van het doelwit te bepalen wanneer het dier dichterbij is.
+Biotechnologie.
+Bioluminescentie is een veelgebruikt hulpmiddel in het wetenschappelijk onderzoek. Het gen dat codeert voor het enzym luciferase kan via genetische modificatie in een gewenst celtype of organisme worden ingebouwd en zo functioneren als een reportergen. Na toediening van het substraat luciferine zullen de cellen die luciferase produceren licht gaan uitstralen. De bioluminescentie kan met speciale apparatuur gedetecteerd, gemeten of in beeld gebracht worden.

@@ -1,0 +1,14 @@
+DMFC.
+"Direct Methanol Fuel Cell" (DMFC) is een brandstofcel werkend met methanol als brandstof. Het ionentransport vindt plaats met behulp van oxide-ionen (O2- ionen), de katalysator voor de ionisatie van het waterstof is onbekend. De DMFC gebruikt een "polymer electrolyte membrane", als in "Proton Exchange Membrane Fuel Cells (PEM FC).
+De DMFC wordt gevoed met 25% methanol in water, in plaats van met waterstof. Methanol (CH3OH) is een waterstofrijke vloeistof met 1 koolstof (C)atoom, vier waterstofatomen (H) waarvan 1 deel uitmaakt van de hydroxyl-groep (OH. De methanol/water oplossing wordt aangeboden aan de anode (-) kant van de cel, en zuurstof aan de kathode (+) kant.
+Omdat er water wordt verbruikt aan de anodekant in de cel, is de standaard DMFC niet geschikt voor pure methanol. De noodzaak van waterbijmenging verlaagt de energetische waarde van de brandstof.
+Efficiëntie.
+DMFC's hebben een efficiëntie van ongeveer 40% en werken bij een temperatuur van 60-130°C.
+Opslag.
+De opslag van methanol als vloeistof is eenvoudiger dan de opslag van waterstof dat onder hoge druk opgeslagen moet worden. Ook de energetische waarde van methanol als vloeistof is hoger dan waterstof onder hoge druk.
+Toepassing.
+De DMFC is zeer gelimiteerd in de elektrische spanning die geleverd kan worden, maar is goed in de opslag van veel energie in een kleine ruimte, waardoor ze lage voltages kunnen leveren over een langere termijn, wat ze zeer geschikt maakt voor mobiele apparaten zoals notebooks en mobiele telefoons.
+Risico.
+Methanol is een vluchtige stof, een giftige alcohol die in alle verhoudingen mengbaar is met water. Het drinken van 1 liter 7% methanol in water kan dodelijk zijn. De huidige mobiele systemen uitgevoerd met een tankje om de methanol op te slaan om daarmee het risico te verkleinen. Prototype-cellen gaan vooralsnog uit van vervangbare wegwerptankjes in plaats van navullen, wat wellicht meer met de winstmarge dan met veiligheidsoverwegingen te maken heeft. Een navulsysteem zou voor de gebruiker nagenoeg kosteloos zijn ten opzichte van batterijen of tankjes - methanol is per liter (of per ton) voor een gering bedrag op de open markt te koop.
+Doorbraak.
+2005, door gebruik van nieuwe technieken van Toshiba, is er nu een DMFC in de grootte van 22 x 56 x 4.5 millimeter, met een output van 100 milliwatt en 10 uur per milliliter pure methanol (99.5%) als brandstof.

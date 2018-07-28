@@ -1,0 +1,5 @@
+TurboBASIC.
+De programmeertaal TurboBASIC werd in 1987 door de firma Borland op de markt gebracht na de succesvolle introductie van TurboPascal. TurboBASIC was hoofdzakelijk ontworpen door de Amerikaan Robert Zale.
+TurboBASIC bood als eerste product een volwaardige BASIC-compiler die op een PC programma's kon compileren tot kleine en snelle applicaties. Tot die tijd was men aangewezen op producten als GW-BASIC, een langzame interpreter.
+Hoewel in de eerste jaren na introductie het product een grote vlucht nam, viel de ontwikkeling bij Borland stil, aangezien men zich daar wilde richten op de talen TurboPascal en TurboC.
+In 1991 kocht ontwikkelaar Robert Zale de rechten van TurboBASIC om de compiler verder te ontwikkelen. Vanwege merkenrecht bedong Borland wel dat het prefix "Turbo" niet meer gebruikt mocht worden. Daarom is de opvolger van TurboBASIC uiteindelijk in 1991 uitgekomen onder de naam PowerBASIC.

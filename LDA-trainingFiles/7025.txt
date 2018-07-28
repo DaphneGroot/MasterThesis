@@ -1,0 +1,3 @@
+OSCAR (protocol).
+OSCAR is het instant messaging-protocol van AOL. Het staat voor Open System for CommunicAtion in Realtime (Nederlands: Open systeem voor realtimecommunicatie). OSCAR wordt gebruikt in ICQ en AIM.
+Ondanks de naam zijn de specificaties van het protocol verre van vrij beschikbaar. AOL ging erg ver om te voorkomen dat anderen er details over te weten kwamen en zo compatibele clients zouden maken. Grote delen van de protocolspecificatie zijn nu echter bekend dankzij reverse-engineering. Het aantal OSCAR-compatibele programma's vertoont dan ook een stijgende lijn, tot ongenoegen van AOL. In 2008 werd er officiële documentatie over het OSCAR-protocol beschikbaar gesteld.

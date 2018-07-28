@@ -1,0 +1,4 @@
+Adventure (spelgenre).
+Mystery House, een vroeg adventurespel uit 1980
+Een adventure (Nederlands: "avontuur") is een computerspelgenre, waarbij de speler een persoon bestuurt, locaties bezoekt en voorwerpen manipuleert. Hoofdzaak bij dit type computerspel is niet het hebben van een snel reactievermogen, maar het kunnen oplossen van problemen waarvoor juist vaak de tijd genomen kan worden.
+De eerste adventures bestonden volledig uit tekst en worden tekstadventures (of interactieve fictie) genoemd. Bekende tekstadventures zijn onder andere "ADVENT" (de allereerste), de adventures van Scott Adams (onder andere "Adventureland") en die van Infocom (onder andere "Zork").

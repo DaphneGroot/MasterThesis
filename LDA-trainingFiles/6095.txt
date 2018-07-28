@@ -1,0 +1,3 @@
+PL/1.
+PL/1 of PL/I, de afkorting van Programming Language 1, is een programmeertaal die door IBM is ontworpen en wordt ondersteund op haar mainframes. Het was de bedoeling om COBOL uit de zakenwereld en FORTRAN uit de wetenschappelijke wereld samen te brengen. Intern gebruikt(e) IBM een aanverwante taal (PL/S) voor het ontwikkelen van haar mainframe-systeemsoftware.
+De scripttaal Rexx heeft een aan PL/1 verwante syntaxis, maar zonder de strikte datatypes die PL/1 wel heeft.

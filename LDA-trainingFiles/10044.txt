@@ -1,0 +1,5 @@
+Insteekkaart.
+Een insteekkaart wordt in een computer geplaatst.
+Een insteekkaart zorgt in samenwerking met de andere elektronica voor een functionele uitbreiding van een computer.
+Computers en andere elektronische apparatuur worden vaak uit modules opgebouwd. Met insteek- of uitbreidingskaarten kan makkelijk specifieke functionaliteit aan een computersysteem toegevoegd worden, of vervangen wanneer de capaciteit onvoldoende is.
+Vaak is er naast de hardware van de insteekkaart ook nog extra software nodig in de vorm van een stuurprogramma en/of applicatie.

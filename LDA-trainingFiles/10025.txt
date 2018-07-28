@@ -1,0 +1,9 @@
+Andrew Wiles.
+Andrew John Wiles (Cambridge, 11 april 1953) is een Britse wiskundige die bekend is geworden doordat hij het bewijs construeerde van de laatste stelling van Fermat.
+Andrew Wiles maakte het tot zijn levenswerk om de laatste stelling van Fermat te bewijzen. De laatste stelling van Fermat is de stelling in de getaltheorie die stelt dat de vergelijking
+voor n > 2 geen oplossingen heeft voor positieve gehele getallen. Voor n = 2 is het wel mogelijk oplossingen te vinden, de zogenaamde Pythagoreïsche drietallen, zoals in
+Zeven jaar lang heeft Wiles in isolement gewerkt aan dit bewijs en in 1993 presenteerde hij het resultaat voor een zaal vol wiskundigen aan het Isaac Newton-instituut in Cambridge.Bij controle onder regie van het wiskundig tijdschrift Inventiones Mathematicae bleek in de bewijsvoering echter een fout te zitten.
+Samen met Richard Taylor besloot Wiles het bewijs te corrigeren en op 19 september 1994 kwam de doorbraak: het bewijs werd geleverd. Het meer dan 100 pagina's tellende bewijs werd in mei 1995 in de "Annals of Mathematics" gepubliceerd.
+Prijzen.
+Naast de Wolfskehl-geldprijs, die in 1908 was uitgeloofd voor degene die de stelling zou bewijzen, ontving Wiles de Rolf Schock-prijs van de "Kungliga Vetenskapsakademien" (Stockholm) en de Prix Fermat van de Université Paul Sabatier. Daarnaast kreeg hij in 1998 een speciale vermelding bij de uitreiking van de Fields-medaille, hoewel hij toen al boven de leeftijdsgrens van 40 jaar zat.
+In 2016 kreeg hij de Abelprijs toegekend voor de oplossing die hij vond voor de Laatste stelling van Fermat.

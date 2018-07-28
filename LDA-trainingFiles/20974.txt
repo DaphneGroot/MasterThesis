@@ -1,0 +1,6 @@
+SourceMage.
+SourceMage is een Linuxdistributie die erg minimalistisch is in haar opzet: er worden zo weinig mogelijk pakketten meegeleverd met de standaard installatie-cd. Deze moet men zelf binnenhalen in de installatie en ze worden van de originele webpagina afgehaald. Er bestaat dus geen centrale databank waar de pakketten voor in SourceMage bewaard worden, waardoor het systeem van de gebruiker altijd wordt bijgewerkt.
+De laatste versie is 0.15.2 en verscheen op 27 augustus 2012. Deze versie is beschikbaar voor i386, i486, i586, i686 en PowerPC.
+Pakketbeheer.
+Het binnenhalen, compileren en installeren van de programmatuur gaat via "sorcery", een verzameling shellscripts die uniek is voor SourceMage en grote gelijkenissen heeft met programma's als apt-get in Debian, yum in Fedora en emerge in Gentoo.
+Door de configuratie zo veel mogelijk aan de gebruiker over te laten, beschikt de gebruiker over een grote vrijheid en een grondige systeemkennis.

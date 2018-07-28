@@ -1,0 +1,13 @@
+Diffractie.
+Diffractie is het afbuigen van een golf langs een ondoordringbaar obstakel. Meestal gaat het om de zijdelingse verbreding door interferentie van een golf die een opening in een ondoordringbaar scherm passeert.
+Gevolg van golfvoortplanting.
+Diffractie is een kenmerkend effect van golfvoortplanting: bijvoorbeeld geluidsgolven, lichtgolven en andere elektromagnetische golven (röntgendiffractie), en deeltjesgolven zoals elektronen (elektronendiffractie), neutronen (neutronendiffractie) en atomen. Het is waarneembaar als de afmetingen van de obstakels niet groot zijn ten opzichte van de golflengte. De afbeelding toont twee relatief nauwe spleten in een scherm, waarachter de golven alle richtingen op buigen.
+Naarmate de openingen breder zijn, kan de golfvoortplanting steeds beter met stralentheorie beschreven worden, zodat we spreken van geometrische optica.
+Toepassing.
+De kleuren die verschijnen als gebundeld licht op een CD valt worden ook veroorzaakt door diffractie: een CD gedraagt zich als een reflectietralie.
+De afbeeldingsscherpte van een optisch systeem zoals een objectief of een telescoop wordt wegens de eindigheid van de golflengte altijd door diffractie begrensd. Zie hiervoor ook het artikel over de Airy-schijf.
+Theorie.
+Een algemene, 'strenge' diffractietheorie werd opgezet door Augustin Jean Fresnel. Die theorie maakt gebruik van de Fresnelintegraal. Deze strenge theorie is sindsdien aanzienlijk uitgewerkt, waaraan meestal zeer gecompliceerde wiskunde te pas komt.
+Bij buiging binnen afmetingen die groot zijn ten opzichte van de Rayleighafstand is de eenvoudiger theorie van Joseph von Fraunhofer toepasbaar. Deze maakt gebruik van de fouriertransformatie in een tweedimensionaal afbeeldingsvlak.
+Fresneldiffractie, fraunhoferdiffractie.
+Als de invallende lichtbundel divergeert, dat wil zeggen vanuit een nabijgelegen bron komt, spreekt men van "fresneldiffractie". Komt het licht van een ver weg gelegen bron, zodat de bundel evenwijdig is, dan spreekt men van "fraunhoferdiffractie".

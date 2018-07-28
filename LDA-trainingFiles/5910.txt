@@ -1,0 +1,4 @@
+Epimeer.
+Twee chemische verbindingen zijn epimeren als ze diastereomeren van elkaar zijn, en in precies één asymmetrisch koolstofatoom de configuratie omgekeerd is.
+De term epimeer wordt vooral gebruikt in de suikerchemie.
+Bijvoorbeeld de monosachariden D-mannose en D-galactose zijn de twee natuurlijk voorkomende epimeren van D-glucose. D-mannose verschilt van D-glucose in de configuratie rond C nummer 2, D-galactose verschilt van D-glucose in de configuratie rond C nummer 4. D-galactose en D-mannose zijn geen epimeren van elkaar: ze verschillen in 2 configuraties.

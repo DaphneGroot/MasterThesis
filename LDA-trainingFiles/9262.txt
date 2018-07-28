@@ -1,0 +1,9 @@
+Vermogen (natuurkunde).
+Vermogen is een natuurkundige grootheid voor de energie (arbeid) per tijdseenheid. De SI-eenheid voor vermogen is de watt. Men leest dan ook vaak het formeel onjuiste wattage in plaats van het officieel correcte vermogen.
+Een andere bekende, maar verouderde, eenheid voor vermogen is de paardenkracht. Dat is oorspronkelijk het vermogen benodigd om een massa van 75 kg omhoog te trekken met een snelheid van een meter per seconde. Dit vermogen varieert met de zwaartekrachtversnelling, en dus met de plaats op aarde. Meestal rekent men een pk als 736 watt.
+Hydraulica.
+In de hydraulica wordt mechanisch vermogen omgezet in hydraulisch vermogen (pomp) en andersom (motor).
+Wisselspanning.
+Bij wisselspanning onderscheidt men verschillende soorten elektrisch vermogen: het complexe vermogen, het actieve of effectieve vermogen, het reactieve vermogen en het schijnbare vermogen.
+Reactief vermogen (blindvermogen).
+De stroom die gemoeid is met het blindvermogen heet ook wel "blindstroom".

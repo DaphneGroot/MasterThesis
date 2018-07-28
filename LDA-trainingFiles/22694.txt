@@ -1,0 +1,8 @@
+Lorem ipsum.
+Een overzicht van de meest gebruikte lettertypes in Windows, waarbij gebruik wordt gemaakt van "Lorem Ipsum"
+"Lorem ipsum" is een opvultekst die drukkers, zetters, grafisch ontwerpers en dergelijken gebruiken om te kijken hoe een lay-out er grafisch uitziet.
+Oorsprong.
+[32]..., neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.
+Lorem ipsum is een deel van dolorem ipsum, wat "pijn zelf" betekent. In de Loeb Classical Library editie van De Finibus uit 1914 eindigt de tekst op pagina 34 met "Neque porro quisquam est qui do-" en start op pagina 36 met "lorem ipsum". Dat suggereert dat de laatste pagina daarvan het begin van de opvultekst is.
+Huidig gebruik.
+Het Lorem ipsum is voornamelijk bekend omdat (een versie van) de tekst in verschillende grafische programma's of tekstverwerkers is ingebed. Van deze tekst bestaan talloze varianten, die enkel de eerste zinsnede of de opzet ervan gemeen hebben.

@@ -1,0 +1,9 @@
+Cd-r.
+Een cd-r (compact disc-recordable) is een variant van de compact disc, uitgevonden door Philips en Sony. De cd-r is een optische schijf met de eigenschap write once read many (WORM), dat wil zeggen eenmalig te beschrijven en vele malen te lezen. Dit in tegenstelling tot de cd-rw, die steeds opnieuw beschreven kan worden. Dit beschrijven kan met een cd-brander.
+Geschiedenis.
+De specificaties van de cd-r waren voor het eerst gepubliceerd door Philips en Sony in het 'orange book'. De cd-r werd daar nog aangeduid met cd write-once (WO).
+Een gebrande cd-r is (in theorie) volledig compatibel met de Audio-cd-standaarden, waarvan de specificaties beschreven staan in de 'red book' en met de cd-romstandaarden, waarvan de specificaties beschreven staan in de 'yellow book'. Soms kan het voorkomen dat hardware gebaseerd op de Audio-cd-specificaties niet goed een cd-r kan lezen.
+Snelheden.
+Hieronder staat een tabel met informatie over de snelheden van het branden van een cd-r.
+(noot) Bij hogere brandsnelheden wordt er relatief meer tijd gebruikt voor het indelen van bestanden en nummers. Hierdoor duurt het brandproces langer dan in theorie mogelijk is.
+Ook wordt er bij brandsnelheden van boven de 20X gebruikgemaakt van het "Zoned-CLV"-principe. Dit principe houdt in dat de maximumsnelheid alleen bereikt wordt aan de buitenste randen van de cd-r. Met dit principe is geen rekening gehouden in de bovenstaande tabel.

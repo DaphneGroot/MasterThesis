@@ -1,0 +1,18 @@
+Interval (muziek).
+In de muziek is een interval de muzikale afstand tussen twee tonen. Men onderscheidt harmonische intervallen waarvan de tonen gelijktijdig klinken en melodische intervallen waarvan de tonen na elkaar klinken.
+Het verschijnsel interval ligt aan de basis van alle samenklanken. Door de klankeigenschappen treedt het harmonische interval meer naar voren als eenheid dan de afzonderlijke tonen. Het vraagt daarom oefening de afzonderlijke tonen te kunnen onderscheiden: het ongeoefende oor hoort een (tezamen gespeeld) interval als één klank, niet als twee afzonderlijke. Over de achtergronden en specifieke eigenschappen van de intervallen schreef Paul Hindemith uitgebreid in zijn "Unterweisung im Tonsatz" (deel 1), waarbij hij ook de intervallen in een reeks zette die geleidelijk van consonant naar dissonant loopt.
+Naamgeving.
+"De toonladder van C majeur met de stamtonen" c, d, e, f, g, a, b, c
+Ook kan deze afstand worden weergegeven in cents of in een frequentieverhouding.
+Moderne naamgeving.
+Bij de traditionele naamgeving gebruikt men de: prime, secunde, terts, kwart, kwint, sext, septiem, octaaf, none, decime, undecime, duodecime, tredecime enzovoort. Om in de diatoniek toch precies aan te geven hoe groot het interval is wordt daaraan nog toegevoegd de aanduiding klein, groot, rein, (dubbel)verminderd of (dubbel)overmatig. Alleen de prime, de kwart, kwint en de octaafvergrotingen daarvan kunnen rein zijn, maar nooit groot of klein. Alle andere intervallen kunnen wel groot of klein zijn, maar niet rein.
+De naam van een interval is altijd gebaseerd op het interval tussen de stamtonen waarvan beide tonen zijn afgeleid. Twee verschillende intervallen kunnen dus enharmonisch gelijk aan elkaar zijn (bijvoorbeeld een grote terts zoals c-e en een verminderde kwart zoals c-fes), maar omdat ze niet dezelfde stamtonen hebben, worden beide intervallen niet met dezelfde naam aangeduid.
+Middeleeuwse naamgeving.
+In de Middeleeuwen hanteerde men afwijkende naamgeving voor de intervallen. Deze naamgeving was afgeleid van het Latijn. Opvallend is dat de naamgeving van de intervallen na de kwint zijn afgeleid van de intervalnamen van prime tot kwint. Dit heeft te maken met het feit dat op de kwint een nieuw tetrachord werd geplaatst.
+Enkelvoudige en samengestelde intervallen.
+De intervallen die niet groter zijn dan een octaaf heten "enkelvoudige" intervallen. Het zijn de prime tot en met het octaaf. Intervallen hoger dan het octaaf bestaan uit een enkelvoudig interval vermeerderd met een of meer octaven. Ze heten "samengestelde" intervallen.
+Omkering (inversie) van intervallen.
+Intervallen kunnen ook worden omgekeerd. Dat gebeurt altijd in het octaaf: het omgekeerde van een terts is een sext; het omgekeerde van een prime is een octaaf; enzovoorts. Wanneer men een rein interval omkeert, blijft het rein, groot wordt klein en klein wordt groot. De omkering van bijvoorbeeld een kleine terts is een grote sext. Twee intervallen die elkaars omkering zijn en zodoende samen een octaaf vormen noemt men complementaire intervallen.
+Consonantie en dissonantie.
+De muziektheorie maakt onderscheid tussen dissonante intervallen, en consonante intervallen.
+Hierbij dient te worden opgemerkt dat wat 'consonant' is en wat 'dissonant' is in de loop der eeuwen nogal gewijzigd is, en dat de perceptie van 'welluidendheid' of consonantie in diverse culturen verschillend ervaren wordt. Zo was bijvoorbeeld de grote terts in vroeger tijden een dissonant ervaren interval. Tegenwoordig worden ook de 'dissonante' intervallen niet altijd meer als zodanig ervaren. In de jazz bijvoorbeeld wordt ook veelvuldig gebruikgemaakt van de dissonante intervallen zonder dat men deze als dissonant ervaart.

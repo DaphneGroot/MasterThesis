@@ -1,0 +1,5 @@
+Universal Description Discovery and Integration.
+Universal Description, Discovery and Integration, kortweg UDDI, is een op XML gebaseerd register voor bedrijven (wereldwijd), waarmee het mogelijk is voor deze bedrijven om zichzelf en de diensten (webservices) die ze leveren, via het Internet te presenteren. Het uiteindelijke doel is het stroomlijnen van online transacties door het voor bedrijven mogelijk te maken elkaar te vinden, en om hun systemen te kunnen laten samenwerken. Dit laatste wordt echter niet door UDDI ondersteund, daarvoor bestaan andere protocollen.
+UDDI wordt wel beschouwd als een combinatie van telefoonboek en gouden gids: zoeken op bedrijf, product, dienst en locatie is mogelijk. UDDI wordt ondersteund door veel belangrijke spelers in de ICT-industrie. Het is ontwikkeld door IBM, Microsoft en Ariba.
+Categorieën.
+UDDI bestaat uit drie categorieën die ook weleens de 'colored pages' (gekleurde pagina's) worden genoemd.

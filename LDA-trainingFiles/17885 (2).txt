@@ -1,0 +1,5 @@
+Boltzmannweegfactor.
+De Boltzmannweegfactor of Boltzmannfactor wordt gedefinieerd als
+formula_1
+met "E" de energie per molecuul, "k" de Boltzmannconstante en "T" de absolute temperatuur.
+Bij hoge temperaturen of zeer lage energieën gaat de exponent naar nul en is de weegfactor 1. Bij lage temperatuur en hoge energie is de weegfactor kleiner dan 1. In de statistische thermodynamica wordt dit gebruikt om bepaalde configuraties van moleculen te wegen, waardoor een gemiddelde eigenschap van een grote hoeveelheid van moleculen kan worden berekend.

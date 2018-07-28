@@ -1,0 +1,5 @@
+Stator.
+Stator van een driefasen draaistroommachineDe stator is het stilstaand gedeelte van een elektromotor of generator. De stator is samengesteld uit een weekijzeren kern, met daaromheen de wikkelingen voor het opwekken van het magnetisch veld.
+De weekijzeren kern bestaat uit geperforeerde zacht ijzeren plaatjes die ten opzichte van elkaar geïsoleerd zijn. Als men de kern uit één geheel zou maken zou het rendement van de motor minder goed zijn omdat er dan veel wervelstroomverliezen zouden zijn. Het opbouwen van een kern uit platen noemt men lamelleren.
+De plaatjes worden gestapeld in de vorm van een holle cilinder, met aan de binnenzijde uitsparingen voor de wikkelingen. Het aantal uitsparingen varieert afhankelijk van het gewenste aantal polen van de motor.
+Bij een driefasenmachine wordt aan de statorwikkeling de driefasenspanning aangesloten.
