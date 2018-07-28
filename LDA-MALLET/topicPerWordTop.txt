@@ -1,0 +1,200 @@
+0	('russische', 1713) ('rusland', 1544) ('sovjet-unie', 790) ('moskou', 661) ('russisch', 658) ('zweden', 549) ('stalin', 429) ('russen', 423) ('denemarken', 365) ('zweedse', 353) ('lenin', 319) ('oekraïne', 297) ('tsaar', 286) ('polen', 267) ('litouwen', 265) ('sint-petersburg', 247) ('deense', 243) ('finland', 235) ('noorwegen', 231) ('bakoenin', 225)
+
+1	('opening', 444) ('schaken', 410) ('schaker', 394) ('won', 336) ('spelen', 318) ('gambiet', 308) ('variant', 306) ('speelde', 285) ('gespeeld', 244) ('zet', 240) ('zwart', 235) ('zetten', 231) ('toernooi', 201) ('kampioen', 197) ('partij', 187) ('partijen', 185) ('kampioenschap', 177) ('wit', 172) ('grootmeester', 165) ('open', 165)
+
+10	('windows', 954) ('versie', 820) ('software', 819) ('computer', 727) ('gebruikt', 712) ('microsoft', 700) ('programma', 520) ('internet', 470) ('gebruik', 395) ('computers', 389) ('besturingssysteem', 388) ("programma's", 363) ('beschikbaar', 331) ('gebruiker', 289) ('standaard', 287) ('gegevens', 287) ('naam', 286) ('ontwikkeld', 274) ('ibm', 272) ('maken', 262)
+
+11	('belgische', 1887) ('belgië', 1837) ('vlaamse', 1787) ('brussel', 1383) ('vlaanderen', 1276) ('antwerpen', 1132) ('gent', 856) ('vlaams', 751) ('brugge', 607) ('gewest', 490) ('brusselse', 396) ('leuven', 327) ('belgisch', 315) ('oostende', 309) ('brussels', 307) ('franstalige', 277) ('waalse', 273) ('frans', 266) ('gemeenten', 262) ('luik', 241)
+
+12	('groningen', 1585) ('gemeente', 1175) ('dorp', 1135) ('friesland', 726) ('friese', 721) ('provincie', 575) ('drenthe', 450) ('naam', 441) ('zwolle', 400) ('twente', 397) ('leeuwarden', 387) ('fries', 365) ('nederland', 332) ('enschede', 324) ('hengelo', 313) ('kerk', 292) ('deel', 290) ('nederlandse', 286) ('overijssel', 258) ('voormalige', 254)
+
+13	('verenigde', 1235) ('president', 914) ('staten', 803) ('amerikaanse', 793) ('landen', 706) ('oorlog', 598) ('land', 587) ('irak', 552) ('internationale', 524) ('naties', 519) ('regering', 481) ('organisatie', 390) ('sovjet-unie', 368) ('militaire', 339) ('cuba', 329) ('afrika', 302) ('afghanistan', 297) ('wereld', 294) ('china', 290) ('buitenlandse', 280)
+
+14	('romeinse', 1662) ('keizer', 1327) ('rome', 987) ('caesar', 682) ('v.chr', 661) ('rijk', 434) ('augustus', 426) ('senaat', 371) ('romeinen', 363) ('marcus', 363) ('claudius', 360) ('tiberius', 336) ('dood', 304) ('constantijn', 269) ('nero', 267) ('severus', 259) ('caligula', 247) ('zoon', 243) ('jaar', 228) ('julius', 226)
+
+15	('jezus', 1649) ('god', 1445) ('bijbel', 791) ('testament', 696) ('boek', 650) ('christus', 549) ('paulus', 525) ('joodse', 505) ('nieuwe', 504) ('christelijke', 475) ('christenen', 420) ('brief', 419) ('evangelie', 411) ('oude', 394) ('christendom', 385) ('tekst', 361) ('johannes', 360) ('boeken', 336) ('genoemd', 335) ('joden', 325)
+
+16	('gulden', 1664) ('procent', 1600) ('miljoen', 1535) ('aandelen', 1116) ('jaar', 898) ('amsterdam', 885) ('bank', 790) ('winst', 726) ('reuters', 544) ('limited', 535) ('aandeel', 531) ('miljard', 516) ('per', 509) ('reuter', 507) ('omzet', 476) ('beurs', 418) ('bedrijf', 373) ('verwacht', 360) ('redactie', 343) ('vorig', 337)
+
+17	('eeuw', 9273) ('grote', 2822) ('tijd', 2425) ('periode', 1992) ('rijk', 1969) ('geschiedenis', 1778) ('europa', 1730) ('oude', 1223) ('genoemd', 1214) ('kwamen', 1183) ('kwam', 1179) ('middeleeuwen', 1157) ('einde', 1007) ('belangrijke', 992) ('begin', 982) ('ontstond', 978) ('nieuwe', 971) ('cultuur', 968) ('eeuwen', 966) ('deel', 948)
+
+18	('auto', 665) ('motor', 471) ("auto's", 458) ('ford', 435) ('renault', 333) ('twee', 271) ('productie', 251) ('ruimte', 249) ('modellen', 228) ('vlucht', 224) ('daf', 218) ('gebouwd', 204) ('bmw', 202) ('gelanceerd', 199) ('motoren', 198) ('model', 195) ('fabriek', 194) ('armstrong', 186) ('merk', 185) ('voertuigen', 181)
+
+19	('italiaanse', 1039) ('italië', 791) ('rome', 533) ('florence', 370) ('renaissance', 367) ('italiaans', 320) ('milaan', 318) ('werken', 295) ('venetië', 293) ('jan', 287) ('werk', 286) ('dante', 269) ('napels', 239) ('san', 233) ('giovanni', 229) ('maria', 224) ('rogier', 214) ('stijl', 199) ('schilder', 192) ('pieter', 192)
+
+2	('aarde', 1981) ('zon', 1397) ('maan', 981) ('sterren', 752) ('mars', 647) ('planeet', 626) ('ster', 590) ('baan', 467) ('jaar', 463) ('sterrenbeeld', 429) ('planeten', 416) ('zien', 389) ('afstand', 377) ('atmosfeer', 362) ('massa', 353) ('jupiter', 349) ('twee', 335) ('zonnestelsel', 302) ('oppervlak', 281) ('heelal', 273)
+
+20	('zuid-afrika', 634) ('servië', 286) ('kroatië', 285) ('bosnië', 272) ('servische', 260) ('joegoslavië', 227) ('albanië', 213) ('mandela', 194) ('kosovo', 184) ('zuid-afrikaanse', 183) ('zwarte', 173) ('montenegro', 170) ('herzegovina', 168) ('republiek', 167) ('blanke', 159) ('belgrado', 157) ('zimbabwe', 152) ('sarajevo', 148) ('afrikaans', 147) ('slovenië', 145)
+
+21	('muziek', 1451) ('jazz', 606) ('dans', 549) ('ballet', 310) ('muzikanten', 242) ('dansen', 238) ('stijl', 228) ('dansers', 227) ('spelen', 226) ('muzikale', 183) ('blues', 182) ('stukken', 180) ('klassieke', 166) ('werk', 160) ('band', 159) ('soms', 158) ('groep', 157) ('horen', 155) ('ritme', 153) ('festival', 153)
+
+22	('jaar', 5764) ('christelijke', 2728) ('jaartelling', 2684) ('eeuw', 2595) ('v.chr', 1737) ('jaartal', 730) ('jaren', 195) ('hoofddorp', 167) ('gebeurtenissen', 126) ('haarlemmermeer', 114) ('decennium', 108) ('millennium', 106) ('bijlmer', 95) ('periode', 82) ('behoort', 68) ('bestaande', 66) ('aalsmeer', 53) ('bioscoopjournaal', 53) ('cruquius', 47) ('klompen', 45)
+
+23	('leger', 2878) ('oorlog', 1911) ('troepen', 1779) ('slag', 1382) ('militaire', 980) ('soldaten', 968) ('duitse', 967) ('aanval', 943) ('generaal', 808) ('twee', 721) ('franse', 687) ('duitsers', 615) ('man', 580) ('britse', 576) ('mei', 513) ('militairen', 513) ('strijd', 505) ('tanks', 504) ('wereldoorlog', 427) ('britten', 420)
+
+24	('wet', 1527) ('recht', 1013) ('raad', 735) ('rechter', 724) ('art', 626) ('beroep', 615) ('rechten', 447) ('rechtbank', 425) ('artikel', 405) ('hoge', 379) ('hof', 338) ('besluit', 338) ('zaak', 334) ('zaken', 330) ('wetboek', 328) ('lid', 328) ('grondwet', 303) ('openbaar', 300) ('bouterse', 286) ('uitspraak', 286)
+
+25	('v.chr', 886) ('egypte', 646) ('koning', 440) ('god', 348) ('tempel', 319) ('egyptische', 311) ('david', 292) ('mozes', 291) ('israël', 286) ('gevonden', 254) ('koningen', 249) ('farao', 245) ('naam', 233) ('tijd', 224) ('land', 215) ('jakob', 214) ('stad', 207) ('oude', 206) ('volk', 203) ('babylon', 202)
+
+26	('kamer', 1766) ('minister', 1725) ('tweede', 1674) ('kabinet', 1263) ('pvda', 935) ('voorzitter', 872) ('zaken', 822) ('partij', 817) ('vvd', 810) ('nederland', 767) ('cda', 727) ('nederlandse', 647) ('ministerie', 638) ('lid', 621) ('politiek', 619) ('raad', 592) ('burgemeester', 571) ('haag', 496) ('bestuur', 441) ('politieke', 408)
+
+27	('politie', 1343) ('moord', 677) ('justitie', 653) ('veroordeeld', 646) ('jaar', 572) ('twee', 543) ('gevangenis', 414) ('onderzoek', 410) ('dood', 396) ('proces', 381) ('drie', 379) ('mensen', 358) ('straf', 341) ('gevangenisstraf', 340) ('slachtoffers', 336) ('doodstraf', 330) ('aanslag', 328) ('rechtbank', 323) ('gearresteerd', 285) ('slachtoffer', 278)
+
+28	('element', 727) ('elementen', 585) ('elektronen', 518) ('atomen', 485) ('eigenschappen', 450) ('isotopen', 441) ('deeltjes', 367) ('twee', 345) ('bekend', 332) ('metaal', 321) ('metalen', 272) ('elektron', 272) ('atoom', 268) ('uranium', 262) ('neutronen', 261) ('energie', 254) ('komt', 244) ('straling', 241) ('massa', 216) ('ontdekking', 212)
+
+29	('sociale', 664) ('werknemers', 554) ('werk', 423) ('ring', 330) ('mensen', 272) ('tolkien', 252) ('werkgevers', 249) ('fnv', 239) ('werken', 217) ('werknemer', 200) ('vakbonden', 198) ('cao', 197) ('loon', 196) ('werkgever', 192) ('uitkering', 177) ('zorg', 165) ('werkloosheid', 162) ('midden-aarde', 156) ('melkert', 156) ('baan', 149)
+
+3	('nederlandse', 2408) ('amsterdam', 2304) ('nederland', 1840) ('jan', 844) ('haag', 808) ('krant', 799) ('jaren', 702) ('amsterdamse', 657) ('nederlands', 600) ('nieuwe', 534) ('verscheen', 471) ('dagblad', 449) ('rotterdam', 405) ('prijs', 398) ('willem', 376) ('stichting', 368) ('blad', 354) ('media', 351) ('jaar', 324) ('utrecht', 315)
+
+30	('stad', 14009) ('ligt', 3001) ('eeuw', 2648) ('inwoners', 2365) ('centrum', 2260) ('plaats', 1822) ('grote', 1768) ('grootste', 1758) ('aantal', 1343) ('twee', 1229) ('jaar', 1124) ('steden', 1089) ('naam', 1078) ('haven', 1062) ('oude', 1022) ('gevestigd', 1008) ('tweede', 983) ('gebouwd', 937) ('belangrijke', 923) ('gelegen', 892)
+
+31	('universiteit', 2385) ('studenten', 1076) ('vereniging', 652) ('leiden', 590) ('hoogleraar', 589) ('onderwijs', 560) ('onderzoek', 530) ('opleiding', 523) ('universiteiten', 483) ('nederland', 435) ('jaar', 419) ('instituut', 363) ('opgericht', 354) ('studie', 338) ('hogeschool', 330) ('nederlandse', 329) ('leden', 319) ('stichting', 302) ('delft', 301) ('lid', 287)
+
+32	('kerk', 3656) ('paus', 2225) ('katholieke', 1168) ('kerken', 881) ('heilige', 823) ('rome', 645) ('bisschop', 597) ('concilie', 542) ('kerkelijke', 537) ('pius', 490) ('rooms-katholieke', 475) ('johannes', 470) ('protestantse', 450) ('klooster', 413) ('geloof', 320) ('kardinaal', 320) ('christelijke', 319) ('bisschoppen', 318) ('orde', 305) ('paulus', 304)
+
+33	('europese', 2726) ('landen', 1269) ('unie', 1137) ('europa', 1071) ('verdrag', 748) ('economische', 661) ('euro', 545) ('europees', 510) ('lidstaten', 490) ('nederland', 445) ('nationale', 397) ('commissie', 384) ('bank', 375) ('land', 375) ('economie', 373) ('raad', 348) ('frankrijk', 337) ('duitsland', 318) ('beleid', 301) ('banken', 294)
+
+34	('soorten', 2885) ('soort', 782) ('insecten', 756) ('leven', 722) ('lichaam', 713) ('dieren', 637) ('komen', 590) ('kop', 545) ('bekend', 542) ('verschillende', 511) ('larven', 504) ('huid', 489) ('water', 475) ('spinnen', 470) ('meeste', 455) ('kikkers', 447) ('genoemd', 433) ('hagedissen', 427) ('sterk', 406) ('aantal', 397)
+
+35	('water', 825) ('soorten', 727) ('vis', 658) ('vissen', 494) ('jaar', 367) ('grote', 362) ('dieren', 329) ('soort', 254) ('zee', 227) ('wateren', 226) ('schelp', 218) ('gevonden', 213) ('zoogdieren', 208) ('leven', 203) ('fossielen', 199) ('planten', 194) ('miljoen', 189) ('mens', 186) ('waarschijnlijk', 186) ('nautilus', 185)
+
+36	('dag', 1787) ('jaar', 1782) ('radio', 1390) ('dagen', 1166) ('kalender', 841) ('uur', 797) ('ste', 676) ('januari', 571) ('einde', 552) ('omroep', 543) ('gregoriaanse', 512) ('programma', 483) ('volgen', 482) ('hierna', 448) ('september', 434) ('zender', 420) ('televisie', 414) ('maart', 408) ('schrikkeljaar', 400) ('veronica', 397)
+
+37	('kinderen', 1848) ('onderwijs', 1015) ('school', 982) ('scholen', 681) ('ouders', 589) ('leerlingen', 530) ('kind', 464) ('jaar', 417) ('jongeren', 408) ('nederland', 407) ('leren', 321) ('groep', 212) ('sociale', 200) ('basisschool', 191) ('nederlandse', 165) ('jongens', 162) ('opleiding', 155) ('voortgezet', 152) ('leerling', 152) ('klas', 149)
+
+38	('islam', 688) ('islamitische', 684) ('turkse', 610) ('india', 610) ('iran', 596) ('mohammed', 580) ('arabische', 542) ('ali', 535) ('turkije', 508) ('moslims', 494) ('arabisch', 311) ('perzische', 283) ('indiase', 279) ('koran', 278) ('marokko', 277) ('ibn', 270) ('iraanse', 235) ('azerbeidzjan', 232) ('khan', 228) ('mekka', 227)
+
+39	('via', 590) ('internet', 582) ('netwerk', 446) ('informatie', 388) ('mobiele', 358) ('kpn', 352) ('apple', 350) ('digitale', 328) ('gebruik', 285) ('computer', 275) ('telefoon', 264) ('gebruikt', 255) ('e-mail', 239) ('bericht', 205) ('sleutel', 200) ('ptt', 190) ('sony', 180) ('berichten', 173) ('gegevens', 170) ('verbinding', 170)
+
+4	('roemenië', 415) ('indonesië', 362) ('hongarije', 360) ('hongaarse', 340) ('kruis', 249) ('paard', 222) ('indonesische', 214) ('roemeense', 211) ('java', 199) ('donau', 186) ('nederlands-indië', 164) ('moldavië', 155) ('paarden', 151) ('ijzeren', 150) ('transsylvanië', 141) ('hongaren', 140) ('indische', 125) ('orde', 124) ('hongaars', 119) ('boekarest', 115)
+
+40	('jaar', 2946) ('miljoen', 2409) ('bedrijf', 2311) ('nieuwe', 1695) ('procent', 1596) ('bedrijven', 1588) ('gulden', 1429) ('miljard', 1369) ('per', 1232) ('geld', 1197) ('nederland', 1142) ('jaren', 1052) ('markt', 1049) ('kosten', 930) ('grote', 858) ('overheid', 829) ('duizend', 742) ('nederlandse', 721) ('verkocht', 692) ('grootste', 682)
+
+41	('jaar', 5673) ('vader', 3949) ('kreeg', 3535) ('zoon', 2916) ('geboren', 2884) ('leven', 2596) ('ging', 2430) ('leeftijd', 2143) ('moeder', 2074) ('twee', 2057) ('kinderen', 2007) ('vrouw', 1889) ('dood', 1885) ('familie', 1879) ('samen', 1852) ('overleed', 1816) ('bekend', 1783) ('kwam', 1755) ('dochter', 1687) ('maakte', 1620)
+
+42	('boek', 3111) ('roman', 1290) ('schrijver', 1180) ('boeken', 1084) ('verhaal', 969) ('schrijven', 914) ('werk', 872) ('verhalen', 869) ('literatuur', 781) ("pagina's", 767) ('leven', 767) ('isbn', 727) ('lezer', 708) ('literaire', 674) ('geschreven', 596) ('schreef', 595) ('gedichten', 574) ('dichter', 559) ('auteur', 538) ('romans', 508)
+
+43	('water', 976) ('lucht', 880) ('temperatuur', 858) ('wind', 533) ('graden', 376) ('druk', 333) ('warmte', 304) ('hoogte', 294) ('nederland', 291) ('gas', 284) ('atmosfeer', 281) ('ijs', 272) ('regen', 269) ('neerslag', 265) ('afval', 255) ('hoeveelheid', 251) ('komt', 246) ('winter', 240) ('koude', 236) ('per', 231)
+
+44	('gebruikt', 2457) ('gemaakt', 1141) ('meestal', 1034) ('maken', 863) ('gebruik', 829) ('twee', 803) ('zodat', 662) ('materiaal', 610) ('hout', 607) ('waardoor', 567) ('vorm', 561) ('bestaat', 555) ('elkaar', 552) ('waarbij', 534) ('papier', 506) ('kleine', 504) ('soms', 498) ('verschillende', 457) ('genoemd', 455) ('voorzien', 453)
+
+45	('nederland', 5232) ('gebruikt', 3871) ('één', 3453) ('aantal', 3351) ('genoemd', 3025) ('meestal', 2666) ('naam', 2624) ('staat', 2616) ('twee', 2511) ('verschillende', 2487) ('per', 2337) ('nederlandse', 2282) ('bestaat', 2165) ('belgië', 2074) ('landen', 1929) ('meeste', 1865) ('soms', 1825) ('waarbij', 1763) ('lijst', 1750) ('komt', 1729)
+
+46	('spanje', 397) ('spaanse', 383) ('barcelona', 335) ('praag', 332) ('tsjechische', 231) ('franco', 220) ('canada', 219) ('tsjechië', 218) ('madrid', 182) ('catalonië', 164) ('montreal', 162) ('pokémon', 156) ('valencia', 143) ('bohemen', 140) ('catalaans', 131) ('cambodja', 131) ('toronto', 111) ('canadese', 105) ('tsjechisch', 105) ('catalaanse', 103)
+
+47	('china', 1143) ('chinese', 1033) ('japan', 887) ('japanse', 772) ('provincie', 757) ('thailand', 722) ('vietnam', 440) ('boeddhisme', 367) ('koning', 364) ('hongkong', 358) ('lama', 334) ('naam', 317) ('tibet', 299) ('bangkok', 294) ('dalai', 285) ('peking', 284) ('boeddhistische', 253) ('thaise', 252) ('keizer', 233) ('sri', 218)
+
+48	('programma', 666) ('theater', 592) ('festival', 473) ('nederlandse', 453) ('liedjes', 368) ('lied', 352) ('publiek', 352) ('jaar', 349) ('show', 338) ('samen', 332) ('musical', 331) ('voorstelling', 328) ('amsterdam', 302) ('toneel', 293) ('speelde', 286) ('zien', 281) ('rol', 268) ('leeuw', 263) ('seizoen', 262) ('nederland', 247)
+
+49	('britse', 1592) ('londen', 1329) ('engeland', 1315) ('the', 912) ('engelse', 906) ('george', 647) ('ierland', 636) ('koninkrijk', 574) ('john', 547) ('verenigd', 466) ('ierse', 460) ('schotland', 423) ('wales', 421) ('engels', 404) ('groot-brittannië', 370) ('elizabeth', 352) ('royal', 338) ('koningin', 317) ('victoria', 309) ('william', 307)
+
+5	('album', 4358) ('nummer', 2620) ('band', 2572) ('single', 1639) ('nummers', 1198) ('the', 999) ('uitgebracht', 994) ('groep', 934) ('hit', 927) ('nieuwe', 882) ('jaar', 841) ('kwam', 800) ('albums', 726) ('succes', 695) ('top', 659) ('samen', 656) ('verscheen', 642) ('nederland', 628) ('twee', 595) ('hits', 560)
+
+50	('film', 3313) ('films', 1501) ('the', 1365) ('serie', 866) ('rol', 828) ('speelde', 512) ('acteur', 499) ('regisseur', 435) ('beste', 428) ('verhaal', 373) ('actrice', 336) ('zien', 328) ('disney', 327) ('personages', 312) ('speelt', 310) ('personage', 290) ('hoofdrol', 288) ('acteurs', 286) ('hollywood', 284) ('twee', 261)
+
+51	('formula', 2252) ('getallen', 1370) ('getal', 1067) ('twee', 770) ('verzameling', 605) ('functie', 478) ('wiskunde', 424) ('wiskundige', 410) ('stelling', 379) ('aantal', 350) ('genoemd', 321) ('punt', 291) ('cijfers', 284) ('ruimte', 275) ('waarde', 273) ('gebruikt', 271) ('elementen', 270) ('definitie', 265) ('bewijs', 255) ('voorbeeld', 250)
+
+52	('dna', 678) ('cellen', 569) ('cel', 454) ('ziekte', 389) ('virus', 388) ('organismen', 348) ('twee', 327) ('genetische', 307) ('bacteriën', 297) ('gen', 282) ('eiwitten', 281) ('organisme', 265) ('genen', 261) ('genoemd', 254) ('dieren', 217) ('bacterie', 213) ('mens', 208) ('genetisch', 207) ('virussen', 206) ('planten', 194)
+
+53	('mens', 1512) ('filosofie', 890) ('wereld', 720) ('leven', 711) ('kennis', 706) ('god', 566) ('geest', 548) ('mensen', 540) ('denken', 471) ('religie', 418) ('bestaan', 409) ('filosoof', 404) ('natuur', 386) ('menselijke', 384) ('ideeën', 360) ('wetenschap', 348) ('geloof', 347) ('ziel', 340) ('staat', 313) ('begrip', 312)
+
+54	('willem', 1866) ('nederlanden', 1689) ('prins', 1109) ('republiek', 1095) ('holland', 873) ('spaanse', 852) ('nederlandse', 843) ('oranje', 759) ('maurits', 639) ('spanje', 513) ('stadhouder', 509) ('frederik', 500) ('koningin', 479) ('haag', 446) ('prinses', 431) ('stad', 405) ('filips', 392) ('oorlog', 388) ('staten-generaal', 382) ('koning', 367)
+
+55	('griekse', 710) ('god', 674) ('goden', 641) ('godin', 640) ('mythologie', 617) ('zeus', 364) ('koning', 295) ('naam', 290) ('tempel', 284) ('zoon', 267) ('mythe', 255) ('odysseus', 245) ('aphrodite', 240) ('magie', 239) ('athena', 238) ('grieken', 234) ('oude', 208) ('aarde', 203) ('troje', 198) ('achilles', 196)
+
+56	('jaar', 2121) ('laten', 1538) ('gaan', 1383) ('zaken', 1343) ('staat', 1270) ('regering', 1253) ('twee', 1243) ('komen', 1198) ('maken', 1194) ('mensen', 1056) ('stellen', 1052) ('nemen', 1036) ('houden', 1029) ('krijgen', 1014) ('kritiek', 990) ('willen', 945) ('nieuwe', 944) ('politieke', 890) ('brengen', 874) ('gehouden', 867)
+
+57	('dieren', 1497) ('vogels', 972) ('jaar', 958) ('grote', 863) ('komt', 709) ('zwarte', 693) ('voedsel', 688) ('jongen', 672) ('soort', 670) ('dier', 608) ('meestal', 590) ('vogel', 587) ('nederland', 583) ('soorten', 505) ('kleine', 503) ('mannetjes', 498) ('twee', 459) ('witte', 451) ('vrouwtje', 439) ('mannetje', 433)
+
+58	('eiland', 2191) ('zee', 1078) ('eilanden', 1055) ('meter', 1007) ('ligt', 878) ('oceaan', 817) ('grote', 815) ('jaar', 790) ('deel', 605) ('noorden', 585) ('kust', 555) ('genoemd', 495) ('berg', 477) ('klimaat', 471) ('kilometer', 457) ('gebied', 427) ('grootste', 422) ('park', 416) ('zuiden', 409) ('liggen', 388)
+
+59	('duitse', 2315) ('duitsland', 1593) ('berlijn', 759) ('polen', 700) ('von', 605) ('duits', 590) ('poolse', 555) ('pruisen', 542) ('zwitserland', 515) ('oostenrijk', 448) ('ddr', 414) ('keulen', 349) ('wenen', 305) ('deelstaat', 296) ('frankfurt', 292) ('zwitserse', 290) ('frederik', 266) ('hamburg', 262) ('pruisische', 252) ('bondsrepubliek', 244)
+
+6	('ronde', 700) ('tour', 588) ('wedstrijd', 477) ('jaar', 411) ('keer', 300) ('wedstrijden', 291) ('won', 280) ('renners', 275) ('elfstedentocht', 273) ('kilometer', 272) ('fiets', 257) ('rijden', 252) ('twee', 247) ('sport', 231) ('frankrijk', 216) ('reed', 189) ('etappe', 189) ('ploeg', 184) ('wielrennen', 178) ('winnaar', 173)
+
+60	('spel', 860) ('kleur', 652) ('speler', 647) ('punten', 563) ('kleuren', 513) ('spelers', 504) ('bal', 435) ('kaarten', 425) ('rood', 403) ('gespeeld', 394) ('spelen', 361) ('groen', 360) ('kaart', 317) ('twee', 309) ('geel', 279) ('blauw', 275) ('wit', 274) ('spellen', 215) ('tegenstander', 187) ('rode', 164)
+
+61	('spaanse', 817) ('spanje', 703) ('mexico', 522) ('portugal', 412) ('brazilië', 390) ('spaans', 348) ('verhalen', 321) ('spanjaarden', 287) ('juan', 277) ('portugese', 261) ('columbus', 249) ('strip', 243) ('san', 238) ('argentinië', 237) ('donald', 237) ('wiske', 236) ('duck', 229) ('reeks', 225) ('mexicaanse', 210) ('santa', 207)
+
+62	('club', 1645) ('seizoen', 1057) ('voetbal', 811) ('ajax', 710) ('spelers', 694) ('jaar', 694) ('wedstrijd', 614) ('twee', 610) ('clubs', 561) ('ploeg', 538) ('psv', 531) ('trainer', 516) ('cruijff', 503) ('stadion', 453) ('wedstrijden', 450) ('league', 437) ('speelde', 405) ('feyenoord', 360) ('competitie', 351) ('spelen', 309)
+
+63	('gemeente', 5080) ('dorp', 1342) ('gemeenten', 1039) ('utrecht', 969) ('provincie', 858) ('inwoners', 790) ('januari', 755) ('naam', 750) ('deel', 737) ('nieuwe', 672) ('gebied', 612) ('oude', 604) ('voormalige', 592) ('rotterdam', 568) ('wijk', 546) ('plaats', 517) ('ligt', 499) ('arnhem', 473) ('rijn', 463) ('per', 458)
+
+64	('taal', 2818) ('talen', 2064) ('woord', 1595) ('woorden', 1156) ('gebruikt', 1028) ('nederlands', 1012) ('gesproken', 819) ('geschreven', 604) ('dialecten', 557) ('letters', 521) ('alfabet', 488) ('betekenis', 454) ('engels', 449) ('twee', 441) ('nederlandse', 393) ('spelling', 393) ('gebruik', 369) ('latijn', 351) ('vorm', 345) ('uitspraak', 343)
+
+65	('mensen', 1106) ('ziekte', 894) ('behandeling', 831) ('lichaam', 740) ('onderzoek', 639) ('patiënt', 573) ('bloed', 571) ('patiënten', 525) ('hersenen', 483) ('symptomen', 475) ('arts', 428) ('meestal', 422) ('medische', 416) ('gevallen', 399) ('pijn', 386) ('veroorzaakt', 369) ('gebruik', 345) ('middel', 342) ('oorzaak', 327) ('middelen', 321)
+
+66	('israël', 1697) ('israëlische', 1016) ('palestijnse', 803) ('arabische', 738) ('egypte', 580) ('palestina', 505) ('palestijnen', 425) ('joodse', 386) ('syrië', 381) ('westelijke', 343) ('egyptische', 323) ('libanon', 300) ('jeruzalem', 299) ('staat', 289) ('jordanië', 268) ('arafat', 268) ('hamas', 264) ('syrische', 258) ('joden', 242) ('president', 238)
+
+67	('leven', 2310) ('man', 1709) ('verhaal', 1465) ('dood', 1404) ('komt', 1365) ('vrouw', 1364) ('gaat', 986) ('zien', 930) ('liefde', 904) ('terug', 862) ('gaan', 834) ('laat', 825) ('moeder', 778) ('kinderen', 732) ('twee', 722) ('waarin', 718) ('mannen', 701) ('vader', 695) ('komen', 664) ('kind', 663)
+
+68	('gemeente', 3262) ('provincie', 986) ('deelgemeenten', 940) ('zetels', 909) ('ligt', 838) ('inwoners', 772) ('telt', 760) ('huidige', 714) ('januari', 682) ('fusie', 670) ('ontstaan', 641) ('coalitie', 637) ('kernen', 627) ('gegevens', 620) ('meerderheid', 605) ('burgemeester', 603) ('plaats', 571) ('bestuur', 554) ('bestaat', 552) ('inclusief', 549)
+
+69	('vrouwen', 1549) ('mannen', 758) ('vrouw', 713) ('kind', 431) ('seksuele', 401) ('man', 310) ('moeder', 305) ('kinderen', 289) ('zwangerschap', 259) ('baby', 240) ('seksueel', 219) ('vrouwelijke', 218) ('seks', 203) ('meisjes', 201) ('mannelijke', 178) ('abortus', 178) ('geslacht', 160) ('borsten', 157) ('borstvoeding', 152) ('leeftijd', 149)
+
+7	('index', 1100) ('amsterdam', 658) ('slot', 493) ('historisch', 482) ('akx', 425) ('kempen', 352) ('fund', 351) ('cbs/stroeve', 337) ('fax', 273) ('nederlandse', 271) ('reuter', 266) ('reuters', 260) ('vastned', 258) ('redactie', 257) ('hoogtepunt', 255) ('vindt', 254) ('limited', 253) ('city', 249) ('property', 248) ('convertible', 242)
+
+70	('amerikaanse', 2532) ('staten', 2310) ('new', 2053) ('verenigde', 1840) ('york', 1408) ('staat', 1406) ('president', 753) ('washington', 739) ('the', 597) ('amerika', 552) ('john', 530) ('californië', 471) ('dollar', 433) ('national', 415) ('george', 394) ('amerikaans', 390) ('san', 389) ('bush', 345) ('huis', 336) ('kennedy', 324)
+
+71	('vogels', 605) ('dinosauriërs', 491) ('schedel', 432) ('tanden', 415) ('dier', 392) ('gevonden', 339) ('soort', 315) ('groep', 307) ('soorten', 298) ('skelet', 280) ('twee', 278) ('fossielen', 266) ('lange', 253) ('vermoedelijk', 244) ('staart', 244) ('fossiel', 240) ('grote', 239) ('tyrannosaurus', 236) ('botten', 224) ('archaeopteryx', 222)
+
+72	('kwam', 8030) ('nieuwe', 7070) ('grote', 6595) ('jaren', 6357) ('ging', 4808) ('tweede', 4567) ('kreeg', 4267) ('tijd', 4256) ('laatste', 4080) ('aantal', 3954) ('plaats', 3818) ('begin', 3751) ('drie', 3711) ('maakte', 3513) ('uiteindelijk', 3390) ('deel', 3181) ('begon', 3104) ('terug', 3018) ('bleef', 3015) ('nam', 2960)
+
+73	('gebouw', 1801) ('gebouwd', 1626) ('eeuw', 1195) ('staat', 1066) ('huis', 962) ('toren', 915) ('bouw', 890) ('museum', 888) ('meter', 885) ('twee', 827) ('gebouwen', 821) ('oude', 815) ('kerk', 785) ('architect', 708) ('plaats', 680) ('kasteel', 621) ('grote', 619) ('nieuwe', 610) ('ontwerp', 604) ('bouwen', 583)
+
+74	('the', 7750) ('jaren', 1752) ('and', 1494) ('new', 849) ('john', 687) ('amerikaanse', 595) ('muziek', 556) ('for', 511) ('rock', 403) ('york', 388) ('you', 385) ('that', 345) ('black', 340) ('jones', 328) ('with', 328) ('bands', 298) ('james', 297) ('who', 281) ('all', 276) ('house', 274)
+
+75	('schepen', 1668) ('schip', 1570) ('vloot', 572) ('zee', 525) ('marine', 454) ('kust', 414) ('reis', 371) ('haven', 366) ('boord', 358) ('nederlandse', 356) ('voc', 353) ('water', 326) ('twee', 287) ('varen', 286) ('boot', 282) ('eiland', 266) ('compagnie', 266) ('engelse', 260) ('kapitein', 254) ('bemanning', 252)
+
+76	('koning', 5182) ('karel', 2091) ('keizer', 1690) ('hendrik', 1469) ('lodewijk', 1450) ('zoon', 1256) ('iii', 1070) ('frankrijk', 1050) ('hertog', 987) ('rijk', 925) ('dood', 779) ('macht', 772) ('graaf', 765) ('willem', 743) ('filips', 686) ('engeland', 680) ('titel', 644) ('troon', 630) ('franse', 613) ('koninkrijk', 527)
+
+77	('theorie', 983) ('onderzoek', 748) ('wetenschappelijke', 631) ('wetenschap', 616) ('natuurkunde', 536) ('werk', 488) ('wiskunde', 349) ('einstein', 344) ('wiskundige', 332) ('newton', 318) ('darwin', 318) ('natuurkundige', 302) ('wet', 258) ('experimenten', 255) ('gedrag', 249) ('universiteit', 243) ('theorieën', 239) ('ontwikkeling', 232) ('publiceerde', 231) ('wetenschappelijk', 227)
+
+78	('land', 4938) ('bevolking', 3232) ('gebied', 2440) ('grootste', 1669) ('deel', 1641) ('jaar', 1516) ('miljoen', 1498) ('inwoners', 1468) ('staat', 1305) ('hoofdstad', 1294) ('zuiden', 1174) ('republiek', 1089) ('noorden', 1081) ('steden', 1062) ('taal', 1027) ('grote', 1019) ('belangrijkste', 1007) ('economie', 954) ('mensen', 927) ('gebieden', 920)
+
+79	('dolmen', 571) ('atlas', 174) ('odin', 167) ('sinterklaas', 166) ('thor', 153) ('ijsland', 152) ('bekend', 150) ('genoemd', 143) ('couverte', 140) ('kaarten', 133) ('allée', 127) ('feest', 124) ('carnaval', 124) ('dolmens', 116) ('grafheuvels', 115) ('grafheuvel', 110) ('loki', 110) ('gevierd', 109) ('pierre', 107) ('germaanse', 103)
+
+8	('partij', 4089) ('politieke', 2245) ('verkiezingen', 2184) ('regering', 1807) ('parlement', 1308) ('partijen', 1292) ('politiek', 1253) ('president', 1181) ('macht', 1021) ('stemmen', 1012) ('leden', 964) ('grondwet', 774) ('premier', 671) ('lid', 668) ('democratische', 662) ('gekozen', 648) ('zetels', 644) ('communistische', 635) ('meerderheid', 607) ('socialistische', 601)
+
+80	('vliegtuig', 593) ('vliegtuigen', 590) ('vliegveld', 505) ('toestel', 493) ('luchthaven', 458) ('boeing', 405) ('schiphol', 396) ('air', 377) ('fokker', 362) ('toestellen', 341) ('klm', 304) ('luchtmacht', 290) ('vliegen', 286) ('vlucht', 270) ('passagiers', 243) ('airbus', 218) ('luchtvaart', 213) ('airport', 208) ('koninklijke', 205) ('militaire', 192)
+
+81	('planten', 982) ('plant', 935) ('gebruikt', 666) ('bladeren', 552) ('nederland', 483) ('soorten', 440) ('boom', 434) ('bloemen', 404) ('bomen', 361) ('komt', 301) ('smaak', 301) ('vruchten', 301) ('naam', 300) ('eten', 293) ('soort', 289) ('groeien', 271) ('gegeten', 270) ('grond', 269) ('brood', 264) ('rassen', 258)
+
+82	('duitse', 1999) ('hitler', 1721) ('duitsland', 1608) ('oorlog', 887) ('wereldoorlog', 832) ('von', 698) ('göring', 551) ('duitsers', 543) ("nazi's", 363) ('wilhelm', 318) ('joden', 306) ('mussolini', 304) ('rijk', 298) ('berlijn', 288) ('adolf', 271) ('frankrijk', 271) ('italië', 267) ('geallieerden', 252) ('hitlers', 247) ('sovjet-unie', 243)
+
+83	('water', 1451) ('gebruikt', 1276) ('stof', 936) ('stoffen', 904) ('chemische', 630) ('zuurstof', 493) ('reactie', 427) ('organische', 376) ('komt', 361) ('mengsel', 354) ('vloeistof', 342) ('concentratie', 327) ('proces', 321) ('gebruik', 307) ('oplossing', 305) ('vorm', 300) ('kleur', 299) ('hoeveelheid', 291) ('ontstaat', 285) ('temperatuur', 279)
+
+84	('verschillende', 3529) ('vorm', 2844) ('elkaar', 2815) ('maken', 2803) ('vormen', 2608) ('bepaalde', 2417) ('tijd', 2389) ('grote', 2353) ('soms', 2336) ('gaat', 2325) ('gebruikt', 2295) ('goed', 2249) ('plaats', 2189) ('waarbij', 2180) ('waarin', 2166) ('aantal', 2159) ('rol', 2035) ('ontstaan', 1974) ('mensen', 1967) ('manier', 1895)
+
+85	('rijk', 1488) ('griekse', 1059) ('v.chr', 1028) ('griekenland', 697) ('byzantijnse', 628) ('zee', 608) ('stad', 597) ('grieks', 486) ('grieken', 436) ('turkse', 434) ('romeinse', 430) ('turkije', 429) ('constantinopel', 425) ('eiland', 404) ('athene', 397) ('ottomaanse', 377) ('alexander', 357) ('hoofdstad', 328) ('middellandse', 326) ('cyprus', 317)
+
+86	('mensen', 3415) ('zegt', 3170) ('goed', 2895) ('jaar', 2871) ('gaat', 2598) ('gaan', 2575) ('heel', 2292) ('mee', 1732) ('weet', 1726) ("zo'n", 1672) ('komen', 1620) ('maken', 1607) ('foto', 1571) ('tijd', 1455) ('komt', 1454) ('zit', 1417) ('zeggen', 1387) ('echt', 1291) ('twee', 1285) ('willen', 1228)
+
+87	('muziek', 1744) ('componist', 735) ('opera', 700) ('instrument', 572) ('bach', 559) ('orkest', 488) ('mozart', 481) ('piano', 441) ('componisten', 379) ('toon', 377) ('muzikale', 346) ('symfonie', 313) ('instrumenten', 310) ('beethoven', 303) ('dirigent', 293) ('volkslied', 279) ('johann', 270) ('klank', 264) ('tonen', 262) ('snaren', 262)
+
+88	('energie', 951) ('elektrische', 915) ('snelheid', 787) ('licht', 716) ('geluid', 647) ('stroom', 587) ('spanning', 545) ('frequentie', 533) ('twee', 475) ('kracht', 472) ('gebruikt', 457) ('per', 452) ('signaal', 403) ('veld', 388) ('magnetische', 362) ('temperatuur', 356) ('formula', 355) ('vermogen', 351) ('golflengte', 334) ('afstand', 330)
+
+89	('lijn', 1511) ('station', 1081) ('rijden', 854) ('trein', 799) ('vervoer', 767) ('bussen', 690) ('treinen', 688) ('lijnen', 629) ('nieuwe', 591) ('trams', 579) ('tram', 557) ('amsterdam', 524) ('dienst', 474) ('twee', 472) ('openbaar', 457) ('per', 449) ('december', 448) ('bus', 435) ('reizigers', 425) ('spoor', 414)
+
+9	('foto', 2938) ('lijkt', 1697) ('laat', 1415) ('nieuwe', 1394) ('laatste', 1382) ('jaren', 1306) ('twee', 1285) ('vraag', 1264) ('jaar', 1262) ('wereld', 1254) ('maakt', 1110) ('grote', 1089) ('zien', 1083) ('maken', 1017) ('goed', 1013) ('staat', 1008) ('geeft', 986) ('waarin', 960) ('blijft', 938) ('hand', 896)
+
+90	('franse', 2930) ('frankrijk', 1962) ('parijs', 1794) ('napoleon', 710) ('frans', 691) ('les', 390) ('pierre', 363) ('jean', 352) ('louis', 306) ('fransen', 277) ('jacques', 274) ('charles', 240) ('revolutie', 240) ('parijse', 223) ('françois', 220) ('jeanne', 208) ('rousseau', 187) ('henri', 162) ('lodewijk', 159) ('mitterrand', 154)
+
+91	('won', 1148) ('jaar', 1048) ('olympische', 906) ('finale', 898) ('spelen', 744) ('meter', 673) ('seizoen', 577) ('twee', 572) ('ronde', 522) ('open', 522) ('toernooi', 495) ('tweede', 479) ('plaats', 453) ('keer', 441) ('derde', 430) ('team', 420) ('grand', 377) ('verloor', 371) ('sport', 369) ('drie', 349)
+
+92	('joden', 1067) ('joodse', 851) ('haarlem', 439) ('kamp', 405) ('auschwitz', 391) ('oorlog', 373) ('nederland', 315) ('amsterdam', 236) ('gevangenen', 231) ('hilversum', 227) ('tweede', 199) ('wereldoorlog', 199) ('verzet', 197) ('duitse', 192) ('amersfoort', 169) ('nederlandse', 164) ('mensen', 163) ('frank', 144) ('duitsers', 142) ('breda', 138)
+
+93	('jan', 998) ('peter', 472) ('paul', 334) ('smit', 331) ('vries', 327) ('willem', 289) ('wim', 249) ('serie', 231) ('henk', 216) ('johan', 199) ('frank', 190) ('kees', 184) ('rob', 184) ('jaap', 183) ('herman', 178) ('veen', 162) ('mulder', 157) ('nederlandse', 151) ('joop', 148) ('cor', 146)
+
+94	('water', 1720) ('rivier', 1415) ('gebied', 1151) ('nederland', 754) ('langs', 691) ('natuur', 631) ('kanaal', 609) ('rijn', 543) ('via', 542) ('meter', 515) ('deel', 480) ('landschap', 454) ('grote', 446) ('ligt', 440) ('aanleg', 428) ('dijk', 426) ('bos', 414) ('park', 410) ('zee', 407) ('aangelegd', 383)
+
+95	('wijn', 436) ('bier', 219) ('heineken', 201) ('venlo', 184) ('wijnen', 156) ('fles', 145) ('brouwerij', 138) ('stravinsky', 135) ('druiven', 132) ('horst', 119) ('peper', 116) ('champagne', 113) ('district', 100) ('grave', 98) ('witte', 89) ('cuijk', 83) ('baarlo', 83) ('tegelen', 81) ('coca-cola', 79) ('wijngaarden', 76)
+
+96	('limburg', 899) ('maastricht', 769) ('nederland', 599) ('nederlandse', 571) ('maas', 529) ('sint', 457) ('luxemburg', 423) ('belgië', 390) ('luik', 345) ('vlag', 334) ('curaçao', 310) ('nederlanden', 297) ('provincie', 285) ('limburgs', 275) ('aruba', 273) ('gemeente', 268) ('deel', 263) ('duitse', 254) ('roermond', 251) ('nederlands', 250)
+
+97	('lens', 229) ('post', 187) ('beeld', 182) ('oog', 178) ('licht', 171) ('camera', 148) ('foto', 133) ('fotografie', 103) ('lenzen', 103) ("foto's", 92) ('kafka', 86) ('jedi', 75) ('film', 75) ('objectief', 75) ('tnt', 72) ('kegeltjes', 67) ('microscoop', 66) ('digitale', 66) ('zien', 64) ('postnl', 63)
+
+98	('kunst', 1966) ('werk', 1892) ('museum', 1478) ('schilderijen', 1010) ('kunstenaars', 916) ('tentoonstelling', 875) ('werken', 807) ('kunstenaar', 771) ('schilderij', 679) ('schilder', 590) ('zien', 480) ('collectie', 452) ('expositie', 452) ('stijl', 450) ('tekeningen', 408) ('schilderkunst', 405) ('schilders', 387) ('art', 384) ('schilderen', 368) ('maakte', 359)
+
+99	('werk', 3004) ('schreef', 1573) ('boek', 1468) ('werken', 1385) ('tijd', 871) ('geschreven', 856) ('boeken', 850) ('eeuw', 814) ('grote', 755) ('tekst', 667) ('teksten', 612) ('literatuur', 611) ('verscheen', 604) ('leven', 594) ('waarin', 551) ('periode', 534) ('twee', 530) ('deel', 530) ('bekend', 518) ('schrijver', 518)
+
